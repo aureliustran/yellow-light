@@ -462,7 +462,7 @@ Anh nhìn cái tên *Chủ tọa* nằm ngay dưới cuộc trò chuyện với 
 
 *Vũ Béo: chụp màn hình t duyệt*
 
-*k*
+*k. riêng tư của chủ tọa, m không đủ tư cách dự thính*
 
 Anh mở lại cuộc trò chuyện với cô, nhìn câu mình vừa gửi. *Lần sau em ngồi ghế đại biểu, anh làm chủ tọa xem.* Không phải giọng tổng đài. Lần này Vũ đoán sai.
 

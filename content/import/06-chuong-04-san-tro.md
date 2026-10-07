@@ -16,11 +16,11 @@ Thuyên đến muộn mười lăm phút. Vũ đã đứng sẵn dưới rổ, �
 
 "Ông nội đến rồi đấy à. Tưởng mày bận viết sớ dâng vua."
 
-"Viết bài phát biểu."
+"Bài phát biểu, mày. Sớ thì phải có vua, tao viết cho ban tổ chức."
 
 "Ừ thì đấy. Sớ." Vũ chuyền bóng. "Viết xong chưa?"
 
-"Xong cái tiêu đề."
+"Xong cái tiêu đề. Mất có hai ngày, năng suất đấy."
 
 "Đỉnh. Tiêu đề là gì?"
 
@@ -46,7 +46,7 @@ Thằng năm nhất vào sân, căng thẳng thấy rõ, chân đứng như đó
 
 Thuyên nhìn nó. Vai nhô lên. Cứ hai giây lại liếc về phía anh rồi liếc đi. Tay chùi vào quần mấy lần dù chưa chạm bóng.
 
-"Em tên gì?"
+"Em tên gì? Anh hỏi để lát còn biết đường gọi mà chuyền."
 
 "Dạ… Hưng ạ."
 
@@ -78,19 +78,19 @@ Mẹ gọi điện tối thứ Tư và tối Chủ nhật, đúng tám giờ, nh
 
 "[[ht: Ăn chi chưa? || Ăn gì chưa?]]"
 
-"Dạ rồi ạ."
+"Dạ rồi ạ. Con vừa ăn xong."
 
 "[[ht: Ăn chi? || Ăn gì?]]"
 
-"Dạ… cơm với trứng."
+"Dạ… cơm với trứng. Trứng rán, mạ, con rán không bị cháy nữa rồi."
 
 "Lại trứng. Tiền còn không? Hết thì nói, đừng có nhịn."
 
-"Dạ còn."
+"Dạ còn ạ. Con tiêu vẫn đủ đến cuối tháng."
 
 "[[ht: Học hành răng rồi? || Học hành thế nào rồi?]]"
 
-"Dạ bình thường ạ."
+"Dạ bình thường ạ. Con vẫn theo kịp các bạn."
 
 "[[ht: Bình thường là răng? || Bình thường là thế nào?]] Bình thường là nhất hay là nhì?"
 
@@ -264,7 +264,7 @@ Thuyên ngồi xuống cạnh Vũ. Mấy bà đi bộ đã về hết. Cái loa 
 
 "Thầy nào?"
 
-"Thầy dạy Tin hồi cấp ba."
+"Thầy dạy Tin hồi cấp ba. Uống trà còn nhiều hơn mày uống nước có ga."
 
 "Thầy làm gì?"
 
@@ -294,7 +294,11 @@ Trên điện thoại, Vũ gửi một tấm ảnh chụp cái quần ướt c�
 
 *Vũ Béo: đây là cái giá của việc chơi vs idol*
 
-Thuyên gõ lại: *đi ngủ đi vua hợi*
+Thuyên gõ lại:
+
+*idol k bảo hành quần*
+
+*đi ngủ đi vua hợi*
 
 ---
 

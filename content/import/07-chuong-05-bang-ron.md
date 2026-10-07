@@ -10,7 +10,7 @@ Thuyên ngồi ở góc bàn, xem lại slide workshop của Ngọc Anh. Phần 
 
 "Anh ơi." Ngọc Anh kéo ghế ngồi xuống cạnh anh, ôm cái laptop vào ngực như ôm cặp sách. "Em hỏi anh cái này được không ạ?"
 
-"Hỏi đi em."
+"Hỏi đi em. Slide em ổn rồi, anh đang ngồi soi lỗi chính tả thôi."
 
 "Bọn em năm nhất mới lên trang của trường cũ anh, thấy ảnh anh cầm giấy khen giải Nhì quốc gia Tin hồi lớp mười một ạ." Con bé chỉ vào màn hình laptop, một tấm ảnh cũ, độ phân giải thấp, một thằng con trai mặc áo đồng phục trắng đứng giữa băng rôn đỏ. "Thế sao lên đại học anh không đi thi Olympic Tin sinh viên nữa ạ? Thầy Bình bảo anh mà thi thì chắc chắn có giải."
 
@@ -238,7 +238,7 @@ Cô không giả vờ đi ngang qua. Cô đứng đó, tay cầm cốc trà sữ
 
 "Anh là người trên băng rôn à?"
 
-"Ừ."
+"Ừ. Bản ngoài đời, ảnh kia chụp vội."
 
 Vy nhìn tờ thông báo, rồi nhìn anh, rồi nhìn lại tờ thông báo.
 

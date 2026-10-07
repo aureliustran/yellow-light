@@ -20,7 +20,7 @@ Cái sẹo nhỏ cắt ngang đuôi lông mày trái vẫn ở đó. Cái khuyê
 
 "Thế bàn là tao mang sang làm gì?"
 
-"Ai bảo mày mang."
+"Ai bảo mày mang. Tao là áo từ tối qua rồi. Nhưng cảm ơn mẹ mày hộ tao."
 
 "Tao tưởng mày mặc sơ mi trắng. Sinh viên lên phát biểu thì phải sơ mi trắng chứ."
 
@@ -38,7 +38,7 @@ Vũ đi vòng quanh anh một vòng như đi xem xe cũ. Dừng lại ở ngực
 
 "Mày nói gì cũng có lý vcl." Vũ chỉ vào tai anh. "Thế cái khuyên tai thì sao? Không tháo ra à? Thầy Bình nhìn thấy lại lên cơn."
 
-"Thầy nhìn hai năm rồi. Quen rồi."
+"Thầy nhìn hai năm rồi. Lên cơn mãi cũng phải quen, giờ thầy chỉ thở dài thôi."
 
 Vũ mở túi sữa đậu nành, cắn góc túi bằng răng. Sữa phụt ra một vệt, bắn thẳng lên ngực cái áo phông của chính nó.
 
@@ -62,7 +62,7 @@ Vũ chở anh bằng chiếc Wave đời cũ, đi đường Phạm Hùng. Gió t
 
 "Mày nói dối như hạch."
 
-"Không run thật mà."
+"Không run thật mà. Tay tao đang giữ cái blazer đây này, run thì nó bay mất lâu rồi."
 
 Vũ quay đầu lại nhìn anh một giây. Rồi quay đi.
 
@@ -80,11 +80,11 @@ Thầy Bình đón anh ở cửa hậu trường, áo vest rộng một cỡ, m�
 
 "Đây rồi, đây rồi. Em đọc lại bài chưa? Lúc lên đừng nói nhanh nhé. Mà chỗ ví dụ về thầy dạy cấp ba ấy, em giữ nguyên, hay lắm. À mà em có mang USB dự phòng không?"
 
-"Dạ có ạ."
+"Dạ có ạ. Bài em đọc lại rồi, chỗ thầy dạy cấp ba em giữ nguyên. USB em cũng mang rồi ạ."
 
 "Mang hai cái chưa?"
 
-"Dạ hai cái."
+"Dạ hai cái ạ. Một cái trong ví, một cái trong túi áo, thầy yên tâm."
 
 Thầy Bình gật gật, lau trán bằng khăn giấy, rồi lại gật. Thuyên nhìn bàn tay thầy, khăn giấy đã vò thành một cục nhỏ xíu. Anh lấy một cốc nước từ bàn hậu trường, đưa cho thầy.
 

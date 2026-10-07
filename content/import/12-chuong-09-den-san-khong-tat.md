@@ -22,6 +22,8 @@ Anh gõ:
 
 *đang đến. bảo bọn nó đứng nghiêm*
 
+*bóng mới thì cho hưng giao quả đầu*
+
 Rồi nhét điện thoại vào túi quần, vớ cái bóng cũ ở góc phòng, đi ra.
 
 ---
@@ -48,11 +50,11 @@ Bác bảo vệ ngồi ở cái ghế nhựa xanh cạnh cổng nhà xe, kính l
 
 "Thằng Thuyên đây à?" Bác ngẩng lên, nhìn anh qua mép kính, rồi nhìn xuống màn hình, rồi lại nhìn anh, như đang đối chiếu ảnh căn cước. "Bác xem ba lần rồi. Nói hay. Bác không hiểu gì nhưng nói hay."
 
-"Cháu cảm ơn bác ạ."
+"Cháu cảm ơn bác ạ. Bác xem ba lần thì bác thuộc bài hơn cả cháu rồi."
 
 "Mà hôm nay rau muống chợ Nghĩa Tân mười tám nghìn một mớ đấy. Mười tám. Tuần trước còn mười lăm."
 
-"Thế thì đắt thật bác ạ."
+"Thế thì đắt thật bác ạ. Mới có một tuần mà."
 
 "Một tuần lên ba nghìn, thế là đắt chứ lại." Bác gật gù, quay lại màn hình, kéo thanh thời gian về đầu để xem lần thứ tư.
 
@@ -74,7 +76,7 @@ Anh chuyền một đường không nhìn cho Quân dưới rổ. Quân đứng 
 
 "Ơ đm," Vũ hét. "Thằng này hôm nay bật hack."
 
-"Bình thường mà."
+"Bình thường mà. Quân đứng đúng chỗ thì tao chuyền thôi."
 
 "Bình thường cái gì. Sáng nay mày vừa nói trước hai trăm người, giờ còn chuyền không nhìn. Mày tưởng mày là ai? Kyrie à?"
 
@@ -162,7 +164,7 @@ Vũ đứng đơ ra một giây, đưa tay lên sờ môi mình như vừa phát
 
 "Hai năm mà giờ mày mới nói?"
 
-"Giờ mới cần."
+"Giờ mới cần. Tao để dành hai năm cho đúng hôm nay đấy."
 
 Đến lượt Vũ. Nó liếm môi, rồi hoảng, mím chặt môi lại như người ngậm hạt tiêu, và vì mím chặt quá nên quên mất nhìn bóng. Anh chọc bóng từ bên hông, gọn. Bốn – ba.
 
@@ -176,7 +178,7 @@ Năm – ba.
 
 "Ai dạy mày?"
 
-"Youtube."
+"Youtube. Miễn phí, mày cũng xem đi."
 
 Lượt sau, Vũ ủi được một quả bằng sức, mồ hôi văng cả lên mặt anh. Năm – bốn.
 
@@ -198,7 +200,7 @@ Vũ đứng chống hai tay lên gối, thở như kéo bễ. Nó nhìn quả b�
 
 "Câu đấy trong bài phát biểu à?"
 
-"Không. Câu đấy tao vừa nghĩ ra."
+"Không. Câu đấy tao vừa nghĩ ra. Mày thích thì cho mượn, nhớ ghi nguồn."
 
 Thuyên đứng ở đường biên, quay lại, chậm rãi chỉ tay vào Vũ.
 
@@ -238,7 +240,7 @@ Vũ nhìn anh chằm chằm. "Lúc nào?"
 
 "Mày quét mã lúc tao quay lưng à?"
 
-"Ừ."
+"Ừ. Mày chọn túi nilon kỹ như chọn vợ, tao quét ba lần cũng kịp."
 
 "Thế còn nem? Thằng Hưng thua cơ mà."
 
@@ -246,7 +248,7 @@ Vũ nhìn anh chằm chằm. "Lúc nào?"
 
 Hưng ngẩng lên, mắt mở to như sắp khóc vì một lý do không rõ ràng. "Anh ơi, thế em thua làm gì ạ?"
 
-"Thua để rèn luyện nhân cách," Thuyên nói. "Ăn đi."
+"Thua để rèn luyện nhân cách," Thuyên nói. "Lần sau em đừng nhìn sang trái trước khi chuyền sang phải là đỡ thua. Ăn đi."
 
 Vũ cầm ví một lúc nữa, rồi nhét lại vào túi quần, lẩm bẩm gì đó trong miệng có chữ "thằng này" và chữ "đm". Nó gắp một miếng nem, chấm ngập tương ớt, nhét cả miếng vào miệng, bỏng, thổi phù phù.
 
@@ -254,7 +256,7 @@ Bạn nữ cầm điện thoại bây giờ cũng ngồi xuống mâm, điện t
 
 "Đoạn ba chấm trắng anh nghĩ ra thật hay anh viết theo mẫu ạ?" Linh hỏi.
 
-"Nghĩ ra thật."
+"Nghĩ ra thật. Anh viết đi viết lại đoạn đấy cả tuần."
 
 "Em khóc đấy."
 
@@ -310,7 +312,7 @@ Vũ cười khẩy. "Đấy. Lại thế."
 
 "Không có gì." Nó đứng dậy, vươn vai, cái áo phông ướt mồ hôi bó vào bụng. "Thôi về đi. Mai tao có tiết sáng. Mà công nhận hôm nay mày đỉnh thật đm. Cả buổi sáng lẫn buổi tối."
 
-"Biết rồi."
+"Biết rồi. Sáng nay mày nhắn câu đấy rồi, giờ nói lại là thành khen hai lần."
 
 "Không phải khen đâu. Là thông báo."
 
@@ -350,7 +352,9 @@ Anh bật cười. Một mình, dưới cột đèn, một tiếng cười ngắ
 
 Anh gõ:
 
-*con ăn rồi mạ. áo con mua ở hà nội. mạ ngủ đi*
+*con ăn rồi mạ. lần sau con nói chậm*
+
+*áo con mua ở hà nội. mạ ngủ đi*
 
 Rồi nghĩ một lúc, xóa chữ "ở hà nội", gõ lại: *áo con mua trên mạng.* Gửi. Cất điện thoại. Đi tiếp.
 

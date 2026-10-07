@@ -72,11 +72,11 @@ Thuyên kéo ghế ngồi xuống cạnh bảng trắng. Trên bảng, Ngọc An
 
 "Phần demo em vẫn sợ sợ," Ngọc Anh nói, không nhìn anh. "Hôm thứ Bảy người ta xem anh nói xong, giờ đăng ký workshop lên gấp đôi. Em sợ mọi người đến vì anh, xong lại thấy em."
 
-"Thì người ta thấy em."
+"Thì người ta thấy em. Đến vì anh mà về vì em, thế mới hay."
 
 "Thấy em làm hỏng ấy."
 
-"Em có làm hỏng đâu."
+"Em có làm hỏng đâu. Em chạy demo cả học kỳ rồi, anh chưa thấy lần nào hỏng."
 
 "Chưa làm."
 
@@ -108,11 +108,15 @@ Anh gõ:
 
 *em làm thì em lên. anh lên làm gì*
 
+*câu "demo xử lý sự cố" của em hay hơn mọi câu anh nói hôm t7*
+
 *Ngọc Anh (K71): 🥹🥹🥹*
 
 *Ngọc Anh (K71): em khóc lần 2 trong tuần r đấy*
 
-*k khóc nữa. về ngủ*
+*k khóc nữa. lần 3 là anh thu phí đấy*
+
+*về ngủ đi*
 
 ---
 
@@ -146,7 +150,7 @@ Anh gõ ngón tay xuống mặt bàn hai cái.
 
 Bạn ấy cười to đến mức mấy người bàn bên quay sang. "Câu này em cho làm tít được không ạ?"
 
-"Tùy em."
+"Tùy em. Miễn là tên Khang, Phúc, Mai vẫn nằm trong bài."
 
 Câu thứ mười hai: "Anh định làm gì tiếp theo ạ?"
 
@@ -224,7 +228,7 @@ Bạn nhân viên tiến lên một bước. Anh đọc bạn ấy: vai hơi ngh
 
 "Anh thử size bao nhiêu ạ?" bạn ấy hỏi.
 
-"Bốn ba."
+"Bốn ba. Em cứ thong thả, anh không chạy đâu."
 
 Anh ngồi xuống cái ghế đệm, tháo Crocs, giữ nguyên tất trắng, xỏ chân vào. Buộc dây. Đứng lên. Nhún hai cái. Đệm giày êm như giẫm lên một tấm thảm dày.
 
@@ -232,7 +236,7 @@ Sáu tháng ở tòa nhà kính, lương thực tập chuyển vào tài khoản
 
 Anh đứng trước cái gương dài, nhìn đôi giày trắng dưới ống quần rộng màu xám.
 
-"Lấy đôi này," anh nói.
+"Lấy đôi này," anh nói. "Em ghi đơn tên em nhé."
 
 Bạn nhân viên thở ra một hơi rất nhỏ, quay đi lấy hộp nhanh đến mức suýt va vào kệ.
 

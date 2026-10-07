@@ -12,17 +12,17 @@ Anh vừa đặt chân lên sân khấu thì câu hỏi đầu tiên đến.
 
 "Anh ơi, mic cài áo hay mic cầm tay ạ?" Một bạn kỹ thuật âm thanh, áo phông đen, cuộn dây trên vai.
 
-"Mic cài. Bên trái. Anh hay quay sang phải lúc nói."
+"Mic cài em nhé. Cài bên trái, anh hay quay sang phải lúc nói, cài bên phải thì em chỉ nghe được tiếng áo sột soạt."
 
 Câu thứ hai đến khi anh chưa kịp đứng vào giữa.
 
 "Diễn giả ơi, slide của bạn có video không? Có thì mình cần chuyển định dạng."
 
-"Không có video ạ. Mười hai slide, chủ yếu là ảnh."
+"Không có video ạ, bạn đỡ được một việc. Mười hai slide, chủ yếu là ảnh."
 
 Câu thứ ba là của MC, một chị tóc búi cao, cầm tập kịch bản dày như cuốn từ điển. "Em ơi, chị đang định cắt phần hỏi đáp của em xuống còn một câu, vì chương trình đang dôi mười phút. Em thấy có ổn không?"
 
-"Ổn ạ. Một câu là đủ."
+"Ổn ạ. Một câu là đủ, chị cứ cắt của em trước, đỡ phải đi năn nỉ người khác."
 
 Rồi đến thầy Bình, vừa chạy vào vừa vuốt tóc. "Thuyên, em xem giúp thầy cái này, thầy định nói câu mở đầu thế này có được không, thầy sợ nghe như đọc diễn văn…"
 
@@ -88,11 +88,11 @@ Hết trận, thằng béo ngồi bệt xuống vạch biên, thở như cái b�
 
 "Vũ. Người ta gọi là Vũ Béo, nhưng mày gọi là Vũ thôi, vì tao đang giảm cân."
 
-"Thuyên."
+"Thuyên. Mà ông đứng dưới rổ cả trận thế thì giảm hơi lâu đấy."
 
 "Năm nhất à?"
 
-"Ừ."
+"Ừ. Trông non lắm à?"
 
 "Trường nào?"
 
@@ -172,7 +172,7 @@ Về phòng, anh gọi điện về nhà. Không phải tối Chủ nhật. Mẹ
 
 "[[ht: Răng gọi giờ ni? || Sao gọi giờ này?]]"
 
-"Dạ, con được giải Nhì một cuộc thi lập trình ạ."
+"Dạ, không có chuyện gì đâu mạ. Con được giải Nhì một cuộc thi lập trình ạ."
 
 "[[ht: Giải chi? || Giải gì?]]"
 

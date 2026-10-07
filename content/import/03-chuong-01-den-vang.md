@@ -210,4 +210,6 @@ Anh bỏ tấm thiệp vào ngăn trước ba lô, cạnh sợi dây đeo thẻ 
 
 Thuyên gõ: *7h. im mồm đi vua hợi*
 
+*bảo mấy đứa năm nhất mang nước, idol k tự mua nước*
+
 Rồi anh mở tin nhắn của Đức, gõ thêm: *ok ông bảo thầy là tôi đi nhé. lần sau hỏi tôi trước đã ông ơi*

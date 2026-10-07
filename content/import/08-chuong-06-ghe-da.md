@@ -44,7 +44,7 @@ Nam, con bác Hùng, vừa có quyết định đi Nga học theo diện học b
 
 Đợi bác Hùng về, đợi mẹ dọn xong mâm, đợi tiếng bát chạm mâm thật nhẹ, không thành tiếng, anh mới lấy điện thoại ra.
 
-"[[ht: Bọ, mạ. || Bố, mẹ.]] Con có cái này."
+"[[ht: Bọ, mạ. || Bố, mẹ.]] Con có cái này muốn khoe với bọ mạ."
 
 Anh đưa màn hình ra. Bức thư bằng tiếng Anh. Anh dịch từng dòng, chậm, rõ ràng, như đọc bài trước lớp.
 
@@ -218,7 +218,7 @@ Cuối tháng năm, cổng xét tuyển mở.
 
 Mẹ gọi điện tối Chủ nhật, nói đúng câu mẹ đã nói từ hồi Tết: "[[ht: Tuyển thẳng thì chọn trường mô cũng được. Chọn Học viện Tài chính, ra làm ngân hàng cho nhàn thân. || Tuyển thẳng thì chọn trường nào cũng được. Chọn Học viện Tài chính, ra làm ngân hàng cho nhàn.]]"
 
-"Dạ."
+"Dạ, con biết rồi ạ. Mạ ăn cơm chưa?"
 
 Tối đó anh ngồi trong phòng trọ, mở trang xét tuyển trên laptop. Ô nguyện vọng một. Anh gõ vào đó: Đại học Công nghệ, Đại học Quốc gia Hà Nội. Ngành Khoa học Máy tính. Tải lên giấy chứng nhận giải Nhì quốc gia môn Tin. Tải lên chứng chỉ IELTS 8.0.
 
@@ -236,7 +236,7 @@ Anh gọi về nhà. Lần này mẹ bắt máy ngay hồi chuông đầu.
 
 "[[ht: Đại học Công nghệ là học chi? || Đại học Công nghệ là học gì?]]"
 
-"Dạ, học về máy tính ạ."
+"Dạ, học về máy tính ạ. Trường trong Đại học Quốc gia đấy mạ."
 
 "[[ht: Rứa là Tin à. || Thế là Tin à.]]"
 

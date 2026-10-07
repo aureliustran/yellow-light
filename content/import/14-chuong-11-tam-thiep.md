@@ -10,7 +10,7 @@ Sáu giờ sáng, sân khu tập thể còn ướt sương. Vũ đến muộn m�
 
 Thuyên nhìn xuống ngực. Sợi dây xanh vẫn lủng lẳng trên cái áo ba lỗ, cái thẻ chết đập bộp bộp vào xương ức mỗi lần anh nhảy lên ném.
 
-"Quên tháo."
+"Quên tháo. Mày đến muộn mười phút, tao đứng đây ném một mình, quên luôn cả cái thẻ."
 
 "Quên tháo từ thứ Hai đến Chủ nhật?"
 
@@ -66,11 +66,11 @@ Anh nhìn bốn dòng tin nhắn. Không có lời chào. Không có tên. Khôn
 
 Vũ ngó qua vai anh. "Ai đấy?"
 
-"Công chúa."
+"Công chúa. Gửi tối hậu thư."
 
 "Con bé áo hồng?" Vũ ghé sát hơn, nheo mắt. "Ơ, nó nhắn cho mày trước à?"
 
-"Nó đòi đồ."
+"Nó đòi đồ. Bốn dòng, không chào, không dấu, như đòi nợ."
 
 "Đồ gì?"
 
@@ -82,7 +82,7 @@ Rồi Vũ ngồi phịch xuống bậc thềm cạnh anh, hộp sữa móp trong
 
 "Đm. Tao đánh bóng ở cái sân này từ năm lớp sáu. Đứa con gái duy nhất nhắn tin cho tao trước là chị giao hàng Shopee." Vũ chỉ vào màn hình. "Mày lên sân khấu đúng một lần, gái xinh nhắn vào tận tin nhắn chờ."
 
-"Nó nhắn đòi đồ."
+"Nó nhắn đòi đồ. Mày ghen với cả tin nhắn đòi nợ à?"
 
 "Đòi đồ cũng là nhắn." Vũ nheo mắt. "Mà tao biết thừa mày rồi. Ngồi nhà ăn thì 'bàn kia có em cute', 'em áo trắng xinh vl', khen một vòng như giám khảo hoa hậu. Đến lúc con gái nói chuyện thật với mày thì mày trả lời như tổng đài viên. 'Dạ vâng. Không có gì ạ. Chúc em một ngày tốt lành.'"
 
@@ -124,7 +124,7 @@ Anh nhìn dòng thứ hai một lúc lâu. *Nhưng nó là của em.* Không ph�
 
 "Đi à?" Vũ hỏi.
 
-"Đi trả đồ."
+"Đi trả đồ. Giữ đồ của người ta hai tuần là đủ mang tiếng rồi."
 
 "Mày cười cái gì đấy?"
 
@@ -158,7 +158,7 @@ Anh rút tấm thiệp ra khỏi túi quần, đặt lên cái bàn nhựa giữ
 
 "Anh để nó trong túi quần à?"
 
-"Hôm nay thôi."
+"Hôm nay thôi. Mấy hôm trước nó nằm trong túi blazer, được đối xử tử tế hơn anh nhiều."
 
 Cô nhìn tấm thiệp thêm một giây, rồi cất vào cái túi đeo chéo màu trắng, kéo khóa lại, vỗ lên túi một cái như để chắc chắn lần này nó không chạy đi đâu được.
 
@@ -172,11 +172,11 @@ Xinh thì công nhận là xinh. Nhưng biết làm gì với cái xinh ấy th�
 
 "Cảm ơn anh."
 
-"Không có gì."
+"Không có gì. Lần sau đánh rơi thì chọn chỗ nào đỡ tắc đường hơn nhé."
 
 "Mà anh biết em ngồi hàng đầu đúng không? Hôm summit ấy."
 
-"Biết."
+"Biết. Hàng ghế đầu, áo len hồng, muốn không biết cũng khó."
 
 "Từ lúc nào?"
 
@@ -212,7 +212,7 @@ Rồi cô quay sang nhìn cái thẻ trên cổ anh.
 
 "Thẻ đấy còn dùng được không?"
 
-"Chết rồi."
+"Chết rồi. Nhưng chết đẹp, em nhìn ảnh thẻ xem."
 
 "Thế đeo làm gì?"
 
@@ -244,7 +244,7 @@ Lúc anh tưởng cuộc gặp đã xong, cô lại mở túi, lấy ra một c�
 
 "Anh có dạy IELTS không?"
 
-Anh nhìn cái dòng bôi vàng. "Không."
+Anh nhìn cái dòng bôi vàng. "Không. Anh chưa dạy ai bao giờ. Cái dòng em bôi vàng là thành tích, không phải tờ rơi quảng cáo."
 
 "Thế bây giờ dạy không?"
 
@@ -290,7 +290,7 @@ Trong đầu anh đã nhẩm xong. Một buổi hai tiếng. Một tuần hai bu
 
 "Được," cô nói. "Chủ nhật tuần sau. Em chọn chỗ."
 
-"Chỗ nào?"
+"Chỗ nào? Đừng bảo anh là một quán toàn màu hồng đấy."
 
 "Em nhắn sau." Cô đứng dậy, lục túi tìm ví. "Bà ơi, hai cốc trà bao nhiêu ạ?"
 
@@ -358,7 +358,7 @@ Anh gõ:
 
 *Vũ Béo: m tính bn*
 
-*giá học thử*
+*giá học thử. dạy được thì tăng giá, như sầu riêng đầu mùa*
 
 *Vũ Béo: m mà lấy giá học thử á. thằng này hôm nay bị gì*
 

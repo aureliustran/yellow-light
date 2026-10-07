@@ -16,13 +16,13 @@ Từ năm lớp mười đến giờ, năm năm, mẹ chưa gọi muộn một p
 
 "[[ht: Ăn chi? || Ăn gì?]]"
 
-"Dạ bún chả."
+"Dạ bún chả ạ, quán đầu ngõ."
 
 "Bún chả thì có rau không? [[ht: Ăn rau vô. || Ăn rau vào.]]" Có tiếng tivi phía sau, kênh thời sự tỉnh. Có tiếng bố ho một tiếng. "[[ht: Thầy mi gọi điện cho bọ rồi đó. Nói mi được lên phát biểu ở cái hội nghị chi đó. || Thầy mày gọi điện cho bố rồi đấy. Nói mày được lên phát biểu ở cái hội nghị gì đấy.]]"
 
 Anh khựng lại một chút. Thầy Bình có số của bố anh từ hồi làm hồ sơ đề tài, anh quên mất.
 
-"Dạ. Hội nghị công nghệ ạ."
+"Dạ. Hội nghị công nghệ ạ, cuối tuần sau con lên nói mười phút."
 
 "Có lên tivi không?"
 
@@ -30,13 +30,13 @@ Anh khựng lại một chút. Thầy Bình có số của bố anh từ hồi l
 
 "[[ht: Livestream là răng? || Livestream là thế nào?]]"
 
-"Là phát trực tiếp trên mạng ạ."
+"Là phát trực tiếp trên mạng ạ. Mạ xem trên điện thoại cũng được."
 
 Mẹ im một lúc. Anh nghe được tiếng mẹ đang quay sang nói với bố, xa xa: *"[[ht: Hắn nói có phát trên mạng. || Nó nói có phát trên mạng.]]"* Rồi tiếng bố, không rõ nói gì, chỉ nghe được chữ *"bác Hùng"*.
 
 "[[ht: Rứa thì gửi cái đường link cho mạ, || Thế thì gửi cái đường link cho mẹ,]]" mẹ quay lại máy. "[[ht: Mạ gửi cho bác Hùng. || Mẹ gửi cho bác Hùng.]]"
 
-"Dạ."
+"Dạ, có link là con gửi mạ luôn ạ."
 
 "[[ht: Học hành răng rồi? || Học hành thế nào rồi?]]"
 
@@ -46,7 +46,7 @@ Mẹ im một lúc. Anh nghe được tiếng mẹ đang quay sang nói với b�
 
 Anh mỉm cười một mình trong phòng trọ. Năm năm, câu hỏi này chưa bao giờ đổi.
 
-"Dạ bình thường là tốt ạ."
+"Dạ bình thường là tốt ạ." Anh ngừng một chút. "Bọ đang ho à mạ? Mạ nhắc bọ uống nước ấm nhé."
 
 "Ừ. Thôi học bài đi."
 

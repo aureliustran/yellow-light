@@ -14,7 +14,7 @@ Thuyên đứng ở cửa, nhìn xuống chân mình.
 
 "Anh ơi, anh đi mấy người ạ?" cô nhân viên hỏi, nhìn anh từ trên xuống dưới, dừng hơi lâu ở đôi Crocs.
 
-"Anh có hẹn rồi."
+"Anh có hẹn rồi. Để anh tự tìm, chắc là người hồng nhất quán."
 
 Anh nhìn quanh. Quán vắng, mới hai giờ kém năm, chỉ có ba bàn có người. Hai bàn là các cặp đôi chụp ảnh với cốc nước. Bàn thứ ba ở góc trong cùng, cạnh cửa sổ, có một người ngồi một mình, cúi đầu viết gì đó, tóc buộc nửa đầu bằng cái nơ nhung hồng, áo len cổ vuông màu kem, chân váy kẻ caro hồng.
 
@@ -72,7 +72,7 @@ Anh lấy bốn tờ đề ra khỏi ba lô, đặt lên bàn, đẩy sang phía
 
 "Không khen à?"
 
-"Không khen."
+"Không khen. Khen thì em có ba người rồi, thêm anh nữa thành bốn."
 
 Cô nhìn bốn tờ giấy. Rồi rút ra từ dưới xấp giấy của mình một tập khác, kẹp bằng cái kẹp bướm hồng, đẩy sang phía anh.
 
@@ -244,7 +244,7 @@ Anh dừng bút. "Liên quan gì?"
 
 "Không liên quan. Em thấy thì em nói." Mắt cô đi từ mấy đốt ngón tay cầm bút lên cổ tay, chỗ cái Casio cũ, lên cẳng tay lộ ra dưới ống tay áo boxy. Nhìn như người ta nhìn một món đồ trong tủ kính, không giấu, không vội. "Ngón tay dài. Xoay bút đẹp. Anh chơi đàn à?"
 
-"Chơi bóng."
+"Chơi bóng. Đàn thì anh chỉ biết bật trên YouTube."
 
 "Thế à." Cô gật đầu, như ghi nhận một dữ kiện, rồi mới cúi xuống hình vẽ. "Rồi. Chấm là gì?"
 
@@ -408,7 +408,7 @@ Anh quay lại. Nhìn miệng cô. "Lại."
 
 "*Think.*"
 
-"Được rồi."
+"Được rồi. Lần này hết giống con mèo."
 
 Cô cười. Lần đầu tiên trong buổi chiều cô cười thật, không phải cái khóe môi nhích lên, mà cả mắt cũng cong lại. "Anh đỏ tai kìa."
 
@@ -574,7 +574,7 @@ Anh nhìn dòng nội dung chuyển khoản.
 
 "Ghi thế để em nhớ là trả cho ai." Cô nói. "Trong danh bạ em lưu anh là Phanh Gấp."
 
-"Thế thì đổi đi."
+"Thế thì đổi đi. Lưu là Thầy cũng được, anh không đòi hỏi."
 
 "Không." Cô đeo túi lên vai. "Tên đấy đúng."
 
@@ -616,17 +616,17 @@ Lần thứ hai, anh nhìn con số. Lần thứ ba, anh nhìn dòng nội dung.
 
 Anh nhìn tin nhắn. Có chữ hoa đầu câu, có dấu hỏi. Anh gõ:
 
-*đi dạy*
+*đi dạy. kiếm tiền trà đá*
 
 *Chủ tọa: Dạy gì?*
 
-*ielts*
+*ielts. học sinh đầu tiên, giá học thử*
 
 *Chủ tọa: Học sinh có giỏi không?*
 
 Anh nhìn câu hỏi một lúc. Nghĩ đến cuốn sổ hồng. Đến cái dây nối. Đến cái gõ tay hai lần.
 
-*học sinh khó dạy*
+*học sinh khó dạy. nói như đi xe máy không xi nhan*
 
 *Chủ tọa: Anh nói như người thích việc khó.*
 
