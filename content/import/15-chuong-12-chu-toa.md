@@ -84,7 +84,7 @@ Không nửa giây. Lâu hơn một chút.
 
 Cô cầm cái búa lên, gõ xuống đế gỗ một tiếng. *Cộp.* Gọn. Cả phòng im.
 
-"*Good morning, distinguished delegates.*" Giọng cô không to, nhưng không cần to. Tiếng Anh tròn vành, không vấp, không có cái âm điệu luyện thi mà anh nghe ở hầu hết sinh viên. "*The Committee on Artificial Intelligence Governance and Data Sovereignty is now in session.*"
+"*[[en: Good morning, distinguished delegates. || Chào buổi sáng, kính thưa các vị đại biểu.]]*" Giọng cô không to, nhưng không cần to. Tiếng Anh tròn vành, không vấp, không có cái âm điệu luyện thi mà anh nghe ở hầu hết sinh viên. "*[[en: The Committee on Artificial Intelligence Governance and Data Sovereignty is now in session. || Ủy ban Quản trị Trí tuệ nhân tạo và Chủ quyền dữ liệu xin bắt đầu phiên họp.]]*"
 
 Tấm biển tên trước mặt cô ghi: *Chair – Nguyễn Diệp Anh.*
 
@@ -104,7 +104,7 @@ Cô ngồi ở ghế giữa, lưng thẳng, hai tay đan vào nhau đặt trên 
 
 Anh kết thúc. Tiếng vỗ tay vừa đủ lịch sự, hơi nhiều hơn lịch sự một chút.
 
-"*Thank you, Expert.*" Cô gõ búa. "*The floor is now open for questions. Delegates wishing to speak, please raise your placards.*"
+"*[[en: Thank you, Expert. || Cảm ơn Chuyên gia.]]*" Cô gõ búa. "*[[en: The floor is now open for questions. Delegates wishing to speak, please raise your placards. || Xin mời các đại biểu đặt câu hỏi. Đại biểu nào muốn phát biểu xin giơ biển.]]*"
 
 Đại biểu Ấn Độ giơ biển đầu tiên. Đúng như anh đoán.
 
@@ -116,33 +116,33 @@ Cô cũng đọc được.
 
 Câu hỏi đầu tiên của đại biểu Ấn Độ không có trong bản phát biểu nào.
 
-"*Expert. Every season, our fishermen complain that foreign boats come into our waters at night. Can your model see them? At night?*"
+"*[[en: Expert. Every season, our fishermen complain that foreign boats come into our waters at night. Can your model see them? At night? || Thưa Chuyên gia. Mùa nào ngư dân của chúng tôi cũng than tàu nước ngoài vào vùng biển của chúng tôi ban đêm. Mô hình của anh có nhìn thấy chúng không? Ban đêm?]]*"
 
 Câu hỏi của người có ngư dân thật ở nhà. Anh thích nó ngay.
 
-"*Optical satellites can't. At night they see nothing, like us.*" Anh bấm sang một slide dự phòng, ảnh radar đen trắng lốm đốm. "*But radar satellites can. Sentinel-1, for example. Radar doesn't need light, and it sees through clouds. A metal boat on dark water looks like a bright dot. Then you check those dots against AIS, the signal ships are supposed to broadcast. A bright dot with no AIS signal is a boat that doesn't want to be seen.*"
+"*[[en: Optical satellites can't. At night they see nothing, like us. || Vệ tinh quang học thì không. Ban đêm chúng chẳng thấy gì, giống chúng ta.]]*" Anh bấm sang một slide dự phòng, ảnh radar đen trắng lốm đốm. "*[[en: But radar satellites can. Sentinel-1, for example. Radar doesn't need light, and it sees through clouds. A metal boat on dark water looks like a bright dot. Then you check those dots against AIS, the signal ships are supposed to broadcast. A bright dot with no AIS signal is a boat that doesn't want to be seen. || Nhưng vệ tinh radar thì được. Sentinel-1 chẳng hạn. Radar không cần ánh sáng, và nhìn xuyên được mây. Một con tàu kim loại trên mặt nước tối trông như một chấm sáng. Rồi ta đối chiếu những chấm ấy với AIS, tín hiệu tàu thuyền phải phát ra. Một chấm sáng không có tín hiệu AIS là một con tàu không muốn bị nhìn thấy.]]*"
 
 Đại biểu Ấn Độ gật đầu liền mấy cái, cúi xuống ghi. Trôi. Đúng sân của anh.
 
-Đại biểu Việt Nam giơ biển, tay còn dính vụn bánh mì. "*In the Mekong Delta, salt water comes into the rice fields in the dry season. Can AI tell farmers two weeks before, so they don't plant?*"
+Đại biểu Việt Nam giơ biển, tay còn dính vụn bánh mì. "*[[en: In the Mekong Delta, salt water comes into the rice fields in the dry season. Can AI tell farmers two weeks before, so they don't plant? || Ở Đồng bằng sông Cửu Long, mùa khô nước mặn tràn vào ruộng lúa. AI có báo trước cho nông dân hai tuần để họ khỏi gieo trồng không?]]*"
 
 Câu này khó hơn. Anh biết vệ tinh nhìn được độ ẩm đất, màu nước, diện tích lúa chết. Anh không chắc vệ tinh nhìn được độ mặn.
 
-"*Partly,*" anh nói. "*The satellite can see the effects. Dying rice, changing water colour. But to forecast salinity two weeks ahead, you need sensors on the ground, in the rivers. The satellite alone…*" Anh dừng, tìm chữ. "*The satellite alone tells you it's already too late. Combined with ground sensors, maybe it tells you early enough.*"
+"*[[en: Partly, || Được một phần,]]*" anh nói. "*[[en: The satellite can see the effects. Dying rice, changing water colour. But to forecast salinity two weeks ahead, you need sensors on the ground, in the rivers. The satellite alone… || Vệ tinh nhìn được hậu quả. Lúa chết, nước đổi màu. Nhưng muốn dự báo độ mặn trước hai tuần thì cần cảm biến dưới mặt đất, trong sông. Riêng vệ tinh thì…]]*" Anh dừng, tìm chữ. "*[[en: The satellite alone tells you it's already too late. Combined with ground sensors, maybe it tells you early enough. || Riêng vệ tinh chỉ cho ta biết là đã muộn rồi. Kết hợp với cảm biến mặt đất, có khi nó báo được đủ sớm.]]*"
 
 Không trơn như câu trước. Nhưng đúng, và anh nói được cái chỗ mình không chắc.
 
 Rồi đại biểu Pháp giơ biển. Cô tóc ngắn đã chuẩn bị câu này từ lúc anh chưa lên bục.
 
-"*If your model says a boat is fishing illegally, can that image be used as evidence? In court? Is the model reliable enough?*"
+"*[[en: If your model says a boat is fishing illegally, can that image be used as evidence? In court? Is the model reliable enough? || Nếu mô hình của anh nói một con tàu đang đánh bắt trái phép, tấm ảnh đó có dùng làm bằng chứng được không? Ở tòa? Mô hình có đủ đáng tin không?]]*"
 
-"*Our model is about ninety-two percent accurate on the test set,*" anh nói. Câu đó dễ. Con số đó anh thuộc như số điện thoại.
+"*[[en: Our model is about ninety-two percent accurate on the test set, || Mô hình của chúng tôi chính xác khoảng chín mươi hai phần trăm trên tập kiểm thử,]]*" anh nói. Câu đó dễ. Con số đó anh thuộc như số điện thoại.
 
 Rồi anh nghe thấy nửa sau của câu hỏi. *In court.*
 
-"*Whether ninety-two percent is enough for a court…*" Anh mở miệng, rồi ngậm lại. Anh biết recall, precision, biết ma trận nhầm lẫn của mô hình mình đến từng ô. Anh không biết một tòa án cần bao nhiêu phần trăm để tin một tấm ảnh. Anh không biết tòa án nào. Anh không biết luật nào.
+"*[[en: Whether ninety-two percent is enough for a court… || Chín mươi hai phần trăm có đủ với tòa án hay không…]]*" Anh mở miệng, rồi ngậm lại. Anh biết recall, precision, biết ma trận nhầm lẫn của mô hình mình đến từng ô. Anh không biết một tòa án cần bao nhiêu phần trăm để tin một tấm ảnh. Anh không biết tòa án nào. Anh không biết luật nào.
 
-"*I don't know,*" anh nói. "*That's a question for lawyers. I can tell you how often the model is wrong. I can't tell you how wrong a court allows it to be.*"
+"*[[en: I don't know, || Tôi không biết,]]*" anh nói. "*[[en: That's a question for lawyers. I can tell you how often the model is wrong. I can't tell you how wrong a court allows it to be. || Câu đó dành cho luật sư. Tôi nói được mô hình sai bao nhiêu lần. Tôi không nói được tòa án cho phép nó sai đến mức nào.]]*"
 
 Đại biểu Pháp gật đầu, ghi lại, có vẻ hài lòng với câu không biết hơn anh tưởng. Anh thì không hài lòng. Ba chữ *I don't know* đọng lại trong miệng như vị cà phê nguội.
 
@@ -150,13 +150,13 @@ Rồi anh nghe thấy nửa sau của câu hỏi. *In court.*
 
 Rồi cô cầm micro của ghế chủ tọa lên.
 
-"*The Chair would like to exercise its right to pose a question to the Expert.*"
+"*[[en: The Chair would like to exercise its right to pose a question to the Expert. || Chủ tọa xin dùng quyền đặt một câu hỏi cho Chuyên gia.]]*"
 
 Hai người đồng chủ tọa liếc nhau. Có vẻ việc này không có trong kịch bản.
 
 Cô gõ ngón trỏ lên mặt bàn hai cái, nhẹ, như người ta gõ cửa trước khi vào. Rồi cúi xuống nhìn điện thoại đặt cạnh cái búa. Cả buổi sáng, đây là lần đầu tiên cô nhìn xuống một tờ ghi chú.
 
-"*Expert. Suppose a foundation model is pre-trained on multispectral imagery from a State A satellite, covering State B's exclusive economic zone, distributed under a share-alike licence. A firm in State C then fine-tunes it with LoRA adapters.*" Cô đọc trôi, nhưng là trôi của người đọc, không phải trôi của người nói. "*Do the adapter weights constitute a derivative work of the imagery under the share-alike clause? And if so, does State B retain any claim over the resulting model?*"
+"*[[en: Expert. Suppose a foundation model is pre-trained on multispectral imagery from a State A satellite, covering State B's exclusive economic zone, distributed under a share-alike licence. A firm in State C then fine-tunes it with LoRA adapters. || Thưa Chuyên gia. Giả sử một mô hình nền tảng được huấn luyện trước trên ảnh đa phổ từ vệ tinh của Quốc gia A, chụp vùng đặc quyền kinh tế của Quốc gia B, phân phối theo giấy phép chia sẻ tương tự. Sau đó một công ty ở Quốc gia C tinh chỉnh nó bằng các bộ điều hợp LoRA.]]*" Cô đọc trôi, nhưng là trôi của người đọc, không phải trôi của người nói. "*[[en: Do the adapter weights constitute a derivative work of the imagery under the share-alike clause? And if so, does State B retain any claim over the resulting model? || Trọng số của bộ điều hợp có được coi là tác phẩm phái sinh của bộ ảnh theo điều khoản chia sẻ tương tự không? Và nếu có, Quốc gia B có còn quyền gì với mô hình làm ra không?]]*"
 
 Cả phòng quay sang anh. Hai mươi sáu khuôn mặt, phần lớn không hiểu nửa câu vừa rồi.
 
@@ -168,13 +168,13 @@ Một sinh viên năm cuối Học viện Ngoại giao, chủ tọa một ủy b
 
 Nhưng câu hỏi vẫn là câu hỏi. Anh vẫn phải trả lời.
 
-"*Well…*" Anh nghiêng người về phía micro. "*Weights aren't images. In most cases you can't reconstruct the original imagery from adapter weights. So whether they're a derivative work…*" Anh dừng. "*Under share-alike… it's debated. Honestly. There are lawsuits in the US right now about exactly this, for text and images. Nobody has a final answer. If you're asking whether the licence follows the weights…*" Anh lại dừng, lâu hơn. "*It depends on how the licence defines adaptation. Which most licences didn't write with neural networks in mind.*"
+"*[[en: Well… || Ừm…]]*" Anh nghiêng người về phía micro. "*[[en: Weights aren't images. In most cases you can't reconstruct the original imagery from adapter weights. So whether they're a derivative work… || Trọng số không phải là ảnh. Phần lớn trường hợp không thể dựng lại ảnh gốc từ trọng số của bộ điều hợp. Nên chúng có phải tác phẩm phái sinh không thì…]]*" Anh dừng. "*[[en: Under share-alike… it's debated. Honestly. There are lawsuits in the US right now about exactly this, for text and images. Nobody has a final answer. If you're asking whether the licence follows the weights… || Theo điều khoản chia sẻ tương tự thì… vẫn đang tranh cãi. Nói thật. Ở Mỹ đang có những vụ kiện về đúng chuyện này, với chữ và ảnh. Chưa ai có câu trả lời cuối cùng. Nếu chị hỏi giấy phép có đi theo trọng số không…]]*" Anh lại dừng, lâu hơn. "*[[en: It depends on how the licence defines adaptation. Which most licences didn't write with neural networks in mind. || Còn tùy giấy phép định nghĩa "chỉnh sửa" thế nào. Mà phần lớn giấy phép được viết khi chưa ai nghĩ đến mạng nơ-ron.]]*"
 
 Không trôi. Ba lần dừng, không lần nào là dừng cho người ta cười. Nhưng giọng anh vẫn đều, tay vẫn đặt yên trên bàn. Bình thản, như người đang đi trên một con đường không quen mà nhất định không để ai thấy mình đang dò.
 
 Cô nghe hết. Không ngắt lời. Rồi cô nói, vẫn bằng cái giọng không to ấy:
 
-"*Expert, with respect. You are giving a technical answer to a sovereignty question.*"
+"*[[en: Expert, with respect. You are giving a technical answer to a sovereignty question. || Thưa Chuyên gia, với tất cả sự tôn trọng. Anh đang trả lời một câu hỏi về chủ quyền bằng câu trả lời kỹ thuật.]]*"
 
 Phòng im đến mức anh nghe được tiếng điều hòa.
 
@@ -184,7 +184,7 @@ Cái gì đó nóng lên ở gáy. Không phải cái nóng ngượng hôm Nhi g
 
 Anh kéo micro lại gần, chậm rãi.
 
-"*Well,*" anh nói. "*I suppose you could probably invite a software engineer who happened to develop a sovereignty-drawing application.*" Anh để câu đó nằm đó một nhịp. "*And I guess that engineer is ChatGPT.*" Thêm một nhịp. Anh nhìn thẳng vào cái điện thoại cạnh cái búa gỗ. "*Did you get your question from this engineer?*"
+"*[[en: Well, || Vâng,]]*" anh nói. "*[[en: I suppose you could probably invite a software engineer who happened to develop a sovereignty-drawing application. || Tôi nghĩ có lẽ chị nên mời một kỹ sư phần mềm tình cờ viết ra một ứng dụng vẽ chủ quyền.]]*" Anh để câu đó nằm đó một nhịp. "*[[en: And I guess that engineer is ChatGPT. || Và tôi đoán kỹ sư đó là ChatGPT.]]*" Thêm một nhịp. Anh nhìn thẳng vào cái điện thoại cạnh cái búa gỗ. "*[[en: Did you get your question from this engineer? || Câu hỏi của chị có phải lấy từ kỹ sư này không?]]*"
 
 Một tiếng "ồ" lan khắp chữ U.
 
@@ -196,27 +196,27 @@ Cô không đỏ mặt.
 
 Cô cầm điện thoại lên, xoay màn hình về phía anh. Từ chỗ anh ngồi không đọc được chữ, nhưng thấy rõ cái khung chat, cái logo tròn quen thuộc.
 
-"*Yes, Expert.*" Giọng cô không đổi. "*I asked it to make my question as technical as possible.*" Cô đặt điện thoại xuống, úp màn hình. "*Because I wanted to see whether a technical expert can tell which part of a question is the bait.*"
+"*[[en: Yes, Expert. || Đúng vậy, thưa Chuyên gia.]]*" Giọng cô không đổi. "*[[en: I asked it to make my question as technical as possible. || Tôi đã nhờ nó viết câu hỏi của tôi kỹ thuật nhất có thể.]]*" Cô đặt điện thoại xuống, úp màn hình. "*[[en: Because I wanted to see whether a technical expert can tell which part of a question is the bait. || Vì tôi muốn xem một chuyên gia kỹ thuật có nhận ra phần nào trong câu hỏi là mồi không.]]*"
 
 Phòng im lại.
 
-"*You answered the bait first,*" cô nói. "*Then you noticed.*"
+"*[[en: You answered the bait first, || Anh trả lời cái mồi trước,]]*" cô nói. "*[[en: Then you noticed. || Rồi anh mới nhận ra.]]*"
 
 Anh không nói gì.
 
-"*So, the part of the question that is mine, not the engineer's.*" Ngón trỏ cô gõ lên mặt bàn một cái. "*When a machine owned by one State knows another State's coastline better than that State does, who decides what happens to that knowledge?*" Cô dừng. "*You may answer. Or you may tell this Committee you don't know.*"
+"*[[en: So, the part of the question that is mine, not the engineer's. || Vậy thì, phần câu hỏi là của tôi, không phải của kỹ sư kia.]]*" Ngón trỏ cô gõ lên mặt bàn một cái. "*[[en: When a machine owned by one State knows another State's coastline better than that State does, who decides what happens to that knowledge? || Khi một cỗ máy của quốc gia này biết bờ biển của quốc gia kia rõ hơn chính quốc gia ấy, ai quyết định số phận của hiểu biết đó?]]*" Cô dừng. "*[[en: You may answer. Or you may tell this Committee you don't know. || Anh có thể trả lời. Hoặc anh có thể nói với Ủy ban là anh không biết.]]*"
 
 Cái mỉa vừa rồi trúng. Cả phòng cười. Nhưng anh hiểu ra, chậm hơn cô đúng một nhịp, rằng nó trúng vào cái mồi. Cô đã nhét câu hỏi thật của mình vào giữa một đống chữ kỹ thuật, biết chắc một người như anh sẽ lao vào đống chữ đó trước. Anh lao vào. Rồi anh cay, quay sang cắn người cài mồi, và cô đã đứng sẵn ở đó, chờ bị cắn.
 
 Câu hỏi thật vẫn nằm trên bàn. Không ai chạm vào nó.
 
-"*I don't know,*" anh nói. Lần thứ hai trong buổi sáng. "*And I don't think your engineer knows either.*"
+"*[[en: I don't know, || Tôi không biết,]]*" anh nói. Lần thứ hai trong buổi sáng. "*[[en: And I don't think your engineer knows either. || Và tôi nghĩ kỹ sư của chị cũng không biết.]]*"
 
-"*Neither do I.*" Khóe môi cô nhích lên. Lần này hơn một li. "*That is why this Committee exists.*"
+"*[[en: Neither do I. || Tôi cũng không.]]*" Khóe môi cô nhích lên. Lần này hơn một li. "*[[en: That is why this Committee exists. || Vì thế mà Ủy ban này tồn tại.]]*"
 
 *Cộp.*
 
-"*The point is noted. Thank you, Expert. The Committee will now move to a moderated caucus.*"
+"*[[en: The point is noted. Thank you, Expert. The Committee will now move to a moderated caucus. || Ý kiến đã được ghi nhận. Cảm ơn Chuyên gia. Ủy ban chuyển sang phiên thảo luận có điều phối.]]*"
 
 Anh ngồi xuống ghế. Lưng áo sơ mi đã dính vào da.
 

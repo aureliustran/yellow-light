@@ -32,7 +32,7 @@ Mười bốn thông báo. Nhóm lớp hỏi bài tập. Một đứa bạn gử
 
 Rồi cô mở ứng dụng ghi chú.
 
-Trong ứng dụng có rất nhiều ghi chú. Danh sách phim muốn xem, công thức làm bánh chưa làm bao giờ, mật khẩu wifi ở mấy quán cà phê, một bài speaking IELTS viết đi viết lại chủ đề "Describe a person you admire". Cô kéo xuống dưới cùng, đến một ghi chú không có ảnh, không có danh sách, tiêu đề chỉ có một dòng:
+Trong ứng dụng có rất nhiều ghi chú. Danh sách phim muốn xem, công thức làm bánh chưa làm bao giờ, mật khẩu wifi ở mấy quán cà phê, một bài speaking IELTS viết đi viết lại chủ đề "[[en: Describe a person you admire || Tả một người bạn ngưỡng mộ]]". Cô kéo xuống dưới cùng, đến một ghi chú không có ảnh, không có danh sách, tiêu đề chỉ có một dòng:
 
 *Những lần mình đúng mà không ai nhường.*
 

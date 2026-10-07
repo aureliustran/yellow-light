@@ -50,19 +50,19 @@ Anh nghe tiếng xe máy dừng ở ngõ, tiếng chân chống gạt xuống, r
 
 Bố cầm cuốn sách lên, lật vài trang. Lật nhanh, như lật một tờ quảng cáo.
 
-"Mi mua cái ni à?"
+"[[ht: Mi mua cái ni à? || Mày mua cái này à?]]"
 
 "Dạ."
 
-"Tiền mô?"
+"[[ht: Tiền mô? || Tiền đâu?]]"
 
 "Dạ… tiền mừng tuổi ạ."
 
-Bố gập sách lại. "Đọc cái ni để làm chi? Thi có ra không?"
+Bố gập sách lại. "[[ht: Đọc cái ni để làm chi? Thi có ra không? || Đọc cái này để làm gì? Thi có ra không?]]"
 
 Anh không trả lời được. Anh nghĩ đến ngôi sao đã chết mà ánh sáng vẫn đang bay, và biết chắc chắn câu đó không có trong đề thi nào.
 
-"Nỏ ra thì đọc làm chi. Lên học bài."
+"[[ht: Nỏ ra thì đọc làm chi. || Không ra thì đọc làm gì.]] Lên học bài."
 
 Tối đó cuốn sách nằm trong bao tải giấy vụn ở góc bếp, giữa xấp đề kiểm tra cũ của anh và mấy tờ lịch bóc. Tháng sau bà đồng nát sẽ đến cân, mấy nghìn một cân.
 
@@ -84,7 +84,7 @@ Năm lớp năm, anh hỏi mẹ tại sao phải học.
 
 Lúc đó mẹ đang nhặt rau muống, ngồi trên cái ghế nhựa thấp ngoài hiên. Mẹ không ngẩng lên.
 
-"Hỏi chi lắm rứa. Học thì học đi."
+"[[ht: Hỏi chi lắm rứa. || Hỏi gì lắm thế.]] Học thì học đi."
 
 Năm lớp sáu, anh hỏi bố. Bố đang xem thời sự. Bố quay sang nhìn anh, cái nhìn rất lâu, rồi quay lại tivi. Không nói gì. Cái im lặng ấy nặng hơn bất kỳ câu trả lời nào.
 
@@ -98,7 +98,7 @@ Năm lớp sáu, nhà mua máy tính bàn, đặt ở góc phòng khách, ngay c
 
 Anh học khóa đó. Học xong bài thì mở một tab khác.
 
-Trên mạng có cả nghìn video về vũ trụ, nhưng video hay thì toàn tiếng Anh. Một ông già tóc trắng đứng giữa sa mạc chỉ lên trời. Một bà giáo sư nói rất nhanh trước tấm bảng đen kín công thức. Anh bật phụ đề tự động, phụ đề sai be bét. Anh mở thêm Google Dịch, gõ lại từng câu, dịch ra tiếng Việt còn sai hơn. Anh ghi những từ không hiểu vào cuối vở bài tập tiếng Anh, sau trang cuối cùng có bài làm. *Nebula. Light-year. Event horizon.* Rồi đến những từ chẳng liên quan gì đến vũ trụ, chỉ vì nghe ông già tóc trắng nói nhiều lần quá: *wonder. Imagine. Why.*
+Trên mạng có cả nghìn video về vũ trụ, nhưng video hay thì toàn tiếng Anh. Một ông già tóc trắng đứng giữa sa mạc chỉ lên trời. Một bà giáo sư nói rất nhanh trước tấm bảng đen kín công thức. Anh bật phụ đề tự động, phụ đề sai be bét. Anh mở thêm Google Dịch, gõ lại từng câu, dịch ra tiếng Việt còn sai hơn. Anh ghi những từ không hiểu vào cuối vở bài tập tiếng Anh, sau trang cuối cùng có bài làm. *[[en: Nebula. Light-year. Event horizon. || Tinh vân. Năm ánh sáng. Chân trời sự kiện.]]* Rồi đến những từ chẳng liên quan gì đến vũ trụ, chỉ vì nghe ông già tóc trắng nói nhiều lần quá: *[[en: wonder. Imagine. Why. || tự hỏi. Tưởng tượng. Tại sao.]]*
 
 Có lần mẹ đi ngang qua, nhìn màn hình kín chữ tiếng Anh, gật đầu, rồi đi tiếp.
 
@@ -124,11 +124,11 @@ Bầu trời ở huyện những đêm mất điện là thứ đẹp nhất anh
 
 Một đêm, bố đã gần ngủ, giọng nhừa nhựa, giơ tay chỉ về phía chân trời đằng tây.
 
-"Sao Hôm tê."
+"[[ht: Sao Hôm tê. || Sao Hôm kia kìa.]]"
 
 Anh nhìn theo ngón tay bố. Một chấm sáng rất to, rất sáng, đứng một mình.
 
-"Hồi bé bọ đi chăn trâu, thấy hắn mọc là biết phải lùa trâu về," bố nói. Rồi không nói gì nữa. Một lúc sau, tiếng ngáy.
+"[[ht: Hồi bé bọ đi chăn trâu, thấy hắn mọc là biết phải lùa trâu về, || Hồi bé bố đi chăn trâu, thấy nó mọc là biết phải lùa trâu về,]]" bố nói. Rồi không nói gì nữa. Một lúc sau, tiếng ngáy.
 
 Anh nằm nhìn Sao Hôm rất lâu. Anh biết nó không phải sao, nó là sao Kim, một hành tinh, cuốn sách đã nói thế. Anh định nói với bố. Rồi thôi.
 

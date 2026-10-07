@@ -11,10 +11,11 @@
     "check": "astro check",
     "test": "node --test \"tests/**/*.test.ts\"",
     "import": "node scripts/import-chapters.mjs",
-    "export": "node scripts/export-chapters.mjs"
+    "export": "node scripts/export-chapters.mjs",
+    "translations": "node scripts/apply-translations.mjs"
   },
   "dependencies": {
-    "@astrojs/vercel": "^11.0.12",
+    "@astrojs/vercel": "^8.0.4",
     "@supabase/supabase-js": "^2.117.3",
     "astro": "^7.3.6",
     "marked": "^18.1.0"

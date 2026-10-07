@@ -76,11 +76,11 @@ Nhưng đêm đó anh lại không khóc. Anh nằm nghe mưa cho đến khi ng�
 
 Mẹ gọi điện tối thứ Tư và tối Chủ nhật, đúng tám giờ, như báo thức.
 
-"Ăn chi chưa?"
+"[[ht: Ăn chi chưa? || Ăn gì chưa?]]"
 
 "Dạ rồi ạ."
 
-"Ăn chi?"
+"[[ht: Ăn chi? || Ăn gì?]]"
 
 "Dạ… cơm với trứng."
 
@@ -88,11 +88,11 @@ Mẹ gọi điện tối thứ Tư và tối Chủ nhật, đúng tám giờ, nh
 
 "Dạ còn."
 
-"Học hành răng rồi?"
+"[[ht: Học hành răng rồi? || Học hành thế nào rồi?]]"
 
 "Dạ bình thường ạ."
 
-"Bình thường là răng? Bình thường là nhất hay là nhì?"
+"[[ht: Bình thường là răng? || Bình thường là thế nào?]] Bình thường là nhất hay là nhì?"
 
 Cuộc gọi nào cũng kết thúc trong khoảng bốn phút. Câu cuối cùng luôn là *"thôi học bài đi"*. Anh đếm được, ba tháng đầu tiên, mẹ chưa hỏi lần nào anh có ổn không. Nhưng chưa có tối thứ Tư hay tối Chủ nhật nào mẹ quên gọi.
 
@@ -136,7 +136,7 @@ Họ xem NBA. Mấy trận bên Mỹ chiếu vào sáng sớm giờ mình, nên 
 
 Ông anh áo ba lỗ tên Long. Anh Long mê một tay hậu vệ người Mỹ, không cao, không to, nhưng cầm bóng như có sợi dây vô hình buộc quả bóng vào tay. Bóng đi qua háng, vòng sau lưng, đổi tay giữa hai người đang kèm, rồi tự nhiên lọt vào rổ như chưa có ai cản. Cả hội gọi là pháp sư múa bóng. Tên thật là Kyrie Irving.
 
-Tối đó về phòng, anh gõ tên ông pháp sư lên YouTube. Video phân tích hay nhất toàn tiếng Anh, không có phụ đề tiếng Việt. Anh bật tốc độ 0.75, tua đi tua lại một pha đổi tay mười lần. Không cần Google Dịch nữa, vì có những thứ chỉ cần nhìn chân. Anh ghi vào vở, nửa tiếng Anh nửa tiếng Việt: *low hips. mắt nhìn lên, đừng nhìn bóng. sell the fake.* Rồi tập bằng một quả bóng tennis giữa phòng trọ chín giờ tối, cho đến khi phòng bên đập tường.
+Tối đó về phòng, anh gõ tên ông pháp sư lên YouTube. Video phân tích hay nhất toàn tiếng Anh, không có phụ đề tiếng Việt. Anh bật tốc độ 0.75, tua đi tua lại một pha đổi tay mười lần. Không cần Google Dịch nữa, vì có những thứ chỉ cần nhìn chân. Anh ghi vào vở, nửa tiếng Anh nửa tiếng Việt: *[[en: low hips. || hạ thấp hông.]] mắt nhìn lên, đừng nhìn bóng. [[en: sell the fake. || động tác giả phải như thật.]]* Rồi tập bằng một quả bóng tennis giữa phòng trọ chín giờ tối, cho đến khi phòng bên đập tường.
 
 Tuần sau trên sân, anh làm được một pha đổi tay qua háng. Bóng không đi đâu cả, vẫn nằm trong tay anh. Anh Long đứng kèm há mồm ra, rồi hú lên một tiếng như vừa trúng xổ số.
 
@@ -216,7 +216,7 @@ Thầy Quang gật đầu. Gỡ kính ra, lau vào vạt áo, đeo lại.
 
 Tin học trên lớp là những bài cơ bản, cả lớp làm trong mười lăm phút rồi ngồi chơi. Môn đó không tính điểm thi đại học, nên chẳng ai coi là môn thật. Mẹ gọi điện tối thứ Tư, tối Chủ nhật, chỉ hỏi bốn môn: Toán, Lý, Hóa, Anh. Có lần anh lỡ nhắc đến phòng máy, mẹ hỏi ngay:
 
-"Tin thì học làm chi? Có thi đại học mô."
+"[[ht: Tin thì học làm chi? Có thi đại học mô. || Tin thì học làm gì? Có thi đại học đâu.]]"
 
 Từ đó anh không nhắc nữa.
 

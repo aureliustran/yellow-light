@@ -202,7 +202,7 @@ Vũ đứng chống hai tay lên gối, thở như kéo bễ. Nó nhìn quả b�
 
 Thuyên đứng ở đường biên, quay lại, chậm rãi chỉ tay vào Vũ.
 
-"Gg," anh nói. "Fvcking ez."
+"[[en: Gg, || Ván hay,]]" anh nói. "[[en: Fvcking ez. || Dễ vãi.]]"
 
 "Đm mày."
 
@@ -212,7 +212,7 @@ Mấy đứa năm nhất cười rú lên. Hưng vừa bưng đĩa nem quay lạ
 
 "Mày bao nhiêu tuổi rồi?" Vũ hỏi, mặt đỏ gay. "Mày hai mươi tuổi. Mày vừa lên phát biểu ở hội nghị công nghệ. Thế mà mày đứng đây làm six seven."
 
-"Thua thì nói ít thôi, kid."
+"Thua thì nói ít thôi, [[en: kid || nhóc]]."
 
 "Kid cái đầu mày."
 
@@ -330,21 +330,21 @@ Anh bấm nghe, áp điện thoại lên tai.
 
 Tiếng quạt máy. Tiếng ti vi ở xa, chắc là thời sự phát lại. Rồi tiếng mẹ, gần quá, như mẹ đang áp cả mặt vào điện thoại vì không quen bấm giữ nút ghi âm.
 
-*"Thuyên à. Mạ xem rồi. Bố mi xem hai lần. Mạ gửi cho bác Hùng rồi, bác bảo hay. Mi nói chi mà nhanh rứa, mạ nghe không kịp. Lần sau nói chậm chậm cho người ta nghe. Mà mi ăn chi chưa? Đừng có thức khuya."*
+*"[[ht: Thuyên à. Mạ xem rồi. Bố mi xem hai lần. Mạ gửi cho bác Hùng rồi, bác bảo hay. Mi nói chi mà nhanh rứa, mạ nghe không kịp. Lần sau nói chậm chậm cho người ta nghe. Mà mi ăn chi chưa? Đừng có thức khuya. || Thuyên à. Mẹ xem rồi. Bố mày xem hai lần. Mẹ gửi cho bác Hùng rồi, bác bảo hay. Mày nói gì mà nhanh thế, mẹ nghe không kịp. Lần sau nói chậm chậm cho người ta nghe. Mà mày ăn gì chưa? Đừng có thức khuya.]]"*
 
-Rồi một khoảng lặng chừng hai giây, có tiếng bố nói gì đó ở xa, không rõ chữ. Rồi tiếng mẹ, nhỏ hơn: *"Bố mi hỏi cái áo đó mua ở mô."* Rồi tin nhắn hết.
+Rồi một khoảng lặng chừng hai giây, có tiếng bố nói gì đó ở xa, không rõ chữ. Rồi tiếng mẹ, nhỏ hơn: *"[[ht: Bố mi hỏi cái áo đó mua ở mô. || Bố mày hỏi cái áo đó mua ở đâu.]]"* Rồi tin nhắn hết.
 
 Anh đứng dưới cột đèn, nghe lại lần nữa.
 
-*Mạ gửi cho bác Hùng rồi.*
+*[[ht: Mạ gửi cho bác Hùng rồi. || Mẹ gửi cho bác Hùng rồi.]]*
 
 Có một thời, cái câu ấy đi vào tai anh như cái đinh. Sau mỗi tờ giấy khen, sau mỗi con số, sau mỗi lần anh nghĩ chắc lần này là đủ. Mạ gửi cho bác Hùng. Mạ khoe với bác Hùng. Để mạ nói với bác Hùng. Như thể cái gì anh làm được cũng chỉ thật sự tồn tại khi đã đi qua bàn uống nước nhà bác Hùng.
 
 Bây giờ anh đứng giữa một con ngõ sau Xuân Thủy lúc mười một giờ đêm, nghe câu ấy, và nó chỉ là một câu. Một câu của một bà mẹ ở huyện, nói giọng Hà Tĩnh, không biết bấm giữ nút ghi âm cho đúng, thức quá giờ ngủ để xem đứa con trai nói một thứ tiếng chuyên ngành mà bà không hiểu chữ nào.
 
-*Bố mi xem hai lần.*
+*[[ht: Bố mi xem hai lần. || Bố mày xem hai lần.]]*
 
-*Bố mi hỏi cái áo đó mua ở mô.*
+*[[ht: Bố mi hỏi cái áo đó mua ở mô. || Bố mày hỏi cái áo đó mua ở đâu.]]*
 
 Anh bật cười. Một mình, dưới cột đèn, một tiếng cười ngắn bật ra qua mũi. Một ông chạy xe ôm đang đỗ ở đầu ngõ ngẩng lên nhìn anh, rồi cúi xuống điện thoại tiếp.
 

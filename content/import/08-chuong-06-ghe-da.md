@@ -32,7 +32,7 @@ Kết quả SAT về giữa giờ ra chơi. 1540. Anh nhìn con số trên màn 
 
 Bài luận anh gửi cho sáu trường là bài luận thật nhất anh từng viết. Bằng tiếng Anh, vì bằng tiếng Việt anh không viết nổi. Về một cuốn sách bìa xanh thẫm, một cái bao tải giấy vụn ở góc bếp, mấy trang tinh vân gấp làm tư trong hộp bút sắt. Viết bằng tiếng Anh thì giống như kể chuyện của một người khác. Đỡ hơn.
 
-Thư nhận đến vào một sáng tháng một, mười ngày trước Tết. Một trường đại học ở một bang anh chưa bao giờ nghe tên trước khi tra cứu. Học bổng một phần. Dòng đầu tiên viết: *Congratulations.*
+Thư nhận đến vào một sáng tháng một, mười ngày trước Tết. Một trường đại học ở một bang anh chưa bao giờ nghe tên trước khi tra cứu. Học bổng một phần. Dòng đầu tiên viết: *[[en: Congratulations. || Chúc mừng em.]]*
 
 Anh đọc nó ba lần. Rồi lưu vào một thư mục riêng.
 
@@ -44,29 +44,29 @@ Nam, con bác Hùng, vừa có quyết định đi Nga học theo diện học b
 
 Đợi bác Hùng về, đợi mẹ dọn xong mâm, đợi tiếng bát chạm mâm thật nhẹ, không thành tiếng, anh mới lấy điện thoại ra.
 
-"Bọ, mạ. Con có cái này."
+"[[ht: Bọ, mạ. || Bố, mẹ.]] Con có cái này."
 
 Anh đưa màn hình ra. Bức thư bằng tiếng Anh. Anh dịch từng dòng, chậm, rõ ràng, như đọc bài trước lớp.
 
 Căn bếp im lặng rất lâu. Ngoài ngõ có tiếng pháo tép của bọn trẻ con nhà ai.
 
-"Ai cho mi nộp?" bố hỏi.
+"[[ht: Ai cho mi nộp? || Ai cho mày nộp?]]" bố hỏi.
 
 Anh không trả lời.
 
-"Tiền mô mà nộp?"
+"[[ht: Tiền mô mà nộp? || Tiền đâu mà nộp?]]"
 
 "…Tiền học tiếng Anh ạ."
 
 Mẹ đặt cái bát đang lau xuống mặt bàn. *Cạch.*
 
-"Đi Mỹ làm chi," bố nói. Giọng không to. Bố chưa bao giờ cần to. "Con một trong nhà. Học ở trong nước, sau ni về tỉnh mà làm."
+"[[ht: Đi Mỹ làm chi, || Đi Mỹ làm gì,]]" bố nói. Giọng không to. Bố chưa bao giờ cần to. "Con một trong nhà. [[ht: Học ở trong nước, sau ni về tỉnh mà làm. || Học ở trong nước, sau này về tỉnh mà làm.]]"
 
-"Nhà có tiền thì có tiền," mẹ nói. "Mà tiền không phải để mi bỏ nhà mà đi."
+"Nhà có tiền thì có tiền," mẹ nói. "[[ht: Mà tiền không phải để mi bỏ nhà mà đi. || Mà tiền không phải để mày bỏ nhà mà đi.]]"
 
 "Con nhà bác Hùng cũng đi nước ngoài mà mạ."
 
-"Thằng Nam là Nhà nước cho đi," mẹ nói, nhanh, như đã chuẩn bị sẵn câu đó từ lâu. "Khác. Mi đi là tự bỏ nhà mà đi."
+"Thằng Nam là Nhà nước cho đi," mẹ nói, nhanh, như đã chuẩn bị sẵn câu đó từ lâu. "Khác. [[ht: Mi đi là tự bỏ nhà mà đi. || Mày đi là tự bỏ nhà mà đi.]]"
 
 Anh nhìn mẹ. Anh nhìn bố. Anh đọc được tất cả: cái vai bố không trùng xuống, ngón tay mẹ bấm vào mép bàn, ánh mắt cả hai cùng tránh cái màn hình điện thoại. Không có câu nào anh nói ra được có thể làm cái vai ấy trùng xuống.
 
@@ -216,7 +216,7 @@ Vy không nhắn gì nữa. Ở hành lang, cô đi ngang qua anh, mắt nhìn t
 
 Cuối tháng năm, cổng xét tuyển mở.
 
-Mẹ gọi điện tối Chủ nhật, nói đúng câu mẹ đã nói từ hồi Tết: "Tuyển thẳng thì chọn trường mô cũng được. Chọn Học viện Tài chính, ra làm ngân hàng cho nhàn thân."
+Mẹ gọi điện tối Chủ nhật, nói đúng câu mẹ đã nói từ hồi Tết: "[[ht: Tuyển thẳng thì chọn trường mô cũng được. Chọn Học viện Tài chính, ra làm ngân hàng cho nhàn thân. || Tuyển thẳng thì chọn trường nào cũng được. Chọn Học viện Tài chính, ra làm ngân hàng cho nhàn.]]"
 
 "Dạ."
 
@@ -234,19 +234,19 @@ Kết quả có vào giữa tháng bảy. Trúng tuyển.
 
 Anh gọi về nhà. Lần này mẹ bắt máy ngay hồi chuông đầu.
 
-"Đại học Công nghệ là học chi?"
+"[[ht: Đại học Công nghệ là học chi? || Đại học Công nghệ là học gì?]]"
 
 "Dạ, học về máy tính ạ."
 
-"Rứa là Tin à."
+"[[ht: Rứa là Tin à. || Thế là Tin à.]]"
 
 Im lặng. Anh đếm được bảy giây.
 
-"Đại học Quốc gia thì cũng được," mẹ nói. "Để mạ nói với bác Hùng."
+"Đại học Quốc gia thì cũng được," mẹ nói. "[[ht: Để mạ nói với bác Hùng. || Để mẹ nói với bác Hùng.]]"
 
 Anh cúp máy. Ngoài cửa sổ phòng trọ, mái tôn nhà bên đang hắt nắng chiều tháng bảy, chói đến mức không nhìn thẳng được.
 
-Anh mở thư mục riêng trong hộp thư, chỗ lưu bức thư có chữ *Congratulations.* Đổi tên thư mục thành *sau-nay*. Rồi đóng lại.
+Anh mở thư mục riêng trong hộp thư, chỗ lưu bức thư có chữ *[[en: Congratulations. || Chúc mừng em.]]* Đổi tên thư mục thành *sau-nay*. Rồi đóng lại.
 
 Sáng hôm sau, ở vòi nước chung cuối dãy trọ, anh vốc nước lên mặt. Chỉ hai lần. Rồi về phòng, bắt đầu xếp đồ vào thùng các tông, để ra Hà Nội.
 

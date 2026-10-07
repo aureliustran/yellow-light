@@ -58,7 +58,7 @@ Ban ngày anh đi học, lên lớp đúng giờ, ngồi bàn ba. Những môn c
 
 Ban đêm, anh vẫn rửa mặt bằng nước lạnh. Không còn gì phải giấu, không còn ai để giấu. Nhưng tay anh vẫn tự vặn vòi, vẫn tự vốc nước, vẫn đứng ở bồn rửa lâu hơn mức cần thiết. Như cái đồng hồ Casio vẫn đeo trên tay dù dây hơi rộng.
 
-Có một đêm, hai giờ sáng, anh mở hộp thư, mở thư mục *sau-nay*. Bức thư vẫn ở đó, dòng đầu tiên vẫn là *Congratulations.* Anh đọc một lần. Không đọc lại. Đóng thư mục, tắt máy, nằm xuống.
+Có một đêm, hai giờ sáng, anh mở hộp thư, mở thư mục *sau-nay*. Bức thư vẫn ở đó, dòng đầu tiên vẫn là *[[en: Congratulations. || Chúc mừng em.]]* Anh đọc một lần. Không đọc lại. Đóng thư mục, tắt máy, nằm xuống.
 
 Anh không mở nó thêm lần nào nữa.
 
@@ -170,11 +170,11 @@ Tối đó, cả đội đi ăn lẩu. Oẳn tù tì xem ai trả tiền. Anh th
 
 Về phòng, anh gọi điện về nhà. Không phải tối Chủ nhật. Mẹ bắt máy sau hồi chuông thứ ba.
 
-"Răng gọi giờ ni?"
+"[[ht: Răng gọi giờ ni? || Sao gọi giờ này?]]"
 
 "Dạ, con được giải Nhì một cuộc thi lập trình ạ."
 
-"Giải chi?"
+"[[ht: Giải chi? || Giải gì?]]"
 
 "Dạ… lập trình. Thi viết phần mềm ạ."
 
@@ -250,7 +250,7 @@ Sáu tháng ấy là sáu tháng anh không có thời gian để đứng ở b�
 
 Sáng nào cũng có cuộc họp đứng mười lăm phút. Mỗi người nói hôm qua làm gì, hôm nay làm gì, đang bị kẹt ở đâu. Đến tháng thứ hai thì anh nhận ra, sau mỗi cuộc họp, đã có hai ba người nhắn riêng hỏi anh về chỗ họ đang kẹt. Đến tháng thứ tư, quản lý của anh, một người Singapore nói tiếng Anh nhanh như súng liên thanh, bảo anh trong buổi đánh giá:
 
-*"You're the guy everyone goes to. I don't know how you do it."*
+*"[[en: You're the guy everyone goes to. I don't know how you do it. || Cậu là người ai cũng tìm đến. Tôi chẳng hiểu cậu làm thế nào.]]"*
 
 Anh cười, nói cảm ơn. Anh biết mình làm thế nào. Chỉ là không có cách nào nói ra mà nghe không giống một câu chuyện buồn.
 

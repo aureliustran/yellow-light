@@ -6,19 +6,19 @@ Oct 5, 2026 · @aureliustran.
 
 Tám giờ tối Chủ nhật, điện thoại rung. Không cần nhìn màn hình.
 
-Từ năm lớp mười đến giờ, năm năm, mẹ chưa gọi muộn một phút nào. Có lần anh thi giữa kỳ, để máy im lặng, tám giờ mười lăm ra khỏi phòng thi thì đã có bốn cuộc gọi nhỡ và một tin nhắn: *"Răng không nghe máy."* Không có dấu hỏi. Mẹ không bao giờ dùng dấu hỏi trong tin nhắn.
+Từ năm lớp mười đến giờ, năm năm, mẹ chưa gọi muộn một phút nào. Có lần anh thi giữa kỳ, để máy im lặng, tám giờ mười lăm ra khỏi phòng thi thì đã có bốn cuộc gọi nhỡ và một tin nhắn: *"[[ht: Răng không nghe máy. || Sao không nghe máy.]]"* Không có dấu hỏi. Mẹ không bao giờ dùng dấu hỏi trong tin nhắn.
 
 "Dạ con nghe."
 
-"Ăn chi chưa?"
+"[[ht: Ăn chi chưa? || Ăn gì chưa?]]"
 
 "Dạ rồi ạ."
 
-"Ăn chi?"
+"[[ht: Ăn chi? || Ăn gì?]]"
 
 "Dạ bún chả."
 
-"Bún chả thì có rau không? Ăn rau vô." Có tiếng tivi phía sau, kênh thời sự tỉnh. Có tiếng bố ho một tiếng. "Thầy mi gọi điện cho bọ rồi đó. Nói mi được lên phát biểu ở cái hội nghị chi đó."
+"Bún chả thì có rau không? [[ht: Ăn rau vô. || Ăn rau vào.]]" Có tiếng tivi phía sau, kênh thời sự tỉnh. Có tiếng bố ho một tiếng. "[[ht: Thầy mi gọi điện cho bọ rồi đó. Nói mi được lên phát biểu ở cái hội nghị chi đó. || Thầy mày gọi điện cho bố rồi đấy. Nói mày được lên phát biểu ở cái hội nghị gì đấy.]]"
 
 Anh khựng lại một chút. Thầy Bình có số của bố anh từ hồi làm hồ sơ đề tài, anh quên mất.
 
@@ -28,21 +28,21 @@ Anh khựng lại một chút. Thầy Bình có số của bố anh từ hồi l
 
 "Dạ… chắc có livestream."
 
-"Livestream là răng?"
+"[[ht: Livestream là răng? || Livestream là thế nào?]]"
 
 "Là phát trực tiếp trên mạng ạ."
 
-Mẹ im một lúc. Anh nghe được tiếng mẹ đang quay sang nói với bố, xa xa: *"Hắn nói có phát trên mạng."* Rồi tiếng bố, không rõ nói gì, chỉ nghe được chữ *"bác Hùng"*.
+Mẹ im một lúc. Anh nghe được tiếng mẹ đang quay sang nói với bố, xa xa: *"[[ht: Hắn nói có phát trên mạng. || Nó nói có phát trên mạng.]]"* Rồi tiếng bố, không rõ nói gì, chỉ nghe được chữ *"bác Hùng"*.
 
-"Rứa thì gửi cái đường link cho mạ," mẹ quay lại máy. "Mạ gửi cho bác Hùng."
+"[[ht: Rứa thì gửi cái đường link cho mạ, || Thế thì gửi cái đường link cho mẹ,]]" mẹ quay lại máy. "[[ht: Mạ gửi cho bác Hùng. || Mẹ gửi cho bác Hùng.]]"
 
 "Dạ."
 
-"Học hành răng rồi?"
+"[[ht: Học hành răng rồi? || Học hành thế nào rồi?]]"
 
 "Dạ bình thường ạ."
 
-"Bình thường là răng?"
+"[[ht: Bình thường là răng? || Bình thường là thế nào?]]"
 
 Anh mỉm cười một mình trong phòng trọ. Năm năm, câu hỏi này chưa bao giờ đổi.
 
@@ -82,19 +82,19 @@ Năm lớp chín, anh thi học sinh giỏi huyện. Toán nhất, Lý nhì.
 
 Hôm cầm giấy khen về, anh đặt nó lên bàn uống nước ở phòng khách, cạnh cái tủ kính, rồi đi thẳng lên phòng thay áo.
 
-"Răng không chào bọ?" Giọng mẹ từ dưới nhà vọng lên. "Cái mặt lúc mô cũng như ai nợ rứa."
+"[[ht: Răng không chào bọ? || Sao không chào bố?]]" Giọng mẹ từ dưới nhà vọng lên. "[[ht: Cái mặt lúc mô cũng như ai nợ rứa. || Lúc nào mặt cũng như ai nợ thế.]]"
 
 Anh đi xuống. Đứng trước mặt bố, chào.
 
 Bố gật, mắt vẫn nhìn tivi.
 
-"Chào rứa mà cũng chào," mẹ nói, rồi cầm tờ giấy khen lên, ngắm một lúc, mở tủ kính xếp vào ngoài cùng. Lau thêm một lượt dù hôm đó không phải thứ Bảy.
+"[[ht: Chào rứa mà cũng chào, || Chào thế mà cũng gọi là chào,]]" mẹ nói, rồi cầm tờ giấy khen lên, ngắm một lúc, mở tủ kính xếp vào ngoài cùng. Lau thêm một lượt dù hôm đó không phải thứ Bảy.
 
 Tối đó bác Hùng hàng xóm sang uống nước. Bác Hùng làm phó phòng gì đó trên huyện, bụng tròn, cười to, có thằng con trai tên Nam hơn anh một tuổi học trường huyện bên. Mẹ mở tủ, lấy tờ giấy khen ra cho bác xem. Anh ngồi trên cầu thang, nghe tiếng mẹ cười ngoài phòng khách, một kiểu cười anh ít khi nghe thấy, cao hơn bình thường một nấc.
 
-"Thằng Thuyên nhà ni giỏi thật," bác Hùng nói. "Mà răng hắn ít nói rứa? Gặp bác cũng không chào cho to."
+"[[ht: Thằng Thuyên nhà ni giỏi thật, || Thằng Thuyên nhà này giỏi thật,]]" bác Hùng nói. "[[ht: Mà răng hắn ít nói rứa? || Mà sao nó ít nói thế?]] Gặp bác cũng không chào cho to."
 
-"Hắn ù lỳ từ bé đó bác," mẹ nói. "Học thì được, mà người thì như cục đất."
+"[[ht: Hắn ù lỳ từ bé đó bác, || Nó ù lỳ từ bé đấy bác,]]" mẹ nói. "Học thì được, mà người thì như cục đất."
 
 Cả hai cùng cười.
 
@@ -106,7 +106,7 @@ Tháng đó mẹ thay vỏ gối cho cả nhà.
 
 Mẹ cầm cái vỏ gối cũ của anh ra sân, giũ giũ, rồi đứng nhìn nó một lúc dưới nắng. Ở một góc vỏ gối, vải bị thủng mấy lỗ nhỏ, xếp thành hình vòng cung, mép lỗ sờn xơ ra.
 
-"Răng vỏ gối mi rách hết rứa?" Mẹ giơ lên. "Chuột cắn à?"
+"[[ht: Răng vỏ gối mi rách hết rứa? || Sao vỏ gối mày rách hết thế?]]" Mẹ giơ lên. "Chuột cắn à?"
 
 Anh đứng ở cửa, nhìn mấy cái lỗ nhỏ hình vòng cung.
 
@@ -114,7 +114,7 @@ Anh đứng ở cửa, nhìn mấy cái lỗ nhỏ hình vòng cung.
 
 Tối đó mẹ đặt một cái bẫy chuột bằng sắt ở góc phòng anh, có miếng khoai lang nướng làm mồi. Sáng nào mẹ cũng ghé vào kiểm tra. Cái bẫy cứ nằm đó, miếng khoai khô dần, đen dần, không con chuột nào sập vào.
 
-Một tuần sau mẹ dẹp cái bẫy đi. "Chuột nhà ni khôn rứa," mẹ lẩm bẩm.
+Một tuần sau mẹ dẹp cái bẫy đi. "[[ht: Chuột nhà ni khôn rứa, || Chuột nhà này khôn thế,]]" mẹ lẩm bẩm.
 
 Anh không nói gì. Đêm đó anh lật cái gối mới lại, để mặt có khóa kéo xuống dưới, và cắn vào phần ruột bông bên trong, chỗ không ai thấy.
 

@@ -118,14 +118,19 @@ Có cái gì đó ở dưới câu ấy. Một tầng khác, như cái đáy gi�
 
 ---
 
-Part 1 cô nói trôi. Nghe là biết học trường quốc tế: không có cái độ trễ của người dịch từ tiếng Việt sang, từ vựng đời thường nhiều, phản xạ nhanh. Hỏi về quê, cô nói về Hà Nội, về con phố nhà ông bà có cây sấu già, rồi rẽ sang mùa sấu, rồi sang món sấu dầm bà làm, rồi sang chuyện bà mất năm cô học lớp chín, rồi đột ngột quay về: "*So yes, I like Hanoi.*" Hỏi về sở thích, cô nói về màu hồng, rất thẳng, không xin lỗi: "*I like pink. People think it is childish. I think people are wrong.*"
+Part 1 cô nói trôi. Nghe là biết học trường quốc tế: không có cái độ trễ của người dịch từ tiếng Việt sang, từ vựng đời thường nhiều, phản xạ nhanh. Hỏi về quê, cô nói về Hà Nội, về con phố nhà ông bà có cây sấu già, rồi rẽ sang mùa sấu, rồi sang món sấu dầm bà làm, rồi sang chuyện bà mất năm cô học lớp chín, rồi đột ngột quay về: "*[[en: So yes, I like Hanoi. || Nên là, vâng, em thích Hà Nội.]]*" Hỏi về sở thích, cô nói về màu hồng, rất thẳng, không xin lỗi: "*[[en: I like pink. People think it is childish. I think people are wrong. || Em thích màu hồng. Người ta nghĩ nó trẻ con. Em nghĩ người ta sai.]]*"
 
 Anh không ghi chữ nào vào lề đề. Anh vẽ. Một chấm ở đầu là câu hỏi. Một mũi tên đi ra từ chấm, đi được nửa đường thì gãy sang trái, gãy thêm lần nữa, vòng một cái, rồi nhảy cóc về đích.
 
 Part 2, anh lật thẻ đề, đẩy sang phía cô, bấm đồng hồ một phút chuẩn bị.
 
+:::dich en
 *Describe something important that you lost.*
 *You should say: what it was, when and where you lost it, how you lost it, and explain how you felt about losing it.*
+||
+*Hãy tả một thứ quan trọng bạn đã đánh mất.*
+*Bạn nên nói: đó là gì, mất khi nào và ở đâu, mất như thế nào, và giải thích bạn cảm thấy thế nào khi mất nó.*
+:::
 
 Cô đọc thẻ đề. Rồi cầm bút lên, không viết gì. Một phút trôi qua, giấy nháp vẫn trắng.
 
@@ -133,7 +138,7 @@ Anh ghi nhớ tờ giấy trắng ấy.
 
 "Bắt đầu," anh nói.
 
-"*I want to talk about a friend,*" cô nói. "*She was—*"
+"*[[en: I want to talk about a friend, || Em muốn kể về một người bạn,]]*" cô nói. "*[[en: She was— || Bạn ấy—]]*"
 
 Rồi dừng.
 
@@ -141,15 +146,15 @@ Dừng không phải vì quên từ. Anh biết cái kiểu dừng vì quên t�
 
 Hai giây. Ba giây.
 
-"*No,*" cô nói. "*Change.*"
+"*[[en: No, || Không,]]*" cô nói. "*[[en: Change. || Đổi.]]*"
 
 Cô lật tờ giấy nháp sang mặt khác, như thể câu vừa rồi viết ở mặt kia.
 
-"*I want to talk about an invitation card.*"
+"*[[en: I want to talk about an invitation card. || Em muốn kể về một tấm thiệp mời.]]*"
 
 Và cô kể về tấm thiệp. Một tấm thiệp màu kem viền nhũ vàng, của một sự kiện công nghệ. Cô đánh rơi nó ở một ngã tư, khi đèn vàng, khi một người phanh gấp suýt đâm vào cô. Cô kể bằng tiếng Anh, nhanh, nhiều chi tiết, và nhảy. Từ tấm thiệp nhảy sang cái đèn vàng. Từ đèn vàng nhảy sang chuyện cô nghĩ đèn vàng là đèn công bằng nhất, vì nó không bảo ai đi cũng không bảo ai dừng. Từ đó nhảy sang chuyện người phanh gấp đã đứng trên sân khấu một tuần sau. Rồi nhảy về tấm thiệp, giờ đã cong mép.
 
-"*I felt… not sad. Because the card was dead already. My brother cancelled it.*" Cô dừng. "*But it was mine.*"
+"*[[en: I felt… not sad. Because the card was dead already. My brother cancelled it. || Em thấy… không buồn. Vì tấm thiệp đã chết từ trước rồi. Anh trai em hủy nó.]]*" Cô dừng. "*[[en: But it was mine. || Nhưng nó là của em.]]*"
 
 Hai phút. Đồng hồ kêu.
 
@@ -159,7 +164,7 @@ Anh không vẽ gì vào lề đề trong suốt hai phút đó. Anh quên.
 
 Part 3 anh hỏi về sự trung thực trong xã hội, về chuyện người ta có nên nói thẳng không.
 
-"*Yes, I think it is very important,*" cô nói. Rồi cô kể về mẹ cô, người nói vòng ba câu mới đến ý chính. Rồi về một cô giáo cấp hai khen bài của cô trước lớp nhưng cho điểm thấp. Rồi về chuyện người Hà Nội hay mời "ăn cơm chưa" mà không định mời thật. Câu nào cũng sống, cũng có hình ảnh, nhưng câu sau không đứng lên vai câu trước. Đến lúc phải kết, cô hết đường, và vớ lấy cái chữ gần tay nhất: "*So… honesty is very important. Very important for… everyone.*"
+"*[[en: Yes, I think it is very important, || Vâng, em nghĩ điều đó rất quan trọng,]]*" cô nói. Rồi cô kể về mẹ cô, người nói vòng ba câu mới đến ý chính. Rồi về một cô giáo cấp hai khen bài của cô trước lớp nhưng cho điểm thấp. Rồi về chuyện người Hà Nội hay mời "ăn cơm chưa" mà không định mời thật. Câu nào cũng sống, cũng có hình ảnh, nhưng câu sau không đứng lên vai câu trước. Đến lúc phải kết, cô hết đường, và vớ lấy cái chữ gần tay nhất: "*[[en: So… honesty is very important. Very important for… everyone. || Nên là… trung thực rất quan trọng. Rất quan trọng với… mọi người.]]*"
 
 Xong. Anh tắt đồng hồ.
 
@@ -311,7 +316,7 @@ Cô gạch *công bằng*. Gạch *sân khấu*. Đến *đèn vàng* thì bút 
 
 "Để dành cho đề nào?"
 
-"Đề *describe a rule you think is unfair*. Hoặc *a time you made a quick decision*." Anh nói. "Thế giới có cả nghìn đề. Đèn vàng của em không chết được đâu. Gạch đi, kid."
+"Đề *[[en: describe a rule you think is unfair || tả một quy định bạn thấy bất công]]*. Hoặc *[[en: a time you made a quick decision || một lần bạn quyết định thật nhanh]]*." Anh nói. "Thế giới có cả nghìn đề. Đèn vàng của em không chết được đâu. Gạch đi, kid."
 
 Cô ngẩng phắt lên. "Đừng gọi em là kid."
 
@@ -329,7 +334,7 @@ Cô nhìn anh một lúc. Môi mím lại, má phồng lên một chút, như s�
 
 ---
 
-Lần thứ hai, cô vẫn nói sai. Vẫn rơi âm cuối, vẫn có một câu chia động từ sai, vẫn còn chút gì đó muốn rẽ ngang ở giữa bài, anh thấy rõ mắt cô liếc về phía chữ *đèn vàng* bị gạch. Nhưng cô không rẽ. Thiệp. Đánh rơi ở đâu. Đã chết từ trước khi rơi. *But it was mine.* Và câu cuối quay về đúng câu đầu.
+Lần thứ hai, cô vẫn nói sai. Vẫn rơi âm cuối, vẫn có một câu chia động từ sai, vẫn còn chút gì đó muốn rẽ ngang ở giữa bài, anh thấy rõ mắt cô liếc về phía chữ *đèn vàng* bị gạch. Nhưng cô không rẽ. Thiệp. Đánh rơi ở đâu. Đã chết từ trước khi rơi. *[[en: But it was mine. || Nhưng nó là của em.]]* Và câu cuối quay về đúng câu đầu.
 
 Một phút năm mươi giây.
 
@@ -411,7 +416,7 @@ Cô cười. Lần đầu tiên trong buổi chiều cô cười thật, không 
 
 "Quán bật điều hòa mười tám độ." Cô chỉ lên cái máy điều hòa trên tường. "Em ngồi đây hai tiếng em biết."
 
-Anh nhìn theo tay cô. Cái máy điều hòa trắng, màn hình tắt ngóm. Ngay cạnh là một cái sticker vàng đã bạc màu, chữ đen to tướng: *18 MONTH WARRANTY*.
+Anh nhìn theo tay cô. Cái máy điều hòa trắng, màn hình tắt ngóm. Ngay cạnh là một cái sticker vàng đã bạc màu, chữ đen to tướng: *[[en: 18 MONTH WARRANTY || BẢO HÀNH 18 THÁNG]]*.
 
 Anh cười phì.
 
@@ -447,7 +452,7 @@ Anh không ngẩng lên. "Câu nào?"
 
 "Câu ở summit. Câu hôm trước ở quán trà đá." Cô nói. "Những câu khác. Anh có tin câu nào khác không."
 
-Anh viết xong cụm từ thứ bảy. *In light of this.* Rồi cụm thứ tám.
+Anh viết xong cụm từ thứ bảy. *[[en: In light of this. || Xét đến điều này.]]* Rồi cụm thứ tám.
 
 "Anh trả lời rồi. Câu về cuốn sách."
 
@@ -713,14 +718,25 @@ Nhưng kỹ năng thì luyện được. Cái gì luyện được thì có các
 
 Anh bật đèn. Mở laptop. Mở file đề Speaking anh đã in hôm qua, kéo xuống cuối, gõ thêm một thẻ đề mới, căn lề, chọn font giống hệt các thẻ đề thật.
 
+:::dich en
 *Describe the kind of person you would like to have as a boyfriend.*
 *You should say: what he looks like, what he does, how you would like to meet him, and explain why this kind of person would suit you.*
+||
+*Hãy tả kiểu người bạn muốn có làm bạn trai.*
+*Bạn nên nói: anh ấy trông thế nào, làm nghề gì, bạn muốn gặp anh ấy ra sao, và giải thích vì sao kiểu người này hợp với bạn.*
+:::
 
 Rồi Part 3, ba câu, gõ rất nghiêm túc:
 
+:::dich en
 *Do you think people should date someone similar to themselves?*
 *How important is appearance when choosing a partner?*
 *Should men always make the first move?*
+||
+*Bạn có nghĩ người ta nên hẹn hò với người giống mình không?*
+*Ngoại hình quan trọng đến đâu khi chọn người yêu?*
+*Đàn ông có nên luôn là người chủ động trước không?*
+:::
 
 Anh đọc lại một lượt. Không có trong bộ đề nào của IDP hay British Council. Nhưng định dạng chuẩn từng dấu chấm, chủ đề nghe hoàn toàn hợp lý cho một kỳ thi về đời sống, và câu Part 3 cuối cùng đủ để người ra đề ngồi nghe câu trả lời mà không phải tự mình bước bước đầu tiên.
 
@@ -734,7 +750,7 @@ Anh gửi cho Vũ một tấm ảnh chụp màn hình cái thẻ đề. Lần n�
 
 *đề speaking buổi sau*
 
-*Vũ Béo: describe your type of boyfriend???*
+*Vũ Béo: [[en: describe your type of boyfriend??? || tả kiểu bạn trai của mày???]]*
 
 *Vũ Béo: ielts có đề này thật à*
 

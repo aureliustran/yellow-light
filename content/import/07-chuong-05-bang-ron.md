@@ -118,23 +118,23 @@ Tối đó anh gọi điện về nhà. Không phải tối thứ Tư. Không ph
 
 Mẹ bắt máy sau hồi chuông thứ năm.
 
-"Răng gọi giờ ni? Có chuyện chi?"
+"[[ht: Răng gọi giờ ni? Có chuyện chi? || Sao gọi giờ này? Có chuyện gì?]]"
 
 "Dạ không có chuyện gì ạ. Con… con được giải Nhì quốc gia ạ."
 
 Đầu dây bên kia im một lúc. Có tiếng tivi.
 
-"Giải Nhì à," mẹ nói. "Môn chi?"
+"Giải Nhì à," mẹ nói. "[[ht: Môn chi? || Môn gì?]]"
 
 "Dạ, môn Tin ạ."
 
 Lại im. Lâu hơn.
 
-"Tin à." Mẹ dừng một chút. "Rứa có được tuyển thẳng đại học không?"
+"Tin à." Mẹ dừng một chút. "[[ht: Rứa có được tuyển thẳng đại học không? || Thế có được tuyển thẳng đại học không?]]"
 
 "Dạ có ạ."
 
-"Ừ. Rứa là được." Tiếng mẹ quay sang nói với bố, xa xa. Rồi quay lại máy. "Thôi học bài đi. Cuối tuần về."
+"[[ht: Ừ. Rứa là được. || Ừ. Thế là được.]]" Tiếng mẹ quay sang nói với bố, xa xa. Rồi quay lại máy. "Thôi học bài đi. Cuối tuần về."
 
 Một phút bốn mươi giây.
 
@@ -148,13 +148,13 @@ Mẹ mở tủ kính, cất tờ giấy khen vào ngoài cùng, xếp cho thẳn
 
 Bác Hùng cầm tờ giấy khen lên, đọc to từng chữ, rồi cười.
 
-"Giải Nhì quốc gia, giỏi thật. Mà Tin thì sau ni ra làm chi hè? Sửa máy tính à?" Bác vỗ vai anh. "Đùa thôi, đùa thôi. Giỏi lắm."
+"Giải Nhì quốc gia, giỏi thật. [[ht: Mà Tin thì sau ni ra làm chi hè? Sửa máy tính à? || Mà Tin thì sau này ra làm gì nhỉ? Sửa máy tính à?]]" Bác vỗ vai anh. "Đùa thôi, đùa thôi. Giỏi lắm."
 
 Mẹ cười theo. Cái kiểu cười cao hơn bình thường một nấc.
 
 Bữa cơm tối hôm đó, bố gắp cho anh một miếng cá. Đó là lần đầu tiên trong năm bố gắp thức ăn cho anh. Anh nhìn miếng cá trong bát, chưa kịp nghĩ gì thì bố nói:
 
-"Tin học thì được cái chi. Năm sau thi thêm Toán đi. Toán mới là môn chính."
+"[[ht: Tin học thì được cái chi. || Tin học thì được cái gì.]] Năm sau thi thêm Toán đi. Toán mới là môn chính."
 
 "Thằng Nam giải Ba Toán mà bác Hùng khoe khắp cả huyện," mẹ nói, gắp thêm rau. "Giải Ba thôi đó."
 
@@ -184,7 +184,7 @@ Danh sách thứ hai dài hơn danh sách thứ nhất.
 
 Sáng hôm sau mẹ thay vỏ gối, cầm cái vỏ cũ ra sân giũ, rồi nhìn nó một lúc dưới nắng.
 
-"Chuột lại về rồi," mẹ nói. "Nhà ni chuột khôn thật."
+"Chuột lại về rồi," mẹ nói. "[[ht: Nhà ni chuột khôn thật. || Nhà này chuột khôn thật.]]"
 
 ---
 
@@ -204,7 +204,7 @@ Mẹ ngẩng lên. "Học mấy tháng?"
 
 "Dạ, chắc đến hết năm ạ. Tiền học với tiền thi hơi nhiều."
 
-Mẹ nghĩ một lúc. Bàn tay vẫn nhặt rau, tách lá ra khỏi cọng, nhanh và đều. "Ừ. Học chi có ích thì học. Bao nhiêu thì nói mạ chuyển."
+Mẹ nghĩ một lúc. Bàn tay vẫn nhặt rau, tách lá ra khỏi cọng, nhanh và đều. "Ừ. [[ht: Học chi có ích thì học. Bao nhiêu thì nói mạ chuyển. || Học gì có ích thì học. Bao nhiêu thì nói mẹ chuyển.]]"
 
 Thế là xong. Không có câu "hỏi chi lắm rứa". Không có cái nhìn rất lâu rồi quay đi.
 
