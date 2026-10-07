@@ -47,7 +47,7 @@ const PASSAGES = {
   '12-chuong-09-den-san-khong-tat.md': [
     ['\\[Pickup tối T7 🏀\\]', 4, 'in'],
     ['đang đến. bảo bọn nó đứng nghiêm', 2, 'out'],
-    ['con ăn rồi mạ. lần sau con nói chậm', 2, 'out'],
+    // Not "con ăn rồi mạ…": that one is a draft he edits before sending.
   ],
   '13-chuong-10-nguoi-duoc-moi.md': [
     ['Ngọc Anh (K71): anh ơiiii em tưởng em chết rồi 😭', 2, 'in'],
@@ -83,6 +83,22 @@ const PASSAGES = {
     ['học sinh khó dạy. nói như đi xe máy không xi nhan', 2, 'out'],
     ['Vũ Béo: ?', 14, 'out'],
   ],
+};
+
+// Messages Thuyên sends inside a sentence: "Thuyên gõ: *7h. im mồm đi vua hợi*".
+// Each entry is the start of the paragraph and what happens to the words
+// before the message: 'lead' keeps them as narration above the chat box
+// ("Thuyên gõ:"), 'note' puts them inside the box as a small caption
+// ("Với Đức:"). Chat boxes that end up next to each other are joined.
+const INLINE = {
+  '03-chuong-01-den-vang.md': [
+    ['Thuyên trả lời Ngọc Anh: *', 'lead'],
+    ['Với Đức: *', 'note'],
+    ['Với Vũ: *', 'note'],
+    ['Thuyên gõ: *', 'lead'],
+    ['Rồi anh mở tin nhắn của Đức, gõ thêm: *', 'note'],
+  ],
+  '05-chuong-03-tieng-dep.md': [['Anh gõ: *dạ*', 'lead']],
 };
 
 const ITALIC_LINE = /^\*(?!\*)(.+?)(?<!\*)\*$/;
@@ -148,6 +164,40 @@ for (const [file, passages] of Object.entries(PASSAGES)) {
     }
     lines.splice(start, end - start + 1, ...toChat(messages, dir).split('\n'));
     report.push(`  ${String(count).padStart(2)} tin · ${first.length > 60 ? first.slice(0, 57) + '…' : first}`);
+  }
+
+  for (const [prefix, mode] of INLINE[file] ?? []) {
+    const at = lines.flatMap((l, i) => (l.startsWith(prefix) ? [i] : []));
+    if (at.length !== 1) {
+      if (at.length > 1) problems.push(`${file}: "${prefix}" xuất hiện ${at.length} lần, bỏ qua`);
+      else if (!lines.some((l) => l.startsWith(prefix.replace(/ \*.*$/, '')))) problems.push(`${file}: không thấy "${prefix}"`);
+      continue;
+    }
+    // Split the paragraph into narration and *messages*
+    const parts = lines[at[0]].split(/\*([^*]+)\*/);
+    if (parts.length < 3 || parts.at(-1).trim()) {
+      problems.push(`${file}: "${prefix}" không kết thúc bằng tin nhắn, bỏ qua`);
+      continue;
+    }
+    const chat = [];
+    const out = [];
+    parts.forEach((p, i) => {
+      const t = p.trim();
+      if (i % 2 === 1) chat.push(`> ${t}`);
+      else if (t && i === 0 && mode === 'lead') out.push(t, '');
+      else if (t) chat.push(`~ ${t}`);
+    });
+    out.push(':::chat', ...chat, ':::');
+    lines.splice(at[0], 1, ...out);
+    report.push(`  ${String(chat.filter((c) => c.startsWith('>')).length).padStart(2)} tin · ${prefix.slice(0, -3)}…`);
+  }
+
+  // Join chat boxes separated only by blank lines (the second one untitled)
+  for (let i = 0; i < lines.length; i++) {
+    if (lines[i] !== ':::' || !lines.slice(0, i).reverse().find((l) => l.startsWith(':::'))?.startsWith(':::chat')) continue;
+    let j = i + 1;
+    while (j < lines.length && !lines[j].trim()) j++;
+    if (lines[j] === ':::chat') lines.splice(i, j - i + 1);
   }
 
   if (report.length) {

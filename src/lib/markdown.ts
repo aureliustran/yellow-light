@@ -5,7 +5,8 @@
 //
 //   ---                         a scene break, drawn as a small traffic light
 //
-//   :::chat Group name          a block of text messages (group name optional)
+//   :::chat Group name          a block of text messages (group name optional):
+//                               "Name: text" received, "> text" sent, "~ text" a small note
 //   Ngọc Anh (K71): hello       a received message, with sender name
 //   just text                   a received message without a name
 //   > ok trưa a xem             a sent message (from the point-of-view character)
@@ -41,6 +42,7 @@ export function escapeHtml(s: string): string {
 
 interface ChatLine {
   out: boolean;
+  note?: boolean;
   name: string | null;
   tokens: Tokens.Generic[];
 }
@@ -62,6 +64,9 @@ const chatExtension: TokenizerAndRendererExtension = {
       .map((l) => l.trim())
       .filter(Boolean)
       .map((l) => {
+        if (l.startsWith('~')) {
+          return { out: false, note: true, name: null, tokens: this.lexer.inlineTokens(l.replace(/^~\s?/, '')) };
+        }
         if (l.startsWith('>')) {
           return { out: true, name: null, tokens: this.lexer.inlineTokens(l.replace(/^>\s?/, '')) };
         }
@@ -77,13 +82,16 @@ const chatExtension: TokenizerAndRendererExtension = {
     const lines = token.lines as ChatLine[];
     const title = token.title ? `<figcaption class="chat-title">${escapeHtml(token.title)}</figcaption>` : '';
     // Like a messenger app: consecutive messages from the same person are
-    // grouped, and the name is shown only above the first one.
+    // grouped, and the name is shown only above the first one. A note line
+    // ("~ Với Đức:") is a small caption between messages.
     const msgs = lines
       .map((l, i) => {
+        const body = this.parser.parseInline(l.tokens);
+        if (l.note) return `<p class="chat-note">${body}</p>`;
         const prev = lines[i - 1];
-        const cont = !!prev && prev.out === l.out && prev.name === l.name;
+        const cont = !!prev && !prev.note && prev.out === l.out && prev.name === l.name;
         const name = l.name && !cont ? `<span class="msg-name">${escapeHtml(l.name)}</span>` : '';
-        return `<div class="msg ${l.out ? 'out' : 'in'}${cont ? ' cont' : ''}">${name}<p class="bubble">${this.parser.parseInline(l.tokens)}</p></div>`;
+        return `<div class="msg ${l.out ? 'out' : 'in'}${cont ? ' cont' : ''}">${name}<p class="bubble">${body}</p></div>`;
       })
       .join('');
     return `<figure class="chat">${title}${msgs}</figure>\n`;

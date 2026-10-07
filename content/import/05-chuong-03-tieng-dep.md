@@ -172,7 +172,11 @@ Không có dấu chấm cuối câu. Mẹ không bao giờ dùng dấu chấm tr
 
 Thuyên nhìn sang cái móc treo sau cửa. Ở đó có một cái áo polo xanh navy, con ngựa nhỏ thêu trên ngực hơi lệch. Một cái quần âu màu xám than. Dưới gầm giường, một đôi derby boot da nâu đã đánh xi từ tối qua.
 
-Anh gõ: *dạ*
+Anh gõ:
+
+:::chat
+> dạ
+:::
 
 Rồi tháo cái Casio trên cổ tay ra, đặt lên bàn, cạnh cái điện thoại. Dây vẫn hơi rộng. Năm năm rồi, anh chưa bao giờ mang nó đi bóp lại dây.
 

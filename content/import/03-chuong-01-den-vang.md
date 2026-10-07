@@ -44,11 +44,17 @@ Vũ Béo: tối nay ra k m, mấy đứa năm nhất đòi gặp "idol" kìa vcl
 Vũ Béo: m mà k ra t bảo m bận đi Mỹ
 :::
 
-Thuyên trả lời Ngọc Anh: *ok trưa a xem, demo cứ chạy thử trước 1 lần với máy chiếu phòng 302 nhé, máy đấy hay lag lắm.* Nghĩ một chút, anh gõ thêm: *mà làm được thế là ổn rồi, đừng sợ.*
+Thuyên trả lời Ngọc Anh:
 
-Với Đức: *ơ ai cho ông nhận hộ tôi thế*
-
-Với Vũ: *idol cc. ok vua hợi, tối tính*
+:::chat
+> ok trưa a xem, demo cứ chạy thử trước 1 lần với máy chiếu phòng 302 nhé, máy đấy hay lag lắm.
+~ Nghĩ một chút, anh gõ thêm:
+> mà làm được thế là ổn rồi, đừng sợ.
+~ Với Đức:
+> ơ ai cho ông nhận hộ tôi thế
+~ Với Vũ:
+> idol cc. ok vua hợi, tối tính
+:::
 
 Đèn xanh. Anh đi thêm hai trăm mét đến ngã tư tiếp theo, cái ngã tư có đèn đếm ngược mà con số 3 với mỗi người một nghĩa. Với anh, 3 là sắp vàng. Với nửa còn lại của Hà Nội, 3 là còn kịp chán.
 
@@ -207,10 +213,11 @@ Vũ Béo: tối tính là mấy h, nói rõ ra thằng chó
 Vũ Béo: hay lại cho t leo cây như tuần trước
 :::
 
-Thuyên gõ: *7h. im mồm đi vua hợi*
+Thuyên gõ:
 
 :::chat
+> 7h. im mồm đi vua hợi
 > bảo mấy đứa năm nhất mang nước, idol k tự mua nước
+~ Rồi anh mở tin nhắn của Đức, gõ thêm:
+> ok ông bảo thầy là tôi đi nhé. lần sau hỏi tôi trước đã ông ơi
 :::
-
-Rồi anh mở tin nhắn của Đức, gõ thêm: *ok ông bảo thầy là tôi đi nhé. lần sau hỏi tôi trước đã ông ơi*
