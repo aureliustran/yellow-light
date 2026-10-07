@@ -15,7 +15,7 @@
     "translations": "node scripts/apply-translations.mjs"
   },
   "dependencies": {
-    "@astrojs/vercel": "^8.0.4",
+    "@astrojs/vercel": "^11.0.12",
     "@supabase/supabase-js": "^2.117.3",
     "astro": "^7.3.6",
     "marked": "^18.1.0"
