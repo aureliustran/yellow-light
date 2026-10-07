@@ -76,10 +76,14 @@ const chatExtension: TokenizerAndRendererExtension = {
   renderer(token) {
     const lines = token.lines as ChatLine[];
     const title = token.title ? `<figcaption class="chat-title">${escapeHtml(token.title)}</figcaption>` : '';
+    // Like a messenger app: consecutive messages from the same person are
+    // grouped, and the name is shown only above the first one.
     const msgs = lines
-      .map((l) => {
-        const name = l.name ? `<span class="msg-name">${escapeHtml(l.name)}</span>` : '';
-        return `<div class="msg ${l.out ? 'out' : 'in'}">${name}<p class="bubble">${this.parser.parseInline(l.tokens)}</p></div>`;
+      .map((l, i) => {
+        const prev = lines[i - 1];
+        const cont = !!prev && prev.out === l.out && prev.name === l.name;
+        const name = l.name && !cont ? `<span class="msg-name">${escapeHtml(l.name)}</span>` : '';
+        return `<div class="msg ${l.out ? 'out' : 'in'}${cont ? ' cont' : ''}">${name}<p class="bubble">${this.parser.parseInline(l.tokens)}</p></div>`;
       })
       .join('');
     return `<figure class="chat">${title}${msgs}</figure>\n`;

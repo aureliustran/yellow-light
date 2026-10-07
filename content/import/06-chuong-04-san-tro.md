@@ -4,11 +4,11 @@ Oct 5, 2026 · @aureliustran.
 
 *Thứ Hai, 5/10/2026*
 
-*Vũ Béo: ra sân k m*
-
-*Vũ Béo: t mua nước r*
-
-*Vũ Béo: mua nhầm nước có ga nhưng uống vẫn đc*
+:::chat
+Vũ Béo: ra sân k m
+Vũ Béo: t mua nước r
+Vũ Béo: mua nhầm nước có ga nhưng uống vẫn đc
+:::
 
 Bảy giờ tối, sân khu tập thể nhà Vũ sáng hai bóng đèn cao áp, một bóng chập chờn như đang cân nhắc có nên tắt hẳn không. Mấy bà trong khu đi bộ vòng quanh sân, vung tay theo nhạc phát từ cái loa kẹo kéo treo trên cành sấu. Bọn trẻ con đạp xe ba bánh lao qua vạch ném phạt mỗi khi có ai sắp ném.
 
@@ -292,13 +292,16 @@ Anh lưu file. Đặt tên *ban-nhap-2*. Gập máy.
 
 Trên điện thoại, Vũ gửi một tấm ảnh chụp cái quần ướt của nó, kèm dòng chữ:
 
-*Vũ Béo: đây là cái giá của việc chơi vs idol*
+:::chat
+Vũ Béo: đây là cái giá của việc chơi vs idol
+:::
 
 Thuyên gõ lại:
 
-*idol k bảo hành quần*
-
-*đi ngủ đi vua hợi*
+:::chat
+> idol k bảo hành quần
+> đi ngủ đi vua hợi
+:::
 
 ---
 

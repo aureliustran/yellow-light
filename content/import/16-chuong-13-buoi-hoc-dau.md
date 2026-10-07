@@ -612,23 +612,25 @@ Lần thứ hai, anh nhìn con số. Lần thứ ba, anh nhìn dòng nội dung.
 
 Điện thoại rung.
 
-*Chủ tọa: Hôm nay anh làm gì?*
+:::chat
+Chủ tọa: Hôm nay anh làm gì?
+:::
 
 Anh nhìn tin nhắn. Có chữ hoa đầu câu, có dấu hỏi. Anh gõ:
 
-*đi dạy. kiếm tiền trà đá*
-
-*Chủ tọa: Dạy gì?*
-
-*ielts. học sinh đầu tiên, giá học thử*
-
-*Chủ tọa: Học sinh có giỏi không?*
+:::chat
+> đi dạy. kiếm tiền trà đá
+Chủ tọa: Dạy gì?
+> ielts. học sinh đầu tiên, giá học thử
+Chủ tọa: Học sinh có giỏi không?
+:::
 
 Anh nhìn câu hỏi một lúc. Nghĩ đến cuốn sổ hồng. Đến cái dây nối. Đến cái gõ tay hai lần.
 
-*học sinh khó dạy. nói như đi xe máy không xi nhan*
-
-*Chủ tọa: Anh nói như người thích việc khó.*
+:::chat
+> học sinh khó dạy. nói như đi xe máy không xi nhan
+Chủ tọa: Anh nói như người thích việc khó.
+:::
 
 Anh không trả lời câu đó. Anh cất điện thoại, đi bộ ra bến xe buýt, đi dọc bờ hồ, Crocs đen dẫm lên mấy cánh hoa giấy hồng rụng trên vỉa hè.
 
@@ -744,33 +746,22 @@ Học sinh của anh không cần biết đề này là đề thật hay đề a
 
 Anh gửi cho Vũ một tấm ảnh chụp màn hình cái thẻ đề. Lần này không xóa.
 
-*Vũ Béo: ?*
-
-*Vũ Béo: đề gì đây*
-
-*đề speaking buổi sau*
-
-*Vũ Béo: [[en: describe your type of boyfriend??? || tả kiểu bạn trai của mày???]]*
-
-*Vũ Béo: ielts có đề này thật à*
-
-*giờ thì có*
-
-*Vũ Béo: ...*
-
-*Vũ Béo: đm*
-
-*Vũ Béo: tà đạo vcl*
-
-*Vũ Béo: quân sư tình yêu cả sân đến lượt mình thì đéo dám hỏi thẳng, đi soạn hẳn đề thi để hỏi hộ*
-
-*luyện kỹ năng*
-
-*Vũ Béo: kỹ năng lừa học sinh*
-
-*kỹ năng hỏi*
-
-*Vũ Béo: t xin rút lại câu m đứng im như cột đèn. m là cột đèn biết soạn giáo án*
+:::chat
+Vũ Béo: ?
+Vũ Béo: đề gì đây
+> đề speaking buổi sau
+Vũ Béo: [[en: describe your type of boyfriend??? || tả kiểu bạn trai của mày???]]
+Vũ Béo: ielts có đề này thật à
+> giờ thì có
+Vũ Béo: ...
+Vũ Béo: đm
+Vũ Béo: tà đạo vcl
+Vũ Béo: quân sư tình yêu cả sân đến lượt mình thì đéo dám hỏi thẳng, đi soạn hẳn đề thi để hỏi hộ
+> luyện kỹ năng
+Vũ Béo: kỹ năng lừa học sinh
+> kỹ năng hỏi
+Vũ Béo: t xin rút lại câu m đứng im như cột đèn. m là cột đèn biết soạn giáo án
+:::
 
 Anh cười, bấm in. Cái máy in dưới gầm bàn lại kêu rè rè như con mèo ốm, nhả ra đúng một tờ.
 

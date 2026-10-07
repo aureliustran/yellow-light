@@ -34,17 +34,15 @@ Ba lô nhẹ hơn mọi khi. Không có laptop công ty. Ngăn trước vẫn c�
 
 Điện thoại rung. Anh đợi đến đèn đỏ mới rút ra xem.
 
-*\[CLB Tin học – Ban điều hành\]*
+:::chat CLB Tin học – Ban điều hành
+Ngọc Anh (K71): anh Thuyên ơi slide workshop tuần sau anh duyệt giúp em với ạ, em sửa theo góp ý của anh rồi á, nhưng phần demo em vẫn sợ sợ 🥲
+Đức (PCN): à Thuyên ơi, thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy
+:::
 
-*Ngọc Anh (K71): anh Thuyên ơi slide workshop tuần sau anh duyệt giúp em với ạ, em sửa theo góp ý của anh rồi á, nhưng phần demo em vẫn sợ sợ 🥲*
-
-*Đức (PCN): à Thuyên ơi, thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy*
-
-*\[Pickup tối T7 🏀\]*
-
-*Vũ Béo: tối nay ra k m, mấy đứa năm nhất đòi gặp "idol" kìa vcl*
-
-*Vũ Béo: m mà k ra t bảo m bận đi Mỹ*
+:::chat Pickup tối T7 🏀
+Vũ Béo: tối nay ra k m, mấy đứa năm nhất đòi gặp "idol" kìa vcl
+Vũ Béo: m mà k ra t bảo m bận đi Mỹ
+:::
 
 Thuyên trả lời Ngọc Anh: *ok trưa a xem, demo cứ chạy thử trước 1 lần với máy chiếu phòng 302 nhé, máy đấy hay lag lắm.* Nghĩ một chút, anh gõ thêm: *mà làm được thế là ổn rồi, đừng sợ.*
 
@@ -204,12 +202,15 @@ Anh bỏ tấm thiệp vào ngăn trước ba lô, cạnh sợi dây đeo thẻ 
 
 Điện thoại lại rung.
 
-*Vũ Béo: tối tính là mấy h, nói rõ ra thằng chó*
-
-*Vũ Béo: hay lại cho t leo cây như tuần trước*
+:::chat
+Vũ Béo: tối tính là mấy h, nói rõ ra thằng chó
+Vũ Béo: hay lại cho t leo cây như tuần trước
+:::
 
 Thuyên gõ: *7h. im mồm đi vua hợi*
 
-*bảo mấy đứa năm nhất mang nước, idol k tự mua nước*
+:::chat
+> bảo mấy đứa năm nhất mang nước, idol k tự mua nước
+:::
 
 Rồi anh mở tin nhắn của Đức, gõ thêm: *ok ông bảo thầy là tôi đi nhé. lần sau hỏi tôi trước đã ông ơi*

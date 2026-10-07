@@ -190,13 +190,12 @@ Anh không ứng cử. Ban cũ họp, bầu, rồi Đức, phó chủ nhiệm, n
 
 Từ đó, điện thoại của anh không bao giờ im.
 
-*anh Thuyên ơi em hỏi chút được k ạ*
-
-*Thuyên ơi ông xem giúp tôi cái kế hoạch này*
-
-*a ơi bọn em cãi nhau r, a quyết đi ạ*
-
-*@Thuyên ý kiến?*
+:::chat
+anh Thuyên ơi em hỏi chút được k ạ
+Thuyên ơi ông xem giúp tôi cái kế hoạch này
+a ơi bọn em cãi nhau r, a quyết đi ạ
+@Thuyên ý kiến?
+:::
 
 Đàn em mang vấn đề đến, như ngày xưa đội hackathon mang vấn đề đến. Một đứa không biết bắt đầu đề tài từ đâu. Một đứa cãi nhau với bạn cùng nhóm. Một đứa muốn bỏ ngành nhưng không dám nói với bố mẹ. Đức thì cứ đến lúc phải quyết định cái gì là lại quay sang: "Ông thấy sao?"
 

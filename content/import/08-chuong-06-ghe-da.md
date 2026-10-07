@@ -6,7 +6,9 @@ Oct 5, 2026 · @aureliustran.
 
 Hai đêm trước summit, thầy Bình nhắn:
 
-*Thầy Bình: Thuyên ơi bản nháp đâu em? Mai thứ Sáu rồi đấy.*
+:::chat
+Thầy Bình: Thuyên ơi bản nháp đâu em? Mai thứ Sáu rồi đấy.
+:::
 
 Thuyên mở *ban-nhap-2*. Đoạn về thầy Quang vẫn ở đó, gọn gàng, giữ được. Ngay bên dưới là một dòng anh viết dở từ hôm trước:
 
@@ -150,7 +152,9 @@ Về phòng, anh nằm úp mặt xuống gối. Lần này để cắn.
 
 Ba tuần trước kỳ thi tốt nghiệp, Vy nhắn lúc mười hai giờ kém mười.
 
-*Vy: a ra sân dc k*
+:::chat
+Vy: a ra sân dc k
+:::
 
 Không dấu chấm than. Không "ừ". Chỉ có thế.
 

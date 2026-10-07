@@ -54,13 +54,12 @@ Anh đọc hai lần, rồi lưu email vào một thư mục riêng.
 
 Ngay bên dưới, trong ứng dụng nhắn tin, có một chấm đỏ ở mục tin nhắn chờ. Một tài khoản lạ. Ảnh đại diện là một chiếc Vespa hồng chụp từ trên xuống, đỗ dưới một gốc cây.
 
-*anh phanh gấp*
-
-*trả thiệp cho em*
-
-*em thấy anh trên page trường r. bài phỏng vấn ấy*
-
-*chiều nay em rảnh*
+:::chat
+anh phanh gấp
+trả thiệp cho em
+em thấy anh trên page trường r. bài phỏng vấn ấy
+chiều nay em rảnh
+:::
 
 Anh nhìn bốn dòng tin nhắn. Không có lời chào. Không có tên. Không có dấu câu. Không có câu "anh còn nhớ em không ạ" hay "xin lỗi đã làm phiền anh" như người lạ vẫn hay mở đầu. Cô nhắn như người ta nhắn cho đứa bạn cùng phòng rằng hết giấy vệ sinh rồi.
 
@@ -108,17 +107,19 @@ Anh gõ:
 
 Rồi xóa đi. Gõ lại:
 
-*thiệp đấy chết rồi mà. mã bị hủy rồi*
+:::chat
+> thiệp đấy chết rồi mà. mã bị hủy rồi
+:::
 
 Gửi.
 
 Ba chấm hiện lên gần như ngay lập tức.
 
-*em biết. anh em hủy*
-
-*nhưng nó là của em*
-
-*3h chiều. em qua xuân thủy*
+:::chat
+em biết. anh em hủy
+nhưng nó là của em
+3h chiều. em qua xuân thủy
+:::
 
 Anh nhìn dòng thứ hai một lúc lâu. *Nhưng nó là của em.* Không phải vì cần dùng. Không phải vì sợ mất. Chỉ vì nó là của cô.
 
@@ -328,55 +329,50 @@ Còn cô thì nhớ.
 
 Điện thoại rung.
 
-*Vũ Béo: trả đồ xong chưa*
-
-*Vũ Béo: công chúa có đòi bồi thường k*
+:::chat
+Vũ Béo: trả đồ xong chưa
+Vũ Béo: công chúa có đòi bồi thường k
+:::
 
 Anh gõ:
 
-*k. công chúa còn tự trả tiền trà đá*
-
-*Vũ Béo: ơ thế là công chúa hay là dân*
+:::chat
+> k. công chúa còn tự trả tiền trà đá
+Vũ Béo: ơ thế là công chúa hay là dân
+:::
 
 Anh chưa kịp trả lời thì một tin nhắn khác hiện lên, từ cái tài khoản có ảnh đại diện là chiếc Vespa hồng.
 
-*chủ nhật 25. 2h chiều*
-
-*[vị trí]*
+:::chat
+chủ nhật 25. 2h chiều
+[vị trí]
+:::
 
 Một quán cà phê trên phố Xuân Diệu. Ảnh thu nhỏ của quán hiện lên cạnh cái ghim bản đồ: tường hồng, ghế hồng, một giàn hoa giấy hồng rủ xuống trước cửa.
 
 Anh nhìn cái ảnh, rồi nhìn xuống đôi Crocs đen của mình.
 
-*Vũ Béo: ê sao k trả lời. công chúa hay là dân*
+:::chat
+Vũ Béo: ê sao k trả lời. công chúa hay là dân
+:::
 
 Anh gõ:
 
-*công chúa thuê t dạy ielts*
-
-*Vũ Béo: ????*
-
-*Vũ Béo: m tính bn*
-
-*giá học thử. dạy được thì tăng giá, như sầu riêng đầu mùa*
-
-*Vũ Béo: m mà lấy giá học thử á. thằng này hôm nay bị gì*
-
-*Vũ Béo: khoan*
-
-*Vũ Béo: lúc nó hỏi m trả lời thế nào. đừng bảo là "ok em"*
-
-*t bảo dạy thử 1 buổi*
-
-*Vũ Béo: giọng gì*
-
-*giọng thực tế*
-
-*Vũ Béo: tổng đài. biết ngay*
-
-*Vũ Béo: đm gái xinh tự tìm đến tận nơi, tự ngồi ghế nhựa, tự trả tiền trà, còn thuê mình dạy. kiếp trước m cứu nước à*
-
-*Vũ Béo: t ghen tị đấy. nói thật*
+:::chat
+> công chúa thuê t dạy ielts
+Vũ Béo: ????
+Vũ Béo: m tính bn
+> giá học thử. dạy được thì tăng giá, như sầu riêng đầu mùa
+Vũ Béo: m mà lấy giá học thử á. thằng này hôm nay bị gì
+Vũ Béo: khoan
+Vũ Béo: lúc nó hỏi m trả lời thế nào. đừng bảo là "ok em"
+> t bảo dạy thử 1 buổi
+Vũ Béo: giọng gì
+> giọng thực tế
+Vũ Béo: tổng đài. biết ngay
+Vũ Béo: đm gái xinh tự tìm đến tận nơi, tự ngồi ghế nhựa, tự trả tiền trà, còn thuê mình dạy. kiếp trước m cứu nước à
+Vũ Béo: t ghen tị đấy. nói thật
+:::
 
 Anh cất điện thoại vào túi, đứng dậy, chào bà cụ. Bà gật đầu, nhai trầu, chỉ vào cái thẻ trên cổ anh.
 

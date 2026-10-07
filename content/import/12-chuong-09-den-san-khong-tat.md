@@ -10,19 +10,18 @@ Thuyên mặc cái áo phông đen ôm sát, loại vải co giãn bó lấy vai
 
 Điện thoại trên giường rung ba lần liền.
 
-*\[Pickup tối T7 🏀\]*
-
-*Vũ Béo: idol đến chưa*
-
-*Vũ Béo: bọn năm nhất đến từ 6h r, đứng xếp hàng như đi khám nghĩa vụ*
-
-*Hưng: anh ơi em mang bóng mới ạ 🏀🏀*
+:::chat Pickup tối T7 🏀
+Vũ Béo: idol đến chưa
+Vũ Béo: bọn năm nhất đến từ 6h r, đứng xếp hàng như đi khám nghĩa vụ
+Hưng: anh ơi em mang bóng mới ạ 🏀🏀
+:::
 
 Anh gõ:
 
-*đang đến. bảo bọn nó đứng nghiêm*
-
-*bóng mới thì cho hưng giao quả đầu*
+:::chat
+> đang đến. bảo bọn nó đứng nghiêm
+> bóng mới thì cho hưng giao quả đầu
+:::
 
 Rồi nhét điện thoại vào túi quần, vớ cái bóng cũ ở góc phòng, đi ra.
 
@@ -352,9 +351,10 @@ Anh bật cười. Một mình, dưới cột đèn, một tiếng cười ngắ
 
 Anh gõ:
 
-*con ăn rồi mạ. lần sau con nói chậm*
-
-*áo con mua ở hà nội. mạ ngủ đi*
+:::chat
+> con ăn rồi mạ. lần sau con nói chậm
+> áo con mua ở hà nội. mạ ngủ đi
+:::
 
 Rồi nghĩ một lúc, xóa chữ "ở hà nội", gõ lại: *áo con mua trên mạng.* Gửi. Cất điện thoại. Đi tiếp.
 

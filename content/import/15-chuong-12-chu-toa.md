@@ -24,23 +24,17 @@ Cái thẻ chết anh để lại trên bàn. Hôm nay không cần.
 
 Anh chụp một tấm ảnh đôi giày gửi cho Vũ. Không viết gì.
 
-*Vũ Béo: ơ*
-
-*Vũ Béo: derby*
-
-*Vũ Béo: hôm nay có việc gì to à*
-
-*đi làm chuyên gia*
-
-*Vũ Béo: chuyên gia gì*
-
-*chuyên gia đứng một chỗ nói 15p rồi bị hỏi*
-
-*Vũ Béo: thế khác gì đi thi vấn đáp*
-
-*khác. thi vấn đáp k có bữa trưa*
-
-*Vũ Béo: đm. nhớ chụp ảnh đồ ăn*
+:::chat
+Vũ Béo: ơ
+Vũ Béo: derby
+Vũ Béo: hôm nay có việc gì to à
+> đi làm chuyên gia
+Vũ Béo: chuyên gia gì
+> chuyên gia đứng một chỗ nói 15p rồi bị hỏi
+Vũ Béo: thế khác gì đi thi vấn đáp
+> khác. thi vấn đáp k có bữa trưa
+Vũ Béo: đm. nhớ chụp ảnh đồ ăn
+:::
 
 ---
 
@@ -374,13 +368,12 @@ Anh phóng to tấm ấy. Nhìn cái tay che miệng. Nhìn cái kẹp tóc đ�
 
 Điện thoại rung.
 
-*Chủ tọa: Giấy chứng nhận của anh. Ban tổ chức gửi ạ.*
-
-*Chủ tọa: [tệp PDF]*
-
-*Chủ tọa: Câu ở hành lang của anh hay hơn câu trong phòng. Em định ghi vào biên bản nhưng bạn thư ký bảo lời nói ở hành lang không được ghi vào nghị quyết.*
-
-*Chủ tọa: Câu ChatGPT thì bạn thư ký ghi rồi. Bạn ấy cười đến mức viết sai chính tả.*
+:::chat
+Chủ tọa: Giấy chứng nhận của anh. Ban tổ chức gửi ạ.
+Chủ tọa: [tệp PDF]
+Chủ tọa: Câu ở hành lang của anh hay hơn câu trong phòng. Em định ghi vào biên bản nhưng bạn thư ký bảo lời nói ở hành lang không được ghi vào nghị quyết.
+Chủ tọa: Câu ChatGPT thì bạn thư ký ghi rồi. Bạn ấy cười đến mức viết sai chính tả.
+:::
 
 Anh nhìn ba tin nhắn. Có chữ hoa đầu câu. Có dấu chấm cuối câu. Có cả chữ "ạ" ở tin đầu, như văn bản hành chính, rồi tin thứ ba thì không còn chữ "ạ" nào nữa.
 
@@ -388,81 +381,80 @@ Khác hẳn một người khác. Một người nhắn bốn dòng không dấu
 
 Anh gõ:
 
-*em hỏi câu đấy để đánh đố hay vì em muốn biết*
+:::chat
+> em hỏi câu đấy để đánh đố hay vì em muốn biết
+:::
 
 Ba chấm hiện lên. Tắt. Hiện lại.
 
-*Chủ tọa: Cả hai. Chủ yếu là đánh đố.*
-
-*Chủ tọa: Nhưng câu trả lời của anh làm em muốn biết thật.*
+:::chat
+Chủ tọa: Cả hai. Chủ yếu là đánh đố.
+Chủ tọa: Nhưng câu trả lời của anh làm em muốn biết thật.
+:::
 
 Anh xoay người nằm nghiêng, điện thoại kề sát mặt. Ngoài cửa sổ, bức tường nhà bên vẫn ở đó, vàng ố dưới đèn đường.
 
-*hôm nay em làm anh ra khỏi sân*
-
-*Chủ tọa: Em biết.*
-
-*Chủ tọa: Anh đứng ngoài sân trông cũng không tệ.*
+:::chat
+> hôm nay em làm anh ra khỏi sân
+Chủ tọa: Em biết.
+Chủ tọa: Anh đứng ngoài sân trông cũng không tệ.
+:::
 
 Anh đọc câu đó hai lần. Rồi gõ, xóa, gõ lại, xóa. Cuối cùng anh gõ cái câu đã nghĩ từ lúc đứng ở hàng ảnh tập thể, nửa vai bị đại biểu Brazil che mất:
 
-*lần sau em ngồi ghế đại biểu, anh làm chủ tọa xem*
+:::chat
+> lần sau em ngồi ghế đại biểu, anh làm chủ tọa xem
+:::
 
 Lần này ba chấm hiện lên rất lâu.
 
-*Chủ tọa: Anh không đủ tư cách.*
+:::chat
+Chủ tọa: Anh không đủ tư cách.
+:::
 
 Anh bật cười một mình trong căn phòng trọ.
 
 Ba chấm lại hiện lên.
 
-*Chủ tọa: Nhưng em sẽ cho anh dự thính.*
+:::chat
+Chủ tọa: Nhưng em sẽ cho anh dự thính.
+:::
 
 Anh đặt điện thoại úp xuống ngực. Trần nhà có một vết thấm hình con cá, anh đã nhìn nó hai năm, hôm nay nó vẫn hình con cá.
 
 Một lúc sau, anh lật điện thoại lên, định trả lời. Màn hình hiện thông báo khác.
 
-*Vũ Béo: ảnh đồ ăn đâu*
-
-*Vũ Béo: hay là bữa trưa k có thật*
+:::chat
+Vũ Béo: ảnh đồ ăn đâu
+Vũ Béo: hay là bữa trưa k có thật
+:::
 
 Anh gửi cho Vũ tấm ảnh hộp cơm trưa: cơm, thịt kho, rau muống xào, một quả chuối.
 
-*Vũ Béo: thế mà cũng phải đi derby*
-
-*derby là cho người ta nhìn. cơm là cho mình ăn*
-
-*Vũ Béo: câu này hay. m nói với bao nhiêu người rồi*
-
-*mày là người đầu tiên*
-
-*Vũ Béo: ơ tự nhiên t thấy được trân trọng*
-
-*Vũ Béo: mà hội nghị ngoại giao chắc nhiều gái xinh nhỉ*
-
-*bình thường*
-
-*Vũ Béo: m bảo bình thường tức là xinh vl. con bé bán nước mía cổng trường m còn khen cute*
-
-*Vũ Béo: có đứa nào xin số k*
+:::chat
+Vũ Béo: thế mà cũng phải đi derby
+> derby là cho người ta nhìn. cơm là cho mình ăn
+Vũ Béo: câu này hay. m nói với bao nhiêu người rồi
+> mày là người đầu tiên
+Vũ Béo: ơ tự nhiên t thấy được trân trọng
+Vũ Béo: mà hội nghị ngoại giao chắc nhiều gái xinh nhỉ
+> bình thường
+Vũ Béo: m bảo bình thường tức là xinh vl. con bé bán nước mía cổng trường m còn khen cute
+Vũ Béo: có đứa nào xin số k
+:::
 
 Anh nhìn cái tên *Chủ tọa* nằm ngay dưới cuộc trò chuyện với Vũ.
 
-*k*
-
-*Vũ Béo: m đọc tin xong 30s mới trả lời chữ k. t biết m nói dối*
-
-*Vũ Béo: đứa nào. kể*
-
-*chủ tọa. xin số để gửi giấy chứng nhận*
-
-*Vũ Béo: giấy chứng nhận cái đầu m*
-
-*Vũ Béo: rồi m nhắn gì với nó. lại "vâng cảm ơn em" đúng k*
-
-*Vũ Béo: chụp màn hình t duyệt*
-
-*k. riêng tư của chủ tọa, m không đủ tư cách dự thính*
+:::chat
+> k
+Vũ Béo: m đọc tin xong 30s mới trả lời chữ k. t biết m nói dối
+Vũ Béo: đứa nào. kể
+> chủ tọa. xin số để gửi giấy chứng nhận
+Vũ Béo: giấy chứng nhận cái đầu m
+Vũ Béo: rồi m nhắn gì với nó. lại "vâng cảm ơn em" đúng k
+Vũ Béo: chụp màn hình t duyệt
+> k. riêng tư của chủ tọa, m không đủ tư cách dự thính
+:::
 
 Anh mở lại cuộc trò chuyện với cô, nhìn câu mình vừa gửi. *Lần sau em ngồi ghế đại biểu, anh làm chủ tọa xem.* Không phải giọng tổng đài. Lần này Vũ đoán sai.
 
@@ -470,17 +462,14 @@ Nhưng anh biết vì sao. Với cô, anh đọc được. Câu nào ném ra anh
 
 Còn với một người khác, người nhắn bốn dòng không dấu, anh vẫn chưa ném được câu nào.
 
-*Vũ Béo: đm hai đứa trong một tuần*
-
-*Vũ Béo: t đánh bóng 10 năm chưa đứa nào xin số. m lên sân khấu 15p*
-
-*Vũ Béo: tháng này m bao t trà đá. coi như thuế*
-
-*ok*
-
-*Vũ Béo: ok cái gì. m phải cãi chứ. m nhận nhanh thế là có thật đúng k*
-
-*Vũ Béo: ĐM*
+:::chat
+Vũ Béo: đm hai đứa trong một tuần
+Vũ Béo: t đánh bóng 10 năm chưa đứa nào xin số. m lên sân khấu 15p
+Vũ Béo: tháng này m bao t trà đá. coi như thuế
+> ok
+Vũ Béo: ok cái gì. m phải cãi chứ. m nhận nhanh thế là có thật đúng k
+Vũ Béo: ĐM
+:::
 
 Anh thoát ra. Lướt lên. Ngay dưới đoạn chat với Vũ là cái tài khoản có ảnh đại diện chiếc Vespa hồng, tin nhắn cuối vẫn là cái ghim bản đồ: quán cà phê trên Xuân Diệu, tường hồng, ghế hồng, hoa giấy hồng. *Chủ nhật 25. 2h chiều.*
 
