@@ -1,0 +1,61 @@
+---
+import '../styles/global.css';
+import { story } from '../config';
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  bodyClass?: string;
+  noindex?: boolean;
+}
+
+const { title, description = story.description, image = '/cover-og.jpg', bodyClass = '', noindex = false } = Astro.props;
+const fullTitle = title ? `${title} · ${story.title}` : `${story.title} – ${story.author}`;
+const site = Astro.site ?? new URL(Astro.url.origin);
+const canonical = new URL(Astro.url.pathname, site).toString();
+const imageUrl = new URL(image, site).toString();
+---
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  {noindex && <meta name="robots" content="noindex" />}
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content={story.title} />
+  <meta property="og:title" content={fullTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:image" content={imageUrl} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:locale" content="vi_VN" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="theme-color" content="#D3E0E8" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#0F1920" media="(prefers-color-scheme: dark)" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,300..500;1,6..72,300..500&display=swap"
+  />
+  <script is:inline>
+    // Apply saved theme and text size before the page paints.
+    (function () {
+      try {
+        var t = localStorage.getItem('dv:theme');
+        if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t;
+        var s = parseInt(localStorage.getItem('dv:size') || '', 10);
+        if (s >= 16 && s <= 28) document.documentElement.style.setProperty('--read-size', s + 'px');
+      } catch (e) {}
+    })();
+  </script>
+</head>
+<body class={bodyClass}>
+  <slot />
+  <div class="toast" role="status" aria-live="polite" hidden></div>
+</body>
+</html>

@@ -1,0 +1,15 @@
+---
+import { story } from '../config';
+interface Props { small?: boolean }
+const { small = false } = Astro.props;
+const w = small ? 16 : 22;
+---
+<a href="/" class="brand">
+  <svg width={w} height={Math.round(w * 34 / 22)} viewBox="0 0 22 34" aria-hidden="true">
+    <rect x="1" y="1" width="20" height="32" rx="6" fill="#3B4F5C" />
+    <circle cx="11" cy="9" r="3.4" fill="#26343E" />
+    <circle cx="11" cy="17" r="4" fill="#F0A43A" />
+    <circle cx="11" cy="25" r="3.4" fill="#26343E" />
+  </svg>
+  <span class="brand-name">{story.title}</span>
+</a>

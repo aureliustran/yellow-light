@@ -1,0 +1,61 @@
+name: Backup chapters
+
+# Every day at 02:17 Vietnam time: copy all chapters from Supabase into
+# backup/chapters/ and commit if anything changed. The daily read also keeps
+# the free Supabase project from pausing for inactivity.
+on:
+  schedule:
+    - cron: '17 19 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check secrets
+        id: secrets
+        env:
+          URL: ${{ secrets.SUPABASE_URL }}
+          KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          if [ -z "$URL" ] || [ -z "$KEY" ]; then
+            echo "::warning::Add SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY under Settings → Secrets and variables → Actions."
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-node@v4
+        if: steps.secrets.outputs.ok == 'true'
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install
+        if: steps.secrets.outputs.ok == 'true'
+        run: npm ci --no-audit --no-fund
+
+      - name: Export chapters
+        if: steps.secrets.outputs.ok == 'true'
+        env:
+          PUBLIC_SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: node scripts/export-chapters.mjs
+
+      - name: Commit if changed
+        if: steps.secrets.outputs.ok == 'true'
+        run: |
+          git config user.name "den-vang-backup[bot]"
+          git config user.email "den-vang-backup@users.noreply.github.com"
+          git add backup
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Backup chapters $(date -u +%F)"
+            git push
+          fi

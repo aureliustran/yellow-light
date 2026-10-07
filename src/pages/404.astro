@@ -1,0 +1,16 @@
+---
+import Base from '../layouts/Base.astro';
+import Brand from '../components/Brand.astro';
+import ThemeToggle from '../components/ThemeToggle.astro';
+import Footer from '../components/Footer.astro';
+export const prerender = true;
+---
+<Base title="Không tìm thấy" noindex bodyClass="fog">
+  <header class="wrap site-header"><Brand /><nav class="nav"><ThemeToggle /></nav></header>
+  <main class="narrow message-page">
+    <h1>Lạc đường rồi</h1>
+    <p>Trang này không tồn tại.</p>
+    <a class="btn primary" href="/#muc-luc">Về mục lục</a>
+  </main>
+  <Footer />
+</Base>

@@ -1,0 +1,139 @@
+---
+import Base from '../../layouts/Base.astro';
+import Brand from '../../components/Brand.astro';
+import Account from '../../components/Account.astro';
+import ThemeToggle from '../../components/ThemeToggle.astro';
+import { interludeColors } from '../../config';
+import '../../styles/admin.css';
+export const prerender = true;
+---
+<Base title="Quản lý chương" noindex>
+  <header class="site-header bar">
+    <div style="display:flex;align-items:center;gap:16px"><Brand small /><span class="eyebrow">Quản lý</span></div>
+    <div class="reader-tools"><a class="btn ghost small" href="/">Xem trang</a><ThemeToggle /><Account /></div>
+  </header>
+
+  <main class="admin">
+    <section class="gate" data-gate="loading"><p>Đang kiểm tra quyền…</p></section>
+    <section class="gate" data-gate="config" hidden>
+      <h1>Chưa kết nối</h1>
+      <p>Thiếu PUBLIC_SUPABASE_URL và PUBLIC_SUPABASE_ANON_KEY. Xem README, mục "Cài đặt".</p>
+    </section>
+    <section class="gate" data-gate="signedout" hidden>
+      <h1>Quản lý chương</h1>
+      <p>Đăng nhập bằng tài khoản Google của tác giả.</p>
+      <button type="button" class="btn primary big" data-gate-login>Đăng nhập</button>
+    </section>
+    <section class="gate" data-gate="denied" hidden>
+      <h1>Không có quyền</h1>
+      <p>Tài khoản <strong data-gate-email></strong> chưa phải quản trị viên. Nếu đây là tài khoản của bạn, chạy lệnh sau trong Supabase → SQL Editor rồi tải lại trang:</p>
+      <pre data-gate-sql></pre>
+    </section>
+
+    <div class="admin-grid" data-admin hidden>
+      <aside class="list-pane" aria-labelledby="list-title">
+        <div class="pane-head">
+          <h1 id="list-title">Chương</h1>
+          <button type="button" class="btn primary small" data-new>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14" /></svg>
+            Chương mới
+          </button>
+        </div>
+        <ol class="ch-list" data-list aria-label="Danh sách chương, kéo để sắp xếp"></ol>
+        <p class="list-note">Kéo biểu tượng ⋮⋮ hoặc dùng mũi tên để đổi thứ tự. Thứ tự được lưu ngay, số chương tự đánh lại.</p>
+      </aside>
+
+      <section class="editor-pane" aria-label="Soạn chương">
+        <div class="empty-editor" data-empty-editor>Chọn một chương bên trái, hoặc tạo chương mới.</div>
+
+        <form class="editor" data-editor hidden novalidate>
+          <div class="field">
+            <label for="f-title">Tên chương</label>
+            <input id="f-title" class="title-input" type="text" name="title" required maxlength="200" autocomplete="off" />
+          </div>
+
+          <div class="fields-row">
+            <div class="field">
+              <span class="label" id="kind-label">Loại</span>
+              <div class="radio-row" role="radiogroup" aria-labelledby="kind-label">
+                <label><input type="radio" name="kind" value="chapter" checked /> Chương (có số)</label>
+                <label><input type="radio" name="kind" value="interlude" /> Interlude</label>
+              </div>
+            </div>
+            <div class="field">
+              <label for="f-slug">Địa chỉ trang</label>
+              <input id="f-slug" type="text" name="slug" required pattern="[a-z0-9]+(-[a-z0-9]+)*" autocomplete="off" spellcheck="false" />
+              <span class="help">/doc/<span data-slug-preview></span></span>
+            </div>
+          </div>
+
+          <div class="field" data-color-field hidden>
+            <span class="label" id="color-label">Màu chấm của interlude</span>
+            <div class="swatches" role="group" aria-labelledby="color-label">
+              {interludeColors.map((c) => (
+                <button type="button" class="swatch" data-swatch={c.hex} style={`background:${c.hex}`} aria-label={c.name} title={c.name} aria-pressed="false"></button>
+              ))}
+              <input type="color" name="color" aria-label="Màu khác" value="#D9C8B0" />
+            </div>
+          </div>
+
+          <div class="fields-row">
+            <div class="field">
+              <label for="f-date">Ngày trong truyện</label>
+              <input id="f-date" type="text" name="story_date" placeholder="Thứ Bảy, 3/10/2026" maxlength="80" />
+            </div>
+            <div class="field">
+              <label for="f-status">Trạng thái</label>
+              <select id="f-status" name="status">
+                <option value="draft">Nháp (chỉ bạn thấy)</option>
+                <option value="published">Đăng</option>
+              </select>
+            </div>
+            <div class="field" data-publish-field hidden>
+              <label for="f-publish">Giờ lên đèn</label>
+              <input id="f-publish" type="datetime-local" name="publish_at" />
+              <span class="help">Để trống là đăng ngay. Chọn giờ trong tương lai để hẹn giờ.</span>
+            </div>
+          </div>
+
+          <div class="field">
+            <div class="body-tools">
+              <div class="insert-tools" aria-label="Chèn định dạng">
+                <button type="button" class="btn small" data-insert="break">Ngắt cảnh</button>
+                <button type="button" class="btn small" data-insert="chat">Tin nhắn</button>
+                <button type="button" class="btn small" data-insert="en">Dịch EN</button>
+                <button type="button" class="btn small" data-insert="ht">Dịch HT</button>
+                <button type="button" class="btn small" data-insert="block">Đoạn dịch</button>
+              </div>
+              <div class="tabs" role="tablist" aria-label="Chế độ soạn">
+                <button type="button" role="tab" aria-selected="true" aria-controls="f-body" data-tab="write">Viết</button>
+                <button type="button" role="tab" aria-selected="false" aria-controls="preview" data-tab="preview">Xem trước</button>
+              </div>
+            </div>
+            <label for="f-body" class="visually-hidden">Nội dung (Markdown)</label>
+            <textarea id="f-body" class="body-input" name="body" spellcheck="false"></textarea>
+            <div id="preview" class="preview" data-preview hidden>
+              <span id="tr-hint" class="visually-hidden">Cụm từ có bản dịch. Bấm để đổi giữa nguyên bản và bản dịch.</span>
+              <div class="prose" data-preview-body></div>
+            </div>
+          </div>
+
+          <ul class="problems" data-problems aria-live="polite" hidden></ul>
+
+          <div class="editor-actions">
+            <button type="submit" class="btn primary" data-save>Lưu</button>
+            <a class="btn" data-view target="_blank" rel="noopener" hidden>Xem trên trang</a>
+            <span class="save-state" data-save-state aria-live="polite"></span>
+            <span class="spacer"></span>
+            <button type="button" class="btn danger" data-delete hidden>Xóa chương</button>
+          </div>
+        </form>
+      </section>
+    </div>
+  </main>
+</Base>
+
+<script>
+  import { initAdmin } from '../../scripts/admin';
+  initAdmin();
+</script>

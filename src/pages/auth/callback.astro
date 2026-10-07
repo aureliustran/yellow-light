@@ -1,0 +1,35 @@
+---
+import Base from '../../layouts/Base.astro';
+export const prerender = true;
+---
+<Base title="Đang đăng nhập" noindex bodyClass="fog">
+  <main class="narrow message-page">
+    <h1 data-title>Đèn vàng…</h1>
+    <p data-msg>Đang đăng nhập, chờ một chút.</p>
+    <a class="btn" href="/" data-home hidden>Về trang chủ</a>
+  </main>
+</Base>
+
+<script>
+  import { browserClient, isConfigured } from '../../lib/supabase';
+  import { safeNext } from '../../scripts/auth';
+
+  const params = new URLSearchParams(location.search);
+  const next = safeNext(params.get('next') ?? '/');
+  const fail = (msg: string) => {
+    document.querySelector('[data-title]')!.textContent = 'Đèn đỏ';
+    document.querySelector('[data-msg]')!.textContent = msg;
+    (document.querySelector('[data-home]') as HTMLElement).hidden = false;
+  };
+
+  (async () => {
+    const providerError = params.get('error_description') || params.get('error');
+    if (providerError) return fail('Không đăng nhập được: ' + providerError);
+    if (!isConfigured) return fail('Trang chưa được kết nối với Supabase.');
+    const code = params.get('code');
+    if (!code) return location.replace(next);
+    const { error } = await browserClient().auth.exchangeCodeForSession(code);
+    if (error) return fail('Không đăng nhập được: ' + error.message);
+    location.replace(next);
+  })();
+</script>

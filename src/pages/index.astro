@@ -1,0 +1,121 @@
+---
+import Base from '../layouts/Base.astro';
+import Brand from '../components/Brand.astro';
+import Account from '../components/Account.astro';
+import ThemeToggle from '../components/ThemeToggle.astro';
+import Stars from '../components/Stars.astro';
+import Footer from '../components/Footer.astro';
+import { story } from '../config';
+import { isConfigured } from '../lib/supabase';
+import { getPublishedChapters } from '../lib/chapters';
+import { chapterLabel, type NumberedChapter } from '../lib/chapters-shared';
+
+let chapters: NumberedChapter[] = [];
+let problem: string | null = null;
+if (!isConfigured) {
+  problem = 'Trang chưa được kết nối với cơ sở dữ liệu. Xem README, mục "Cài đặt".';
+} else {
+  try {
+    chapters = await getPublishedChapters();
+  } catch (e) {
+    problem = 'Không tải được mục lục. Thử tải lại trang sau ít phút.';
+    console.error(e);
+  }
+}
+Astro.response.headers.set('Cache-Control', problem ? 'no-store' : 'public, s-maxage=30, stale-while-revalidate=300');
+
+const first = chapters[0];
+const latest = chapters.at(-1);
+const chapterCount = chapters.filter((c) => c.kind === 'chapter').length;
+const interludeCount = chapters.length - chapterCount;
+---
+<Base bodyClass="fog">
+  <header class="wrap site-header">
+    <Brand />
+    <nav class="nav" aria-label="Điều hướng chính">
+      <a href="#muc-luc">Mục lục</a>
+      <ThemeToggle />
+      <Account />
+    </nav>
+  </header>
+
+  <main>
+    <section class="wrap hero">
+      <div class="hero-text">
+        <div class="hero-status eyebrow amber"><span class="lamp"></span>{story.status}</div>
+        <h1>{story.title}</h1>
+        <div class="author">{story.author}</div>
+        <ul class="tags" aria-label="Thể loại">
+          {story.tags.map((t) => <li>{t}</li>)}
+        </ul>
+        <div class="blurb">
+          {story.blurb.map((p) => <p>{p}</p>)}
+        </div>
+        <div class="stats">
+          <div><div class="stat-value">{chapterCount}</div><div class="stat-label eyebrow">chương</div></div>
+          {interludeCount > 0 && <div><div class="stat-value">{interludeCount}</div><div class="stat-label eyebrow">interlude</div></div>}
+          <div><div class="stat-value" data-story-views>—</div><div class="stat-label eyebrow">lượt đọc</div></div>
+          <div><div class="stat-value" data-story-rating>—</div><div class="stat-label eyebrow" data-story-rating-count>điểm đánh giá</div></div>
+        </div>
+        <div class="actions">
+          {first && (
+            <a class="btn primary big" href={`/doc/${first.slug}`}>
+              Đọc từ đầu
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" /></svg>
+            </a>
+          )}
+          <a class="btn big" href="#" data-continue hidden></a>
+          {latest && latest !== first && (
+            <a class="btn big" href={`/doc/${latest.slug}`}>Mới nhất · {latest.kind === 'chapter' ? latest.number : latest.title}</a>
+          )}
+        </div>
+        {isConfigured && (
+          <div class="story-rating">
+            <Stars label="Chấm điểm cả truyện" small data-story-stars />
+            <span class="hint" data-story-hint>Chấm điểm cả truyện</span>
+          </div>
+        )}
+      </div>
+      <div class="cover">
+        <img src="/cover.webp" width="848" height="1264" alt="Bìa truyện Đèn Vàng: đèn giao thông vàng trong sương, hai chiếc xe máy dừng ở vạch" fetchpriority="high" />
+      </div>
+    </section>
+
+    <section class="narrow toc" id="muc-luc" aria-labelledby="toc-title">
+      <div class="toc-head">
+        <h2 id="toc-title">Mục lục</h2>
+      </div>
+      {problem && <p class="empty-note">{problem}</p>}
+      {!problem && chapters.length === 0 && <p class="empty-note">Chương đầu tiên sắp lên đèn…</p>}
+      {chapters.length > 0 && (
+        <ol class="lane">
+          {chapters.map((c) => (
+            <li>
+              <a href={`/doc/${c.slug}`}>
+                <span class:list={['node', { interlude: c.kind === 'interlude', latest: c === latest }]} aria-hidden="true">
+                  <span style={c.kind === 'interlude' && c !== latest ? `background:${c.color ?? '#D9C8B0'}` : undefined}></span>
+                </span>
+                <span class="toc-text">
+                  <span class="eyebrow">{chapterLabel(c)}</span>
+                  <span class:list={['toc-title', { italic: c.kind === 'interlude' }]}>{c.title}</span>
+                </span>
+                {c === latest && <span class="badge">Mới nhất</span>}
+              </a>
+            </li>
+          ))}
+          <li class="writing">
+            <span class="node" aria-hidden="true"><span class="lamp pulse"></span></span>
+            Chương tiếp theo đang được viết…
+          </li>
+        </ol>
+      )}
+    </section>
+  </main>
+
+  <Footer />
+</Base>
+
+<script>
+  import { initHome } from '../scripts/home';
+  initHome();
+</script>
