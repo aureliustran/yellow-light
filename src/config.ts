@@ -4,7 +4,13 @@ export const story = {
   title: 'Đèn Vàng',
   author: 'Aurelius',
   status: 'Truyện dài · Đang ra',
-  tags: ['Học đường', 'Romance', 'Slice of life', 'Drama'],
+  // Genre tags, roughly in the order the story reaches them.
+  tags: [
+    'Học đường', 'Ngôn tình', 'Đời thường', 'Chính kịch',
+    'Đấu trí', 'Chốn công sở', 'Hào môn thế gia', 'Nam chính xám',
+    'Tâm lý', 'Bí ẩn', 'Ngược', 'Slow burn', 'Chữa lành',
+    'Du học', 'Khởi nghiệp', 'Thương chiến',
+  ],
   // Home page blurb, one string per paragraph. This is a draft: rewrite it.
   blurb: [
     'Sáng thứ Bảy, Thuyên dừng lại ở đèn vàng. Cô gái đi Vespa hồng phía sau thì không.',
@@ -12,7 +18,7 @@ export const story = {
   ],
   // Short line used for search results and share previews.
   description:
-    'Đèn Vàng – truyện dài học đường, romance, slice of life, drama của Aurelius. Hà Nội, mùa hoa sữa 2026.',
+    'Đèn Vàng – truyện dài học đường, ngôn tình, đấu trí chốn công sở và hào môn của Aurelius. Hà Nội, mùa hoa sữa 2026.',
   footer: [
     '© Aurelius · Truyện hư cấu: nhân vật, tổ chức và sự kiện đều do tác giả tưởng tượng.',
     'Cũng đăng tại Truyện nhà Ong.',
