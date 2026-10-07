@@ -228,6 +228,41 @@ dialog.login .close { position: absolute; top: 12px; right: 12px; }
 .story-rating { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; }
 .story-rating .hint { font-size: 14px; color: var(--ink-2); }
 
+/* Home: how the translation toggle works */
+.howto { padding-block: 8px 48px; }
+.howto h2 { margin: 10px 0 12px; font-family: var(--serif); font-weight: 300; font-size: 40px; letter-spacing: -.015em; line-height: 1.1; }
+.howto-lead { margin: 0 0 24px; max-width: 60ch; color: var(--ink-2); line-height: 1.6; }
+.howto-card {
+  display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr); gap: 32px;
+  padding: 28px 32px; border: 1px solid var(--line); border-radius: 20px;
+  background: color-mix(in srgb, var(--card) 70%, transparent);
+}
+.howto-demo { display: flex; flex-direction: column; justify-content: center; }
+.howto-demo .prose { font-size: 21px; }
+.howto-demo .prose p { margin: 0 0 .7em; }
+.howto-try { display: flex; align-items: center; gap: 6px; margin: 4px 0 0; font-size: 13px; font-weight: 600; color: var(--amber-ink); }
+.howto-steps { margin: 0; padding: 0; list-style: none; counter-reset: step; display: flex; flex-direction: column; gap: 16px; }
+.howto-steps li { position: relative; padding-left: 40px; line-height: 1.6; counter-increment: step; }
+.howto-steps li::before {
+  content: counter(step); position: absolute; left: 0; top: 0;
+  width: 26px; height: 26px; border-radius: 50%; display: grid; place-items: center;
+  background: var(--surface); border: 1px solid var(--line); font-size: 13px; font-weight: 600; color: var(--ink-2);
+}
+.howto-steps strong { font-weight: 600; }
+.howto-tag {
+  display: inline-block; margin: 0 3px; padding: 0 5px; border-radius: 4px; vertical-align: .1em;
+  font-size: 10px; font-weight: 600; letter-spacing: .06em; line-height: 1.6;
+  color: var(--tr-line); border: 1px solid currentColor;
+}
+.howto-btn {
+  display: inline-block; padding: 0 10px; border-radius: 999px; border: 1px solid var(--line-strong);
+  font-size: 13px; font-weight: 600; line-height: 1.7; white-space: nowrap;
+}
+@media (max-width: 760px) {
+  .howto-card { grid-template-columns: 1fr; gap: 20px; padding: 20px; }
+  .howto h2 { font-size: 32px; }
+}
+
 .toc { padding-block: 32px 96px; }
 .toc-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin-bottom: 32px; }
 .toc-head h2 { margin: 0; font-family: var(--serif); font-weight: 300; font-size: 52px; letter-spacing: -.02em; }

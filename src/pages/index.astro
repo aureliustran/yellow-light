@@ -9,6 +9,7 @@ import { story } from '../config';
 import { isConfigured } from '../lib/supabase';
 import { getPublishedChapters } from '../lib/chapters';
 import { chapterLabel, type NumberedChapter } from '../lib/chapters-shared';
+import { renderMarkdown } from '../lib/markdown';
 
 let chapters: NumberedChapter[] = [];
 let problem: string | null = null;
@@ -28,6 +29,11 @@ const first = chapters[0];
 const latest = chapters.at(-1);
 const chapterCount = chapters.filter((c) => c.kind === 'chapter').length;
 const interludeCount = chapters.length - chapterCount;
+
+// Two real lines from the story, used as a live example of the translation toggle.
+const demoHtml = renderMarkdown(
+  'Mạ hỏi: "[[ht: Học hành răng rồi? || Học hành thế nào rồi?]]"\n\n"*[[en: Thank you, Expert. || Cảm ơn Chuyên gia.]]*"',
+);
 ---
 <Base bodyClass="fog">
   <header class="wrap site-header">
@@ -81,6 +87,35 @@ const interludeCount = chapters.length - chapterCount;
       </div>
     </section>
 
+    <section class="narrow howto" id="cach-doc" aria-labelledby="howto-title">
+      <div class="eyebrow amber">Trước khi đọc</div>
+      <h2 id="howto-title">Câu có bản dịch</h2>
+      <p class="howto-lead">Truyện có những câu tiếng Anh và giọng Hà Tĩnh. Bạn đọc nguyên bản trước, cần thì chạm để xem bản dịch ngay tại chỗ.</p>
+      <div class="howto-card">
+        <div class="howto-demo">
+          <span id="tr-hint" class="visually-hidden">Cụm từ có bản dịch. Bấm để đổi giữa nguyên bản và bản dịch.</span>
+          <div class="prose" data-howto-demo set:html={demoHtml} />
+          <p class="howto-try">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7" /></svg>
+            Thử chạm vào hai câu trên
+          </p>
+        </div>
+        <ol class="howto-steps">
+          <li>
+            <strong>Chạm vào câu có nền màu</strong> để đổi sang bản dịch, chạm lần nữa để quay lại nguyên bản. Trên máy tính có thể bấm Enter.
+          </li>
+          <li>
+            <strong>Nhãn nhỏ cho biết loại câu:</strong>
+            <span class="howto-tag tr-en">EN</span> tiếng Anh,
+            <span class="howto-tag tr-ht">HT</span> giọng Hà Tĩnh. Khi đang xem bản dịch, nhãn đổi thành <span class="howto-tag tr-en">Dịch</span>.
+          </li>
+          <li>
+            <strong>Muốn đổi tất cả cùng lúc?</strong> Bấm nút <span class="howto-btn">Bản dịch</span> trên thanh công cụ của chương. Trang sẽ nhớ lựa chọn này cho những lần đọc sau.
+          </li>
+        </ol>
+      </div>
+    </section>
+
     <section class="narrow toc" id="muc-luc" aria-labelledby="toc-title">
       <div class="toc-head">
         <h2 id="toc-title">Mục lục</h2>
@@ -117,5 +152,8 @@ const interludeCount = chapters.length - chapterCount;
 
 <script>
   import { initHome } from '../scripts/home';
+  import { initTranslations } from '../scripts/translations';
   initHome();
+  const demo = document.querySelector<HTMLElement>('[data-howto-demo]');
+  if (demo) initTranslations(demo);
 </script>
