@@ -16,6 +16,7 @@
   --glow: rgba(239, 160, 58, .5);
   --bubble-in: #FFFFFF;
   --bubble-out: #F8E3BF;
+  --reply-bg: #E4E9EC;
   --danger: #A8261B;
   /* translation highlights */
   --tr-en-bg: rgba(74, 122, 160, .13);
@@ -45,6 +46,7 @@
   --glow: rgba(246, 178, 79, .55);
   --bubble-in: #1F303B;
   --bubble-out: #4A3716;
+  --reply-bg: #172630;
   --danger: #FF8A80;
   --tr-en-bg: rgba(120, 170, 210, .16);
   --tr-en-line: #8EC0E6;
@@ -58,7 +60,7 @@
     --bg: #0F1920; --fog-top: #142029; --fog-mid: #111C24; --surface: #16232C; --card: #17242D;
     --ink: #D5E0E7; --ink-2: #8DA1AE; --line: rgba(213, 224, 231, .14); --line-strong: rgba(213, 224, 231, .3);
     --amber: #F6B24F; --amber-ink: #F6B24F; --glow: rgba(246, 178, 79, .55);
-    --bubble-in: #1F303B; --bubble-out: #4A3716; --danger: #FF8A80;
+    --bubble-in: #1F303B; --bubble-out: #4A3716; --reply-bg: #172630; --danger: #FF8A80;
     --tr-en-bg: rgba(120, 170, 210, .16); --tr-en-line: #8EC0E6;
     --tr-ht-bg: rgba(220, 140, 105, .16); --tr-ht-line: #E6A588;
     color-scheme: dark;
@@ -331,6 +333,15 @@ dialog.login .close { position: absolute; top: 12px; right: 12px; }
 .msg-name { padding-left: 6px; font-size: 12px; color: var(--ink-2); }
 .bubble { margin: 0 !important; max-width: 90%; padding: 10px 14px; border-radius: 6px 18px 18px 18px; background: var(--bubble-in); }
 .msg.out .bubble { border-radius: 18px 6px 18px 18px; background: var(--bubble-out); }
+/* A reply: the quoted message sits behind, tucked under the reply bubble */
+.msg.replying { gap: 0; max-width: 100%; }
+.reply-quote { display: flex; flex-direction: column; gap: 1px; max-width: 78%; padding: 7px 14px 17px; margin-bottom: -11px; border-radius: 16px; background: var(--reply-bg); color: var(--ink-2); font-size: 13px; line-height: 1.4; position: relative; }
+.msg.out .reply-quote { align-items: flex-end; text-align: right; border-right: 3px solid var(--amber); }
+.msg.in .reply-quote { border-left: 3px solid var(--amber); }
+.reply-head { font-size: 11.5px; opacity: .85; }
+.reply-head b { font-weight: 600; }
+.reply-text { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; overflow: hidden; overflow-wrap: anywhere; }
+.msg.replying .bubble { position: relative; z-index: 1; }
 
 /* Translations */
 .tr {

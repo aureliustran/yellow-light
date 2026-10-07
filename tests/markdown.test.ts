@@ -38,6 +38,19 @@ test('chat block: title, names, sent and received', () => {
   assert.match(html, /<p>Sau.<\/p>/);
 });
 
+test('chat reply: a ^ line is quoted above the next message', () => {
+  const html = renderMarkdown(':::chat\n^ Đức (PCN): à Thuyên ơi, *thầy* bảo\n> ơ ai cho ông nhận hộ tôi thế\n> tin khác\n:::');
+  assert.match(html, /<div class="msg out replying"><div class="reply-quote"><span class="reply-head">Đã trả lời <b>Đức \(PCN\)<\/b><\/span><span class="reply-text">à Thuyên ơi, <em>thầy<\/em> bảo<\/span><\/div><p class="bubble">ơ ai cho ông nhận hộ tôi thế<\/p>/);
+  // only the line right after the quote is a reply
+  assert.match(html, /<div class="msg out cont"><p class="bubble">tin khác<\/p>/);
+  assert.equal(html.match(/reply-quote/g)?.length, 1);
+});
+
+test('chat reply quote cannot inject HTML', () => {
+  const html = renderMarkdown(':::chat\n^ <b>x</b>: <img src=x onerror=1>\n> ok\n:::');
+  assert.doesNotMatch(html, /<b>x<\/b>|<img/);
+});
+
 test('chat names cannot inject HTML', () => {
   const html = renderMarkdown(':::chat <b>x</b>\n<i>A</i>: <img src=x onerror=1>\n:::');
   assert.doesNotMatch(html, /<b>|<i>|<img/);

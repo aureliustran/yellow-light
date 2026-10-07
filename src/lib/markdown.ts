@@ -10,6 +10,7 @@
 //   Ngọc Anh (K71): hello       a received message, with sender name
 //   just text                   a received message without a name
 //   > ok trưa a xem             a sent message (from the point-of-view character)
+//   ^ Ngọc Anh: slide workshop… a quoted message; the next message replies to it
 //   :::
 //
 //   [[en: original || bản dịch]]   an English phrase readers can tap to translate
@@ -23,7 +24,7 @@
 //
 // Raw HTML typed into a chapter is shown as text, never run.
 
-import { Marked, type Tokens, type TokenizerAndRendererExtension } from 'marked';
+import { Marked, type Token, type Tokens, type TokenizerAndRendererExtension } from 'marked';
 
 export type TranslationKind = 'en' | 'ht';
 
@@ -43,6 +44,7 @@ export function escapeHtml(s: string): string {
 interface ChatLine {
   out: boolean;
   note?: boolean;
+  quote?: { name: string | null; tokens: Token[] };
   name: string | null;
   tokens: Tokens.Generic[];
 }
@@ -59,23 +61,35 @@ const chatExtension: TokenizerAndRendererExtension = {
   tokenizer(src: string) {
     const m = /^:::chat[ \t]*([^\n]*)\n([\s\S]*?)\n?:::[ \t]*(?:\n+|$)/.exec(src);
     if (!m) return undefined;
-    const lines: ChatLine[] = m[2]
-      .split('\n')
-      .map((l) => l.trim())
-      .filter(Boolean)
-      .map((l) => {
-        if (l.startsWith('~')) {
-          return { out: false, note: true, name: null, tokens: this.lexer.inlineTokens(l.replace(/^~\s?/, '')) };
-        }
-        if (l.startsWith('>')) {
-          return { out: true, name: null, tokens: this.lexer.inlineTokens(l.replace(/^>\s?/, '')) };
-        }
-        const named = NAME_RE.exec(l);
-        if (named) {
-          return { out: false, name: named[1].trim(), tokens: this.lexer.inlineTokens(named[2]) };
-        }
-        return { out: false, name: null, tokens: this.lexer.inlineTokens(l) };
+    const lines: ChatLine[] = [];
+    let quote: ChatLine['quote'];
+    for (const raw of m[2].split('\n')) {
+      const l = raw.trim();
+      if (!l) continue;
+      if (l.startsWith('^')) {
+        // "^ Name: text" — the quoted message the next line replies to
+        const q = l.replace(/^\^\s?/, '');
+        const named = NAME_RE.exec(q);
+        quote = named
+          ? { name: named[1].trim(), tokens: this.lexer.inlineTokens(named[2]) }
+          : { name: null, tokens: this.lexer.inlineTokens(q) };
+        continue;
+      }
+      if (l.startsWith('~')) {
+        lines.push({ out: false, note: true, name: null, tokens: this.lexer.inlineTokens(l.replace(/^~\s?/, '')) });
+        quote = undefined;
+        continue;
+      }
+      const sent = l.startsWith('>');
+      const named = sent ? null : NAME_RE.exec(l);
+      lines.push({
+        out: sent,
+        name: named ? named[1].trim() : null,
+        tokens: this.lexer.inlineTokens(sent ? l.replace(/^>\s?/, '') : named ? named[2] : l),
+        ...(quote ? { quote } : {}),
       });
+      quote = undefined;
+    }
     return { type: 'chat', raw: m[0], title: m[1].trim(), lines };
   },
   renderer(token) {
@@ -89,9 +103,12 @@ const chatExtension: TokenizerAndRendererExtension = {
         const body = this.parser.parseInline(l.tokens);
         if (l.note) return `<p class="chat-note">${body}</p>`;
         const prev = lines[i - 1];
-        const cont = !!prev && !prev.note && prev.out === l.out && prev.name === l.name;
+        const cont = !!prev && !prev.note && !l.quote && prev.out === l.out && prev.name === l.name;
         const name = l.name && !cont ? `<span class="msg-name">${escapeHtml(l.name)}</span>` : '';
-        return `<div class="msg ${l.out ? 'out' : 'in'}${cont ? ' cont' : ''}">${name}<p class="bubble">${body}</p></div>`;
+        const quoted = l.quote
+          ? `<div class="reply-quote"><span class="reply-head">Đã trả lời${l.quote.name ? ` <b>${escapeHtml(l.quote.name)}</b>` : ''}</span><span class="reply-text">${this.parser.parseInline(l.quote.tokens)}</span></div>`
+          : '';
+        return `<div class="msg ${l.out ? 'out' : 'in'}${cont ? ' cont' : ''}${quoted ? ' replying' : ''}">${name}${quoted}<p class="bubble">${body}</p></div>`;
       })
       .join('');
     return `<figure class="chat">${title}${msgs}</figure>\n`;

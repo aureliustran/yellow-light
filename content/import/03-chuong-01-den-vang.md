@@ -47,12 +47,13 @@ Vũ Béo: m mà k ra t bảo m bận đi Mỹ
 Thuyên trả lời Ngọc Anh:
 
 :::chat
+^ Ngọc Anh (K71): anh Thuyên ơi slide workshop tuần sau anh duyệt giúp em với ạ, em sửa theo góp ý của anh rồi á, nhưng phần demo em vẫn sợ sợ 🥲
 > ok trưa a xem, demo cứ chạy thử trước 1 lần với máy chiếu phòng 302 nhé, máy đấy hay lag lắm.
 ~ Nghĩ một chút, anh gõ thêm:
 > mà làm được thế là ổn rồi, đừng sợ.
-~ Với Đức:
+^ Đức (PCN): à Thuyên ơi, thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy
 > ơ ai cho ông nhận hộ tôi thế
-~ Với Vũ:
+^ Vũ Béo: tối nay ra k m, mấy đứa năm nhất đòi gặp "idol" kìa vcl
 > idol cc. ok vua hợi, tối tính
 :::
 
@@ -216,8 +217,10 @@ Vũ Béo: hay lại cho t leo cây như tuần trước
 Thuyên gõ:
 
 :::chat
+^ Vũ Béo: tối tính là mấy h, nói rõ ra thằng chó
 > 7h. im mồm đi vua hợi
 > bảo mấy đứa năm nhất mang nước, idol k tự mua nước
 ~ Rồi anh mở tin nhắn của Đức, gõ thêm:
+^ Đức (PCN): à Thuyên ơi, thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy
 > ok ông bảo thầy là tôi đi nhé. lần sau hỏi tôi trước đã ông ơi
 :::

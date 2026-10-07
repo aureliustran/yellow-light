@@ -101,6 +101,19 @@ const INLINE = {
   '05-chuong-03-tieng-dep.md': [['Anh gõ: *dạ*', 'lead']],
 };
 
+// Replies: [start of the sent message, the message it answers, optional caption to drop].
+// A "^ Name: text" line is put in front of the reply; the page draws it as a
+// quoted message above the bubble, like "reply" in a messenger app.
+const REPLIES = {
+  '03-chuong-01-den-vang.md': [
+    ['> ok trưa a xem', 'Ngọc Anh (K71): anh Thuyên ơi slide workshop tuần sau anh duyệt giúp em với ạ, em sửa theo góp ý của anh rồi á, nhưng phần demo em vẫn sợ sợ 🥲'],
+    ['> ơ ai cho ông nhận hộ tôi thế', 'Đức (PCN): à Thuyên ơi, thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy', '~ Với Đức:'],
+    ['> idol cc.', 'Vũ Béo: tối nay ra k m, mấy đứa năm nhất đòi gặp "idol" kìa vcl', '~ Với Vũ:'],
+    ['> 7h. im mồm', 'Vũ Béo: tối tính là mấy h, nói rõ ra thằng chó'],
+    ['> ok ông bảo thầy là tôi đi nhé', 'Đức (PCN): à Thuyên ơi, thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy'],
+  ],
+};
+
 const ITALIC_LINE = /^\*(?!\*)(.+?)(?<!\*)\*$/;
 const GROUP = /^\\\[(.+)\\\]$/;
 const NAMED = /^([^:\n]{1,40}):\s+(.+)$/;
@@ -198,6 +211,19 @@ for (const [file, passages] of Object.entries(PASSAGES)) {
     let j = i + 1;
     while (j < lines.length && !lines[j].trim()) j++;
     if (lines[j] === ':::chat') lines.splice(i, j - i + 1);
+  }
+
+  // Quote the message each reply answers
+  for (const [start, quote, drop] of REPLIES[file] ?? []) {
+    const i = lines.findIndex((l) => l.startsWith(start));
+    if (i < 0) {
+      problems.push(`${file}: không thấy câu trả lời "${start}"`);
+      continue;
+    }
+    if (lines[i - 1]?.startsWith('^')) continue; // already quoted
+    const at = drop && lines[i - 1] === drop ? i - 1 : i; // the caption is replaced by the quote
+    lines.splice(at, at === i ? 0 : 1, `^ ${quote}`);
+    report.push(`  trả lời · ${quote.slice(0, 50)}…`);
   }
 
   if (report.length) {
