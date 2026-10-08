@@ -357,6 +357,27 @@ Anh gõ:
 
 Rồi nghĩ một lúc, xóa chữ "ở hà nội", gõ lại: *áo con mua trên mạng.* Gửi. Cất điện thoại. Đi tiếp.
 
+Đến đầu ngõ, anh quay lại.
+
+Từ chỗ này, qua mái tôn nhà xe và mấy dây phơi quần áo, vẫn thấy hai cái đèn cao áp trên cột góc sân, hai quầng sáng trắng treo lơ lửng giữa trời đêm như hai cái trăng ai quên tắt. Anh giơ điện thoại lên. Lùi một bước để cột điện chia khung ảnh đúng một phần ba. Chờ một chiếc xe máy chạy qua để vệt đèn hậu kéo thành một đường đỏ mảnh dưới đáy ảnh. Bấm.
+
+Không có người trong ảnh. Những tấm anh đặt làm bìa cho các cụm tin nổi bật trên trang mình đều thế: đèn, sân trống, vạch kẻ đường. Người, nếu có, nằm ở phía sau, phải bấm vào mới thấy, rải rác giữa mười mấy tấm cảnh.
+
+Anh đăng lên story, cả Facebook lẫn Instagram, chèn mười lăm giây của một bài indie tiếng Việt chưa đến hai nghìn lượt nghe, đoạn không lời, chỉ có guitar mộc và tiếng mưa thu âm ở đâu đó. Không chữ. Không gắn thẻ ai.
+
+Chưa đến một phút, điện thoại rung.
+
+:::chat
+Vũ Béo: lại lên đồng
+Vũ Béo: nhạc gì nghe như sắp có người chết
+Vũ Béo: cringe vcl. t vừa thả cho m cái mặt nôn
+> m k hiểu nghệ thuật. trong ảnh là đèn sân nhà m đấy
+Vũ Béo: đèn sân nhà t thì t hiểu
+Vũ Béo: cái t k hiểu là sao m quay nó như phim kinh dị thái lan
+:::
+
+Anh cười, cất điện thoại vào túi, đi tiếp. Dưới story, cái mặt nôn của Vũ nằm cạnh một trái tim của Ngọc Anh và một trái tim của đứa nào đó anh không nhớ tên.
+
 ---
 
 Phòng trọ tối om. Anh không bật đèn, đi thẳng vào nhà tắm, vặn vòi.

@@ -110,7 +110,7 @@ Sếp chỉ cho Thuyên ngồi ngay cạnh mình. Hôm nay anh là món đồ đ
 
 Chị Hạnh vỗ tay trước tiên. "Anh tuyển người chuẩn quá anh ơi."
 
-Sếp giới thiệu một vòng. "Chị Hạnh, bộ não điều phối. Ngân, trợ lý của anh, không có Ngân anh chết. Trâm, phụ trách đối tác. Hà My, truyền thông, gương mặt của Thiên Nhãn." Cô tóc nâu giơ tay chào, cười rất tươi. "Ly, kiểm thử, bé nhất nhà." Cô gái tóc ngắn áo len trắng gật đầu. "Phương, nhãn dữ liệu. Còn đằng kia là đội kỹ thuật."
+Sếp giới thiệu một vòng. "Chị Hạnh, bộ não điều phối. Ngân, trợ lý của anh, không có Ngân anh chết. Trâm, phụ trách đối tác. Hà My, truyền thông, gương mặt của Thiên Nhãn." Cô tóc nâu giơ tay chào, cười rất tươi. "Ly, kiểm thử, bé nhất nhà. À không, từ hôm nay bé nhất là Thuyên, sinh viên năm ba mà ký hợp đồng chính thức, cả tập đoàn đếm trên đầu ngón tay." Cô gái tóc ngắn áo len trắng gật đầu. "Phương, nhãn dữ liệu. Còn đằng kia là đội kỹ thuật."
 
 Đội kỹ thuật được một câu cho cả ba người. Mắt sếp lướt qua cái ghế xoay sát tường, không dừng lại, như lướt qua chậu cây cảnh.
 
@@ -330,7 +330,7 @@ Chủ tọa: Ngày đầu thế nào?
 
 Chữ hoa đầu câu. Dấu hỏi chấm. Như mọi lần.
 
-*ổn. sếp gọi dự án là hệ sinh thái. a tưởng đi nhầm vào lớp sinh học*
+*ổn. sếp gọi dự án là hệ sinh thái. e tưởng đi nhầm vào lớp sinh học*
 
 *căng tin thứ 2 nấu canh chua. chị điều phối bảo đấy là ngày duy nhất nấu như người*
 
@@ -339,8 +339,8 @@ Chữ hoa đầu câu. Dấu hỏi chấm. Như mọi lần.
 Ba chấm hiện lên. Lâu.
 
 :::chat
-Chủ tọa: Anh kể căng tin, cái bàn, cái cốc.
-Chủ tọa: Anh kể sếp nói gì. Anh không kể sếp làm gì.
+Chủ tọa: Em kể căng tin, cái bàn, cái cốc.
+Chủ tọa: Em kể sếp nói gì. Em không kể sếp làm gì.
 > sếp làm tầm nhìn. ngồi ghế da to
 Chủ tọa: Ở hội nghị, đại biểu nào về chỉ kể bữa trưa là đại biểu vừa thấy một chuyện không muốn ghi vào biên bản.
 :::

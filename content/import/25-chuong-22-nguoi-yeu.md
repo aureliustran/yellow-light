@@ -14,9 +14,9 @@ Thuyên nhìn. Rồi nhìn kỹ hơn. Anh chỉ ra được đúng một chỗ k
 
 "Tấm không có ông mũ đỏ."
 
-"Ông mũ đỏ em cắt được." Cô phóng to. "Tấm mười bốn cằm em đúng góc. Tháp Rùa ở ngay sau vai em. Tấm hai mươi hai thì anh mở mắt."
+"Ông mũ đỏ chị cắt được." Cô phóng to. "Tấm mười bốn cằm chị đúng góc. Tháp Rùa ở ngay sau vai chị. Tấm hai mươi hai thì em mở mắt."
 
-"Tấm mười bốn anh nhắm mắt à?"
+"Tấm mười bốn em nhắm mắt à?"
 
 "Nửa mắt."
 
@@ -26,13 +26,13 @@ Quán ở tầng ba một dãy nhà trên Đinh Tiên Hoàng, cửa kính nhìn 
 
 Ngày trước anh đếm giây. Bây giờ anh nhìn bao lâu cũng được. Không ai bấm đồng hồ một người đang ngồi nhìn người yêu mình chọn ảnh.
 
-"Thế chọn tấm anh mở mắt," anh nói.
+"Thế chọn tấm em mở mắt," anh nói.
 
-"Tấm mười bốn anh trông như người đang hạnh phúc quá không mở nổi mắt."
+"Tấm mười bốn em trông như người đang hạnh phúc quá không mở nổi mắt."
 
 "Trông như người bị pháo hoa bắn vào mắt."
 
-"Người xem không biết." Cô lướt qua lướt lại giữa hai tấm, ba lần, bốn lần. "Người xem chỉ xem một giây rưỡi. Một giây rưỡi thì thấy Tháp Rùa, thấy em, thấy có một người đẹp trai đứng cạnh."
+"Người xem không biết." Cô lướt qua lướt lại giữa hai tấm, ba lần, bốn lần. "Người xem chỉ xem một giây rưỡi. Một giây rưỡi thì thấy Tháp Rùa, thấy chị, thấy có một người đẹp trai đứng cạnh."
 
 "Một người đẹp trai nửa mắt."
 
@@ -54,7 +54,7 @@ Cô gõ: *Năm mới, người mới.* Nhìn lâu hơn. Xóa.
 
 "Nghe như vừa thay người cũ."
 
-"Em có người cũ à?"
+"Chị có người cũ à?"
 
 "Không. Nhưng người đọc không biết." Cô gõ ngón trỏ lên mặt bàn hai cái, cái gõ trước khi tung câu hỏi ở ghế chủ tọa. Rồi gõ lần thứ ba, lên màn hình:
 
@@ -72,7 +72,7 @@ Cô đặt cốc xuống. Trên vành cốc trắng có một vệt đỏ hình 
 
 Lần trước, ở hành lang Học viện Ngoại giao, nhìn một vệt như thế trên cốc nước lọc, anh phải quay sang nhìn cái máy pha cà phê. Bây giờ anh cầm cốc lên, xoay một phần tư vòng, đặt môi đúng vào chỗ vệt son, uống.
 
-Cô nhìn anh. "Anh làm gì đấy?"
+Cô nhìn anh. "Em làm gì đấy?"
 
 "Chỗ này đã được chủ tọa thông qua."
 
@@ -96,11 +96,11 @@ Cô nhìn bàn tay, rồi nhìn quanh. Một nhóm học sinh đang giơ gậy t
 
 "Đông người," cô nói.
 
-"Đông người thì càng phải nắm. Lạc nhau thì ai chọn ảnh cho em."
+"Đông người thì càng phải nắm. Lạc nhau thì ai chọn ảnh cho chị."
 
-"Anh có chọn được đâu. Anh chọn tấm có ông mũ đỏ."
+"Em có chọn được đâu. Em chọn tấm có ông mũ đỏ."
 
-"Thế anh đứng đây đợi. Em đi một mình, anh nắm tay cái cột đèn."
+"Thế em đứng đây đợi. Chị đi một mình, em nắm tay cái cột đèn."
 
 Cô nhịn cười, đi tiếp ba bước, bỏ anh lại với bàn tay chìa ra giữa không khí. Đến chỗ vắng hơn, ngay khúc rẽ sang Lê Thái Tổ, cô thò tay vào túi áo hoodie của anh, tìm bàn tay anh trong đó, nắm lấy. Tay cô lạnh, ngón trỏ có cái nhẫn bạc mảnh.
 
@@ -180,9 +180,9 @@ Thứ Bảy tuần sau, cô đến phòng trọ của anh lần đầu.
 
 Cô dừng ở cửa, tháo đôi giày cao gót, xếp hai chiếc song song sát tường, mũi giày thẳng hàng như hai tấm biển tên trên bàn hội nghị. Rồi cô đứng giữa phòng, nhìn một vòng. Từ trái sang phải, chậm, đúng cái cách cô nhìn phòng họp chữ U. Cái giường đơn. Cái bàn có cái máy in cũ dưới gầm. Đôi derby boot cạnh cửa. Cái ghế duy nhất đang gánh ba cái áo. Cửa sổ, và bức tường nhà bên.
 
-"Cửa sổ của anh nhìn ra tường."
+"Cửa sổ của em nhìn ra tường."
 
-"Tường không bao giờ chụp lén anh."
+"Tường không bao giờ chụp lén em."
 
 Cô ngồi xuống mép giường vì không còn chỗ nào khác. Váy len xám dài quá gối, tất mỏng màu da. Anh nhìn cô ngồi ở đó, trong căn phòng của mình, thấy lạ như thấy một bức tranh treo nhầm nhà, và không muốn ai tháo nó xuống.
 
@@ -190,11 +190,11 @@ Anh nằm xuống. Đầu gối lên đùi cô.
 
 Cô hơi giật mình. Chỉ hơi. Rồi cô nhìn xuống anh.
 
-"Anh bao nhiêu tuổi?"
+"Em bao nhiêu tuổi?"
 
-"Ở lab hai mươi lăm. Ở đây năm tuổi." Anh nhắm mắt. "Xoa đầu đi."
+"Ở lab em út phải giả hai mươi lăm. Ở đây năm tuổi." Anh nhắm mắt. "Xoa đầu em đi, chị bé."
 
-"Năm tuổi mà đòi."
+"Bé năm tuổi mà đòi."
 
 "Năm tuổi mới được đòi. Hai mươi lăm tuổi đòi thì bị báo cáo lên phòng nhân sự."
 
@@ -210,7 +210,7 @@ Có một câu anh từng nghĩ dở, ở một chỗ toàn ghế nhung hồng. 
 
 Cái ghế nhung lóe lên một giây ở rìa đầu. Anh gạt nó đi, như gạt một tab trình duyệt mở nhầm. Ở đây không có gì màu hồng.
 
-"Thứ Năm anh lại ngồi với học sinh," anh nói, mắt vẫn nhìn con cá. "Hai tiếng. Quán hồng. Riêng hai người."
+"Thứ Năm em lại ngồi với học sinh," anh nói, mắt vẫn nhìn con cá. "Hai tiếng. Quán hồng. Riêng hai người."
 
 Tay cô không dừng. "Ừ."
 
@@ -226,7 +226,7 @@ Bàn tay trên tóc anh chậm lại nửa nhịp. Anh đếm được nửa nh�
 
 "Mười chín."
 
-"Mật khẩu điện thoại anh là gì?"
+"Mật khẩu điện thoại em là gì?"
 
 Anh đọc luôn, không hỏi lại. Cô với lấy điện thoại của anh trên gối, bấm, lướt danh bạ, nhanh và gọn như tra một điều khoản. Dừng lại.
 
@@ -238,19 +238,19 @@ Cô bấm sửa. Xóa chữ *hồng*. Lưu. Rồi đặt điện thoại lại l
 
 "Học sinh thì là học sinh," cô nói. "Màu sắc là thông tin không cần thiết."
 
-Anh cười đến mức đầu rung trên đùi cô. "Em ghen."
+Anh cười đến mức đầu rung trên đùi cô. "Chị ghen."
 
-"Em hiệu đính."
+"Chị hiệu đính."
 
-"Em ghen."
+"Chị ghen."
 
-"Chủ tọa không ghen. Chủ tọa điều phối." Nhưng tay cô kéo nhẹ một nhúm tóc của anh, đủ để anh kêu *á*. "Anh cố tình."
+"Chủ tọa không ghen. Chủ tọa điều phối." Nhưng tay cô kéo nhẹ một nhúm tóc của anh, đủ để anh kêu *á*. "Em cố tình."
 
 "Ừ."
 
-"Anh cố tình để em sửa."
+"Em cố tình để chị sửa."
 
-"Ừ. Lần sau anh lưu là *Học sinh hồng nơ nhung* cho em sửa lâu hơn."
+"Ừ. Lần sau em lưu là *Học sinh hồng nơ nhung* cho chị bé sửa lâu hơn."
 
 Cô cúi xuống. Cái kẹp càng cua tuột khỏi tóc lúc cô cúi, rơi *cạch* xuống sàn, và tóc cô đổ xuống hai bên mặt anh như một cái rèm. Trong cái rèm ấy chỉ còn mặt cô, ngược chiều, rất gần. Mùi tóc. Hơi thở có vị cà phê.
 
@@ -260,7 +260,7 @@ Cô hôn anh, ngược chiều, môi trên của cô chạm môi dưới của a
 
 Mười giờ tối, cô đứng dậy chỉnh lại váy.
 
-"Em về lúc mười giờ."
+"Chị về lúc mười giờ."
 
 "Mười giờ mười lăm."
 
@@ -268,7 +268,7 @@ Mười giờ tối, cô đứng dậy chỉnh lại váy.
 
 "Mười giờ mười."
 
-"Mười giờ năm." Cô cúi nhặt cái kẹp tóc dưới sàn. "Đấy là nhượng bộ cuối cùng. Phía em không đàm phán thêm."
+"Mười giờ năm." Cô cúi nhặt cái kẹp tóc dưới sàn. "Đấy là nhượng bộ cuối cùng. Phía chị không đàm phán thêm."
 
 Anh ngồi trên giường, ôm eo cô, áp má vào lớp len, đúng năm phút. Rồi buông.
 
@@ -297,7 +297,7 @@ Anh gõ bằng một tay, dưới gầm bàn.
 :::chat
 > học sinh đang nói. ngoan
 Chủ tọa: Ngoan đến mức nào?
-> đến mức anh rảnh tay nhắn cho em
+> đến mức e rảnh tay nhắn cho c
 Chủ tọa: Thế thì không ngoan lắm.
 :::
 
@@ -332,7 +332,7 @@ Anh không thấy cô nhìn trang giấy trắng ấy trước khi gập lâu h�
 Bốn giờ bốn mươi, điện thoại anh lại sáng.
 
 :::chat
-Chủ tọa: Em xong sớm. Anh ra Ngũ Xã được không? Có một quán phở cuốn em muốn anh chê thử.
+Chủ tọa: Chị xong sớm. Em ra Ngũ Xã được không? Có một quán phở cuốn chị muốn em chê thử.
 :::
 
 Anh đứng dậy, vơ tờ đề, nhét vào ba lô. "Hôm nay về sớm mười lăm phút nhé. Anh trừ vào học phí tháng sau, không ai thiệt."

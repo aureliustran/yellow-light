@@ -76,7 +76,7 @@ Thuyên đứng ở bàn mình, cúi xuống rút cục sạc. Rút rất chậm
 
 Thảo đứng dậy. Cô ôm cái laptop vào ngực, màn hình mở, đi qua dãy bàn tối, đôi giày vải không phát ra tiếng nào trên thảm. Đến cạnh bàn Ly thì dừng, cách sếp hai bước.
 
-"Ly ơi, xem giúp mình cái file này được không?"
+"Chị Ly ơi, chị xem giúp em cái file này được không?"
 
 Câu đầu tiên anh nghe cô nói kể từ hôm *dạ xong rồi ạ*. Giọng nhỏ, đều, không lên không xuống.
 
@@ -94,7 +94,7 @@ Bản màn hình chấm đỏ của anh chưa ai kiểm thử. Anh định tự 
 
 Một bản cần kiểm thử. Một người kiểm thử đang đứng đây, áo đã kéo khóa. Phép tính không có gì khó.
 
-"Anh ơi," anh nói, cầm cục sạc đứng thẳng lên, "em cần Ly kiểm thử gấp bản này, mai demo."
+"Anh ơi," anh nói, cầm cục sạc đứng thẳng lên, "em cần chị Ly kiểm thử gấp bản này, mai demo."
 
 Sếp quay lại, hơi giật mình, như không biết từ nãy giờ trong phòng có thêm một người.
 
@@ -118,19 +118,19 @@ Ly kiểm thử bản màn hình chấm đỏ trong hai mươi lăm phút, ngồ
 
 Cô làm thật. Bấm từng nút, ghi từng dòng vào một cái bảng, chữ nhỏ và nghiêng. Đến phút thứ mười tám, cô bấm vào nút *Xem chi tiết* hai lần liền, và cả màn hình trắng xóa.
 
-"Anh ơi, chỗ này."
+"Thuyên ơi, chỗ này."
 
 Anh nhìn. Đúng là lỗi. Một cái lỗi mà mai sếp, người bấm cái gì cũng bấm hai lần cho chắc, sẽ gặp ngay trong ba phút đầu.
 
-"Em vừa cứu anh Tuấn một bàn thua trông thấy đấy," anh nói. "Mà không ai biết. Kiểm thử là nghề như thế."
+"Chị vừa cứu anh Tuấn một bàn thua trông thấy đấy," anh nói. "Mà không ai biết. Kiểm thử là nghề như thế."
 
 Ly cười. Lần này cái cười không rộng hơn mức cần.
 
 Tám giờ kém mười, cô đứng dậy. Ra đến cửa thì dừng lại, quay đầu. Nhìn về phía góc cửa sổ. Rồi nhìn anh. Môi cô hé ra, rồi khép lại.
 
-"Em về ạ."
+"Chị về nhé."
 
-"Ừ, về cẩn thận. Gọi lại cho mẹ đi, nãy mẹ gọi đấy."
+"Vâng, chị về cẩn thận. Gọi lại cho mẹ đi chị, nãy mẹ gọi đấy."
 
 Cô gật. Ra đến hành lang, anh nghe tiếng cô, nhỏ dần về phía thang máy: "Con đây. Con về bây giờ đây mẹ."
 
@@ -167,20 +167,20 @@ Nhà kính thì mắt người nhận ra. Máy thì chưa.
 Điện thoại sáng.
 
 :::chat
-Chủ tọa: Hôm nay anh làm gì tử tế không?
+Chủ tọa: Hôm nay em làm gì tử tế không?
 :::
 
 Anh nhìn dòng chữ. Chữ hoa đầu câu, dấu hỏi chấm, đến lúc mười một giờ hai mươi bảy, như mọi tối dạo này. Hơn một tuần nay, đêm nào cái điện thoại cũng sáng quanh giờ này, và hơn một tuần nay đêm nào anh cũng để nó ngửa trên bàn.
 
 :::chat
-> tử tế thì k có. hôm nay anh chỉ làm toán
+> tử tế thì k có. hôm nay em chỉ làm toán
 Chủ tọa: Toán gì?
 > toán năng suất. 1 việc người làm mất mấy chục tiếng, máy làm 6 phút. nghe như việc thiện nhưng thật ra là phép chia
 Chủ tọa: Phép chia lúc mười một giờ đêm.
 > phép chia k có giờ hành chính
-Chủ tọa: Em hỏi vì hôm nay em chẳng làm gì tử tế cả. Em định mượn của anh một việc.
-> thế em mượn việc anh mắng sếp em trong đầu 3 lần mà không nói ra. tử tế bằng im lặng
-Chủ tọa: Cái đấy là nhịn, không phải tử tế. Em không mượn.
+Chủ tọa: Chị hỏi vì hôm nay chị chẳng làm gì tử tế cả. Chị định mượn của em một việc.
+> thế chị mượn việc em mắng sếp trong đầu 3 lần mà không nói ra. tử tế bằng im lặng
+Chủ tọa: Cái đấy là nhịn, không phải tử tế. Chị không mượn.
 :::
 
 Anh bật cười, rồi úp điện thoại xuống.
@@ -200,13 +200,13 @@ Rồi anh tính lại cho chắc. Bốn nghìn ảnh, một phần ba là rác. 
 Chỉ là không ai ngồi ở chỗ anh.
 
 :::chat
-Chủ tọa: Anh ngủ chưa?
+Chủ tọa: Em ngủ chưa?
 > chưa. đang nhìn sông chạy
 Chủ tọa: Sông gì?
-> sông của anh. nó chảy trên máy chủ. hôm nào anh vẽ cho em xem
-Chủ tọa: Anh hứa thì em ghi vào biên bản đấy.
-> ghi đi. biên bản của em dày lắm rồi, thêm 1 dòng k ai để ý
-Chủ tọa: Em để ý.
+> sông của em. nó chảy trên máy chủ. hôm nào em vẽ cho chị xem
+Chủ tọa: Em hứa thì chị ghi vào biên bản đấy.
+> ghi đi. biên bản của chị dày lắm rồi, thêm 1 dòng k ai để ý
+Chủ tọa: Chị để ý.
 :::
 
 Anh nhìn câu ấy lâu hơn nhìn bốn mươi dòng chương trình.
@@ -239,11 +239,11 @@ Cô lật điện thoại lên, chìa ra. Màn hình là thư mục *TT_Thao* tr
 
 Người ta chỉ mở mục ấy khi có chuyện. Hôm qua, với Thảo, là có chuyện.
 
-"Cái này anh viết ạ?"
+"Cái này cậu viết à?"
 
 Câu thứ hai. Vẫn giọng ấy, nhỏ, đều. Nhưng mắt cô không nhìn xuống. Cô nhìn thẳng vào anh, kiểu nhìn hôm cô đi qua cái thẻ chết trên quai ba lô, không nhìn logo, nhìn cái ảnh.
 
-"Của con ma tầng mười bảy đấy," anh nói, kéo ghế ngồi xuống. "Nó làm đêm, không ký tên, không đòi phụ cấp ăn trưa. Ma thích được dùng lắm, em cứ dùng, nó không bắt đền đâu."
+"Của con ma tầng mười bảy đấy," anh nói, kéo ghế ngồi xuống. "Nó làm đêm, không ký tên, không đòi phụ cấp ăn trưa. Ma thích được dùng lắm, cậu cứ dùng, nó không bắt đền đâu."
 
 Thảo nhìn anh thêm một giây.
 

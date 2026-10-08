@@ -240,27 +240,37 @@ Sống lưng anh lạnh đi một đường. Anh quay sang cái máy pha cà ph�
 
 "Hai giây rưỡi. Cay thì nhanh."
 
-"Thế thì hay." Cô uống một ngụm nước. "Nếu nghĩ trước thì em sẽ thất vọng."
+Cô nhìn anh, như người vừa nhớ ra hồ sơ còn thiếu một dòng. "Anh năm mấy?"
+
+"Năm ba."
+
+"Năm ba à." Cô uống một ngụm nước. "Thế thì chị gọi nhầm cả buổi sáng rồi. Từ giờ chị là chị."
+
+Anh khựng nửa nhịp. Cả buổi sáng bị gài mồi, bị dắt đến chữ *I don't know*, anh vẫn ngồi vững. Đây là lần đầu có người lấy lại thế bằng đúng một chữ xưng hô.
+
+"Vâng," anh nói. "Chị."
+
+"Thế thì hay." Cô xoay cốc nước trong tay. "Câu ChatGPT ấy. Nếu em nghĩ trước thì chị sẽ thất vọng."
 
 "Sao lại thất vọng?"
 
-"Vì nghĩa là anh đoán được em sẽ hỏi gì." Cô nhìn anh. "Không ai đoán được em sẽ hỏi gì. Kể cả hai bạn đồng chủ tọa."
+"Vì nghĩa là em đoán được chị sẽ hỏi gì." Cô nhìn anh. "Không ai đoán được chị sẽ hỏi gì. Kể cả hai bạn đồng chủ tọa."
 
-"Em hỏi thế không có trong kịch bản à?"
+"Chị hỏi thế không có trong kịch bản à?"
 
-"Không. Chủ tọa không nên hỏi chuyên gia. Chủ tọa điều phối." Cô nói điều đó như thể nói trời hôm nay nắng. "Nhưng em muốn xem anh làm gì khi ra khỏi sân."
+"Không. Chủ tọa không nên hỏi chuyên gia. Chủ tọa điều phối." Cô nói điều đó như thể nói trời hôm nay nắng. "Nhưng chị muốn xem em làm gì khi ra khỏi sân."
 
-Anh cầm cốc cà phê thứ hai lên. "Em xem rồi đấy."
+Anh cầm cốc cà phê thứ hai lên. "Chị xem rồi đấy."
 
-"Em xem rồi." Cô gật đầu. "Anh cắn mồi. Rồi anh cay. Rồi anh quay sang cắn người cài mồi." Cô đếm trên ba ngón tay, móng sơn màu nude. "Rồi anh nói không biết. Câu không biết là câu em thích nhất."
+"Chị xem rồi." Cô gật đầu. "Em cắn mồi. Rồi em cay. Rồi em quay sang cắn người cài mồi." Cô đếm trên ba ngón tay, móng sơn màu nude. "Rồi em nói không biết. Câu không biết là câu chị thích nhất."
 
-"Em hỏi ChatGPT thật à?"
+"Chị hỏi ChatGPT thật à?"
 
-"Thật. Tối qua, mười một giờ đêm." Cô nhún vai. "Em không biết LoRA là gì. Bây giờ vẫn không biết."
+"Thật. Tối qua, mười một giờ đêm." Cô nhún vai. "Chị không biết LoRA là gì. Bây giờ vẫn không biết."
 
 "Low-rank adaptation."
 
-"Em vẫn không biết."
+"Chị vẫn không biết."
 
 Anh suýt cười. Giữ lại được. Anh ngửa cổ uống một hơi dài cho trôi cái cười. Lúc hạ cốc xuống, anh bắt gặp mắt cô đang dừng ở cổ anh, đúng chỗ yết hầu vừa chuyển động.
 
@@ -268,7 +278,7 @@ Cô không vội nhìn đi. Cô để mắt ở đó thêm một giây, như ng�
 
 Người này anh đọc được hết, trừ việc mình nên làm gì tiếp. Nên anh không làm gì. Anh nhìn ra cửa kính hành lang, rồi nói, không nhìn cô:
 
-"Câu hỏi thật của em. Anh nghĩ ra rồi."
+"Câu hỏi thật của chị. Em nghĩ ra rồi."
 
 "Bây giờ á?"
 
@@ -278,37 +288,37 @@ Cô im một giây. Nhìn anh, rồi nhìn cái máy pha cà phê, như thể mu
 
 "Câu đấy mà nói trong phòng thì hay," cô nói.
 
-"Lúc đấy anh chưa nghĩ ra."
+"Lúc đấy em chưa nghĩ ra."
 
-"Em biết." Cô nghiêng cốc nước, nhìn vệt son trên vành. "Thế nên em mới tin là anh tự nghĩ ra."
+"Chị biết." Cô nghiêng cốc nước, nhìn vệt son trên vành. "Thế nên chị mới tin là em tự nghĩ ra."
 
 Anh không biết đáp lại câu đó thế nào, nên không đáp.
 
-"Mà anh dừng ba lần ở summit, đúng không?" cô hỏi tiếp. "Cho người ta cười. Hôm nay hai lần, lúc thuyết trình. Lúc trả lời thì không lần nào."
+"Mà em dừng ba lần ở summit, đúng không?" cô hỏi tiếp. "Cho người ta cười. Hôm nay hai lần, lúc thuyết trình. Lúc trả lời thì không lần nào."
 
-Anh khựng lại nửa nhịp. "Em đếm à?"
+Anh khựng lại nửa nhịp. "Chị đếm à?"
 
-"Em làm chủ tọa. Đếm là nghề." Cô nói. "Em xem clip summit trên fanpage của trường anh. Lần dừng thứ ba hơi dài. Có một người hỏi chen vào được."
+"Chị làm chủ tọa. Đếm là nghề." Cô nói. "Chị xem clip summit trên fanpage của trường em. Lần dừng thứ ba hơi dài. Có một người hỏi chen vào được."
 
 Anh biết cô đang nói về ai. Cô gái áo len hồng, hàng ghế đầu, *anh phanh gấp*. Nhưng cô ở đây không biết người đó là ai, chỉ biết có một khoảng dừng hơi dài.
 
-"Còn em," anh nói, "em nhìn đại biểu Ấn Độ trước khi cậu ấy giơ biển."
+"Còn chị," anh nói, "chị nhìn đại biểu Ấn Độ trước khi cậu ấy giơ biển."
 
 Cô dừng cốc nước giữa chừng.
 
-"Em nhìn sang cậu ấy," anh nói tiếp, "rồi nửa giây sau cậu ấy mới giơ. Em biết cậu ấy sẽ hỏi. Em biết đại biểu Mỹ sẽ không dám hỏi. Em biết đại biểu Việt Nam đang ăn bánh mì."
+"Chị nhìn sang cậu ấy," anh nói tiếp, "rồi nửa giây sau cậu ấy mới giơ. Chị biết cậu ấy sẽ hỏi. Chị biết đại biểu Mỹ sẽ không dám hỏi. Chị biết đại biểu Việt Nam đang ăn bánh mì."
 
 Cô nhìn anh. Rồi bật cười. Không che miệng, không cười kiểu lịch sự. Một tiếng cười ngắn, bất ngờ, như thứ gì đó vừa bật nắp.
 
-"Anh thấy cả cái bánh mì?"
+"Em thấy cả cái bánh mì?"
 
 "Pate với chả. Không có rau."
 
-"Đm," cô nói, rất nhỏ, rất rõ, rồi lấy tay che miệng, mắt vẫn cười. "Xin lỗi. Ở đây em không được chửi bậy. Em là chủ tọa."
+"Đm," cô nói, rất nhỏ, rất rõ, rồi lấy tay che miệng, mắt vẫn cười. "Xin lỗi. Ở đây chị không được chửi bậy. Chị là chủ tọa."
 
 "Ở đây là hành lang."
 
-"Hành lang cũng là sân của em."
+"Hành lang cũng là sân của chị."
 
 Anh cười. Không phải cái cười anh chọn lúc dừng ở sân khấu. Cái cười tự bật ra khi có người ném lại cho mình đúng tốc độ mình vừa ném đi.
 
@@ -318,17 +328,17 @@ Một bạn ban tổ chức chạy qua, gọi với: "Chị Diệp Anh ơi, năm
 
 Cô gật đầu. Rồi quay lại anh, lấy điện thoại trong túi áo vest ra.
 
-"Anh cho em số. Ban tổ chức cần gửi giấy chứng nhận."
+"Em cho chị số. Ban tổ chức cần gửi giấy chứng nhận."
 
-"Ban tổ chức có email của anh rồi mà."
+"Ban tổ chức có email của em rồi mà."
 
-"Vâng." Cô không chớp mắt. "Ban tổ chức có. Em thì chưa."
+"Ừ." Cô không chớp mắt. "Ban tổ chức có. Chị thì chưa."
 
 Anh nhìn cô thêm một giây. Cô biết là anh biết đó là cái cớ. Anh biết là cô biết anh biết. Và cả hai đều thấy không cần giả vờ khác đi.
 
 Anh đọc số. Cô gõ, lưu, rồi bấm gọi một hồi cho máy anh rung trong túi áo kaki, rồi cúp.
 
-"Số em đấy," cô nói. "Lưu đúng tên nhé."
+"Số chị đấy," cô nói. "Lưu đúng tên nhé."
 
 Rồi cô quay người đi về phía phòng họp, gót giày gõ đều trên sàn hành lang. Lúc đi ngang qua bức tường kính, cô đưa tay lên chỉnh lại cái kẹp tóc, không nhìn vào kính.
 
@@ -369,9 +379,9 @@ Anh phóng to tấm ấy. Nhìn cái tay che miệng. Nhìn cái kẹp tóc đ�
 Điện thoại rung.
 
 :::chat
-Chủ tọa: Giấy chứng nhận của anh. Ban tổ chức gửi ạ.
+Chủ tọa: Giấy chứng nhận của em. Ban tổ chức gửi ạ.
 Chủ tọa: [tệp PDF]
-Chủ tọa: Câu ở hành lang của anh hay hơn câu trong phòng. Em định ghi vào biên bản nhưng bạn thư ký bảo lời nói ở hành lang không được ghi vào nghị quyết.
+Chủ tọa: Câu ở hành lang của em hay hơn câu trong phòng. Chị định ghi vào biên bản nhưng bạn thư ký bảo lời nói ở hành lang không được ghi vào nghị quyết.
 Chủ tọa: Câu ChatGPT thì bạn thư ký ghi rồi. Bạn ấy cười đến mức viết sai chính tả.
 :::
 
@@ -382,34 +392,34 @@ Khác hẳn một người khác. Một người nhắn bốn dòng không dấu
 Anh gõ:
 
 :::chat
-> em hỏi câu đấy để đánh đố hay vì em muốn biết
+> chị hỏi câu đấy để đánh đố hay vì chị muốn biết
 :::
 
 Ba chấm hiện lên. Tắt. Hiện lại.
 
 :::chat
 Chủ tọa: Cả hai. Chủ yếu là đánh đố.
-Chủ tọa: Nhưng câu trả lời của anh làm em muốn biết thật.
+Chủ tọa: Nhưng câu trả lời của em làm chị muốn biết thật.
 :::
 
 Anh xoay người nằm nghiêng, điện thoại kề sát mặt. Ngoài cửa sổ, bức tường nhà bên vẫn ở đó, vàng ố dưới đèn đường.
 
 :::chat
-> hôm nay em làm anh ra khỏi sân
-Chủ tọa: Em biết.
-Chủ tọa: Anh đứng ngoài sân trông cũng không tệ.
+> hôm nay chị làm em ra khỏi sân
+Chủ tọa: Chị biết.
+Chủ tọa: Em đứng ngoài sân trông cũng không tệ.
 :::
 
 Anh đọc câu đó hai lần. Rồi gõ, xóa, gõ lại, xóa. Cuối cùng anh gõ cái câu đã nghĩ từ lúc đứng ở hàng ảnh tập thể, nửa vai bị đại biểu Brazil che mất:
 
 :::chat
-> lần sau em ngồi ghế đại biểu, anh làm chủ tọa xem
+> lần sau chị ngồi ghế đại biểu, em làm chủ tọa xem
 :::
 
 Lần này ba chấm hiện lên rất lâu.
 
 :::chat
-Chủ tọa: Anh không đủ tư cách.
+Chủ tọa: Em không đủ tư cách.
 :::
 
 Anh bật cười một mình trong căn phòng trọ.
@@ -417,7 +427,7 @@ Anh bật cười một mình trong căn phòng trọ.
 Ba chấm lại hiện lên.
 
 :::chat
-Chủ tọa: Nhưng em sẽ cho anh dự thính.
+Chủ tọa: Nhưng chị sẽ cho em dự thính.
 :::
 
 Anh đặt điện thoại úp xuống ngực. Trần nhà có một vết thấm hình con cá, anh đã nhìn nó hai năm, hôm nay nó vẫn hình con cá.
@@ -456,7 +466,7 @@ Vũ Béo: chụp màn hình t duyệt
 > k. riêng tư của chủ tọa, m không đủ tư cách dự thính
 :::
 
-Anh mở lại cuộc trò chuyện với cô, nhìn câu mình vừa gửi. *Lần sau em ngồi ghế đại biểu, anh làm chủ tọa xem.* Không phải giọng tổng đài. Lần này Vũ đoán sai.
+Anh mở lại cuộc trò chuyện với cô, nhìn câu mình vừa gửi. *Lần sau chị ngồi ghế đại biểu, em làm chủ tọa xem.* Không phải giọng tổng đài. Lần này Vũ đoán sai.
 
 Nhưng anh biết vì sao. Với cô, anh đọc được. Câu nào ném ra anh cũng biết trước cô sẽ đỡ, sẽ ném lại, sẽ không để nó rơi. Biết trước thì dám. Vẫn là liệu pháp an toàn, chỉ là một phiên bản đẹp hơn, đi derby.
 
@@ -471,7 +481,31 @@ Vũ Béo: ok cái gì. m phải cãi chứ. m nhận nhanh thế là có thật 
 Vũ Béo: ĐM
 :::
 
-Anh thoát ra. Lướt lên. Ngay dưới đoạn chat với Vũ là cái tài khoản có ảnh đại diện chiếc Vespa hồng, tin nhắn cuối vẫn là cái ghim bản đồ: quán cà phê trên Xuân Diệu, tường hồng, ghế hồng, hoa giấy hồng. *Chủ nhật 25. 2h chiều.*
+Anh thoát ra.
+
+Ngón cái anh tự đi sang một ứng dụng khác.
+
+Tìm cô không khó. Trang của hội nghị vừa đăng album khai mạc, tấm thứ ba là cô ở ghế chủ tọa, búa trong tay, và ở góc ảnh có gắn thẻ một tài khoản: tên cô viết liền, không dấu, thêm một dấu chấm ở giữa.
+
+Hai trăm mười bốn bài. Anh lướt.
+
+Kem, lạc đà, đen. Một góc thư viện, nắng xiên qua giá sách. Một cái cốc sứ trắng trên bàn gỗ, vệt son đỏ ở vành. Bàn tay cầm cuốn sách tiếng Anh bìa cứng, ngón trỏ có cái nhẫn bạc mảnh. Mặt hồ Gươm qua lớp kính một quán cà phê tầng ba. Chiếc măng tô vắt trên lưng ghế mây. Caption ngắn, có tấm một chữ, có tấm chỉ một dấu chấm.
+
+Anh nhìn bằng con mắt của người chụp ảnh. Bố cục sạch. Tông màu đều như được kéo cùng một thông số suốt ba năm. Không có ghế nhựa. Không có quán vỉa hè. Không có tấm nào ở chỗ đông người, trừ những tấm cô đứng trên bục. Không có tấm nào cô cười hở răng.
+
+Một trang được dựng kỹ đến mức đọc nó cũng giống đọc một bản thông cáo.
+
+Anh lướt xuống. Năm 2025. Năm 2024. Một tấm cô ngồi nghiêng bên cửa sổ, tóc vấn, gáy lộ ra trên cổ áo len, nắng chiều rọi đúng vào chỗ mấy sợi tóc con không chịu vào nếp.
+
+Cái gáy này mà…
+
+Ngón cái anh đang đặt hờ trên màn hình. Gần quá. Chạm hai lần là thành một trái tim đỏ dưới tấm ảnh hai năm tuổi, và ngay đêm nay cô sẽ biết có một chuyên gia kỹ thuật vừa lướt đến năm 2024.
+
+Sống lưng anh lạnh toát. Anh nhấc ngón cái lên như nhấc khỏi bếp nóng, thoát ra, khóa màn hình, nằm im mười giây nhìn trần nhà. Con cá trên trần vẫn bơi về phía bức tường.
+
+Đọc người thì anh đọc được. Đọc trang của người ta đến tận năm 2024 là một môn khác, và anh chưa học.
+
+Anh mở lại tin nhắn. Lướt lên. Ngay dưới đoạn chat với Vũ là cái tài khoản có ảnh đại diện chiếc Vespa hồng, tin nhắn cuối vẫn là cái ghim bản đồ: quán cà phê trên Xuân Diệu, tường hồng, ghế hồng, hoa giấy hồng. *Chủ nhật 25. 2h chiều.*
 
 Là ngày mai.
 

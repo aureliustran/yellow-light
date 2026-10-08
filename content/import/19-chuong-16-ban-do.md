@@ -168,33 +168,33 @@ Rồi anh đặt con trỏ vào ô ấy.
 Điện thoại sáng.
 
 :::chat
-Chủ tọa: Sao giờ này anh còn online?
+Chủ tọa: Sao giờ này em còn online?
 :::
 
 Hai giờ ba phút. Anh nhìn dòng chữ có chữ hoa đầu câu, có dấu hỏi, đến vào cái giờ không ai nên nhắn cho ai.
 
 :::chat
-> anh đang thông cống hộ nhà hàng xóm. còn em sao giờ này còn thức
-Chủ tọa: Em đọc tài liệu cho vòng đàm phán thứ Bảy. Và em hỏi trước, anh trả lời trước.
-> anh trả lời rồi mà. cống tắc thì k chọn giờ
+> e đang thông cống hộ nhà hàng xóm. còn chị sao giờ này còn thức
+Chủ tọa: Chị đọc tài liệu cho vòng đàm phán thứ Bảy. Và chị hỏi trước, em trả lời trước.
+> e trả lời rồi mà. cống tắc thì k chọn giờ
 :::
 
 Anh bỏ mấy dòng tổng xã ra khỏi phép cộng. Con số co lại, mười ba nghìn sáu trăm. Khớp với ảnh.
 
 :::chat
-Chủ tọa: Người ngủ trước 12 giờ sống lâu hơn. Em đọc ở đâu đó.
+Chủ tọa: Người ngủ trước 12 giờ sống lâu hơn. Chị đọc ở đâu đó.
 > "ở đâu đó" là nguồn yếu nhất trong mọi cuộc tranh luận. chủ tọa mà dẫn nguồn thế à
-Chủ tọa: Nguồn mạnh hơn: em. Hôm nào em ngủ trước 12 giờ thì hôm sau em đẹp hơn. Đã kiểm chứng nhiều lần.
-> thế hôm nay em chấp nhận mai xấu đi để đọc tài liệu
-Chủ tọa: Không. Mai em vẫn đẹp. Hôm nay là ngoại lệ có kiểm soát.
+Chủ tọa: Nguồn mạnh hơn: chị. Hôm nào chị ngủ trước 12 giờ thì hôm sau chị đẹp hơn. Đã kiểm chứng nhiều lần.
+> thế hôm nay chị chấp nhận mai xấu đi để đọc tài liệu
+Chủ tọa: Không. Mai chị vẫn đẹp. Hôm nay là ngoại lệ có kiểm soát.
 :::
 
 Anh bật cười một tiếng, rồi nhìn sang bức tường vì sợ phòng bên nghe thấy.
 
 :::chat
-> anh thì ngoại lệ có hệ thống. não anh sáng lên sau 11h, như đèn đường
-Chủ tọa: Đèn đường sáng vì trời tối. Não anh sáng vì cả ngày anh trì hoãn.
-> oan. cả ngày anh họp. còn sau 11h thì có người nhắn "ai chưa ngủ thì thả tim". anh phải thức để còn được gọi
+> e thì ngoại lệ có hệ thống. não e sáng lên sau 11h, như đèn đường
+Chủ tọa: Đèn đường sáng vì trời tối. Não em sáng vì cả ngày em trì hoãn.
+> oan. cả ngày e họp. còn sau 11h thì có người nhắn "ai chưa ngủ thì thả tim". e phải thức để còn được gọi
 :::
 
 Ba chấm hiện lên, tắt, rồi hiện lại lâu hơn.
@@ -202,9 +202,9 @@ Ba chấm hiện lên, tắt, rồi hiện lại lâu hơn.
 :::chat
 Chủ tọa: Ai nhắn thế?
 > người cần tim
-Chủ tọa: Anh có thả không?
-> k. anh tiết kiệm tim
-Chủ tọa: Em ghi nhận.
+Chủ tọa: Em có thả không?
+> k. e tiết kiệm tim
+Chủ tọa: Chị ghi nhận.
 :::
 
 Anh soát lại mười một dòng còn lại. Đúng cả. Rồi mở lịch sử chỉnh sửa, theo thói quen. Dòng trên cùng: *Hai giờ mười bốn phút – Thuyên*. Bên dưới là tên chị Ngân, tên Hà My, từ chiều hôm qua.
@@ -214,10 +214,10 @@ Không ai mở lịch sử chỉnh sửa trước một buổi báo cáo. Ngư�
 Anh không nhắn ai. Anh đóng file lại, như đóng cửa một căn phòng vừa lau xong sàn.
 
 :::chat
-Chủ tọa: Anh không tin em chưa ngủ à?
-> anh tin. chủ tọa k nói dối, chủ tọa chỉ cài mồi
+Chủ tọa: Em không tin chị chưa ngủ à?
+> e tin. chủ tọa k nói dối, chủ tọa chỉ cài mồi
 Chủ tọa: [ảnh]
-Chủ tọa: Để anh thấy là em cũng chưa ngủ.
+Chủ tọa: Để em thấy là chị cũng chưa ngủ.
 :::
 
 Ảnh chụp từ trên xuống. Cô trùm chăn trắng đến tận cằm. Mặt mộc.
@@ -239,23 +239,23 @@ Anh chạm vào cho nó sáng lại. Nhìn thêm. Rồi chạm thêm lần nữa
 Trên laptop, con trỏ vẫn nhấp nháy ở chỗ dòng thứ bảy cũ, kiên nhẫn như con mèo ngồi đợi cơm. Dòng lỗi ấy anh nhìn mười giây thì thấy nó sai. Tấm ảnh này anh nhìn lâu hơn thế nhiều, và vẫn chưa thấy chỗ nào sai.
 
 :::chat
-> anh tin rồi. giờ em ngủ đi, mai còn đẹp có kiểm soát
-Chủ tọa: Anh gửi một tấm đi. Cho công bằng.
+> e tin rồi. giờ chị ngủ đi, mai còn đẹp có kiểm soát
+Chủ tọa: Em gửi một tấm đi. Cho công bằng.
 :::
 
 Anh nhìn quanh phòng, qua cái bát mì tôm ăn dở, rồi ngửa cổ lên, chụp.
 
 *[ảnh]*
 
-*mặt anh đây. hình con cá*
+*mặt e đây. hình con cá*
 
 Ba chấm hiện lên rất lâu.
 
 :::chat
-Chủ tọa: Anh né.
+Chủ tọa: Bé né.
 Chủ tọa: Nhưng con cá dễ thương.
-> nó ở đấy hai năm rồi. em là người đầu tiên khen nó
-Chủ tọa: Vì anh chưa cho ai xem trần nhà anh.
+> nó ở đấy hai năm rồi. chị là người đầu tiên khen nó
+Chủ tọa: Vì em chưa cho ai xem trần nhà em.
 :::
 
 Anh nhìn lên trần, như để xem con cá có biết mình vừa được khen không.
@@ -269,9 +269,9 @@ Anh mở công cụ soi ảnh viết cho chính mình, đặt ảnh cũ và ản
 Anh làm, không nghĩ nhiều. Dữ liệu này rồi sẽ chảy vào sông của anh. Đối chiếu sai thì sông của anh đục. Thế thôi.
 
 :::chat
-Chủ tọa: Anh vẫn đang thông cống à?
+Chủ tọa: Em vẫn đang thông cống à?
 > cống thứ hai
-Chủ tọa: Nhà hàng xóm anh nhiều cống nhỉ.
+Chủ tọa: Nhà hàng xóm em nhiều cống nhỉ.
 > nhà hàng xóm to lắm. 32 tầng
 :::
 
@@ -280,18 +280,18 @@ Chủ tọa: Nhà hàng xóm anh nhiều cống nhỉ.
 Ba giờ bốn phút.
 
 :::chat
-Chủ tọa: Em ngủ đây. Ba giờ rồi. Em thua.
-> anh thắng à
-Chủ tọa: Không. Em thua giờ, không thua lý. Ngủ trước 12 giờ vẫn đúng.
-> thế mai em ngủ trước 12h đi rồi kể anh nghe
-Chủ tọa: Mai anh cũng online à?
+Chủ tọa: Chị ngủ đây. Ba giờ rồi. Chị thua.
+> e thắng à
+Chủ tọa: Không. Chị thua giờ, không thua lý. Ngủ trước 12 giờ vẫn đúng.
+> thế mai chị ngủ trước 12h đi rồi kể e nghe
+Chủ tọa: Mai em cũng online à?
 :::
 
 Ngón cái anh đặt trên bàn phím một lúc, không gõ.
 
 :::chat
 > chắc thế. cống nhiều mà
-Chủ tọa: Thế em cũng chưa chắc ngủ trước 12 giờ.
+Chủ tọa: Thế chị cũng chưa chắc ngủ trước 12 giờ.
 :::
 
 Anh đặt điện thoại úp xuống bàn, rồi lật lên, rồi úp xuống. Rồi tắt laptop.
@@ -417,11 +417,11 @@ Anh nhìn cái màn hình đen như người đứng ở bến xe buýt nhìn v�
 Một giờ năm mươi hai, nó sáng.
 
 :::chat
-Chủ tọa: Hôm nay anh lại online.
+Chủ tọa: Hôm nay em lại online.
 :::
 
 Anh để cái tin nhắn nằm đó hai giây, ba giây, nhìn nó như nhìn một ô ảnh vừa đổi màu so với tuần trước.
 
 Rồi gõ.
 
-*em cũng thế mà. ngủ trước 12h đâu*
+*chị cũng thế mà. ngủ trước 12h đâu*

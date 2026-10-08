@@ -254,7 +254,71 @@ Anh định đùa một câu. Câu đùa có sẵn, nằm ngay đầu lưỡi. N
 
 Gánh xôi đầu ngõ có cái nồi nhôm bọc chăn, bà bán xôi xới bằng cái muôi gỗ đen bóng. Ba gói xôi xéo, hành phi rắc dày. Ba người ngồi lại trên bậc thềm, Nhi vẫn trên cái ba lô, Vũ ở giữa, Thuyên ở rìa.
 
-Vũ cắn một miếng to, nói không rõ chữ:
+Nhi chưa ăn. Cô giơ điện thoại lên, chĩa vào ba gói xôi đặt cạnh nhau trên bậc thềm, gói của Vũ đã bị cắn mất một góc, và bấm. Không ngắm, không chỉnh, chưa đến một giây.
+
+"Em chụp thế mà không căn à?" Thuyên nói. "Lệch hẳn sang trái. Gói của Vũ bị cắt mất nửa. Đèn cao áp lóa ở góc."
+
+"Không cần căn. Locket mà."
+
+"Locket là gì?"
+
+Vũ quay sang nhìn anh như nhìn một ông cụ vừa hỏi Wi-Fi là gì. "Mày sống ở thế kỷ nào đấy?"
+
+"Thế kỷ có cái thẻ nhân viên chết."
+
+Nhi chìa tay ra. "Điện thoại anh."
+
+Anh mở khóa, đưa cho cô. Cô cúi xuống, ngón cái chạy nhanh trên màn hình: tải ứng dụng, nhập số, bấm vài cái, rồi kéo một ô vuông nhỏ ra màn hình chính của anh, đặt ngay cạnh cái đồng hồ.
+
+"Em là bạn đầu tiên," cô nói. Rồi ngón cái cô dừng lại trên cái biểu tượng Instagram của anh, không bấm. "Story anh em xem rồi."
+
+"Xem rồi thì sao?"
+
+"Đèn đường. Sân không người. Vũng nước. Nhạc như sắp có chuyện." Cô nói, như đọc lại danh sách từ mới. "Đẹp. Đẹp như ảnh trên tạp chí. Mà ảnh bìa không có ai cả."
+
+"Người làm hỏng bố cục."
+
+"Bìa thì không có người." Cô nói tiếp, không đổi giọng. "Bấm vào thì có. Tấm anh ném bóng hồi cấp ba, hai người nhảy lên chặn mà anh vẫn ngả ra sau. Mấy tấm anh đứng gương khoe đồ, nằm lẫn giữa chục tấm trời mây. Với tấm anh cởi trần quay lưng, tương phản gắt như ảnh mấy anh tập gym."
+
+Vũ phun một hạt xôi ra khỏi miệng. "Tấm đấy! Cringe nhất là tấm đấy! Nó kéo tương phản mất nửa tiếng, mở ảnh mấy thằng gymer ra so từng thớ cơ, tao ngồi cạnh tao biết."
+
+Thuyên thấy gáy mình nóng lên dưới cổ hoodie. "Em xem kỹ thế."
+
+"Em xem hết," cô nói, như nói hai cộng hai. "Anh để cảnh ở ngoài, người ở trong. Ai lười bấm thì chỉ thấy cảnh."
+
+Anh định đùa. Câu đùa không đến kịp.
+
+"Người là bố cục," cô nói. Rồi cô trả điện thoại. "Anh chụp đi. Đừng căn."
+
+"Chụp gì?"
+
+"Cái gì đang xảy ra."
+
+Anh giơ máy lên. Ngón tay tự động làm cái việc nó đã làm từ năm lớp mười: tìm chỗ sáng, tìm đường chéo, đợi Vũ quay mặt sang góc đẹp.
+
+"Đừng đợi," Nhi nói.
+
+Anh bấm.
+
+Trên màn hình: Vũ đang há miệng cắn miếng xôi thứ hai, mắt nhắm nửa chừng, hành phi dính ở mép, mũ len lệch sụp xuống một bên lông mày. Góc phải là một vệt hồng nhòe, ống tay áo phao của Nhi. Nghiêng, mờ, lóa đèn. Xấu đúng kiểu mọi tấm anh từng xóa đi không cần nghĩ.
+
+Anh nhìn nó lâu hơn anh định. Nó xấu. Nhưng trong nó có cái mà mấy năm story đèn đường của anh không có: tiếng Vũ nhai, hơi xôi bốc lên trong mười một độ, sáng Chủ nhật, ba người ngồi trên một bậc thềm ướt.
+
+Anh bấm gửi.
+
+Ô vuông trên điện thoại Nhi sáng lên. Cô nhìn, và bật cười, cái cười không che, mắt híp lại phía trên khăn len. "Anh Vũ nhắm mắt."
+
+"Đâu? Đưa đây." Vũ chồm sang, nhìn, rồi giãy lên như bị bỏng. "Xóa. Xóa ngay. Hình tượng của anh."
+
+"Ra khỏi nòng rồi," Thuyên nói. "Đạn không thu hồi được."
+
+"Đm mày học cái trò này làm gì." Vũ ngồi phịch lại. "Story đã cringe rồi, giờ thêm cái này nữa. Mày định làm khổ bọn tao bằng mấy nền tảng?"
+
+"Ảnh xấu là ảnh thật," Nhi nói, nhét điện thoại vào túi áo phao. "Ảnh đẹp thì đăng chỗ khác. Locket là chỗ cho ảnh xấu."
+
+Anh nhìn ô vuông nhỏ cạnh cái đồng hồ trên màn hình mình. Bây giờ nó đang hiện tấm ảnh của Nhi: ba gói xôi lệch, gói của Vũ bị cắt mất nửa, đèn cao áp lóa ở góc. Anh định nói nó lệch. Rồi anh thấy nó không cần thẳng.
+
+Vũ cắn thêm một miếng to, nói không rõ chữ:
 
 "Ăn nhanh rồi về mà tắm. Chiều nay mày còn đi chụp ảnh Tết với chị dâu, mặt mày thế này thì chị ấy lại phải chọn ba mươi tấm."
 
@@ -346,9 +410,11 @@ Học sinh: vâng
 Điện thoại rung tiếp.
 
 :::chat
-Chủ tọa: Chiều nay anh mặc áo kaki nhé. Em chọn được chỗ có nền đỏ.
+Chủ tọa: Chiều nay em mặc áo kaki nhé. Chị chọn được chỗ có nền đỏ.
 Chủ tọa: Đừng xắn tay áo.
-> vâng chủ tọa. tay áo sẽ được giữ nguyên trạng
+> vâng chị chủ tọa. tay áo e sẽ được giữ nguyên trạng
 :::
+
+Trên màn hình chính, cái ô Locket cạnh đồng hồ vẫn là tấm ba gói xôi lệch. Chưa có tấm nào mới.
 
 Anh gập sách lại, kẹp mẩu giấy nhớ vào giữa cho khỏi rơi. Xe phanh ở ngã tư. Ngoài cửa kính, trời đã sáng hẳn, xám và lạnh.

@@ -613,7 +613,7 @@ Lần thứ hai, anh nhìn con số. Lần thứ ba, anh nhìn dòng nội dung.
 Điện thoại rung.
 
 :::chat
-Chủ tọa: Hôm nay anh làm gì?
+Chủ tọa: Hôm nay em làm gì?
 :::
 
 Anh nhìn tin nhắn. Có chữ hoa đầu câu, có dấu hỏi. Anh gõ:
@@ -629,7 +629,7 @@ Anh nhìn câu hỏi một lúc. Nghĩ đến cuốn sổ hồng. Đến cái d�
 
 :::chat
 > học sinh khó dạy. nói như đi xe máy không xi nhan
-Chủ tọa: Anh nói như người thích việc khó.
+Chủ tọa: Em nói như người thích việc khó.
 :::
 
 Anh không trả lời câu đó. Anh cất điện thoại, đi bộ ra bến xe buýt, đi dọc bờ hồ, Crocs đen dẫm lên mấy cánh hoa giấy hồng rụng trên vỉa hè.
@@ -648,7 +648,7 @@ Hồ Tây trôi qua bên ngoài, xám dần. Anh không nhìn hồ. Anh đang đ
 
 *Hôm nay anh không đổi giọng lần nào.* Nhi.
 
-*Anh dừng ba lần ở summit. Lần thứ ba hơi dài.* Diệp Anh.
+*Em dừng ba lần ở summit. Lần thứ ba hơi dài.* Diệp Anh.
 
 Và cái ánh mắt dừng ở cổ anh lúc anh ngửa đầu uống cà phê, dừng thêm một giây không cần thiết. Diệp Anh.
 
@@ -773,7 +773,7 @@ Anh kẹp nó vào giữa xấp đề cho buổi thứ Năm, ở vị trí thứ
 
 Tám giờ bốn mươi, anh đứng dưới chân tòa nhà.
 
-Ba mươi hai tầng, kính xanh phản chiếu bầu trời buổi sáng. Ở sảnh, trên bức tường đá cẩm thạch màu kem, là cái logo. Cái logo anh đã đeo trên cổ suốt hai tuần. Cái logo trên tấm thiệp màu kem viền nhũ vàng mà anh đã mang trong túi blazer, trong túi quần, rồi trả lại bên một cái bàn nhựa đỏ.
+Ba mươi hai tầng, kính xanh phản chiếu bầu trời buổi sáng. Ở sảnh, trên bức tường đá cẩm thạch màu kem, là cái logo. Cái logo trên tấm thiệp màu kem viền nhũ vàng mà anh đã mang trong túi blazer, trong túi quần, rồi trả lại bên một cái bàn nhựa đỏ.
 
 Ở đây nó to bằng cả một cánh cửa, mạ vàng, có đèn hắt từ dưới lên.
 
@@ -803,7 +803,7 @@ Anh ký. Mười bốn chữ ký, mỗi trang một chữ ký nhỏ ở góc dư
 
 "Rồi, xong." Chị nhân sự thu tập hợp đồng, gõ vào máy tính. "Em ngồi đây đợi chị một chút, chị in thẻ cho em."
 
-Năm phút sau, chị đưa cho anh một cái thẻ nhựa còn ấm từ máy in. Cùng logo. Cùng dây đeo màu xanh. Ảnh thẻ mới, chụp lúc nãy bằng webcam trong phòng, mắt hơi nheo vì đèn. Dòng chữ dưới tên:
+Năm phút sau, chị đưa cho anh một cái thẻ nhựa còn ấm từ máy in. Logo mạ vàng của tập đoàn, dây đeo cũng màu xanh, chỉ đậm hơn cái dây cũ một tông. Ảnh thẻ mới, chụp lúc nãy bằng webcam trong phòng, mắt hơi nheo vì đèn. Dòng chữ dưới tên:
 
 *R&D Software Engineer – Khối Công nghệ.*
 
@@ -829,11 +829,11 @@ Thế nên khi chị nhân sự nói *làm cả*, anh chỉ thấy hợp lý. Ph
 
 Lương cao nhất có lý do của nó. Và giờ thì hai mươi bát bún riêu kia có chỗ để hoàn vốn.
 
-"Thẻ này em quẹt cửa từ tầng một đến tầng mười tám nhé," chị nói. "Còn thẻ cũ thời internship, hồ sơ ghi là đã khóa rồi. Em nộp lại cho chị để chị hủy luôn nhé, cầm hai thẻ dễ nhầm lắm."
+"Thẻ này em quẹt cửa từ tầng một đến tầng mười tám nhé," chị nói. Chị liếc xuống cái thẻ cũ thò ra khỏi túi áo sơ mi của anh, logo một công ty khác. "Thẻ chỗ cũ hả em? Vào đây rồi thì cất hẳn đi nhé, hoặc bỏ luôn. Đeo thẻ hai nơi, bảo vệ dưới sảnh hỏi lắm."
 
 "Em xin giữ ạ."
 
-Chị ngẩng lên khỏi màn hình. "Thẻ chết rồi mà em."
+Chị ngẩng lên khỏi màn hình. "Thẻ chỗ cũ thì chết rồi mà em."
 
 "Vâng. Em giữ làm kỷ niệm ạ."
 

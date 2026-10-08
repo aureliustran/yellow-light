@@ -12,7 +12,7 @@ Trang cuối, dòng nhỏ nhất: *Nhóm triển khai: các thành viên lab.*
 
 Thuyên lật thẳng đến trang bảy.
 
-Biểu đồ độ chính xác của mô hình qua từng tuần, một đường đi lên, gãy một nhịp ở tuần thứ ba rồi vọt lên. Màu xanh lá chuối và màu cam. Anh vẽ nó lúc một giờ sáng thứ Ba, bằng con AI hai mươi bát bún riêu, chọn màu bằng mắt của người đã thức mười chín tiếng. Xấu đến mức không ai khác trong lab sẽ nhận là của mình.
+Biểu đồ độ chính xác của mô hình qua từng tuần, một đường đi lên, gãy một nhịp ở tuần thứ ba rồi vọt lên. Màu xanh lá chuối và màu cam. Anh vẽ nó lúc một giờ sáng thứ Ba, bằng con AI hai mươi bát bún riêu. Con AI đề xuất một bảng màu xanh than với xám bạc, sạch sẽ, sang trọng, đúng kiểu sếp thích. Anh xóa đi, gõ tay hai mã màu: xanh lá chuối và cam. Con mắt chụp ảnh từ cái điện thoại đầu tiên biết rõ hai màu ấy đặt cạnh nhau thì chói đến mức nào. Anh chọn chúng vì thế. Xấu đến mức không ai khác trong lab muốn nhận là của mình.
 
 Bên dưới có một dòng chú thích mới, không phải của anh: *Dưới định hướng của Trưởng nhóm, mô hình đạt bước đột phá về độ chính xác.*
 
@@ -34,7 +34,7 @@ Anh Bảo tháo một bên tai nghe.
 
 "Cái đấy thợ code các em tự biết với nhau." Sếp cười, phẩy tay. "Anh nói tầm nhìn. Tầm nhìn không đo bằng tập dữ liệu."
 
-Anh Bảo thở ra một hơi rất dài qua mũi, đeo lại tai nghe. Kiên không ngẩng lên khỏi laptop, nhưng ngón tay đang gõ của cậu dừng hẳn một giây.
+Anh Bảo thở ra một hơi rất dài qua mũi, đeo lại tai nghe. Kiên không ngẩng lên khỏi laptop, nhưng ngón tay đang gõ của Kiên dừng hẳn một giây.
 
 Sếp quay sang Thuyên.
 
@@ -351,9 +351,9 @@ Anh mở cuộc trò chuyện, kéo ngược lên. Kéo rất lâu. Gần sáu t
 
 :::chat
 Chủ tọa: Ngày đầu thế nào?
-Chủ tọa: Sao giờ này anh còn online?
-Chủ tọa: Hôm nay anh làm gì tử tế không?
-Chủ tọa: Anh ngủ đi.
+Chủ tọa: Sao giờ này em còn online?
+Chủ tọa: Hôm nay em làm gì tử tế không?
+Chủ tọa: Em ngủ đi.
 :::
 
 Lần nào cũng là cô gõ cửa. Anh chỉ mở.
@@ -369,21 +369,21 @@ Gửi. Rồi gõ tiếp, nhanh, như người vội khép một cánh cửa trư
 Ba chấm hiện lên gần như ngay lập tức.
 
 :::chat
-Chủ tọa: Anh nhắn trước.
+Chủ tọa: Em nhắn trước.
 Chủ tọa: Lần đầu tiên.
-Chủ tọa: Em ghi vào biên bản.
+Chủ tọa: Chị ghi vào biên bản.
 > ghi cả giờ vào. 8h12 tối. để sau này làm bằng chứng
 Chủ tọa: Bằng chứng gì?
-> bằng chứng anh cũng biết gõ cửa
+> bằng chứng em cũng biết gõ cửa
 :::
 
 Lần này ba chấm hiện lâu hơn.
 
 :::chat
-Chủ tọa: Đề xuất được thông qua. Em chọn bên đi.
-Chủ tọa: Chủ nhật 13. Em chọn quán.
-> ok. anh chọn bên ở lại
-Chủ tọa: Anh chọn nhanh thế.
+Chủ tọa: Đề xuất được thông qua. Chị chọn bên đi.
+Chủ tọa: Chủ nhật 13. Chị chọn quán.
+> ok. em chọn bên ở lại
+Chủ tọa: Em chọn nhanh thế.
 Chủ tọa: Như người đã nghĩ sẵn từ lâu rồi.
 :::
 
@@ -392,9 +392,9 @@ Anh nhìn câu ấy. Ngón cái dừng trên màn hình.
 :::chat
 > nghĩ sẵn cả bài mẫu luôn. gió lào với kẹo cu đơ
 Chủ tọa: ???
-Chủ tọa: Anh đang nói tiếng gì đấy.
+Chủ tọa: Em đang nói tiếng gì đấy.
 > tiếng hà tĩnh. chủ nhật dịch cho
-Chủ tọa: Được. Em mang từ điển.
+Chủ tọa: Được. Chị mang từ điển.
 :::
 
 Anh úp điện thoại lên ngực. Nước từ cái ô hồng vẫn nhỏ xuống sàn, đều, chậm dần.

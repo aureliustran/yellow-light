@@ -16,7 +16,7 @@ Bàn đầu, sát bục: sếp, chị Ngân, Trâm, Hà My, Ly. Bàn giữa: ch�
 
 Anh chưa kịp chọn ghế thì sếp đã vẫy.
 
-"Thuyên! Lên đây em. Ghế này anh để cho em."
+"Thuyên! Lên đây em út. Ghế này anh để cho em."
 
 Cái ghế bên phải sếp. Chị Ngân ngồi bên trái, đã dịch ra nửa gang tay để có chỗ.
 
@@ -152,7 +152,7 @@ Chị Hạnh nhìn theo lưng anh Bảo, rồi quay lại, mắt sáng lên ki�
 
 "Với cả Hà Nội chị ạ."
 
-"Né kìa," Hà My nói. "Chị ơi nó né kìa."
+"Né kìa," Hà My nói. "Chị ơi thằng bé né kìa."
 
 "Chị biết." Chị Hạnh cười hơi lâu. "Thôi được. Năm sau chị hỏi lại."
 
@@ -186,11 +186,11 @@ Cô đến lúc mười một giờ hai mươi.
 
 Anh không đơ. Anh chỉ thấy hai người đi ngang quay đầu lại nhìn cô, và thấy lưng mình thẳng thêm một chút.
 
-"Anh đi derby," cô nói.
+"Em đi derby," cô nói.
 
-"Em biết anh sẽ đi derby mà."
+"Chị biết em sẽ đi derby mà."
 
-"Biết với thấy là hai việc khác nhau." Cô nhìn đôi giày, rồi ngước lên. "Em thích thấy hơn."
+"Biết với thấy là hai việc khác nhau." Cô nhìn đôi giày, rồi ngước lên. "Chị thích thấy hơn."
 
 ---
 
@@ -208,7 +208,7 @@ Họ đi chầm chậm dọc bờ hồ, theo dòng người, không ai cần ch�
 
 "Thế thì đếm ngược là cái hạn chót."
 
-"Hạn chót có người đếm hộ, và có cả trăm nghìn người làm chứng." Cô liếc anh. "Anh làm kỹ sư mà không biết cái gì hay nhất của hạn chót à?"
+"Hạn chót có người đếm hộ, và có cả trăm nghìn người làm chứng." Cô liếc anh. "Em làm kỹ sư mà không biết cái gì hay nhất của hạn chót à?"
 
 "Kỹ sư thì toàn trễ hạn chót."
 
@@ -267,13 +267,13 @@ Và mở cái kia.
 
 "Một!"
 
-"Nếu anh nói là người yêu," anh nói, "thì em có cãi không?"
+"Nếu em nói là người yêu," anh nói, "thì chị có cãi không?"
 
 Anh nghe thấy chính mình. Lần đầu tiên anh không né. Nhưng vẫn là một câu hỏi. Cả đời anh hỏi thay vì nói, đến giây cuối cùng của năm vẫn hỏi.
 
 Cô bật cười. Đúng cái tiếng cười ở hành lang Học viện Ngoại giao, ngắn, bất ngờ, như thứ gì vừa bật nắp.
 
-"Hiệp này," cô nói, "em không cãi."
+"Hiệp này," cô nói, "chị không cãi."
 
 Rồi cô kiễng chân.
 
@@ -305,29 +305,29 @@ Cô lùi lại trước. Một chút thôi, đủ để nhìn anh.
 
 Son của cô đã nhòe một vệt ở khóe môi. Cô đưa ngón cái lên, chùi môi anh, một đường, rồi nhìn đầu ngón tay mình đỏ lên.
 
-"Anh có son của em."
+"Em có son của chị."
 
-"Anh thấy em có ít đi."
+"Em thấy chị có ít đi."
 
-"Thế là chia đều." Cô lấy khăn giấy trong túi ra, chấm nhẹ khóe môi mình, không cần gương. Rồi nhìn đồng hồ trên điện thoại. "Mười hai giờ năm phút. Em phải gọi xe, không lát nữa không ai chạy vào đây được."
+"Thế là chia đều." Cô lấy khăn giấy trong túi ra, chấm nhẹ khóe môi mình, không cần gương. Rồi nhìn đồng hồ trên điện thoại. "Mười hai giờ năm phút. Chị phải gọi xe, không lát nữa không ai chạy vào đây được."
 
 Cô định quay đi. Anh giữ ống tay áo dạ của cô. Không mạnh. Hai ngón tay, như người ta giữ một trang sách cho khỏi lật.
 
-"Mười phút nữa."
+"Mười phút nữa thôi, chị bé."
 
-Cô nhìn bàn tay anh. Rồi nhìn anh.
+Cô nhìn bàn tay anh. Rồi nhìn anh. Cô khựng lại nửa nhịp, như chủ tọa nghe một đại biểu đọc sai chức danh, định sửa, rồi nhận ra không sai chỗ nào.
 
-"Anh đang nũng à?"
+"Chị bé," cô nhắc lại, chậm, như đọc một từ chưa có trong văn bản nào. "Em đang nũng à?"
 
 "Ừ." Anh không buông. "Lần đầu. Chưa có kinh nghiệm, nên xin mười phút để tập."
 
-"Anh cứng với cả lab mà."
+"Em cứng với cả lab mà."
 
 "Với lab thì cứng. Lab không có son."
 
 Cô nhìn anh thêm một giây, như nhìn một bản đề xuất có điều khoản bất ngờ. Rồi cô quay lại, lưng tựa vào ngực anh như lúc đếm ngược, kéo hai tay anh vòng qua người mình, nhét hai bàn tay ấy vào túi áo khoác của cô.
 
-"Mười phút," cô nói. "Em bấm giờ."
+"Mười phút thôi, bé," cô nói. "Chị bấm giờ."
 
 Anh tựa cằm lên đỉnh đầu cô. Tóc cô buông, mềm, lành lạnh vì gió. Pháo hoa đã tắt. Khói trôi chầm chậm trên mặt hồ, phủ lên Tháp Rùa một lớp sương mỏng màu xám bạc, ánh đèn vàng xuyên qua như xuyên qua giấy dó. Đám đông bắt đầu thưa dần về phía Hàng Khay.
 
@@ -347,17 +347,17 @@ Cô bấm. Bấm thêm. Bấm thêm.
 
 Anh thấy hết. Anh thấy nó dễ thương.
 
-"Anh bị cắt mất nửa cằm," anh nói.
+"Em bị cắt mất nửa cằm," anh nói.
 
-"Cằm anh không cần. Tháp Rùa cần." Cô xem lại ảnh, lướt, lướt, dừng ở một tấm. "Tấm này."
+"Cằm em không cần. Tháp Rùa cần." Cô xem lại ảnh, lướt, lướt, dừng ở một tấm. "Tấm này."
 
 Rồi cô cất điện thoại, quay lại, kiễng chân lần nữa, hôn rất nhanh lên má anh. Ngắn như một cái gõ búa.
 
-"Mười phút rồi," cô nói. "Em về."
+"Mười phút rồi," cô nói. "Chị về."
 
 "Mới chín phút rưỡi."
 
-"Em bấm giờ mà." Cô lùi một bước. "Ngủ ngon, người yêu."
+"Chị bấm giờ mà." Cô lùi một bước. "Ngủ ngon, người yêu."
 
 Rồi cô đi về phía Hàng Khay, giữa dòng người đang thưa, tóc buông, áo dạ màu lạc đà. Đến chỗ rẽ cô không quay lại. Anh biết cô sẽ không quay lại. Người chọn lúc kết thúc thì không cần quay lại.
 
@@ -370,15 +370,15 @@ Anh đi bộ ngược về phía Đinh Tiên Hoàng. Môi vẫn còn vị sáp.
 :::chat
 Chủ tọa: [ảnh]
 Chủ tọa: Tấm đẹp nhất trong ba mươi mốt tấm.
-Chủ tọa: Lần sau anh nhớ đứng sang trái một chút. Cằm anh cũng đẹp.
+Chủ tọa: Lần sau em nhớ đứng sang trái một chút. Cằm em cũng đẹp.
 :::
 
 Anh mở ảnh. Phóng to. Cô ở giữa, Tháp Rùa sau vai, son đỏ đã chấm lại gọn gàng. Anh ở mép phải, nửa cằm, cười một kiểu anh chưa từng thấy mình cười trong ảnh.
 
 :::chat
-> ok. lần sau a đứng giữa, em đứng mép
+> ok. lần sau e đứng giữa, c đứng mép
 Chủ tọa: Không.
-Chủ tọa: Lần sau anh đứng cạnh em.
+Chủ tọa: Lần sau em đứng cạnh chị.
 :::
 
 Anh cười một mình giữa phố. Rồi mở chat với Vũ.

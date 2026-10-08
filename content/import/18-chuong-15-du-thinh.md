@@ -8,7 +8,31 @@ Trong điện thoại của một người, anh tên là Phanh Gấp.
 
 Trong điện thoại của anh, có một người tên là Chủ tọa.
 
-Tối qua anh thêm một cái tên nữa. Tài khoản có ảnh đại diện chiếc Vespa hồng gửi sang một tấm ảnh bài viết lúc mười giờ đêm, kèm một dòng *chấm đi*. Anh chấm xong, rồi mở phần thông tin liên hệ, nơi hai tuần nay vẫn chỉ hiện một dãy số và cái tên tiếng Anh cô tự đặt cho tài khoản. Anh gõ:
+Tối qua anh thêm một cái tên nữa. Tài khoản có ảnh đại diện chiếc Vespa hồng gửi sang một tấm ảnh bài viết lúc mười giờ đêm, kèm một dòng *chấm đi*. Anh chấm xong, rồi mở phần thông tin liên hệ, nơi hai tuần nay vẫn chỉ hiện một dãy số và cái tên tiếng Anh cô tự đặt cho tài khoản.
+
+Trước khi gõ, anh làm một việc hai tuần nay anh định không làm: chép cái tên tài khoản ấy sang ô tìm kiếm.
+
+Facebook của cô gần như trống. Ảnh đại diện là chiếc Vespa, không có mặt người. Ảnh bìa là một bức tường hoa giấy. Trang cá nhân khóa, lớp ngoài cùng chỉ còn ba bài chia sẻ từ năm 2023: một bài cứu trợ mèo hoang, hai bài của câu lạc bộ tranh biện trường cấp ba. Một cái nhà cửa đóng then cài, đèn tắt, như không có ai ở nhà.
+
+Anh nghĩ: ngoài đời thì nói chuyện như ném đá.
+
+Rồi anh thử cùng cái tên ấy trên Instagram.
+
+Màn hình đổ hồng.
+
+Mười tám nghìn sáu trăm người theo dõi. Chín ô vuông đầu tiên đã đủ thành một bức tranh: chiếc Vespa hồng đỗ trước một bức tường hồng, ly trà sữa hồng trên bàn đá trắng, cái nơ nhung trên mái tóc nâu chụp từ sau gáy, cuốn sổ hồng mở dưới nắng, một chiếc váy hồng phấn xòe trên bậc thềm một tòa nhà Pháp cũ, bàn tay đeo nhẫn ngọc trai cầm cành hoa giấy. Tông màu đều, ánh sáng mềm, mọi đường thẳng đều thẳng. Ai đó đã căn từng tấm. Có thể là cô, có thể là thợ chụp thuê, có thể cả hai.
+
+Anh nhìn bằng con mắt của người chụp ảnh, và chấm trong đầu như chấm một bài Writing: bố cục tám, màu tám rưỡi, nhất quán chín. Đúng kiểu một trang tiểu thư.
+
+Rồi anh lướt đến một tấm không giống những tấm khác. Không dựng. Cô ngồi trong một quán nào đó, nghiêng đầu cười vào ống kính, cười hở cả lợi, hai má phồng lên đẩy mắt híp lại, ảnh hơi nhòe vì người chụp run tay. Một vệt kem dính ở khóe môi. Caption: *bạn chụp xấu nhưng em thích*.
+
+Vệt kem ở khóe môi kia mà…
+
+Điện thoại rung. Một thông báo từ nhóm lớp. Anh vuốt nó đi, và vuốt luôn qua tấm ảnh, nhanh, như lướt qua một quảng cáo không có nút bỏ qua.
+
+Facebook là cửa đóng. Instagram là tủ kính. Cả hai đều để người ngoài đứng ngoài. Chỉ có một tấm, giữa mấy trăm tấm, là cửa sổ.
+
+Anh không bấm theo dõi. Anh quay lại phần thông tin liên hệ, gõ:
 
 *Học sinh hồng*
 
@@ -191,15 +215,15 @@ Năm giờ, phố Chùa Láng đã lên đèn.
 
 Gió đầu tháng mười một luồn vào cổ áo kaki, mang theo mùi hoa sữa cuối mùa, nhạt đi nhiều so với tháng trước. Cô đi bên trái anh, gót giày gõ xuống vỉa hè lát gạch đỏ, đều như máy đếm nhịp, chỉ có điều cứ mười bước lại hơi lệch một nhịp ở chân phải.
 
-"Anh đọc được em mấy nước?" cô hỏi, không nhìn anh.
+"Em đọc được chị mấy nước?" cô hỏi, không nhìn anh.
 
-"Ba. Con số mức xả nước, ba câu hỏi về mùa khô, cái gõ tay trước câu thật." Anh nói. "Nước thứ tư em im lâu hơn anh đoán. Anh đoán ba giây."
+"Ba. Con số mức xả nước, ba câu hỏi về mùa khô, cái gõ tay trước câu thật." Anh nói. "Nước thứ tư chị im lâu hơn em đoán. Em đoán ba giây."
 
-"Năm giây là của anh. Em mượn."
+"Năm giây là của em. Chị mượn."
 
-"Anh biết. Lần sau em trả tiền bản quyền."
+"Em biết. Lần sau chị trả tiền bản quyền."
 
-"Em trả bằng bánh tráng trộn." Cô dừng lại trước một cái xe đẩy có mái che bạt xanh, ngay cạnh cổng một trường mầm non đã đóng cửa. "Quán này ngon nhất phố. Đội tuyển em ăn sau mỗi buổi tập."
+"Chị trả bằng bánh tráng trộn." Cô dừng lại trước một cái xe đẩy có mái che bạt xanh, ngay cạnh cổng một trường mầm non đã đóng cửa. "Quán này ngon nhất phố. Đội tuyển chị ăn sau mỗi buổi tập."
 
 Bánh tráng trộn hai mươi nghìn một túi. Hai phần ba bát bún riêu. Anh thấy hời.
 
@@ -215,15 +239,15 @@ Anh thấy cô chọn ghế. Anh thấy ánh đèn đến từ đúng phía.
 
 Anh cầm đũa lên, xới túi bánh tráng của mình.
 
-"Hiệp một," cô nói, cất điện thoại. "Mỗi lần gặp, mình cãi một đề. Hôm nay đề của em: AI vẽ tranh có phải là nghệ thuật không."
+"Hiệp một," cô nói, cất điện thoại. "Mỗi lần gặp, mình cãi một đề. Hôm nay đề của chị: AI vẽ tranh có phải là nghệ thuật không."
 
-"Anh phe nào?"
+"Em phe nào?"
 
-"Anh làm AI. Anh phe không."
+"Em làm AI. Em phe không."
 
 "Bất công. Chủ tọa chia phe theo nghề nghiệp."
 
-"Đàm phán là thế. Người ta không chọn được mình ngồi bên nào của con sông." Cô gắp một quả trứng cút. "Anh nói trước."
+"Đàm phán là thế. Người ta không chọn được mình ngồi bên nào của con sông." Cô gắp một quả trứng cút. "Em nói trước."
 
 Anh nhai xong miếng xoài.
 
@@ -233,25 +257,25 @@ Anh nhai xong miếng xoài.
 
 "Thế thì nghệ thuật là cái khung, không phải cái tranh."
 
-"Vâng. Khung quan trọng hơn anh nghĩ."
+"Ừ. Khung quan trọng hơn em nghĩ."
 
 "Thế một bức AI vẽ, treo vào bảo tàng, ghi tên một họa sĩ thật. Người xem tin. Là nghệ thuật à?"
 
 "Là nghệ thuật cho đến hôm có người phát hiện." Cô chỉ đũa vào anh. "Rồi thành tin tức. Tin tức cũng là một loại nghệ thuật."
 
-"Em vừa cãi thua mà gọi nó là thắng theo một cách khác."
+"Chị vừa cãi thua mà gọi nó là thắng theo một cách khác."
 
-"Em vừa cãi thắng mà anh chưa nhận ra."
+"Chị vừa cãi thắng mà em chưa nhận ra."
 
 "Nghệ thuật cần người chịu trách nhiệm," anh nói, nhanh hơn. "Ký tên. Bức nào xấu, có người phải xấu hổ."
 
 "Thông cáo báo chí cũng ký tên. Có ai bảo thông cáo báo chí là nghệ thuật đâu."
 
-"Có. Báo cáo của sếp anh. Nghệ thuật hư cấu, ký tên to nhất trang."
+"Có. Báo cáo của sếp em. Nghệ thuật hư cấu, ký tên to nhất trang."
 
-Cô bật cười, rồi kìm lại, rồi không kìm được nữa. "Thế thì anh tự thua. Máy không ký tên mà anh vẫn bảo người ký tên cũng bịa được."
+Cô bật cười, rồi kìm lại, rồi không kìm được nữa. "Thế thì em tự thua. Máy không ký tên mà em vẫn bảo người ký tên cũng bịa được."
 
-"Anh bảo người ký tên thì bịa được. Máy thì không cần bịa. Máy không biết là mình đang bịa. Khác nhau ở chỗ đấy."
+"Em bảo người ký tên thì bịa được. Máy thì không cần bịa. Máy không biết là mình đang bịa. Khác nhau ở chỗ đấy."
 
 "Khác nhau ở chỗ ai bị bắt."
 
@@ -259,13 +283,13 @@ Hai người đã nhoài người qua cái bàn nhựa từ lúc nào. Cái bàn
 
 Cô cũng nhận ra khoảng cách ấy cùng lúc. Và cả hai cùng bật cười, sát mặt nhau, cái cười của hai người vừa chạy đua một đoạn dài và cùng lúc dừng lại thở.
 
-"Em dính sa tế," anh nói.
+"Chị dính sa tế," anh nói.
 
-"Em biết." Cô không lau. "Để anh nói câu ấy xem anh có nói không."
+"Chị biết." Cô không lau. "Để em nói câu ấy xem em có nói không."
 
-"Anh nói rồi."
+"Em nói rồi."
 
-"Ừ. Anh nói rồi." Cô rút một tờ giấy ăn, chấm nhẹ vào khóe môi, đúng một cái, son không suy suyển. "Hiệp này hòa. Biên bản ghi hòa."
+"Ừ. Em nói rồi." Cô rút một tờ giấy ăn, chấm nhẹ vào khóe môi, đúng một cái, son không suy suyển. "Hiệp này hòa. Biên bản ghi hòa."
 
 "Chủ tọa tự chấm mình hòa."
 
@@ -277,39 +301,39 @@ Anh bật cười lần nữa. Ở quán bánh tráng trộn vỉa hè Chùa Lá
 
 Túi bánh tráng của cô còn một phần ba thì cô đặt đũa xuống.
 
-"Mà học sinh khó dạy của anh dạo này thế nào?"
+"Mà học sinh khó dạy của em dạo này thế nào?"
 
 Giọng bâng quơ, như hỏi giờ xe buýt. Nhưng cô hỏi xong thì cầm cốc trà đá lên, không uống, chỉ cầm.
 
-"Vẫn khó dạy." Anh xới túi bánh tráng của mình, tìm miếng khô bò cuối. "Nhưng tuần trước viết được một câu kết đúng khung. Anh cho điểm cao."
+"Vẫn khó dạy." Anh xới túi bánh tráng của mình, tìm miếng khô bò cuối. "Nhưng tuần trước viết được một câu kết đúng khung. Em cho điểm cao."
 
 "Câu gì?"
 
 "Bí mật nghề nghiệp. Học sinh có quyền riêng tư."
 
-"Học sinh giỏi thế mà anh vẫn gọi là khó dạy."
+"Học sinh giỏi thế mà em vẫn gọi là khó dạy."
 
-"Giỏi với khó dạy không loại trừ nhau. Em là ví dụ."
+"Giỏi với khó dạy không loại trừ nhau. Chị là ví dụ."
 
-Cô nhìn anh một giây. Rồi đặt cốc trà đá xuống, cười. "Em không phải học sinh của anh."
+Cô nhìn anh một giây. Rồi đặt cốc trà đá xuống, cười. "Chị không phải học sinh của em."
 
-"Anh biết. Em là chủ tọa. Em có học phí đâu."
+"Em biết. Chị là chủ tọa. Chị có học phí đâu."
 
-"Học sinh của anh có học phí à?"
+"Học sinh của em có học phí à?"
 
 "Có. Giá học thử."
 
-"Thế thì anh đang bị lỗ." Cô nói, gắp miếng xoài cuối cùng trong túi. "Người khó dạy thì phải trả gấp đôi."
+"Thế thì em đang bị lỗ." Cô nói, gắp miếng xoài cuối cùng trong túi. "Người khó dạy thì phải trả gấp đôi."
 
 Anh định nói lại một câu, rồi thôi. Anh nghĩ đến dòng chữ trong danh bạ, vừa gõ tối qua, ba chữ, gọn như cái nhãn. Có nhãn rồi thì không cần nghĩ về cái hộp nữa.
 
 ---
 
-Bảy giờ, anh đứng ở bến xe buýt đầu phố. Cô đã lên Grab, kính xe kéo xuống một nửa lúc xe lăn bánh: "Thứ Bảy hai tuần nữa em thi vòng thật. Anh không được dự thính đâu. Ban tổ chức không cho khán giả."
+Bảy giờ, anh đứng ở bến xe buýt đầu phố. Cô đã lên Grab, kính xe kéo xuống một nửa lúc xe lăn bánh: "Thứ Bảy hai tuần nữa chị thi vòng thật. Em không được dự thính đâu. Ban tổ chức không cho khán giả."
 
-"Thế thì anh dự thính qua tin nhắn."
+"Thế thì em dự thính qua tin nhắn."
 
-"Em không nhắn trong giờ thi."
+"Chị không nhắn trong giờ thi."
 
 "Thế thì sau."
 
@@ -319,14 +343,14 @@ Trên xe buýt, anh mở điện thoại. Hai tin nhắn mới.
 
 :::chat
 Chủ tọa: [ảnh]
-Chủ tọa: Ảnh đẹp nhất của hiệp một. Em chụp ba tấm, chọn tấm này.
+Chủ tọa: Ảnh đẹp nhất của hiệp một. Chị chụp ba tấm, chọn tấm này.
 :::
 
 Túi bánh tráng của cô, sa tế bóng như sơn mài, ánh đèn rọi từ phía sau người chụp. Ở góc trên khung hình, mờ vì ra khỏi tiêu cự, là một nửa túi bánh tráng của anh và một đầu đũa đang chĩa về phía ống kính, đúng lúc anh nói câu *nghệ thuật cần một người có thể sai*.
 
 :::chat
-> em chụp lúc anh đang thắng
-Chủ tọa: Em chụp lúc anh đang tưởng mình thắng.
+> c chụp lúc em đang thắng
+Chủ tọa: Chị chụp lúc em đang tưởng mình thắng.
 :::
 
 Tin thứ hai đến từ lúc chiều, anh chưa đọc.

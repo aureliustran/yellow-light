@@ -273,7 +273,7 @@ Hai mươi phút còn lại, cô làm bài tốt hơn mọi buổi. Câu nào c�
 ---
 
 :::chat
-Chủ tọa: Em đến sớm mười phút. Em đợi ngoài cửa, anh cứ dạy nốt.
+Chủ tọa: Chị đến sớm mười phút. Chị đợi ngoài cửa, em cứ dạy nốt.
 :::
 
 Tin nhắn đến lúc tám giờ hai mươi. Tám giờ hai mốt, cửa tiệm mở ra.
@@ -288,13 +288,13 @@ Nhi đứng dậy. Cô thấp hơn Diệp Anh gần nửa cái đầu, đôi gi�
 
 "Em là Nhi."
 
-"Chị biết." Diệp Anh đưa tay ra, kiểu bắt tay ở hành lang hội nghị. "Anh Thuyên kể về em suốt. Học sinh khó dạy."
+"Chị biết." Diệp Anh đưa tay ra, kiểu bắt tay ở hành lang hội nghị. "Thuyên kể về em suốt. Học sinh khó dạy."
 
 Nhi bắt tay. "Em không khó dạy. Anh ấy dạy chậm."
 
 Diệp Anh bật cười, vừa đủ, không che miệng. Ánh mắt cô quét một vòng quanh bàn như quét phòng họp: cuốn sổ hồng, cái mũ tai mèo, hai cốc trà đặt sát nhau, cây bút của anh đang nằm trong tay Nhi. Dừng ở cây bút nửa giây. Rồi ngước lên, vẫn cười.
 
-"Em ngồi ngoài kia đợi nhé. Hai người cứ học nốt, chị không làm phiền."
+"Chị ra ngoài kia đợi nhé. Hai người cứ học nốt, chị không làm phiền."
 
 Cô quay ra cửa, đứng dưới đèn đường, lấy điện thoại ra soi lại son.
 
@@ -326,17 +326,21 @@ Cô trả lại cây bút cho anh, đặt nó xuống bàn, không đưa vào ta
 
 Diệp Anh khoác tay anh dọc Đặng Thai Mai. Gió hồ Tây mang mùi khói ngô nướng.
 
-"Học sinh của anh xinh hơn anh kể," cô nói.
+"Học sinh của em xinh hơn em kể," cô nói.
 
-"Anh có kể đâu."
+"Em có kể đâu."
 
-"Thế nên em mới bảo là xinh hơn anh kể." Cô siết tay anh một cái, không nhìn anh. "Bạn ấy cầm bút của anh."
+"Thế nên chị mới bảo là xinh hơn em kể." Cô siết tay anh một cái, không nhìn anh. "Bạn ấy cầm bút của em."
 
-"Học sinh mượn bút thầy, kinh điển mà. Em ghen à?"
+"Học sinh mượn bút thầy, kinh điển mà. Chị ghen à?"
 
-"Vâng."
+"Ừ."
 
 Không chớp mắt. Anh cười, cúi xuống, dụi cằm lên đỉnh đầu cô, chỗ cái kẹp càng cua, nũng như đứa trẻ vừa được giành.
+
+"Chị bé ghen thì em được thêm một cái khoác tay."
+
+"Bé ơi." Cô siết tay anh chặt hơn. "Đang khoác rồi đấy."
 
 Điện thoại rung. Một khoản tiền vào tài khoản, nội dung: *HOC BU*. Không X2, không Phanh Gấp, không gì khác. Số tiền vẫn gấp đôi.
 
