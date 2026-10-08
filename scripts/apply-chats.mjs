@@ -83,6 +83,8 @@ const PASSAGES = {
     ['học sinh khó dạy. nói như đi xe máy không xi nhan', 2, 'out'],
     ['Vũ Béo: ?', 14, 'out'],
   ],
+  // Interludes already have their conversations as :::chat; only inline messages are left.
+  '27b-hong.md': [],
 };
 
 // Messages Thuyên sends inside a sentence: "Thuyên gõ: *7h. im mồm đi vua hợi*".
@@ -99,6 +101,7 @@ const INLINE = {
     ['Rồi anh mở tin nhắn của Đức, gõ thêm: *', 'note'],
   ],
   '05-chuong-03-tieng-dep.md': [['Anh gõ: *dạ*', 'lead']],
+  '27b-hong.md': [['Cô gõ: *ảnh cắt rồi', 'lead']],
 };
 
 // Replies: [start of the sent message, the message it answers, optional caption to drop].

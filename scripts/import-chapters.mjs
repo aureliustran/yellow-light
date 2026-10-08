@@ -5,9 +5,13 @@
 //   npm run import -- --draft           # import as drafts instead
 //   npm run import -- --dry-run         # show what would happen, change nothing
 //   npm run import -- --overwrite       # also replace chapters that already exist
+//   npm run import -- --reorder         # put every chapter in the files into file-name order
 //   npm run import -- path/to/folder
 //
 // Files are imported in file-name order (03-…, 04-…, 05-…, 05b-…, 06-…).
+// New chapters are added at the end; --reorder then moves them to where their
+// file name says (an interlude "17b-…" goes right after "17-…"). Chapters that
+// are not in the files keep their order and stay after the ones that are.
 // Chapters that already exist (same web address) are skipped unless you pass
 // --overwrite, so edits you made in the admin page are never lost by accident.
 import { readdir, readFile } from 'node:fs/promises';
@@ -21,6 +25,7 @@ const flags = new Set(args.filter((a) => a.startsWith('--')));
 const folder = args.find((a) => !a.startsWith('--')) ?? 'content/import';
 const dryRun = flags.has('--dry-run');
 const overwrite = flags.has('--overwrite');
+const reorder = flags.has('--reorder');
 const status = flags.has('--draft') ? 'draft' : 'published';
 
 const files = (await readdir(folder)).filter((f) => f.endsWith('.md')).sort();
@@ -89,6 +94,30 @@ for (const r of parsed) {
     if (error) throw new Error(`${r.file}: ${error.message}`);
     console.log(`  + đã thêm        ${label} → /doc/${r.slug}${extra}`);
     created++;
+  }
+}
+
+if (reorder) {
+  if (dryRun) {
+    console.log('\nSắp xếp lại: sẽ đặt các chương theo thứ tự tên file (chạy thử, chưa đổi gì).');
+  } else {
+    const { data, error } = await sb.from('chapters').select('id, slug, position').order('position', { ascending: true });
+    if (error) throw error;
+    const inFiles = parsed.map((p) => data.find((d) => d.slug === p.slug)).filter(Boolean);
+    const others = data.filter((d) => !inFiles.includes(d));
+    const ids = [...inFiles, ...others].map((d) => d.id);
+    // Positions must stay unique, so first move everything out of the way
+    const OFFSET = 100000;
+    for (const [i, id] of ids.entries()) {
+      const { error: e1 } = await sb.from('chapters').update({ position: OFFSET + i + 1 }).eq('id', id);
+      if (e1) throw e1;
+    }
+    for (const [i, id] of ids.entries()) {
+      const { error: e2 } = await sb.from('chapters').update({ position: i + 1 }).eq('id', id);
+      if (e2) throw e2;
+    }
+    const moved = ids.filter((id, i) => data[i]?.id !== id).length;
+    console.log(`\nĐã sắp xếp lại ${ids.length} chương theo thứ tự file (${moved} chương đổi vị trí).`);
   }
 }
 

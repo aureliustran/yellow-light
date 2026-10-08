@@ -42,4 +42,10 @@ export const interludeColors: { name: string; hex: string }[] = [
   { name: 'Vàng kim', hex: '#D4AF37' },
   { name: 'Hồng', hex: '#F4A6BE' },
   { name: 'Màu xám', hex: '#9AA3A9' },
+  { name: 'Hồng cánh sen', hex: '#E58FB0' },
+  { name: 'Xanh cổ vịt', hex: '#2E8B8B' },
+  { name: 'Ánh xanh màn hình', hex: '#7FB8E6' },
+  { name: 'Đỏ sẫm', hex: '#8A2B38' },
+  { name: 'Nâu cà phê', hex: '#7B5539' },
+  { name: 'Mực tím', hex: '#6A4FB3' },
 ];

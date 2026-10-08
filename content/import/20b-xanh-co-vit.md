@@ -4,7 +4,9 @@ Oct 8, 2026 · @aureliustran.
 
 *Thứ Năm, 26/11/2026*
 
-*dạo này anh ấy gọi mình là kid nhiều hơn. (chắc tại câu hôm đề số 3. ngu thật.)*
+:::phone
+dạo này anh ấy gọi mình là kid nhiều hơn. (chắc tại câu hôm đề số 3. ngu thật.)
+:::
 
 Bốn tuần rồi, bộ đề tương lai không quay lại.
 
@@ -40,7 +42,7 @@ Cô gạch một vạch nhỏ ở lề trang sổ, bằng mực xanh cổ vịt.
 
 ---
 
-Đề Part 3 đầu tiên là *Social media and privacy*.
+Đề Part 3 đầu tiên là *[[en: Social media and privacy || Mạng xã hội và quyền riêng tư]]*.
 
 "*[[en: Do you think people share too much personal information online? || Em có nghĩ người ta chia sẻ quá nhiều thông tin cá nhân trên mạng không?]]*"
 
@@ -58,7 +60,7 @@ Cô dừng một nhịp. Không phải để người nghe quay đầu xe. Cái 
 
 Anh gật. Vẽ một cái chấm, một mũi tên, khoanh tròn một chữ.
 
-"Chấm rõ, quay về đẹp. *Intrusive* là từ tốt, giữ." Anh gõ bút vào chữ vừa khoanh. "*Lowkey* thì là tiếng lóng. Vào phòng thi thay bằng *low-profile*, hoặc *I keep it private*." Rồi anh ngả ra ghế, khóe miệng nhích lên. "Thế Instagram thì không ai nhắn à?"
+"Chấm rõ, quay về đẹp. *Intrusive* là từ tốt, giữ." Anh gõ bút vào chữ vừa khoanh. "*Lowkey* thì là tiếng lóng. Vào phòng thi thay bằng *low-profile*, hoặc *[[en: I keep it private || Em giữ nó ở chế độ riêng tư]]*." Rồi anh ngả ra ghế, khóe miệng nhích lên. "Thế Instagram thì không ai nhắn à?"
 
 Cô nhìn anh.
 
@@ -80,7 +82,7 @@ Cô chép cái khung anh vừa vẽ sang sổ, bằng mực xanh cổ vịt. Ch�
 
 ---
 
-Đề thứ hai là về công việc: *Should people be rewarded for teamwork or for individual results?* Cô nói được, đi thẳng, rẽ ngang một lần sang chuyện bài tập nhóm Marketing có một đứa không làm gì mà vẫn được điểm như cả nhóm, rồi tự kéo về. Anh vẽ cái khung thứ hai. Kid lần thứ ba, lần thứ tư.
+Đề thứ hai là về công việc: *[[en: Should people be rewarded for teamwork or for individual results? || Người ta nên được thưởng vì làm việc nhóm hay vì kết quả cá nhân?]]* Cô nói được, đi thẳng, rẽ ngang một lần sang chuyện bài tập nhóm Marketing có một đứa không làm gì mà vẫn được điểm như cả nhóm, rồi tự kéo về. Anh vẽ cái khung thứ hai. Kid lần thứ ba, lần thứ tư.
 
 Năm giờ mười, anh đặt bút xuống. "Nghỉ năm phút. Não em đang chạy bằng trà sữa."
 
@@ -170,11 +172,11 @@ Cô gập sổ lại.
 
 Buổi học Chủ nhật là Writing.
 
-*Some people think that university scholarships should be awarded based on financial need rather than academic achievement. To what extent do you agree or disagree?*
+*[[en: Some people think that university scholarships should be awarded based on financial need rather than academic achievement. To what extent do you agree or disagree? || Một số người cho rằng học bổng đại học nên được trao dựa trên hoàn cảnh khó khăn hơn là thành tích học tập. Bạn đồng ý hay không đồng ý ở mức độ nào?]]*
 
 Cô đọc đề, viết chấm, viết ba mũi tên. Đoạn thân bài thứ hai cô viết về những sinh viên giỏi nhưng nhà nghèo, những người phải làm thêm ba việc. Viết đến câu ví dụ, bút cô đi trước đầu cô một nhịp:
 
-*I once knew a girl who had a scholarship and—*
+*[[en: I once knew a girl who had a scholarship and— || Em từng biết một cô gái có học bổng và—]]*
 
 Cô dừng. Nhìn câu ấy. Nó không chạy về chấm. Nó chạy về một chỗ khác.
 

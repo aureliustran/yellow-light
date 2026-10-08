@@ -4,7 +4,9 @@ Oct 8, 2026 · @aureliustran.
 
 *Thứ Năm, 4/2/2027*
 
-*hẹn 3h. đến 2h30. (đến sớm có phải là thành ý không hay chỉ là sốt ruột)*
+:::phone
+hẹn 3h. đến 2h30. (đến sớm có phải là thành ý không hay chỉ là sốt ruột)
+:::
 
 Nhi không đi Vespa. Cô đặt xe.
 
@@ -226,11 +228,11 @@ Rồi mở một ghi chú mới. Trắng tinh. Không tiêu đề.
 
 Cô gõ:
 
-*thảo không uống cà phê.*
-
+:::phone
+thảo không uống cà phê.
 Nhìn nó một lúc. Rồi gõ thêm một dòng bên dưới:
-
-*(bạn ấy bảo có bốn mươi phút. bạn ấy ở lại ba mươi hai.)*
+(bạn ấy bảo có bốn mươi phút. bạn ấy ở lại ba mươi hai.)
+:::
 
 Cô không biết ghi chú này để làm gì. Cô lưu nó lại.
 

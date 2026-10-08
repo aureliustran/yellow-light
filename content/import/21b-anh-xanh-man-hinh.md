@@ -4,7 +4,9 @@ Oct 8, 2026 · @aureliustran.
 
 *Thứ Ba, 8/12/2026*
 
-*hôm nay mình nói dối anh mình. lần đầu tiên. (thang máy có ba mươi hai cái nút. bấm nhầm một cái thì đã sao)*
+:::phone
+hôm nay mình nói dối anh mình. lần đầu tiên. (thang máy có ba mươi hai cái nút. bấm nhầm một cái thì đã sao)
+:::
 
 Máy cà phê tầng mười tám hỏng đã ba tuần. Nhi biết vì tối Chủ nhật anh trai nói ở bàn ăn, kẹp giữa hai câu về một khoản vay, rằng cả tầng anh đang phải xuống sảnh mua cà phê, đắng như thuốc bắc, bên hành chính hứa sửa từ thứ Hai tuần trước mà chưa thấy ai lên. Bố không nghe. Mẹ gật. Nhi nhớ.
 

@@ -4,7 +4,9 @@ Oct 8, 2026 · @aureliustran.
 
 *Chủ nhật, 24/1/2027*
 
-*anh ấy có người yêu. từ năm mới. (xinh. và cãi nhanh.)*
+:::phone
+anh ấy có người yêu. từ năm mới. (xinh. và cãi nhanh.)
+:::
 
 Giỗ ông nội năm nào cũng ba mâm. Năm nay bốn, vì có thêm nhà bác cả từ Sài Gòn ra.
 
@@ -315,8 +317,13 @@ Trên màn hình khóa, ô Locket vẫn là anh Vũ nhắm mắt, hành phi dín
 
 Trước khi úp điện thoại, cô mở ghi chú, gõ:
 
-*người cãi mình không phải ai cũng nói thật. (anh ấy thì có. mình chắc.)*
+:::phone
+người cãi mình không phải ai cũng nói thật. (anh ấy thì có. mình chắc.)
+:::
 
 Rồi, dưới đó, sau một lúc:
 
-*(lần trước mình cũng chắc.)*
+:::phone
+người cãi mình không phải ai cũng nói thật. (anh ấy thì có. mình chắc.)
+(lần trước mình cũng chắc.)
+:::

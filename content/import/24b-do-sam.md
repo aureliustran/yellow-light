@@ -4,7 +4,9 @@ Oct 8, 2026 · @aureliustran.
 
 *Thứ Bảy, 2/1/2027*
 
-*năm mới. dọn ngăn kéo. tìm thấy điện thoại cũ. (sạc thử thôi.)*
+:::phone
+năm mới. dọn ngăn kéo. tìm thấy điện thoại cũ. (sạc thử thôi.)
+:::
 
 Ngăn kéo cuối cùng của bàn học kẹt từ hồi cô học lớp mười. Phải nhấc lên một chút rồi mới kéo ra được, như cửa nhà người lớn tuổi.
 
@@ -338,6 +340,7 @@ Rồi cô khóa màn hình. Úp điện thoại mới lên trên cái điện th
 
 Trước khi tắt đèn, cô mở ghi chú, gõ hai dòng.
 
-*thảo (8A). lần thứ ba. gõ được hai chữ. không gửi.*
-
-*(không ai bắt mình xin lỗi bao giờ. nên mình không biết chữ thứ ba là chữ gì.)*
+:::phone
+thảo (8A). lần thứ ba. gõ được hai chữ. không gửi.
+(không ai bắt mình xin lỗi bao giờ. nên mình không biết chữ thứ ba là chữ gì.)
+:::

@@ -75,6 +75,14 @@ test('ide block: shell commands get a prompt', () => {
   assert.match(html, /<span class="tok-prompt" aria-hidden="true">\$ <\/span>git push/);
 });
 
+test('phone block: lines of a note typed in a phone, with a title and tappable translations', () => {
+  const html = renderMarkdown(':::phone Những lần mình đúng\ndòng một\n\n(dòng [[en: two || hai]])\n:::');
+  assert.match(html, /<figure class="phone"><div class="phone-bar"[^>]*><span>‹ Ghi chú<\/span>/);
+  assert.match(html, /<figcaption class="phone-title">Những lần mình đúng<\/figcaption><p>dòng một<\/p><p class="gap"><\/p><p>\(dòng <span class="tr tr-en"/);
+  assert.equal(renderMarkdown(':::phone\nchỉ một dòng\n:::').includes('phone-title'), false);
+  assert.equal(excerpt('Mở đầu.\n\n:::phone\nghi chú ẩn\n:::\n\nCuối.'), 'Mở đầu. Cuối.');
+});
+
 test('note block: handwritten list and ink variant', () => {
   const html = renderMarkdown(':::note Ghi chú\n- nhiệt kế\n- quýt\n:::\n\n:::note ink\ntiền = thứ mọi người tin\n:::');
   assert.match(html, /<figure class="note"><figcaption class="note-title">Ghi chú<\/figcaption><div class="note-body"><ul>/);

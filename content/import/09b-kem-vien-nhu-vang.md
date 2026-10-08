@@ -4,7 +4,9 @@ Oct 7, 2026 · @aureliustran.
 
 *Thứ Sáu, 9/10/2026*
 
-*Ghi chú – Summit 10/10: thiệp VIP để trong túi trắng. ĐỪNG QUÊN.*
+:::phone
+Summit 10/10: thiệp VIP để trong túi trắng. ĐỪNG QUÊN.
+:::
 
 Tối thứ Sáu, phòng Nhi trông như vừa có trộm.
 

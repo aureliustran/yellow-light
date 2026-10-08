@@ -4,7 +4,9 @@ Oct 8, 2026 · @aureliustran.
 
 *Thứ Năm, 29/10/2026*
 
-*đề số 3. bộ đề tương lai. (anh ấy nói dối dở thật)*
+:::phone
+đề số 3. bộ đề tương lai. (anh ấy nói dối dở thật)
+:::
 
 Ba tối liền, Nhi nằm sấp trên giường lướt Instagram tìm quán, như người đi chọn nhà.
 
@@ -67,20 +69,25 @@ Cô cúi xuống cốc trà dâu của mình, cắn ống hút, không để kh�
 
 Anh lấy xấp đề ra khỏi ba lô, đẩy sang. "Hôm nay thi thử nguyên bộ. Anh nghe."
 
-Cô nhận xấp đề. Lật tờ một: Part 1, *Weather*. Đề thật, quý này, cô đã soạn câu trả lời từ tháng chín. Lật tờ hai: Part 2, *Describe a website you often use*. Đề thật, nằm thứ mười một trong danh sách bốn mươi bảy đề cô chép tay vào cuối sổ.
+Cô nhận xấp đề. Lật tờ một: Part 1, *Weather*. Đề thật, quý này, cô đã soạn câu trả lời từ tháng chín. Lật tờ hai: Part 2, *[[en: Describe a website you often use || Tả một trang web bạn hay dùng]]*. Đề thật, nằm thứ mười một trong danh sách bốn mươi bảy đề cô chép tay vào cuối sổ.
 
 Lật tờ ba.
 
+:::dich en
 *Describe the kind of person you would like to have as a boyfriend.*
 *You should say: what he looks like, what he does, how you would like to meet him, and explain why this kind of person would suit you.*
+||
+*Hãy tả kiểu người bạn muốn có làm bạn trai.*
+*Bạn nên nói: anh ấy trông thế nào, làm nghề gì, bạn muốn gặp anh ấy ra sao, và giải thích vì sao kiểu người này hợp với bạn.*
+:::
 
 Cô dừng.
 
-Bốn mươi bảy đề Part 2 của quý này, cô thuộc như thuộc số điện thoại nhà. Đề về người thì có *a person you admire*, *a person who helped you*, *an old person you know*, *a friend you made recently*. Không có bạn trai. Ba năm nay chưa bộ đề nào có bạn trai. Định dạng thì chuẩn đến từng dấu hai chấm, chuẩn hơn cả mấy tờ thật, như người làm giả tiền in đẹp hơn tiền.
+Bốn mươi bảy đề Part 2 của quý này, cô thuộc như thuộc số điện thoại nhà. Đề về người thì có *[[en: a person you admire || một người bạn ngưỡng mộ]]*, *[[en: a person who helped you || một người đã giúp bạn]]*, *[[en: an old person you know || một người già mà bạn quen]]*, *[[en: a friend you made recently || một người bạn mới quen gần đây]]*. Không có bạn trai. Ba năm nay chưa bộ đề nào có bạn trai. Định dạng thì chuẩn đến từng dấu hai chấm, chuẩn hơn cả mấy tờ thật, như người làm giả tiền in đẹp hơn tiền.
 
 Bên dưới thẻ đề là ba câu Part 3. Cô đọc lướt đến câu cuối.
 
-*Should men always make the first move?*
+*[[en: Should men always make the first move? || Đàn ông có nên luôn là người chủ động trước không?]]*
 
 Cô ngẩng lên.
 
@@ -102,7 +109,9 @@ Anh quay lại khi nghe tiếng *bíp*. Mắt anh dừng ở tờ đề trong ta
 
 Năm chữ.
 
-*cao – ô – Crocs – nửa câu – never*
+:::note
+cao – ô – Crocs – nửa câu – never
+:::
 
 Cô viết chữ cuối cùng hơi đè bút. Rồi đặt bàn tay lên tờ nháp, che đi.
 
@@ -236,7 +245,9 @@ Anh vẫy tay, đi bộ ra đầu ngõ, đôi Crocs đen bước qua mấy viên
 
 Về đến nhà, cô dựng xe dưới gốc hoa sữa, chưa vào ngay. Cô ngồi trên yên xe, trong sân, mở ghi chú điện thoại.
 
-*đề số 3. bộ đề tương lai. (anh ấy nói dối dở thật)*
+:::phone
+đề số 3. bộ đề tương lai. (anh ấy nói dối dở thật)
+:::
 
 Gõ xong cô cười một mình, một tiếng, như lúc anh nói *Coherence tám*. Bác bảo vệ ở chòi gác nhìn ra. Cô cất điện thoại, đi vào.
 
@@ -246,9 +257,15 @@ Mười một giờ đêm, cô nằm sấp trên giường, cuốn sổ hồng m
 
 Cô lật tờ đề lại. Ba câu Part 3.
 
+:::dich en
 *Do you think people should date someone similar to themselves?*
 *How important is appearance when choosing a partner?*
 *Should men always make the first move?*
+||
+*Bạn có nghĩ người ta nên hẹn hò với người giống mình không?*
+*Ngoại hình quan trọng đến mức nào khi chọn một người bạn đời?*
+*Đàn ông có nên luôn là người chủ động trước không?*
+:::
 
 Câu thứ nhất thì dễ. Câu thứ hai cô có thể nói cả tiếng. Câu thứ ba anh tự gõ, tự căn lề, tự kẹp vào giữa, rồi tự úp xuống bàn.
 
@@ -258,7 +275,7 @@ Cô đặt bút xuống. Không viết.
 
 Cô đọc lại câu kết của mình trong đầu, bằng giọng của mình, chậm.
 
-*So that is why I would never date someone like that.*
+*[[en: So that is why I would never date someone like that. || Thế nên em sẽ không bao giờ hẹn hò với một người như thế.]]*
 
 Lúc nói ra thì nó gọn, đẹp, như đóng nắp hộp bút. Anh cười. Anh cho tám. Anh biết là đùa, cô chắc thế, cái cười ấy là cái cười của người biết. Người nói dối dở như anh không cười được thế với một câu mình tin là thật.
 
@@ -266,6 +283,9 @@ Chỉ là bây giờ, nằm một mình, câu ấy nghe dài hơn lúc ở quán
 
 Cô kéo chăn lên, mở lại ghi chú, gõ thêm một dòng dưới dòng ban chiều:
 
-*câu cuối hơi quá không nhỉ.*
+:::phone
+đề số 3. bộ đề tương lai. (anh ấy nói dối dở thật)
+câu cuối hơi quá không nhỉ.
+:::
 
 Rồi để đấy. Không xóa.

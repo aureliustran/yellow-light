@@ -17,6 +17,7 @@
 //   :::editor file.md           a text editor window: the lines are shown as typed (translations allowed)
 //   :::ide file.py              an IDE or terminal window (dark); lines starting "$ " are shell commands
 //   :::note [ink] Title         a handwritten note; a list inside it is drawn as handwritten lines
+//   :::phone [Title]           a note typed in a phone's Notes app: every line of the block is a line of the note
 //   :::sheet File name          a spreadsheet: a Markdown table; start a row with [x] (done, green) or [~] (waiting, yellow);
 //                               an empty cell or (trống) is a blank cell
 //
@@ -339,6 +340,29 @@ const noteExtension: TokenizerAndRendererExtension = {
   },
 };
 
+// A note typed in a phone's notes app (an optional title, then the lines as typed).
+const phoneExtension: TokenizerAndRendererExtension = {
+  name: 'phone',
+  level: 'block',
+  start: blockStart('phone'),
+  tokenizer(src: string) {
+    const f = fenced('phone', src);
+    if (!f) return undefined;
+    const lines = f.body.replace(/\s+$/, '').split('\n').map((l) => ({
+      blank: !l.trim(),
+      tokens: l.trim() ? this.lexer.inlineTokens(l.trim()) : [],
+    }));
+    return { type: 'phone', raw: f.raw, title: f.title, lines };
+  },
+  renderer(token) {
+    const title = token.title ? `<figcaption class="phone-title">${escapeHtml(String(token.title))}</figcaption>` : '';
+    const lines = (token.lines as { blank: boolean; tokens: Token[] }[])
+      .map((l) => (l.blank ? '<p class="gap"></p>' : `<p>${this.parser.parseInline(l.tokens)}</p>`))
+      .join('');
+    return `<figure class="phone"><div class="phone-bar" aria-hidden="true"><span>‹ Ghi chú</span><span>···</span></div><div class="phone-body">${title}${lines}</div></figure>\n`;
+  },
+};
+
 // Spreadsheet: a Markdown table with column letters and row numbers.
 const ROW_MARK = /^\[(x|~|!)\][ \t]*/i;
 const ROW_CLASS: Record<string, string> = { x: 'is-done', '~': 'is-wait', '!': 'is-flag' };
@@ -405,6 +429,7 @@ const marked = new Marked({
     codeExtension('editor'),
     codeExtension('ide'),
     noteExtension,
+    phoneExtension,
     sheetExtension,
     blockTranslation,
     inlineTranslation,
@@ -433,7 +458,7 @@ export function stripTranslations(md: string): string {
 // Plain-text preview of a chapter, for share cards and search results.
 export function excerpt(md: string, max = 160): string {
   const text = stripTranslations(md)
-    .replace(/^:::(?:chat|email|editor|ide|note|sheet)\b[\s\S]*?^:::\s*$/gm, ' ')
+    .replace(/^:::(?:chat|email|editor|ide|note|phone|sheet)\b[\s\S]*?^:::\s*$/gm, ' ')
     .replace(/^\s*(---|\*\*\*|___)\s*$/gm, ' ')
     .replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
     .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
@@ -465,7 +490,7 @@ export function findMarkupProblems(md: string): string[] {
     problems.push(`Dòng ${lineOf(m.index)}: chỉ dùng [[en: …]] hoặc [[ht: …]].`);
   }
 
-  const blockOpen = /^:::(chat|dich|email|editor|ide|note|sheet)\b[^\n]*$/gm;
+  const blockOpen = /^:::(chat|dich|email|editor|ide|note|phone|sheet)\b[^\n]*$/gm;
   while ((m = blockOpen.exec(src))) {
     const rest = src.slice(m.index + m[0].length);
     const close = /^:::[ \t]*$/m.exec(rest);

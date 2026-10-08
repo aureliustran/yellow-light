@@ -4,7 +4,9 @@ Oct 7, 2026 · @aureliustran.
 
 *Thứ Ba, 6/10/2026*
 
-*Ghi chú – Món bố thích: sườn xào chua ngọt. Món anh thích: nem rán. Món mẹ thích: (chưa biết).*
+:::phone
+Món bố thích: sườn xào chua ngọt. Món anh thích: nem rán. Món mẹ thích: (chưa biết).
+:::
 
 Tối thứ Ba, bố về từ Đà Nẵng. Cả nhà ăn cơm muộn, tám giờ mới ngồi vào bàn, vì bố phải gọi xong ba cuộc điện thoại trong phòng làm việc.
 

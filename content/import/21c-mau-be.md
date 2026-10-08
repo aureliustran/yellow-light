@@ -4,7 +4,9 @@ Oct 8, 2026 · @aureliustran.
 
 *Thứ Ba, 8/12/2026*
 
-*cái váy be mẹ mua năm mình mười sáu. "con lớn rồi, mặc be cho sang". (chưa cắt mác. cắt mác thì nó thành của mình)*
+:::phone
+cái váy be mẹ mua năm mình mười sáu. "con lớn rồi, mặc be cho sang". (chưa cắt mác. cắt mác thì nó thành của mình)
+:::
 
 Mười một giờ đêm, Nhi lấy cái váy be ra khỏi tủ.
 
@@ -284,8 +286,10 @@ Bảy năm, bạn ấy vẫn ngồi cạnh cửa sổ. Hoặc người ta xếp 
 
 Cô với điện thoại, mở ghi chú, gõ dưới dòng đầu tiên của tối nay:
 
-*thảo vẫn ngồi cạnh cửa sổ.*
-
-*(cái váy be mình vẫn mặc vừa. hai chuyện chẳng liên quan gì đến nhau)*
+:::phone
+cái váy be mẹ mua năm mình mười sáu. "con lớn rồi, mặc be cho sang". (chưa cắt mác. cắt mác thì nó thành của mình)
+thảo vẫn ngồi cạnh cửa sổ.
+(cái váy be mình vẫn mặc vừa. hai chuyện chẳng liên quan gì đến nhau)
+:::
 
 Cô nhìn hai dòng ấy một lúc. Rồi tắt màn hình, úp điện thoại xuống gối, và nằm như thế, mắt mở, đến khi vệt sáng trên trần nhòe đi.

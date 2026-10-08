@@ -4,7 +4,9 @@ Oct 8, 2026 · @aureliustran.
 
 *Thứ Ba, 2/2/2027*
 
-*mình không ghen. mình chỉ thấy chị ấy giả. (đứng giữa khung cửa một giây rồi mới bước vào. ai lại thế.)*
+:::phone
+mình không ghen. mình chỉ thấy chị ấy giả. (đứng giữa khung cửa một giây rồi mới bước vào. ai lại thế.)
+:::
 
 Chiếc Vespa đứng ở mép vỉa hè trước tiệm trà, ngay dưới cái đèn đường mà năm phút trước có một người đứng soi son.
 
@@ -142,7 +144,11 @@ Cũng tháng mười hai, nhóm chat lớp nổ lúc mười giờ đêm. Một 
 
 Cô nhìn cái ảnh. Nhìn mép cắt. Cô biết cắt ở đâu thì một câu thành câu khác. Cô biết vì cô từng cắt.
 
-Cô gõ: *ảnh cắt rồi. gửi bản đủ đi.*
+Cô gõ:
+
+:::chat
+> ảnh cắt rồi. gửi bản đủ đi.
+:::
 
 Nhóm im mười giây. Rồi có đứa thả một cái mặt ngơ ngác. Rồi đứa gửi ảnh thu hồi tin nhắn.
 
@@ -230,7 +236,9 @@ Cô mở ứng dụng ghi chú. Tạo ghi chú mới. Ở dòng tiêu đề, cô
 
 Rồi dòng đầu tiên:
 
-*Tháng 5/2025 – thi thử IELTS lần ba được 6.5. Không ai biết mình đi thi.*
+:::phone Những lần mình đúng mà không ai nhường.
+Tháng 5/2025 – thi thử IELTS lần ba được 6.5. Không ai biết mình đi thi.
+:::
 
 Ngắn quá. Cô định thêm *mình tự học, mình tự đặt xe*, rồi thôi. Đúng là đúng.
 
@@ -264,7 +272,10 @@ Rồi cô chạy vào nhà, lấy cái máy ảnh phim, vặn vòng lấy nét v
 
 Chiều hôm ấy, cô mở ghi chú, gõ dòng thứ hai:
 
-*Tháng 8/2025 – đỗ RMIT. Tự nộp hồ sơ, tự viết bài luận, tự đi phỏng vấn.*
+:::phone Những lần mình đúng mà không ai nhường.
+Tháng 5/2025 – thi thử IELTS lần ba được 6.5. Không ai biết mình đi thi.
+Tháng 8/2025 – đỗ RMIT. Tự nộp hồ sơ, tự viết bài luận, tự đi phỏng vấn.
+:::
 
 Cô không viết gì về chiếc xe. Chiếc xe không thuộc về ghi chú này. Chiếc xe là của anh.
 

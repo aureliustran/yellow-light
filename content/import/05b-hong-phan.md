@@ -4,7 +4,9 @@ Oct 7, 2026 · @aureliustran.
 
 *Thứ Bảy, 3/10/2026*
 
-*Ghi chú – Việc cuối tuần: rửa con mèo hồng. Học 20 từ vựng. Không đâm xe.*
+:::phone
+Việc cuối tuần: rửa con mèo hồng. Học 20 từ vựng. Không đâm xe.
+:::
 
 Chiếc Vespa hồng vào đến cổng lúc bảy giờ hai mươi. Bác bảo vệ mở cổng, cúi chào, hỏi cô đi sớm thế. Nhi bảo đi mua bánh mì. Bác nhìn hai tay cô, không thấy bánh mì nào, nhưng không hỏi thêm.
 

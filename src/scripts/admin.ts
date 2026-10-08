@@ -337,12 +337,14 @@ function startEditor(): void {
         case 'editor':
         case 'ide':
         case 'note':
+        case 'phone':
         case 'sheet': {
           const T: Record<string, [string, string]> = {
             email: [':::email\nTừ: Người gửi\nĐến: Người nhận\nChủ đề: Tiêu đề thư\n\nNội dung thư.\n:::', 'Tiêu đề thư'],
             editor: [':::editor ten_file.md\n# Tiêu đề\n\nNội dung file.\n:::', 'ten_file.md'],
             ide: [':::ide Terminal\n$ lệnh\n:::', 'lệnh'],
             note: [':::note Tiêu đề\n- mục một\n- mục hai\n:::', 'Tiêu đề'],
+            phone: [':::phone Tiêu đề ghi chú\ndòng một\ndòng hai\n:::', 'Tiêu đề ghi chú'],
             sheet: [':::sheet Ten_file\n| Cột A | Cột B |\n| --- | --- |\n| [x] ô A1 | ô B1 |\n| [~] ô A2 | ô B2 |\n:::', 'Ten_file'],
           };
           const [body, pick] = T[b.dataset.insert as string];

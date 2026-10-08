@@ -1,4 +1,4 @@
-# Đèn Vàng – Bản dịch đề xuất (chương 1–13, 28–29)
+# Đèn Vàng – Bản dịch đề xuất (chương 1–13, 28–29 và các interlude)
 
 Danh sách các câu tiếng Anh và giọng Hà Tĩnh trong 17 file đã nhập, kèm sẵn đoạn đánh dấu để dán vào trang quản lý.
 
@@ -268,3 +268,49 @@ Nội dung file `as_the_crow_flies_v0.md` (khối `:::editor`, mỗi dòng một
 - `- [[en: Trees: canopy hides what's underneath. || Cây cối: tán lá che mất thứ bên dưới.]]`
 - `- [[en: Balconies, awnings, laundry racks: change daily. || Ban công, mái hiên, giá phơi đồ: thay đổi mỗi ngày.]]`
 - `- → [[en: Last 50m needs onboard sensing. Satellite gets you to the building. Something else gets you to the door. || 50m cuối cần cảm biến trên thiết bị bay. Vệ tinh đưa bạn đến tòa nhà. Một thứ khác đưa bạn đến tận cửa.]]`
+
+## Hồng cánh sen
+
+Thẻ đề Part 2 và ba câu Part 3 (cùng khối với chương 13), thay các dòng in nghiêng bằng một khối:
+
+```
+:::dich en
+*Describe the kind of person you would like to have as a boyfriend.*
+*You should say: what he looks like, what he does, how you would like to meet him, and explain why this kind of person would suit you.*
+||
+*Hãy tả kiểu người bạn muốn có làm bạn trai.*
+*Bạn nên nói: anh ấy trông thế nào, làm nghề gì, bạn muốn gặp anh ấy ra sao, và giải thích vì sao kiểu người này hợp với bạn.*
+:::
+```
+
+```
+:::dich en
+*Do you think people should date someone similar to themselves?*
+*How important is appearance when choosing a partner?*
+*Should men always make the first move?*
+||
+*Bạn có nghĩ người ta nên hẹn hò với người giống mình không?*
+*Ngoại hình quan trọng đến mức nào khi chọn một người bạn đời?*
+*Đàn ông có nên luôn là người chủ động trước không?*
+:::
+```
+
+- `[[en: Describe a website you often use || Tả một trang web bạn hay dùng]]`
+- `[[en: a person you admire || một người bạn ngưỡng mộ]]`
+- `[[en: a person who helped you || một người đã giúp bạn]]`
+- `[[en: an old person you know || một người già mà bạn quen]]`
+- `[[en: a friend you made recently || một người bạn mới quen gần đây]]`
+- `[[en: Should men always make the first move? || Đàn ông có nên luôn là người chủ động trước không?]]`
+- `[[en: So that is why I would never date someone like that. || Thế nên em sẽ không bao giờ hẹn hò với một người như thế.]]`
+
+## Xanh cổ vịt
+
+- `[[en: Social media and privacy || Mạng xã hội và quyền riêng tư]]`
+- `[[en: I keep it private || Em giữ nó ở chế độ riêng tư]]`
+- `[[en: Should people be rewarded for teamwork or for individual results? || Người ta nên được thưởng vì làm việc nhóm hay vì kết quả cá nhân?]]`
+- `[[en: Some people think that university scholarships should be awarded based on financial need rather than academic achievement. To what extent do you agree or disagree? || Một số người cho rằng học bổng đại học nên được trao dựa trên hoàn cảnh khó khăn hơn là thành tích học tập. Bạn đồng ý hay không đồng ý ở mức độ nào?]]`
+- `[[en: I once knew a girl who had a scholarship and— || Em từng biết một cô gái có học bổng và—]]`
+
+## Mực tím
+
+- `[[en: Describe a time you saved money for something. || Tả một lần bạn tiết kiệm tiền để mua thứ gì đó.]]`

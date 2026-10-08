@@ -4,7 +4,9 @@ Oct 7, 2026 · @aureliustran.
 
 *Thứ Bảy, 10/10/2026*
 
-*Ghi chú – Speaking Part 2, "[[en: Describe a person you admire || Tả một người bạn ngưỡng mộ]]": anh. (Viết lại. Giám khảo sẽ hỏi anh nào.)*
+:::phone
+Speaking Part 2, "[[en: Describe a person you admire || Tả một người bạn ngưỡng mộ]]": anh. (Viết lại. Giám khảo sẽ hỏi anh nào.)
+:::
 
 Hàng ghế đầu lạnh hơn mọi chỗ khác trong hội trường, vì cửa gió điều hòa thổi thẳng xuống. Nhi kéo tay áo len hồng xuống che kín mu bàn tay, cảm thấy may vì đã không mặc bộ vest be.
 

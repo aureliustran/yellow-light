@@ -4,7 +4,9 @@ Oct 8, 2026 · @aureliustran.
 
 *Thứ Ba, 9/3/2027*
 
-*anh ấy mượn sách kinh tế. sách của mình. (năm nhất mình đã viết cái gì vào đấy nhỉ)*
+:::phone
+anh ấy mượn sách kinh tế. sách của mình. (năm nhất mình đã viết cái gì vào đấy nhỉ)
+:::
 
 Tin nhắn đến lúc bốn giờ chiều, giữa giờ Marketing, khi giảng viên đang chiếu một quảng cáo nước tăng lực có ba anh trai cởi trần chạy trên bãi biển.
 
@@ -139,7 +141,9 @@ Cô nghe chính giọng mình, phẳng, như đọc một câu hỏi Part 3. Và
 
 Cô mở cuốn sổ hồng. Không nhìn anh. Ở góc trang hôm nay, dưới ngày tháng viết mực tím, cô viết, chữ nhỏ nhất cô viết được:
 
-*kinh tế thì học sinh là chuyên gia.*
+:::note ink
+kinh tế thì học sinh là chuyên gia.
+:::
 
 Nguyên văn. Có dấu chấm.
 
@@ -147,7 +151,7 @@ Rồi cô gập sổ lại.
 
 "Bắt đầu đi. Hôm nay đề gì?"
 
-"*Describe a time you saved money for something.*"
+"*[[en: Describe a time you saved money for something. || Tả một lần bạn tiết kiệm tiền để mua thứ gì đó.]]*"
 
 Cô nhìn anh, rồi bật cười, cái cười không kịp che.
 
@@ -247,10 +251,11 @@ Mười một giờ đêm, cô gội đầu bằng dầu gội mùi bưởi, lau
 
 Cô mở ghi chú điện thoại, gõ một dòng dưới dòng hôm thứ Ba:
 
-*trang 312. đọc rồi hay chưa.*
-
-*(đổi dầu gội rồi. nếu anh ấy dị ứng mùi đào thật thì thứ năm sẽ không ho nữa.)*
-
-*(nếu vẫn ho thì không phải tại đào.)*
+:::phone
+anh ấy mượn sách kinh tế. sách của mình. (năm nhất mình đã viết cái gì vào đấy nhỉ)
+trang 312. đọc rồi hay chưa.
+(đổi dầu gội rồi. nếu anh ấy dị ứng mùi đào thật thì thứ năm sẽ không ho nữa.)
+(nếu vẫn ho thì không phải tại đào.)
+:::
 
 Cô nhìn dòng cuối. Rồi xóa nó đi. Rồi gõ lại, y nguyên. Rồi để đấy.
