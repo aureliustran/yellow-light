@@ -114,7 +114,7 @@ Rồi, không vì lý do gì, cô mở danh bạ.
 
 Danh bạ của cô có hơn tám trăm số. Phần lớn cô không nhớ là ai. Cô kéo xuống, kéo xuống, chữ cái nhảy qua lại trên thanh bên phải. Ngón cái của cô chậm dần ở chữ T.
 
-*Thảo (7A).*
+*Thảo (8A).*
 
 Không ảnh đại diện. Số điện thoại mười số, đầu số cũ, có khi bây giờ đã không còn ai dùng.
 
