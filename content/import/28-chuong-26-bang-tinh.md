@@ -21,19 +21,17 @@ Anh mở file.
 
 Năm cột: *Giờ – Hạng mục – Địa điểm – Trang phục – Ghi chú*. Hàng nào xong thì tô xanh lá, hàng nào chờ xác nhận thì tô vàng. Phông chữ thống nhất, cột thẳng như kẻ thước, giống hệt cái bảng phân công đại biểu cô từng chiếu lên màn hình ở phòng họp chữ U.
 
-*09:00 – Đón – Phòng trọ em – (trống) – Chị đón. Đúng giờ.*
-
-*09:30 – Workshop gốm – Tô Ngọc Vân – Màu sáng. Không hoodie. – Đã đặt cọc 2 chỗ.*
-
-*12:00 – Ăn trưa – (trống) – (trống) – (trống)*
-
-*14:30 – Dạo Hồ Tây, cà phê – Quảng An – (trống) – Ánh sáng đẹp nhất 15:30–16:30.*
-
-*17:00 – Về thay đồ.*
-
-*19:30 – Bữa tối – Hai Bà Trưng – Sơ mi. Không hoodie. Không Crocs. – Đã đặt bàn cạnh cửa sổ.*
-
-*22:00 – Kết thúc.*
+:::sheet Valentine_2027_v4_FINAL
+| Giờ | Hạng mục | Địa điểm | Trang phục | Ghi chú |
+| --- | --- | --- | --- | --- |
+| [x] 09:00 | Đón | Phòng trọ em | (trống) | Chị đón. Đúng giờ. |
+| [x] 09:30 | Workshop gốm | Tô Ngọc Vân | Màu sáng. Không hoodie. | Đã đặt cọc 2 chỗ. |
+| 12:00 | Ăn trưa | (trống) | (trống) | (trống) |
+| [~] 14:30 | Dạo Hồ Tây, cà phê | Quảng An | (trống) | Ánh sáng đẹp nhất 15:30–16:30. |
+| [x] 17:00 | Về thay đồ. |  |  |  |
+| [x] 19:30 | Bữa tối | Hai Bà Trưng | Sơ mi. Không hoodie. Không Crocs. | Đã đặt bàn cạnh cửa sổ. |
+| [x] 22:00 | Kết thúc. |  |  |  |
+:::
 
 "Không hoodie" xuất hiện hai lần. Anh đếm, rồi đếm lại cho chắc, như đếm số lần một đại biểu nhắc lại cùng một điều khoản.
 
@@ -66,7 +64,9 @@ Cả bảng tính có đúng một hàng trắng. Không xanh, không vàng, kh�
 
 Anh thêm một bình luận vào ô trắng ấy.
 
-*ô này trắng. c quên hay c để cho e*
+:::chat
+> ô này trắng. c quên hay c để cho e
+:::
 
 Lần này lâu hơn. Mười một phút. Trên màn hình bên cạnh, thanh tiến trình của lô ảnh thứ bốn mươi ba nhích từ 71% lên 74%.
 
@@ -401,7 +401,11 @@ Bát bún hết. Cô ăn hết cả nước. Lúc đứng dậy, cô cầm túi 
 
 Rồi cô mở điện thoại, vào bảng tính. Anh ghé mắt nhìn. Cô gõ vào ô trắng hàng mười hai giờ:
 
-*Bún riêu. Quảng Bá.*
+:::sheet Valentine_2027_v4_FINAL
+| Giờ | Hạng mục | Địa điểm | Trang phục | Ghi chú |
+| --- | --- | --- | --- | --- |
+| [x] 12:00 | Ăn trưa | Bún riêu. Quảng Bá. |  |  |
+:::
 
 Rồi tô ô ấy màu xanh lá.
 
@@ -668,29 +672,23 @@ Cô không nói gì. Cô đặt cái búa xuống cạnh đĩa, song song với 
 
 Giấy in bằng cái máy in cũ dưới gầm bàn phòng trọ anh, mực hơi nhòe ở mép, chữ in đậm ở giữa:
 
-*BIÊN BẢN PHIÊN HỌP SỐ 01*
+:::note BIÊN BẢN PHIÊN HỌP SỐ 01
+Giữa: Bên A – Chủ tọa. Bên B – Chuyên gia kỹ thuật (bé).
 
-*Giữa: Bên A – Chủ tọa. Bên B – Chuyên gia kỹ thuật (bé).*
+- **Điều 1.** Bên A có quyền sửa danh bạ của Bên B. Bên B không được khiếu nại.
+- **Điều 2.** Bên B được nũng không giới hạn số lần, không giới hạn thời gian, không giới hạn địa điểm, trừ tầng mười bảy.
+- **Điều 3.** Bên A có quyền ghen. Bên A có quyền gọi việc ghen là "hiệu đính" hoặc "điều phối". Bên B có nghĩa vụ giả vờ tin.
+- **Điều 4.** Mỗi buổi gặp kết thúc lúc 22:05, trừ khi Bên A muốn sớm hơn (không khuyến khích) hoặc muộn hơn (khuyến khích).
+- **Điều 5.** Ảnh xấu thuộc về Bên A. Ảnh đẹp thuộc về tất cả mọi người. Ảnh Bên B nửa mắt được xếp vào loại ảnh đẹp.
+- **Điều 6.** Bên B cam kết không xắn tay áo nơi công cộng, trừ khi làm gốm.
+- **Điều 7.** Ô trắng trong mọi bảng tính của Bên A là phần của Bên B. Bên B cam kết không làm Bên A hối hận.
 
-*Điều 1. Bên A có quyền sửa danh bạ của Bên B. Bên B không được khiếu nại.*
+Biên bản có hiệu lực kể từ ngày ký. Thời hạn: xem búa.
 
-*Điều 2. Bên B được nũng không giới hạn số lần, không giới hạn thời gian, không giới hạn địa điểm, trừ tầng mười bảy.*
+Đại diện Bên A: ……………………
 
-*Điều 3. Bên A có quyền ghen. Bên A có quyền gọi việc ghen là "hiệu đính" hoặc "điều phối". Bên B có nghĩa vụ giả vờ tin.*
-
-*Điều 4. Mỗi buổi gặp kết thúc lúc 22:05, trừ khi Bên A muốn sớm hơn (không khuyến khích) hoặc muộn hơn (khuyến khích).*
-
-*Điều 5. Ảnh xấu thuộc về Bên A. Ảnh đẹp thuộc về tất cả mọi người. Ảnh Bên B nửa mắt được xếp vào loại ảnh đẹp.*
-
-*Điều 6. Bên B cam kết không xắn tay áo nơi công cộng, trừ khi làm gốm.*
-
-*Điều 7. Ô trắng trong mọi bảng tính của Bên A là phần của Bên B. Bên B cam kết không làm Bên A hối hận.*
-
-*Biên bản có hiệu lực kể từ ngày ký. Thời hạn: xem búa.*
-
-*Đại diện Bên A: ……………………*
-
-*Đại diện Bên B: ……………………*
+Đại diện Bên B: ……………………
+:::
 
 Cô đọc. Từ đầu đến cuối, không cười, không chớp, bằng đúng cái mặt cô đọc dự thảo nghị quyết ở ghế chủ tọa. Đến Điều 6, khóe môi cô giật nhẹ. Đến Điều 7, cô dừng lại, đọc lại một lần nữa, lâu hơn.
 
@@ -792,7 +790,11 @@ Cô cắn vào vai anh. Qua lớp áo sơ mi, qua lớp áo khoác. Không đau.
 
 Cô không trả lời. Cô rút điện thoại ra, một tay vẫn vòng qua cổ anh, tắt báo thức. Rồi mở bảng tính. Anh nghiêng đầu nhìn qua vai mình, thấy màn hình sáng xanh trong bóng tối, thấy cô kéo xuống hàng cuối.
 
-*22:00 – Kết thúc.*
+:::sheet Valentine_2027_v4_FINAL
+| Giờ | Hạng mục | Địa điểm | Trang phục | Ghi chú |
+| --- | --- | --- | --- | --- |
+| [x] 22:00 | Kết thúc. |  |  |  |
+:::
 
 Ngón tay cô chạm vào ô ấy. Giữ. Xóa chữ. Xóa màu.
 

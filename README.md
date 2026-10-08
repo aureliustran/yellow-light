@@ -112,6 +112,12 @@ Use normal Markdown (`*nghiêng*`, `**đậm**`) plus these extras. The admin ed
 | English phrase readers can translate | `[[en: original || bản dịch]]` |
 | Hà Tĩnh phrase readers can translate | `[[ht: original || bản dịch]]` |
 | Longer passage with translation | `:::dich en` (or `ht`), the original, a line with `\|\|`, the translation, then `:::` |
+| Reply to a message | inside `:::chat`, a line `^ Name: the quoted message` right before the reply |
+| Email shown in full | `:::email` with `Từ:` / `Đến:` / `Chủ đề:` lines, a blank line, then the body, then `:::` |
+| Text editor window | `:::editor file.md` … `:::`, lines shown as typed (`[[en: … \|\| …]]` still works) |
+| IDE or terminal window | `:::ide file.py` or `:::ide Terminal` … `:::`; a line starting `$ ` is a shell command |
+| Handwritten note or list | `:::note Title` … `:::` (a `-` list becomes handwritten lines); `:::note ink` is a margin note |
+| Spreadsheet | `:::sheet File name` + a Markdown table. Start a row with `[x]` (done, green) or `[~]` (waiting, yellow); an empty cell or `(trống)` is a blank cell |
 
 Example:
 
@@ -124,7 +130,9 @@ Ngọc Anh (K71): anh Thuyên ơi slide workshop tuần sau anh duyệt giúp em
 Mạ hỏi: "[[ht: Học hành răng rồi? || Học hành thế nào rồi?]]"
 ```
 
-**`docs/ban-dich-de-xuat.md`** lists every English and Hà Tĩnh line in chapters 1–13 with the marker ready to paste. Hà Tĩnh translations come from your own footnotes; English ones are suggestions to check.
+**Rule for new chapters:** whenever the story shows a document in full, use its block instead of italics or plain paragraphs: a text conversation → `:::chat`, an email with its full content → `:::email`, an IDE, terminal or text editor → `:::ide` / `:::editor`, a spreadsheet → `:::sheet`, a handwritten note or list → `:::note`. Only a short quoted line inside a sentence stays inline.
+
+**`docs/ban-dich-de-xuat.md`** lists every English and Hà Tĩnh line in chapters 1–13 and 28–29 with the marker ready to paste. Hà Tĩnh translations come from your own footnotes; English ones are suggestions to check.
 
 **Publishing:**
 
@@ -140,13 +148,14 @@ Mạ hỏi: "[[ht: Học hành răng rồi? || Học hành thế nào rồi?]]"
 ```
 supabase/migrations/0001_init.sql   database, security rules, functions
 src/config.ts                       title, blurb, tags, login, interlude colours  ← edit me
-src/lib/markdown.ts                 Markdown + chat, scene breaks, translations
+src/lib/markdown.ts                 Markdown + chat, email, editor/IDE, note, sheet, scene breaks, translations
 src/pages/index.astro               home: cover, stats, story rating, contents
 src/pages/doc/[slug].astro          reader
 src/pages/admin/index.astro         admin (logic in src/scripts/admin.ts)
 src/scripts/                        browser code: login, comments, ratings, translations
 scripts/import-chapters.mjs         one-time import
 scripts/export-chapters.mjs         backup (used by the GitHub Action)
+scripts/apply-blocks.mjs            turns spreadsheet / note / editor / terminal passages in new chapters into blocks
 content/import/                     your chapters as of 7/10/2026
 docs/ban-dich-de-xuat.md            translation list to review
 tests/                              npm test

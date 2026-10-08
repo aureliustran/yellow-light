@@ -13,7 +13,8 @@
     "import": "node scripts/import-chapters.mjs",
     "export": "node scripts/export-chapters.mjs",
     "translations": "node scripts/apply-translations.mjs",
-    "chats": "node scripts/apply-chats.mjs"
+    "chats": "node scripts/apply-chats.mjs",
+    "blocks": "node scripts/apply-blocks.mjs"
   },
   "dependencies": {
     "@astrojs/vercel": "^11.0.12",

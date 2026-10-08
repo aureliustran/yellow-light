@@ -1,4 +1,4 @@
-# Đèn Vàng – Bản dịch đề xuất (chương 1–13)
+# Đèn Vàng – Bản dịch đề xuất (chương 1–13, 28–29)
 
 Danh sách các câu tiếng Anh và giọng Hà Tĩnh trong 17 file đã nhập, kèm sẵn đoạn đánh dấu để dán vào trang quản lý.
 
@@ -226,3 +226,45 @@ Những chỗ khác:
 - `*[[en: In light of this. || Xét đến điều này.]]*` (tùy chọn)
 - `Vũ Béo: [[en: describe your type of boyfriend??? || tả kiểu bạn trai của mày???]]` (tùy chọn)
 - Không nên dịch: *Th. Think. Three. Thing.*, vì đó là bài tập phát âm, dịch ra sẽ mất ý.
+
+## Chương 28 – Giáo trình
+
+- `*"[[en: Describe a time you saved money for something || Tả một lần bạn tiết kiệm tiền để mua thứ gì đó]]*."` (giữ dấu nghiêng và ngoặc kép bên ngoài)
+- `*[[en: middleman wins. obviously || kẻ đứng giữa thắng. hiển nhiên]]*`
+- Dòng commit trong khối terminal: `$ git commit -m "[[en: wip: time is relative. money isn't. giving up. || đang làm dở: thời gian là tương đối. tiền thì không. bỏ cuộc.]]"`
+
+## Chương 29 – Chấm xanh
+
+Giọng Hà Tĩnh (mẹ gọi điện). Chú thích ¹ ² ³ cuối chương đã được thay bằng các câu bấm để dịch, nên khi chạy `npm run translations` mục chú thích sẽ tự bỏ.
+
+- `[[ht: Cơm hộp thì no chi. || Cơm hộp thì no gì.]]`
+- `[[ht: Nhà o Lan bên sông vừa mua thêm miếng đất. || Nhà cô Lan bên sông vừa mua thêm mảnh đất.]]`
+- `[[ht: Mi có tiền thì cũng tính mà mua đất nghe. Gửi ngân hàng thì mất giá. Đất thì không chạy đi mô. Chưa đủ mua đất thì mua vàng mà cất. || Con có tiền thì cũng tính mà mua đất nhé. Gửi ngân hàng thì mất giá. Đất thì không chạy đi đâu. Chưa đủ mua đất thì mua vàng mà cất.]]`
+- `[[ht: Đất thì không chạy đi mô. || Đất thì không chạy đi đâu.]]` (câu Thuyên nhớ lại)
+- `[[ht: Ba mươi tháng tư mi về nghe. Bố mi hỏi. || Ba mươi tháng tư con về nhé. Bố con hỏi.]]`
+
+Tiếng Anh trong ghi chú điện thoại của Thuyên:
+
+- `*[[en: money = promise. promise needs an anchor. gold = anchor that stays. land = anchor people think can sail. || tiền = lời hứa. lời hứa cần một cái neo. vàng = cái neo đứng yên. đất = cái neo mà người ta tưởng có thể ra khơi.]]*`
+- `*[[en: what if the wind stops? || nếu gió ngừng thì sao?]]*`
+- `*[[en: Market || Thị trường]]*`
+- `*[[en: Vietnam: none yet. That's the point. Or the problem. || Việt Nam: chưa có. Đó là điểm mấu chốt. Hoặc là vấn đề.]]*`
+- `*[[en: Only the customer changes. || Chỉ có khách hàng là đổi.]]*`
+- `*[[en: Something else gets you to the door. || Một thứ khác đưa bạn đến tận cửa.]]*`
+
+Nội dung file `as_the_crow_flies_v0.md` (khối `:::editor`, mỗi dòng một câu):
+
+- `# [[en: Problem || Vấn đề]]`
+- `[[en: Delivery apps route on road networks (GIS: edges = streets, nodes = intersections). Drones don't use roads. Road maps are maps for things that drive. || Các ứng dụng giao hàng định tuyến trên mạng lưới đường bộ (GIS: cạnh = đường phố, nút = ngã tư). Drone không dùng đường. Bản đồ đường là bản đồ cho những thứ chạy bánh.]]`
+- `# [[en: What drones need || Drone cần gì]]`
+- `1. [[en: Where buildings are. || Nhà ở đâu.]]`
+- `2. [[en: How tall they are (shadow length + sun angle from satellite images). || Nhà cao bao nhiêu (độ dài bóng + góc mặt trời, lấy từ ảnh vệ tinh).]]`
+- `3. [[en: Where to drop: rooftops, courtyards, open ground. || Thả hàng ở đâu: mái nhà, sân trong, bãi đất trống.]]`
+- `4. [[en: What to avoid: buildings taller than cruise altitude, no-fly zones. || Cần tránh gì: nhà cao hơn độ cao bay, vùng cấm bay.]]`
+- `# [[en: What we already have || Chúng ta đã có gì]]`
+- `[[en: Thiên Nhãn already detects every rooftop from satellite images. Already estimates height. The pipeline exists. Only the customer changes. || Thiên Nhãn đã nhận ra mọi mái nhà từ ảnh vệ tinh. Đã ước lượng được chiều cao. Đường ống đã có. Chỉ có khách hàng là đổi.]]`
+- `# [[en: Limitations || Hạn chế]]`
+- `- [[en: Power lines: not visible from satellite. || Dây điện: vệ tinh không nhìn thấy.]]`
+- `- [[en: Trees: canopy hides what's underneath. || Cây cối: tán lá che mất thứ bên dưới.]]`
+- `- [[en: Balconies, awnings, laundry racks: change daily. || Ban công, mái hiên, giá phơi đồ: thay đổi mỗi ngày.]]`
+- `- → [[en: Last 50m needs onboard sensing. Satellite gets you to the building. Something else gets you to the door. || 50m cuối cần cảm biến trên thiết bị bay. Vệ tinh đưa bạn đến tòa nhà. Một thứ khác đưa bạn đến tận cửa.]]`

@@ -63,19 +63,15 @@ Trong thang máy, anh mở ứng dụng hiệu thuốc trên điện thoại. R�
 
 Lúc cửa thang máy mở ở tầng một, ghi chú trên màn hình anh đã thành một danh sách.
 
-*nhiệt kế (điện tử, kẹp nách, k dùng loại đo trán – sai số)*
-
-*paracetamol 500*
-
-*oresol (vị cam, vị thường c chê)*
-
-*khăn mặt x2*
-
-*quýt (k cam – cam chua, c ghét chua khi ốm? chưa biết. mua quýt cho chắc)*
-
-*gạo, gừng, hành, thịt băm*
-
-*kế hoạch B: cháo trên app, đặt giao lúc 19h45*
+:::note
+- nhiệt kế (điện tử, kẹp nách, k dùng loại đo trán – sai số)
+- paracetamol 500
+- oresol (vị cam, vị thường c chê)
+- khăn mặt x2
+- quýt (k cam – cam chua, c ghét chua khi ốm? chưa biết. mua quýt cho chắc)
+- gạo, gừng, hành, thịt băm
+- kế hoạch B: cháo trên app, đặt giao lúc 19h45
+:::
 
 Anh nhìn dòng cuối. Nghĩ một giây. Sửa *19h45* thành *19h40*.
 
@@ -679,19 +675,17 @@ Anh mở.
 
 Năm cột, kẻ thẳng, phông chữ thống nhất. *Hạng mục – Số lượng – Đơn giá – Thành tiền – Ghi chú*.
 
-*Cháo (mua) – 2 hộp – 45.000 – 90.000 – Cháo gà ngon hơn cháo sườn.*
-
-*Cháo (tự nấu) – 1 nồi – 0 – 0 – Khét. Không ăn. Vẫn tính.*
-
-*Thuốc hạ sốt, oresol, nhiệt kế – 1 bộ – 186.000 – 186.000 – Nhiệt kế giữ lại.*
-
-*Quýt – 1kg – 50.000 – 50.000 – Đã bóc xơ. Phụ phí bóc xơ: chưa định giá.*
-
-*Đo nhiệt độ – 3 lần – (trống) – (trống) – 0h, 2h, 4h.*
-
-*Một đêm không ngủ – 1 – (trống) – (trống) – (trống)*
-
-*Tổng: 326.000 + (chưa định giá)*
+:::sheet Chi_phi_cham_soc_26.2
+| Hạng mục | Số lượng | Đơn giá | Thành tiền | Ghi chú |
+| --- | ---: | ---: | ---: | --- |
+| Cháo (mua) | 2 hộp | 45.000 | 90.000 | Cháo gà ngon hơn cháo sườn. |
+| Cháo (tự nấu) | 1 nồi | 0 | 0 | Khét. Không ăn. Vẫn tính. |
+| Thuốc hạ sốt, oresol, nhiệt kế | 1 bộ | 186.000 | 186.000 | Nhiệt kế giữ lại. |
+| Quýt | 1kg | 50.000 | 50.000 | Đã bóc xơ. Phụ phí bóc xơ: chưa định giá. |
+| Đo nhiệt độ | 3 lần | (trống) | (trống) | 0h, 2h, 4h. |
+| Một đêm không ngủ | 1 | (trống) | (trống) | (trống) |
+| **Tổng** |  |  | **326.000 + (chưa định giá)** |  |
+:::
 
 Dưới cùng có một dòng chữ in nghiêng:
 
@@ -720,6 +714,10 @@ Ba chấm hiện lên. Biến mất. Hiện lên.
 
 Rồi trên bảng tính, ở ô *Ghi chú* của hàng *Một đêm không ngủ*, anh thấy chữ hiện ra từng ký tự, như ai đó đang gõ ngay lúc này, ở một căn phòng hai mươi mét vuông trên phố Nguyễn Chí Thanh, trong một cái hoodie xám có vết sơn bảng rổ.
 
-*Thông qua cả ba trang. Không cần đọc.*
+:::sheet Chi_phi_cham_soc_26.2
+| Hạng mục | Số lượng | Đơn giá | Thành tiền | Ghi chú |
+| --- | ---: | ---: | ---: | --- |
+| Một đêm không ngủ | 1 |  |  | Thông qua cả ba trang. Không cần đọc. |
+:::
 
 Anh úp điện thoại lên ngực. Trên trần, con cá vẫn đang bơi về phía bức tường. Anh nằm nhìn nó, cười một mình, rồi ngủ thiếp đi trước khi kịp tắt đèn, áo sơ mi vẫn còn mùi gừng khét.

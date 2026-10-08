@@ -51,6 +51,52 @@ test('chat reply quote cannot inject HTML', () => {
   assert.doesNotMatch(html, /<b>x<\/b>|<img/);
 });
 
+test('email block: subject, header rows, body', () => {
+  const html = renderMarkdown(':::email\nTừ: Chủ tọa\nĐến: Minh Thư\nChủ đề: Sơ đồ bàn ghế\n\nChào Thư.\n\nCảm ơn em.\n:::\n\nSau.');
+  assert.match(html, /<div class="email-subject">Sơ đồ bàn ghế<\/div>/);
+  assert.match(html, /<div class="email-row"><dt>Từ<\/dt><dd>Chủ tọa<\/dd><\/div>/);
+  assert.match(html, /<div class="email-body"><p>Chào Thư\.<\/p>\s*<p>Cảm ơn em\.<\/p>/);
+  assert.match(html, /<p>Sau\.<\/p>/);
+});
+
+test('editor block: lines as typed, translations work, no HTML injection', () => {
+  const html = renderMarkdown(':::editor a_b.md @20\n# [[en: Problem || Vấn đề]]\n\nKeep *this* _raw_ <b>x</b>\n- item\n:::');
+  assert.match(html, /class="code-tab">a_b\.md<\/figcaption>/);
+  assert.match(html, /counter-reset: ln 19/);
+  assert.match(html, /<div class="code-line is-head"><span class="code-text"># <span class="tr tr-en"/);
+  assert.match(html, /Keep \*this\* _raw_ &lt;b&gt;x&lt;\/b&gt;/);
+  assert.match(html, /<span class="tok-bullet">-<\/span> item/);
+  assert.equal(html.match(/code-line/g)?.length, 4);
+});
+
+test('ide block: shell commands get a prompt', () => {
+  const html = renderMarkdown(':::ide Terminal\n$ git push\n:::');
+  assert.match(html, /code-ide/);
+  assert.match(html, /<span class="tok-prompt" aria-hidden="true">\$ <\/span>git push/);
+});
+
+test('note block: handwritten list and ink variant', () => {
+  const html = renderMarkdown(':::note Ghi chú\n- nhiệt kế\n- quýt\n:::\n\n:::note ink\ntiền = thứ mọi người tin\n:::');
+  assert.match(html, /<figure class="note"><figcaption class="note-title">Ghi chú<\/figcaption><div class="note-body"><ul>/);
+  assert.match(html, /<figure class="note note-ink"><div class="note-body"><p>tiền = thứ mọi người tin<\/p>/);
+});
+
+test('sheet block: table with row colours and blank cells', () => {
+  const html = renderMarkdown(':::sheet Lịch\n| Giờ | Việc |\n| --- | --- |\n| [x] 09:00 | Đón |\n| [~] 12:00 | (trống) |\n| 22:00 | |\n:::');
+  assert.match(html, /<figcaption class="sheet-name">Lịch<\/figcaption>/);
+  assert.match(html, /<tr class="is-done"><th scope="row" class="rownum">2<\/th><td>09:00<\/td><td>Đón<\/td><\/tr>/);
+  assert.match(html, /<tr class="is-wait">.*<td class="blank"><\/td><\/tr>/);
+  assert.match(html, /<tr><th scope="row" class="rownum">4<\/th><td>22:00<\/td><td class="blank"><\/td><\/tr>/);
+  assert.doesNotMatch(html, /\[x\]/);
+});
+
+test('new blocks are left out of excerpts and checked for a closing line', () => {
+  assert.equal(excerpt('Trước.\n\n:::email\nTừ: A\n\nThư dài\n:::\n\nSau.'), 'Trước. Sau.');
+  assert.equal(findMarkupProblems(':::sheet X\n| a |\n| --- |\n| b |\n').length, 1);
+  assert.equal(findMarkupProblems(':::sheet X\ntext only\n:::\n').length, 1);
+  assert.equal(findMarkupProblems(':::note\n- a\n:::\n').length, 0);
+});
+
 test('chat names cannot inject HTML', () => {
   const html = renderMarkdown(':::chat <b>x</b>\n<i>A</i>: <img src=x onerror=1>\n:::');
   assert.doesNotMatch(html, /<b>|<i>|<img/);

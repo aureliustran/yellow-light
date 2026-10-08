@@ -80,6 +80,18 @@ function replaceAllWhole(text, original, marker, limit) {
   return { text, count };
 }
 
+// Footnotes at the end of a chapter ("¹ *original*: translation", after a ---
+// rule) are replaced by the tap-to-translate markers, so they and their ¹ marks
+// are removed once the chapter has at least as many [[ht: …]] markers.
+function stripFootnotes(text) {
+  const m = /\n---\n\n((?:[¹²³⁴⁵⁶⁷⁸⁹⁰]+ .*(?:\n\n|\n|$))+)$/.exec(text);
+  if (!m) return text;
+  const notes = m[1].split('\n').filter((l) => /^[¹²³⁴⁵⁶⁷⁸⁹⁰]/.test(l)).length;
+  const marked = (text.match(/\[\[ht:/g) ?? []).length;
+  if (marked < notes) return text;
+  return text.slice(0, m.index).replace(/(?<=["”.!?…])[¹²³⁴⁵⁶⁷⁸⁹⁰]+/g, '').trimEnd() + '\n';
+}
+
 // ---- apply ------------------------------------------------------------------
 const files = (await readdir(folder)).filter((f) => f.endsWith('.md')).sort();
 const chapters = [];
@@ -118,6 +130,12 @@ for (const s of sections) {
     const already = text.includes(m.marker);
     if (r.count) lines.push(`  ${m.kind} ×${r.count}: ${m.original.length > 70 ? m.original.slice(0, 67) + '…' : m.original}`);
     else if (!already) problems.push(`${ch.file}: không thấy "${m.original}"`);
+  }
+
+  const stripped = stripFootnotes(text);
+  if (stripped !== text) {
+    text = stripped;
+    lines.push('  bỏ chú thích cuối chương (đã thành câu bấm để dịch)');
   }
 
   if (lines.length) {
