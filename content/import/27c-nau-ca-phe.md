@@ -18,7 +18,7 @@ Hộp bút con thỏ thì vẫn ở trong túi. Cô quên lấy ra.
 
 ---
 
-Hai mươi bảy Tết, Giải Phóng tắc từ ngã tư Kim Liên. Bác tài vừa nhích xe vừa kể ba hôm nay chở toàn sinh viên ra bến xe Giáp Bát, vali to hơn người. Một chiếc xe máy chở cây đào bích đi ngược chiều, cành đào chìa ra ngoài như cánh tay ai vẫy. Mưa phùn đọng trên cửa kính thành những hạt nhỏ không chịu chảy.
+Hai mươi tám Tết, Giải Phóng tắc từ ngã tư Kim Liên. Bác tài vừa nhích xe vừa kể ba hôm nay chở toàn sinh viên ra bến xe Giáp Bát, vali to hơn người. Một chiếc xe máy chở cây đào bích đi ngược chiều, cành đào chìa ra ngoài như cánh tay ai vẫy. Mưa phùn đọng trên cửa kính thành những hạt nhỏ không chịu chảy.
 
 Quán nằm trên Trần Đại Nghĩa, cách cổng trường Kinh tế Quốc dân một đoạn đi bộ, tầng một một căn nhà ống, biển gỗ khắc tên quán mà mưa đã làm thâm lại. Bên trong cái gì cũng nâu. Tường sơn nâu đất, bàn gỗ nâu sẫm, ghế mây, cốc sứ nâu men rạn, đèn dây vàng làm mọi thứ nâu thêm một tông. Mùi cà phê rang trộn với mùi áo khoác ẩm. Tường nhà ống đổ mồ hôi, một vệt nước chạy dọc từ trần xuống chân tường như ai vẽ bằng bút chì.
 
