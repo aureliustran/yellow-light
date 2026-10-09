@@ -5,6 +5,8 @@ export const story = {
   author: 'Aurelius',
   status: 'Truyện dài · Đang ra',
   // Genre tags, roughly in the order the story reaches them.
+  // The first `tagsVisible` show on the home page; the rest sit behind a + button.
+  tagsVisible: 3,
   tags: [
     'Học đường', 'Ngôn tình', 'Đời thường', 'Chính kịch',
     'Đấu trí', 'Chốn công sở', 'Hào môn thế gia', 'Nam chính xám',

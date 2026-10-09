@@ -51,8 +51,13 @@ const demoHtml = renderMarkdown(
         <div class="hero-status eyebrow amber"><span class="lamp"></span>{story.status}</div>
         <h1>{story.title}</h1>
         <div class="author">{story.author}</div>
-        <ul class="tags" aria-label="Thể loại">
-          {story.tags.map((t) => <li>{t}</li>)}
+        <ul class="tags" id="story-tags" aria-label="Thể loại">
+          {story.tags.map((t, i) => <li class={i >= story.tagsVisible ? 'tag-extra' : undefined} hidden={i >= story.tagsVisible}>{t}</li>)}
+          {story.tags.length > story.tagsVisible && (
+            <li class="tag-toggle">
+              <button type="button" class="tag-more" data-tags-toggle aria-expanded="false" aria-controls="story-tags" aria-label={`Xem thêm ${story.tags.length - story.tagsVisible} thể loại`}>+</button>
+            </li>
+          )}
         </ul>
         <div class="blurb">
           {story.blurb.map((p) => <p>{p}</p>)}
@@ -154,6 +159,18 @@ const demoHtml = renderMarkdown(
   import { initHome } from '../scripts/home';
   import { initTranslations } from '../scripts/translations';
   initHome();
+  const tagToggle = document.querySelector<HTMLButtonElement>('[data-tags-toggle]');
+  if (tagToggle) {
+    const extras = document.querySelectorAll<HTMLElement>('#story-tags .tag-extra');
+    const label = tagToggle.getAttribute('aria-label') ?? '';
+    tagToggle.addEventListener('click', () => {
+      const open = tagToggle.getAttribute('aria-expanded') !== 'true';
+      extras.forEach((li) => { li.hidden = !open; });
+      tagToggle.setAttribute('aria-expanded', String(open));
+      tagToggle.setAttribute('aria-label', open ? 'Thu gọn thể loại' : label);
+      tagToggle.textContent = open ? '−' : '+';
+    });
+  }
   const demo = document.querySelector<HTMLElement>('[data-howto-demo]');
   if (demo) initTranslations(demo);
 </script>
