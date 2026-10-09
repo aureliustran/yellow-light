@@ -32,6 +32,12 @@ Sáng nay, ở bậc thềm nhà xe, anh ngửa cổ uống nước, mồ hôi c
 
 Không nói dối. Từ mới thật.
 
+Dòng bên dưới thì cô gạch một lần, mực tím, mỏng hơn: *cơ bụng?* Dấu hỏi là vì cô không chắc tiếng Anh gọi thế nào. Còn về cái kia thì cô chắc. Lúc anh vén vạt áo ba lỗ lên lau mặt, chỉ một giây, khoảng da rám nắng từ cạp quần đến xương sườn lộ ra, phẳng, những đường cơ mờ chạy ngang như vạch kẻ trong vở ô li, và bụng anh co lại khi anh thở ra, rồi tấm vải rơi xuống che mất. Cô nhìn đúng một giây. Một giây của anh, một giây của cô, cùng một giây.
+
+Bên cạnh dòng ấy, mực tím, nhỏ hơn nữa: *để làm gì.* Rồi gạch. Đúng thì ghi, cô luôn tin thế. Nhưng ghi để làm gì thì cô không có câu trả lời, nên gạch nốt câu hỏi.
+
+Cô gạch cả hai dòng rồi mà cái bụng ấy vẫn ở đó, trong đầu, rõ như qua giấy can. Cô áp mu bàn tay lên má. Má nóng, và mu bàn tay thì lạnh, nên cô để đó thêm một lúc.
+
 Cô gập sổ lại. Mở điện thoại. Mở trang Facebook của anh.
 
 Trang anh để công khai đúng mấy thứ: ảnh đại diện là vạch kẻ đường dưới đèn vàng, ảnh bìa là sân bóng sáu giờ sáng, không có ai. Mục *Ảnh có mặt anh* có ba tấm. Hai tấm cũ của câu lạc bộ tin học. Tấm thứ ba, của người khác đăng, gắn thẻ anh, từ ngày 9/1.
@@ -49,6 +55,20 @@ Cô bấm vào tên người đăng. Instagram công khai. Toàn màu kem, màu 
 Radar kêu to. To như chuông báo cháy.
 
 Rồi cô tắt màn hình.
+
+Nửa phút sau cô bật lại, vì tay làm trước đầu.
+
+Cô không muốn nhìn chị ấy nữa, nên mở tấm đầu tiên trong mục ảnh: câu lạc bộ tin học, mười một người xếp hai hàng trước một màn hình chiếu cái logo gì đó. Cô chỉ định nhìn cái logo. Cô phóng to cái logo. Rồi kéo sang trái một chút cho đỡ chói, kéo thêm một chút, và hàng sau, bên phải, có một cậu mười chín tuổi đứng lệch, tay đút túi quần, cổ áo sơ mi lệch một bên, đang cười thật với ai đó ngoài khung.
+
+Cô phóng to cậu ấy. Phóng to đến khi ảnh vỡ thành những ô vuông, cái cổ áo lệch là một khối xanh nhạt, khoảng da lộ ra ở cổ là mấy ô màu thịt, và cô nhận ra mình đang nhìn anh. Không phải logo. Không phải ảnh. Anh. Từ lâu rồi, có lẽ từ trước khi cô nhận ra.
+
+Cô thu hai ngón tay lại. Ảnh co về cỡ cũ, mười một người xếp hai hàng, và mặt cô nóng như vừa bị chính mình bắt quả tang.
+
+Cô thoát ra, mở ô Locket. Máy ảnh hiện lên, tròn, sáng, chỉ có trần nhà phòng cô trong khung. Nút chụp ở dưới, vòng trắng. Ở đây nút chụp cũng là nút gửi. Ngón cái cô lơ lửng phía trên nó, cách màn hình một sợi tóc, đủ gần để đầu ngón tay ấm lên vì hơi nóng của máy. Gửi gì. Trần nhà? Cuốn sổ? Hai dòng gạch? Gửi cho một người đang ngồi ở đâu đó cạnh một cô gái kẹp tóc đồi mồi?
+
+Cô đọc thầm bảng chữ cái tiếng Anh một lượt, như trước giờ vào phòng thi, cho tay khỏi tự làm việc của nó.
+
+Cô tắt Locket. Tắt màn hình, lần này thật.
 
 Mình chưa gặp chị ấy bao giờ, cô nghĩ. Mình đang đọc một người qua ba mươi tấm ảnh. Người ta cũng đọc mình qua mười tám nghìn sáu trăm người theo dõi, và người ta sẽ đọc sai.
 

@@ -98,6 +98,8 @@ Cô đứng dậy, gỡ bộ vest be khỏi cánh cửa tủ, treo vào ngăn ph
 
 Rồi cô cầm cái áo len hồng đất lên, ướm trước gương. Cổ tròn, len mềm, tay áo hơi dài, che quá cổ tay một chút. Màu hồng không chói, nhưng là hồng. Ai nhìn cũng biết là hồng.
 
+Cô quay nửa vòng trước gương. Cổ tròn, vừa chạm xương quai xanh. Từ trên bục xuống, hàng ghế đầu là chỗ mắt người ta rơi vào đầu tiên. Anh ta sẽ nhìn vào đâu? Mặt cô? Cái áo hồng? Hay cổ áo? Cô nghĩ đúng ba giây, rồi kéo cổ áo lên cao hơn một chút, dù trong gương nó đã đủ kín, và thấy hai bên tai nóng lên, trong căn phòng đã tắt điều hòa.
+
 Mình thích cái này. Thế thôi.
 
 ---
@@ -112,6 +114,10 @@ Nhi phóng to.
 
 Tóc vuốt ra sau, một lọn rơi xuống trán. Một vết sẹo nhỏ cắt ngang đuôi lông mày trái. Ở tai trái có một chấm sáng, chắc là khuyên tai. Nụ cười đúng chuẩn ảnh thẻ, đúng góc, không lệch một li.
 
+Cô kéo ảnh lại gần hơn, vì cần nhìn cái sẹo cho rõ. Nó cắt đuôi lông mày làm hai đoạn, đoạn ngoài mỏng hơn, trắng hơn, như một nét kẻ bằng bút bạc. Cô xem nó đúng như xem một chi tiết cần ghi nhớ. Rồi mắt cô trượt sang tai trái, đến cái chấm khuyên nhỏ, và nằm lại đó.
+
+Cô nhìn cái chấm sáng bé tí ấy lâu đến mức nhận ra mình đang tự hỏi nó đeo vào có đau không, và lúc anh ta nghiêng đầu thì nó bắt sáng ra sao. *Nhi.* Cô tự mắng bằng giọng mẹ. *Con đang tra cứu một người làm gì.*
+
 *Thuyên. Sinh viên năm ba, Đại học Công nghệ, Đại học Quốc gia Hà Nội.*
 
 Cô ngồi bật dậy.
@@ -125,5 +131,7 @@ Anh ta nhặt được tấm thiệp, chắc chắn rồi, cô đánh rơi ngay 
 Nhi nhìn tấm ảnh thêm một lúc. Nhìn cái nụ cười ảnh thẻ. Cô thấy nó lạ. Lạ ở chỗ nó khác hẳn cái lúc anh ta bật cười ở ngã tư, phải tì tay vào yên xe. Cùng một khuôn mặt, nhưng một cái cười là cười, một cái cười là ảnh.
 
 Cô chụp màn hình. Rồi xóa ảnh chụp màn hình. Rồi nằm xuống, kéo chăn lên.
+
+Mười phút sau cô ngồi dậy, tìm lại trang ấy, chụp màn hình lần nữa, lần này chỉ phóng vào đuôi lông mày, chấm khuyên tai, khoảng cổ lộ ra trên cổ áo sơ mi trắng. Cô nhìn nó. Rồi vào mục *Đã xóa gần đây*, xóa lần hai. Màn hình hỏi: *Xóa vĩnh viễn?* Cô bấm *Có* thật nhanh, như bấm một cái cầu dao.
 
 Mai cô sẽ ngồi hàng đầu, mặc áo len hồng, và nghe xem anh ta nói gì.

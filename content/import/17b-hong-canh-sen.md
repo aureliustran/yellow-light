@@ -113,7 +113,7 @@ Năm chữ.
 cao – ô – Crocs – nửa câu – never
 :::
 
-Cô viết chữ cuối cùng hơi đè bút. Rồi đặt bàn tay lên tờ nháp, che đi.
+Cô viết chữ cuối cùng hơi đè bút. Rồi đặt bàn tay lên tờ nháp, che đi. Lòng bàn tay cô ẩm. Dưới nó, chữ *never* đang nhòe dần, mực xanh loang thành một vệt nhỏ như vết nước mắt của một con cá.
 
 ---
 
@@ -126,6 +126,8 @@ Cô ngẩng lên đúng câu ấy, như làm mẫu.
 Tai anh đỏ.
 
 Không phải đỏ dần. Đỏ luôn, từ dái tai lên đến vành, như ai bấm công tắc. Cái tai có cái chấm bạc. Cái chấm bạc đứng giữa một vùng đỏ, sáng lên như cái đèn báo.
+
+Giọng cô hạ xuống ở chữ cuối, thấp hơn cô định, khàn hơn cô định, và cô không kịp kéo nó lên.
 
 "*[[en: This kind of person is very easy to notice, and very dangerous for me. || Kiểu người này rất dễ để ý, và rất nguy hiểm với em.]]*"
 
@@ -152,6 +154,8 @@ Kể cả nó hay. Cô cất nó đi.
 Anh đã thôi nhìn cô. Anh nhìn tủ bánh. Từ chỗ cô ngồi, cô thấy cả hai tai anh, tai trái đỏ, tai phải đỏ hơn, và một đường đỏ mờ đang bò xuống gáy, mất hút sau cổ áo sơ mi xanh.
 
 Người này đỏ tai trông cũng…
+
+Anh ngẩng lên đột ngột, như nghe thấy. Cô kịp cúi xuống cốc trà dâu trước khi mắt hai người gặp nhau, nhưng không kịp giấu tai mình. Cô cảm thấy nó nóng từ vành lên, và biết anh vừa thấy, và biết anh đang chọn không nói.
 
 Cô nhìn xuống tờ nháp. Chữ cuối cùng. Cái mũi tên vòng về.
 
@@ -200,6 +204,8 @@ Cô nhìn tờ giấy bị úp. Ba câu Part 3 nằm ở mặt dưới, áp vào
 Tờ bốn là đề thật. Part 3 về công nghệ trong trường học, cô trả lời trôi, rẽ ngang một lần, tự kéo về. Anh vẽ một mũi tên lên lề. Bình thường. Mọi thứ bình thường, đến mức cô thấy nó hơi giống cái bàn ăn nhà cô.
 
 Giữa chừng, anh với cốc cà phê. Ống tay áo sơ mi trượt xuống một chút, anh xắn lại lên quá khuỷu, gọn, hai vòng.
+
+Cẳng tay anh lộ ra dưới ánh đèn quán, rám nắng ở mặt ngoài, nhạt hơn ở mặt trong, những sợi lông tơ sẫm màu nằm xuôi theo hướng cổ tay. Một đường gân mảnh chạy từ cái đồng hồ Casio nhựa lên đến khuỷu, nổi lên rồi chìm xuống mỗi lần ngón tay anh siết quanh cốc. Cô nhìn đúng hai giây. Hai giây ấy không có trong đề.
 
 "Anh xắn tay áo thế này trông…" cô nói.
 

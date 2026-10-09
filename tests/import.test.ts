@@ -28,3 +28,11 @@ test('italic lines later in the text are not taken as the date', () => {
 test('file without a heading is skipped', () => {
   assert.equal(parseChapter('Không có tiêu đề.\n'), null);
 });
+
+test('special chapter: the number is its name', () => {
+  const r = parseChapter('# Chương 3107\n\nOct 10, 2026 · @aureliustran.\n\n*Thứ Bảy, 10/4/2027*\n\nTrong thang máy.\n')!;
+  assert.equal(r.kind, 'chapter');
+  assert.equal(r.title, '3107');
+  assert.equal(r.slug, '3107');
+  assert.equal(r.story_date, 'Thứ Bảy, 10/4/2027');
+});

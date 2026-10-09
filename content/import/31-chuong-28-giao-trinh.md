@@ -138,6 +138,20 @@ Mắt gì mà to vcl.
 
 Anh nhìn xuống cuốn sách. Đọc người chứ có phải đọc lông mi đâu.
 
+Muộn rồi.
+
+"Anh nhìn gì đấy?"
+
+Cô không nheo mắt, không nghiêng đầu. Cô nói thẳng, qua hai tròng kính tròn, bằng đúng giọng cô hỏi *gió Lào là gì*. Anh nghe tai mình đỏ lên trước khi nghĩ ra câu trả lời.
+
+"Kính," anh nói. "Kính em trượt."
+
+"Nó trượt từ đầu buổi."
+
+"Anh mới để ý."
+
+"Anh nói dối dở thật." Cô vẫn nhìn anh thêm một nhịp, một nhịp nữa, chờ xem anh có tự nhìn đi chỗ khác không. Anh không. Anh không biết vì sao. Khoảng ba giây, hai người nhìn nhau qua một cuốn giáo trình to bằng viên gạch, và anh là người đầu tiên cúi xuống. Cô khẽ bật ra một tiếng qua mũi, rồi quay lại mẩu giấy nhớ, như chưa có gì xảy ra.
+
 "Em học quản trị kinh doanh. Môn này năm nhất bắt buộc. Em không thích nhưng em thuộc."
 
 "Sao học quản trị kinh doanh?"
@@ -174,11 +188,11 @@ Anh bật cười thành tiếng. Bàn bên quay sang nhìn.
 
 "Thì đúng mà." Cô với tay qua, chỉ vào dòng chữ của mình, ngón trỏ sơn móng màu hồng sữa gõ hai cái lên trang giấy. "Tám chấm không ăn được. Nhưng trường người ta nhận. Ai cũng đồng ý là tám chấm có giá thì nó có giá."
 
-Lúc cô nhoài người qua, mấy lọn tóc buộc nửa đầu đổ xuống, chạm vào cẳng tay anh đang đặt trên mép sách. Mùi dầu gội ngòn ngọt, như mùi đào.
+Lúc cô nhoài người qua, mấy lọn tóc buộc nửa đầu đổ xuống, chạm vào cẳng tay anh đang đặt trên mép sách. Mùi dầu gội ngòn ngọt, như mùi đào. Chỗ tóc chạm vào da, lông tay anh dựng lên thành một mảng nhỏ, và hơi nóng chạy dọc cẳng tay, lên khuỷu, lên vai, đến gáy, như một sợi dây điện bị ai bật công tắc ở đầu kia.
 
 Cái mùi này mà…
 
-Anh ho một tiếng. Rút tay lại, lấy cớ lật trang.
+Anh nhìn đồng hồ như thể nó vừa nhắn tin cho mình, rồi ho một tiếng. Rút tay lại, lấy cớ lật trang.
 
 "Anh ho à?"
 

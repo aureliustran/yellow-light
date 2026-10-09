@@ -129,6 +129,10 @@ Cô không nói nửa câu còn lại. Nửa câu còn lại là: trông anh nh�
 
 Anh lật sách. Cô ngồi im, làm như đang đọc lại đề bài hôm trước, mắt không rời những ngón tay dài của anh đang lật từng trang. Trang mười hai, anh không dừng. Trang bốn mươi mốt, anh không dừng. Vệt băng xóa trắng trôi qua dưới ngón tay anh như một vệt mây.
 
+Tay cô đặt trên mặt bàn, cạnh cuốn sách, cách ngón út của anh đúng một đốt ngón tay. Cô đo bằng mắt, vì mắt không có việc gì khác để làm. Một đốt. Khoảng không khí giữa hai bàn tay ấm lên, hoặc cô tưởng thế, và cô cảm thấy nó như lưỡi cảm thấy chỗ răng vừa nhổ: cứ tìm tới. Anh lật trang. Ngón út anh nhúc nhích, một đốt thành nửa đốt. Cô không rút tay. Cô cũng không nhích lên. *Giỏi đứng yên mà.*
+
+Trang giấy lật qua, bàn tay anh đi theo nó. Mặt gỗ nơi tay anh vừa nằm còn ấm, một vệt ấm mỏng hình bàn tay, ấm hơn phần bàn còn lại đúng một chút. Cô úp lòng bàn tay của mình lên đó, như người ta đặt tay lên chỗ ngồi còn nóng của một người vừa đứng dậy, rồi nhận ra mình đang làm gì và rút về. Lòng bàn tay còn ấm lâu hơn cái vệt.
+
 Trang chín mươi sáu, anh dừng. Rồi bật cười thành tiếng, cái cười làm cả bàn bên quay sang.
 
 Cô biết anh đang đọc dòng nào. Cô nhổm dậy, giả vờ không biết. "Gì?"
@@ -198,6 +202,24 @@ Tấm thứ tư là cuốn sách của cô.
 Mở trên một cái chăn kẻ ô màu xám. Đèn bàn vàng hắt từ một bên. Hơi nhòe. Lệch. Một góc ảnh có mép một cái gối, góc kia có một bàn tay, ngón cái đặt trên mép trang như giữ cho trang khỏi lật. Cô phóng to. Không đọc được số trang. Chỉ thấy lề giấy có mực tím.
 
 Không có chữ nào kèm theo.
+
+Cô phóng to lần nữa, vào bàn tay. Ngón cái dài, đốt đầu cong ngược ra sau một chút, móng cắt ngắn, cạnh móng có một vệt xước cũ. Ngón cái ấn xuống mép trang vừa đủ để trang khỏi lật, không hơn, như người đã quen giữ một thứ gì đó mà không làm nó đau. Dưới đèn vàng, cổ tay thò ra từ ống áo thun xám, và ở cổ tay, mỏng đến mức phải nheo mắt, có một đường xanh nhạt chạy dưới da, nhịp theo cái gì cô không thấy được.
+
+Cô nhận ra mình đang đếm nhịp ấy. Rồi nhận ra mình đang đếm theo nhịp của chính cô, đang chạy trong cổ họng, nhanh hơn.
+
+Cô nhắm mắt. Chỉ để nghĩ cho gọn.
+
+Ngón cái ấy, nếu nó không đặt trên mép trang mà đặt lên cổ tay cô, đúng chỗ mạch, thì nó sẽ thấy gì. Nó sẽ thấy tim cô chạy. Nó sẽ biết hết, không cần một câu nào, không cần một cái chấm ý chính nào. Cô cảm thấy lòng bàn tay mình ẩm lên, đang nắm điện thoại quá chặt, và hơi nóng đi từ cổ tay lên khuỷu, lên vai, xuống ngực, dừng ở đâu đó dưới xương sườn thành một vầng ấm như hơi của cốc trà vừa rót. Sau gáy cô, nơi tóc chưa khô, một giọt nước chạy xuống sống lưng, và cô giật mình như thể đó là ngón tay ai.
+
+Cô mở mắt. Trần nhà vẫn là trần nhà.
+
+Màn hình đã tối đi vì không ai chạm. Cô chạm cho nó sáng. Rồi, rất chậm, cô đặt ngón cái của mình lên ngón cái của anh trên màn hình, khớp lên nhau. Kính lạnh. Rồi không lạnh nữa, vì máy nóng, vì tay cô. Hai ngón cái cùng cỡ ngón, chỉ khác một thứ cô không thể nhìn thấy qua một tấm kính.
+
+Cô nhấc tay lên. Trên mặt kính còn một vết mờ hình đầu ngón tay, phủ đúng lên ngón tay trong ảnh, và đang tan dần từ viền vào giữa. Cô nhìn nó cho đến khi hết.
+
+Cô mở ghi chú, gõ: *tay anh ấy*. Dừng. Gõ tiếp: *mình muốn biết nó*. Dừng. Xóa *nó*. Xóa *biết*. Xóa luôn *muốn*. Còn lại *mình*, nhấp nháy một mình trên dòng trống. Cô xóa nốt.
+
+Dòng trống nhìn lại cô một lúc. Rồi màn hình tự tắt, trước khi cô nghĩ ra từ nào đủ đúng.
 
 Cô nằm nghiêng, nhìn tấm ảnh rất lâu. Cuốn sách của mình trên chăn của một người, lúc một giờ sáng. Đèn bàn của một người. Ngón tay của một người, đặt trên chữ của mình.
 

@@ -91,7 +91,7 @@ const hasTranslations = c ? /\[\[(en|ht):|^:::dich/m.test(c.body) : false;
           {prev ? (
             <a href={`/doc/${prev.slug}`} rel="prev">
               <div class="dir">← Trước</div>
-              <div class="name">{prev.kind === 'chapter' ? `Chương ${prev.number} · ` : ''}{prev.title}</div>
+              <div class="name">{prev.kind === 'chapter' ? (prev.number != null ? `Chương ${prev.number} · ` : 'Chương ') : ''}{prev.title}</div>
             </a>
           ) : (
             <div class="empty"><div class="dir">Trước</div><div class="name">Đây là phần đầu tiên</div></div>
@@ -99,7 +99,7 @@ const hasTranslations = c ? /\[\[(en|ht):|^:::dich/m.test(c.body) : false;
           {next ? (
             <a class="next" href={`/doc/${next.slug}`} rel="next">
               <div class="dir">Tiếp →</div>
-              <div class="name">{next.kind === 'chapter' ? `Chương ${next.number} · ` : ''}{next.title}</div>
+              <div class="name">{next.kind === 'chapter' ? (next.number != null ? `Chương ${next.number} · ` : 'Chương ') : ''}{next.title}</div>
             </a>
           ) : (
             <div class="empty"><div class="dir">Tiếp</div><div class="name">Chương sau đang được viết…</div></div>

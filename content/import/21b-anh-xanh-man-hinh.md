@@ -18,6 +18,14 @@ Cô không hỏi hệ thống phân tán là cái gì. Cô mở lịch điện t
 
 Hai giờ chiều, cô đứng trước tủ quần áo lâu hơn mọi lần. Áo len hồng đất thì mặc hôm summit rồi. Cardigan hồng phấn thì trông như đi học. Cô thử cái áo dạ ngắn màu hồng khói, quần ống suông màu kem, đôi giày đế năm phân, đứng trước gương, thấy mình giống người sắp đi ký hợp đồng. Cô tháo cái kẹp nơ nhung trên tóc ra. Rồi kẹp lại.
 
+Cô cởi bộ ấy ra, mặc bộ thứ hai, cởi, mặc bộ thứ ba, rồi đứng im.
+
+"Mặc cho ai?" cô hỏi gương, thành tiếng.
+
+Gương không trả lời. Cô trả lời, nhanh hơn cô định: "Cho…" Và dừng, vì tai trong gương đã đỏ trước khi cô nói hết chữ. "Cho anh Khải. Anh ấy có khách."
+
+Gương vẫn không nói gì. Gương chỉ cho cô thấy cái cổ, cái tai, và đôi mắt của người đang nói dối rất dở, ở một chỗ mà trước giờ cô chưa từng nói dối.
+
 Mình đi mang cà phê cho anh. Thế thôi.
 
 ---
@@ -93,6 +101,18 @@ Lab là một phòng dài, trần thấp, đèn trắng. Chị Hạnh kể từ 
 Chị Hạnh liếc cô một cái rất nhanh, như người đang ghi chép mà nghe thấy một chữ đáng gạch chân. Rồi chị kể tiếp sang cái máy in hay kẹt giấy.
 
 Nhi nhìn chậu xương rồng. Xương rồng mà cũng nuôi chết được. Đúng là anh ấy. Người như thế mà đi dạy người khác phải có ví dụ cụ thể.
+
+Trên lưng ghế vắt một cái áo nỉ xám, tay áo rũ xuống, cuộn lại ở khuỷu, như vừa có người cởi ra. Cô nhận ra nó. Hôm quán gạch bông anh mặc nó.
+
+Cô đứng cách nó một sải tay. Tay cô đưa ra trước khi cô quyết định, dừng cách tay áo một đốt ngón tay. Mùi bột giặt rẻ. Mùi cà phê đen. Và dưới cùng, cái mùi mà cô đã âm thầm đặt tên là *mùi anh*, vì chưa tìm ra tên nào khác.
+
+Cô rụt tay.
+
+"Em nhìn gì thế?" chị Hạnh quay lại.
+
+"Cái áo ạ. Nó như sắp rơi."
+
+Cô kéo tay áo lên cho nằm ngay ngắn trên lưng ghế, đúng một nhịp, như chỉnh một quân cờ, rồi bỏ ra. Lòng bàn tay vẫn còn cảm giác nhám của nỉ, rất lâu sau khi cô đã rời khỏi cái bàn đứng lẻ.
 
 Cô không cười. Mắt cô đã đi tiếp, qua cái bàn trống, qua máy in, đến góc trong cùng.
 

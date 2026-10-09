@@ -199,7 +199,9 @@ Cô đưa. Anh cầm, giơ lên cao hơn. Vẫn phải cúi. Cái ô bé đến 
 
 Họ đi ra ngõ.
 
-Con ngõ hẹp, lát gạch, những vũng nước nhỏ loang ánh đèn vàng của mấy cái quán hai bên. Vai cô chạm cánh tay anh, chỗ ngay dưới vai, mỗi bước một lần, qua hai lớp áo. Anh nghiêng ô về phía cô. Nghiêng thêm một chút. Mưa bụi đậu lên vai phải anh, thấm qua lớp áo nỉ, mát lạnh, rồi lạnh hẳn. Anh không đổi tay.
+Con ngõ hẹp, lát gạch, những vũng nước nhỏ loang ánh đèn vàng của mấy cái quán hai bên. Vai cô chạm cánh tay anh, chỗ ngay dưới vai, mỗi bước một lần, qua hai lớp áo. Mỗi lần chạm là một cái gõ rất khẽ, và đến lần thứ tư anh nhận ra mình đang đếm bước chân để đoán lần chạm kế tiếp. Anh nghiêng ô về phía cô. Nghiêng thêm một chút. Mưa bụi đậu lên vai phải anh, thấm qua lớp áo nỉ, mát lạnh, rồi lạnh hẳn. Anh không đổi tay.
+
+Bên trái anh thì ấm. Ấm một cách vô lý, như ai đó để một cái túi chườm áp dọc cánh tay. Hơi ấm ấy có mùi: quế từ cái quán vừa đi ra còn bám trên khăn len của cô, lẫn một thứ ngọt hơn, nhẹ, thứ mùi của tóc vừa hong khô, của một người vừa ngồi ba tiếng cạnh lò sưởi. Anh hít vào một hơi, rất ngắn, chỉ để thở. Chỉ để thở.
 
 "Vai anh ướt rồi," cô nói, không nhìn sang.
 
@@ -213,7 +215,7 @@ Cô bật ra một tiếng, nửa cười nửa thở, mắt vẫn nhìn xuống
 
 Đến chỗ cái cột điện giữa ngõ, cô quay sang định nói gì đó.
 
-Một lọn tóc đã thoát ra khỏi cái khăn len từ lúc nào, ướt, dính lên má cô thành một đường cong như dấu phẩy. Má cô đỏ vì lạnh, cái đỏ không phải phấn. Hơi thở cô thành một làn khói mỏng, tan vào mặt ô hồng.
+Một lọn tóc đã thoát ra khỏi cái khăn len từ lúc nào, ướt, dính lên má cô thành một đường cong như dấu phẩy. Má cô đỏ vì lạnh, cái đỏ không phải phấn. Hơi thở cô thành một làn khói mỏng, tan vào mặt ô hồng. Và vì cái ô bé, vì anh cúi, vì cô ngẩng, khoảng cách giữa hai khuôn mặt chỉ còn bằng đúng chiều dài một cái cán ô.
 
 Một. Hai. Ba.
 
@@ -221,9 +223,13 @@ Anh đã nhìn khuôn mặt này đủ nhiều lần để không đếm nữa. 
 
 Hóa ra nó chỉ ngủ.
 
+Mưa bụi đọng trên hàng mi cô thành những hạt rất nhỏ, và khi cô chớp, một hạt rơi xuống gò má, lăn dọc theo lọn tóc ướt, dừng ở khóe môi. Môi cô hé ra nửa phân vì lạnh, và làn hơi trắng thoát ra từ đó, ấm, bay thẳng lên cằm anh. Anh cảm thấy nó. Thật sự cảm thấy, một chấm ẩm mỏng chạm vào da, tan đi trước khi anh kịp nghĩ là gì.
+
+Tay anh đang cầm ô. Tay còn lại đút trong túi. Không cái nào rảnh. Anh nhận ra điều ấy với một thứ nhẹ nhõm và tiếc nuối chạy song song, như hai chuyến xe buýt khác tuyến đi chung một đoạn đường.
+
 Vén hộ thì…
 
-Một chiếc xe máy lao qua đầu ngõ, bánh xe xé đôi một vũng nước, hắt một vệt lên ống quần anh. Anh nhìn xuống vệt nước đang loang trên ống quần, chăm chú như nhìn một con số sai trong báo cáo. Lạnh từ cổ chân chạy lên. Lạnh từ sống lưng chạy xuống. Hai cái lạnh gặp nhau ở đâu đó giữa người.
+Một chiếc xe máy lao qua đầu ngõ, bánh xe xé đôi một vũng nước, hắt một vệt lên ống quần anh. Anh nhìn xuống vệt nước đang loang trên ống quần, chăm chú như nhìn một con số sai trong báo cáo. Lạnh từ cổ chân chạy lên. Lạnh từ sống lưng chạy xuống. Hai cái lạnh gặp nhau ở đâu đó giữa người. Ở chính giữa, chỗ chúng gặp nhau, có một chấm nóng nhỏ không giải thích được, và anh cố tình không nhìn xuống để biết nó là gì.
 
 Học sinh, anh nghĩ. Học sinh. Học sinh hồng.
 
@@ -297,7 +303,11 @@ Anh nhìn cái áo mưa. Rồi nhìn cái ô trong tay mình.
 
 "Thế sao nãy không mặc áo mưa đi ra đây cho nhanh?"
 
-"Vì anh không có áo mưa." Cô nói, như nói hai cộng hai. Rồi rũ cái áo mưa ra, chui đầu qua. "Anh cầm ô về. Thứ Năm trả em."
+"Vì anh không có áo mưa." Cô nói, như nói hai cộng hai.
+
+Gáy anh nóng lên một nhịp, và anh nhìn sang con gấu bông ướt ở móc khóa để không phải nhìn cô.
+
+Cô rũ cái áo mưa ra, chui đầu qua. Lúc đầu cô ló ra khỏi cổ áo, tóc dựng lên vì tĩnh điện, vài sợi dính vào môi, cô thổi phù một cái, sợi tóc bay lên rồi rơi lại đúng chỗ cũ. "Anh cầm ô về. Thứ Năm trả em."
 
 "Anh bắt xe buýt mà. Lên xe là hết mưa."
 
@@ -327,7 +337,7 @@ Cái nhẹ nhõm hôm cuối tháng mười không quay lại. Anh đi ba trăm 
 
 ---
 
-Trên xe buýt, anh ngồi ghế cuối, cái ô hồng gấp lại dựng giữa hai đầu gối, nước nhỏ thành một vũng tròn dưới sàn. Một cô bé học sinh cấp hai ngồi ghế trước quay lại nhìn cái ô, nhìn anh, nhìn cái vai áo ướt sẫm một bên, rồi quay lên thì thầm với bạn.
+Trên xe buýt, anh ngồi ghế cuối, ngón cái bên trái vẫn còn nóng một cách ngớ ngẩn, cái ô hồng gấp lại dựng giữa hai đầu gối, nước nhỏ thành một vũng tròn dưới sàn. Một cô bé học sinh cấp hai ngồi ghế trước quay lại nhìn cái ô, nhìn anh, nhìn cái vai áo ướt sẫm một bên, rồi quay lên thì thầm với bạn.
 
 Điện thoại rung.
 

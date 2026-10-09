@@ -98,6 +98,8 @@ Rồi cô nói với Thuyên:
 
 Vũ đứng đơ đúng một nhịp. Rồi gập người xuống cười, cười đến mức sữa đậu nành sóng ra khỏi cốc, nhỏ xuống giày.
 
+Thuyên thì không cười. Ba giây nhìn của cô đã dừng ở sẹo lông mày anh một nhịp lâu hơn cần thiết, rồi trượt xuống cái khuyên bạc ở tai, rồi mới về mắt. Anh cảm thấy từng chỗ cô đi qua, như ai đó lần ngón tay dọc đường ấy. Gáy anh nóng. Anh nói *đồ con nít* hoặc câu gì đó tương tự, anh không nhớ, vì cả sáng hôm đó, mỗi lần nhắm mắt, anh lại thấy đúng cái nhìn ấy.
+
 "Em ơi. Em ơi." Vũ vừa thở vừa chỉ vào cô. "Em nói lại câu đấy cho anh ghi âm. Anh làm nhạc chuông."
 
 "Mồm thối nhưng chấm Writing cho em được bảy," Thuyên nói. "Em chọn đi. Đẹp trai mồm thơm thì đi thuê lại chị trung tâm."
@@ -182,6 +184,8 @@ Anh đi về phía bậc thềm, cúi xuống lấy chai nước để cạnh ba
 
 Lúc hạ chai xuống, anh liếc thấy Nhi đang nhìn lên. Không nhìn mặt anh. Nhìn thấp hơn một chút. Cổ.
 
+Một giọt mồ hôi tách khỏi chân tóc, lăn xuống thái dương, xuống cằm, dừng một giây ở yết hầu rồi trượt xuống cổ áo. Cô nhìn theo nó. Anh thấy cổ họng cô chuyển động, một cái nuốt khan nhỏ.
+
 Anh nghĩ: chắc trông buồn cười lắm. Người bốc khói như nồi bánh chưng.
 
 "Cầm hộ anh," anh nói, đưa chai nước cho cô, rồi quay lại sân.
@@ -196,7 +200,7 @@ Vũ ngồi phịch xuống mặt sân, chân duỗi thẳng, áo phao bung ra nh
 
 Anh đi về bậc thềm, chìa tay. "Trả nước cho anh. Phí giữ hộ tính vào học phí tháng sau."
 
-Nhi đưa chai nước. Anh cầm lấy. Cô chưa buông. Một giây. Mắt cô dừng ở miệng chai, chỗ anh vừa uống. Rồi cô buông tay, nhanh, như chai nước vừa nóng lên.
+Nhi đưa chai nước. Anh cầm lấy. Ngón tay anh chạm vào ngón tay cô quanh thân chai, ngón cô lạnh, nhưng thân chai thì ấm đúng chỗ cô vừa nắm. Cô chưa buông. Một giây. Mắt cô dừng ở miệng chai, chỗ anh vừa uống, và môi cô mím lại, mím chặt hơn cần thiết. Rồi cô buông tay, nhanh, như chai nước vừa nóng lên.
 
 Anh nghĩ: chai lạnh, cầm lâu chắc tê tay. Lẽ ra không nên đưa cho cô cầm.
 
@@ -208,7 +212,7 @@ Anh nghĩ: chai lạnh, cầm lâu chắc tê tay. Lẽ ra không nên đưa cho
 
 Mồ hôi bắt đầu nguội. Gió lùa qua khe giữa hai dãy nhà, thổi vào lưng áo ướt, lạnh như ai áp một miếng thép lên da.
 
-Anh cúi xuống lấy cái hoodie trên đầu gối Nhi. Cô nhấc tay ra chậm hơn anh nghĩ nửa nhịp. Anh mặc vào, kéo khóa đến cổ, rồi trùm mũ lên. Mũ sụp xuống trán, che hết tóc, chỉ còn lại cái sẹo đuôi lông mày và nửa dưới khuôn mặt. Hai tay đút vào túi trước bụng. Anh quay mặt về phía cái rổ, đứng im dưới cột đèn cao áp.
+Anh cúi xuống lấy cái hoodie trên đầu gối Nhi. Cô nhấc tay ra chậm hơn anh nghĩ nửa nhịp. Vải còn ấm. Không phải hơi ấm của anh: là hơi ấm của đùi cô, của hai bàn tay cô ủ suốt mười lăm phút. Anh khựng một giây với cái áo trong tay, rồi mặc vào, và nó ôm lấy lưng anh như một cái ôm ngắn. Anh mặc vào, kéo khóa đến cổ, rồi trùm mũ lên. Mũ sụp xuống trán, che hết tóc, chỉ còn lại cái sẹo đuôi lông mày và nửa dưới khuôn mặt. Hai tay đút vào túi trước bụng. Anh quay mặt về phía cái rổ, đứng im dưới cột đèn cao áp.
 
 "Đừng ai nói chuyện với tao," anh nói, không quay lại. "Tao đang aura farming."
 

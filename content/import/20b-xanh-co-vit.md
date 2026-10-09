@@ -40,6 +40,10 @@ Một.
 
 Cô gạch một vạch nhỏ ở lề trang sổ, bằng mực xanh cổ vịt. Anh không thấy.
 
+Cô nhìn cổ áo nỉ xám của anh, chỗ viền cổ hơi sờn, hơi trễ về bên trái, để khỏi nhìn chỗ nào khác. Từ khi chữ *kid* trơn đi, cô tìm ra một việc: mỗi lần anh gọi, cô phải tìm một chỗ trên người anh để nhìn cho yên. Hôm nay là cổ áo. Cổ áo thì an toàn. Cổ áo ngay dưới cằm, mà dưới cằm thì…
+
+Cô lật trang đề.
+
 ---
 
 Đề Part 3 đầu tiên là *[[en: Social media and privacy || Mạng xã hội và quyền riêng tư]]*.
@@ -106,11 +110,13 @@ Không mạnh. Chỉ là bàn tay đang đặt cạnh nó thì tự dưng không
 
 Bút xanh cổ vịt nằm trên bông hoa xanh cổ vịt. Một giây cô không nhìn thấy nó đâu.
 
-Anh cúi xuống, gầm bàn, với tay. Bình thường cô sẽ nhìn gáy anh lúc ấy, cái gáy lần trước đỏ một đường mất hút vào cổ áo. Hôm nay cô nhìn cái hộp bút con thỏ, cái khe hở trên nắp nó.
+Anh cúi xuống, gầm bàn, với tay. Bình thường cô sẽ nhìn gáy anh lúc ấy, cái gáy lần trước đỏ một đường mất hút vào cổ áo. Hôm nay cô nhìn cái hộp bút con thỏ, cái khe hở trên nắp nó, và không nhìn gáy, kiên quyết, như người nhịn ăn nhìn qua cửa kính hiệu bánh.
+
+Nhưng tai thì không có mi. Cô nghe hơi thở anh dưới gầm bàn, ngắn, hơi gắng, kèm tiếng vải áo nỉ cọ vào cạnh ghế, tiếng đầu gối chạm sàn, tiếng bàn tay quờ trên gạch bông. Nghe còn gần hơn nhìn. Cô cầm cốc trà lên, uống một ngụm đá lạnh buốt răng, và hơi nóng sau gáy cô vẫn không chịu xuống.
 
 Anh ngồi thẳng dậy, chìa cây bút cho cô.
 
-"Em cảm ơn." Cô cầm lấy. "Cảm ơn anh."
+"Em cảm ơn." Cô cầm lấy. Thân bút còn ấm ở đúng chỗ ngón cái và ngón trỏ anh vừa giữ. Cô nắm vào đúng chỗ ấy, vì nó ở đó, và vì không còn chỗ nào khác để nắm. "Cảm ơn anh."
 
 Cô nghe chính mình nói câu thứ hai. Nó ra sau câu thứ nhất nửa nhịp, như tiếng vọng. Cô không cảm ơn ai hai lần bao giờ. Cảm ơn một lần còn ngượng.
 
@@ -163,6 +169,8 @@ Bảy.
 Anh đi. Đôi Crocs bước qua mấy viên gạch bông, bước qua đúng chỗ cây bút dừng lại lúc nãy, không biết.
 
 Cô ngồi lại một mình, nhìn trang sổ. Ba cái khung xanh cổ vịt, thẳng, đẹp, như ba cái cầu. Ở lề trái, bảy vạch nhỏ cùng màu, xếp hàng như hàng rào.
+
+Cạnh vạch thứ bảy, cô viết thêm một chữ bằng mực tím, nhỏ đến mức chỉ cô đọc được: *(tay)*. Chữ ấy không thuộc cột nào, không phải lỗi, không phải khung. Nó là cái ấm trên thân bút. Cô nhìn nó ba giây. Rồi gạch, một đường, đè mực tím lên mực xanh cổ vịt thành một vệt xám xanh hơi bẩn, và vệt ấy không che được chữ.
 
 Cô gập sổ lại.
 

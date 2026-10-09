@@ -338,9 +338,10 @@ Cô đưa nó lên miệng. Cắn nhẹ một cái, rồi bỏ ra, như người
 
 Rồi cô khóa màn hình. Úp điện thoại mới lên trên cái điện thoại cũ. Cái bìa đỏ sẫm, cô không cất vào ngăn kéo nữa. Cô để nó trên bàn học, cạnh hộp bút con thỏ, chỗ sáng mai mở mắt ra là thấy.
 
-Trước khi tắt đèn, cô mở ghi chú, gõ hai dòng.
+Trước khi tắt đèn, cô mở ghi chú, gõ vài dòng.
 
 :::phone
 thảo (8A). lần thứ ba. gõ được hai chữ. không gửi.
 (không ai bắt mình xin lỗi bao giờ. nên mình không biết chữ thứ ba là chữ gì.)
+(anh ấy gọi mình là kid. thảo gọi mình là nhi. khác nhau.)
 :::

@@ -14,6 +14,8 @@ Nhi ngồi lên yên, chưa cắm chìa. Mũ tai mèo đã cài quai. Từ chỗ
 
 Đến chỗ hàng ngô nướng, cái bóng dài cúi xuống. Cằm anh đặt lên đỉnh đầu người kia, đúng chỗ cái kẹp càng cua, dụi một cái, như con mèo dụi vào chân bàn.
 
+Tay cô siết tay ga. Đốt ngón tay trắng bệch, và cô không nhớ mình siết từ lúc nào. Cô nhìn cái dụi cằm ấy quá rõ: đường hàm anh dưới ánh đèn đường, cái nghiêng cổ, cái cách vai anh chùng xuống. Gáy cô nóng lên từ chân tóc, nóng kiểu bị một thứ gì rất cụ thể nhìn chằm chằm từ phía sau, trong khi phía sau cô chỉ có hàng ngô nướng và khói.
+
 Ba tháng, hai buổi một tuần, cô đã thấy anh gõ tay hai lần lên bàn khi né, thấy anh đỏ tai, thấy anh xoay bút. Cái này thì chưa.
 
 Cô mở app ngân hàng.
@@ -51,6 +53,8 @@ Rồi cô nghĩ đến cái giọng.
 Giọng anh lúc nghe điện thoại đàn em. *Em cứ nói từ từ, anh nghe đây.* Giọng ấy tự xuống, như cái thang máy không ai bấm mà vẫn xuống. Cô hỏi anh *anh nói với bạn ấy giọng khác*, anh hỏi lại *giọng gì*, và lần đầu tiên cô không trả lời được.
 
 Bây giờ thì cô trả lời được. Giọng không có chữ *kid* ở cuối câu.
+
+Còn một giọng nữa. Cô không định nghĩ đến nó, nhưng nó đã ở trong tai: giọng anh hạ thấp khi cúi xuống chỉ một lỗi trong bài, ngay sát tai cô, hơi thở có mùi cà phê đen. *Chỗ này, kid, em nói nhanh quá.* Hôm ấy cô quên nghe nội dung. Cô nghe nhiệt: hơi thở anh chạm vào vành tai phải, rất nhẹ, và vành tai ấy tối về còn nhớ. Giọng ấy không nằm ở cuối câu nào của chị ấy. Cô không biết chị ấy đã nghe nó bao giờ chưa.
 
 Cô úp điện thoại xuống gối.
 

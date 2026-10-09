@@ -28,7 +28,11 @@ Anh ta bước ra.
 
 Không phải cái áo phông ướt mồ hôi với cái quần ống rộng hôm ở ngã tư. Polo xanh navy sơ vin vào quần âu xám, blazer đen, giày da nâu bóng lên dưới ánh đèn. Tóc vuốt ra sau, một lọn rơi xuống trán, đúng như trong ảnh. Từ hàng ghế đầu, Nhi thấy rõ cả vết sẹo ở đuôi lông mày và cái chấm bạc ở tai trái.
 
-Cô ngồi thẳng lưng lên.
+Cô nhìn xuống nữa mà không định thế. Blazer đen cắt gọn ở hai vai, một đường thẳng như vạch bằng thước; dưới đường ấy, anh ta đặt hai tay lên bục, và vải polo căng ra theo ngực khi anh ta hít vào. Mắt cô trượt theo hàng cúc xuống được ba cái thì dừng.
+
+Hai giây. Cô nhận ra mình đang đếm cúc áo của một người đang đứng giữa hội trường có bố cô ngồi hàng đầu, và ngồi thẳng lưng lên như bị ai gõ vào gáy.
+
+Cửa gió vẫn thổi thẳng xuống đầu cô. Tai cô vẫn nóng.
 
 Anh ta đứng sau bục, nhìn xuống khán phòng. Không nói ngay. Mắt anh ta đi một vòng, từ hàng sinh viên ở cuối lên đến hàng công ty ở giữa, rồi đến hàng ghế đầu, chậm, đều, như người ta đếm số khách trong một bữa tiệc. Đến chỗ cô, mắt anh ta dừng lại một nhịp. Rất ngắn. Rồi đi tiếp.
 
@@ -152,7 +156,15 @@ Hôm nay cô đúng. Cô chắc chắn là mình đúng. Anh ta không tin câu 
 
 Cái này không thuộc về ghi chú này.
 
-Cô xóa dòng thứ tư, từng chữ một, cho đến khi con trỏ nhấp nháy lại ở cuối dòng thứ ba.
+Nhưng ngón tay cô vẫn đặt trên bàn phím, và nó gõ tiếp, không hỏi ý ai, sau dấu gạch ngang: *đẹp trai.*
+
+Hai chữ nằm ở dòng thứ tư của một danh sách về những lần cô đúng. Không đúng chỗ. Đúng sự thật. Cô nghiêng màn hình về phía cửa kính, tay trái kéo tóc xuống che tai bên anh trai, và thấy tai mình nóng đến mức luồng gió lạnh thổi vào cũng không nguội nổi.
+
+*Ghi nhận không phải là thích.* Cô nhắc mình lần thứ hai trong ngày. *Ghi nhận không phải là thích. Còn hàng cúc thì…*
+
+Cô không nhắc đến hàng cúc nữa.
+
+Cô xóa *trai* trước, vì chữ ấy ngượng hơn. *Đẹp* ở lại thêm hai giây, một mình, con trỏ nhấp nháy sau nó như đang chờ cô đổi ý. Cô không đổi ý. Cô xóa nốt, rồi xóa *Summit, 10/10 –*, từng chữ một, cho đến khi con trỏ nhấp nháy lại ở cuối dòng thứ ba.
 
 Bên cạnh, anh trai vẫn gõ email. Nhi liếc sang màn hình. Một cái email ngắn, gửi cho ai đó ở phòng nhân sự. Cô chỉ kịp đọc được ba chữ trong dòng tiêu đề, *Đại học Công nghệ*, thì anh đã nghiêng màn hình đi một chút, không phải cố ý, chỉ là đổi tư thế ngồi.
 

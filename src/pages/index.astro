@@ -77,7 +77,7 @@ const demoHtml = renderMarkdown(
           )}
           <a class="btn big" href="#" data-continue hidden></a>
           {latest && latest !== first && (
-            <a class="btn big" href={`/doc/${latest.slug}`}>Mới nhất · {latest.kind === 'chapter' ? latest.number : latest.title}</a>
+            <a class="btn big" href={`/doc/${latest.slug}`}>Mới nhất · {latest.number ?? latest.title}</a>
           )}
         </div>
         {isConfigured && (

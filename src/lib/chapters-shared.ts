@@ -21,17 +21,24 @@ export interface NumberedChapter extends ChapterRow {
   number: number | null; // null for interludes
 }
 
+// A special chapter is a chapter whose title is only digits ("3107"): the
+// number is its name, so it gets no running number of its own.
+export function isSpecialChapter(c: { kind: ChapterKind; title: string }): boolean {
+  return c.kind === 'chapter' && /^\d+$/.test(c.title.trim());
+}
+
 // Chapter numbers are not stored: they come from the order, and interludes
-// are skipped, so reordering renumbers everything automatically.
+// and special chapters are skipped, so reordering renumbers everything automatically.
 export function withNumbers<T extends ChapterRow>(list: T[]): (T & { number: number | null })[] {
   let n = 0;
   return [...list]
     .sort((a, b) => a.position - b.position)
-    .map((c) => ({ ...c, number: c.kind === 'chapter' ? ++n : null }));
+    .map((c) => ({ ...c, number: c.kind === 'chapter' && !isSpecialChapter(c) ? ++n : null }));
 }
 
 export function chapterLabel(c: { kind: ChapterKind; number: number | null }): string {
-  return c.kind === 'chapter' && c.number != null ? `Chương ${c.number}` : 'Interlude';
+  if (c.kind !== 'chapter') return 'Interlude';
+  return c.number != null ? `Chương ${c.number}` : 'Chương';
 }
 
 export function isLive(c: Pick<ChapterRow, 'status' | 'publish_at'>, now = Date.now()): boolean {

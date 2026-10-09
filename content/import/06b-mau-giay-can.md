@@ -130,4 +130,6 @@ Ngoài cửa sổ, tiếng anh trai vẫn còn văng vẳng ngoài ban công t�
 
 Cô nghĩ, mai phải hỏi anh xem summit mặc gì. Anh sẽ bảo mặc gì cũng được. Nhưng anh sẽ nghe cô kể hết các phương án.
 
+Giữa hai phương án có một thứ chen vào, không ai mời: ngón cái của người lạ miết lên đầu xe, một cái, bụi mất. Cô lật nghiêng người, úp mặt vào gối cho nó đi.
+
 Cô ngủ trước khi kịp nghĩ đến phương án thứ hai.

@@ -58,9 +58,15 @@ Rồi nằm ngửa ra, điện thoại úp lên ngực, nhìn lên trần nhà.
 
 Anh ta cười. Đấy là cái làm cô nghĩ mãi. Không phải lúc anh ta nhận lỗi, mà cái lúc ngay trước đó. Anh ta đang khoanh tay, nghiêng đầu, chuẩn bị cãi, cô nhìn mặt là biết anh ta có cả một tràng lý lẽ xếp hàng chờ sẵn. Rồi tự nhiên anh ta bật cười. Cười to, phải tì tay vào yên xe, như vừa nghe một câu đùa hay nhất buổi sáng. Mà câu đùa đó là cô.
 
+Cô nhớ vai anh ta rung khi cười. Cái áo phông ướt mồ hôi dán vào vai theo từng nhịp, cổ áo giãn ra một bên, lộ một đoạn xương quai xanh có giọt mồ hôi chạy xuống rồi mất vào vải. Cô nhớ chi tiết ấy rõ hơn nhớ biển số xe anh ta. Cả mùi nữa: mồ hôi sạch của người mới chạy, lẫn mùi bột giặt rẻ tiền. Lạ là không khó chịu.
+
 Bình thường, người ta không cười cô. Người ta gật đầu. Người ta bảo "em nói đúng", "ừ thì thôi", "em muốn thế nào cũng được". Người ta nhường. Cô ghét nhất là chữ "thôi" đứng đầu câu.
 
 Anh ta không nhường. Anh ta cười, rồi nhận lỗi. Hai cái đó khác nhau.
+
+Cô mở lại ghi chú, bấm xuống dòng thứ tư, và gõ một chữ mà cô không định gõ: *tay.* Rồi nhìn nó. Cái ngón cái miết lên đầu xe, một cái, bụi mất. Ngón dài, đốt rõ, móng cắt ngắn. Tay người ta thì có liên quan gì đến chuyện ai đúng ai sai.
+
+Cô xóa. Màn hình tối đi. Ngón cái của chính cô vẫn đặt trên chỗ chữ cuối, hơi ấm.
 
 Mà cái mặt anh ta lúc mỉa người ta thì rõ thật. Cô nói rồi, bảo sửa đi. Chắc chẳng sửa đâu.
 
