@@ -172,11 +172,15 @@ Tờ thứ tư anh đọc chậm hơn.
 
 Mắt anh đi xuống phần quyền lợi trước.
 
-Mức lương cao hơn cả hai công ty kia. Không nhiều, nhưng cao hơn. Thầy Bình đã gạch chân con số ấy bằng bút bi đỏ. Dòng tiếp theo: *Xem xét ký hợp đồng chính thức sau mười hai tháng nếu đạt yêu cầu đánh giá.* Trong cả tập giấy, đây là tờ duy nhất có một cái mốc như thế. Và dòng cuối, chữ nhỏ nhất: *Phụ cấp ăn trưa.*
+Mức lương cao hơn cả hai công ty kia. Không nhiều, nhưng cao hơn. Thầy Bình đã gạch chân con số ấy bằng bút bi đỏ. Dòng tiếp theo: *Xem xét ký hợp đồng chính thức sau mười hai tháng nếu đạt yêu cầu đánh giá.* Trong cả tập giấy, đây là tờ duy nhất có một cái mốc như thế. Và hai dòng cuối, chữ nhỏ nhất: *Phụ cấp ăn trưa.* *Cà phê hạt, sữa, trà tại pantry: miễn phí.*
 
-Anh đọc lại dòng cuối hai lần.
+Anh đọc lại hai dòng cuối hai lần.
 
 Năm nay, nhóm chat của khoa toàn tin công ty này cắt giảm, công ty kia đóng băng tuyển dụng, anh chị khóa trên nộp ba mươi hồ sơ được hai cuộc gọi. Thực tập không lương được gọi là "cơ hội". Thực tập có lương được gọi là "may". Còn một nghiên cứu viên part-time, sinh viên năm ba, được phụ cấp ăn trưa, thì nghe như chuyện của một thời nào đó trước khi anh vào đại học, kể lại ở bàn nhậu của các anh khóa trên.
+
+Dòng còn lại anh tính bằng cốc. Ba năm nay, sáng nào có tiết một, anh mua một cốc cà phê đen đá ở quán cóc cổng trường, mười lăm nghìn, món rẻ nhất trên tấm bìa các-tông. Đá nhiều hơn cà phê. Đắng nghét, uống để mở mắt chứ không phải để uống. Cà phê sữa mười tám. Ba nghìn nhân hai mươi buổi một tháng là hai bát bún riêu, và ba năm nay anh chọn hai bát bún riêu.
+
+*Cà phê hạt, sữa.* Có nghĩa là có sữa.
 
 Rồi anh mới nhìn cái logo.
 

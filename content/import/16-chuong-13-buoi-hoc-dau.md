@@ -799,6 +799,8 @@ Anh dừng ở điều khoản sở hữu trí tuệ lâu hơn các điều khá
 
 Phụ cấp ăn trưa anh đọc lại hai lần.
 
+Phụ lục phúc lợi, trang mười ba, có một dòng anh đã tìm từ lúc mở tập: *Khu pantry các tầng: cà phê hạt, máy pha tự động, sữa đặc, kem béo, trà các loại. Miễn phí cho nhân viên.* Anh tìm chỗ ghi số lượng tối đa. Không có.
+
 Anh ký. Mười bốn chữ ký, mỗi trang một chữ ký nhỏ ở góc dưới bên phải, trang cuối một chữ ký đầy đủ. Nét chữ đều. Tay không run.
 
 "Rồi, xong." Chị nhân sự thu tập hợp đồng, gõ vào máy tính. "Em ngồi đây đợi chị một chút, chị in thẻ cho em."

@@ -282,6 +282,24 @@ Ly cười cho đến khi cửa kính đóng lại. Rồi cái cười rơi kh�
 
 ---
 
+Năm giờ kém mười lăm, anh đi tìm nhà vệ sinh và tìm thấy pantry trước.
+
+Một hốc nhỏ ở góc hành lang, không có cửa. Tủ lạnh hai cánh, lò vi sóng, bồn rửa có giá úp cốc. Trên mặt đá, ngay lối vào, là một cái máy pha cà phê màu bạc to bằng cái lò vi sóng, phễu hạt ở trên, hạt nâu bóng đầy hai phần ba. Bên cạnh là một hũ thủy tinh hạt dự phòng, ba hộp sữa đặc xếp hàng (một hộp đã khui, cắm đứng một cái thìa), một túi kem béo pha cà phê to bằng cái gối. Trên nóc tủ lạnh, riêng một góc, là hộp cà phê hòa tan ba trong một dán băng dính ghi *Hạnh*. Tờ A4 ép plastic dán trên tường: *Pantry dùng chung. Vui lòng rửa cốc sau khi dùng. Hết đồ báo chị Ngân.* Không có dòng nào ghi giá.
+
+Anh đứng nhìn tờ giấy lâu hơn cần thiết.
+
+Anh bấm máy. Nó kêu rè rè một lúc như đang nghĩ, rồi xay, rồi chảy. Anh múc sữa đặc. Một thìa. Nhìn màu. Thìa thứ hai. Thìa thứ ba, đầy, sữa kéo thành sợi từ mép thìa xuống. Thêm một thìa kem béo cho chắc. Cà phê chuyển sang màu bìa sách cũ.
+
+Ngăn kéo dưới kệ có một hộp giấy đầy gói trà hòa tan, trà chanh và trà đào, in hình quả đào bóng loáng. Anh cầm một gói lên, lật mặt sau. *Không đường. Ít calo.* Anh đặt nó lại vào hộp, đúng chỗ cũ.
+
+Trà không đường thì trà đá bà cụ còn hơn. Anh thích đường. Cà phê đắng là cà phê của người phải tính tiền.
+
+Anh uống một ngụm ngay ở bồn rửa. Ngọt khé cổ. Ngọt như một thứ cuối cùng cũng không phải nhẩm.
+
+Lúc về bàn, anh đi ngang cái ngăn kéo có cốc *ĐẠT*, không mở. Anh dùng cốc giấy.
+
+---
+
 Năm giờ, chị Ngân thêm anh vào nhóm chat của lab. *Thiên Nhãn – Cả nhà ❤️.*
 
 Tin chào mừng của sếp hiện lên ngay: *Chào mừng Thuyên, nhân tố đột phá của Thiên Nhãn 🔥🔥🔥*. Chị Hạnh thả tim đầu tiên.
