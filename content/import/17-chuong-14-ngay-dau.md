@@ -288,6 +288,10 @@ Một hốc nhỏ ở góc hành lang, không có cửa. Tủ lạnh hai cánh, 
 
 Anh đứng nhìn tờ giấy lâu hơn cần thiết.
 
+Hôm qua, ở cái quán hồng trên Xuân Diệu do cái bánh bao nhân hồng nào đấy chọn, anh đã mở menu và nhẩm. Cốc cà phê đen là món rẻ nhất, bốn mươi lăm nghìn, một bát rưỡi bún riêu. Đen, đá, đắng nghét, không ai hỏi anh có muốn thêm sữa không vì thêm sữa là món khác, giá khác. Anh uống hết, đến cả nước đá tan ở đáy, vì bốn mươi lăm nghìn.
+
+Ở đây cà phê xay bằng máy. Có sữa đặc. Có kem béo. Không có menu.
+
 Anh bấm máy. Nó kêu rè rè một lúc như đang nghĩ, rồi xay, rồi chảy. Anh múc sữa đặc. Một thìa. Nhìn màu. Thìa thứ hai. Thìa thứ ba, đầy, sữa kéo thành sợi từ mép thìa xuống. Thêm một thìa kem béo cho chắc. Cà phê chuyển sang màu bìa sách cũ.
 
 Ngăn kéo dưới kệ có một hộp giấy đầy gói trà hòa tan, trà chanh và trà đào, in hình quả đào bóng loáng. Anh cầm một gói lên, lật mặt sau. *Không đường. Ít calo.* Anh đặt nó lại vào hộp, đúng chỗ cũ.
