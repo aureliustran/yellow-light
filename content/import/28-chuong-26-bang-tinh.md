@@ -2,7 +2,7 @@
 
 Oct 8, 2026 · @aureliustran.
 
-*Chủ nhật, 14/2/2027 (mùng Chín Tết)*
+*Chủ nhật, mùng Chín Tết, 14/2/2027*
 
 Đường link đến lúc mười một giờ đêm mùng Sáu, khi tầng mười bảy chỉ còn mình anh và tiếng quạt tản nhiệt của dãy máy chủ trong phòng kính. Dưới gầm bàn là túi giò nem mẹ buộc bằng ba lớp dây chun, gửi theo xe khách chú Lộc, anh ra bến Nước Ngầm nhận từ sáng mùng Hai. Trên đầu là dãy đèn trần, tắt hết, chỉ chừa đúng một ô trên bàn anh.
 
@@ -639,6 +639,24 @@ Phía trên mặt bàn, cô vẫn cắt vịt, vẫn ngồi thẳng. Chỉ có k
 "Em say từ trong tưởng tượng."
 
 Cô cười, cúi xuống, và bàn chân dưới gầm bàn trượt xuống, nằm yên trên mu giày anh. Như một con mèo vừa chơi xong, nằm xuống chỗ ấm.
+
+Rồi cô ngẩng lên, và không cúi xuống nữa.
+
+Qua ngọn nến trong cốc thủy tinh, mắt cô tìm mắt anh, đứng lại ở đó. Không nói gì. Anh nhìn lại. Đây là trò anh chưa thua bao giờ: ở sân bóng, ở phòng thi, ở mâm cơm nhà, người kia luôn là người nhìn đi trước.
+
+Năm giây. Ánh nến lay một cái, hắt hai đốm vàng nhỏ vào đáy mắt cô, như hai ngọn đèn bật trong một căn phòng tối.
+
+Mười giây. Anh thấy mình bắt đầu đếm, và biết đếm là đã thua một nửa.
+
+Cô vẫn nhìn. Chớp mắt một lần, chậm, chậm như người cố tình cho đối phương thấy mình còn thừa thời gian.
+
+Anh nhìn xuống miếng vịt.
+
+"Hiệp này chị thắng," cô nói, cắt tiếp.
+
+"Chị gian. Chị ngồi sau nến."
+
+"Chủ tọa có quyền chọn ánh sáng."
 
 ---
 

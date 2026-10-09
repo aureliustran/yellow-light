@@ -126,7 +126,19 @@ Thứ Năm, quán trà trên Đặng Thai Mai đã tháo hết cành đào giả
 
 "Thế chương hai?"
 
-"Chương hai là tại sao người ta để nó chạy." Cô rút một mẩu giấy nhớ ra khỏi sách, nhìn, gắn lại. "Em học quản trị kinh doanh. Môn này năm nhất bắt buộc. Em không thích nhưng em thuộc."
+"Chương hai là tại sao người ta để nó chạy." Cô rút một mẩu giấy nhớ ra khỏi sách, nheo mắt nhìn, rồi lục túi lấy ra một cái kính, đeo vào.
+
+Anh chưa thấy cô đeo kính bao giờ.
+
+Gọng tròn, to, kim loại mảnh màu vàng nhạt, to đến mức gần chiếm nửa khuôn mặt. Nó trượt xuống ngay, chậm, đến tận đầu cái mũi nhỏ của cô, rồi đậu lại ở đó như một con chim đậu nhầm cành. Cô không đẩy lên. Cô cúi xuống mẩu giấy nhớ, nhìn qua mép trên của gọng, và vì cúi như thế mà anh thấy hàng mi cô, lần đầu tiên rõ đến từng sợi. Dài. Cong. Mỗi lần cô chớp, đầu mi quệt nhẹ vào mặt trong tròng kính.
+
+Rồi cô ngẩng lên. Sau hai tròng kính tròn là hai con mắt cũng tròn, đen láy như hai quả anh đào chín, to đến mức vô lý. Cái kính phóng chúng lên thêm một chút, hoặc không, anh không chắc.
+
+Mắt gì mà to vcl.
+
+Anh nhìn xuống cuốn sách. Đọc người chứ có phải đọc lông mi đâu.
+
+"Em học quản trị kinh doanh. Môn này năm nhất bắt buộc. Em không thích nhưng em thuộc."
 
 "Sao học quản trị kinh doanh?"
 
@@ -137,6 +149,16 @@ Thứ Năm, quán trà trên Đặng Thai Mai đã tháo hết cành đào giả
 "Giỏi." Cô gật. "Giỏi nhất nhà."
 
 Anh lật cuốn sách. Không định để ý câu ấy, và không để ý. Một người anh trai giỏi nhất nhà, bảo em gái học gì cũng được miễn là về, nghe như một trăm người anh trai khác ở Hà Nội. Anh lật đến chương *Money*.
+
+Chữ mực tím bên lề nhỏ như kiến bò. Anh lục túi áo bomber, lấy cái kính nửa gọng anh vẫn đeo trước màn hình ở tầng mười bảy, đeo vào.
+
+"Anh đeo kính trông như đang chán đời," Nhi nói.
+
+"Thầy đang chill."
+
+"Chill là chán đời có thêm tiếng Anh."
+
+Anh không cãi. Cô nhìn anh thêm một lúc, như còn nửa câu chưa nói, rồi thôi, cúi xuống đẩy cái kính tròn lên sống mũi. Nó lại trượt xuống.
 
 Bên lề trang đầu chương, chữ mực tím, nghiêng, tròn:
 

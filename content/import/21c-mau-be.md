@@ -152,6 +152,30 @@ Hôm sau cái ghế bàn trang điểm không còn ở trong phòng bố mẹ n�
 
 ---
 
+*Hè 2016, chín tuổi*
+
+Bố sang London họp với một quỹ đầu tư, mang theo cả nhà. Anh trai đi cùng bố vào mọi cuộc họp, áo sơ mi trắng, cặp da mới, năm ấy anh hai mươi, lần đầu được bố cho ngồi cạnh trong phòng họp. Nhi và mẹ ở khách sạn, đi bộ quanh mấy con phố có những tòa nhà gạch đỏ cao bốn tầng, cửa sổ nào cũng có chậu hoa.
+
+Tối thứ ba, cả nhà ăn ở một nhà hàng nhỏ gần khách sạn. Người phục vụ là một bác tóc bạc, nói nhanh, đọc món đặc biệt của ngày như đọc thơ. Bố gật đầu. Mẹ gật đầu. Anh trai đang nghe điện thoại ngoài cửa.
+
+Bác phục vụ chờ.
+
+"Bố muốn ăn cá," Nhi nói, bằng tiếng Việt. Rồi quay sang bác phục vụ, bằng tiếng Anh, chậm, từng chữ như xếp từng viên gạch đồ chơi: "[[en: My father would like the fish. My mother would like the soup. No onion for me, please. || Bố cháu muốn ăn cá. Mẹ cháu muốn ăn súp. Cháu không ăn hành ạ.]]"
+
+Bác phục vụ cười, ghi lại, hỏi thêm cá muốn nướng hay áp chảo. Nhi dịch cho bố. Bố bảo nướng. Nhi nói lại. Bác hỏi bố có uống vang không. Nhi dịch. Bố nghĩ một lúc, rồi quay sang cô, chờ cô nói hết câu hỏi, chờ thật, không cắt ngang, không nhìn điện thoại.
+
+Cả bữa ăn hôm ấy, bố nghe cô nói hết mọi câu. Vì bố cần.
+
+Cuối bữa, một người bạn của bố ghé qua bàn, dẫn theo con gái, một chị mười sáu tuổi mặc áo khoác dạ, nói tiếng Việt lơ lớ. "Con bé nhà tôi gửi sang đây từ năm lớp mười," người ấy nói, cười. "Học xong cái bằng cho đẹp, về là vừa tuổi lấy chồng."
+
+Bố gật gù, như nghe một kế hoạch kinh doanh hợp lý.
+
+Nhi nhìn chị ấy. Chị ấy cười đúng lúc, chào đúng kiểu, rồi đứng sau lưng bố mình, im lặng suốt phần còn lại, như một món đồ được mang ra cho khách xem.
+
+*Gửi sang.* Người ta gửi một cái thùng hàng. Người ta gửi một lá thư. Cô chín tuổi, và không biết vì sao chữ ấy cứ đứng lại trong đầu cô suốt chuyến bay về.
+
+---
+
 *Năm 2017, mười tuổi*
 
 Bàn ăn dài, sáu ghế mỗi bên, bốn người ngồi một đầu.
@@ -244,7 +268,7 @@ Bài trả về được mười điểm. Mực đỏ. Bên lề, chữ cô giá
 
 Cùng một ý. Cùng một cô giáo.
 
-Nhi nhìn con số mười rất lâu. Hôm ấy cô giáo cười, bảo cô ngồi xuống. Hôm nay cô giáo cho mười. Một trong hai cái là thật. Cô không biết cái nào. Bố cô vừa tài trợ cho trường một dãy bàn ghế mới, có gắn biển đồng tên tập đoàn ở chân mỗi cái bàn. Cái bàn cô đang ngồi cũng có.
+Nhi nhìn con số mười rất lâu. Hôm ấy cô giáo cười, bảo cô ngồi xuống. Hôm nay cô giáo cho mười. Một trong hai cái là thật. Cô không biết cái nào. Trường của tập đoàn vừa thay một dãy bàn ghế mới, có gắn biển đồng tên tập đoàn ở chân mỗi cái bàn. Cái bàn cô đang ngồi cũng có.
 
 Cô gấp bài thu hoạch làm tư, nhét vào ngăn bàn, cạnh cái biển đồng.
 

@@ -354,6 +354,16 @@ Xóa. Gõ lại.
 
 Phiên chiều kéo dài đến năm giờ. Anh không còn phải trình bày, chỉ ngồi ở bàn chuyên gia, thỉnh thoảng được hỏi một câu kỹ thuật. Anh trả lời ngắn, và lần nào cũng thấy, ở rìa tầm mắt, ngón trỏ của cô gõ nhẹ lên mặt bàn, như đang chấm điểm.
 
+Có một lần, giữa hai lượt phát biểu, anh ngẩng lên đúng lúc cô ngẩng lên. Qua cả chiều dài phòng họp chữ U, qua hai mươi sáu tấm biển tên và cái máy chiếu đang kêu ù ù, mắt anh chạm mắt cô.
+
+Anh quen thắng những cuộc nhìn nhau. Người kia thường nhìn đi trước: một cái liếc xuống, một cái chớp mắt, một bàn tay đưa lên vén tóc. Anh chờ cái đó.
+
+Cô không nhìn đi. Cô nhìn anh như nhìn một đại biểu đang giữ micro quá giờ, kiên nhẫn, không vội, chờ xem anh định nói gì.
+
+Anh không định nói gì. Anh nhìn xuống tờ giấy trước mặt, viết một chữ không cần viết.
+
+Lúc ngẩng lên lần nữa, cô đã quay sang đại biểu Pháp. Nhưng khóe môi cô, đỏ, viền như kẻ thước, nhích lên một chút. Một chút thôi, đủ để anh biết hiệp vừa rồi đã được ghi vào biên bản, và người thua là ai.
+
 Cuối ngày có chụp ảnh tập thể trước sảnh. Thợ ảnh là một cậu năm hai, đeo hai cái máy ảnh chéo người, hét: "Ủy ban AI tập trung nào! Chuyên gia đứng giữa đi anh ơi!"
 
 Anh bị đẩy vào giữa hàng. Hai mươi sáu đại biểu xếp quanh. Ba người chủ tọa đứng ở hàng đầu, bên trái anh một chút.

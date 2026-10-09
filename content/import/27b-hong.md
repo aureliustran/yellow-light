@@ -104,7 +104,15 @@ Một lúc sau, khi bố cúi xuống bát canh, anh trai quay sang cô.
 
 Ba chữ. Cô ăn hết bát cơm ấy, không gắp thêm món gì, vẫn thấy no.
 
-Ở lớp, cô chủ nhiệm đi một vòng hỏi nguyện vọng. Đến lượt cô, cô nói RMIT. Thằng bàn sau cười khẽ: "Nhà cậu thì cần gì thi." Cô không quay lại. Cô mở ngăn bàn, rút cuốn sách luyện thi bìa xanh ra, đặt lên mặt bàn, mở trang đầu.
+Ở lớp, cô chủ nhiệm đi một vòng hỏi nguyện vọng. Đến lượt cô, cô nói RMIT. Thằng bàn sau cười khẽ: "Nhà cậu thì cần gì thi." Cô không quay lại.
+
+Cả lớp đang làm hồ sơ. Từ năm lớp mười, cô cố vấn hướng nghiệp của trường gửi về mỗi tháng một danh sách trường Anh, Mỹ, Úc, kèm lịch thi SAT, lịch phỏng vấn, lịch hội thảo du học ở khách sạn. Bảng tin cuối hành lang dán kín ảnh các anh chị khóa trên có thư nhận, cười, cầm thư trước ngực. Trường quốc tế của tập đoàn tự hào vì cái bảng ấy. Năm nào bố cũng xem số đứa đi du học như xem doanh thu một quý.
+
+Cô cố vấn gọi cô lên phòng hai lần. Lần nào cũng mở sẵn một trang web trường ở London. "Với hồ sơ của em, với gia đình em…"
+
+"Em ở lại," Nhi nói, hai lần, cùng một câu.
+
+Cô không giải thích. Cô không biết giải thích thế nào cho một người chưa từng đứng sau lưng bố mình ở một nhà hàng London, nghe người lớn nói chữ *gửi sang*. Cô mở ngăn bàn, rút cuốn sách luyện thi bìa xanh ra, đặt lên mặt bàn, mở trang đầu.
 
 Năm lớp mười hai, cô ngồi bàn thứ tư dãy cửa sổ, và gần như không nói gì cả năm. Đấy là năm cô nói ít nhất trong đời.
 
@@ -241,6 +249,10 @@ Tháng 5/2025 – thi thử IELTS lần ba được 6.5. Không ai biết mình 
 :::
 
 Ngắn quá. Cô định thêm *mình tự học, mình tự đặt xe*, rồi thôi. Đúng là đúng.
+
+Cô không đăng ký thi lần thứ tư. Speaking của cô bảy rưỡi từ lâu, chỉ có Writing kéo xuống. Cô biết chỉ cần ba tháng nữa là lên được bảy, bảy rưỡi. Cô không làm.
+
+Sáu rưỡi là đủ để ở lại. Bảy rưỡi là đủ để bị gửi đi.
 
 ---
 

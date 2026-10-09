@@ -28,7 +28,7 @@ Bác gật gù như hiểu lắm, rồi chuyển sang chuyện rau muống dạo
 
 ---
 
-Tháng mười, Hà Nội vào mùa hoa sữa. Đầu ngõ có hai cây, mùi nồng như ai lỡ tay đổ nguyên lọ nước hoa rẻ tiền ra đường. Năm nào cũng có người viết status khen mùi này lãng mạn. Thuyên chưa bao giờ hiểu nổi. Anh đội mũ, cài quai, phóng qua thật nhanh.
+Tháng mười, Hà Nội vào mùa hoa sữa. Đầu ngõ có hai cây, mùi nồng như ai lỡ tay đổ nguyên lọ nước hoa rẻ tiền ra đường. Năm nào cũng có người viết status khen mùi này lãng mạn. Thuyên chưa bao giờ hiểu nổi. Chiếc Wave đời cũ là của Vũ. Hai tuần nay, từ hôm hết hạn thực tập, sáng nào ném xong anh cũng lấy chìa khóa treo ở chòi bảo vệ, chạy ra đầu phố mua hai ổ bánh mì: một cho mình, một trả công cho chủ xe đang ngủ nướng. Anh đội mũ, cài quai, phóng qua thật nhanh.
 
 Ba lô nhẹ hơn mọi khi. Không có laptop công ty. Ngăn trước vẫn còn sợi dây đeo thẻ màu xanh. Thẻ thì trả rồi, dây thì quên. Hai tuần nay sáng nào anh cũng sờ thấy nó lúc lấy ví, và sáng nào cũng tự nhủ để mai vứt.
 
@@ -63,7 +63,7 @@ Thuyên trả lời Ngọc Anh:
 
 Rầm. Không to lắm. Giống tiếng ai đặt cái thùng nhựa xuống hơi mạnh tay.
 
-Xe anh nhích lên một chút. Anh chống chân xuống, quay đầu lại.
+Xe anh nhích lên một chút. Anh chống chân xuống, quay đầu lại. Xe của Vũ. Trầy thì đền ba tháng trà đá.
 
 Đằng sau là một chiếc Vespa màu hồng phấn, loại mới cứng còn bóng loáng, đầu xe tì vào biển số xe anh. Trên xe là một cô gái mặc áo len cardigan hồng nhạt, váy trắng, mũ bảo hiểm cũng hồng, có hai cái tai mèo nhỏ trên đỉnh. Móc chìa khóa treo một con gấu bông to gần bằng nắm tay. Cả người cô như vừa bước ra từ một cái ảnh quảng cáo nước hoa trẻ em.
 

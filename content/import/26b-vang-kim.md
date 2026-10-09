@@ -89,6 +89,12 @@ Chuyến bay về Hà Nội, cô ngồi ghế cửa sổ một mình. Dưới c�
 
 Và nếu không ai nói thật với mình, thì mình sẽ là người nói thật.
 
+Tháng bảy, trường gửi cả khối mười sang Singapore hai tuần học hè, ở ký túc xá của một trường nội trú, học chung với những đứa đến từ Jakarta, Seoul, Manila. Không ai ở đó biết bố cô là ai. Không ai biết cái logo trên cổ áo đồng phục cô là của nhà cô.
+
+Ngày đầu, cô kể một câu đùa ở bàn ăn. Không ai cười. Ngày thứ ba, cô kể một câu khác, một đứa con gái Hàn bật cười đến sặc nước cam, và Nhi đứng im, nhìn đứa ấy cười, như nhìn một thứ hiếm. Đứa ấy không được bao villa. Đứa ấy không cần nghe cô nói. Đứa ấy cười vì câu đùa buồn cười.
+
+Hai tuần ấy cô nói tiếng Anh nhiều hơn cả năm cộng lại, vì phải nói thì mới có bạn. Về Hà Nội, cô vẫn bật radar. Nhưng cô biết, lần đầu tiên, tiếng cười thật nghe thế nào.
+
 ---
 
 Tuần đầu lớp mười, một bạn nữ mới ngồi cạnh khen cái túi của cô. Khen ba lần trong một buổi sáng.

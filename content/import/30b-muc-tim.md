@@ -107,6 +107,26 @@ Anh đến muộn hai phút, áo khoác bomber, tóc hơi ướt như vừa gộ
 
 "Thầy không đùa với giáo trình."
 
+Cô rút một mẩu giấy nhớ ra xem. Chữ năm nhất nhỏ như kiến, phải lấy kính ra đeo. Cái kính gọng tròn to mua năm lớp mười hai vì thấy giống kính của một cô diễn viên Hàn, đeo lên mới biết mặt mình nhỏ hơn mặt cô diễn viên ấy một cỡ, nên nó lúc nào cũng trượt xuống đầu mũi. Cô ghét nó. Cô chỉ đeo ở nhà.
+
+Anh nhìn cô. Một giây. Hai giây. Mắt anh dừng ở đâu đó quanh mắt cô, không phải ở cái kính.
+
+Cô đẩy kính lên. Nó trượt xuống.
+
+Rồi anh lục túi áo bomber, lấy ra một cái kính, đeo vào.
+
+Cô chưa thấy anh đeo kính bao giờ. Kính nửa gọng, viền đen mảnh chỉ chạy ở nửa trên, nửa dưới tròng để trần. Đeo lên, mặt anh khác hẳn. Trông vừa như chẳng nghĩ gì, vừa như đang nghĩ rất nhiều, như người ngồi chờ xe buýt mà tiện tay giải xong một bài toán. Mí mắt anh sụp xuống một nửa, nhìn trang sách bằng nửa con mắt. Không, một con mắt rưỡi: một con nhìn chữ, nửa con còn lại nhìn đâu đó rất xa, chỗ không ai theo kịp. Cái kiểu nhìn đời không vội, không cần ai hiểu. Chill vcl.
+
+"Anh đeo kính trông như đang chán đời," cô nói.
+
+"Thầy đang chill."
+
+"Chill là chán đời có thêm tiếng Anh."
+
+Anh không cãi. Khóe miệng anh nhích lên một chút, ngay dưới cái viền kính chỉ có nửa trên.
+
+Cô không nói nửa câu còn lại. Nửa câu còn lại là: trông anh như người biết hết mà lười nói. Hơi đáng ghét. Đẹp trai đến mức đáng ghét. Cô cất nửa câu ấy vào chỗ cô vẫn cất những câu không nói ra.
+
 Anh lật sách. Cô ngồi im, làm như đang đọc lại đề bài hôm trước, mắt không rời những ngón tay dài của anh đang lật từng trang. Trang mười hai, anh không dừng. Trang bốn mươi mốt, anh không dừng. Vệt băng xóa trắng trôi qua dưới ngón tay anh như một vệt mây.
 
 Trang chín mươi sáu, anh dừng. Rồi bật cười thành tiếng, cái cười làm cả bàn bên quay sang.

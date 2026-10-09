@@ -32,7 +32,7 @@ Cô nhìn cái cây rất lâu. Cây gì cô không biết. Cô chưa bao giờ 
 
 *Tháng 11/2019, lớp bảy*
 
-Hội trường tầng một có một tấm biển đồng mới gắn bên cạnh cửa phòng máy, sáng đến mức soi được mặt. Trên tấm biển có tên tập đoàn nhà cô, chữ khắc sâu, và một dòng nhỏ hơn: *Trân trọng cảm ơn nhà tài trợ*. Hôm khánh thành, bố đến cắt băng, Nhi đứng cạnh cầm bó hoa, cô hiệu trưởng cười suốt.
+Hội trường tầng một có một tấm biển đồng mới gắn bên cạnh cửa phòng máy, sáng đến mức soi được mặt. Trên tấm biển có tên tập đoàn nhà cô, chữ khắc sâu, và một dòng nhỏ hơn: *Phòng máy do tập đoàn đầu tư*. Trường cũng là của tập đoàn, từ cái cổng sắt sơn trắng đến cái logo trên cổ áo đồng phục, nên tấm biển ấy giống như nhà mình tự gắn biển cảm ơn nhà mình. Hôm khánh thành, bố đến cắt băng, Nhi đứng cạnh cầm bó hoa, cô hiệu trưởng cười suốt.
 
 Một tháng sau, cũng ở hội trường ấy, Nhi đứng trên bục, cầm micro, nói bốn phút về đề *Điều em muốn người lớn nghe*.
 
@@ -58,7 +58,7 @@ Cô nghe thấy tên mình trước khi thấy người.
 
 "…bài con bé Thảo hay hơn hẳn, chị ngồi chấm chị biết."
 
-"Thì ai chẳng biết." Giọng thứ hai Nhi nhận ra, là cô Hằng dạy Văn, cô Hằng phụ trách đội tuyển, hay cho cả đội đọc thơ ngoài giờ. "Phòng máy vừa khánh thành tháng trước. Ai dám để con bé nhà ấy giải Nhì."
+"Thì ai chẳng biết." Giọng thứ hai Nhi nhận ra, là cô Hằng dạy Văn, cô Hằng phụ trách đội tuyển, hay cho cả đội đọc thơ ngoài giờ. "Trường nhà con bé ấy. Phòng máy cũng nhà con bé ấy, vừa cắt băng tháng trước. Ai dám để nó giải Nhì."
 
 Tiếng cười ngắn. Tiếng nắp bình nước vặn lại.
 
@@ -78,7 +78,7 @@ Nhi lau mũi bằng tay áo. "Cô Hằng. Dạy Văn."
 
 "Ừ." Bố cầm điện thoại lên, chưa bấm. "Con đi rửa mặt đi. Mai còn đi học."
 
-Lúc cô ra đến cửa, bố đã áp điện thoại lên tai. Cô không nghe được bố nói gì. Cô chỉ nghe tiếng bố gọi một cái tên, giọng nhẹ, như gọi một người quen lâu năm.
+Lúc cô ra đến cửa, bố đã áp điện thoại lên tai. Cô không nghe được bố nói gì. Cô chỉ nghe tiếng bố gọi một cái tên, giọng nhẹ, như gọi một người quen lâu năm. Mãi sau này cô mới biết đó là tên chú phụ trách khối giáo dục của tập đoàn, người ký quyết định cho mọi giáo viên ở trường cô.
 
 ---
 
@@ -206,7 +206,7 @@ Cô đi thẳng đến cuối hành lang, rẽ vào cầu thang, mới thấy ch
 
 ---
 
-Tháng một, sau học kỳ một, Thảo chuyển trường. Giữa năm lớp chín, năm thi vào mười, năm không ai chuyển trường nếu còn chịu được.
+Tháng một, sau học kỳ một, Thảo chuyển trường. Giữa năm lớp chín, năm thi vào mười, năm không ai chuyển trường nếu còn chịu được. Học bổng toàn phần không đi theo người. Thảo đi, học bổng ở lại, chờ người khác.
 
 Nhi biết qua nhóm *7A 🎀*, lên lớp tám rồi vẫn giữ cái tên ấy. Một anh khối chín chép lại câu cô chủ nhiệm 9A đọc đầu giờ: *Bạn Thảo chuyển trường theo nguyện vọng gia đình.* Rồi một tin nhắn: *bye học bổng 👋*. Ai đó thả tim. Ai đó thả mặt cười.
 
@@ -264,7 +264,7 @@ Sáng ra, trên khớp ngón cái có một vết hằn hình bán nguyệt, tí
 
 Một tuần sau, trang *Confessions* của trường đăng một bài.
 
-Bài không có tên ai. Chỉ có *một bạn nữ con nhà tài trợ*, *một bạn học bổng*, *sticker*, *phải chuyển trường giữa năm lớp chín*. Ký tên *một người từng im lặng*. Đến chín giờ tối, bài có ba trăm bình luận. Có người gắn thẻ cô. Có người gắn thẻ Minh Thư. Có người viết *ai cũng biết là ai mà*. Có người thả mặt cười vào tất cả.
+Bài không có tên ai. Chỉ có *một bạn nữ con nhà chủ trường*, *một bạn học bổng*, *sticker*, *phải chuyển trường giữa năm lớp chín*. Ký tên *một người từng im lặng*. Đến chín giờ tối, bài có ba trăm bình luận. Có người gắn thẻ cô. Có người gắn thẻ Minh Thư. Có người viết *ai cũng biết là ai mà*. Có người thả mặt cười vào tất cả.
 
 Nhi đọc hết ba trăm bình luận, từ trên xuống dưới, như làm bài tập. Không trả lời cái nào.
 
