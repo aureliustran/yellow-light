@@ -1,0 +1,64 @@
+name: Import chapters
+
+# Manual only. Runs `npm run import` on GitHub's servers using the same two
+# secrets as the daily backup, for when you can't run it on your own computer.
+# Actions → Import chapters → Run workflow.
+# Before importing it saves a fresh backup of every chapter in backup/chapters/.
+on:
+  workflow_dispatch:
+    inputs:
+      overwrite:
+        description: 'Replace chapters that already exist (--overwrite). Edits made in /admin are lost.'
+        type: boolean
+        default: false
+      reorder:
+        description: 'Put every chapter in file-name order (--reorder)'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    env:
+      PUBLIC_SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check secrets
+        run: |
+          if [ -z "$PUBLIC_SUPABASE_URL" ] || [ -z "$SUPABASE_SERVICE_ROLE_KEY" ]; then
+            echo "::error::Add SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY under Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install
+        run: npm ci --no-audit --no-fund
+
+      - name: Back up current chapters first
+        run: |
+          node scripts/export-chapters.mjs
+          git config user.name "den-vang-backup[bot]"
+          git config user.email "den-vang-backup@users.noreply.github.com"
+          git add backup
+          if git diff --cached --quiet; then
+            echo "Backup already up to date."
+          else
+            git commit -m "Backup chapters before import $(date -u +%F)"
+            git push
+          fi
+
+      - name: Import
+        run: |
+          ARGS=""
+          if [ "${{ inputs.overwrite }}" = "true" ]; then ARGS="$ARGS --overwrite"; fi
+          if [ "${{ inputs.reorder }}" = "true" ]; then ARGS="$ARGS --reorder"; fi
+          npm run import -- $ARGS
