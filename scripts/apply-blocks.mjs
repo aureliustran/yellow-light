@@ -35,7 +35,7 @@ const SHEET_HEAD = ['Giờ', 'Hạng mục', 'Địa điểm', 'Trang phục', '
 const SHEET_NAME = 'Valentine_2027_v4_FINAL';
 
 const BLOCKS = {
-  '28-chuong-26-bang-tinh.md': [
+  '29-chuong-26-bang-tinh.md': [
     {
       type: 'sheet',
       title: SHEET_NAME,
@@ -76,7 +76,7 @@ const BLOCKS = {
       marks: ['x'],
     },
   ],
-  '29-chuong-27-nhiet-ke.md': [
+  '30-chuong-27-nhiet-ke.md': [
     {
       type: 'note',
       title: '',
@@ -103,7 +103,7 @@ const BLOCKS = {
       rows: [['Một đêm không ngủ', '1', '', '', 'Thông qua cả ba trang. Không cần đọc.']],
     },
   ],
-  '30-chuong-28-giao-trinh.md': [
+  '31-chuong-28-giao-trinh.md': [
     {
       // a note in the margin of the textbook, not a text message
       type: 'replace',
@@ -123,7 +123,7 @@ const BLOCKS = {
       to: 'Anh gõ commit cuối cùng.\n\n:::ide Terminal\n$ git commit -m "wip: time is relative. money isn\'t. giving up."\n$ git push\n:::\n\nĐóng laptop.',
     },
   ],
-  '31-chuong-29-cham-xanh.md': [
+  '32-chuong-29-cham-xanh.md': [
     {
       type: 'editor',
       title: 'as_the_crow_flies_v0.md',
@@ -202,7 +202,7 @@ const INTERLUDES = {
     opening('*hẹn 3h. đến 2h30.'),
     { type: 'phone', from: '*thảo không uống cà phê.*', to: '*(bạn ấy bảo có bốn mươi phút.' },
   ],
-  '30b-muc-tim.md': [
+  '31b-muc-tim.md': [
     opening('*anh ấy mượn sách kinh tế.'),
     // written in the pink notebook, in purple ink
     { type: 'note', ink: true, from: '*kinh tế thì học sinh là chuyên gia.*', to: '*kinh tế thì học sinh là chuyên gia.*' },
