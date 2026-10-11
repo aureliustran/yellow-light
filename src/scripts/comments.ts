@@ -40,9 +40,11 @@ export function initComments(section: HTMLElement, chapterId: string, onCount?: 
   };
 
   async function load() {
+    // `profiles!user_id`: comment_reports links comments and profiles a second way,
+    // so a bare `profiles(...)` is ambiguous and the API answers 300 with no data.
     const { data, error } = await sb
       .from('comments')
-      .select('id, body, created_at, parent_id, user_id, status, hidden_reason, edited_at, profiles(display_name, anon_no, is_admin)')
+      .select('id, body, created_at, parent_id, user_id, status, hidden_reason, edited_at, profiles!user_id(display_name, anon_no, is_admin)')
       .eq('chapter_id', chapterId)
       .order('created_at', { ascending: true });
     if (error) {

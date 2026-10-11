@@ -35,7 +35,7 @@ const [views24h, viewsPrev7d, newUsers] = await Promise.all([
 // Reports that still need a decision: the comment is visible (hiding or restoring clears them).
 const rep = await sb
   .from('comment_reports')
-  .select('reason, comments!inner(body, status, profiles(display_name), chapters(title))')
+  .select('reason, comments!inner(body, status, profiles!user_id(display_name), chapters(title))')
   .eq('comments.status', 'visible')
   .order('created_at', { ascending: false })
   .limit(50);
@@ -49,7 +49,7 @@ const reports = (rep.data ?? []).map((r) => ({
 
 const com = await sb
   .from('comments')
-  .select('body, profiles(display_name), chapters(title)')
+  .select('body, profiles!user_id(display_name), chapters(title)')
   .eq('status', 'visible')
   .gte('created_at', since24)
   .order('created_at', { ascending: false })
