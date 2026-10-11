@@ -11,6 +11,7 @@ interface CommentRow {
   user_id: string;
   status: 'visible' | 'hidden';
   hidden_reason: string | null;
+  edited_at: string | null;
   profiles: { display_name: string; anon_no: number; is_admin: boolean } | null;
 }
 
@@ -41,7 +42,7 @@ export function initComments(section: HTMLElement, chapterId: string, onCount?: 
   async function load() {
     const { data, error } = await sb
       .from('comments')
-      .select('id, body, created_at, parent_id, user_id, status, hidden_reason, profiles(display_name, anon_no, is_admin)')
+      .select('id, body, created_at, parent_id, user_id, status, hidden_reason, edited_at, profiles(display_name, anon_no, is_admin)')
       .eq('chapter_id', chapterId)
       .order('created_at', { ascending: true });
     if (error) {
@@ -94,6 +95,31 @@ export function initComments(section: HTMLElement, chapterId: string, onCount?: 
     else await load();
   }
 
+  // Admin only: edit the text in place. The database logs the old text.
+  function editForm(c: CommentRow, bodyEl: HTMLElement) {
+    const ta = h('textarea', { 'aria-label': 'Sửa bình luận', maxlength: String(MAX), rows: '3' });
+    ta.value = c.body;
+    const save = h('button', { type: 'submit', class: 'btn primary small', text: 'Lưu' });
+    const cancel = h('button', { type: 'button', class: 'btn ghost small', text: 'Hủy' });
+    const f = h('form', { class: 'comment-form reply-form' }, ta, h('div', { class: 'row' }, h('span'), h('div', { style: 'display:flex;gap:8px' }, cancel, save)));
+    cancel.addEventListener('click', () => f.replaceWith(bodyEl));
+    f.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const body = ta.value.trim();
+      if (!body) return;
+      save.disabled = true;
+      const { error } = await sb.rpc('admin_edit_comment', { p_id: c.id, p_body: body });
+      if (error) {
+        toast('Không sửa được: ' + error.message);
+        save.disabled = false;
+        return;
+      }
+      await load();
+    });
+    bodyEl.replaceWith(f);
+    ta.focus();
+  }
+
   function avatarFor(c: CommentRow): HTMLElement {
     // Always the generated avatar: nobody's Google photo is shown.
     return h('img', { class: 'avatar', src: defaultAvatar(c.profiles?.anon_no ?? 0), alt: '' });
@@ -125,7 +151,7 @@ export function initComments(section: HTMLElement, chapterId: string, onCount?: 
     const main = h(
       'div',
       { class: 'comment-main' },
-      h('div', { class: 'comment-who' }, h('strong', { text: c.profiles?.display_name ?? 'Ẩn danh' }), c.profiles?.anon_no ? h('span', { class: 'anon-no', text: anonTag(c.profiles.anon_no) }) : null, c.profiles?.is_admin ? h('span', { class: 'badge-author', text: 'Tác giả' }) : null, h('time', { datetime: c.created_at, text: timeAgo(c.created_at) })),
+      h('div', { class: 'comment-who' }, h('strong', { text: c.profiles?.display_name ?? 'Ẩn danh' }), c.profiles?.anon_no ? h('span', { class: 'anon-no', text: anonTag(c.profiles.anon_no) }) : null, c.profiles?.is_admin ? h('span', { class: 'badge-author', text: 'Tác giả' }) : null, h('time', { datetime: c.created_at, text: timeAgo(c.created_at) }), c.edited_at ? h('span', { class: 'anon-no', text: '· đã chỉnh sửa' }) : null),
       c.status === 'hidden' &&
         h('div', { class: 'comment-hidden-note', text: me?.isAdmin ? `Đang bị ẩn${c.hidden_reason ? ': ' + c.hidden_reason : ''}` : 'Bình luận của bạn đang bị ẩn khỏi người đọc khác.' }),
       h('div', { class: `comment-body${c.status === 'hidden' ? ' is-hidden' : ''}`, text: c.body }),
@@ -140,6 +166,9 @@ export function initComments(section: HTMLElement, chapterId: string, onCount?: 
       actions.append(rep);
     }
     if (me?.isAdmin) {
+      const editBtn = h('button', { type: 'button', class: 'del', text: 'Sửa' });
+      editBtn.addEventListener('click', () => editForm(c, main.querySelector<HTMLElement>('.comment-body')!));
+      actions.append(editBtn);
       const hide = h('button', { type: 'button', class: 'del', text: c.status === 'hidden' ? 'Khôi phục' : 'Ẩn' });
       hide.addEventListener('click', () => setHidden(c.id, c.status !== 'hidden'));
       actions.append(hide);

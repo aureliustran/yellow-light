@@ -77,7 +77,27 @@ export function initModeration(): void {
         const { error } = await sb.rpc('admin_ban_user', { p_user: c.user_id, p_days: days, p_reason: reason });
         await after(days === 0 ? 'Đã gỡ cấm.' : 'Đã cấm.')(error);
       });
-      actions.append(hide, del, banBtn);
+      const bodyEl = h('div', { class: 'mod-body', text: c.body });
+      const editBtn = h('button', { type: 'button', class: 'btn small', text: 'Sửa' });
+      editBtn.addEventListener('click', () => {
+        const ta = h('textarea', { 'aria-label': 'Sửa bình luận', maxlength: '2000', rows: '4' });
+        ta.value = c.body;
+        const save = h('button', { type: 'submit', class: 'btn primary small', text: 'Lưu' });
+        const cancel = h('button', { type: 'button', class: 'btn small ghost', text: 'Hủy' });
+        const f = h('form', { class: 'mod-edit' }, ta, h('div', { class: 'mod-actions' }, save, cancel));
+        cancel.addEventListener('click', () => f.replaceWith(bodyEl));
+        f.addEventListener('submit', async (e) => {
+          e.preventDefault();
+          if (!ta.value.trim()) return;
+          save.disabled = true;
+          const { error } = await sb.rpc('admin_edit_comment', { p_id: c.id, p_body: ta.value });
+          if (error) save.disabled = false;
+          await after('Đã sửa bình luận.')(error);
+        });
+        bodyEl.replaceWith(f);
+        ta.focus();
+      });
+      actions.append(editBtn, hide, del, banBtn);
       if (c.author !== 'Ẩn danh') {
         const resetName = h('button', { type: 'button', class: 'btn small', text: 'Đặt lại tên' });
         resetName.addEventListener('click', async () => {
@@ -111,7 +131,7 @@ export function initModeration(): void {
           c.report_count > 0 ? h('span', { class: 'pill flag', text: `${formatNumber(Number(c.report_count))} báo cáo` }) : null,
           ban ? h('span', { class: 'pill flag', text: ban }) : null,
         ),
-        h('div', { class: 'mod-body', text: c.body }),
+        bodyEl,
         c.report_reasons?.length ? h('div', { class: 'mod-reasons', text: 'Lý do báo cáo: ' + c.report_reasons.join(' · ') }) : null,
         c.status === 'hidden' && c.hidden_reason ? h('div', { class: 'mod-reasons', text: 'Lý do ẩn: ' + c.hidden_reason }) : null,
         actions,
