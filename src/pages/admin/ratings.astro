@@ -1,0 +1,44 @@
+---
+import Base from '../../layouts/Base.astro';
+import Brand from '../../components/Brand.astro';
+import Account from '../../components/Account.astro';
+import ThemeToggle from '../../components/ThemeToggle.astro';
+import AdminNav from '../../components/AdminNav.astro';
+import AdminGate from '../../components/AdminGate.astro';
+import '../../styles/admin.css';
+export const prerender = true;
+---
+<Base title="Quản lý đánh giá" noindex>
+  <header class="site-header bar">
+    <div style="display:flex;align-items:center;gap:16px"><Brand small /><span class="eyebrow">Quản lý</span><AdminNav current="ratings" /></div>
+    <div class="reader-tools"><a class="btn ghost small" href="/">Xem trang</a><ThemeToggle /><Account /></div>
+  </header>
+
+  <main class="admin">
+    <AdminGate title="Quản lý đánh giá" />
+
+    <div class="stats" data-admin hidden>
+      <div class="pane-head">
+        <h1>Đánh giá</h1>
+        <button type="button" class="btn small" data-flag-toggle aria-pressed="false">Chỉ hiện đáng ngờ</button>
+      </div>
+      <p class="meta-small">Mới nhất trước. Một người có thể chấm mỗi chương một lần và chấm cả truyện một lần. "Đáng ngờ" chỉ là gợi ý: kiểm tra trước khi xóa điểm hoặc cấm.</p>
+
+      <div class="table-scroll">
+        <table class="data-table ratings-table">
+          <thead>
+            <tr><th scope="col">Người chấm</th><th scope="col">Chương</th><th scope="col">Điểm</th><th scope="col">Khi nào</th><th scope="col">Ghi chú</th><th scope="col"><span class="visually-hidden">Thao tác</span></th></tr>
+          </thead>
+          <tbody data-rating-rows></tbody>
+        </table>
+      </div>
+      <p class="empty-note" data-rating-empty hidden></p>
+      <button type="button" class="btn" data-more hidden>Tải thêm</button>
+    </div>
+  </main>
+</Base>
+
+<script>
+  import { initRatingsAdmin } from '../../scripts/ratings-admin';
+  initRatingsAdmin();
+</script>

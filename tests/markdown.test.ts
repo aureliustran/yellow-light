@@ -158,9 +158,9 @@ test('slugify Vietnamese titles', () => {
 
 test('chapter numbers skip interludes and follow order', () => {
   const rows = [
-    { id: 'c', kind: 'chapter', position: 3 },
-    { id: 'i', kind: 'interlude', position: 2 },
-    { id: 'a', kind: 'chapter', position: 1 },
+    { id: 'c', kind: 'chapter', position: 3, title: 'Chương ba' },
+    { id: 'i', kind: 'interlude', position: 2, title: 'Hồng phấn' },
+    { id: 'a', kind: 'chapter', position: 1, title: 'Đèn vàng' },
   ] as any[];
   const n = withNumbers(rows);
   assert.deepEqual(n.map((x) => [x.id, x.number]), [['a', 1], ['i', null], ['c', 2]]);

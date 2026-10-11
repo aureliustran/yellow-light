@@ -24,6 +24,7 @@ export const story = {
   footer: [
     '© Aurelius · Truyện hư cấu: nhân vật, tổ chức và sự kiện đều do tác giả tưởng tượng.',
     'Cũng đăng tại Truyện nhà Ong.',
+    'Trang ghi lại số liệu đọc ẩn danh (loại thiết bị, trình duyệt, nguồn truy cập, mức độ đã đọc). Không lưu địa chỉ IP, không dùng cookie theo dõi.',
   ],
 };
 

@@ -1,5 +1,6 @@
 import { browserClient, isConfigured } from '../lib/supabase';
 import { onMe, openLogin, type Me } from './auth';
+import { trackView } from './analytics';
 import { initComments } from './comments';
 import { initTranslations } from './translations';
 import { attachStars, formatNumber, store, toast } from './ui';
@@ -66,13 +67,9 @@ export function initReader(): void {
     );
   };
 
-  // Count a view once per browser per chapter
+  // Anonymous reading statistics (device type, how far the reader got), then refresh the counters
   (async () => {
-    const key = `dv:v:${id}`;
-    if (!store(key)) {
-      const { error } = await sb.rpc('record_view', { p_chapter: id });
-      if (!error) store(key, '1');
-    }
+    await trackView(sb, id, prose);
     loadStats();
   })();
 

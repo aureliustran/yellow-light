@@ -1,6 +1,7 @@
 import { isConfigured } from '../lib/supabase';
-import { onMe, signIn, signOut, openLogin } from './auth';
-import { toast } from './ui';
+import { anonTag } from '../lib/avatar';
+import { onMe, setDisplayName, signIn, signOut, openLogin, type Me } from './auth';
+import { store, toast } from './ui';
 
 export function initAccount(): void {
   const root = document.querySelector<HTMLElement>('[data-account]');
@@ -10,8 +11,9 @@ export function initAccount(): void {
   const loginBtn = root.querySelector<HTMLButtonElement>('[data-login-open]')!;
   const toggle = root.querySelector<HTMLButtonElement>('[data-account-toggle]')!;
   const menu = root.querySelector<HTMLElement>('[data-account-menu]')!;
-  const avatar = root.querySelector<HTMLElement>('[data-account-avatar]')!;
   const name = root.querySelector<HTMLElement>('[data-account-name]')!;
+  const number = root.querySelector<HTMLElement>('[data-account-no]')!;
+  const renameDialog = document.getElementById('rename-dialog') as HTMLDialogElement | null;
   const adminLink = root.querySelector<HTMLElement>('[data-account-admin]')!;
   const dialog = document.getElementById('login-dialog') as HTMLDialogElement | null;
 
@@ -61,7 +63,50 @@ export function initAccount(): void {
     toast('Đã đăng xuất.');
   });
 
+  // Rename dialog
+  let current: Me | null = null;
+  const renameForm = renameDialog?.querySelector<HTMLFormElement>('[data-rename-form]');
+  const renameInput = renameForm?.querySelector<HTMLInputElement>('input');
+  const renameError = renameDialog?.querySelector<HTMLElement>('[data-rename-error]');
+  const showRenameError = (msg: string | null) => {
+    if (!renameError) return;
+    renameError.hidden = !msg;
+    renameError.textContent = msg ?? '';
+  };
+  const openRename = () => {
+    if (!current || !renameDialog || !renameInput) return;
+    closeMenu();
+    renameDialog.querySelector<HTMLElement>('[data-rename-no]')!.textContent = anonTag(current.anonNo);
+    renameInput.value = current.name;
+    showRenameError(null);
+    renameDialog.showModal();
+    renameInput.select();
+  };
+  root.querySelector('[data-rename-open]')?.addEventListener('click', openRename);
+  renameDialog?.querySelector('[data-rename-close]')?.addEventListener('click', () => renameDialog.close());
+  renameDialog?.addEventListener('click', (e) => {
+    if (e.target === renameDialog) renameDialog.close();
+  });
+  renameForm?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const value = renameInput!.value.replace(/\s+/g, ' ').trim();
+    if (value.length < 2 || value.length > 30) return showRenameError('Tên hiển thị phải dài 2–30 ký tự.');
+    const submit = renameForm.querySelector<HTMLButtonElement>('button[type="submit"]')!;
+    submit.disabled = true;
+    showRenameError(null);
+    try {
+      const saved = await setDisplayName(value);
+      renameDialog!.close();
+      toast(`Đã đổi tên thành "${saved}".`);
+    } catch (err) {
+      showRenameError((err as Error).message || 'Không đổi được tên.');
+    } finally {
+      submit.disabled = false;
+    }
+  });
+
   onMe((me) => {
+    current = me;
     loginBtn.hidden = !!me;
     toggle.hidden = !me;
     adminLink.hidden = !me?.isAdmin;
@@ -70,17 +115,18 @@ export function initAccount(): void {
       return;
     }
     name.textContent = me.name;
-    toggle.setAttribute('aria-label', `Tài khoản: ${me.name}`);
-    if (me.avatar) {
-      const img = document.createElement('img');
-      img.src = me.avatar;
-      img.alt = '';
-      img.referrerPolicy = 'no-referrer';
-      img.className = 'avatar';
-      toggle.replaceChildren(img);
-    } else {
-      avatar.textContent = me.name.trim().charAt(0).toUpperCase();
-      toggle.replaceChildren(avatar);
+    number.textContent = anonTag(me.anonNo);
+    toggle.setAttribute('aria-label', `Tài khoản: ${me.name} ${anonTag(me.anonNo)}`.trim());
+    const img = document.createElement('img');
+    img.src = me.avatar;
+    img.alt = '';
+    img.className = 'avatar';
+    toggle.replaceChildren(img);
+
+    // Once per browser: tell new readers they are anonymous and can pick a name.
+    if (me.name === 'Ẩn danh' && !me.isAdmin && !store('dv:anon-hint')) {
+      store('dv:anon-hint', '1');
+      toast(`Bạn đang ẩn danh với số ${anonTag(me.anonNo)}. Đổi tên ở menu tài khoản nếu muốn.`);
     }
   });
 }

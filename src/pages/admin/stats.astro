@@ -1,0 +1,76 @@
+---
+import Base from '../../layouts/Base.astro';
+import Brand from '../../components/Brand.astro';
+import Account from '../../components/Account.astro';
+import ThemeToggle from '../../components/ThemeToggle.astro';
+import AdminNav from '../../components/AdminNav.astro';
+import AdminGate from '../../components/AdminGate.astro';
+import '../../styles/admin.css';
+export const prerender = true;
+---
+<Base title="Thống kê" noindex>
+  <header class="site-header bar">
+    <div style="display:flex;align-items:center;gap:16px"><Brand small /><span class="eyebrow">Quản lý</span><AdminNav current="stats" /></div>
+    <div class="reader-tools"><a class="btn ghost small" href="/">Xem trang</a><ThemeToggle /><Account /></div>
+  </header>
+
+  <main class="admin">
+    <AdminGate title="Thống kê" />
+
+    <div class="stats" data-admin hidden>
+      <div class="pane-head">
+        <h1>Thống kê</h1>
+        <div class="range" data-ranges role="group" aria-label="Khoảng thời gian">
+          <button type="button" class="btn small" data-days="7" aria-pressed="false">7 ngày</button>
+          <button type="button" class="btn small" data-days="30" aria-pressed="true">30 ngày</button>
+          <button type="button" class="btn small" data-days="90" aria-pressed="false">90 ngày</button>
+        </div>
+      </div>
+      <p class="meta-small">Giờ Việt Nam. Người đọc được đếm theo trình duyệt (mã ngẫu nhiên, không lưu địa chỉ IP). Bot và lượt tải lại trong 12 giờ không được tính.</p>
+
+      <div class="stat-cards" data-cards aria-live="polite"></div>
+
+      <section class="panel">
+        <h2>Lượt đọc mỗi ngày</h2>
+        <div data-chart-days></div>
+        <div data-table-days></div>
+      </section>
+
+      <div class="panel-grid">
+        <section class="panel"><h2>Thiết bị</h2><div data-device></div></section>
+        <section class="panel"><h2>Trình duyệt</h2><div data-browser></div></section>
+        <section class="panel"><h2>Hệ điều hành</h2><div data-os></div></section>
+        <section class="panel"><h2>Nguồn truy cập</h2><div data-referrer></div></section>
+      </div>
+
+      <section class="panel">
+        <h2>Giờ đọc nhiều nhất</h2>
+        <p class="meta-small">Tham khảo để chọn giờ hẹn đăng chương.</p>
+        <div data-chart-hours></div>
+      </section>
+
+      <section class="panel">
+        <h2>Từng chương</h2>
+        <p class="meta-small">"Đọc đến" là mức cuộn trung bình, "Đọc hết" là tỉ lệ người cuộn tới cuối chương. Số liệu chi tiết giữ 90 ngày gần nhất.</p>
+        <div class="table-scroll">
+          <table class="data-table chapters-table">
+            <thead>
+              <tr><th scope="col">Chương</th><th scope="col">Lượt đọc</th><th scope="col">Người đọc</th><th scope="col">Đọc đến</th><th scope="col">Đọc hết</th><th scope="col">Điểm</th><th scope="col">Bình luận</th></tr>
+            </thead>
+            <tbody data-chapter-rows></tbody>
+          </table>
+        </div>
+      </section>
+
+      <div class="panel-grid">
+        <section class="panel"><h2>Điểm các chương</h2><div data-rating-chapters></div></section>
+        <section class="panel"><h2>Điểm cả truyện</h2><div data-rating-story></div></section>
+      </div>
+    </div>
+  </main>
+</Base>
+
+<script>
+  import { initStats } from '../../scripts/stats';
+  initStats();
+</script>

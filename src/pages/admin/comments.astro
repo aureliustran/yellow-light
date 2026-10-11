@@ -1,0 +1,52 @@
+---
+import Base from '../../layouts/Base.astro';
+import Brand from '../../components/Brand.astro';
+import Account from '../../components/Account.astro';
+import ThemeToggle from '../../components/ThemeToggle.astro';
+import AdminNav from '../../components/AdminNav.astro';
+import AdminGate from '../../components/AdminGate.astro';
+import '../../styles/admin.css';
+export const prerender = true;
+---
+<Base title="Quản lý bình luận" noindex>
+  <header class="site-header bar">
+    <div style="display:flex;align-items:center;gap:16px"><Brand small /><span class="eyebrow">Quản lý</span><AdminNav current="comments" /></div>
+    <div class="reader-tools"><a class="btn ghost small" href="/">Xem trang</a><ThemeToggle /><Account /></div>
+  </header>
+
+  <main class="admin">
+    <AdminGate title="Quản lý bình luận" />
+
+    <div class="stats" data-admin hidden>
+      <div class="pane-head">
+        <h1>Bình luận</h1>
+        <div class="range" data-filters role="group" aria-label="Lọc bình luận">
+          <button type="button" class="btn small" data-filter="reported" aria-pressed="true">Bị báo cáo</button>
+          <button type="button" class="btn small" data-filter="all" aria-pressed="false">Tất cả</button>
+          <button type="button" class="btn small" data-filter="hidden" aria-pressed="false">Đã ẩn</button>
+        </div>
+      </div>
+      <p class="meta-small">Bình luận hiện ra ngay khi được gửi. Ẩn là có thể khôi phục: người khác không thấy, tác giả vẫn thấy kèm thông báo. Xóa là mất hẳn. Bạn luôn thấy mọi bình luận ở đây.</p>
+
+      <ul class="mod-list" data-comment-queue></ul>
+      <p class="empty-note" data-queue-empty hidden></p>
+      <button type="button" class="btn" data-more hidden>Tải thêm</button>
+
+      <section class="panel">
+        <h2>Từ không được dùng trong bình luận</h2>
+        <p class="meta-small">Bình luận có từ này sẽ bị từ chối khi gửi. Viết chữ thường. Với tiếng Việt, thêm cả dạng có dấu và không dấu nếu cần.</p>
+        <form class="term-form" data-term-form>
+          <label class="visually-hidden" for="term">Từ cần chặn</label>
+          <input id="term" type="text" maxlength="60" autocomplete="off" placeholder="Thêm một từ…" />
+          <button type="submit" class="btn small primary">Thêm</button>
+        </form>
+        <ul class="chips" data-terms></ul>
+      </section>
+    </div>
+  </main>
+</Base>
+
+<script>
+  import { initModeration } from '../../scripts/moderation';
+  initModeration();
+</script>

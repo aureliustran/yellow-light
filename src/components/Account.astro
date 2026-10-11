@@ -7,7 +7,8 @@ import { authProviders } from '../config';
     <span class="avatar" data-account-avatar></span>
   </button>
   <div class="account-menu" data-account-menu hidden>
-    <span class="meta-small" style="padding: 8px 12px" data-account-name></span>
+    <span class="meta-small account-who" data-account-who><strong data-account-name></strong> <span class="anon-no" data-account-no></span></span>
+    <button type="button" data-rename-open>Đổi tên hiển thị</button>
     <a href="/admin" data-account-admin hidden>Quản lý chương</a>
     <button type="button" data-logout>Đăng xuất</button>
   </div>
@@ -27,6 +28,19 @@ import { authProviders } from '../config';
       </button>
     ))}
   </div>
+</dialog>
+
+<dialog class="login" id="rename-dialog" aria-labelledby="rename-title">
+  <button type="button" class="icon-btn close" data-rename-close aria-label="Đóng">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" /></svg>
+  </button>
+  <h2 id="rename-title">Tên hiển thị</h2>
+  <p>Bình luận của bạn hiện với tên này và số ẩn danh <strong data-rename-no></strong>. Không cần dùng tên Gmail.</p>
+  <form class="rename" data-rename-form novalidate>
+    <input type="text" name="name" minlength="2" maxlength="30" autocomplete="off" required aria-label="Tên hiển thị" aria-describedby="rename-error" />
+    <p class="rename-error" id="rename-error" data-rename-error role="alert" hidden></p>
+    <button type="submit" class="btn primary big">Lưu</button>
+  </form>
 </dialog>
 
 <script>

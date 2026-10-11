@@ -1,0 +1,18 @@
+---
+// Links between the admin pages. `current` marks the page you are on.
+interface Props {
+  current: 'chapters' | 'stats' | 'comments' | 'ratings';
+}
+const { current } = Astro.props;
+const items = [
+  { id: 'chapters', href: '/admin', label: 'Chương' },
+  { id: 'stats', href: '/admin/stats', label: 'Thống kê' },
+  { id: 'comments', href: '/admin/comments', label: 'Bình luận' },
+  { id: 'ratings', href: '/admin/ratings', label: 'Đánh giá' },
+];
+---
+<nav class="admin-nav" aria-label="Trang quản lý">
+  {items.map((i) => (
+    <a href={i.href} aria-current={i.id === current ? 'page' : undefined}>{i.label}</a>
+  ))}
+</nav>

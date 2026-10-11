@@ -1,3 +1,4 @@
+import { anonTag, defaultAvatar } from '../lib/avatar';
 import { browserClient } from '../lib/supabase';
 import { onMe, openLogin, type Me } from './auth';
 import { h, timeAgo, toast } from './ui';
@@ -8,7 +9,9 @@ interface CommentRow {
   created_at: string;
   parent_id: string | null;
   user_id: string;
-  profiles: { display_name: string; avatar_url: string | null } | null;
+  status: 'visible' | 'hidden';
+  hidden_reason: string | null;
+  profiles: { display_name: string; anon_no: number; is_admin: boolean } | null;
 }
 
 const MAX = 2000;
@@ -38,7 +41,7 @@ export function initComments(section: HTMLElement, chapterId: string, onCount?: 
   async function load() {
     const { data, error } = await sb
       .from('comments')
-      .select('id, body, created_at, parent_id, user_id, profiles(display_name, avatar_url)')
+      .select('id, body, created_at, parent_id, user_id, status, hidden_reason, profiles(display_name, anon_no, is_admin)')
       .eq('chapter_id', chapterId)
       .order('created_at', { ascending: true });
     if (error) {
@@ -71,14 +74,29 @@ export function initComments(section: HTMLElement, chapterId: string, onCount?: 
     else await load();
   }
 
-  function avatarFor(c: CommentRow): HTMLElement {
-    const url = c.profiles?.avatar_url;
-    if (url) {
-      const img = h('img', { class: 'avatar', src: url, alt: '' });
-      img.referrerPolicy = 'no-referrer';
-      return img;
+  async function report(id: string) {
+    if (!me) return openLogin('Đăng nhập để báo cáo bình luận.');
+    const reason = prompt('Lý do báo cáo (không bắt buộc):');
+    if (reason === null) return;
+    const { error } = await sb.from('comment_reports').insert({ comment_id: id, reason: reason.trim().slice(0, 300) });
+    if (!error) return toast('Đã gửi báo cáo. Cảm ơn bạn.');
+    toast(error.code === '23505' ? 'Bạn đã báo cáo bình luận này rồi.' : 'Không gửi được báo cáo: ' + error.message);
+  }
+
+  async function setHidden(id: string, hidden: boolean) {
+    let reason: string | null = null;
+    if (hidden) {
+      reason = prompt('Lý do ẩn (chỉ tác giả bình luận và bạn thấy):');
+      if (reason === null) return;
     }
-    return h('span', { class: 'avatar', 'aria-hidden': 'true', text: (c.profiles?.display_name ?? '?').trim().charAt(0).toUpperCase() });
+    const { error } = await sb.rpc('admin_set_comment_status', { p_id: id, p_status: hidden ? 'hidden' : 'visible', p_reason: reason });
+    if (error) toast('Không đổi được trạng thái: ' + error.message);
+    else await load();
+  }
+
+  function avatarFor(c: CommentRow): HTMLElement {
+    // Always the generated avatar: nobody's Google photo is shown.
+    return h('img', { class: 'avatar', src: defaultAvatar(c.profiles?.anon_no ?? 0), alt: '' });
   }
 
   function replyForm(threadId: string, after: HTMLElement) {
@@ -107,13 +125,25 @@ export function initComments(section: HTMLElement, chapterId: string, onCount?: 
     const main = h(
       'div',
       { class: 'comment-main' },
-      h('div', { class: 'comment-who' }, h('strong', { text: c.profiles?.display_name ?? 'Độc giả' }), h('time', { datetime: c.created_at, text: timeAgo(c.created_at) })),
-      h('div', { class: 'comment-body', text: c.body }),
+      h('div', { class: 'comment-who' }, h('strong', { text: c.profiles?.display_name ?? 'Ẩn danh' }), c.profiles?.anon_no ? h('span', { class: 'anon-no', text: anonTag(c.profiles.anon_no) }) : null, c.profiles?.is_admin ? h('span', { class: 'badge-author', text: 'Tác giả' }) : null, h('time', { datetime: c.created_at, text: timeAgo(c.created_at) })),
+      c.status === 'hidden' &&
+        h('div', { class: 'comment-hidden-note', text: me?.isAdmin ? `Đang bị ẩn${c.hidden_reason ? ': ' + c.hidden_reason : ''}` : 'Bình luận của bạn đang bị ẩn khỏi người đọc khác.' }),
+      h('div', { class: `comment-body${c.status === 'hidden' ? ' is-hidden' : ''}`, text: c.body }),
       actions,
     );
     const reply = h('button', { type: 'button', text: 'Trả lời' });
     reply.addEventListener('click', () => (me ? replyForm(threadId, actions) : openLogin('Đăng nhập để trả lời bình luận.')));
     actions.append(reply);
+    if (c.status === 'visible' && me && me.user.id !== c.user_id) {
+      const rep = h('button', { type: 'button', class: 'del', text: 'Báo cáo' });
+      rep.addEventListener('click', () => report(c.id));
+      actions.append(rep);
+    }
+    if (me?.isAdmin) {
+      const hide = h('button', { type: 'button', class: 'del', text: c.status === 'hidden' ? 'Khôi phục' : 'Ẩn' });
+      hide.addEventListener('click', () => setHidden(c.id, c.status !== 'hidden'));
+      actions.append(hide);
+    }
     if (me && (me.user.id === c.user_id || me.isAdmin)) {
       const del = h('button', { type: 'button', class: 'del', text: 'Xóa' });
       del.addEventListener('click', () => remove(c.id));
@@ -141,7 +171,7 @@ export function initComments(section: HTMLElement, chapterId: string, onCount?: 
       }),
     );
     empty.hidden = rows.length > 0;
-    onCount?.(rows.length);
+    onCount?.(rows.filter((r) => r.status !== 'hidden').length);
   }
 
   textarea.maxLength = MAX;

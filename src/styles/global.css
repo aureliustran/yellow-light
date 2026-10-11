@@ -233,6 +233,24 @@ dialog.login p { margin: 0 0 20px; color: var(--ink-2); font-size: 15px; }
 dialog.login .providers { display: flex; flex-direction: column; gap: 10px; }
 dialog.login .close { position: absolute; top: 12px; right: 12px; }
 
+/* Anonymous number, author badge and rename dialog */
+.anon-no { font-size: 13px; font-weight: 400; color: var(--ink-2); font-variant-numeric: tabular-nums; }
+.account-who { display: flex; align-items: baseline; gap: 8px; padding: 8px 12px; }
+.account-who strong { font-weight: 600; color: var(--ink); overflow-wrap: anywhere; }
+.badge-author {
+  font-size: 11px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase;
+  padding: 2px 8px; border-radius: 999px; align-self: center;
+  background: color-mix(in srgb, var(--amber) 22%, transparent); color: var(--amber-ink);
+}
+dialog.login form.rename { display: flex; flex-direction: column; gap: 12px; }
+dialog.login form.rename input {
+  width: 100%; box-sizing: border-box; min-height: 48px; padding: 0 14px; border-radius: 12px;
+  border: 1px solid var(--line-strong); background: var(--card); color: var(--ink); font: inherit; font-size: 17px;
+}
+dialog.login form.rename input:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; }
+dialog.login p.rename-error { margin: 0; font-size: 14px; font-weight: 600; color: var(--danger); }
+dialog.login p.rename-error[hidden] { display: none; }
+
 /* Stars */
 .stars { display: flex; gap: 4px; }
 .star-btn { width: 48px; height: 48px; padding: 0; border: none; background: none; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: transform .12s; }
@@ -596,3 +614,7 @@ dialog.login .close { position: absolute; top: 12px; right: 12px; }
 .message-page { padding-block: 120px; text-align: center; }
 .message-page h1 { font-family: var(--serif); font-weight: 300; font-size: 56px; margin: 0 0 12px; }
 .message-page p { color: var(--ink-2); font-size: 17px; margin: 0 0 28px; }
+
+/* Hidden comments (visible only to their author and the admin) */
+.comment-hidden-note { font-size: 13px; font-weight: 600; color: var(--danger); }
+.comment-body.is-hidden { opacity: .6; }

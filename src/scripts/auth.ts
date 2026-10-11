@@ -1,12 +1,14 @@
 // Login state for the browser. Reading never needs this; it is only used for
 // comments, ratings and the admin page.
 import type { User } from '@supabase/supabase-js';
+import { defaultAvatar } from '../lib/avatar';
 import { browserClient, isConfigured } from '../lib/supabase';
 
 export interface Me {
   user: User;
   name: string;
-  avatar: string | null;
+  anonNo: number; // permanent anonymous number, shown as #1042
+  avatar: string; // generated from the number, never the Google photo
   isAdmin: boolean;
 }
 
@@ -18,13 +20,15 @@ async function loadProfile(user: User | null): Promise<Me | null> {
   if (!user) return null;
   const { data } = await browserClient()
     .from('profiles')
-    .select('display_name, avatar_url, is_admin')
+    .select('display_name, anon_no, is_admin')
     .eq('id', user.id)
     .maybeSingle();
+  const anonNo = Number(data?.anon_no ?? 0);
   return {
     user,
-    name: data?.display_name ?? user.user_metadata?.full_name ?? user.email ?? 'Độc giả',
-    avatar: data?.avatar_url ?? user.user_metadata?.avatar_url ?? null,
+    name: data?.display_name ?? 'Ẩn danh',
+    anonNo,
+    avatar: defaultAvatar(anonNo),
     isAdmin: !!data?.is_admin,
   };
 }
@@ -68,6 +72,24 @@ export async function signIn(provider: 'google'): Promise<void> {
     options: { redirectTo: `${location.origin}/auth/callback?next=${encodeURIComponent(next)}` },
   });
   if (error) throw error;
+}
+
+// Change the name shown next to comments. The database checks length, reserved
+// names, blocked words and a short cool-down, and its message is shown as is.
+export async function setDisplayName(name: string): Promise<string> {
+  const current = await getMe();
+  if (!current) throw new Error('Bạn chưa đăng nhập.');
+  const { data, error } = await browserClient()
+    .from('profiles')
+    .update({ display_name: name })
+    .eq('id', current.user.id)
+    .select('display_name')
+    .single();
+  if (error) throw error;
+  me = { ...current, name: data.display_name };
+  ready = Promise.resolve(me);
+  listeners.forEach((f) => f(me));
+  return data.display_name;
 }
 
 export async function signOut(): Promise<void> {

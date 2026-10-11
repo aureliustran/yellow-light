@@ -1,0 +1,27 @@
+name: Roll up reading stats
+
+# Every Monday 03:30 Vietnam time: fold reading events older than 90 days into
+# daily totals, so the free Supabase database stays small. The totals shown in
+# /admin/stats stay correct; only the per-visit detail is dropped.
+on:
+  schedule:
+    - cron: '30 20 * * 0'
+  workflow_dispatch:
+
+jobs:
+  rollup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Roll up
+        env:
+          URL: ${{ secrets.SUPABASE_URL }}
+          KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          if [ -z "$URL" ] || [ -z "$KEY" ]; then
+            echo "::warning::Add SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY under Settings → Secrets and variables → Actions."
+            exit 0
+          fi
+          curl --fail-with-body -sS -X POST "$URL/rest/v1/rpc/rollup_view_events" \
+            -H "apikey: $KEY" -H "Authorization: Bearer $KEY" \
+            -H "Content-Type: application/json" -d '{"p_keep_days": 90}'
+          echo

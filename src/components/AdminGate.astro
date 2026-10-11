@@ -1,0 +1,22 @@
+---
+// The "checking / not signed in / not allowed" screens shared by the admin pages.
+interface Props {
+  title: string;
+}
+const { title } = Astro.props;
+---
+<section class="gate" data-gate="loading"><p>Đang kiểm tra quyền…</p></section>
+<section class="gate" data-gate="config" hidden>
+  <h1>Chưa kết nối</h1>
+  <p>Trang chưa được kết nối với Supabase. Kiểm tra PUBLIC_SUPABASE_URL và PUBLIC_SUPABASE_ANON_KEY.</p>
+</section>
+<section class="gate" data-gate="signedout" hidden>
+  <h1>{title}</h1>
+  <p>Đăng nhập bằng tài khoản quản trị để tiếp tục.</p>
+  <button type="button" class="btn primary big" data-gate-login>Đăng nhập</button>
+</section>
+<section class="gate" data-gate="denied" hidden>
+  <h1>Không có quyền</h1>
+  <p>Tài khoản <strong data-gate-email></strong> chưa phải quản trị viên. Nếu đây là tài khoản của bạn, chạy lệnh sau trong Supabase → SQL Editor rồi tải lại trang:</p>
+  <pre data-gate-sql></pre>
+</section>

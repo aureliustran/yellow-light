@@ -3,13 +3,14 @@ import Base from '../../layouts/Base.astro';
 import Brand from '../../components/Brand.astro';
 import Account from '../../components/Account.astro';
 import ThemeToggle from '../../components/ThemeToggle.astro';
+import AdminNav from '../../components/AdminNav.astro';
 import { interludeColors } from '../../config';
 import '../../styles/admin.css';
 export const prerender = true;
 ---
 <Base title="Quản lý chương" noindex>
   <header class="site-header bar">
-    <div style="display:flex;align-items:center;gap:16px"><Brand small /><span class="eyebrow">Quản lý</span></div>
+    <div style="display:flex;align-items:center;gap:16px"><Brand small /><span class="eyebrow">Quản lý</span><AdminNav current="chapters" /></div>
     <div class="reader-tools"><a class="btn ghost small" href="/">Xem trang</a><ThemeToggle /><Account /></div>
   </header>
 
