@@ -12,7 +12,7 @@ Thuyên nhìn xuống ngực. Sợi dây xanh vẫn lủng lẳng trên cái áo
 
 "Quên tháo. Mày đến muộn mười phút, tao đứng đây ném một mình, quên luôn cả cái thẻ."
 
-"Quên tháo từ thứ Hai đến Chủ nhật?"
+"Quên tháo từ thứ Hai đến Chủ nhật á? Vãi."
 
 "Ừ. Quên liên tục."
 
@@ -36,13 +36,13 @@ Vũ chửi một câu, rồi giật bóng, lên rổ. Trượt. Bóng nảy ra p
 
 "Quả cuối," anh nói. "Về tắm."
 
-"Mới sáu giờ hai mươi."
+"Ơ, mới sáu giờ hai mươi mà."
 
 "Quả cuối vào thì phải về. Luật của tao."
 
-"Luật ngu."
+"Luật ngu vcl."
 
-"Luật vẫn là luật."
+"Luật vẫn là luật. Luật của người ghi được quả cuối."
 
 ---
 
@@ -55,10 +55,10 @@ Anh đọc hai lần, rồi lưu email vào một thư mục riêng.
 Ngay bên dưới, trong ứng dụng nhắn tin, có một chấm đỏ ở mục tin nhắn chờ. Một tài khoản lạ. Ảnh đại diện là một chiếc Vespa hồng chụp từ trên xuống, đỗ dưới một gốc cây.
 
 :::chat
-anh phanh gấp
-trả thiệp cho em
-em thấy anh trên page trường r. bài phỏng vấn ấy
-chiều nay em rảnh
+Anh phanh gấp
+Trả thiệp cho em
+Em thấy anh trên page trường r bài phỏng vấn ấy
+Chiều nay em rảnh
 :::
 
 Anh nhìn bốn dòng tin nhắn. Không có lời chào. Không có tên. Không có dấu câu. Không có câu "anh còn nhớ em không ạ" hay "xin lỗi đã làm phiền anh" như người lạ vẫn hay mở đầu. Cô nhắn như người ta nhắn cho đứa bạn cùng phòng rằng hết giấy vệ sinh rồi.
@@ -116,9 +116,11 @@ Gửi.
 Ba chấm hiện lên gần như ngay lập tức.
 
 :::chat
-em biết. anh em hủy
-nhưng nó là của em
-3h chiều. em qua xuân thủy
+Em biết
+Anh em hủy
+Nhưng nó là của em
+3h chiều
+Em qua Xuân Thủy
 :::
 
 Anh nhìn dòng thứ hai một lúc lâu. *Nhưng nó là của em.* Không phải vì cần dùng. Không phải vì sợ mất. Chỉ vì nó là của cô.
@@ -127,7 +129,7 @@ Anh nhìn dòng thứ hai một lúc lâu. *Nhưng nó là của em.* Không ph�
 
 "Đi trả đồ. Giữ đồ của người ta hai tuần là đủ mang tiếng rồi."
 
-"Mày cười cái gì đấy?"
+"Mày cười cái đéo gì đấy?"
 
 "Tao có cười đâu."
 
@@ -157,7 +159,7 @@ Anh rút tấm thiệp ra khỏi túi quần, đặt lên cái bàn nhựa giữ
 
 "Hai tuần trong túi blazer với túi quần. Không cong mới lạ."
 
-"Anh để nó trong túi quần à?"
+"Hả? Anh để nó trong túi quần á?!"
 
 "Hôm nay thôi. Mấy hôm trước nó nằm trong túi blazer, được đối xử tử tế hơn anh nhiều."
 
@@ -203,7 +205,7 @@ Anh nhấp một ngụm trà. Mát, chát, có vị lá vối.
 
 "Còn lại là bài phát biểu."
 
-Cô nghiêng đầu, đúng cái kiểu nghiêng đầu ở hàng ghế đầu hôm ấy. "Anh lại né."
+Cô nghiêng đầu, đúng cái kiểu nghiêng đầu ở hàng ghế đầu hôm ấy. "Đấy. Anh lại né."
 
 "Anh trả lời rồi mà."
 
@@ -215,7 +217,7 @@ Rồi cô quay sang nhìn cái thẻ trên cổ anh.
 
 "Chết rồi. Nhưng chết đẹp, em nhìn ảnh thẻ xem."
 
-"Thế đeo làm gì?"
+"Ơ, thế đeo làm gì?"
 
 "Bá khí không cần thẻ sống."
 
@@ -279,7 +281,7 @@ Giả thuyết hợp lý nhất vừa bị cô cầm lên, lật ngược, rồi
 
 Anh nói một con số. Thấp. Thấp hơn giá ở mấy trung tâm anh biết, thấp hơn một nửa cái giá anh đoán ba người kia đã lấy của cô.
 
-Cô nhíu mày lần đầu tiên trong cả buổi chiều. "Sao rẻ thế?"
+Cô nhíu mày lần đầu tiên trong cả buổi chiều. "Sao rẻ thế?!"
 
 "Vì dạy không được thì em đỡ tiếc." Anh nhấp ngụm trà cuối. "Dạy được thì tính sau."
 
@@ -330,21 +332,23 @@ Còn cô thì nhớ.
 Điện thoại rung.
 
 :::chat
-Vũ Béo: trả đồ xong chưa
-Vũ Béo: công chúa có đòi bồi thường k
+Vũ Béo: Trả đồ xong chưa
+Vũ Béo: Công chúa có đòi bồi thường k =)))
 :::
 
 Anh gõ:
 
 :::chat
-> k. công chúa còn tự trả tiền trà đá
-Vũ Béo: ơ thế là công chúa hay là dân
+> k. công chúa còn tự trả tiền trà đá 😱
+Vũ Béo: Ơ
+Vũ Béo: Thế là công chúa hay là dân
 :::
 
 Anh chưa kịp trả lời thì một tin nhắn khác hiện lên, từ cái tài khoản có ảnh đại diện là chiếc Vespa hồng.
 
 :::chat
-chủ nhật 25. 2h chiều
+Chủ nhật 25
+2h chiều
 [vị trí]
 :::
 
@@ -353,25 +357,32 @@ Một quán cà phê trên phố Xuân Diệu. Ảnh thu nhỏ của quán hiệ
 Anh nhìn cái ảnh, rồi nhìn xuống đôi Crocs đen của mình.
 
 :::chat
-Vũ Béo: ê sao k trả lời. công chúa hay là dân
+Vũ Béo: Ê
+Vũ Béo: Sao k trả lời
+Vũ Béo: Công chúa hay là dân 😡
 :::
 
 Anh gõ:
 
 :::chat
-> công chúa thuê t dạy ielts
+> công chúa thuê t dạy ielts 😏
 Vũ Béo: ????
-Vũ Béo: m tính bn
-> giá học thử. dạy được thì tăng giá, như sầu riêng đầu mùa
-Vũ Béo: m mà lấy giá học thử á. thằng này hôm nay bị gì
-Vũ Béo: khoan
-Vũ Béo: lúc nó hỏi m trả lời thế nào. đừng bảo là "ok em"
+Vũ Béo: M tính bn
+> giá học thử. dạy được thì tăng giá, như sầu riêng đầu mùa 😈
+Vũ Béo: M mà lấy giá học thử á
+Vũ Béo: Thằng này hôm nay bị gì 🤡
+Vũ Béo: Khoan
+Vũ Béo: Lúc nó hỏi m trả lời thế nào
+Vũ Béo: Đừng bảo là "ok em" 🤡
 > t bảo dạy thử 1 buổi
-Vũ Béo: giọng gì
+Vũ Béo: Giọng gì
 > giọng thực tế
-Vũ Béo: tổng đài. biết ngay
-Vũ Béo: đm gái xinh tự tìm đến tận nơi, tự ngồi ghế nhựa, tự trả tiền trà, còn thuê mình dạy. kiếp trước m cứu nước à
-Vũ Béo: t ghen tị đấy. nói thật
+Vũ Béo: Tổng đài
+Vũ Béo: Biết ngay 👎
+Vũ Béo: Đm gái xinh tự tìm đến tận nơi, tự ngồi ghế nhựa, tự trả tiền trà, còn thuê mình dạy
+Vũ Béo: Kiếp trước m cứu nước à 😡😡
+Vũ Béo: T ghen tị đấy
+Vũ Béo: Nói thật 😅
 :::
 
 Anh cất điện thoại vào túi, đứng dậy, chào bà cụ. Bà gật đầu, nhai trầu, chỉ vào cái thẻ trên cổ anh.

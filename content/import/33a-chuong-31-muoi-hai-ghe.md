@@ -199,7 +199,8 @@ Một tiếng rung dài, đều, trên đùi, như một con côn trùng bị nh
 Anh lấy điện thoại ra. Không muốn. Tay làm trước đầu, như mắt.
 
 :::chat
-Chủ tọa: Chị xong sớm. Em về chưa?
+Chủ tọa: Chị xong sớm
+Chủ tọa: Em về chưa?
 :::
 
 Cô nhìn màn hình, nhìn ba chữ *Chủ tọa*, rồi nhìn đi chỗ khác, rất bình thản, như học sinh nhận điểm.
@@ -216,7 +217,7 @@ Anh gõ:
 
 :::chat
 > sắp. đang giúp 1 người hết xăng
-Chủ tọa: Người hết xăng hay xe hết xăng?
+Chủ tọa: Người hết xăng hay xe hết xăng? 🙂
 :::
 
 Anh gõ *cả hai*, xóa. Gõ *người quen*, xóa. Gõ:
@@ -503,7 +504,7 @@ Anh mở miệng.
 
 Câu ấy đã nằm sẵn trên lưỡi, tròn, nhẵn, không một vết lồi. Anh đã nói nó với cô ít nhất mười lần, ở những phiên bản hơi khác nhau, qua tin nhắn, qua điện thoại, ở quán bún riêu, trên giường cô hôm cô ốm. Nó là phiên bản dành cho cô. Phiên bản người yêu. Phiên bản *lab vẫn ổn, em vẫn ổn, chị không cần lo*.
 
-Với sếp, anh có một phiên bản. Với anh Bảo, chị Quỳnh, Kiên, với bàn bún chả buổi trưa, anh có một phiên bản. Và với cô, anh có một phiên bản thứ ba.
+Với sếp, anh có một phiên bản. Với anh Bảo, chị Quỳnh, anh Kiên, với bàn bún chả buổi trưa, anh có một phiên bản. Và với cô, anh có một phiên bản thứ ba.
 
 Ông đầu bếp đặt xuống trước mặt anh một miếng cá ngừ khác. Màu hồng nhạt, vân trắng chạy như vân đá cẩm thạch.
 

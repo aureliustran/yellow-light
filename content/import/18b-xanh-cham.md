@@ -18,7 +18,7 @@ Anh đến lúc bốn giờ kém năm, áo sơ mi flannel kẻ ô xanh navy xắ
 
 "Hết hồng rồi à?"
 
-"Em hết hồng đâu. Em muốn xem hồng đứng cạnh cái khác thì trông thế nào."
+"Ơ, em hết hồng đâu! Em muốn xem hồng đứng cạnh cái khác thì trông thế nào."
 
 "Thế nào?"
 
@@ -46,7 +46,7 @@ Anh bắt đầu bằng những đôi từ chỉ khác nhau một nốt. *[[en: 
 
 "Cái thứ hai là cái em hay đánh rơi," anh nói. "Em kéo nó dài ra. Nghe như em đang cười."
 
-"Em cười đâu."
+"Em cười đâu mà!"
 
 "Giọng em cười." Anh chỉ vào miệng mình. "Nhìn đây."
 
@@ -74,7 +74,7 @@ Anh viết lên lề giấy, bằng nét chữ nghiêng của người quen ghi 
 
 "Dài."
 
-"Anh cố tình đấy."
+"Này nhá, anh cố tình đấy."
 
 "Thầy chỉ chọn từ phù hợp chủ đề tuần."
 
@@ -84,9 +84,9 @@ Anh viết lên lề giấy, bằng nét chữ nghiêng của người quen ghi 
 
 "Từ này thì là *gì* của phát âm?" Cô đặt bút xuống. "Anh gọi em là kid từ ngày đầu. Giờ anh dạy em đọc chữ kid. Em phát hiện rồi, đừng giả vờ."
 
-"Trùng hợp."
+"Trùng hợp thôi mà, kiddd."
 
-"Em mười chín tuổi."
+"Em mười chín tuổi rồi cơ mà!"
 
 Câu ấy cô nói ra như đã nói nhiều lần. Và đã nói nhiều lần thật, ba tuần nay, mỗi lần anh gọi, như người cầm vợt đánh trả một quả bóng quen tay. *Em mười chín tuổi.* Cô chờ nửa câu sau của anh, câu hôm nào cũng thế: *thế thì vẫn là kid.*
 
@@ -134,7 +134,7 @@ Cô không nói ra. Cô cầm bút của mình, thêm vào chữ Hán xiêu vẹ
 
 "Tên anh không có nghĩa." Anh nhún vai. "Nó chỉ là tên."
 
-"Tên em cũng chỉ là tên."
+"Thì tên em cũng chỉ là tên."
 
 "Đấy. Bắt đầu cãi."
 
@@ -146,7 +146,7 @@ Anh kéo tờ ký hiệu lại giữa hai người.
 
 "Giờ đến phần khó." Giọng anh đổi, nhanh và gọn, như người quay về một con đường quen. "Cuối từ. /t/ và /d/. Em hay nuốt /d/, nên *kid* nghe như *kít*. Nghe như con chuột bị kẹp."
 
-"Em không nuốt."
+"Em không nuốt!"
 
 "Nuốt." Anh giơ tay lên, và đặt hai ngón lên cổ mình, ngay dưới góc hàm bên trái. "Đặt tay lên đây. Hai ngón, đừng ấn mạnh. Cảm nhận xem có rung không."
 
@@ -156,7 +156,7 @@ Bàn tay anh đặt dưới cằm. Ngón trỏ và ngón giữa dài, áp nhẹ 
 
 "Thấy không? /d/ thì rung. /t/ thì không."
 
-"Em chưa làm."
+"Ừm… em chưa làm."
 
 "Thế làm đi."
 

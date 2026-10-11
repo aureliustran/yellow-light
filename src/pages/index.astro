@@ -8,7 +8,7 @@ import Footer from '../components/Footer.astro';
 import { story } from '../config';
 import { isConfigured } from '../lib/supabase';
 import { getPublishedChapters } from '../lib/chapters';
-import { chapterLabel, type NumberedChapter } from '../lib/chapters-shared';
+import { chapterLabel, isSpecialChapter, type NumberedChapter } from '../lib/chapters-shared';
 import { renderMarkdown } from '../lib/markdown';
 
 let chapters: NumberedChapter[] = [];
@@ -130,14 +130,16 @@ const demoHtml = renderMarkdown(
       {chapters.length > 0 && (
         <ol class="lane">
           {chapters.map((c) => (
-            <li>
+            <li class:list={{ special: isSpecialChapter(c) }}>
               <a href={`/doc/${c.slug}`}>
-                <span class:list={['node', { interlude: c.kind === 'interlude', latest: c === latest }]} aria-hidden="true">
-                  <span style={c.kind === 'interlude' && c !== latest ? `background:${c.color ?? '#D9C8B0'}` : undefined}></span>
+                <span class:list={['node', { interlude: c.kind === 'interlude', latest: c === latest, special: isSpecialChapter(c) }]} aria-hidden="true">
+                  {isSpecialChapter(c)
+                    ? <span class="domino"></span>
+                    : <span style={c.kind === 'interlude' && c !== latest ? `background:${c.color ?? '#D9C8B0'}` : undefined}></span>}
                 </span>
                 <span class="toc-text">
-                  <span class="eyebrow">{chapterLabel(c)}</span>
-                  <span class:list={['toc-title', { italic: c.kind === 'interlude' }]}>{c.title}</span>
+                  <span class:list={['eyebrow', { amber: isSpecialChapter(c) }]}>{chapterLabel(c)}</span>
+                  <span class:list={['toc-title', { italic: c.kind === 'interlude', special: isSpecialChapter(c) }]}>{c.title}</span>
                 </span>
                 {c === latest && <span class="badge">Mới nhất</span>}
               </a>

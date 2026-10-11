@@ -9,8 +9,9 @@ Oct 8, 2026 · @aureliustran.
 Bảy ngày Tết, đường ống chạy ảnh vệ tinh cho bên bất động sản chưa dừng phút nào, và cả lab chỉ có một người biết nó chạy thế nào. Thông báo của tập đoàn dán ở cửa thang máy từ hôm 28 Tết vẫn còn đó, mép giấy quăn lên vì hơi điều hòa: *Làm việc trong dịp Tết Nguyên đán: hưởng 500% lương ngày.* Bên dưới, ai đó đã lấy bút bi viết thêm một dòng nhỏ rồi gạch đi, chỉ còn đọc được chữ *mua*.
 
 :::chat
-Chủ tọa: Chị gửi em lịch Chủ nhật.
-Chủ tọa: Em xem, góp ý trước 12h đêm mai. Sau đó chị khóa quyền sửa.
+Chủ tọa: Chị gửi em lịch Chủ nhật 📌
+Chủ tọa: Em xem, góp ý trước 12h đêm mai
+Chủ tọa: Sau đó chị khóa quyền sửa 🙂
 :::
 
 Tên file: *Valentine_2027_v4_FINAL*.
@@ -19,7 +20,7 @@ Anh ngả lưng ra ghế, gác chân lên thùng giò nem, nhìn chữ *v4* mộ
 
 Anh mở file.
 
-Năm cột: *Giờ – Hạng mục – Địa điểm – Trang phục – Ghi chú*. Hàng nào xong thì tô xanh lá, hàng nào chờ xác nhận thì tô vàng. Phông chữ thống nhất, cột thẳng như kẻ thước, giống hệt cái bảng phân công đại biểu cô từng chiếu lên màn hình ở phòng họp chữ U.
+Năm cột: *Giờ – Hạng mục – Địa điểm – Trang phục – Ghi chú*. Hàng nào xong thì tô xanh lá, hàng nào chờ xác nhận thì tô vàng. Phông chữ thống nhất, cột thẳng như kẻ thước, gọn đến mức không ai dám sửa một ô.
 
 :::sheet Valentine_2027_v4_FINAL
 | Giờ | Hạng mục | Địa điểm | Trang phục | Ghi chú |
@@ -33,29 +34,32 @@ Năm cột: *Giờ – Hạng mục – Địa điểm – Trang phục – Ghi 
 | [x] 22:00 | Kết thúc. |  |  |  |
 :::
 
-"Không hoodie" xuất hiện hai lần. Anh đếm, rồi đếm lại cho chắc, như đếm số lần một đại biểu nhắc lại cùng một điều khoản.
+"Không hoodie" xuất hiện hai lần. Anh đếm, rồi đếm lại cho chắc, như đếm một dòng lỗi lặp lại trong log.
 
 Anh bấm vào ô *Không hoodie* thứ nhất, thêm bình luận.
 
 :::chat
-> phản đối. hoodie là bản sắc dân tộc
+> phản đối. hoodie là bản sắc dân tộc 😡😡😡
 :::
 
 Bốn phút sau, dưới bình luận có một dòng trả lời.
 
 :::chat
-Chủ tọa: Bác bỏ. Dân tộc nào?
+Chủ tọa: Dân tộc nào?
 > dân tộc sinh viên công nghệ. 54 dân tộc anh em + 1
-Chủ tọa: Bác bỏ lần hai.
+Chủ tọa: Dân tộc ấy cấm mặc hoodie vào ngày lễ 😌
+> chị vừa bịa ra 😱
+Chủ tọa: Ừ
+Chủ tọa: Chị bịa =))
 :::
 
 Anh bấm vào ô *22:00*.
 
 :::chat
-> đề nghị sửa thành 22:05 theo tiền lệ
-Chủ tọa: Tiền lệ không áp dụng cho ngày lễ.
-> ngày lễ thì càng phải áp dụng. tiền lệ sinh ra để dùng vào dịp quan trọng
-Chủ tọa: Ghi nhận. Không thông qua.
+> xin thêm 5p. như hôm ở phòng em 🥺
+Chủ tọa: Hôm ấy chị mềm lòng 🫠
+> thì chủ nhật chị mềm lòng tiếp điii 😭
+Chủ tọa: Để xem em có ngoan không đã 🙂
 :::
 
 Rồi anh kéo lên, dừng ở hàng mười hai giờ.
@@ -71,8 +75,8 @@ Anh thêm một bình luận vào ô trắng ấy.
 Lần này lâu hơn. Mười một phút. Trên màn hình bên cạnh, thanh tiến trình của lô ảnh thứ bốn mươi ba nhích từ 71% lên 74%.
 
 :::chat
-Chủ tọa: Ô đó là phần của em.
-Chủ tọa: Đừng làm chị hối hận.
+Chủ tọa: Ô đó là phần của em
+Chủ tọa: Đừng làm chị hối hận
 :::
 
 Anh ngửa cổ ra sau ghế, điện thoại úp lên ngực. Ô đèn duy nhất trên đầu vẫn sáng. Anh nghĩ đến cô ngồi trước v1, v2, v3, xóa đi xóa lại các hàng màu, và đến một lúc nào đó, ở một bản nào đó, quyết định để lại một ô không tô gì. Anh nghĩ cái ô trắng ấy còn khó làm hơn cả mấy hàng xanh cộng lại.
@@ -82,7 +86,7 @@ Anh ngửa cổ ra sau ghế, điện thoại úp lên ngực. Ô đèn duy nh�
 Tám giờ năm mươi tám, điện thoại sáng.
 
 :::chat
-Chủ tọa: Chị ở dưới.
+Chủ tọa: Chị ở dưới
 :::
 
 Anh mặc sơ mi trắng mua ở Uniqlo Vincom hôm qua, cái áo mà người bán bảo "anh cao thế này mặc gì chả đẹp", quần âu xám, đôi derby boot đánh xi tối qua. Rồi anh đứng nhìn gương một lúc, vớ cái hoodie xám trên lưng ghế, chui đầu vào, kéo khóa đến cằm, trùm luôn mũ.
@@ -97,19 +101,31 @@ Diệp Anh ngồi trong xe, măng tô lạc đà, khăn len màu kem, tóc buôn
 
 "Đọc rồi mà vẫn mặc."
 
-Anh chui vào xe, ngồi cạnh cô, đóng cửa. Rồi, không nói không rằng, anh kéo khóa hoodie từ cằm xuống, chậm, như người ta mở một cái hộp quà ở nơi công cộng, cởi tay áo bên trái, rồi bên phải, gấp đôi cái áo đặt lên đùi.
+Anh chui vào xe, ngồi cạnh cô, đóng cửa. Rồi anh gõ đốt ngón tay xuống tay vịn cửa ba tiếng, như búa.
+
+"Kính thưa chủ tọa. Đại biểu xin chất vấn hàng thứ hai. Bảng tính có tính đến gió mùa Đông Bắc không ạ."
+
+Cô nhìn anh. Một giây. Rồi quay mặt ra cửa kính, khoanh tay trước ngực, cằm hếch lên một chút.
+
+"Thôi. Em mặc hoodie mà đi làm gốm một mình."
+
+"Chị béee."
+
+Im. Má cô phồng lên một bên, rồi xẹp xuống ngay, như người vừa nhận ra mình đang làm gì với mặt mình.
+
+Anh không nói gì nữa. Anh kéo khóa hoodie từ cằm xuống, chậm, như người ta mở một cái hộp quà ở nơi công cộng, cởi tay áo bên trái, rồi bên phải, gấp đôi cái áo đặt lên đùi.
 
 Sơ mi trắng. Cổ đứng. Vạt áo sơ vin gọn vào quần.
 
 "Hoodie là vỏ bảo quản," anh nói. "Áo mới, gió mùng Chín, bụi Cầu Giấy. Em bảo quản đến tận lúc giao hàng."
 
-Cô không nói gì. Cô nhìn.
+Cô quay lại từ cửa kính. Cô không nói gì. Cô nhìn.
 
 Không phải cái nhìn kiểm tra trang phục. Nó chậm hơn. Từ cổ áo, xuống hàng cúc, dừng ở chỗ vạt áo sơ vin, rồi quay lên, dừng lâu ở cái cổ áo đứng ôm sát cổ anh, chỗ yết hầu. Anh nuốt, vì bị nhìn, và biết cô thấy cái nuốt ấy, và biết cô thích thấy.
 
 "Ai chọn?" cô hỏi.
 
-"Em. Em xem ba video *what to wear on a first date* của mấy anh Hàn Quốc. Anh nào cũng bảo sơ mi trắng." Anh ngừng một nhịp. "Có một anh bảo mở thêm một cúc. Em chưa dám, sợ bị bác bỏ."
+"Em. Em xem ba video *what to wear on a first date* của mấy anh Hàn Quốc. Anh nào cũng bảo sơ mi trắng." Anh ngừng một nhịp. "Có một anh bảo mở thêm một cúc. Em chưa dám, sợ chị cài lại."
 
 Cô vươn tay sang. Ngón trỏ có cái nhẫn bạc mảnh móc vào cúc áo trên cùng của anh, gỡ ra. Rồi cô ngồi lùi lại một chút, nghiêng đầu nhìn, như nhìn một bản slide vừa đổi bố cục.
 
@@ -118,6 +134,8 @@ Anh ngồi im. Cổ áo mở ra một khoảng, gió điều hòa trong xe lùa 
 Cô nhìn thêm ba giây. Rồi cô vươn tay, cài lại.
 
 "Ra đường thì cài," cô nói, quay sang nhìn cửa kính. "Ở chỗ chị thì tính sau."
+
+Rồi, vẫn không quay lại: "Điều một. Em không được gõ búa của chị."
 
 Bác tài xế liếc gương chiếu hậu một cái rồi bật đài to lên. Đài đang phát *Mùa xuân đến bình yên*.
 
@@ -129,7 +147,7 @@ Cô giáo dạy tên Mai, chắc tầm hai mươi lăm, tóc búi cao lệch san
 
 "Hai bạn ngồi bàn này nhé. Bạn nữ bàn trái, bạn nam bàn phải. Hôm nay mình làm cốc. Đầu tiên là định tâm, tức là đưa cục đất vào đúng giữa bàn xoay. Bước này là khó nhất. Định tâm được là xong một nửa."
 
-Diệp Anh cởi măng tô, vắt lên lưng ghế, đeo tạp dề, buộc dây sau lưng thành một cái nơ đối xứng. Cô xắn tay áo len lên đến khuỷu, đặt hai tay lên cục đất như đặt tay lên bàn chủ tọa trước khi khai mạc.
+Diệp Anh cởi măng tô, vắt lên lưng ghế, đeo tạp dề, buộc dây sau lưng thành một cái nơ đối xứng. Cô xắn tay áo len lên đến khuỷu, đặt hai tay lên cục đất như đặt tay lên lưng một con vật chưa quen.
 
 Thuyên cũng xắn tay áo sơ mi lên. Một vòng, hai vòng, đến quá khuỷu.
 
@@ -143,7 +161,7 @@ Cục đất dưới tay cô lắc như một con vật bị bắt. Cô ấn m�
 
 "Thì mình đi theo nó trước, rồi nó mới đi theo mình."
 
-Diệp Anh nhìn cục đất bẹp như nhìn một đại biểu vừa phát biểu sai chủ đề. Cô vo lại. Đặt lại. Ấn lại. Lần thứ hai bẹp chậm hơn lần đầu một chút, nhưng vẫn bẹp.
+Diệp Anh nhìn cục đất bẹp như nhìn một người vừa trả lời sai câu dễ nhất. Cô vo lại. Đặt lại. Ấn lại. Lần thứ hai bẹp chậm hơn lần đầu một chút, nhưng vẫn bẹp.
 
 Bên phải, bàn xoay của Thuyên quay đều đều. Hai bàn tay anh ôm lấy cục đất, khuỷu tay tì chặt vào đùi, cổ tay không nhúc nhích. Nước từ miếng bọt biển rỉ xuống giữa các ngón tay. Cục đất dưới tay anh lắc ba vòng, rồi hai, rồi một, rồi đứng yên, tròn, bóng, quay mà như không quay.
 
@@ -163,7 +181,7 @@ Diệp Anh quay sang. Nhìn cục đất của anh. Rồi nhìn anh.
 
 "Tì khuỷu tay vào đùi. Tay không dùng lực, người dùng lực. Tay chỉ là cái khuôn."
 
-Cô nhìn anh thêm một lúc. Cái nhìn không đọc ra được ngay. Có một chút gì đó như người vừa phát hiện ra đối thủ trong một phiên tranh luận đã đọc trước toàn bộ tài liệu của mình.
+Cô nhìn anh thêm một lúc. Cái nhìn không đọc ra được ngay. Có một chút gì đó như người vừa phát hiện ra người kia đã lén làm bài tập về nhà của mình.
 
 "Em xem video làm gốm lúc nào?"
 
@@ -201,7 +219,9 @@ Một giây. Hai giây. Rồi những ngón tay dưới tay anh mềm dần, t�
 
 Cục đất đứng yên.
 
-Gần thế này, anh thấy được gáy cô. Tóc buông, nhưng cô đã vén hết sang một bên vai để khỏi vướng, nên cả cái gáy lộ ra ngay trước mặt anh. Mấy sợi tóc con ở chân tóc. Một nốt ruồi nhỏ, rất nhỏ, ngay dưới chân tóc, anh chưa từng thấy. Da gáy nổi gai lên một vệt mảnh khi hơi thở của anh chạm vào.
+Gần thế này, anh không thấy xưởng gốm nữa. Chỉ còn cái gáy cô. Tóc buông, nhưng cô đã vén hết sang một bên vai để khỏi vướng, nên cả cái gáy lộ ra ngay trước mặt anh: mấy sợi tóc con ở chân tóc, một lớp mồ hôi rất mỏng dưới chân tóc vì hơi nóng từ cái lò nung ở góc xưởng, và một nốt ruồi nhỏ, rất nhỏ, anh chưa từng thấy. Da gáy cô nổi gai lên một vệt mảnh khi hơi thở anh chạm vào.
+
+"Hah…" Cô thở ra, rất nhỏ, rồi nuốt lại như sợ cô Mai nghe thấy.
 
 Cái nốt ruồi này mà…
 
@@ -211,7 +231,7 @@ Bàn xoay lắc một nhịp. Anh tì lại khuỷu tay. Nhìn cục đất. Đ�
 
 Anh dẫn hai ngón cái của cô ấn xuống. Cục đất lõm dần thành một cái lòng sâu. Rồi anh dẫn tay cô kéo vách lên, một lần, hai lần. Thành cốc mỏng dần, cao dần, ướt và bóng dưới tay hai người như một thứ đang lớn lên.
 
-Cô không nói gì suốt lúc đó. Cô hơi ngả đầu ra sau, để gáy tựa vào xương đòn của anh. Anh nghe thấy hơi thở cô chậm lại, sâu xuống, nhịp với tiếng bàn xoay.
+Cô không nói gì suốt lúc đó. Cô hơi ngả đầu ra sau, để gáy tựa vào xương đòn của anh, và chỗ da ấy ấm, hơi ẩm, dán vào cổ áo sơ mi của anh. Hơi thở cô chậm lại, sâu xuống, nhịp với tiếng bàn xoay. Có một lúc anh không biết tay mình đang dẫn tay cô hay tay cô đang dẫn tay mình. Đất trơn dưới bốn bàn tay, ấm dần lên vì hơi người, và anh nghĩ: hóa ra cô cũng thả được.
 
 Đến lần kéo thứ ba, cô hắt hơi.
 
@@ -253,7 +273,7 @@ Diệp Anh cười. Một nụ cười đúng chuẩn, đẹp, không sai một 
 
 "Ừ," cô nói. "Hiếm. Nên chị giữ."
 
-Rồi cô rút tay ra khỏi tay anh, rửa vào xô, lau khô bằng khăn. Quay sang. Cầm lấy cổ tay áo sơ mi của anh đang xắn quá khuỷu, gỡ từng vòng xuống, một vòng, hai vòng, vuốt phẳng, cài cúc măng sét lại. Rồi tay bên kia. Chậm, gọn, ngay trước mặt cô Mai, như người ta xếp lại tài liệu sau khi phiên họp kết thúc.
+Rồi cô rút tay ra khỏi tay anh, rửa vào xô, lau khô bằng khăn. Quay sang. Cầm lấy cổ tay áo sơ mi của anh đang xắn quá khuỷu, gỡ từng vòng xuống, một vòng, hai vòng, vuốt phẳng, cài cúc măng sét lại. Rồi tay bên kia. Chậm, gọn, ngay trước mặt cô Mai, như người ta gấp lại một tấm khăn vừa dùng xong.
 
 "Xong rồi thì cài lại," cô nói.
 
@@ -285,15 +305,25 @@ Cô dừng lại. Quay lại. Nhìn anh từ dưới lên, mắt nheo nheo như 
 
 "Đất bắn mà chị."
 
-"Chị đã nói rồi. Hôm nào đấy." Cô nghĩ một giây. "Hôm ở phố cổ. *Em đừng xắn tay áo trước mặt người khác.*"
+"Hôm ở phố cổ chị nói rồi." Cô nghĩ một giây. "*Em đừng xắn tay áo trước mặt người khác.*"
 
-"Em tưởng đấy là gợi ý."
+"Em… tưởng chị nói chơi."
 
-"Đấy là nghị quyết."
+"Chị không nói chơi bao giờ." Cô bước lại gần, nhìn lên. "Nhắc lại xem."
 
-"Nghị quyết thì phải biểu quyết chứ. Em chưa biểu quyết."
+"Nhắc… gì ạ?"
 
-"Chủ tọa có quyền ban hành nghị quyết khẩn cấp không cần biểu quyết." Cô quay lưng, đi tiếp. "Đọc điều lệ đi."
+"Câu chị vừa nói."
+
+"Không xắn tay áo trước mặt người khác."
+
+"Trừ?"
+
+Anh nhìn cô. Cô chờ, mặt nghiêm, nhưng khóe môi đã nhích lên một li.
+
+"…Trừ trước mặt chị," anh nói.
+
+"Ừ." Cô quay lưng, đi tiếp. "Ngoan."
 
 Anh đi theo, cười. Nắng mùng Chín hanh hao, rọi xiên qua cành bàng trơ trụi, đổ những vạch bóng mảnh lên vai áo măng tô của cô. Cái cốc nghiêng mười lăm độ sẽ được nung trong lò mười hai trăm độ, hai tuần sau mới lấy. Anh nghĩ đến chuyện đất co lại khoảng mười hai phần trăm khi nung, nói luôn ra mồm:
 
@@ -331,7 +361,7 @@ Anh chờ. Anh đọc được một nửa giây đầu tiên, cái nửa giây 
 
 "Hai bát."
 
-"Hai bát là quá ngân sách."
+"Hai bát… là quá ngân sách."
 
 "Thì em cắt ngân sách con AI."
 
@@ -415,69 +445,41 @@ Hai rưỡi, Hồ Tây. Đúng như ghi chú, ánh sáng bắt đầu ngả vàn
 
 Họ đi chậm dọc bờ hồ. Cô không nắm tay anh. Anh không chìa tay ra nữa, để hai tay trong túi quần, đi sát vai cô, thỉnh thoảng cánh tay hai người chạm vào nhau.
 
-"Hiệp hôm nay," cô nói. "Chủ đề do chị chọn, vì hôm nay chị lên lịch."
+"Này," cô nói, không nhìn anh. "Đêm qua em xem video làm gốm lúc hai giờ sáng."
 
-"Chị chọn."
+"Sao chị biết là hai giờ?"
 
-"Ai yêu ai nhiều hơn."
+"Em tự khai ở xưởng. Hai giờ sáng, bốn cái video, một cái tiếng Nhật." Cô đá nhẹ một viên sỏi ra khỏi lối đi. "Em thích chị nhiều thế cơ à?"
 
-Anh suýt vấp vào một cái gờ đá. "Chủ đề này không có dữ liệu."
+Anh suýt vấp vào một cái gờ đá. "Thì… em sợ chị hỏi bài."
 
-"Có. Chị trình bày trước. Một: chị lên bốn phiên bản bảng tính. Hai: chị đặt cọc hai chỗ, một chỗ phải gọi ba lần mới được. Ba: chị chọn ba mươi mốt tấm ảnh, chọn đi chọn lại tấm mười bốn. Bốn." Cô giơ bốn ngón tay. "Chị để trống một ô."
+"Hừm."
 
-"Ô trắng tính là bằng chứng à?"
+"Còn chị." Anh nghiêng đầu nhìn cô. "Bốn bản bảng tính. Đặt cọc gọi ba lần. Ba mươi mốt tấm ảnh giao thừa, chọn đi chọn lại tấm mười bốn. Chị thích em nhiều thế cơ à?"
 
-"Ô trắng là bằng chứng nặng nhất." Cô không giải thích. "Mời đại biểu phát biểu."
+"Chị lên bảng tính vì chị sợ em chán."
 
-Anh im một lúc. Nhìn mặt hồ. Một con chim không biết tên bay sát mặt nước, cánh gần chạm vào những vệt sáng.
+Anh đứng lại.
 
-"Em đề nghị định nghĩa lại đơn vị đo."
+"Chị sợ em chán á?"
 
-"Đề nghị bị—"
-
-"Chị nghe hết đã. Chị đo bằng việc làm. Bảng tính, đặt cọc, ảnh. Đo kiểu đấy thì chị thắng chắc, vì chị là người làm nhiều việc nhất Học viện Ngoại giao. Không công bằng. Như so tốc độ chạy giữa một con báo với một con rùa, rồi kết luận con báo yêu đường đua hơn."
-
-"Thế em đo bằng gì?"
-
-"Bằng số lần nhường."
-
-"Nhường?"
-
-"Mười giờ năm," anh nói. "Đêm hôm ở phòng em, chị bảo mười giờ, em bảo mười giờ mười lăm, chị chốt mười giờ năm. Chị nhường em năm phút. Một điểm cho chị. Hôm nay em bỏ hoodie. Một điểm cho em. Ô trắng là chị nhường em ba tiếng, đấy là điểm lớn, em công nhận. Nhưng em chịu ngồi trong một cái bảng tính có hai dòng cấm hoodie mà không phản đối quá hai lần."
-
-"Em phản đối hai lần thật."
-
-"Hai lần là mức tối thiểu để giữ thể diện cho dân tộc."
-
-Cô dừng lại, quay sang. Mắt nheo lại.
-
-"Mười giờ năm không phải nhường. Đấy là nhượng bộ chiến lược."
-
-"Nhượng bộ chiến lược thì vẫn là nhường. Chỉ là nhường có tính toán."
-
-"Có tính toán thì không phải là yêu."
-
-"Có tính toán mà vẫn nhường thì là yêu nhiều hơn," anh nói. "Vì chị biết mình đang mất năm phút, mà vẫn đưa."
-
-Cô mở miệng. Đóng lại. Quay đi nhìn mặt hồ.
-
-"Chị vẫn thắng," cô nói sau một lúc. "Chị yêu em nhiều hơn vì chị—"
+"Ơ hay. Chị không—" Cô quay sang, nhanh, như định sửa câu vừa rồi, và câu sửa đi ra sai đường. "Chị yêu em thì chị sợ, thế thôi, có gì đâu mà—"
 
 Cô dừng lại giữa câu.
 
-Không phải dừng kiểu đọc người, kiểu chọn chữ. Mà dừng như người đang chạy thì nhận ra mình vừa chạy qua vạch đích từ ba bước trước.
+Không phải dừng kiểu chọn chữ. Mà dừng như người đang chạy thì nhận ra mình vừa chạy qua vạch đích từ ba bước trước.
 
 Anh nhìn cô. Cô nhìn mặt hồ.
 
 "Chị vừa nói trước," anh nói khẽ.
 
-"Chị đang nêu luận điểm."
+"Chị… nói nhầm."
 
-"Chị nêu luận điểm bằng một câu chị chưa nói bao giờ."
+"Chị nói nhầm một câu chị chưa nói bao giờ."
 
-"Đấy là tiền đề. Tiền đề thì không cần chứng minh."
+"Ừm." Cô không quay lại. "Thì… nhầm thì nhầm."
 
-"Ừ." Anh không cười. Không đùa. Anh đứng đó, hai tay vẫn trong túi quần, nhìn cô một lúc lâu, cho đến lúc cô buộc phải quay lại nhìn anh.
+Anh không cười. Không đùa. Anh đứng đó, hai tay vẫn trong túi quần, nhìn cô một lúc lâu, cho đến lúc cô buộc phải quay lại nhìn anh.
 
 "Em cũng thế," anh nói. "Em yêu chị. Nhưng em nói sau, nên em thua. Em chịu."
 
@@ -485,24 +487,22 @@ Gió hồ thổi lọn tóc ra khỏi cái kẹp lệch của cô. Cô không v�
 
 Rồi cô quay mặt đi, nhanh, nhưng không đủ nhanh để giấu cái vành tai đỏ lên dưới mấy sợi tóc.
 
-"Phiên tranh luận kết thúc," cô nói. "Chủ tọa tuyên bố hòa."
+"Thua… cái gì," cô nói. "Có ai thi đâu."
 
-"Hòa à?"
-
-"Hòa. Chị thắng ở điểm, em thắng ở…" Cô ngừng. "Em không thắng. Chị chỉ không muốn em thua."
-
-"Thế là chị nhường thêm một điểm."
+"Thế là chị nhường em."
 
 "Im."
 
 Điện thoại anh rung trong túi quần hai lần liên tiếp.
 
 :::chat
-Anh Tuấn: Valentine vui vẻ nhé em. Mai lên sớm 30p, anh em mình bàn trước buổi họp.
-Chị Hạnh: Ảnh lão vừa đăng hoa cho cả phòng 😂 không có hoa cho anh em mình nhỉ
+Anh Tuấn: Valentine vui vẻ nhé em 🌹
+Anh Tuấn: Mai lên sớm 30p, anh em mình bàn trước buổi họp 👍
+Chị Hạnh: Ảnh lão vừa đăng hoa cho cả phòng 😂
+Chị Hạnh: Không có hoa cho anh em mình nhỉ ^^
 :::
 
-Anh bấm tắt thông báo cả hai, không trả lời. Với hai cuộc trò chuyện ấy, anh đang có hai giọng khác nhau, và mai sẽ phải nhớ chính xác câu nào nói với ai. Ở đây, bên bờ hồ, anh chỉ có một giọng. Và cái giọng ấy vừa thua một phiên tranh luận vì nói sau.
+Anh bấm tắt thông báo cả hai, không trả lời. Với hai cuộc trò chuyện ấy, anh đang có hai giọng khác nhau, và mai sẽ phải nhớ chính xác câu nào nói với ai. Ở đây, bên bờ hồ, anh chỉ có một giọng. Và cái giọng ấy vừa thua, vì nói sau.
 
 ---
 
@@ -556,7 +556,7 @@ Thuyên quay lại. Diệp Anh vẫn đứng nguyên chỗ cũ, điện thoại 
 
 "Không." Cô nhìn anh. "Em thì sao?"
 
-"Em có làm gì đâu. Em chỉ nói chuyện."
+"Em… có làm gì đâu. Em chỉ nói chuyện thôi mà."
 
 Rồi anh nhìn xuống tay mình. Bàn tay phải, bàn tay vừa đặt lên cổ tay người lạ, đang run. Không nhiều. Một chút, ở các đầu ngón, như sợi dây đàn vừa bị gảy xong còn rung. Lúc đứng giữa thì không run. Bây giờ mới run.
 
@@ -620,7 +620,7 @@ Cô đã tháo giày. Một bàn chân trong lớp tất mỏng màu da đặt l
 
 "Chân chị đau," cô nói, giọng như thông báo lịch họp. "Em làm thảm."
 
-"Thảm có tính phí không?"
+"Ừm… thảm có tính phí không ạ?"
 
 "Thảm không được hỏi."
 
@@ -628,7 +628,7 @@ Một bàn chân trượt lên. Chậm. Từ mu giày lên cổ chân, lên ốn
 
 Anh đặt nĩa xuống. Cầm ly nước lên. Uống. Đặt xuống. Cầm nĩa lên lại.
 
-Phía trên mặt bàn, cô vẫn cắt vịt, vẫn ngồi thẳng. Chỉ có khóe môi đỏ hơi nhếch lên một chút, và đôi mắt, khi cô ngước lên nhìn anh qua ánh nến, có cái vẻ của người vừa thắng thêm một hiệp mà đối phương còn chưa biết là mình đang thi đấu.
+Phía trên mặt bàn, cô vẫn cắt vịt, vẫn ngồi thẳng. Chỉ có khóe môi đỏ hơi nhếch lên một chút, và đôi mắt, khi cô ngước lên nhìn anh qua ánh nến, có cái vẻ của người vừa thắng thêm một ván mà người kia còn chưa biết là mình đang chơi.
 
 "Em đỏ mặt," cô nói.
 
@@ -636,7 +636,7 @@ Phía trên mặt bàn, cô vẫn cắt vịt, vẫn ngồi thẳng. Chỉ có k
 
 "Em chưa uống ngụm nào."
 
-"Em say từ trong tưởng tượng."
+"Thì… em say từ trong tưởng tượng."
 
 Cô cười, cúi xuống, và bàn chân dưới gầm bàn trượt xuống, nằm yên trên mu giày anh. Như một con mèo vừa chơi xong, nằm xuống chỗ ấm.
 
@@ -652,11 +652,11 @@ Cô vẫn nhìn. Chớp mắt một lần, chậm, chậm như người cố tì
 
 Anh nhìn xuống miếng vịt.
 
-"Hiệp này chị thắng," cô nói, cắt tiếp.
+"Chị thắng," cô nói, cắt tiếp.
 
 "Chị gian. Chị ngồi sau nến."
 
-"Chủ tọa có quyền chọn ánh sáng."
+"Ơ hay. Chị đặt bàn. Chị chọn ghế."
 
 ---
 
@@ -801,6 +801,14 @@ Cô cắn vào vai anh. Qua lớp áo sơ mi, qua lớp áo khoác. Không đau.
 "Chị không co."
 
 "Em biết. Nên em cõng."
+
+Cô cười vào gáy anh. Hơi thở ấy ấm và ẩm ở chân tóc anh, chỗ mồ hôi vừa lên vì cõng một người đi hai trăm mét trong gió lạnh.
+
+"Béee…" Giọng cô kéo dài, mềm, như người sắp ngủ. "Đi chậm thôi…"
+
+Anh khựng nửa bước. Người nhắn tin mỗi câu một dòng thẳng như biên bản, người nói câu nào cũng gọn như gõ búa, vừa kéo dài chữ *bé* như một đứa trẻ. Lần đầu tiên anh nghe cô kéo dài một chữ.
+
+Anh đi chậm lại. Chậm đến mức hai cái gót giày trước ngực anh thôi gõ vào nhau.
 
 Điện thoại cô kêu lên trong túi măng tô. Một hồi chuông báo thức ngắn, *tinh tinh tinh*, đúng mười giờ.
 

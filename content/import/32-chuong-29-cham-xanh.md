@@ -97,22 +97,26 @@ Anh lướt qua. Một con mèo nhảy hụt lên tủ lạnh.
 Mười một giờ đêm.
 
 :::chat
-Chủ tọa: Bé ơi.
-Chủ tọa: Chị thèm matcha latte.
-Chủ tọa: Đá ít. Ngọt ít. Sữa yến mạch.
+Chủ tọa: Bé ơi
+Chủ tọa: Chị thèm matcha latte 🍵
+Chủ tọa: Đá ít
+Chủ tọa: Ngọt ít
+Chủ tọa: Sữa yến mạch
 :::
 
 Anh đang nằm sấp, cuốn giáo trình mở ở chương *Thương mại quốc tế*, chỗ mực tím viết *ai làm cái gì giỏi nhất thì làm cái đó. đổi cho nhau. (lý thuyết thì thế)*.
 
 :::chat
 > giờ này quán nào còn mở
-Chủ tọa: Em tìm.
-Chủ tọa: Chị đang làm slide cho buổi tổng kết đội. Chị không đi được.
-Chủ tọa: Chị cũng không muốn đi.
-Chủ tọa: Chị muốn có người mang đến
+Chủ tọa: Em tìm 🙂
+Chủ tọa: Chị đang làm slide cho buổi tổng kết đội
+Chủ tọa: Chị không đi được
+Chủ tọa: Chị cũng không muốn đi
+Chủ tọa: Chị muốn
+Chủ tọa: có người mang đến
 :::
 
-Câu cuối không có dấu chấm. Anh đọc nó hai lần. Diệp Anh viết tin nhắn nào cũng có dấu chấm, như ký biên bản. Câu nào thiếu dấu chấm là câu cô gõ nhanh hơn cô nghĩ.
+Câu cuối gãy làm hai tin. Tin sau không viết hoa. Anh đọc nó hai lần. Diệp Anh nhắn mỗi câu một tin, tin nào cũng viết hoa đầu dòng, đứng thẳng như một dòng biên bản. Một câu gãy giữa chừng là câu cô gõ nhanh hơn cô nghĩ.
 
 Anh cười, lật người lại, mở ứng dụng.
 
@@ -121,9 +125,9 @@ Xanh SM Ngon. Anh tìm một quán còn mở trên đường Láng, cách nhà c
 Đặt.
 
 :::chat
-> e đặt r. 25p
-Chủ tọa: Hai mươi lăm phút.
-Chủ tọa: Em ngoan.
+> e đặt r. 25p 😏
+Chủ tọa: Hai mươi lăm phút
+Chủ tọa: Em ngoan 🤍
 :::
 
 Anh đặt điện thoại lên ngực, rồi lại cầm lên, vì cái bản đồ đang mở.
@@ -195,8 +199,9 @@ Nó vẫn ở đó.
 Mười một giờ ba mươi tám, điện thoại sáng.
 
 :::chat
-Chủ tọa: Đến rồi.
-Chủ tọa: Anh tài xế dễ thương. Gọi chị là "chị ơi" ba lần.
+Chủ tọa: Đến rồi
+Chủ tọa: Anh tài xế dễ thương 🤭
+Chủ tọa: Gọi chị là "chị ơi" ba lần
 :::
 
 Rồi một tấm ảnh. Cốc matcha latte đặt trên bậu cửa sổ đá trắng, bên cạnh một cuốn sách bìa cứng úp mặt, ánh đèn bàn vàng hắt nghiêng, nền là màn đêm và những ô cửa sổ sáng đèn của tòa nhà bên kia. Bố cục đẹp. Chỉn chu. Kem, xanh, vàng. Mười phút sau, nó xuất hiện trên story của cô, kèm một chữ: *Noted.*
@@ -214,8 +219,8 @@ Anh bật cười thành tiếng trong căn phòng tối.
 Hai tấm ảnh của cùng một cốc nước. Tấm đẹp thì ai cũng được xem. Tấm xấu thì chỉ anh.
 
 :::chat
-> ria đẹp. giữ nguyên đến sáng
-Chủ tọa: Không.
+> ria đẹp. giữ nguyên đến sáng 😈
+Chủ tọa: Không 🙄
 Chủ tọa: Em đang làm gì đấy?
 :::
 
@@ -223,13 +228,14 @@ Anh nhìn màn hình laptop, đã mở từ lúc nào anh không nhớ, một tr
 
 :::chat
 > đang nghĩ
-Chủ tọa: Nghĩ về chị à?
+Chủ tọa: Nghĩ về chị à? 👀
 > nghĩ về đường chim bay
 Chủ tọa: ?
 > mai e kể. kể xong c chấm điểm
-Chủ tọa: Chị chấm khó.
+Chủ tọa: Chị chấm khó 😌
 > e biết. nên mới cần c chấm
-Chủ tọa: Ngủ sớm đi. Đừng thức như đêm tiền tệ Sao Hỏa.
+Chủ tọa: Ngủ sớm đi
+Chủ tọa: Đừng thức như đêm tiền tệ Sao Hỏa 🙄
 > vâng chị chủ tọa
 :::
 

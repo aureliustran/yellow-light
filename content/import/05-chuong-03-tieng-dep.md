@@ -165,7 +165,8 @@ Anh không tháo ra. Anh ngủ với cái đồng hồ trên tay, nghe tiếng k
 Điện thoại rung lần nữa. Tin nhắn của mẹ.
 
 :::chat
-Mạ: Hôm đó nhớ mặc áo sơ mi trắng. Bỏ cái khuyên tai ra
+Mạ: Hom do nho mac ao so mi trang
+Mạ: Bo cai khuyen tai ra
 :::
 
 Không có dấu chấm cuối câu. Mẹ không bao giờ dùng dấu chấm trong tin nhắn.

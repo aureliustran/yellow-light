@@ -41,7 +41,8 @@ Cô xóa chữ *Khóa* khỏi ô *Nhược*, để trống, tô xanh cả hàng 
 Tám giờ bốn mươi, cô nhắn anh.
 
 :::chat
-> Chị xong sớm. Em về chưa?
+> Chị xong sớm
+> Em về chưa?
 :::
 
 Năm phút. Mười phút. Anh thường trả lời cô trong vòng hai phút, kể cả lúc ở lab, kể cả lúc hai giờ sáng.
@@ -53,7 +54,7 @@ Bé: sắp. đang giúp 1 người hết xăng
 Cô đọc dòng ấy. Ngoài cửa sổ, Nguyễn Chí Thanh đang mưa phùn, thứ mưa nồm không rơi mà treo lơ lửng trong không khí.
 
 :::chat
-> Người hết xăng hay xe hết xăng?
+> Người hết xăng hay xe hết xăng? 🙂
 :::
 
 Lần này lâu hơn. Ba chấm hiện lên, tắt. Hiện lên, tắt. Cô đếm được hai lần anh gõ rồi xóa.

@@ -43,11 +43,11 @@ Con dao trong tay cô dừng lại giữa một vòng vỏ.
 
 Tháng mười hai cô đã đứng trước cái cửa kính có con mắt vàng ấy. Chị Hạnh đã nhận ra cô, đã dẫn cô lên tầng mười tám, đã báo với anh. Anh đã nói *lần sau mang lên thì gọi trước, đỡ đi nhầm*. Anh không hỏi gì thêm. Cô đã nghĩ anh không để ý. Hoặc để ý mà không nghĩ gì. Cô đã chọn tin cái thứ hai.
 
-"Vâng," cô nói. "Anh biết rồi còn hỏi."
+"Vâng," cô nói. "Anh biết rồi còn hỏi!"
 
 "Anh biết từ hôm nay." Anh cắn vỡ viên kẹo, tiếng *rắc* nhỏ. "Hôm nay anh họp review với lab ấy. Có một thằng bé ngồi góc bàn bấm slide. Tên Thuyên. Anh nghe tên thì nhớ ra em bảo thầy em học Công nghệ năm ba."
 
-"Anh ấy có làm sao không?"
+"Ơ… anh ấy có làm sao không?"
 
 Cô hỏi nhanh quá. Cô nghe thấy mình hỏi nhanh quá, và anh trai cũng nghe thấy, vì khóe miệng anh nhích lên.
 
@@ -107,13 +107,73 @@ Anh bật cười, chỉ tay vào cô, cái kiểu chỉ tay của người bị
 
 Trước khi mở đề, cô đẩy một cái túi giấy nâu sang phía anh.
 
-"Áo anh. Em không giặt."
+"Áo anh. Em… không giặt."
 
 Tay anh dừng giữa không trung nửa giây, đúng ở chỗ ấy. "Ừ," anh nói. Anh nhét túi vào ba lô, kéo khóa, và không nhìn cô trong ba giây. Cô đếm.
 
 Mười một ngày. Cái áo ở phòng cô mười một ngày, và cô không nói với anh rằng cô đã đếm.
 
 Họ làm bài nửa tiếng. Part 2 về một lần cô phải đưa ra một quyết định khó. Cô kể chuyện chọn RMIT, chọn ở lại, nói đúng khung, có chấm, có vì sao, có ví dụ, có quay về. Anh nghe, gật, ghi lại một lỗi về mạo từ. Anh không hỏi vì sao chọn ở lại lại là quyết định khó. Cô không nói.
+
+Sàn gỗ cầu thang kêu cót két mấy nhịp liền, nhanh, như người chạy lên. Rồi một cái đầu nhô lên khỏi mép gác, tóc vuốt keo, dây đeo thẻ RMIT màu đỏ còn lủng lẳng trên cổ.
+
+"Nhi!"
+
+Phong. Cùng ngành, cùng nhóm bài tập Economics, người gửi cô ba tin *Nhi ơi* lúc chín giờ tối mỗi tuần. Cậu ấy đi thẳng đến bàn, tay cầm một tập giấy kẹp ghim, cười cái cười của người đã chuẩn bị câu mở đầu từ dưới chân cầu thang.
+
+"Tớ đi qua Hàng Gai lấy đồ cho bác, thấy gần nên ghé. Tớ in bản báo cáo nhóm rồi, cậu xem trước nhé, tớ sợ gửi file cậu không mở." Rồi cậu ấy quay sang anh, cúi đầu đúng chuẩn. "Em chào anh ạ."
+
+Anh gật. Không nói gì. Anh đẩy cái kính nửa gọng lên trán, ngả ra sau ghế, nhìn Phong như nhìn một đề Part 2 lạ.
+
+Cái túi tote của cô trượt khỏi lưng ghế từ lúc nào. Phong cúi xuống nhặt, phủi đáy túi hai cái, treo lại lên ghế cẩn thận, quai này chồng lên quai kia.
+
+"Lát cậu về tớ xách xuống cho. Cầu thang gác này dốc lắm." Cậu ấy nhìn lên đầu cô. "Kẹp tóc hôm nay xinh thế. Màu bạc hà à?"
+
+Cô đưa tay lên chạm vào cái kẹp, theo phản xạ. Kẹp hình nơ, màu xanh bạc hà nhạt, cô mua ở Hàng Đào hôm thứ Bảy, đeo lần đầu sáng nay. Cô chưa kể với ai. Không ai hỏi.
+
+"Ừm… ừ."
+
+"Chủ nhật này ở Complex 01 có triển lãm ảnh phim." Phong nói nhanh hơn, như sợ mình hết can đảm giữa câu. "Cậu thích chụp phim mà. Tớ có hai vé. Cậu đi không?"
+
+Cô không biết Phong nhớ chuyện cô chụp phim. Cô nhắc đúng một lần, ở buổi họp nhóm đầu kỳ, lúc cả nhóm phải giới thiệu sở thích cho đủ thủ tục.
+
+"Ừm… để tớ xem lịch đã."
+
+"Đi đi."
+
+Cả hai cùng quay sang. Anh vẫn ngả ra sau ghế, cốc trà đá trong tay, giọng đều như đang đọc đáp án.
+
+"Triển lãm có máy lạnh," anh nói. "Đỡ hơn ngồi đây nghe thầy chê."
+
+Phong cười, hơi lúng túng, nhìn từ anh sang cô rồi lại sang anh. "Dạ, anh là…?"
+
+"Thầy dạy IELTS. Lương theo giờ." Anh gõ ngón tay lên mặt đồng hồ. "Giờ này đang bị trừ."
+
+"Dạ, em xin lỗi anh ạ." Phong lùi một bước, rồi quay sang cô, hạ giọng như nói chuyện riêng mà cả gác đều nghe. "Tớ nhắn cậu nhé. Cậu nhớ xem lịch."
+
+Tiếng cầu thang cót két đi xuống, chậm hơn lúc lên.
+
+Cô kéo tập báo cáo về phía mình, giả vờ đọc trang bìa. Tên cô in đầu tiên, trưởng nhóm. Tên Phong in thứ hai, bôi đậm, chắc do lỗi định dạng.
+
+"Lễ phép," anh nói.
+
+Cô không ngẩng lên.
+
+"Biết xách túi. Nhớ sở thích. Khen kẹp tóc đúng màu." Anh đếm trên ba ngón tay, chậm, như chấm điểm. "Thầy chấm tám. Em rể tương lai thế là được."
+
+Cô mở miệng. Không có chữ nào ra. Cả cái đầu cô đầy chữ, tiếng Việt lẫn tiếng Anh, có khung, có vì sao, có ví dụ, và không một chữ nào chịu ra.
+
+Cô đấm anh. Một cái vào vai, qua mép bàn, nắm tay cuộn tròn trong tay áo len.
+
+"Bạo lực học đường," anh nói, không né. "Thầy ghi sổ."
+
+Cô đấm cái nữa, vào đúng chỗ cũ.
+
+Anh xoa vai, mặt không đổi. "Mà kẹp tóc màu bạc hà thật à. Thầy tưởng màu xanh."
+
+Cô rút tay về, kéo ống tay áo len xuống che kín nắm tay, như giấu tang vật. Tám điểm. Anh chấm Phong tám điểm, đếm trên ngón tay, giọng không vấp chỗ nào. Như chấm một bài Part 2 của người khác.
+
+Anh không vấp chỗ nào.
 
 Rồi đến giờ nghỉ năm phút. Anh tháo kính, day sống mũi, cầm cốc trà đá lên.
 
@@ -163,7 +223,7 @@ Ba chữ ấy mà ra khỏi miệng thì anh sẽ nối được cái logo trên
 
 Anh sẽ vẫn gọi cô là *kid*. Nhưng cô sẽ biết anh chọn chữ.
 
-"Hết năm phút rồi," cô nói. "Part 3 đi."
+"Hết năm phút rồi nhá," cô nói. "Part 3 đi."
 
 Anh nhìn đồng hồ. "Bốn phút."
 
@@ -190,8 +250,8 @@ Cô ngẩng lên. Anh đang nhìn tờ đề, không nhìn cô. Câu hỏi ấy 
 Chín giờ kém năm, điện thoại cô sáng lên trên mặt bàn.
 
 :::chat
-Anh: học xong chưa
-Anh: hôm nay học đến mấy giờ
+Anh: Học xong chưa em.
+Anh: Hôm nay học đến mấy giờ?
 :::
 
 Cô úp điện thoại xuống. Anh liếc theo cái điện thoại, rồi nhìn lại tờ đề.
@@ -207,11 +267,11 @@ Cô nói hai chữ ấy ra rồi mới nghe thấy chúng. Hai chữ. Không ph�
 Cô gom sổ. Mở điện thoại dưới gầm bàn.
 
 :::chat
-> 9h. sao anh
-Anh: anh về muộn. định rủ em đi ăn khuya
-Anh: thôi mai
-> mai em học đến 5h
-Anh: ừ. về cẩn thận
+> 9h. Sao anh?
+Anh: Anh về muộn. Định rủ em đi ăn khuya.
+Anh: Thôi, mai.
+> Mai em học đến 5h 🥲
+Anh: Ừ. Về cẩn thận.
 :::
 
 Xuống đến cửa quán, anh đứng lại, đội mũ bảo hiểm.
@@ -222,7 +282,7 @@ Tay cô nhúc nhích trước. Đưa ra, về phía cái quai bị xoắn, ngón
 
 "Quai xoắn," cô nói.
 
-Anh cúi mắt xuống. "À." Anh tháo khớp, kéo thẳng, cài lại. *Tách.*
+Anh cúi mắt xuống. Anh tháo khớp, kéo thẳng, cài lại. *Tách.*
 
 Cô rút tay về. Vào túi áo len. Ngón trỏ ấy, dù đã nằm trong túi, vẫn còn đúng chỗ một phân ấy.
 
@@ -234,7 +294,7 @@ Cái xe màu xanh midnight anh gọi là phi thuyền đỗ cạnh chiếc Vespa
 
 "Xe em hôm nay trông như sắp bị phi thuyền bắt cóc," anh nói.
 
-"Xe em có bảo hiểm thân vỏ."
+"Này nhá, xe em có bảo hiểm thân vỏ đấy."
 
 "Phi thuyền không cần bảo hiểm. Phi thuyền đi chậm."
 
@@ -270,7 +330,7 @@ Cô nhại tiếp, đúng như anh ấy nhại hôm thứ Năm, đúng cả ch�
 
 "À." Anh đặt con tôm đã bóc vào bát cô. "Thế nó đỡ có hay không?"
 
-"Anh ngồi đấy mà anh hỏi em."
+"Ơ kìa, anh ngồi đấy mà anh hỏi em."
 
 "Anh ngồi đấy thì anh thấy nó đỡ." Anh cầm con tôm tiếp theo. "Anh không thấy nó xuống căng tin."
 
@@ -352,6 +412,7 @@ hộp kẹo bạc hà trong túi: còn 7 viên.
 (mang theo từ hôm summit. cho anh. anh chưa xin lần nào)
 anh hỏi về anh ấy 3 lần.
 (anh lo cho mình. anh lúc nào chẳng lo)
+anh ấy ghép mình với phong. (không ghen tí nào à)
 áo trả rồi. cái móc sau cửa trống.
 :::
 

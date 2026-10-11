@@ -101,8 +101,9 @@ Hết giờ, mấy đứa vây quanh bục hỏi bài. Không ai đi về phía 
 Điện thoại rung khi anh vừa ra đến sân.
 
 :::chat
-Ngọc Anh (K71): anh ơiiii em tưởng em chết rồi 😭
-Ngọc Anh (K71): sao anh k lên ạ
+Ngọc Anh (K71): Anh ơiiii
+Ngọc Anh (K71): Em tưởng em chết rồi 😭
+Ngọc Anh (K71): Sao anh k lên ạ
 :::
 
 Anh gõ:
@@ -111,8 +112,8 @@ Anh gõ:
 > em làm thì em lên. anh lên làm gì
 > câu "demo xử lý sự cố" của em hay hơn mọi câu anh nói hôm t7
 Ngọc Anh (K71): 🥹🥹🥹
-Ngọc Anh (K71): em khóc lần 2 trong tuần r đấy
-> k khóc nữa. lần 3 là anh thu phí đấy
+Ngọc Anh (K71): Em khóc lần 2 trong tuần r đấy
+> k khóc nữa. lần 3 là anh thu phí đấy :v
 > về ngủ đi
 :::
 

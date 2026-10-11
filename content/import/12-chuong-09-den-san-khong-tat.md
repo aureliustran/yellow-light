@@ -11,15 +11,16 @@ Thuyên mặc cái áo phông đen ôm sát, loại vải co giãn bó lấy vai
 Điện thoại trên giường rung ba lần liền.
 
 :::chat Pickup tối T7 🏀
-Vũ Béo: idol đến chưa
-Vũ Béo: bọn năm nhất đến từ 6h r, đứng xếp hàng như đi khám nghĩa vụ
-Hưng: anh ơi em mang bóng mới ạ 🏀🏀
+Vũ Béo: Idol đến chưa
+Vũ Béo: Bọn năm nhất đến từ 6h r
+Vũ Béo: Đứng xếp hàng như đi khám nghĩa vụ =)))))
+Hưng: Anh ơi em mang bóng mới ạ 🏀🏀
 :::
 
 Anh gõ:
 
 :::chat
-> đang đến. bảo bọn nó đứng nghiêm
+> đang đến. bảo bọn nó đứng nghiêm 😈
 > bóng mới thì cho hưng giao quả đầu
 :::
 
@@ -43,7 +44,7 @@ Năm sáu đứa năm nhất đứng túm tụm dưới cột đèn, vỗ tay l�
 
 "Cất đi."
 
-"Không cất. Tao làm cả buổi chiều đấy."
+"Đéo cất. Tao ngồi làm cả buổi chiều đấy, mày biết không."
 
 Bác bảo vệ ngồi ở cái ghế nhựa xanh cạnh cổng nhà xe, kính lão trễ xuống mũi, điện thoại dựng vào cái phích trà. Trên màn hình là hội trường lúc sáng, cái bục, cái màn hình chữ trắng nền xanh, và một cái chấm người mặc blazer đen.
 
@@ -93,7 +94,7 @@ Bạn nữ ngồi trên bậc thềm "ố" lên một tiếng rồi lấy tay b�
 
 "Mày công nhận rồi mà. Mày viết bìa rồi."
 
-"Cái bìa là châm biếm."
+"Cái bìa là châm biếm, đm. Mày có hiểu châm biếm là gì không?"
 
 "Châm biếm mà làm cả buổi chiều."
 
@@ -161,7 +162,7 @@ Vũ đứng đơ ra một giây, đưa tay lên sờ môi mình như vừa phát
 
 "Lần nào định đột phá cũng liếm. Hai năm rồi."
 
-"Hai năm mà giờ mày mới nói?"
+"Hai năm mà giờ mày mới nói? Mày giữ bí mật quốc gia à thằng chó?"
 
 "Giờ mới cần. Tao để dành hai năm cho đúng hôm nay đấy."
 
@@ -171,11 +172,11 @@ Lần tiếp theo, Vũ rút kinh nghiệm, lao vào sớm hơn, định đón đ
 
 Năm – ba.
 
-"Mày nhặt bóng kiểu gì thế?"
+"Ơ thế mày nhặt bóng kiểu gì thế, vãi?"
 
 "Nhặt thấp."
 
-"Ai dạy mày?"
+"Đứa nào dạy mày?"
 
 "Youtube. Miễn phí, mày cũng xem đi."
 
@@ -195,7 +196,7 @@ Vũ đứng chống hai tay lên gối, thở như kéo bễ. Nó nhìn quả b�
 
 "Tao biết hết," nó nói, giữa hai hơi thở. "Tao biết mày định làm gì. Mày nhìn hông tao là mày sắp đổi tay. Mày hạ thấp là mày sắp nhặt sớm. Mày bị ép là mày xoay. Tao biết hết, đm. Mà vẫn không làm gì được."
 
-"Biết với làm được là hai việc khác nhau."
+"Biết hết mà vẫn thua." Anh nhặt bóng, không nhìn Vũ. "Biết với làm được là hai việc khác nhau. Skill issue."
 
 "Câu đấy trong bài phát biểu à?"
 
@@ -233,7 +234,7 @@ Họ ngồi bệt quanh cái mâm nhôm đặt giữa sân, ngay dưới cột �
 
 "Trả rồi. Lúc mày đi lấy bia, tao chuyển khoản cho bà quán."
 
-Vũ nhìn anh chằm chằm. "Lúc nào?"
+Vũ nhìn anh chằm chằm. "Ơ. Lúc nào?"
 
 "Lúc mày đứng chọn túi nilon ba phút."
 
@@ -241,7 +242,7 @@ Vũ nhìn anh chằm chằm. "Lúc nào?"
 
 "Ừ. Mày chọn túi nilon kỹ như chọn vợ, tao quét ba lần cũng kịp."
 
-"Thế còn nem? Thằng Hưng thua cơ mà."
+"Thế còn nem? Thằng Hưng thua cơ mà, nhể?"
 
 "Hưng trả trà đá thôi. Nem tao trả rồi."
 
@@ -289,7 +290,7 @@ Còn lại hai thằng ngồi trên bậc thềm nhà xe. Hai cái đèn cao áp
 
 "Không biết."
 
-"Không biết mà mặt mày như ăn ớt."
+"Không biết mà mặt mày như vừa ăn ớt ấy. Đm, nhìn kìa."
 
 "Một đứa con nhà giàu ngồi hàng ghế đầu. Hỏi một câu khó để tỏ ra mình sâu sắc."
 
@@ -368,12 +369,13 @@ Anh đăng lên story, cả Facebook lẫn Instagram, chèn mười lăm giây c
 Chưa đến một phút, điện thoại rung.
 
 :::chat
-Vũ Béo: lại lên đồng
-Vũ Béo: nhạc gì nghe như sắp có người chết
-Vũ Béo: cringe vcl. t vừa thả cho m cái mặt nôn
-> m k hiểu nghệ thuật. trong ảnh là đèn sân nhà m đấy
-Vũ Béo: đèn sân nhà t thì t hiểu
-Vũ Béo: cái t k hiểu là sao m quay nó như phim kinh dị thái lan
+Vũ Béo: Lại lên đồng 🤡
+Vũ Béo: Nhạc gì nghe như sắp có người chết
+Vũ Béo: Cringe vcl
+Vũ Béo: T vừa thả cho m cái mặt nôn 👎
+> m k hiểu nghệ thuật. trong ảnh là đèn sân nhà m đấy 🥀
+Vũ Béo: Đèn sân nhà t thì t hiểu
+Vũ Béo: Cái t k hiểu là sao m quay nó như phim kinh dị thái lan 😡
 :::
 
 Anh cười, cất điện thoại vào túi, đi tiếp. Dưới story, cái mặt nôn của Vũ nằm cạnh một trái tim của Ngọc Anh và một trái tim của đứa nào đó anh không nhớ tên.

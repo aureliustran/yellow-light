@@ -30,13 +30,13 @@ Quán cuối cùng còn lại nằm trong một con ngõ ở Ba Đình, tầng h
 Cô gửi vị trí.
 
 :::chat
-> thứ 5 4h30
+> Thứ 5 4h30
 > [vị trí]
-Phanh Gấp: hồng k
-> hồng hơn
+Phanh Gấp: hồng k 😱
+> Hồng hơnnn 🎀
 Phanh Gấp: hơn bao nhiêu
-> 1 tông
-Phanh Gấp: ok kid. anh mang kính râm
+> 1 tông 😤
+Phanh Gấp: ok kid. anh mang kính râm 🥶
 :::
 
 Cô úp điện thoại xuống gối. Rồi lật lên, đọc lại chữ *kid*. Rồi úp xuống.
@@ -213,11 +213,11 @@ Rồi dừng. Câu ấy chạy ra trước khi cô kịp kéo dây cương.
 
 Anh ngẩng lên. "Trông sao?"
 
-"Trông như thợ sửa điều hòa." Cô nói nhanh. "Quán này không có điều hòa dán sticker đâu. Em kiểm tra rồi."
+"Trông như thợ sửa điều hòa!" Cô nói nhanh. "Quán này không có điều hòa dán sticker đâu. Em kiểm tra rồi."
 
 Anh bật cười lần thứ hai trong buổi chiều, nhỏ hơn, qua mũi. "Em kiểm tra cả điều hòa à?"
 
-"Em kiểm tra mọi thứ."
+"Thì em kiểm tra mọi thứ mà."
 
 Anh lắc đầu, cúi xuống vẽ tiếp. Cô nhìn đỉnh đầu anh, cái lọn tóc rơi xuống trán, và cảm thấy mặt mình nóng từ trong ra như vừa uống một ngụm canh quá nóng. *Thợ sửa điều hòa.* Trong tủ của mình không có câu nào hay hơn câu ấy à.
 
@@ -229,7 +229,7 @@ Năm giờ năm mươi, cô gom đề.
 
 Anh chìa tay ra lấy lại xấp giấy như hôm Chủ nhật. Cô rút tờ ba ra khỏi xấp, kẹp vào giữa cuốn sổ hồng, rồi mới đưa phần còn lại cho anh.
 
-"Tờ này em giữ," cô nói. "Để ôn."
+"Ừm… tờ này em giữ," cô nói. "Để ôn."
 
 Tay anh dừng giữa không trung nửa giây. "Đề đấy… ừ. Em giữ."
 
@@ -241,7 +241,7 @@ Ra đến cửa, anh nhìn bức tường hồng cánh sen lần cuối, nheo m�
 
 "Thế anh mua kính râm thật."
 
-"Anh mua đi. Màu hồng."
+"Anh mua đi! Màu hồng nhá."
 
 "Kính hồng thì anh nhìn đời màu hồng mất. Thế là hỏng, kid."
 

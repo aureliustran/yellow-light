@@ -5,9 +5,9 @@ Oct 5, 2026 · @aureliustran.
 *Thứ Hai, 5/10/2026*
 
 :::chat
-Vũ Béo: ra sân k m
-Vũ Béo: t mua nước r
-Vũ Béo: mua nhầm nước có ga nhưng uống vẫn đc
+Vũ Béo: Ra sân k m
+Vũ Béo: T mua nước r
+Vũ Béo: Mua nhầm nước có ga nhưng uống vẫn đc 😅
 :::
 
 Bảy giờ tối, sân khu tập thể nhà Vũ sáng hai bóng đèn cao áp, một bóng chập chờn như đang cân nhắc có nên tắt hẳn không. Mấy bà trong khu đi bộ vòng quanh sân, vung tay theo nhạc phát từ cái loa kẹo kéo treo trên cành sấu. Bọn trẻ con đạp xe ba bánh lao qua vạch ném phạt mỗi khi có ai sắp ném.
@@ -36,7 +36,7 @@ Vũ ném. Trượt. Bóng đập bảng bật ra, lăn về phía mấy bà đi 
 
 "Nghiêm túc mà. Hồi năm nhất tao đi nhầm tuyến, xuống nhầm cổng, vào nhầm phòng thi hackathon. Ngồi xuống luôn cho đỡ ngại. Thế là giải nhì."
 
-"Mày bịa."
+"Mày bịa vcl."
 
 "Ừ, bịa." Thuyên ném. Vào. "Nhưng kể thế trên sân khấu thì người ta cười."
 
@@ -254,7 +254,7 @@ Vũ ngồi bệt xuống vạch biên, mở chai nước có ga, xì một tiế
 
 "Đm."
 
-"Tao đã bảo rồi mà, mua nhầm thì đừng lắc."
+"Tao đã bảo rồi mà, mua nhầm thì đừng lắc. Nước còn khôn hơn mày, nó biết tự trào."
 
 "Tao có lắc đâu, nó tự lắc." Vũ chùi tay vào áo, nhìn Thuyên. "Thế bài kia mày định kể cái gì? Kể thật đi."
 
@@ -270,11 +270,11 @@ Thuyên ngồi xuống cạnh Vũ. Mấy bà đi bộ đã về hết. Cái loa 
 
 Thuyên nghĩ một lúc. "Thầy không bao giờ trả lời câu hỏi của tao."
 
-Vũ nhíu mày. "Thế mà cũng kể?"
+Vũ nhíu mày. "Ơ thế mà cũng kể? Đm."
 
 "Ừ."
 
-"Mày đúng là thằng dở."
+"Mày đúng là thằng dở hơi, thật đấy."
 
 "Ừ."
 
@@ -293,14 +293,14 @@ Anh lưu file. Đặt tên *ban-nhap-2*. Gập máy.
 Trên điện thoại, Vũ gửi một tấm ảnh chụp cái quần ướt của nó, kèm dòng chữ:
 
 :::chat
-Vũ Béo: đây là cái giá của việc chơi vs idol
+Vũ Béo: Đây là cái giá của việc chơi vs idol 😡
 :::
 
 Thuyên gõ lại:
 
 :::chat
-> idol k bảo hành quần
-> đi ngủ đi vua hợi
+> idol k bảo hành quần 😏
+> đi ngủ đi vua hợi 🖕
 :::
 
 ---

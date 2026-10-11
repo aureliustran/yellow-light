@@ -34,7 +34,7 @@ Anh Bảo tháo một bên tai nghe.
 
 "Cái đấy thợ code các em tự biết với nhau." Sếp cười, phẩy tay. "Anh nói tầm nhìn. Tầm nhìn không đo bằng tập dữ liệu."
 
-Anh Bảo thở ra một hơi rất dài qua mũi, đeo lại tai nghe. Kiên không ngẩng lên khỏi laptop, nhưng ngón tay đang gõ của Kiên dừng hẳn một giây.
+Anh Bảo thở ra một hơi rất dài qua mũi, đeo lại tai nghe. Anh Kiên không ngẩng lên khỏi laptop, nhưng ngón tay đang gõ của anh Kiên dừng hẳn một giây.
 
 Sếp quay sang Thuyên.
 
@@ -65,16 +65,18 @@ Thuyên thì nhớ ra cái ô đen của mình. Nó đang móc sau cửa phòng 
 Điện thoại rung.
 
 :::chat
-Học sinh hồng: 4h30 nhé
+Học sinh hồng: 4h30 nhá
 Học sinh hồng: [vị trí]
-Học sinh hồng: quán gần chỗ anh. mưa thì anh đi bộ được
+Học sinh hồng: Quán gần chỗ anh 🌧️
+Học sinh hồng: Mưa thì anh đi bộ được
 :::
 
 Anh nhìn cái ghim bản đồ. Một con ngõ nhỏ cách tòa nhà mười phút đi bộ.
 
 :::chat
-> ok kid. quán có hồng k
-Học sinh hồng: có. hồng đậm hơn như em hứa
+> ok kid. quán có hồng k 😱
+Học sinh hồng: Có!!
+Học sinh hồng: Hồng đậm hơn như em hứa 🩷
 :::
 
 ---
@@ -107,7 +109,7 @@ Anh khựng tay nửa nhịp. *Bộ đề tương lai.* Câu anh nói hôm thứ
 
 "Bộ đề tương lai in có một lần," anh nói. "Hết hàng rồi."
 
-"Tiếc." Cô xoay cái bút trên ngón tay, xoay vụng, bút rơi xuống bàn. "Em muốn làm lại câu cuối."
+"Tiếc ghê." Cô xoay cái bút trên ngón tay, xoay vụng, bút rơi xuống bàn. "Em muốn làm lại câu cuối."
 
 Anh nhớ câu cuối. Anh nhớ nó rõ hơn anh muốn. *[[en: So that is why I would never date someone like that. || Vì thế nên em sẽ không bao giờ hẹn hò với một người như vậy.]]* Đúng khung, quay về đúng chấm, gọn như đóng cửa.
 
@@ -117,7 +119,7 @@ Cô nhìn anh. Lâu hơn bình thường một chút, như người vừa ném m
 
 Nó không bật lại.
 
-"Vâng," cô nói. "Thôi."
+"Ừm… vâng," cô nói. "Thôi."
 
 Cô cúi xuống nhặt cái bút. Anh lật thẻ đề đầu tiên.
 
@@ -149,7 +151,7 @@ Anh xoay cốc cà phê một vòng trên đĩa.
 
 Cô nghe hết. Ghi chữ *kẹo cu đơ* vào sổ, gạch chân.
 
-"Gió Lào là gì?"
+"Ơ, gió Lào là gì?"
 
 "Gió từ bên Lào thổi sang, qua dãy Trường Sơn thì mất hết hơi nước, sang đến nhà anh thì chỉ còn nóng." Anh nói. "Như người đi đường xa đến nhà mình mà không mang quà."
 
@@ -163,11 +165,11 @@ Năm giờ rưỡi, mưa phùn thành mưa nhỏ. Tiếng nước bắt đầu c
 
 Sáu giờ, mưa nhỏ chưa có ý định thôi.
 
-"Học thêm không?" Nhi hỏi, nhìn ra cửa. "Em trả thêm."
+"Thì… học thêm không?" Nhi hỏi, nhìn ra cửa. "Em trả thêm."
 
 "Thêm giờ không tính tiền. Mưa thế này anh cũng chẳng đi đâu được." Anh rút thêm một tờ đề. "Coi như khuyến mãi mùa mưa."
 
-"Anh mà khuyến mãi."
+"Ơ kìa, anh mà khuyến mãi."
 
 "Anh khuyến mãi cho anh. Ngồi đây ấm hơn đứng ở bến xe buýt."
 
@@ -177,9 +179,9 @@ Bảy giờ kém mười, mưa nhỏ lại. Không tạnh, chỉ đổi từ h�
 
 "Em gửi xe ở bãi đầu ngõ," cô nói, đứng dậy, cầm cái ô hồng. "Anh ra bến xe buýt thì cũng đi qua đấy."
 
-"Anh đi được."
+"Anh đi được mà."
 
-"Anh không có ô."
+"Nhưng anh không có ô!"
 
 "Mưa bụi thôi mà."
 
@@ -203,11 +205,11 @@ Con ngõ hẹp, lát gạch, những vũng nước nhỏ loang ánh đèn vàng 
 
 Bên trái anh thì ấm. Ấm một cách vô lý, như ai đó để một cái túi chườm áp dọc cánh tay. Hơi ấm ấy có mùi: quế từ cái quán vừa đi ra còn bám trên khăn len của cô, lẫn một thứ ngọt hơn, nhẹ, thứ mùi của tóc vừa hong khô, của một người vừa ngồi ba tiếng cạnh lò sưởi. Anh hít vào một hơi, rất ngắn, chỉ để thở. Chỉ để thở.
 
-"Vai anh ướt rồi," cô nói, không nhìn sang.
+"Vai anh… ướt rồi kìa," cô nói, không nhìn sang.
 
 "Áo này chống nước."
 
-"Áo nỉ chống nước à?"
+"Áo nỉ mà chống nước á?"
 
 "Áo nỉ của anh chống nước bằng tinh thần."
 
@@ -245,7 +247,7 @@ Cô không cười.
 
 Họ đi thêm năm bước. Tiếng mưa bụi trên mặt ô nhỏ đến mức anh nghe được cả tiếng Crocs của mình bẹp bẹp trên gạch ướt.
 
-"Anh lại đùa," cô nói.
+"Đấy, anh lại đùa," cô nói.
 
 "Anh nói thật mà. Một năm một lần."
 
@@ -285,7 +287,7 @@ Cô đợi. Không giục, không nhìn đi chỗ khác. Đợi như người đ
 
 Cô nhìn anh thêm một giây.
 
-"Lần sau anh kể tiếp," cô nói. Không phải câu hỏi.
+"Lần sau anh kể tiếp nhá," cô nói. Không phải câu hỏi.
 
 Anh nghiêng ô về phía cô, đi tiếp. Vai phải anh giờ ướt hẳn, ướt đến mức áo nỉ dính vào da. Anh không thấy lạnh nữa. Hoặc có, nhưng nó đứng sau một thứ khác.
 
@@ -317,7 +319,7 @@ Cô rũ cái áo mưa ra, chui đầu qua. Lúc đầu cô ló ra khỏi cổ á
 
 Cô cài quai mũ. Lần này cài một lần là được.
 
-"Em đoán," cô nói.
+"Thì… em đoán," cô nói.
 
 Rồi vặn ga. Chiếc Vespa hồng lăn ra khỏi mái tôn, đèn hậu đỏ nhòe trong mưa bụi, rẽ phải, mất.
 
@@ -342,7 +344,7 @@ Trên xe buýt, anh ngồi ghế cuối, ngón cái bên trái vẫn còn nóng 
 Điện thoại rung.
 
 :::chat
-Học sinh hồng: anh lên xe chưa
+Học sinh hồng: Anh lên xe chưa
 :::
 
 Anh nhìn dòng chữ. Không trả lời ngay. Anh để nó đó, úp điện thoại lên đùi, nhìn ra cửa kính. Trong kính, một thằng con trai ướt nửa người đang ôm một cái ô hồng in mặt mèo. Tay nó đặt yên trên đùi. Không gõ.
@@ -363,7 +365,7 @@ Anh mở cuộc trò chuyện, kéo ngược lên. Kéo rất lâu. Gần sáu t
 Chủ tọa: Ngày đầu thế nào?
 Chủ tọa: Sao giờ này em còn online?
 Chủ tọa: Hôm nay em làm gì tử tế không?
-Chủ tọa: Em ngủ đi.
+Chủ tọa: Em ngủ đi
 :::
 
 Lần nào cũng là cô gõ cửa. Anh chỉ mở.
@@ -379,9 +381,9 @@ Gửi. Rồi gõ tiếp, nhanh, như người vội khép một cánh cửa trư
 Ba chấm hiện lên gần như ngay lập tức.
 
 :::chat
-Chủ tọa: Em nhắn trước.
-Chủ tọa: Lần đầu tiên.
-Chủ tọa: Chị ghi vào biên bản.
+Chủ tọa: Em nhắn trước
+Chủ tọa: Lần đầu tiên 👀
+Chủ tọa: Chị ghi vào biên bản 📝
 > ghi cả giờ vào. 8h12 tối. để sau này làm bằng chứng
 Chủ tọa: Bằng chứng gì?
 > bằng chứng em cũng biết gõ cửa
@@ -390,21 +392,24 @@ Chủ tọa: Bằng chứng gì?
 Lần này ba chấm hiện lâu hơn.
 
 :::chat
-Chủ tọa: Đề xuất được thông qua. Chị chọn bên đi.
-Chủ tọa: Chủ nhật 13. Chị chọn quán.
+Chủ tọa: Đề xuất được thông qua 📌
+Chủ tọa: Chị chọn bên đi
+Chủ tọa: Chủ nhật 13
+Chủ tọa: Chị chọn quán
 > ok. em chọn bên ở lại
-Chủ tọa: Em chọn nhanh thế.
-Chủ tọa: Như người đã nghĩ sẵn từ lâu rồi.
+Chủ tọa: Em chọn nhanh thế
+Chủ tọa: Như người đã nghĩ sẵn từ lâu rồi 🙂
 :::
 
 Anh nhìn câu ấy. Ngón cái dừng trên màn hình.
 
 :::chat
-> nghĩ sẵn cả bài mẫu luôn. gió lào với kẹo cu đơ
+> nghĩ sẵn cả bài mẫu luôn. gió lào với kẹo cu đơ :v
 Chủ tọa: ???
-Chủ tọa: Em đang nói tiếng gì đấy.
+Chủ tọa: Em đang nói tiếng gì đấy 🫠
 > tiếng hà tĩnh. chủ nhật dịch cho
-Chủ tọa: Được. Chị mang từ điển.
+Chủ tọa: Được
+Chủ tọa: Chị mang từ điển 😌
 :::
 
 Anh úp điện thoại lên ngực. Nước từ cái ô hồng vẫn nhỏ xuống sàn, đều, chậm dần.
@@ -412,9 +417,9 @@ Anh úp điện thoại lên ngực. Nước từ cái ô hồng vẫn nhỏ xu�
 Một lúc sau, anh lật điện thoại lên, mở lại tin nhắn chưa trả lời.
 
 :::chat
-Học sinh hồng: anh lên xe chưa
+Học sinh hồng: Anh lên xe chưa
 > về r. ô của em đang trông nhà hộ anh, cạnh ô của anh
-> thứ 5 trả. đi ngủ sớm đi kid
+> thứ 5 trả. đi ngủ sớm đi kid 🥶
 :::
 
 Đã xem. Không có ba chấm nào hiện lên.

@@ -24,7 +24,7 @@ Anh Bảo nhìn cái chuồng gà một lúc lâu. "Nó tính cả chuồng gà.
 
 "Chuồng gà mới lợp cũng là công trình mới anh ạ," Thuyên nói. "Gà cũng cần sổ đỏ."
 
-Có tiếng cười khịt ra từ bàn bên. Thuyên quay sang. Kiên đang cúi gằm xuống bàn phím, vai rung. Lâu lắm rồi anh mới nghe thấy tiếng của Kiên.
+Có tiếng cười khịt ra từ bàn bên. Thuyên quay sang. Anh Kiên đang cúi gằm xuống bàn phím, vai rung. Lâu lắm rồi anh mới nghe thấy tiếng của anh Kiên.
 
 Anh Bảo không cười. Anh phóng to từng viền đỏ như người ta lật xem hàng ở chợ, rồi mở lịch sử chạy. Dòng cuối ghi tên Thuyên, lúc hai giờ bốn mươi phút sáng.
 
@@ -48,7 +48,7 @@ Anh ta đứng trước màn hình đúng hai mươi giây. Thuyên đếm. Khô
 
 Anh Tuấn cười to, cái cười dành cho người vừa khen mình. Anh ta không hiểu câu đùa. Anh ta chỉ nghe thấy chữ "lãnh đạo".
 
-Thuyên làm sáu slide. Slide cuối không phải chuồng gà, mà là một trang trắng, ghi: *Nhóm thực hiện.* Anh Bảo, Kiên, chị Quỳnh, chị Phương và nhóm dán nhãn, Thảo, Thuyên. Ba nghìn tấm ảnh dạy mô hình nhận ra một cái mái nhà là ba nghìn tấm Thảo ngồi khoanh tay từng cái một, suốt tháng mười hai.
+Thuyên làm sáu slide. Slide cuối không phải chuồng gà, mà là một trang trắng, ghi: *Nhóm thực hiện.* Anh Bảo, anh Kiên, chị Quỳnh, chị Phương và nhóm dán nhãn, Thảo, Thuyên. Ba nghìn tấm ảnh dạy mô hình nhận ra một cái mái nhà là ba nghìn tấm Thảo ngồi khoanh tay từng cái một, suốt tháng mười hai.
 
 Chín giờ năm mươi, anh gửi file.
 
@@ -66,7 +66,7 @@ Nhưng lần này nhanh là vì vui.
 
 Không ai nói gì.
 
-Thuyên không nhìn anh Tuấn. Anh nhìn những người còn lại. Chị Quỳnh vẫn gõ phím, không nhanh hơn, không chậm hơn. Kiên cúi xuống sâu hơn. Anh Bảo không tháo tai nghe, nhưng ngón tay đặt trên chuột đã dừng. Chị Hạnh liếc sang Hà My. Hà My liếc sang Trâm. Trâm nhìn xuống điện thoại. Một vòng ánh mắt chạy quanh lab như dòng điện, rồi dừng ở bàn anh, và đứng lại đó.
+Thuyên không nhìn anh Tuấn. Anh nhìn những người còn lại. Chị Quỳnh vẫn gõ phím, không nhanh hơn, không chậm hơn. Anh Kiên cúi xuống sâu hơn. Anh Bảo không tháo tai nghe, nhưng ngón tay đặt trên chuột đã dừng. Chị Hạnh liếc sang Hà My. Hà My liếc sang Trâm. Trâm nhìn xuống điện thoại. Một vòng ánh mắt chạy quanh lab như dòng điện, rồi dừng ở bàn anh, và đứng lại đó.
 
 "Mấy cái sai sót nhỏ thì anh cũng báo luôn rồi," anh Tuấn nói tiếp, vui vẻ. "Bảy chỗ nhận nhầm, chủ yếu do khâu dán nhãn. Không sao, lần sau mình chặt hơn. Phương nhé."
 
@@ -273,7 +273,9 @@ Hai mươi phút còn lại, cô làm bài tốt hơn mọi buổi. Câu nào c�
 ---
 
 :::chat
-Chủ tọa: Chị đến sớm mười phút. Chị đợi ngoài cửa, em cứ dạy nốt.
+Chủ tọa: Chị đến sớm mười phút
+Chủ tọa: Chị đợi ngoài cửa
+Chủ tọa: Em cứ dạy nốt 🙂
 :::
 
 Tin nhắn đến lúc tám giờ hai mươi. Tám giờ hai mốt, cửa tiệm mở ra.
@@ -316,7 +318,7 @@ Cô nói câu ấy không to. Nhưng cô nói nó như đặt một cái cốc x
 
 "Anh đi đi. Chị ấy đứng ngoài lạnh." Cô đội mũ tai mèo, cài quai một lần là được. "Học bù em nhắn sau. Đừng gọi em là kid nữa."
 
-"Ơ, sao hôm nay khó tính thế, học sinh?"
+"Sao hôm nay khó tính thế, học sinh?"
 
 "Em không khó tính." Cô xách túi. "Anh dạy chậm."
 
@@ -353,11 +355,14 @@ Mười một giờ đêm, phòng trọ.
 Điện thoại sáng lên hai lần, cách nhau bốn phút.
 
 :::chat
-Anh Tuấn: mai trưa anh em mình đi ăn nhé. anh mời. có mấy việc anh muốn bàn riêng
+Anh Tuấn: Mai trưa anh em mình đi ăn nhé 👍
+Anh Tuấn: Anh mời. Có mấy việc anh muốn bàn riêng 😂
 :::
 
 :::chat
-Chị Hạnh: Mai trưa ăn với bọn chị nhé em. Chị có chuyện muốn hỏi riêng 😊
+Chị Hạnh: Em ơiii
+Chị Hạnh: Mai trưa ăn với bọn chị nhé ^^
+Chị Hạnh: Chị có chuyện muốn hỏi riêng 🤫
 :::
 
 Cùng một bữa trưa. Hai cái bàn.

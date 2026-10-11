@@ -20,11 +20,11 @@ Anh đến lúc bốn giờ kém năm. Áo len cổ tròn màu xám xanh, quần
 
 "Hồng đào," anh nói, ngồi xuống, nhìn tường. "Cái này ăn được."
 
-"Anh tính ăn tường à?"
+"Hả? Anh tính ăn tường à?"
 
 "Anh tính ăn cái màu." Anh kéo ghế vào. "Hôm nay không phải hồng đậm hơn một tông à?"
 
-"Em hết hứa rồi."
+"Thì em hết hứa rồi."
 
 "Hứa một lần, giữ từng ấy lần. Em là người giữ lời nhất anh quen."
 
@@ -36,13 +36,21 @@ Câu ấy đến nhẹ, xuôi, như câu khen của người không để ý mì
 
 Cô nhìn đề, rồi nhìn anh, rồi nhìn đề.
 
-"Anh cố tình."
+"Anh cố tình!"
 
 "Thầy chỉ chọn đề phù hợp chủ đề tuần."
 
 "Chủ đề tuần là gì?"
 
 "Quê," anh nói. "Sau Tết ai cũng có quê."
+
+Cô mở miệng. Câu cãi lại lên đến cổ thì tắc, vì anh nói đúng, mà cô không chịu là anh đúng. Cô nắm tay lại, đấm vào bắp tay anh. Một cái. Hai cái. Nắm tay cô bé xíu, còn bắp tay anh cứng như cái cột ở sân bóng, đến cái thứ ba thì chính cô đau trước.
+
+"Ư…!"
+
+Anh không né. Anh nhìn xuống chỗ bị đấm như nhìn một con muỗi đậu. "Thêm cái nữa thầy tính vào học phí."
+
+Cô rút tay về, xoa mấy đốt ngón dưới gầm bàn, và ghét anh đúng ba giây.
 
 Cô nói về Hà Nội, vì quê cô là Hà Nội, và vì quê cô là cái ngõ lát gạch nhỏ ở phía sau hồ mà cô chỉ nhớ đến lúc ba tuổi, trước khi gia đình chuyển. Cô nói hai phút. Một cái giếng không còn nước. Một bà bán bánh rán ở góc ngõ gọi cô là *công chúa*. Một mùi mà cô không bao giờ gọi được tên, mùi nằm giữa bụi đường và hoa bưởi. Cô nói đúng khung, có chấm, có mũi tên, nhưng ví dụ thì lần này đến từ một chỗ không có khung. Cô nghe mình nói *tôi nhớ mùi* và biết câu ấy không nằm trong bất cứ đề mẫu nào.
 
@@ -142,7 +150,7 @@ Anh cười, rồi thôi cười, rồi nhìn xuống bàn, nhìn cánh đào đ
 
 "Anh nói khó nghe lắm," anh nói. "Giọng quê. Hồi mới ra ngoài này, anh bị cười hai tháng liền. Phải tập nói cho giống. Nghe băng, nghe radio, nghe người Hà Nội nói. Giờ thì không ai nhận ra, trừ khi gặp mẹ gọi." Anh nhún vai. "Em đừng để ý."
 
-"Không khó nghe."
+"Ơ… không khó nghe mà."
 
 Câu ấy ra khỏi miệng cô nhanh quá. Nhanh hơn cô định. Như một quả bóng bật ra khỏi tay trước khi cô quyết định ném.
 
@@ -154,7 +162,7 @@ Anh ngẩng lên.
 
 Cô nghe giọng mình, thấp xuống nửa tông, và biết rằng nếu dừng ở đây thì mọi chuyện sẽ ổn. Đúng khung. Có chấm. Nhưng cô là người nói thẳng nhất nhà, và cái miệng của cô đã đi trước đầu cô.
 
-"Em thích." Cô nhìn thẳng vào mắt anh, rồi nhìn xuống cổ áo len, vì mắt anh quá gần. "Giọng đó dễ nghe hơn giọng thầy dạy."
+"Em… thích." Cô nhìn thẳng vào mắt anh, rồi nhìn xuống cổ áo len, vì mắt anh quá gần. "Giọng đó dễ nghe hơn giọng thầy dạy."
 
 Hai giây.
 
@@ -202,7 +210,7 @@ Anh đứng ở cầu thang, đội mũ bảo hiểm, cài quai.
 
 Anh cười, nhẹ, nhìn xuống bậc thang. "Đoán dở."
 
-"Em đoán giỏi."
+"Em đoán giỏi mà!"
 
 Anh vẫy tay, đi xuống. Tiếng Crocs đều trên bậc gỗ. Rồi tiếng cửa. Rồi tiếng xe buýt ngoài phố, rồi im.
 

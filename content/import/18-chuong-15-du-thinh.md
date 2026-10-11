@@ -64,11 +64,13 @@ Anh nhắn cho Vũ:
 
 :::chat
 > bài tập kỹ năng hỏi. có đáp án rồi
-Vũ Béo: đáp án gì
+Vũ Béo: Đáp án gì
 > k
-Vũ Béo: đm. con bé từ chối m bằng tiếng anh à
-> từ chối theo khung chấm điểm. đúng khung luôn, t cho điểm cao
-Vũ Béo: m còn chấm điểm cả câu từ chối m. t chịu m thật
+Vũ Béo: Đm
+Vũ Béo: Con bé từ chối m bằng tiếng anh à =)))))
+> từ chối theo khung chấm điểm. đúng khung luôn, t cho điểm cao 🥀
+Vũ Béo: M còn chấm điểm cả câu từ chối m
+Vũ Béo: T chịu m thật 🤡
 :::
 
 Hai buổi học sau đó, anh dạy đúng giờ, về đúng giờ. Đề Speaking anh in từ bộ đề của British Council. Cái file có thẻ đề tự soạn lúc chín giờ tối, anh không mở lại. Kỹ năng hỏi thì luyện được, anh vẫn tin thế. Nhưng luyện bắn thì người ta bắn bia đứng yên. Không ai tập bắn vào một con chim đang bay ngang, không xi nhan.
@@ -181,7 +183,7 @@ Anh gạt ý nghĩ ấy đi trước khi nó kịp ngồi xuống. Ở đây, í
 
 ---
 
-Hiệp hai là lượt tập của hai bạn năm ba trong đội. Cô rời bàn, đi xuống cuối phòng, ngồi vào hàng ghế dự thính. Cách anh một ghế, nhích lên trước nửa thân người, vì hàng ghế gấp kê không thẳng.
+Lượt thứ hai là lượt tập của hai bạn năm ba trong đội. Cô rời bàn, đi xuống cuối phòng, ngồi vào hàng ghế dự thính. Cách anh một ghế, nhích lên trước nửa thân người, vì hàng ghế gấp kê không thẳng.
 
 Cô vắt chân.
 
@@ -195,7 +197,7 @@ Sống lưng anh lạnh một đường. Nhưng mắt anh không chạy.
 
 Cô quay đầu lại. Theo hướng mắt anh, cô nhìn xuống chân mình. Rồi nhìn lên anh.
 
-Cô không kéo váy. Không đổi chân. Cái mắt cá chân vẫn ở yên đó, dưới ánh đèn ống, như một luận điểm đã đặt lên bàn và không có ý rút lại. Cô nhìn anh, bình thản, chờ.
+Cô không kéo váy. Không đổi chân. Cái mắt cá chân vẫn ở yên đó, dưới ánh đèn ống, như một thứ đã đặt lên bàn và không có ý rút lại. Cô nhìn anh, bình thản, chờ.
 
 Ở quán hồng, chỗ này anh quay sang nhìn cái bánh kem nhựa.
 
@@ -237,63 +239,71 @@ Hai túi bánh tráng được đặt lên bàn. Cô lấy điện thoại ra, c
 
 Anh thấy cô chọn ghế. Anh thấy ánh đèn đến từ đúng phía.
 
-Anh cầm đũa lên, xới túi bánh tráng của mình.
+Anh cũng thấy cái vệt đỏ ở mắt cá chân phải, chỗ quai giày cọ vào, giờ đã đỏ hơn lúc chiều. Anh rút hai tờ giấy ăn trong cái hộp nhựa trên bàn, gấp làm tư, gấp thêm lần nữa thành một miếng đệm nhỏ bằng đốt ngón tay, đặt lên bàn, đẩy sang phía cô.
 
-"Hiệp một," cô nói, cất điện thoại. "Mỗi lần gặp, mình cãi một đề. Hôm nay đề của chị: AI vẽ tranh có phải là nghệ thuật không."
+Cô nhìn miếng giấy gấp. Rồi nhìn anh.
 
-"Em phe nào?"
+"Gì đây?"
 
-"Em làm AI. Em phe không."
+"Kẹp vào quai giày. Bên phải." Anh xới túi bánh tráng của mình, không ngẩng lên. "Đi mười bước chị lệch một nhịp."
 
-"Bất công. Chủ tọa chia phe theo nghề nghiệp."
+Cô im một giây. Rồi cúi xuống, kẹp miếng giấy vào quai giày, đúng chỗ vệt đỏ.
 
-"Đàm phán là thế. Người ta không chọn được mình ngồi bên nào của con sông." Cô gắp một quả trứng cút. "Em nói trước."
+"Em nhìn chân chị cả buổi à?" Cô lườm anh, đúng một giây.
 
-Anh nhai xong miếng xoài.
+"Em… nhìn cái vệt đỏ."
 
-"Không phải. Vì nghệ thuật cần một người có thể sai." Anh nói. "Người vẽ đặt một nét xuống, nét ấy có thể hỏng, có thể bị chê, có thể bị treo ngược. Họ vẫn đặt. Cái đấy mới là thứ mình nhìn thấy trong tranh. Máy không sợ hỏng. Máy vẽ một nghìn bức, vứt chín trăm chín mươi chín. Không ai bị từ chối cả."
+"Cái vệt đỏ nằm ở chân chị."
 
-"Người xem không nhìn thấy nỗi sợ của họa sĩ." Cô đáp ngay, không cần một giây. "Người xem nhìn thấy bức tranh. Một bức tranh treo ở bảo tàng là nghệ thuật. Cùng bức đấy treo ở quán phở là tranh treo quán phở. Nghệ thuật là thứ người xem tin là nghệ thuật."
+"Thì… nó nằm ở đấy, em đâu có chọn."
 
-"Thế thì nghệ thuật là cái khung, không phải cái tranh."
+Cô cười, cúi xuống túi bánh tráng, và anh thấy vành tai cô hồng lên dưới cái kẹp càng cua.
 
-"Ừ. Khung quan trọng hơn em nghĩ."
+"AI vẽ tranh có phải nghệ thuật không?" cô hỏi, gắp một quả trứng cút. "Em làm AI. Em trả lời đi."
 
-"Thế một bức AI vẽ, treo vào bảo tàng, ghi tên một họa sĩ thật. Người xem tin. Là nghệ thuật à?"
+"Không phải," anh nói. "Vì nghệ thuật cần một người có thể sai. Người vẽ đặt một nét xuống, nét ấy có thể hỏng, có thể bị chê. Họ vẫn đặt. Máy thì không sợ hỏng."
 
-"Là nghệ thuật cho đến hôm có người phát hiện." Cô chỉ đũa vào anh. "Rồi thành tin tức. Tin tức cũng là một loại nghệ thuật."
+"Hừm." Cô nhai, nghĩ. "Người xem có nhìn thấy nỗi sợ của họa sĩ đâu. Người ta nhìn bức tranh. Treo ở bảo tàng thì là nghệ thuật. Treo ở quán phở thì là tranh quán phở."
 
-"Chị vừa cãi thua mà gọi nó là thắng theo một cách khác."
+"Thế thì chị là nghệ thuật."
 
-"Chị vừa cãi thắng mà em chưa nhận ra."
+Cô ngẩng lên. "Gì cơ?"
 
-"Nghệ thuật cần người chịu trách nhiệm," anh nói, nhanh hơn. "Ký tên. Bức nào xấu, có người phải xấu hổ."
+"Chị bảo nghệ thuật là thứ người ta tin là nghệ thuật. Sáng nay cả phòng tập tin chị. Đội bên kia tin chị. Em ngồi ghế dự thính cũng tin." Anh gắp một miếng xoài. "Thế thì chị là nghệ thuật. Theo định nghĩa của chị."
 
-"Thông cáo báo chí cũng ký tên. Có ai bảo thông cáo báo chí là nghệ thuật đâu."
+"Em đang chơi chữ để thắng."
 
-"Có. Báo cáo của sếp em. Nghệ thuật hư cấu, ký tên to nhất trang."
+"Em đang chơi chữ để khen. Khác nhau."
 
-Cô bật cười, rồi kìm lại, rồi không kìm được nữa. "Thế thì em tự thua. Máy không ký tên mà em vẫn bảo người ký tên cũng bịa được."
+"Ơ hay." Cô đặt đũa xuống. "Nói lại xem."
 
-"Em bảo người ký tên thì bịa được. Máy thì không cần bịa. Máy không biết là mình đang bịa. Khác nhau ở chỗ đấy."
+"Nói lại gì ạ?"
 
-"Khác nhau ở chỗ ai bị bắt."
+"Câu vừa rồi. Cái câu khen ấy. Nói lại cho tử tế, không có định nghĩa."
 
-Hai người đã nhoài người qua cái bàn nhựa từ lúc nào. Cái bàn nhỏ, ghế thấp, mỗi lần cãi lại nghiêng thêm một chút về phía trước. Đến câu ấy, anh ngẩng lên và thấy mặt cô cách mặt mình không đến hai gang tay. Một vệt sa tế bé tí dính ở khóe môi cô, ngay mép viền son đỏ kẻ như thước.
+Anh nhìn cô. Cô chống cằm, chờ, mặt nghiêm như cô giáo chờ học trò đọc lại bài, nhưng khóe môi đã nhích lên một li.
 
-Cô cũng nhận ra khoảng cách ấy cùng lúc. Và cả hai cùng bật cười, sát mặt nhau, cái cười của hai người vừa chạy đua một đoạn dài và cùng lúc dừng lại thở.
+"Sáng nay…" Anh khựng, vì nói lại một câu khen cho tử tế khó hơn nói nó lần đầu. "Sáng nay em không nhìn đội bên kia. Em nhìn chị."
+
+Cô không nói gì. Cô cầm đũa lên, xới túi bánh tráng, rồi đặt xuống, rồi cầm lại.
+
+"Ừm," cô nói. "Được. Câu ấy được."
+
+Hai người đã nhoài người qua cái bàn nhựa từ lúc nào. Cái bàn nhỏ, ghế thấp, mỗi câu lại nghiêng thêm một chút về phía trước. Anh ngẩng lên và thấy mặt cô cách mặt mình không đến hai gang tay. Một vệt sa tế bé tí dính ở khóe môi cô, ngay mép viền son đỏ kẻ như thước.
+
+Cô cũng nhận ra khoảng cách ấy cùng lúc. Và cả hai cùng bật cười, sát mặt nhau, cái cười của hai người vừa chạy một đoạn dài và cùng lúc dừng lại thở.
 
 "Chị dính sa tế," anh nói.
 
-"Chị biết." Cô không lau. "Để em nói câu ấy xem em có nói không."
+"Chị biết." Cô không lau. "Để xem em có dám nói không."
 
 "Em nói rồi."
 
-"Ừ. Em nói rồi." Cô rút một tờ giấy ăn, chấm nhẹ vào khóe môi, đúng một cái, son không suy suyển. "Hiệp này hòa. Biên bản ghi hòa."
+"Ừ. Em nói rồi." Cô rút một tờ giấy ăn, chấm nhẹ vào khóe môi, đúng một cái, son không suy suyển. "Thế thì… hôm nay coi như hòa nhé."
 
-"Chủ tọa tự chấm mình hòa."
+"Chị tự chấm mình hòa à?"
 
-"Chủ tọa hôm nay là đại biểu. Đại biểu được quyền nói mình hòa khi sắp thua."
+"Chị chấm hòa khi chị sắp thua," cô nói. "Đấy là bí quyết."
 
 Anh bật cười lần nữa. Ở quán bánh tráng trộn vỉa hè Chùa Láng, trên một cái ghế nhựa cao không đến đầu gối, anh không phải hạ tốc độ câu nào.
 
@@ -305,7 +315,7 @@ Túi bánh tráng của cô còn một phần ba thì cô đặt đũa xuống.
 
 Giọng bâng quơ, như hỏi giờ xe buýt. Nhưng cô hỏi xong thì cầm cốc trà đá lên, không uống, chỉ cầm.
 
-"Vẫn khó dạy." Anh xới túi bánh tráng của mình, tìm miếng khô bò cuối. "Nhưng tuần trước viết được một câu kết đúng khung. Em cho điểm cao."
+"Ừm… vẫn khó dạy." Anh xới túi bánh tráng của mình, tìm miếng khô bò cuối. "Nhưng tuần trước viết được một câu kết đúng khung. Em cho điểm cao."
 
 "Câu gì?"
 
@@ -323,7 +333,7 @@ Cô nhìn anh một giây. Rồi đặt cốc trà đá xuống, cười. "Chị
 
 "Có. Giá học thử."
 
-"Thế thì em đang bị lỗ." Cô nói, gắp miếng xoài cuối cùng trong túi. "Người khó dạy thì phải trả gấp đôi."
+"Thế thì em lỗ rồi." Cô nói, gắp miếng xoài cuối cùng trong túi. "Người khó dạy thì phải trả gấp đôi."
 
 Anh định nói lại một câu, rồi thôi. Anh nghĩ đến dòng chữ trong danh bạ, vừa gõ tối qua, ba chữ, gọn như cái nhãn. Có nhãn rồi thì không cần nghĩ về cái hộp nữa.
 
@@ -343,21 +353,27 @@ Trên xe buýt, anh mở điện thoại. Hai tin nhắn mới.
 
 :::chat
 Chủ tọa: [ảnh]
-Chủ tọa: Ảnh đẹp nhất của hiệp một. Chị chụp ba tấm, chọn tấm này.
+Chủ tọa: Ảnh đẹp nhất của hiệp một
+Chủ tọa: Chị chụp ba tấm
+Chủ tọa: Chọn tấm này 😌
+> hiệp một??
+Chủ tọa: Chị vừa đặt tên
+Chủ tọa: Lần sau là hiệp hai 🙂
 :::
 
 Túi bánh tráng của cô, sa tế bóng như sơn mài, ánh đèn rọi từ phía sau người chụp. Ở góc trên khung hình, mờ vì ra khỏi tiêu cự, là một nửa túi bánh tráng của anh và một đầu đũa đang chĩa về phía ống kính, đúng lúc anh nói câu *nghệ thuật cần một người có thể sai*.
 
 :::chat
-> c chụp lúc em đang thắng
-Chủ tọa: Chị chụp lúc em đang tưởng mình thắng.
+> c chụp lén em 😱
+Chủ tọa: Chị chụp lúc em chưa biết chị đang nhìn
 :::
 
 Tin thứ hai đến từ lúc chiều, anh chưa đọc.
 
 :::chat
-Học sinh hồng: mai 2h. em chọn quán
-Học sinh hồng: anh nhớ mang ô
+Học sinh hồng: Mai 2h
+Học sinh hồng: Em chọn quán 🎀
+Học sinh hồng: Anh nhớ mang ô đấyyy ☂️
 :::
 
 Anh nhìn hai cái tên nằm chồng lên nhau trong danh sách. Chủ tọa ở trên, có ảnh. Học sinh hồng ở dưới, ba chữ, cái nhãn còn mới.

@@ -78,7 +78,7 @@ Anh trai nhìn cô thêm một giây, cái nhìn mà cô biết từ bé: nhìn 
 
 "Anh sinh viên."
 
-"Không biết. Em không hỏi."
+"Ơ… không biết. Em không hỏi."
 
 "Ừ." Anh quay lại bát cơm của mình. "Lần sau đâm ai thì nhớ hỏi tên."
 

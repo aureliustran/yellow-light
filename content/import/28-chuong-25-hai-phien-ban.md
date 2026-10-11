@@ -7,8 +7,11 @@ Oct 9, 2026 · @aureliustran.
 Sáu giờ bốn mươi sáng, hai tin nhắn vẫn nằm đó, cái trên cái dưới, như hai lá đơn đặt chồng lên nhau trên bàn một người chưa ký.
 
 :::chat
-Anh Tuấn: mai trưa anh em mình đi ăn nhé. anh mời. có mấy việc anh muốn bàn riêng
-Chị Hạnh: Mai trưa ăn với bọn chị nhé em. Chị có chuyện muốn hỏi riêng 😊
+Anh Tuấn: Mai trưa anh em mình đi ăn nhé 👍
+Anh Tuấn: Anh mời. Có mấy việc anh muốn bàn riêng 😂
+Chị Hạnh: Em ơiii
+Chị Hạnh: Mai trưa ăn với bọn chị nhé ^^
+Chị Hạnh: Chị có chuyện muốn hỏi riêng 🤫
 :::
 
 Anh nằm nghiêng, điện thoại cách mặt một gang tay, đọc lại lần thứ năm. Ngoài cửa sổ, bức tường nhà bên vẫn là bức tường nhà bên. Trên trần, con cá vẫn bơi về phía bức tường.
@@ -26,13 +29,15 @@ Hai bữa trưa. Cách nhau một tiếng.
 Anh ngồi dậy.
 
 :::chat
-> dạ anh. 11h15 em lên phòng anh ạ
-Anh Tuấn: ok. anh gọi bánh mì về, ăn trong phòng cho tiện nói chuyện
+> dạ anh 🙏 11h15 em lên phòng anh ạ
+Anh Tuấn: Ok
+Anh Tuấn: Anh gọi bánh mì về, ăn trong phòng cho tiện nói chuyện 👍
 :::
 
 :::chat
 > 12h em xuống chị nhé. em chạy nốt cái log
-Chị Hạnh: Ok em 😊 bún chả sau tòa nhà nhé
+Chị Hạnh: Ok em ^^
+Chị Hạnh: Bún chả sau tòa nhà nhé 🥰
 :::
 
 Gửi xong, anh nhìn hai tin của mình. Không câu nào sai. Mười một giờ mười lăm anh sẽ lên. Mười hai giờ anh sẽ xuống. Cái log thì lúc nào cũng có một cái để chạy nốt.
@@ -45,7 +50,7 @@ Anh đi đánh răng. Trong gương, thằng con trai tóc rối nhìn lại anh
 
 Tầng mười bảy, chín giờ sáng, hai mươi bảy Tết.
 
-Nửa lab đã về quê, hoặc đang ngồi đây nhưng tâm trí đã ở bến xe. Trâm mở ba tab vé tàu. Kiên đeo tai nghe, màn hình là bản đồ đường về Nam Định. Trên bàn chị Phương có một cành đào bích nhỏ cắm trong chai nước khoáng cắt đôi. Ở góc cửa sổ, Thảo vẫn dán nhãn, như thể Tết là một việc của người khác.
+Nửa lab đã về quê, hoặc đang ngồi đây nhưng tâm trí đã ở bến xe. Trâm mở ba tab vé tàu. Anh Kiên đeo tai nghe, màn hình là bản đồ đường về Nam Định. Trên bàn chị Phương có một cành đào bích nhỏ cắm trong chai nước khoáng cắt đôi. Ở góc cửa sổ, Thảo vẫn dán nhãn, như thể Tết là một việc của người khác.
 
 Anh mở đường ống, chạy lại tập kiểm tra hôm qua, nhìn từng dòng log trôi qua như nhìn mưa. Đến mười một giờ mười, anh khóa màn hình, đứng dậy.
 
@@ -210,10 +215,11 @@ Mười một giờ đêm, phòng trọ.
 Điện thoại sáng lên một lần.
 
 :::chat
-Chủ tọa: Chị về quê từ sáng mai.
-Chủ tọa: Mùng Sáu chị lên. Em đi xe cẩn thận.
+Chủ tọa: Chị về quê từ sáng mai
+Chủ tọa: Mùng Sáu chị lên
+Chủ tọa: Em đi xe cẩn thận
 > dạ. c cũng đi cẩn thận
-> về đến nơi nhắn e
+> về đến nơi nhắn e 🥺
 Chủ tọa: Ừ.
 :::
 
@@ -273,7 +279,7 @@ Anh ngủ lúc nào không biết.
 
 Hai mươi tám Tết, lab còn chín người.
 
-Buổi sáng trôi như một ngày nghỉ được trả lương. Chị Phương mang vào một túi mứt gừng. Trâm đã mua được vé tàu, chụp lại gửi vào nhóm chat, kèm ba cái pháo hoa. Kiên lần đầu tiên tháo tai nghe ra khi người ta chúc Tết. Anh Tuấn đi qua từng bàn phát lì xì, mỗi phong bao đỏ một tờ năm mươi nghìn mới cứng, kèm một bàn tay đặt lên vai. Đến lượt Thuyên, anh ta đặt tay lên vai lâu hơn mọi người một chút, bóp nhẹ, như bóp vai một người cùng phe.
+Buổi sáng trôi như một ngày nghỉ được trả lương. Chị Phương mang vào một túi mứt gừng. Trâm đã mua được vé tàu, chụp lại gửi vào nhóm chat, kèm ba cái pháo hoa. Anh Kiên lần đầu tiên tháo tai nghe ra khi người ta chúc Tết. Anh Tuấn đi qua từng bàn phát lì xì, mỗi phong bao đỏ một tờ năm mươi nghìn mới cứng, kèm một bàn tay đặt lên vai. Đến lượt Thuyên, anh ta đặt tay lên vai lâu hơn mọi người một chút, bóp nhẹ, như bóp vai một người cùng phe.
 
 Hai giờ mười lăm, Thảo đứng dậy, đi đến bàn chị Phương, nói gì đó rất nhỏ. Chị Phương gật, không ngẩng lên. Thảo cầm áo khoác, chiếc áo len cũ màu xám, đi ra thang máy.
 
@@ -312,7 +318,7 @@ Anh ngẩng lên.
 
 Cả lab đang nhìn anh.
 
-Không phải nhìn thẳng. Kiên nhìn màn hình, nhưng màn hình của Kiên không có gì. Chị Quỳnh nhìn cốc nước. Chị Phương nhìn cành đào bích. Trâm nhìn ba tab vé tàu đã mua. Nhưng anh biết họ đang nhìn anh theo cái cách người ta nhìn một người duy nhất trong phòng biết bơi khi có ai rơi xuống nước.
+Không phải nhìn thẳng. Anh Kiên nhìn màn hình, nhưng màn hình của anh Kiên không có gì. Chị Quỳnh nhìn cốc nước. Chị Phương nhìn cành đào bích. Trâm nhìn ba tab vé tàu đã mua. Nhưng anh biết họ đang nhìn anh theo cái cách người ta nhìn một người duy nhất trong phòng biết bơi khi có ai rơi xuống nước.
 
 Bốn giờ mười, chị Ngân đi ra cửa thang máy, dán lên một tờ giấy A4, bốn góc băng dính trong.
 
@@ -328,7 +334,7 @@ Không ai nói gì.
 
 Anh ta không nói tên. Không cần.
 
-Thuyên thử một giả thuyết, như mọi khi. Có khi nào Kiên chạy được. Kiên biết phần tải ảnh. Anh liếc sang. Kiên đã quay hẳn người lại, nhìn anh, và lắc đầu, một lần, rất nhỏ. Không phải từ chối. Là thú nhận.
+Thuyên thử một giả thuyết, như mọi khi. Có khi nào anh Kiên chạy được. Anh Kiên biết phần tải ảnh. Anh liếc sang. Anh Kiên đã quay hẳn người lại, nhìn anh, và lắc đầu, một lần, rất nhỏ. Không phải từ chối. Là thú nhận.
 
 Có khi nào anh Bảo. Anh Bảo biết mô hình. Nhưng phần ghép kết quả, phần nối mô hình với dữ liệu đầu ra, nằm trong những cuốn sổ tay riêng của con AI hai mươi bát bún riêu, và trên ổ chung chỉ có hai trang hướng dẫn mà chính anh viết vội hồi tháng mười một. Anh Bảo đọc hai trang ấy sẽ hiểu đường ống chạy *thế nào*. Không hiểu nó *gãy* thế nào.
 
@@ -499,11 +505,12 @@ Anh ngồi đó. Trên màn hình bên cạnh, đường ống vẫn chạy, ô 
 Điện thoại rung. Một tin nhắn.
 
 :::chat
-Chủ tọa: Chúc mừng năm mới bé.
-Chủ tọa: Ở đây không có pháo hoa. Chỉ có tiếng chó sủa.
-> chúc mừng năm mới c
+Chủ tọa: Chúc mừng năm mới bé 🤍
+Chủ tọa: Ở đây không có pháo hoa
+Chủ tọa: Chỉ có tiếng chó sủa 🫠
+> chúc mừng năm mới c 🥺
 > ở đây có pháo hoa mà không có tiếng
-Chủ tọa: Thế thì mình đổi cho nhau.
+Chủ tọa: Thế thì mình đổi cho nhau
 :::
 
 Anh không hỏi *ở đây* của chị là ở đâu.

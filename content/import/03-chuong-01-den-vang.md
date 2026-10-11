@@ -35,26 +35,31 @@ Ba lô nhẹ hơn mọi khi. Không có laptop công ty. Ngăn trước vẫn c�
 Điện thoại rung. Anh đợi đến đèn đỏ mới rút ra xem.
 
 :::chat CLB Tin học – Ban điều hành
-Ngọc Anh (K71): anh Thuyên ơi slide workshop tuần sau anh duyệt giúp em với ạ, em sửa theo góp ý của anh rồi á, nhưng phần demo em vẫn sợ sợ 🥲
-Đức (PCN): à Thuyên ơi, thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy
+Ngọc Anh (K71): Anh Thuyên ơii
+Ngọc Anh (K71): Slide workshop tuần sau anh duyệt giúp em với ạ, em sửa theo góp ý của anh rồi á
+Ngọc Anh (K71): Nhưng phần demo em vẫn sợ sợ 🥲
+Đức (PCN): À Thuyên ơi
+Đức (PCN): Thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy :))
 :::
 
 :::chat Pickup tối T7 🏀
-Vũ Béo: tối nay ra k m, mấy đứa năm nhất đòi gặp "idol" kìa vcl
-Vũ Béo: m mà k ra t bảo m bận đi Mỹ
+Vũ Béo: Ê
+Vũ Béo: Tối nay ra k m
+Vũ Béo: Mấy đứa năm nhất đòi gặp "idol" kìa vcl =)))))
+Vũ Béo: M mà k ra t bảo m bận đi Mỹ 🤡
 :::
 
 Thuyên trả lời Ngọc Anh:
 
 :::chat
-^ Ngọc Anh (K71): anh Thuyên ơi slide workshop tuần sau anh duyệt giúp em với ạ, em sửa theo góp ý của anh rồi á, nhưng phần demo em vẫn sợ sợ 🥲
-> ok trưa a xem, demo cứ chạy thử trước 1 lần với máy chiếu phòng 302 nhé, máy đấy hay lag lắm.
+^ Ngọc Anh (K71): Nhưng phần demo em vẫn sợ sợ 🥲
+> ok trưa a xem, demo cứ chạy thử trước 1 lần với máy chiếu phòng 302 nhé, máy đấy hay lag lắm
 ~ Nghĩ một chút, anh gõ thêm:
-> mà làm được thế là ổn rồi, đừng sợ.
-^ Đức (PCN): à Thuyên ơi, thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy
-> ơ ai cho ông nhận hộ tôi thế
-^ Vũ Béo: tối nay ra k m, mấy đứa năm nhất đòi gặp "idol" kìa vcl
-> idol cc. ok vua hợi, tối tính
+> mà làm được thế là ổn rồi, đừng sợ :v
+^ Đức (PCN): Thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy :))
+> ai cho ông nhận hộ tôi thế 😱
+^ Vũ Béo: Mấy đứa năm nhất đòi gặp "idol" kìa vcl =)))))
+> idol cc. ok vua hợi 🖕 tối tính
 :::
 
 Đèn xanh. Anh đi thêm hai trăm mét đến ngã tư tiếp theo, cái ngã tư có đèn đếm ngược mà con số 3 với mỗi người một nghĩa. Với anh, 3 là sắp vàng. Với nửa còn lại của Hà Nội, 3 là còn kịp chán.
@@ -71,7 +76,7 @@ Hai người nhìn nhau khoảng hai giây.
 
 "Ơ…" cô nói. "Ơ anh đi kiểu gì đấy?"
 
-Thuyên chớp mắt. "Ơ… em đâm vào anh mà?"
+Thuyên chớp mắt. "Em… đâm vào anh mà?"
 
 "Đèn vàng mà! Vàng là vẫn đi được, ai lại phanh cái kít như thế?"
 
@@ -99,7 +104,7 @@ Rồi đầu anh quay về chỗ cũ, như bánh xe vừa trượt đã bám l�
 
 Cô cúi xuống xem đầu xe. Tay cô lướt dọc lớp sơn hồng như đang dỗ một con mèo.
 
-"Đây, xước đây này."
+"Này! Xước đây này."
 
 Thuyên cúi xuống nhìn. Phải nghiêng đầu ba lần mới thấy một vệt mờ mờ cỡ đầu móng tay. Lấy ngón cái miết nhẹ thì nó biến mất.
 
@@ -151,11 +156,11 @@ Vcl. Cái gì đây.
 
 "Ừ, hay đấy." Anh gật gù. "Em nên gửi ý tưởng này lên Bộ Giao thông. Chắc họ chưa nghĩ ra đâu, mấy chục năm nay họ chỉ ngồi chờ mỗi em thôi."
 
-"Em biết anh đang mỉa em đấy nhé."
+"Này nhá, em biết thừa anh đang mỉa em đấy."
 
 "Anh có nói gì đâu."
 
-"Anh nói bằng mặt."
+"Anh nói bằng mặt!"
 
 Thuyên định cãi. Thật sự định cãi. Anh có ít nhất ba lập luận xếp hàng sẵn trong đầu.
 
@@ -210,17 +215,18 @@ Anh bỏ tấm thiệp vào ngăn trước ba lô, cạnh sợi dây đeo thẻ 
 Điện thoại lại rung.
 
 :::chat
-Vũ Béo: tối tính là mấy h, nói rõ ra thằng chó
-Vũ Béo: hay lại cho t leo cây như tuần trước
+Vũ Béo: Tối tính là mấy h
+Vũ Béo: Nói rõ ra thằng chó 😡
+Vũ Béo: Hay lại cho t leo cây như tuần trước 👎
 :::
 
 Thuyên gõ:
 
 :::chat
-^ Vũ Béo: tối tính là mấy h, nói rõ ra thằng chó
-> 7h. im mồm đi vua hợi
-> bảo mấy đứa năm nhất mang nước, idol k tự mua nước
+^ Vũ Béo: Nói rõ ra thằng chó 😡
+> 7h. im mồm đi vua hợi 😈
+> bảo mấy đứa năm nhất mang nước, idol k tự mua nước 😏
 ~ Rồi anh mở tin nhắn của Đức, gõ thêm:
-^ Đức (PCN): à Thuyên ơi, thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy
+^ Đức (PCN): Thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy :))
 > ok ông bảo thầy là tôi đi nhé. lần sau hỏi tôi trước đã ông ơi
 :::

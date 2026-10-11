@@ -15,17 +15,20 @@ Lần này anh không chụp ảnh đôi giày gửi cho Vũ.
 Điện thoại vẫn rung.
 
 :::chat
-Vũ Béo: tối nay pickup k
+Vũ Béo: Tối nay pickup k
 > chiều bận. tối ra
-Vũ Béo: bận gì. lại derby đúng k
+Vũ Béo: Bận gì
+Vũ Béo: Lại derby đúng k 🤡
 :::
 
 Anh nhìn xuống chân mình, rồi nhìn quanh phòng như thể Vũ đang nấp trong tủ.
 
 :::chat
-> sao m biết
-Vũ Béo: m trả lời mà k chửi t câu nào. người đi crocs k lịch sự thế
-Vũ Béo: tối nay kể. k kể t nói với cả sân m đi hẹn hò mặc như đi phỏng vấn ngân hàng
+> sao m biết 😱
+Vũ Béo: M trả lời mà k chửi t câu nào
+Vũ Béo: Người đi crocs k lịch sự thế =)))
+Vũ Béo: Tối nay kể
+Vũ Béo: K kể t nói với cả sân m đi hẹn hò mặc như đi phỏng vấn ngân hàng 🖕
 :::
 
 Anh cất điện thoại vào túi áo kaki. Cái ô đen vẫn móc sau cửa. Cái đinh bên cạnh trống. Cái ô hồng anh đã trả hôm thứ Năm, khô cong, gấp gọn, cô cầm lấy, không nói gì, cất vào cốp xe.
@@ -128,19 +131,19 @@ Anh thấy lưng mình thẳng thêm một chút. Không phải vì đôi derby.
 
 "Chị nhìn giày trước nhìn mặt à?"
 
-"Chị nhìn hết. Giày là thứ người ta chọn cuối cùng trước khi ra khỏi nhà, nên nó nói thật nhất." Cô nhấc cốc nước lọc lên. "Hôm MUN em đi đôi này. Hôm dự thính cũng đôi này."
+"Chị nhìn hết." Cô nhấc cốc nước lọc lên. "Giày là thứ người ta chọn cuối cùng trước khi ra khỏi nhà. Nên nó nói thật nhất. Hôm hội nghị em đi đôi này. Hôm dự thính cũng đôi này."
 
-"Em chỉ có một đôi."
+"Thì… em có mỗi một đôi."
 
 "Thế thì nó là đôi cho những hôm có chị."
 
 Anh kéo ghế ngồi xuống. "Nó là đôi cho những hôm có việc quan trọng."
 
-"Thì thế," cô nói, và uống một ngụm nước, như vừa ghi xong một điều vào biên bản.
+"Thì thế," cô nói, và uống một ngụm nước, như vừa thắng mà không cần ai công nhận.
 
 ---
 
-Cô gọi một cái bánh mousse chanh leo. Anh gọi cà phê đen. Sáu mươi nghìn. Hai bát bún riêu. Phố cổ đắt hơn quán hồng Xuân Diệu đúng nửa bát.
+Cô gọi một cái bánh mousse chanh leo. Anh gọi cà phê đen. Sáu mươi nghìn. Phố cổ đắt hơn quán hồng Xuân Diệu đúng nửa bát bún riêu.
 
 Cái bánh đến. Một khối tròn màu vàng nhạt, phủ một lớp thạch chanh leo bóng như mặt hồ, cắm một cái lá bạc hà.
 
@@ -152,113 +155,125 @@ Anh thấy hết. Ba tấm, mỗi tấm chỉnh một thứ. Anh có thể đọ
 
 Anh chọn nhìn cái lá bạc hà.
 
-"Chị chụp bánh hay dựng hiện trường?"
+"Chị chụp bánh hay… dựng hiện trường?"
 
 "Bánh đẹp thì phải được nhìn đúng góc." Cô không ngẩng lên. "Cái gì đẹp mà nhìn sai góc là phí."
 
+"Thế em ngồi góc này có phí không?"
+
+Cô ngẩng lên. Nhìn anh đúng một giây, từ trán xuống cằm, như đo một khung hình.
+
+"Hừm. Lệch sáng," cô nói. "Nhưng chị cho qua."
+
 ---
 
-"Hiệp hai," cô nói, đặt điện thoại xuống, màn hình vẫn sáng tấm ảnh thứ ba. "Đi du học hay ở lại. Em đề xuất, em nói trước."
+"Ừm. Đi du học hay ở lại," cô nói, đặt điện thoại xuống, màn hình vẫn sáng tấm bánh thứ ba. "Em trả lời trước."
 
-Anh xoay cốc cà phê.
+"Ở lại… chắc thế."
 
-"Ở lại," anh nói. "Một. Ra ngoài, mình là một trong mười nghìn đứa châu Á giỏi toán. Ở đây, mình là một trong mười đứa làm được việc. Hiếm thì đắt." Anh giơ ngón thứ hai. "Hai. Dữ liệu của nước mình, người nước mình hiểu nhất. Cái bãi bồi trong ảnh vệ tinh, người ở Mỹ nhìn thấy một vệt nâu. Người ở đây biết vệt nâu ấy năm ngoái còn là ruộng của ai." Ngón thứ ba. "Ba. Đi thì nợ. Ở thì có phụ cấp ăn trưa."
+"Sao?"
 
-"Cái thứ ba là thật nhất."
+"Thì… ở đây có cái bánh mousse chanh leo sáu mươi nghìn, mà phải chờ người ta chụp ba lần mới được ăn." Anh nhìn cái bánh. "Sang Mỹ không ai bắt em chờ. Buồn lắm á."
 
-"Cái thứ ba là cái em thuộc nhất."
+"Đấy không phải lý do."
 
-Cô gật đầu, như chủ tọa ghi nhận phát biểu. Rồi ngồi thẳng lên.
+"Đấy là lý do duy nhất đang ở trên bàn." Anh xoay cốc cà phê. "Còn chị?"
 
-"Đi," cô nói. "Một. Ở lại chỉ là lựa chọn khi người ta đã từng có quyền đi. Người chưa đi bao giờ mà bảo ở lại hay thì giống người chưa ăn món đấy bao giờ mà bảo nó không ngon." Cô giơ ngón thứ hai, móng sơn màu đỏ rượu. "Hai. Em bảo hiếm thì đắt. Nhưng hiếm ở một cái ao thì chỉ là cá to. Muốn biết mình là cá gì thì phải ra sông." Ngón thứ ba. Cô dừng một nhịp. "Ba. Đi để đến một chỗ không ai biết mình là con nhà ai. Không ai nhớ nhà mình từng thế nào."
+Cô nghĩ một nhịp. "Đi. Đến chỗ… ừ. Chỗ không ai biết mình là con nhà ai."
 
-Câu thứ ba nhỏ hơn hai câu trước. Cô nói nhanh hơn, rồi cầm thìa lên xắn một miếng bánh, như để lấp chỗ trống sau câu ấy.
+Câu ấy nhỏ hơn câu trước. Cô xắn một miếng bánh ngay sau đó, như lấp chỗ trống.
 
-Anh để ý. Một chỗ cô không chạm vào hết. Anh để yên cho nó nằm đó, như cô sắp để yên cho anh.
+Anh để ý. Một chỗ cô không chạm vào hết. Anh để yên cho nó nằm đó.
 
-Trong phòng có lò sưởi. Anh cởi áo kaki vắt lên lưng ghế, rồi tháo cúc tay áo sơ mi, xắn lên hai nấc, cho ống tay áo len gọn phía trên. Cái Casio lộ ra trên cổ tay.
+"Thế em đi theo xách vali," anh nói.
 
-Cô cầm điện thoại lên, mở lại thư viện ảnh, vuốt qua lại giữa tấm thứ hai và tấm thứ ba. Ngón tay cái dừng ở tấm thứ ba. Phóng to. Thu nhỏ.
+"Ơ hay. Em vừa bảo ở lại."
 
-"Mà em," cô nói, mắt vẫn ở trên màn hình. "IELTS tám chấm từ lớp mười hai. Em có thể đi từ năm mười tám tuổi. Sao em không đi?"
+"Em đổi phe. Chị nói hay hơn, haha."
+
+Cô ngẩng lên, nheo mắt. "Em nhường à?"
+
+"Ừ thì… em nhường. Chị ghi vào đâu đấy, mai đòi."
+
+Cô cười, cười thật, cái thìa còn ở giữa đường lên miệng. Rồi cô cầm điện thoại lên lại, mở thư viện ảnh, vuốt qua vuốt lại giữa tấm thứ hai và tấm thứ ba.
+
+"Mà em," cô nói, mắt vẫn trên màn hình. "IELTS tám chấm từ lớp mười hai. Sao em không… đi?"
 
 Ngón tay anh gõ xuống mặt bàn gỗ hai cái.
 
 *Cộc. Cộc.*
 
-"Vì vé máy bay sang Mỹ bằng tám trăm bát bún riêu," anh nói. "Em tính rồi. Ăn tám trăm bát thì vui hơn ngồi máy bay hai mươi tiếng."
+"Thì… vé máy bay sang Mỹ bằng tám trăm bát bún riêu," anh nói. "Ăn tám trăm bát vui hơn ngồi máy bay hai mươi tiếng, chị nhỉ."
 
 Cô bật cười, mắt vẫn dán vào cái bánh trong màn hình. Ngón tay cái vuốt sang tấm thứ hai, rồi quay về tấm thứ ba.
 
 Cô không thấy bàn tay anh.
 
-Bàn tay anh vẫn nằm trên mặt bàn, ngón trỏ hơi cong, cách cái đĩa bánh một gang. Không ai nhìn nó. Trong đầu anh, một cái phong bì điện tử, một dòng chữ *Congratulations*, một cái Tết, và mạ gắp thêm một miếng thịt vào bát anh rồi nói về con nhà bác Hùng. Tất cả chạy qua trong lúc cô chọn giữa hai tấm ảnh một cái bánh.
+Bàn tay anh vẫn nằm trên mặt bàn, ngón trỏ hơi cong, cách cái đĩa bánh một gang. Trong đầu anh, một cái phong bì điện tử, một dòng chữ *Congratulations*, một cái Tết, và mạ gắp thêm một miếng thịt vào bát anh rồi nói về con nhà bác Hùng. Tất cả chạy qua trong lúc cô chọn giữa hai tấm ảnh một cái bánh.
 
 Anh rút tay về, đặt xuống đùi.
 
-Cô ngẩng lên. Nhìn anh. Nửa giây. Anh thấy mắt cô dừng ở mặt anh đúng nửa giây ấy, như đọc một dòng chú thích, rồi đọc xong.
+Cô ngẩng lên. Nhìn anh nửa giây, như đọc một dòng chú thích.
 
-"Em đùa hay," cô nói.
+"Em vừa đùa để khỏi trả lời."
 
-"Em biết."
+"Ừ."
 
-"Em vừa đùa để khỏi trả lời." Cô đặt điện thoại xuống, úp màn hình. "Theo luật, ai phải đùa để thoát là người thua hiệp."
-
-"Luật của ai?"
-
-"Của chủ tọa." Cô xắn thêm một miếng bánh. "Hiệp này chị thắng. Chị không hỏi nữa."
+"…Chị cho em nợ." Cô đẩy đĩa bánh sang phía anh, đúng một phần tư vòng. "Ăn đi. Miếng có lá bạc hà. Chị chụp xong rồi."
 
 Và cô không hỏi nữa thật.
 
-Anh ngồi đó, chờ câu tiếp theo, câu *thế lý do thật là gì*, câu *em lại né*, câu *lần sau em kể tiếp*. Không có câu nào. Cái cửa vừa đóng, người ta để yên cho nó đóng, rồi bàn sang chuyện khác.
+Anh ngồi đó, chờ câu tiếp theo, câu *thế lý do thật là gì*, câu *em lại né*. Không có câu nào. Cái cửa vừa đóng, người ta để yên cho nó đóng, rồi đẩy sang cho anh miếng bánh đẹp nhất.
 
-Dễ chịu. Dễ chịu như ngồi cạnh lò sưởi.
+Anh ăn miếng có lá bạc hà. Chua trước, ngọt sau, mát ở cuối lưỡi.
 
 ---
 
-Cô nhìn xuống cẳng tay anh. Cái nhìn không vội, đi từ cổ tay, chỗ cái Casio cũ dây kim loại, lên chỗ ống tay áo sơ mi xắn hai nấc, rồi quay lại cái đồng hồ. Nhìn như người đọc một văn bản đến dòng cuối rồi đọc lại dòng đầu.
+Trong phòng có lò sưởi. Anh cởi áo kaki vắt lên lưng ghế, tháo cúc tay áo sơ mi, xắn lên hai nấc. Cái Casio lộ ra trên cổ tay.
+
+Cô nhìn xuống cẳng tay anh. Không vội. Từ cổ tay, chỗ cái Casio cũ dây kim loại, lên chỗ ống tay áo xắn hai nấc, rồi quay lại cái đồng hồ. Nhìn như người đọc một đoạn đến dòng cuối rồi đọc lại dòng đầu.
 
 Anh để cô nhìn. Lần này người ngượng không phải anh. Anh nghĩ thế.
 
 "Em đừng xắn tay áo trước mặt người khác," cô nói.
 
-Anh nhìn xuống tay mình. "Sao? Trông như thợ sửa điều hòa à?"
+Anh nhìn xuống tay mình. "Sao ạ? Trông như thợ sửa điều hòa à?"
 
 "Không." Cô cầm thìa lên, gõ nhẹ vào mép đĩa. "Vì người khác sẽ nhìn."
 
-Anh mở miệng. Định nói một câu. Câu nào cũng được, câu đùa về thợ điện, câu hỏi *thế chị thì sao*. Không câu nào ra.
+Anh mở miệng. Định nói một câu, câu đùa về thợ điện, câu hỏi *thế chị thì sao*. Không câu nào ra.
 
-Cô đã cúi xuống cái bánh, như thể vừa nói một điều về thời tiết.
+Cô đã cúi xuống cái bánh, như vừa nói một điều về thời tiết. Nhưng anh thấy vành tai cô, chỗ lộ ra dưới cái kẹp càng cua, hồng lên một chút.
 
 Anh không kéo tay áo xuống. Cũng không xắn thêm.
 
 "Em có hai giọng," cô nói, không ngẩng lên.
 
-"Em nghe câu này rồi."
+"Câu này… em nghe rồi."
 
 "Ai nói?"
 
 "Một người," anh nói. "Nói về chuyện khác."
 
-Cô ngẩng lên. "Chị nói chuyện của chị. Một giọng lúc em nói với ban tổ chức, với người lớn, với cái ông sếp em kể. Đều, lịch sự, không sai chữ nào. Một giọng lúc em cãi chị. Nhanh hơn, xấu tính hơn." Cô đặt thìa xuống. "Chị thích giọng lúc em cãi chị hơn."
+Cô ngẩng lên. "Chị nói chuyện của chị. Một giọng lúc em nói với ban tổ chức, với người lớn, với cái ông sếp em kể. Đều, lịch sự, không sai chữ nào. Một giọng lúc em nói với chị. Nhanh hơn, xấu tính hơn." Cô dừng, như tìm chữ, rồi thôi tìm. "Chị thích… ừm. Chị thích cái giọng sau hơn."
 
 Dưới giàn hoa giấy hồng, chiều cuối tháng mười, có một câu đã lên đến đầu lưỡi anh rồi anh nuốt xuống. Anh nhớ chính xác độ hé của miệng lúc ấy. Nhớ cái cảm giác đứng ở mép một chỗ không biết sâu bao nhiêu.
 
 Câu ấy lại lên đến đầu lưỡi.
 
-Lần này anh biết sâu bao nhiêu. Anh đọc được cô. Anh biết cô sẽ không đỏ mặt mà không nói. Biết cô sẽ không cúi gằm xuống một cái khóa mũ. Biết, chắc như chắc đại biểu Mỹ thuộc bài, câu ấy rơi xuống đâu.
+Lần này anh biết sâu bao nhiêu. Anh đọc được cô. Anh biết cô sẽ không đỏ mặt mà không nói, không cúi gằm xuống một cái khóa mũ. Biết chắc câu ấy rơi xuống đâu.
 
 "Chị thích giọng em à?"
 
 "Ừ."
 
-Không chớp mắt. Không dừng nửa nhịp. Không nhìn sang tường. Một chữ, đặt xuống bàn, gọn như tiếng búa chủ tọa.
+Không chớp mắt. Không dừng nửa nhịp. Không nhìn sang tường. Một chữ, đặt xuống bàn, gọn.
 
 Anh ngồi yên. Ở chỗ đáng lẽ là vực, chân anh chạm một bậc thang.
 
-"Em hỏi để chị đỏ mặt à?" cô hỏi.
+"Ồ." Cô đặt cốc xuống, chậm. "Em hỏi để chị đỏ mặt à?"
 
-"Em hỏi thử."
+"Em… hỏi thử."
 
 "Thử thì được rồi đấy." Cô chống cằm. "Em hỏi tiếp đi."
 
@@ -268,7 +283,7 @@ Bậc thang tiếp theo ở ngay đó. Anh nhìn thấy nó. Anh không bước.
 
 Cô nhìn anh một giây, như biết anh vừa đổi câu, và quyết định cho qua.
 
-"Giọng lúc em đùa để khỏi trả lời," cô nói.
+"Giọng lúc em đùa để khỏi trả lời."
 
 ---
 
@@ -284,11 +299,13 @@ Nửa còn lại là một cái ô hồng in mặt mèo. Là câu *anh lại đ�
 
 Cái đó thì không ngoan chút nào.
 
-Diệp Anh gật đầu, như đã nghe được câu mình muốn nghe. Cô lau khóe môi bằng khăn giấy, vết son đỏ in lên giấy thành một vệt nhỏ. "Thế kiểu người yêu của em là gì?"
+Diệp Anh gật đầu, như đã nghe được câu mình muốn nghe. Cô lau khóe môi bằng khăn giấy, vết son đỏ in lên giấy thành một vệt nhỏ.
+
+"Thế… kiểu người yêu của em là gì?"
 
 Anh khựng lại.
 
-"Câu hỏi của chủ tọa," cô nói thêm. "Hiệp phụ."
+"Chị hỏi thật," cô nói thêm. "Không phải hỏi cho vui."
 
 Anh xoay cốc cà phê đã nguội.
 
@@ -300,11 +317,11 @@ Và câu hỏi ấy kéo theo một câu khác, cũ hơn. Một cái ghế đá,
 
 Gần ba năm sau, đến lượt anh bị hỏi danh sách của mình.
 
-Anh có thể trả lời bằng cái khung anh dạy hai lần một tuần. Chấm, vì sao, ví dụ, quay về. Nó tự chạy được. Nhưng anh biết cái khung ấy sẽ đi đến đâu: đến một ví dụ quá cụ thể, quá giống một người cụ thể, và đến lúc ấy người ngồi đối diện sẽ đọc được.
+Anh có thể trả lời bằng cái khung anh dạy hai lần một tuần. Chấm, vì sao, ví dụ, quay về. Nhưng anh biết cái khung ấy sẽ đi đến đâu: đến một ví dụ quá cụ thể, quá giống một người cụ thể, và đến lúc ấy người ngồi đối diện sẽ đọc được.
 
 Nên anh chọn câu trả lời của một thằng ngu.
 
-"Xinh," anh nói. "Kiểu xinh đại trà ấy. Ra đường gặp mười người thì ba người như thế."
+"Xinh," anh nói. "Kiểu… xinh đại trà ấy. Ra đường gặp mười người thì ba người như thế."
 
 Diệp Anh nhướng mày. "Chị nên tự ái hay nên mừng?"
 
@@ -324,11 +341,11 @@ Anh cười theo. Câu đùa đã được đỡ, gọn, đúng tốc độ, nh�
 
 Chỉ có anh biết câu thứ hai không phải câu đùa. Nó là câu duy nhất trong buổi chiều anh nói thật, và anh đã gói nó lại bằng một nụ cười để không ai mở ra. Xinh đại trà, vì thích một người cụ thể thì người ta sẽ đọc ra người đó. Đừng hỏi có thật lòng không, vì lần cuối có người hỏi, anh đã trả lời bằng cách làm người ta khóc.
 
-"Em trả lời ngắn nhỉ," cô nói. "Không giống người dạy IELTS."
+"Em trả lời ngắn nhỉ." Cô nghiêng đầu. "Hừm. Không giống người dạy IELTS tí nào."
 
-"Ngoài giờ dạy, em được phép mất điểm Coherence."
+"Ngoài giờ dạy em được phép mất điểm Coherence."
 
-"Chị ghi nhận." Cô gấp khăn giấy lại, vệt son vào trong. "Xinh đại trà. Và không hỏi. Chị làm được cả hai, trừ vế đầu."
+"Chậc." Cô gấp khăn giấy lại, vệt son vào trong. "Xinh đại trà. Và không hỏi. Chị làm được cả hai." Cô dừng. "À không. Trừ vế đầu."
 
 ---
 
@@ -340,11 +357,13 @@ Ra đến phố, gió từ phía hồ lùa vào cổ áo. Mười độ, có khi
 
 Anh đứng im.
 
-Cô bước lên một bước. Cái cổ áo kaki của anh bị gập vào trong một bên, chắc từ lúc mặc vội. Cô kiễng chân. Bốt gót vuông đã cao, cô vẫn phải kiễng, hai tay đưa lên, lật cái cổ áo ra, vuốt phẳng, chỉnh cho hai bên đều nhau.
+Cái cổ áo kaki của anh bị gập vào trong một bên, chắc từ lúc mặc vội. Cô bước lên một bước. Bốt gót vuông đã cao, cô vẫn phải kiễng, hai tay đưa lên.
 
 Mặt cô cách mặt anh một gang tay.
 
-Gần thế này, anh thấy viền son của cô không phải kẻ bằng thước. Có một chỗ ở khóe môi trái hơi nhòe, chắc từ lúc lau bằng khăn giấy. Hơi thở cô thành khói mỏng, chạm cằm anh, ấm, rồi tan. Mắt cô không nhìn mắt anh. Mắt cô nhìn cái cổ áo, chăm chú, như đang ký một văn bản quan trọng.
+Anh không nhìn thấy phố nữa. Chỉ còn khoảng một gang tay ấy. Hơi thở cô thành khói mỏng trong cái lạnh, chạm cằm anh, ấm, rồi tan, rồi lại chạm. Ngón tay cô lật cổ áo ra, vuốt phẳng, và đầu một ngón tay quệt qua da cổ anh, chỉ một lần, lạnh, như một giọt nước. Viền son của cô không kẻ bằng thước. Có một chỗ ở khóe môi trái hơi nhòe, từ lúc lau bằng khăn giấy. Mắt cô không nhìn mắt anh. Mắt cô nhìn cái cổ áo, chăm chú quá mức một cái cổ áo cần.
+
+"Hah…" Cô thở ra, nhỏ, như vì lạnh. "Lệch cả hai bên."
 
 Cúi xuống thêm năm phân thì…
 
@@ -356,7 +375,7 @@ Tay anh buông thõng hai bên. Anh không biết để chúng ở đâu khác.
 
 Anh giật mình. Câu ấy có người nói với anh rồi. Một thằng béo trên bậc thềm sân bóng, tay cầm hộp sữa đậu nành móp.
 
-"Có người nói với em câu này rồi," anh nói.
+"Câu này… có người nói rồi."
 
 "Lại một người à?" Cô nhướn mày. "Em có nhiều người nói câu giống chị thế."
 
@@ -366,7 +385,7 @@ Anh giật mình. Câu ấy có người nói với anh rồi. Một thằng bé
 
 "Chuyện em không biết làm gì với tay."
 
-Cô nhìn xuống hai bàn tay buông thõng của anh. Rồi nhìn lên. Cô cười, cái cười bật nắp như ở hành lang Học viện, nhưng lần này không che miệng.
+Cô nhìn xuống hai bàn tay buông thõng của anh. Rồi nhìn lên. Cô cười, lần này không che miệng.
 
 "Nó nói đúng," cô nói.
 
@@ -376,17 +395,17 @@ Họ đi bộ ra phía hồ, cô gọi xe ở đó. Đường phố cổ chiều
 
 Người đi ngược chiều nhìn cô. Một bà bán hàng rong, hai cô gái cầm cốc trà sữa, một ông Tây đeo máy ảnh. Rồi họ nhìn sang người đi cạnh cô. Anh để họ nhìn. Anh đi thẳng lưng, bước dài vừa đủ để không vượt lên cô nửa bước nào, đôi derby gõ xuống vỉa hè lát đá.
 
-Hôm MUN anh mất ba giây và thấy mình thua. Hôm nay không giây nào. Thứ thay vào chỗ những giây ấy không phải *cô ấy đẹp*, mà là *mình đang đứng cạnh người đẹp nhất ở đây*.
+Hôm hội nghị anh mất ba giây và thấy mình thua. Hôm nay không giây nào. Thứ thay vào chỗ những giây ấy không phải *cô ấy đẹp*, mà là *mình đang đứng cạnh người đẹp nhất ở đây*.
 
 Anh không gọi tên nó. Anh chỉ thấy chân mình nhẹ.
 
 Xe đến. Cô ngồi vào, chưa đóng cửa.
 
-"Hiệp ba em nhắn trước nữa thì chị đề xuất."
+"Lần sau em rủ trước đi," cô nói. "Lần nào cũng chị rủ."
 
-"Thế là mặc cả."
+"Thế… là chị thua à?"
 
-"Thế là ngoại giao." Cô kéo cửa. Qua lớp kính, cô giơ tay lên, không vẫy, chỉ giơ lên một nhịp rồi hạ xuống, như gõ búa không có búa.
+"Thế là chị nhường." Cô kéo cửa. Qua lớp kính, cô giơ tay lên, không vẫy, chỉ giơ lên một nhịp rồi hạ xuống.
 
 ---
 
@@ -403,17 +422,19 @@ Tấm thứ ba. Cái bánh mousse chanh leo, mặt cắt quay ra ánh sáng, lá
 Ngón trỏ hơi cong.
 
 :::chat
-Chủ tọa: Tấm này có tay em.
-Chủ tọa: Chị không đăng. Chị giữ.
+Chủ tọa: Tấm này có tay em
+Chủ tọa: Chị không đăng
+Chủ tọa: Chị giữ
 :::
 
 Anh nhìn cái ngón trỏ cong. Chỉ một người trên đời từng nói cho anh biết bàn tay ấy gõ xuống mặt bàn nghĩa là gì, và người đó không phải người vừa gửi tấm ảnh.
 
 :::chat
-> tay em lên hình trông như thợ sửa điều hòa
-Chủ tọa: Thợ sửa điều hòa không đeo Casio.
-Chủ tọa: Và không đi derby.
-Chủ tọa: Ngủ sớm đi. Mai em đi làm.
+> tay em lên hình trông như thợ sửa điều hòa 🥶
+Chủ tọa: Thợ sửa điều hòa không đeo Casio
+Chủ tọa: Và không đi derby 🙂
+Chủ tọa: Ngủ sớm đi
+Chủ tọa: Mai em đi làm
 :::
 
 Anh bấm vào tấm ảnh, lưu lại. Rồi thoát ra.
@@ -421,8 +442,8 @@ Anh bấm vào tấm ảnh, lưu lại. Rồi thoát ra.
 Ngay dưới *Chủ tọa* là *Học sinh hồng*. Một tin nhắn mới, gửi lúc ba giờ chiều, lúc anh đang ngồi trên tầng ba căn nhà ống, điện thoại úp trong túi áo kaki.
 
 :::chat
-Học sinh hồng: thứ 5 em chọn quán có mái hiên
-Học sinh hồng: để anh khỏi ướt
+Học sinh hồng: Thứ 5 em chọn quán có mái hiên
+Học sinh hồng: Để anh khỏi ướt
 :::
 
 Anh nhìn hai dòng chữ không dấu, không chấm. Ngón cái gõ.

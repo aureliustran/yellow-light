@@ -20,7 +20,7 @@ Lab là một phòng dài, trần thấp, đèn trắng. Bên phải, một dãy
 
 Cái bàn của anh nằm giữa hai khu. Không thuộc dãy tai nghe, không thuộc hòn đảo có con heo. Trên mặt bàn có một vòng tròn mờ của đáy cốc, một chậu xương rồng bằng nắm tay đã khô quắt, và một mẩu giấy nhớ ở mép màn hình: *pass wifi ThienNhan@2025 – đổi rồi, hỏi chị Ngân*. Góc mẩu giấy có ai vẽ một cái mặt cười, rồi gạch đi.
 
-Anh mở ngăn kéo định bỏ mẩu giấy vào. Trong ngăn kéo có sẵn một cái cốc sứ in chữ *ĐẠT*, đáy còn khô một lớp cà phê.
+Anh mở ngăn kéo định bỏ mẩu giấy vào. Trong ngăn kéo có sẵn một cái cốc sứ in chữ *ĐẠT*, đáy còn khô một lớp cà phê. Nằm dưới cái cốc là một hộp nhựa dẹt, nắp mờ vì xước, khi ngăn kéo bị kéo ra thì bên trong lục cục như có sỏi. Anh không mở.
 
 Anh đóng ngăn kéo lại, treo ba lô lên lưng ghế. Cái thẻ chết đung đưa ở quai, logo quay ra lối đi.
 
@@ -84,7 +84,7 @@ Anh Bảo, ngoài bốn mươi, tóc cắt sát, áo phông xám bạc cổ, th�
 
 "Đến đoạn thằng trước nghỉ." Anh Bảo đeo tai nghe lên. Rồi tháo ra lần nữa, giọng khô như bánh đa: "Code của nó trên máy chủ. Đừng đọc sau bữa trưa."
 
-Kiên, kỹ sư trẻ ngồi cạnh, không ngẩng lên, chỉ gửi cho anh một đường dẫn qua tin nhắn nội bộ, kèm chữ *đây*.
+Anh Kiên, kỹ sư trẻ ngồi cạnh, không ngẩng lên, chỉ gửi cho anh một đường dẫn qua tin nhắn nội bộ, kèm chữ *đây*.
 
 Chị Quỳnh tóc búi bằng một cái bút chì. "Chị lo kho ảnh. Ảnh về thì chị cắt, chị cất, chị đánh số. Ảnh đi đâu sau đấy thì chị không biết." Nói xong chị quay lại màn hình, không phải vì khó chịu, mà vì hết chuyện.
 
@@ -130,7 +130,7 @@ Anh Bảo đặt bút xuống. Thở ra một hơi, dài và đều, như máy n
 
 "Vâng. Thợ code xin phép tiếp tục code."
 
-Kiên nhếch mép một li rồi cúi xuống bàn. Sếp đã chuyển sang slide tiếp theo, không nghe ra cái gai trong câu ấy, hoặc nghe ra mà nghĩ đó là gai của người thua.
+Anh Kiên nhếch mép một li rồi cúi xuống bàn. Sếp đã chuyển sang slide tiếp theo, không nghe ra cái gai trong câu ấy, hoặc nghe ra mà nghĩ đó là gai của người thua.
 
 Theo định nghĩa của sếp, Thuyên cũng là thợ code. Chỉ là thợ code có livestream.
 
@@ -160,7 +160,7 @@ Lúc đứng dậy, anh thấy cô gái ở cái ghế xoay cũng đang nhìn th
 
 Căng tin ở tầng ba, rộng như nhà ga, mùi canh chua lẫn mùi dầu rán.
 
-Thuyên bưng khay đứng giữa lối đi hai giây. Bàn sát cột có anh Bảo, Kiên và chị Quỳnh, ba người ba cái điện thoại, ăn không nói câu nào. Còn một chỗ trống ở đầu bàn ấy.
+Thuyên bưng khay đứng giữa lối đi hai giây. Bàn sát cột có anh Bảo, anh Kiên và chị Quỳnh, ba người ba cái điện thoại, ăn không nói câu nào. Còn một chỗ trống ở đầu bàn ấy.
 
 "Thuyên ơi! Đây!"
 
@@ -246,7 +246,7 @@ Chị Hạnh cười. Cười hơi lâu so với câu đùa. Rồi chị lấy m
 
 Cái thẻ chết treo ở lưng ghế cả buổi chiều. Nó làm việc thay anh.
 
-Chị Hạnh đi ngang, đọc logo, lông mày nhướng lên một nấc, rồi nhìn anh bằng ánh mắt của người vừa cộng thêm một con số vào bảng tính. Hà My đi ngang, nhìn logo, rồi rút điện thoại ra như định chụp: một thứ đăng được. Trâm nhìn cái thẻ, rồi nhìn cái ngăn kéo có chiếc cốc chữ *ĐẠT*, như đang ước xem cái thẻ mới này treo ở đây được bao lâu. Kiên không nhìn. Anh Bảo nhìn một lần, không nhìn logo mà nhìn sợi dây xanh, rồi nhìn anh, khóe miệng nhích một cái không rõ khen hay chê.
+Chị Hạnh đi ngang, đọc logo, lông mày nhướng lên một nấc, rồi nhìn anh bằng ánh mắt của người vừa cộng thêm một con số vào bảng tính. Hà My đi ngang, nhìn logo, rồi rút điện thoại ra như định chụp: một thứ đăng được. Trâm nhìn cái thẻ, rồi nhìn cái ngăn kéo có chiếc cốc chữ *ĐẠT*, như đang ước xem cái thẻ mới này treo ở đây được bao lâu. Anh Kiên không nhìn. Anh Bảo nhìn một lần, không nhìn logo mà nhìn sợi dây xanh, rồi nhìn anh, khóe miệng nhích một cái không rõ khen hay chê.
 
 Ba giờ, cô gái ở góc cửa sổ đi ra máy in. Ngang qua cái ghế, cô nhìn cái thẻ chết đúng một giây. Không nhìn logo. Nhìn cái ảnh: thằng sinh viên năm hai mặt gầy hơn, mắt nhìn thẳng vào ống kính như đang cố không chớp.
 
@@ -318,7 +318,7 @@ Kéo lên nữa. Tháng Hai: *Chào mừng Sơn, nhân tố đột phá…* Thá
 
 Người đàn ông trong thang máy sáng nay không đùa. Anh ta đọc dòng chữ trên thẻ, liếc sang người bên cạnh, cái liếc của người đã thấy cái cốc ấy đổi tên nhiều lần. Lab này là chỗ người ta đến, được gọi là đột phá, rồi đi. Còn lại cái cốc.
 
-Thuyên đóng nhóm chat, mở đường dẫn Kiên gửi, đọc mười dòng đầu tiên trong đống code của Đạt.
+Thuyên đóng nhóm chat, mở đường dẫn anh Kiên gửi, đọc mười dòng đầu tiên trong đống code của Đạt.
 
 Anh Bảo nói đúng. Không nên đọc sau bữa trưa.
 
@@ -329,19 +329,23 @@ Sáu giờ anh tắt máy. Dãy tai nghe đã về hết; chị Quỳnh về đ�
 Chín giờ tối, phòng trọ. Anh nằm ngửa, chân còn đi tất.
 
 :::chat
-Vũ Béo: ngày đầu sao
-Vũ Béo: sếp có xinh k
-> sếp nam. ngoài 30. polo dựng cổ, xách túi golf đi gặp đối tác lúc 4h rưỡi chiều
-Vũ Béo: đm. thế đồng nghiệp. chấm đi, em nào 8 điểm
+Vũ Béo: Ngày đầu sao
+Vũ Béo: Sếp có xinh k =)))
+> sếp nam. ngoài 30. polo dựng cổ, xách túi golf đi gặp đối tác lúc 4h rưỡi chiều 🥶
+Vũ Béo: Đm
+Vũ Béo: Thế đồng nghiệp
+Vũ Béo: Chấm đi, em nào 8 điểm
 :::
 
 Ở nhà ăn trường, anh chấm được cả một dãy bàn trong năm phút.
 
 :::chat
 > k chấm được. ở đấy ai cũng đang chấm t
-Vũ Béo: ơ. câu này nghe sợ vl
-Vũ Béo: m trả lời 3 tin k có câu nào khoe. thằng này mọi khi được bát canh chua cũng khoe
-> canh chua miễn phí, ngon gấp đôi. khoe rồi đấy
+Vũ Béo: Ơ
+Vũ Béo: Câu này nghe sợ vl 😅
+Vũ Béo: M trả lời 3 tin k có câu nào khoe
+Vũ Béo: Thằng này mọi khi được bát canh chua cũng khoe
+> canh chua miễn phí, ngon gấp đôi. khoe rồi đấy 😏
 :::
 
 Điện thoại rung lần nữa, khung chat khác.
@@ -361,10 +365,13 @@ Chữ hoa đầu câu. Dấu hỏi chấm. Như mọi lần.
 Ba chấm hiện lên. Lâu.
 
 :::chat
-Chủ tọa: Em kể căng tin, cái bàn, cái cốc.
-Chủ tọa: Em kể sếp nói gì. Em không kể sếp làm gì.
+Chủ tọa: Em kể căng tin, cái bàn, cái cốc
+Chủ tọa: Em kể sếp nói gì
+Chủ tọa: Em không kể sếp làm gì 🙂
 > sếp làm tầm nhìn. ngồi ghế da to
-Chủ tọa: Ở hội nghị, đại biểu nào về chỉ kể bữa trưa là đại biểu vừa thấy một chuyện không muốn ghi vào biên bản.
+Chủ tọa: Hừm
+Chủ tọa: Ở hội nghị, đại biểu nào về chỉ kể bữa trưa
+Chủ tọa: Là đại biểu vừa thấy một chuyện không muốn ghi vào biên bản 📝
 :::
 
 Ngón tay anh dừng trên bàn phím.
@@ -375,18 +382,18 @@ Không có cái nào anh muốn gõ thành chữ. Gõ ra thì nó thành chuyệ
 
 :::chat
 > đại biểu xin bảo lưu ý kiến
-Chủ tọa: Chủ tọa ghi nhận.
+Chủ tọa: Chủ tọa ghi nhận 😌
 :::
 
 Một nhịp.
 
 :::chat
-Chủ tọa: Nhưng chủ tọa nhớ.
+Chủ tọa: Nhưng chủ tọa nhớ
 :::
 
 Anh úp điện thoại lên ngực. Trên trần, con cá vẫn là con cá.
 
-Cả ngày anh đọc mười mấy người, ai anh cũng đọc ra, không mất giây nào. Còn người này, qua mấy dòng chữ có dấu chấm, đọc ra đúng chỗ anh không kể.
+Cả ngày anh đọc mười mấy người, ai anh cũng đọc ra, không mất giây nào. Còn người này, qua mấy dòng chữ mỗi câu một tin, đọc ra đúng chỗ anh không kể.
 
 Một lúc sau anh ngồi dậy, lấy cái thẻ sống trong túi áo khoác ra, đặt lên bàn, cạnh cái ba lô. Cái thẻ chết vẫn móc ở quai, logo quay ra ngoài.
 

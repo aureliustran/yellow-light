@@ -20,7 +20,7 @@ Vũ đưa một cốc. Thuyên cầm, áp vào má trước khi uống.
 
 "Lát học sinh qua," anh nói. "Trả sách."
 
-Vũ đang hút dở thì dừng. "Học sinh nào?"
+Vũ đang hút dở thì dừng. "Học sinh nào cơ?"
 
 "Có mỗi một học sinh."
 
@@ -66,13 +66,13 @@ Chiếc xe hồng dừng ngay cổng nhà xe. Cô xuống, tháo mũ tai mèo. B
 
 Thuyên nhìn. Không mất giây nào. Gương mặt này anh đã quen, cái khăn len cũng chỉ là một cái khăn len. Học sinh thì là học sinh.
 
-"Ơ," anh nói. "Cái bánh bao nhân hồng biết đi xe."
+"Cái bánh bao nhân hồng biết đi xe," anh nói.
 
 Cô kéo khăn xuống khỏi mũi. "Sáu giờ hai tám. Em đến sớm hai phút."
 
 "Thế đứng ngoài cổng thêm hai phút rồi vào cho đúng giờ."
 
-"Rét." Cô mở ba lô, lấy ra cuốn sách bìa xanh, đưa cho anh bằng cả hai tay như nộp bài. Một mẩu giấy nhớ màu hồng thò ra ở giữa. "Trang có giấy nhớ là trang em đọc trộm."
+"Rét lắm!" Cô mở ba lô, lấy ra cuốn sách bìa xanh, đưa cho anh bằng cả hai tay như nộp bài. Một mẩu giấy nhớ màu hồng thò ra ở giữa. "Trang có giấy nhớ là trang em đọc trộm."
 
 "Đọc trộm thì phải giấu. Ai lại đánh dấu."
 
@@ -118,7 +118,7 @@ Thuyên nhìn Vũ. Anh biết cái mặt ấy. Đấy là cái mặt Vũ có h�
 
 "Em về đi kẻo lạnh," anh nói. "Sách trả rồi."
 
-"Em xem một lúc." Cô nhìn quanh sân. "Em chưa xem anh đánh bóng bao giờ."
+"Thì… em xem một lúc." Cô nhìn quanh sân. "Em chưa xem anh đánh bóng bao giờ."
 
 "Xem anh thắng thằng này thì không có gì để xem. Như xem người ta đập muỗi."
 
@@ -152,7 +152,7 @@ Lúc tiếp đất, anh liếc về phía bậc thềm theo thói quen. Nhi đan
 
 "Từ gì?"
 
-"Em chưa nghĩ ra tiếng Anh." Cô gập sổ lại. "Anh đánh tiếp đi."
+"Ừm… em chưa nghĩ ra tiếng Anh." Cô gập sổ lại. "Anh đánh tiếp đi."
 
 Anh nghĩ: học sinh chăm. Ra sân bóng cũng ghi từ vựng. Anh quay lại.
 
@@ -166,9 +166,9 @@ Ba – hai. Bốn – hai. Ở quả thứ năm, anh đưa bóng qua háng hai l
 
 "Là chữ cái Hy Lạp," Thuyên nói.
 
-"Em biết là chữ cái Hy Lạp. Em hỏi anh vuốt cằm làm gì."
+"Này nhá, em biết là chữ cái Hy Lạp. Em hỏi anh vuốt cằm làm gì."
 
-"Kid không cần biết."
+"Kiddd không cần biết."
 
 "Là kiểu đàn ông đi một mình, không cần ai," Vũ giải thích, chống tay lên gối. "Nhưng thằng này thì sáng nào cũng gọi tao ra sân, không có tao nó ném một mình rồi buồn."
 
@@ -206,7 +206,7 @@ Anh nghĩ: chai lạnh, cầm lâu chắc tê tay. Lẽ ra không nên đưa cho
 
 "Lạnh à?"
 
-"Không." Cô nhét hai tay vào túi áo phao. "Vâng. Lạnh."
+"Không." Cô nhét hai tay vào túi áo phao. "Ừ… vâng. Lạnh."
 
 ---
 
@@ -330,15 +330,15 @@ Rồi Vũ nhai. Rồi Vũ ngừng nhai.
 
 Nhi đang bóc gói xôi. Ngón tay cô dừng trên mép lá chuối.
 
-"Anh có người yêu à?"
+"Ơ… anh có người yêu à?"
 
 "Ừ," Thuyên nói. "Từ năm mới."
 
-"Thế à." Cô bóc nốt mép lá. "Em không biết."
+"Ừ… thế à." Cô bóc nốt mép lá. "Em… không biết."
 
 "Có trong bộ đề nào đâu mà biết. Kể ra em lại bắt anh nói đủ hai phút."
 
-"Không. Em chỉ hỏi." Cô cắn một miếng xôi. Nhai. Nhai lâu, lâu hơn một miếng xôi xéo cần. "Chị ấy xinh không?"
+"Không! Em chỉ hỏi thôi." Cô cắn một miếng xôi. Nhai. Nhai lâu, lâu hơn một miếng xôi xéo cần. "Chị ấy xinh không?"
 
 "Xinh. Và cãi nhanh."
 
@@ -356,7 +356,7 @@ Vũ nhai tiếp. Không nói thêm câu nào cho đến hết gói.
 
 Bảy giờ rưỡi, Nhi đứng dậy, đeo ba lô lên, phủi vạt áo phao.
 
-"Em về. Nhà em có giỗ."
+"Em về đây. Nhà em có giỗ."
 
 "Trước Tết giỗ nhiều thật," anh nói. "Thứ Năm nhé. Nhớ chọn quán nào có lò sưởi."
 
@@ -414,8 +414,9 @@ Học sinh: vâng
 Điện thoại rung tiếp.
 
 :::chat
-Chủ tọa: Chiều nay em mặc áo kaki nhé. Chị chọn được chỗ có nền đỏ.
-Chủ tọa: Đừng xắn tay áo.
+Chủ tọa: Chiều nay em mặc áo kaki nhé
+Chủ tọa: Chị chọn được chỗ có nền đỏ 📸
+Chủ tọa: Đừng xắn tay áo 🙂
 > vâng chị chủ tọa. tay áo e sẽ được giữ nguyên trạng
 :::
 

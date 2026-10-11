@@ -164,7 +164,7 @@ function startEditor(): void {
 
   function listItem(r: Row, i: number): HTMLLIElement {
     const [pillClass, pillText] = statusPill(r);
-    const dot = h('span', { class: `ch-dot ${r.kind}`, 'aria-hidden': 'true' });
+    const dot = h('span', { class: `ch-dot is-${r.kind}`, 'aria-hidden': 'true' });
     if (r.kind === 'interlude') dot.style.background = r.color ?? DEFAULT_COLOR;
     const open = h(
       'button',

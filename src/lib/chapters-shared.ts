@@ -36,9 +36,16 @@ export function withNumbers<T extends ChapterRow>(list: T[]): (T & { number: num
     .map((c) => ({ ...c, number: c.kind === 'chapter' && !isSpecialChapter(c) ? ++n : null }));
 }
 
-export function chapterLabel(c: { kind: ChapterKind; number: number | null }): string {
+export function chapterLabel(c: { kind: ChapterKind; number: number | null; title?: string }): string {
   if (c.kind !== 'chapter') return 'Interlude';
-  return c.number != null ? `Chương ${c.number}` : 'Chương';
+  if (c.number != null) return `Chương ${c.number}`;
+  return c.title != null && isSpecialChapter({ kind: c.kind, title: c.title }) ? 'Chương đặc biệt' : 'Chương';
+}
+
+// Short name used in the prev/next links: "Chương 31 · Mười hai ghế", "Chương 3107".
+export function chapterLinkName(c: { kind: ChapterKind; number: number | null; title: string }): string {
+  if (c.kind !== 'chapter') return c.title;
+  return c.number != null ? `Chương ${c.number} · ${c.title}` : `Chương ${c.title}`;
 }
 
 export function isLive(c: Pick<ChapterRow, 'status' | 'publish_at'>, now = Date.now()): boolean {

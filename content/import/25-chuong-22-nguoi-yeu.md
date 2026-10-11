@@ -38,7 +38,7 @@ Ngày trước anh đếm giây. Bây giờ anh nhìn bao lâu cũng được. K
 
 "Nửa mắt cũng là đẹp trai."
 
-Anh thấy hết. Thấy ở tấm mười bốn cô đứng chính giữa, anh lệch sang một bên, nửa mặt chìm trong bóng tối. Thấy ở tấm hai mươi hai hai người cân nhau như hai đĩa cân. Anh thấy, và thấy không cần nghĩ tiếp. Cô chọn một tấm ảnh nghiêm túc như ký một hiệp ước. Thế là dễ thương. Thế là đủ.
+Anh thấy hết. Thấy ở tấm mười bốn cô đứng chính giữa, anh lệch sang một bên, nửa mặt chìm trong bóng tối. Thấy ở tấm hai mươi hai hai người cân nhau như hai đĩa cân. Anh thấy, và thấy không cần nghĩ tiếp. Cô chọn một tấm ảnh nghiêm túc như chọn một bức tranh để treo cả đời. Thế là dễ thương. Thế là đủ.
 
 Cô chọn tấm mười bốn.
 
@@ -60,9 +60,9 @@ Cô gõ: *Năm mới, người mới.* Nhìn lâu hơn. Xóa.
 
 *[[en: Noted. 01.01.2027 || Đã ghi nhận. 01.01.2027]]*
 
-Anh bật cười. "Như biên bản."
+Anh bật cười. "Như… văn bản hành chính."
 
-"Biên bản thì không ai cãi được." Cô bấm đăng. Rồi đặt điện thoại úp xuống bàn, như đặt cái búa xuống đế gỗ, xong một phiên.
+"Văn bản thì không ai cãi được." Cô bấm đăng. Rồi đặt điện thoại úp xuống bàn, như gập một cuốn sổ đã ghi xong.
 
 Cô với lấy cốc cà phê đen của anh, uống một ngụm, nhăn mặt. "Đắng."
 
@@ -74,18 +74,19 @@ Lần trước, ở hành lang Học viện Ngoại giao, nhìn một vệt như
 
 Cô nhìn anh. "Em làm gì đấy?"
 
-"Chỗ này đã được chủ tọa thông qua."
+"Chỗ này… chị đánh dấu sẵn cho em rồi mà."
 
 Cô bật cười, cái cười bật nắp, lấy tay che miệng. Mắt vẫn cười qua kẽ ngón tay. Ở bàn bên, một cô gái đang chụp cốc trà đào ngẩng lên nhìn.
 
 Điện thoại anh rung trong túi áo hoodie. *Chủ tọa đã gắn thẻ bạn trong một bài viết.* Rồi rung liên tục, như có ai lay. Hưng bình luận ba cái mặt khóc và hai chữ *chị dâu*. Ngọc Anh thả tim. Một đứa bạn cùng lớp anh không nhắn tin từ năm nhất bình luận *ơ???*.
 
 :::chat
-Vũ Béo: ảnh đẹp
-Vũ Béo: m nhắm mắt à
-Vũ Béo: hay hạnh phúc quá k mở nổi mắt
-> nửa mắt là đủ bá khí. mở cả mắt thì thành chói
-Vũ Béo: đm. tháng này thuế tăng gấp đôi
+Vũ Béo: Ảnh đẹp
+Vũ Béo: M nhắm mắt à
+Vũ Béo: Hay hạnh phúc quá k mở nổi mắt =)))))
+> nửa mắt là đủ bá khí. mở cả mắt thì thành chói 😈
+Vũ Béo: Đm
+Vũ Béo: Tháng này thuế tăng gấp đôi 😡
 :::
 
 Ra khỏi quán, gió hồ quất ngang mặt. Vỉa hè Đinh Tiên Hoàng đông người chụp ảnh với mấy cành đào sớm cắm trong xô nhựa.
@@ -121,10 +122,10 @@ Chín giờ, nhóm chat lab sáng lên. Sếp gửi bảy tấm ảnh tiệc t�
 Bảy tấm, tấm nào anh Tuấn cũng đứng giữa. Xung quanh là Trâm, Hà My, chị Ngân, Ly, mỗi tấm xếp lại một kiểu, như cắm lại một lọ hoa. Kèm một dòng:
 
 :::chat Thiên Nhãn – Cả nhà ❤️
-Anh Tuấn: Những bông hoa của Thiên Nhãn 🌸 Năm mới tiếp tục tỏa hương nhé các em!
+Anh Tuấn: Những bông hoa của Thiên Nhãn 🌸 Năm mới tiếp tục tỏa hương nhé các em! 🔥😂
 :::
 
-Thuyên nhớ buổi tất niên hôm ấy. Cả lab đứng chụp chung trước tấm phông đỏ, anh Bảo, Kiên, chị Quỳnh, Thảo đứng ở hàng sau, anh đứng ở rìa. Trong bảy tấm này không còn ai trong số đó. Ở mép tấm thứ năm có một cái khuỷu tay mặc áo kẻ ô, bị cắt ngang. Khuỷu tay của anh Bảo.
+Thuyên nhớ buổi tất niên hôm ấy. Cả lab đứng chụp chung trước tấm phông đỏ, anh Bảo, anh Kiên, chị Quỳnh, Thảo đứng ở hàng sau, anh đứng ở rìa. Trong bảy tấm này không còn ai trong số đó. Ở mép tấm thứ năm có một cái khuỷu tay mặc áo kẻ ô, bị cắt ngang. Khuỷu tay của anh Bảo.
 
 Trâm thả tim sau bốn giây. Hà My sau mười giây, kèm một cái mặt cười che miệng. Chị Ngân sau một phút.
 
@@ -134,7 +135,7 @@ Anh phóng to tấm của Ly. Tay sếp đặt trên vai cô, mấy ngón tay h�
 
 Hai lần đăng ảnh, cách nhau hai ngày. Một tấm, người trong ảnh chọn ba mươi mốt lần. Bảy tấm này, không ai trong ảnh được chọn.
 
-Anh không thả gì. Ở bàn đối diện, anh Bảo không tháo tai nghe, chỉ thở ra một hơi dài, dài đến mức Kiên ngồi cạnh liếc sang rồi lại cúi xuống.
+Anh không thả gì. Ở bàn đối diện, anh Bảo không tháo tai nghe, chỉ thở ra một hơi dài, dài đến mức anh Kiên ngồi cạnh liếc sang rồi lại cúi xuống.
 
 Mười giờ, sếp đi ngang qua dãy bàn, áo vest mới, mùi nước hoa đi trước nửa bước.
 
@@ -169,7 +170,8 @@ Rồi chị quay sang chị Ngân, nghiêng đầu, nói nhỏ một câu gì đ
 Điện thoại Thuyên rung trên bàn.
 
 :::chat
-Anh Tuấn: Thuyên lên phòng anh tí. Slide bên bất động sản anh muốn thêm chữ "hệ sinh thái" vào trang đầu.
+Anh Tuấn: Thuyên lên phòng anh tí
+Anh Tuấn: Slide bên bất động sản anh muốn thêm chữ "hệ sinh thái" vào trang đầu 👍
 :::
 
 Anh đứng dậy, cầm theo hộp bún chả mới ăn được nửa.
@@ -192,13 +194,13 @@ Cô hơi giật mình. Chỉ hơi. Rồi cô nhìn xuống anh.
 
 "Em bao nhiêu tuổi?"
 
-"Ở lab em út phải giả hai mươi lăm. Ở đây năm tuổi." Anh nhắm mắt. "Xoa đầu em đi, chị bé."
+"Ở lab em út phải giả hai mươi lăm. Ở đây năm tuổi." Anh nhắm mắt. "Xoa đầu em đi, chị bééé~"
 
-"Bé năm tuổi mà đòi."
+"Hừm. Bé năm tuổi mà đòi."
 
 "Năm tuổi mới được đòi. Hai mươi lăm tuổi đòi thì bị báo cáo lên phòng nhân sự."
 
-Cô bật cười, khẽ. Rồi bàn tay cô đặt lên tóc anh. Lúc đầu chỉ đặt, như người ta đặt tay lên một con mèo lạ để xem nó có cào không. Rồi các ngón tay luồn vào, chậm, từ trán ra sau, móng tay chạm nhẹ vào da đầu. Anh nghe thấy mùi nước hoa của cô ở cổ tay, thứ mùi đã nằm lại trên cái áo bomber suốt ba ngày sau đêm sân bóng.
+Cô bật cười, khẽ. Rồi bàn tay cô đặt lên tóc anh. Lúc đầu chỉ đặt, như người ta đặt tay lên một con mèo lạ để xem nó có cào không. Rồi các ngón tay luồn vào, chậm, từ trán ra sau, móng tay chạm nhẹ vào da đầu. Một tiếng "ưm…" thoát ra khỏi cổ anh trước khi anh kịp giữ, như con mèo được gãi đúng chỗ, và anh ngượng vì chính tiếng ấy. Tay cô dừng nửa nhịp, rồi gãi đúng chỗ ấy lần nữa, chậm hơn. Anh nghe thấy mùi nước hoa của cô ở cổ tay, thứ mùi đã nằm lại trên cái áo bomber suốt ba ngày sau đêm sân bóng.
 
 Anh mở mắt. Từ chỗ này, anh nhìn thấy cằm cô, đường viền son đỏ từ phía dưới, hàng mi đang cúi xuống. Và phía sau cô, trên trần, vết thấm hình con cá.
 
@@ -228,9 +230,9 @@ Bàn tay trên tóc anh chậm lại nửa nhịp. Anh đếm được nửa nh�
 
 "Mật khẩu điện thoại em là gì?"
 
-Anh đọc luôn, không hỏi lại. Cô với lấy điện thoại của anh trên gối, bấm, lướt danh bạ, nhanh và gọn như tra một điều khoản. Dừng lại.
+Anh đọc luôn, không hỏi lại. Cô với lấy điện thoại của anh trên gối, bấm, lướt danh bạ, nhanh và gọn như tìm một cái tên trong sổ điểm danh. Dừng lại.
 
-"*Học sinh hồng*," cô đọc lên, giọng đọc biên bản.
+"*Học sinh hồng*," cô đọc lên, giọng của người điểm danh.
 
 "Ừ."
 
@@ -252,9 +254,27 @@ Anh cười đến mức đầu rung trên đùi cô. "Chị ghen."
 
 "Ừ. Lần sau em lưu là *Học sinh hồng nơ nhung* cho chị bé sửa lâu hơn."
 
-Cô cúi xuống. Cái kẹp càng cua tuột khỏi tóc lúc cô cúi, rơi *cạch* xuống sàn, và tóc cô đổ xuống hai bên mặt anh như một cái rèm. Trong cái rèm ấy chỉ còn mặt cô, ngược chiều, rất gần. Mùi tóc. Hơi thở có vị cà phê.
+Bàn tay trong tóc anh dừng lại. Rồi rút ra.
 
-Cô hôn anh, ngược chiều, môi trên của cô chạm môi dưới của anh. Anh đưa tay lên, đặt sau gáy cô, chỗ mấy sợi tóc con không bao giờ chịu vào kẹp. Da gáy cô ấm hơn anh tưởng. Không có giây nào đơ. Chỉ có một cái điện thoại úp trên gối.
+"Thôi." Cô khoanh tay, nhìn lên trần, nhìn con cá, nhìn bất cứ đâu trừ anh. "Thứ Năm em gối đầu lên nơ nhung mà nằm."
+
+"Chị béee."
+
+Im. Đầu anh vẫn trên đùi cô, mà đùi cô cứng lại như mặt ghế.
+
+"Em xin đưa vào biên bản là em sai," anh nói. "Lưu là *Học sinh*. Không màu. Không nơ."
+
+"…Điều một," cô nói, vẫn nhìn trần. "Không màu. Không nơ. Điều hai."
+
+"Điều hai là gì ạ?"
+
+Cô không trả lời. Cô cúi xuống. Cái kẹp càng cua tuột khỏi tóc lúc cô cúi, rơi *cạch* xuống sàn, và tóc cô đổ xuống hai bên mặt anh như một cái rèm. Trong cái rèm ấy chỉ còn mặt cô, ngược chiều, rất gần. Mùi tóc. Hơi thở có vị cà phê.
+
+Cô hôn anh, ngược chiều. Môi trên của cô chạm môi dưới của anh trước, và anh nếm được son, chỉ còn vị sáp, rồi đến vị cà phê, rồi đến vị của cô. Mọi thứ ngược: cằm cô ở chỗ mũi anh, hơi thở cô rơi xuống cằm anh thay vì vào miệng. Anh đưa tay lên, đặt sau gáy cô, chỗ mấy sợi tóc con không bao giờ chịu vào kẹp. Da ở đó ấm hơn anh tưởng, và hơi ẩm, như người vừa cúi xuống quá lâu.
+
+"Hah…" Cô thở ra lúc môi rời đi, rất gần, và hơi thở ấy đọng lại trên môi anh một lúc lâu sau khi cô đã ngẩng lên.
+
+Không có giây nào đơ. Chỉ có một cái điện thoại úp trên gối.
 
 ---
 
@@ -268,7 +288,7 @@ Mười giờ tối, cô đứng dậy chỉnh lại váy.
 
 "Mười giờ mười."
 
-"Mười giờ năm." Cô cúi nhặt cái kẹp tóc dưới sàn. "Đấy là nhượng bộ cuối cùng. Phía chị không đàm phán thêm."
+"Mười giờ năm." Cô cúi nhặt cái kẹp tóc dưới sàn. "Thêm nữa là chị… thôi. Mười giờ năm."
 
 Anh ngồi trên giường, ôm eo cô, áp má vào lớp len, đúng năm phút. Rồi buông.
 
@@ -289,16 +309,16 @@ Cô nói về chờ kết quả thi IELTS lần đầu năm lớp mười hai. C
 Điện thoại anh sáng lên dưới mép bàn.
 
 :::chat
-Chủ tọa: Học sinh hôm nay thế nào?
+Chủ tọa: Học sinh hôm nay thế nào 🙂
 :::
 
 Anh gõ bằng một tay, dưới gầm bàn.
 
 :::chat
-> học sinh đang nói. ngoan
+> học sinh đang nói. ngoan 😏
 Chủ tọa: Ngoan đến mức nào?
-> đến mức e rảnh tay nhắn cho c
-Chủ tọa: Thế thì không ngoan lắm.
+> đến mức e rảnh tay nhắn cho c 🥺
+Chủ tọa: Thế thì không ngoan lắm =))
 :::
 
 Anh cười, ngẩng lên. Nhi đã dừng.
@@ -332,7 +352,9 @@ Anh không thấy cô nhìn trang giấy trắng ấy trước khi gập lâu h�
 Bốn giờ bốn mươi, điện thoại anh lại sáng.
 
 :::chat
-Chủ tọa: Chị xong sớm. Em ra Ngũ Xã được không? Có một quán phở cuốn chị muốn em chê thử.
+Chủ tọa: Chị xong sớm
+Chủ tọa: Em ra Ngũ Xã được không?
+Chủ tọa: Có một quán phở cuốn chị muốn em chê thử 🤍
 :::
 
 Anh đứng dậy, vơ tờ đề, nhét vào ba lô. "Hôm nay về sớm mười lăm phút nhé. Anh trừ vào học phí tháng sau, không ai thiệt."
@@ -350,28 +372,31 @@ Mười một giờ đêm, anh nằm trên giường, vẫn còn mùi phở cu�
 Điện thoại rung.
 
 :::chat
-Học sinh: anh để quên sách
-Học sinh: pale blue dot. bìa xanh
+Học sinh: Anh để quên sách
+Học sinh: Pale Blue Dot 📘
+Học sinh: Bìa xanh
 :::
 
 Anh nhìn cái tên. *Học sinh.* Không còn chữ hồng. Gọn hơn. Đúng hơn. Anh thấy nó dễ thương theo cái kiểu một người khác đã chạm vào điện thoại mình.
 
 :::chat
-> ơ. thứ năm sau đưa cũng đc. hoặc chiều cn
-Học sinh: chiều cn em bận. nghỉ 1 buổi nhé
-Học sinh: sáng cn anh ở đâu. em mang qua
+> thứ năm sau đưa cũng đc. hoặc chiều cn
+Học sinh: Chiều CN em bận
+Học sinh: Nghỉ 1 buổi nhé 🥲
+Học sinh: Sáng CN anh ở đâu
+Học sinh: Em mang qua
 > sáng cn anh đánh bóng ở sân khu tập thể. 6h
-> trời rét thế này em dậy k nổi đâu kid
-Học sinh: gửi vị trí
+> trời rét thế này em dậy k nổi đâu kid 🥶
+Học sinh: Gửi vị trí 😤
 :::
 
 Anh gửi.
 
 :::chat
-Học sinh: 6h30
-Học sinh: em đọc trộm 2 trang rồi
-> đọc trộm sách của thầy là phạm luật
-Học sinh: sách để quên là sách vô chủ
+Học sinh: 6h30!!!
+Học sinh: Em đọc trộm 2 trang rồi 🤭
+> đọc trộm sách của thầy là phạm luật 😈
+Học sinh: Sách để quên là sách vô chủ 💅
 :::
 
 Anh cười, đặt điện thoại lên ngực. Trên trần, con cá vẫn ở đó. Từ gối nhìn lên, nó lại quay về hướng cũ, bơi về phía bức tường.

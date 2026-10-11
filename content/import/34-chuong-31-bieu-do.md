@@ -1,0 +1,356 @@
+# Chương 32: Biểu đồ
+
+Oct 9, 2026 · @aureliustran.
+
+*Thứ Hai, 19/4/2027*
+
+Email đến lúc tám giờ năm mươi sáng, đúng lúc cả tầng mười bảy vừa ngồi xuống và chưa ai kịp làm gì.
+
+:::email
+Từ: Khối Chiến lược – Phát triển Kinh doanh
+Đến: Nhóm R&D Thiên Nhãn
+Cc: Trưởng nhóm R&D Thiên Nhãn; Văn phòng Giám đốc Khối Công nghệ
+Chủ đề: Kết thúc khảo sát quý I – Triển khai giai đoạn hai
+
+Kính gửi nhóm R&D Thiên Nhãn,
+
+Khảo sát thị trường quý I đã hoàn tất. Ban Lãnh đạo thống nhất tiếp tục dự án Thiên Nhãn sang giai đoạn hai: hoàn thiện mô hình, đóng gói, chuẩn bị chuyển sang vận hành (production). Mốc hoàn thành dự kiến: giữa tháng 6/2027.
+
+Hướng thương mại hóa cụ thể sẽ được thông báo sau.
+
+Buổi review định kỳ quý I tổ chức lúc 9h00 sáng thứ Ba 20/4, phòng họp lớn tầng 18. Đề nghị anh Tuấn chuẩn bị báo cáo.
+
+Trân trọng.
+:::
+
+Anh đọc hai lần. Lần một để biết lab không bị đóng cửa. Lần hai để đọc dòng *sẽ được thông báo sau*, và hiểu nó nghĩa là chưa ai biết.
+
+Sau lưng anh, chị Ngân đọc to dòng chủ đề cho cả hòn đảo nghe, giọng như đọc kết quả xổ số. Trâm vỗ tay. Hà My nói *cuối cùng cũng có việc*, rồi đứng dậy đi pha cà phê, như thể có việc thì phải có cà phê trước. Ở bàn đối diện, anh Bảo kéo tai nghe xuống một bên, đọc màn hình, rồi kéo lên. Bốn mươi ngày ngồi chơi, và cả lab đón tin có việc lại bằng đúng cái cách người ta đón tin trời sắp mưa.
+
+Chín giờ năm, cửa phòng sếp mở.
+
+"Thuyên ơi."
+
+Anh Tuấn đứng ở cửa, một tay vịn khung, tay kia cầm cốc cà phê của chuỗi đắt nhất tòa nhà. Hôm nay sơ mi xanh nhạt, không phải hồng.
+
+"Mai review với tầng mười tám. Anh Khải chủ trì." Anh ta nói chữ *Khải* nhỏ hơn những chữ khác một chút, như người ta hạ giọng khi đi qua cửa phòng bệnh. "Em làm cho anh bộ slide nhé. Ngắn thôi. Mười trang. Có biểu đồ."
+
+"Dạ. Biểu đồ gì anh?"
+
+"Biểu đồ tiến độ. Cho người ta thấy mình đi lên." Anh ta vẽ một đường xiên trong không khí bằng cốc cà phê. "Đi lên. Em hiểu ý anh không."
+
+"Em hiểu. Đi lên thì em có sẵn. Số thật nó đi lên, anh không phải lo."
+
+Anh Tuấn cười, cái cười của người vừa được bảo là không phải lo. Rồi đóng cửa.
+
+---
+
+Biểu đồ anh có sẵn thật. Anh vẽ nó từ đầu tháng mười hai, hồi người ta còn hỏi nhau *Thiên Nhãn* là cái gì.
+
+Trục ngang là các phiên bản của mô hình, xếp theo ngày. Trục dọc là độ chính xác trên tập kiểm tra. Ba điểm đầu tiên nằm lè tè gần đáy, bảy mươi mốt, bảy mươi ba, bảy mươi tư phần trăm: tháng bảy, tháng tám, tháng chín, những tháng mà cái bàn của anh còn thuộc về Sơn rồi Đạt, cái cốc *ĐẠT* còn chưa bị bỏ lại. Rồi ở cuối tháng mười, đường kẻ gãy lên một khúc. Tám mươi tư. Tám mươi tám. Chín mươi mốt. Chín mươi hai.
+
+Màu xanh lá chuối cho đường kẻ. Màu cam cho các điểm. Hai màu ấy đặt cạnh nhau trên nền trắng chói đến mức nhìn lâu thì mỏi mắt. Con AI đã đề xuất xanh than với xám bạc, anh xóa. Anh vẫn xóa, lần nào cũng xóa.
+
+Dưới chân biểu đồ có một dòng chú thích nhỏ, không phải chữ của anh: *Định hướng: anh Tuấn.* Sếp tự thêm vào từ hôm slide tổng kết năm. Anh để nguyên. Một dòng chú thích thì nặng bao nhiêu.
+
+Anh làm mười trang trong một tiếng rưỡi. Trang bìa sếp sẽ tự sửa, anh biết. Trang hai sếp sẽ thêm chữ *hệ sinh thái*. Những trang có số thì anh làm kỹ, từng con số có nguồn, từng biểu đồ ghi rõ đo trên tập nào. Riêng trang có cái biểu đồ xanh lá chuối, anh đặt ở vị trí thứ sáu. Không đầu, không cuối.
+
+Mười một giờ, file quay lại. Sếp đã sửa trang bìa thành *THIÊN NHÃN – BỨT PHÁ QUÝ II*, thêm hai chữ *hệ sinh thái* vào trang hai, và một câu vào trang cuối: *Dưới sự định hướng sát sao của trưởng nhóm.* Biểu đồ trang sáu không ai động vào.
+
+---
+
+*Thứ Ba, 20/4/2027*
+
+Phòng họp lớn tầng mười tám rộng gấp ba phòng họp tầng mười bảy, và lạnh gấp năm. Một cái bàn gỗ hình bầu dục, mặt bàn bóng đến mức soi được trần nhà. Ghế da đen. Mỗi chỗ ngồi có một chai nước khoáng nhãn ngoại, một tập giấy có in logo, một cây bút có in logo. Cửa kính chạy suốt một bức tường, nhìn xuống Phạm Hùng như nhìn xuống một cái sa bàn.
+
+Anh ngồi ở góc bàn, cạnh cái máy tính nối máy chiếu, vì người ta cần một đứa bấm chuyển trang. Anh Tuấn ngồi giữa, thẳng lưng, cà vạt xanh thẫm, cốc cà phê để trước mặt như một cái huy chương. Chị Hạnh ngồi cuối, sổ bìa da mở sẵn. Anh Bảo ngồi cạnh chị Hạnh, không đeo tai nghe, lần đầu tiên anh thấy hai tai anh Bảo trần trụi ở chỗ làm.
+
+Chín giờ kém hai, cửa mở.
+
+Người bước vào trước là một ông bụng to, tóc vuốt keo, giọng to từ ngoài hành lang vào đến trong phòng. Anh nghe chị Hạnh thì thầm với anh Bảo: *anh Đông, khối chiến lược*. Ông vừa đi vừa nói điện thoại, vừa ngồi xuống vừa nói nốt, rồi úp máy xuống bàn, cười to với cả phòng như cả phòng vừa kể chuyện cười.
+
+Người bước vào sau đi chậm hơn, khép cửa lại sau lưng.
+
+Sơ mi trắng xắn tay. Áo vest xám vắt trên tay, không mặc. Không cà vạt. Một cốc cà phê giấy, loại máy bán tự động.
+
+Khải gật đầu chào cả phòng một lần. Khi mắt đi qua góc bàn, nó dừng ở anh nửa nhịp, và khóe miệng nhích lên một chút, như người nhận ra một khuôn mặt quen ở thang máy.
+
+"Máy cà phê tầng anh sửa xong rồi," Khải nói, đặt cốc xuống. "Hôm nay hỏng lại."
+
+Cả phòng cười. Anh Đông cười to nhất.
+
+Rồi Khải ngồi xuống, kéo tập giấy in logo về phía mình, mở nắp bút. Anh ta không nói thêm câu nào.
+
+"Mời anh Tuấn," anh Đông nói, như mời người lên hát karaoke.
+
+---
+
+Anh Tuấn trình bày được bốn trang trước khi có người ngắt lời.
+
+Người ngắt lời là anh Đông. Ông ngắt lời ba lần trong bốn trang, lần nào cũng để nói một điều không liên quan đến trang đang chiếu. Lần một là chuyện một tập đoàn ở Singapore cũng làm ảnh vệ tinh. Lần hai là chuyện con trai ông thi vào trường chuyên. Lần ba là chữ *hệ sinh thái*, và anh Tuấn gật đầu như vừa nghe một lời tiên tri, vì đó cũng là chữ của anh ta.
+
+Khải không ngắt lời lần nào. Anh ta nghe, đôi khi ghi một chữ vào tập giấy, nhấp cà phê, nhìn màn chiếu. Có lúc anh ta nhìn ra cửa kính, xuống Phạm Hùng, lâu đến mức Thuyên nghĩ anh ta đang nghĩ chuyện khác.
+
+Trang năm. Bảng số liệu.
+
+Anh Tuấn đọc con số chín mươi hai bằng cái giọng đọc con số lớn nhất trong đời. "Độ chính xác chín mươi hai phần trăm trên tập kiểm tra. Đây là con số mà ở Việt Nam chưa nhóm nào…"
+
+"Anh Tuấn."
+
+Khải không cao giọng. Anh ta chỉ đặt cây bút xuống mặt bàn gỗ, và cái tiếng *tạch* nhỏ ấy làm anh Đông ngừng gật.
+
+"Báo cáo tháng mười một của lab ghi chín mươi tư." Khải lật tập giấy về trang đầu, nơi anh ta đã ghi gì đó từ trước khi vào phòng. "Báo cáo tổng kết năm ghi chín mươi hai. Hôm nay vẫn chín mươi hai." Anh ta ngẩng lên. "Mô hình tốt lên mà con số đi xuống. Hai con số ấy đo trên cùng một tập không anh?"
+
+Câu hỏi đặt xuống giữa bàn như một cái cốc đặt hơi mạnh tay.
+
+Thuyên nhìn anh Tuấn.
+
+Anh ta không trả lời ngay. Anh ta mỉm cười, cái cười chuẩn bị sẵn cho mọi câu hỏi, và cái cười ấy đứng trên mặt anh ta một giây quá lâu. Tay anh ta tìm cái cốc cà phê, không cầm lên, chỉ xoay. Một vòng. Hai vòng.
+
+"Dạ, anh Khải hỏi rất đúng." Giọng anh Tuấn trơn, nhưng là cái trơn của người đang đi trên sàn mới lau. "Bọn em… ở giai đoạn đầu thì mình đo theo một phương pháp, sau đó qua quá trình triển khai thì bọn em có điều chỉnh phương pháp cho phù hợp hơn với thực tế, theo hướng chặt chẽ hơn, vì định hướng của lab từ đầu là luôn chọn con số bảo thủ. Cho nên về mặt bản chất thì…"
+
+Anh ta ngừng lại. Tìm chữ. Anh Đông gật đầu khích lệ, như gật với một đứa trẻ đang đọc bài.
+
+"…thì đó là sự trưởng thành của mô hình ạ."
+
+Khải không nói gì. Anh ta nhìn anh Tuấn, rồi nhìn xuống tập giấy, rồi viết một chữ.
+
+Thuyên ngồi ở góc bàn, tay đặt trên con chuột, và cảm thấy một thứ gì đó ấm lên dưới xương ức.
+
+Không phải thương. Anh biết cảm giác thương trông thế nào. Cái này khác. Nó giống cảm giác đứng xem một người chuyên đi qua mặt mình bằng giày da bóng, hôm nay trượt chân ở bậc cửa. Không ngã. Chỉ trượt. Và anh đứng đó, nhìn, và không đưa tay ra.
+
+Hôm sếp vứt trang *Nhóm thực hiện* trong một giây. Hôm sếp đặt tay lên vai Ly lâu hơn câu nói một nhịp. Hôm sếp báo lên tầng mười tám rằng bảy chỗ nhầm là do khâu dán nhãn, và Thảo ngồi ở góc cửa sổ không bấm chuột. Một chuỗi những ngày ấy đi qua đầu anh nhanh như cuộn phim tua.
+
+*Trưởng thành của mô hình.*
+
+Anh suýt bật cười. Anh cắn vào má trong.
+
+"Phần phương pháp đo chi tiết thì…" Anh Tuấn quay đầu, tìm quanh bàn như người chết đuối tìm mép bể. Mắt anh ta dừng ở góc bàn. "Thuyên bổ sung cho anh Khải nhé. Em là người trực tiếp triển khai."
+
+Cả phòng quay sang nhìn anh.
+
+Anh Đông nhìn anh như nhìn một món tráng miệng không có trong thực đơn. Chị Hạnh ngừng bút. Anh Bảo không nhìn ai, nhìn chai nước khoáng trước mặt. Khải nhìn anh, bình thản, cốc cà phê lưng chừng giữa bàn và miệng.
+
+Và trong một giây ấy, Thuyên thấy hai cánh cửa.
+
+Cánh cửa thứ nhất là sự thật. Tháng mười một, sếp lấy con số chín mươi tư từ tập huấn luyện mở rộng vì nó đẹp hơn, đưa vào báo cáo, không hỏi ai. Anh Bảo hỏi *đo trên tập nào*, không ai trả lời. Tháng mười hai, sếp đòi làm tròn chín mươi hai lên chín mươi lăm, và anh nhất định giữ chín mươi hai. Chẳng có phương pháp nào được điều chỉnh. Chỉ có một con số bị thổi lên, rồi xẹp xuống.
+
+Anh chỉ cần nói câu đó. Bằng giọng kỹ thuật, khô, công tâm. *Dạ, tháng mười một là số trên tập huấn luyện, em không rõ ai đưa vào báo cáo.* Không một chữ nào sai. Và anh Tuấn sẽ ngồi đó, trước tầng mười tám, trước anh Đông, trước cái người đã hỏi *từng dòng* trong phụ lục hồi tháng mười một.
+
+Cánh cửa thứ hai thì anh đã đi qua nó hàng chục lần.
+
+"Dạ," anh nói. "Tháng mười một bọn em đo trên tập huấn luyện mở rộng, số cao hơn thực tế. Sang tháng mười hai, anh Tuấn chỉ đạo đo lại toàn bộ trên tập kiểm tra độc lập, dữ liệu mô hình chưa nhìn thấy bao giờ, cho chặt. Con số thấp hơn hai điểm, nhưng là con số đứng được trước khách hàng." Anh bấm sang trang sáu. "Từ đấy đến giờ bọn em chỉ báo cáo trên tập kiểm tra. Biểu đồ này là số trên tập kiểm tra từ đầu dự án ạ."
+
+Câu ấy đi ra trơn hơn mọi câu anh từng nói ở tầng mười bảy. Từng chữ đều có thật. Tập huấn luyện mở rộng có thật. Tập kiểm tra độc lập có thật. Con số đứng được trước khách hàng có thật. Chỉ có hai chữ *chỉ đạo* là anh mượn của một người không có mặt ở tháng mười hai, và trả cho một người không biết mình vừa được cho vay.
+
+Anh Tuấn thở ra. Anh nghe thấy tiếng thở ấy từ đầu kia bàn, nhỏ, dài, như tiếng một cái lốp xe được bơm lại.
+
+"Đấy ạ." Anh Tuấn gật mạnh, cầm cốc cà phê lên, lần này uống thật. "Đúng như Thuyên trình bày."
+
+Trên màn chiếu, cái biểu đồ xanh lá chuối hiện lên, chói như một biển quảng cáo giữa đêm.
+
+Anh Đông nheo mắt. "Ối giời, màu gì đây?"
+
+Mấy người bật cười. Anh Tuấn cười theo, hơi nhanh.
+
+Khải không cười. Anh ta nhìn cái biểu đồ. Nhìn lâu hơn bất cứ trang nào trước đó. Mắt anh ta đi dọc trục ngang, từ ba cái điểm lè tè dưới đáy, đến cái chỗ đường kẻ gãy lên ở cuối tháng mười, rồi xuống dòng chú thích nhỏ dưới chân. Giữa hai hàng lông mày anh ta hằn lên một nếp mảnh, rồi tan ngay, như vết ngón tay trên mặt kính lạnh.
+
+"Ai chọn màu này?" Khải hỏi.
+
+Một nhịp im.
+
+"Dạ, em ạ," anh Tuấn nói. "Em muốn cho nó nổi bật."
+
+"Nổi thật." Khải gật đầu, khóe miệng nhích lên. Anh Đông cười phá lên, vỗ bàn, và cả phòng cười theo anh Đông, kể cả anh Tuấn, kể cả chị Hạnh. Trong tiếng cười ấy, Khải cầm bút, viết thêm một chữ vào tập giấy, rồi gập trang lại.
+
+Thuyên không cười. Anh cắn má trong lần thứ hai. Cái màu xanh lá chuối và cam ấy, cả lab chỉ có một người chọn. Anh Bảo biết. Bây giờ sếp vừa nhận nó là của mình, trước tầng mười tám, chỉ vì sếp không biết rằng ở đâu đó có người coi một cái màu xấu là một chữ ký.
+
+Anh liếc sang anh Bảo. Anh Bảo vẫn nhìn chai nước khoáng. Một bên khóe miệng anh Bảo giật nhẹ.
+
+---
+
+Buổi review kéo dài thêm bốn mươi phút. Anh Đông nói hai mươi phút trong số đó. Khải hỏi thêm ba câu, đều là câu dễ, kiểu câu người ta hỏi để biết người kia còn thức: tiến độ đóng gói, số người cần thêm, mốc tháng sáu có kịp không. Anh Tuấn trả lời cả ba câu trôi chảy, bằng cái giọng của người vừa được kéo lên bờ và đã quên mình suýt chìm.
+
+Cuối buổi, Khải đứng dậy trước.
+
+"Lab làm tốt." Anh ta khoác vest lên vai, không xỏ tay. "Giai đoạn hai, tôi muốn đọc tài liệu kỹ thuật đầy đủ. Không phải slide. Tài liệu." Anh ta nhìn anh Tuấn. "Anh gửi cho văn phòng tôi nhé."
+
+"Dạ, em gửi ngay ạ."
+
+Khải gật đầu chào cả phòng một lần. Lúc đi ngang góc bàn, anh ta đặt cái cốc cà phê giấy đã cạn lên cạnh cái máy tính nối máy chiếu, chỗ Thuyên ngồi, như người ta tiện tay để lại cái cốc ở chỗ gần nhất.
+
+"Bánh mì nướng than cổng trường em," Khải nói, không dừng bước. "Bà ấy còn dùng lò điện không?"
+
+"Dạ còn ạ."
+
+"Tiếc." Anh ta mở cửa. Anh Đông đã ra trước, giọng to vọng lại từ hành lang, đang gọi điện cho ai đó về chuyện sân golf.
+
+Cửa khép lại.
+
+Thuyên cầm cái cốc giấy lên, định ném vào thùng rác. Đáy cốc còn một chút cà phê đã nguội, vẽ thành một vòng nâu. Anh đứng nhìn nó một giây, không biết vì sao, rồi ném.
+
+---
+
+Trong thang máy xuống tầng mười bảy, anh Tuấn đứng sát cạnh anh. Gần hơn bình thường. Gần đến mức Thuyên ngửi thấy mùi nước hoa của anh ta, thứ mùi gỗ đắt tiền đã bị cà phê và mồ hôi buổi sáng làm cho chua đi.
+
+"Em đỡ cho anh câu đấy hay quá." Anh Tuấn nói nhỏ, mắt nhìn lên con số tầng đang nhảy. "Hay quá. Anh nói thật. Cả lab này…"
+
+"Chỉ có em thật lòng với anh," Thuyên nói hộ, cười.
+
+Anh Tuấn bật cười, vỗ vai anh hai cái. Chặt. Lâu.
+
+"Đấy. Em hiểu anh mà."
+
+*Ting.* Tầng mười bảy.
+
+Anh Tuấn đi trước, bước nhanh, tiếng giày gõ xuống sàn như tiếng gõ phím của người vừa nghĩ ra câu hay. Thuyên đi sau, chậm hơn một nhịp, và một ý nghĩ đi theo anh từ thang máy ra đến bàn, nhẹ, đều, như tiếng bước chân của chính anh.
+
+*Lão đứng được là nhờ ai.*
+
+Anh ngồi xuống. Cái cốc *ĐẠT* trên bàn vẫn còn nửa cốc trà từ hôm qua. Anh nhìn nó.
+
+Chín mươi giây ở tầng mười tám. Một câu hỏi. Lão xoay cốc cà phê hai vòng, tìm chữ, rồi tìm quanh bàn như người chết đuối. Và người lão tìm thấy là anh.
+
+Anh đã đỡ. Lần này anh đỡ.
+
+Nhưng anh đã nhìn thấy cánh cửa thứ nhất. Nó ở đó, cách anh đúng một câu, và anh biết chính xác câu ấy phải nói bằng giọng nào. Lần này anh không đi qua. Lần sau…
+
+Anh không nghĩ tiếp. Anh mở máy, gõ mật khẩu, và ngón trỏ gõ xuống mép bàn hai lần trong lúc chờ màn hình hiện lên.
+
+---
+
+Mười hai giờ năm, bún chả bà béo.
+
+"Kể đi! Kể đi!" Hà My vỗ bàn trước khi anh kịp ngồi. "Chị Hạnh kể dở lắm, chị ấy chỉ nhớ mỗi anh Đông nói chuyện con trai thi chuyên."
+
+"Chị ghi biên bản, chị nhớ mỗi cái được ghi," chị Hạnh nói, gắp cho anh hai miếng chả.
+
+Anh ngồi xuống. Anh Bảo ở đầu bàn, như mọi lần dạo này, đang gắp hành ra khỏi bát nước chấm.
+
+Thuyên cầm đũa, nhúng một vắt bún vào bát nước chấm, rồi ngẩng lên. Anh xoay cái cốc trà đá trước mặt, một vòng, hai vòng, rất chậm, nhìn lên trần quán như tìm chữ.
+
+"Dạ, anh Khải hỏi rất đúng ạ," anh nói, giọng trơn như sàn mới lau. "Bọn em… ở giai đoạn đầu thì mình đo theo một phương pháp, sau đó qua quá trình triển khai thì bọn em có điều chỉnh phương pháp…"
+
+Hà My đã cười sặc trước khi anh nói hết câu.
+
+"…cho nên về mặt bản chất thì…" Anh ngừng, nhìn quanh bàn bằng ánh mắt người chết đuối. "…đó là *sự trưởng thành của mô hình* ạ."
+
+Cả bàn vỡ ra. Trâm úp mặt xuống tay. Hà My đập đũa vào thành bát, *sự trưởng thành của mô hình*, *sự trưởng thành của mô hình*, đọc đi đọc lại như đọc thần chú, nhại đúng đến từng chỗ ngắt hơi. Chị Hạnh cười, tay che miệng, mắt sáng lên như vừa được tặng quà.
+
+"Thế rồi sao? Lão chết đuối thật à?"
+
+"Suýt. Xong lão quay sang tìm phao." Anh gắp miếng chả. "Phao là em."
+
+"Thế em cứu à?"
+
+Anh nhai. Chậm.
+
+"Cứu thì cứu. Lão chết ở tầng mười tám thì cả lab mình chết theo. Mình còn phải ăn bún chả đến tháng sáu chứ." Anh nuốt. "Cứu xong lão bảo *cả lab chỉ có em thật lòng với anh*. Em suýt hỏi lão có muốn em làm thêm cái slide *sự trưởng thành của tình cảm* không."
+
+Lần này anh Bảo cũng bật ra một tiếng, ngắn, qua mũi. Đúng một tiếng.
+
+"Đấy," chị Hạnh nói, đẩy rổ rau về phía anh. "Đứa nào ở lab này cũng phải cứu lão. Chỉ có Thuyên cứu được mà vẫn giữ được cái mồm."
+
+Anh cười, cầm rổ rau lên. Rồi đặt xuống, gắp thêm một miếng chả, dù hai miếng chị Hạnh gắp cho vẫn còn nguyên trong bát.
+
+Không ai để ý miếng chả thứ ba. Anh cũng không.
+
+"À mà," Hà My nói, giọng đổi sang nhẹ hơn, như người đổi số xe. "Anh Khải có hỏi gì về em không?"
+
+"Về em gì chị?"
+
+"Thì, *người trực tiếp triển khai* ấy." Hà My nhại chữ ấy y như anh Tuấn nói, đúng cái giọng tìm phao. "Sếp to thì hay để ý người làm thật."
+
+"Không chị. Anh ấy chỉ hỏi em bà bán bánh mì cổng trường em còn dùng lò điện không."
+
+Hà My nhìn anh một giây. Rồi cười. "Ừ. Sếp to toàn hỏi những câu chả liên quan."
+
+Anh gật. Đúng thế. Toàn những câu chả liên quan.
+
+---
+
+Ba giờ chiều, anh gửi bộ tài liệu kỹ thuật đầy đủ cho anh Tuấn, để anh Tuấn gửi lên văn phòng Giám đốc Khối Công nghệ.
+
+Hai trăm mười bốn trang. Không phải hai trang trên ổ chung. Không phải những cuốn sổ tay riêng của con AI. Một phiên bản ở giữa: đủ dày để không ai bảo là thiếu, đủ khô để không ai đọc hết. Mục lục, sơ đồ con sông, các khúc lọc mây, cắt ô, mô hình, ghép kết quả. Ở phụ lục cuối, anh để lại một thư mục con anh chưa bao giờ nhắc tới với ai trong lab, đặt tên bằng tiếng Anh như mọi file của riêng anh.
+
+*future_directions/*
+
+Trong đó có một file. *as_the_crow_flies_v0.md.* Năm tuần nay anh đã sửa nó đến phiên bản thứ bảy mà vẫn để tên v0, vì đổi tên thì phải nói với ai đó nó là gì.
+
+Anh nhìn cái thư mục ấy một lúc. Rồi để nguyên. Tài liệu kỹ thuật đầy đủ thì phải đầy đủ. Để nó ở đây thì nó có ngày tạo, có tên người tạo, nằm trong một bộ hồ sơ đã gửi lên tầng mười tám. Một ngày nào đó có ai hỏi *ai nghĩ ra*, câu trả lời sẽ không cần ai đỡ. Mà người ta sẽ không đọc đến phụ lục.
+
+Anh Tuấn chuyển tiếp lúc ba giờ hai mươi, không mở file, tiêu đề email sửa thành *Tài liệu kỹ thuật Thiên Nhãn – do trưởng nhóm tổng hợp*.
+
+---
+
+Năm giờ rưỡi, anh đi pha trà ở pantry cuối hành lang.
+
+Pantry tầng mười bảy là một cái hốc tường có bồn rửa, một cái tủ lạnh nhỏ dán đầy giấy nhớ *ĐỒ CỦA AI NGƯỜI NẤY LẤY*, và cái máy pha cà phê vẫn kêu như mèo ốm. Từ hành lang nhìn vào bị che bởi một cái tủ hồ sơ cao.
+
+Anh nghe giọng chị Hạnh trước khi đến góc tủ.
+
+Chị đang nói điện thoại. Giọng nhỏ, nhưng là cái nhỏ của người quen nói nhỏ ở văn phòng, nên chữ vẫn rõ.
+
+"…thì em đã bảo rồi mà. Anh ấy có người yêu rồi." Một tiếng cười ngắn. "Ừ. Không, em không buồn. Em có buồn gì đâu."
+
+Anh đứng lại sau cái tủ hồ sơ, tay cầm cốc *ĐẠT* rỗng.
+
+"…xinh chứ. Xinh lắm. Em xem ảnh rồi." Một khoảng im, chị nghe đầu bên kia nói gì đó. "Thôi, em không kể nữa đâu. Ừ. Ừ, em biết rồi."
+
+Điện thoại trong túi quần anh rung lên. Một lần, rồi hai lần.
+
+Anh rút ra.
+
+:::chat
+Chủ tọa: Hôm nay review thế nào? 👀
+Chủ tọa: Em chưa kể 🙄
+:::
+
+Anh quay lưng lại với cái tủ hồ sơ, đi ngược về bàn, cốc vẫn rỗng. Đằng sau, giọng chị Hạnh đã chuyển sang chuyện khác, chuyện giá vé máy bay đi Phú Quốc dịp ba mươi tháng tư.
+
+Anh mỉm cười, không vì lý do gì cụ thể. Chị Hạnh vẫn kể chuyện anh với ai đó, sau ba tháng. Người ta vẫn nói về anh ở những chỗ anh không có mặt. Chuyện ấy, hồi tháng mười một chắc anh sẽ nghĩ đến nó cả buổi tối. Hôm nay nó chỉ là một câu, đi qua tai, như tiếng máy pha cà phê.
+
+:::chat
+> lão bị hỏi vặn. e đỡ 😏
+Chủ tọa: Đỡ bằng gì?
+> bằng 1 câu đúng 90%
+Chủ tọa: 10% còn lại?
+> 2 chữ. chỉ đạo 😈
+Chủ tọa: Em vui à 🙂
+> e k vui
+> e chỉ thấy lão đứng được là nhờ e
+Chủ tọa: Em gõ nhanh hơn em nghĩ đấy
+> c đọc tin nhắn như đọc biên bản 🥶
+Chủ tọa: Chị đọc em như đọc biên bản 📝
+Chủ tọa: Tối nay ăn gì?
+> bún riêu
+Chủ tọa: Lại bún riêu 🙄
+> phi thuyền đi đâu cũng về bún riêu
+Chủ tọa: Thế thì chở chị đi ăn bún riêu 🤍
+:::
+
+---
+
+Tám giờ tối, phòng trọ.
+
+Anh nằm ngửa, con cá trên trần vẫn bơi về phía bức tường. Bát bún riêu ở quán đầu ngõ Nguyễn Chí Thanh vẫn còn nóng trong bụng, và mùi tóc hoa nhài vẫn còn ở cổ áo, chỗ cô tựa vào lúc ngồi sau xe.
+
+Anh nhắm mắt, và tầng mười tám hiện lên. Cái bàn bầu dục bóng soi được trần nhà. Anh Đông vỗ bàn. Cái biểu đồ xanh lá chuối chói như biển quảng cáo.
+
+Và anh Tuấn xoay cốc cà phê. Một vòng. Hai vòng.
+
+Anh mở mắt, kéo cái laptop trên bàn xuống bụng, mở một file trống. Gõ: *Dạ, tháng mười một là số trên tập huấn luyện, em không rõ ai đưa vào báo cáo.* Anh nhìn câu ấy. Không một chữ nào sai.
+
+Xóa.
+
+Gõ lại, bỏ chữ *Dạ*. Nhìn. Xóa.
+
+Lần thứ ba anh gõ đến chữ *tháng* thì dừng, giữ phím xóa cho đến khi con trỏ về đầu dòng, nhấp nháy trên nền trắng như một cái đèn vàng ở ngã tư không có ai đứng chờ.
+
+Anh gập laptop. Câu ấy đã có giờ của nó, và giờ ấy là một giây sáng nay, ở tầng mười tám. Bây giờ nó không còn là sự thật nữa. Bây giờ nó chỉ là một cách để lão chết muộn hơn sáng nay nửa ngày, và kéo anh chết theo vì đã đỡ lão.
+
+Anh cầm điện thoại lên, mở lại email buổi sáng. *Hướng thương mại hóa cụ thể sẽ được thông báo sau.* Anh nghĩ đến cái thư mục *future_directions/* nằm ở phụ lục một bộ tài liệu hai trăm mười bốn trang, bây giờ đã nằm trong hộp thư của văn phòng Giám đốc Khối Công nghệ, dưới một tiêu đề có chữ *trưởng nhóm tổng hợp*.
+
+Sẽ không ai đọc đến phụ lục.
+
+Anh đặt điện thoại xuống ngực, và lần đầu tiên sau nhiều tuần, anh ngủ trước mười một giờ.

@@ -44,14 +44,17 @@ Rồi anh mở danh bạ, kéo xuống chữ *V*.
 
 :::chat
 > chiều nay m rảnh k
-Vũ Béo: rảnh. sao
-> chở t ra bến nước ngầm. nhận xe
-Vũ Béo: xe gì
-> bố t gửi ra cái air blade
+Vũ Béo: Rảnh
+Vũ Béo: Sao
+> chở t ra bến nước ngầm. nhận xe 😏
+Vũ Béo: Xe gì
+> bố t gửi ra cái air blade 😈
 Vũ Béo: ĐM
-Vũ Béo: m có xe rồi thì t mất việc à
-> m vẫn có việc. việc ngồi sau
-Vũ Béo: 3h t qua. bao t cốc mía
+Vũ Béo: ĐM ĐM
+Vũ Béo: M có xe rồi thì t mất việc à 😅
+> m vẫn có việc. việc ngồi sau 🖕
+Vũ Béo: 3h t qua
+Vũ Béo: Bao t cốc mía 😡
 :::
 
 ---
@@ -152,45 +155,51 @@ Gửi cho tất cả.
 Chưa đến một phút, ô Locket trên màn hình anh sáng lên một dòng trả lời. Người đầu tiên.
 
 :::chat
-Học sinh: phi thuyền thật
-Học sinh: màu này là màu trời lúc không có trăng
-Học sinh: đi chậm thôi phi công
+Học sinh: Phi thuyền thật!!! 🚀
+Học sinh: Màu này là màu trời lúc không có trăng 🌌
+Học sinh: Đi chậm thôi phi công 🫡
 :::
 
 Anh nhìn dòng thứ hai lâu hơn anh định. *Màu trời lúc không có trăng.* Cùng câu anh vừa nghĩ, đứng ở bến xe, cách cô mười mấy cây số.
 
 :::chat
-> phi công có bằng lái hẳn hoi nhé kid
-Học sinh: bằng lái xe máy k phải bằng lái phi thuyền
-Học sinh: ảnh đẹp. lệch đúng chỗ
+> phi công có bằng lái hẳn hoi nhé kid 😏
+Học sinh: Bằng lái xe máy k phải bằng lái phi thuyền 🙄
+Học sinh: Ảnh đẹp
+Học sinh: Lệch đúng chỗ ✨
 :::
 
 Anh cười, gửi sang người tiếp theo.
 
 :::chat
 > [ảnh]
-> e có phi thuyền r
-Chủ tọa: Đẹp.
-Chủ tọa: Màu này hợp em. Không chói.
+> e có phi thuyền r 😈
+Chủ tọa: Đẹp
+Chủ tọa: Màu này hợp em
+Chủ tọa: Không chói 😌
 Chủ tọa: Ai tặng?
 > bố e gửi ra
-Chủ tọa: Bố em có mắt.
-Chủ tọa: Cuối tuần chở chị. Chị muốn xem phi thuyền đi qua hồ Tây lúc hoàng hôn.
-Chủ tọa: Chị chụp.
+Chủ tọa: Bố em có mắt 🤍
+Chủ tọa: Cuối tuần chở chị
+Chủ tọa: Chị muốn xem phi thuyền đi qua hồ Tây lúc hoàng hôn 🌅
+Chủ tọa: Chị chụp 📸
 :::
 
 Nhóm pickup thì không cần anh gửi. Vũ đã gửi hộ, kèm ảnh chụp lén anh đang đi vòng quanh chiếc xe lần thứ ba, mặt cười như thằng trúng xổ số.
 
-:::chat [Pickup tối T7 🏀]
-Vũ Béo: thằng này có xe rồi các em ạ
-Vũ Béo: nó đi vòng quanh cái xe 3 vòng như đi quanh mộ tổ
-Hưng: anh ơi cho em xin 1 vòng
-Quân: đẹp vl anh. màu gì đấy anh
-> xanh midnight
-Vũ Béo: midnight cái đầu m. xanh đen
-> xanh midnight. tra google đi
-Vũ Béo: cringe nhưng công nhận đẹp
-Vũ Béo: slot ngồi sau t đặt r. hết slot
+:::chat Pickup tối T7 🏀
+Vũ Béo: Thằng này có xe rồi các em ạ =)))))
+Vũ Béo: Nó đi vòng quanh cái xe 3 vòng như đi quanh mộ tổ 🤡
+Hưng: Anh ơii cho em xin 1 vòng 🥹
+Quân: Đẹp vl anh
+Quân: Màu gì đấy anh
+> xanh midnight 😏
+Vũ Béo: Midnight cái đầu m
+Vũ Béo: Xanh đen 👎
+> xanh midnight. tra google đi 🥶
+Vũ Béo: Cringe nhưng công nhận đẹp 😅
+Vũ Béo: Slot ngồi sau t đặt r
+Vũ Béo: Hết slot 🖕
 :::
 
 Lúc Vũ còn bận trả lời nhóm, anh đi ra góc bến, chỗ không có xe khách đỗ, chỉ có một cái cột điện dán kín quảng cáo thông cống. Anh gọi về nhà. Chuông đổ bốn hồi.
@@ -509,26 +518,26 @@ Anh không nghĩ thêm về chuyện đó.
 
 :::chat
 > thứ 7 c rảnh k
-Chủ tọa: Thứ Bảy chị có buổi tập với đội đến 4h.
-Chủ tọa: Sau 4h thì rảnh.
+Chủ tọa: Thứ Bảy chị có buổi tập với đội đến 4h
+Chủ tọa: Sau 4h thì rảnh 👀
 > 7h. e mời
 Chủ tọa: Mời gì?
-> bí mật
-Chủ tọa: Em biết là chị ghét bất ngờ.
+> bí mật 😏
+Chủ tọa: Em biết là chị ghét bất ngờ 🙄
 > e biết
 > nhưng e cũng biết c thích được chiều
-Chủ tọa: Đấy là hai việc khác nhau.
+Chủ tọa: Đấy là hai việc khác nhau
 > hai việc khác nhau mà cùng một người
 Chủ tọa: …
-Chủ tọa: Chị cần biết dress code.
+Chủ tọa: Chị cần biết dress code
 > dress code: đẹp như hôm valentine
-> à mà e đón c. bằng phi thuyền
-Chủ tọa: Váy với phi thuyền thì chị ngồi kiểu gì?
+> à mà e đón c. bằng phi thuyền 😈
+Chủ tọa: Váy với phi thuyền thì chị ngồi kiểu gì 🫠
 > ngồi nghiêng. e đi chậm
 > bố e dặn đi chậm
 Chủ tọa: Bố em dặn em à?
 > bố e viết giấy dặn
-Chủ tọa: Thế thì chị tin bố em.
+Chủ tọa: Thế thì chị tin bố em =))
 :::
 
 Anh úp điện thoại xuống bàn. Cái cốc "ĐẠT" bên cạnh còn nửa cốc trà nguội. Ở bàn đối diện, anh Bảo tháo tai nghe ra một bên, nhìn anh một giây, như nhìn một dòng code chạy được mà không hiểu vì sao, rồi đeo lại.

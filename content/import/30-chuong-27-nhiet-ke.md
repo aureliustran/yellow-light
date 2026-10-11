@@ -18,11 +18,11 @@ Ba cái chấm hiện lên ở góc màn hình. Biến mất. Hiện lên. Biế
 Chủ tọa: Chị ổn.
 :::
 
-Thuyên nằm ngửa, điện thoại giơ ngang mặt, nhìn hai chữ ấy.
+Thuyên nằm ngửa, điện thoại giơ ngang mặt, nhìn hai chữ ấy, và cái dấu chấm đằng sau. Với anh, cô chưa bao giờ đặt dấu chấm.
 
 Anh không hỏi cô có ổn không. Anh hỏi cô ngủ chưa.
 
-Bình thường cô trả lời kiểu khác. *Chưa. Còn kịch bản dẫn chương trình. Em ngủ đi, mai em đi làm.* Ba câu, có dấu chấm, có một lời ra lệnh ở cuối. Hoặc một tấm ảnh màn hình laptop bốn mươi bảy cái tab, kèm một chữ: *Nhìn.* Cô không bao giờ trả lời một câu không ai hỏi.
+Bình thường cô trả lời kiểu khác. *Chưa*, rồi *Còn kịch bản dẫn chương trình*, rồi *Em ngủ đi, mai em đi làm*. Ba tin nối nhau, có một lời ra lệnh ở tin cuối, thường kèm một cái mặt lườm. Hoặc một tấm ảnh màn hình laptop bốn mươi bảy cái tab, kèm một chữ: *Nhìn.* Cô không bao giờ trả lời một câu không ai hỏi.
 
 Hai lần ba chấm. Rồi một câu trả lời cho câu hỏi không có.
 
@@ -30,7 +30,7 @@ Anh gõ: *c sốt à*. Nhìn. Xóa.
 
 Gõ: *e qua nhé*. Nhìn. Xóa.
 
-Nếu hỏi thẳng, cô sẽ trả lời *Không*, kèm một dấu chấm, và cuộc trò chuyện sẽ kết thúc ở đó, sạch sẽ, như đóng một phiên họp. Anh biết cô. Anh biết cô sẽ chọn ngã quỵ trước mặt ba trăm đại biểu chứ không chọn để một người thấy mình nằm trên giường với cái mũi đỏ.
+Nếu hỏi thẳng, cô sẽ trả lời *Không.*, kèm một dấu chấm, thứ cô chỉ đặt khi muốn đóng cửa, và cuộc trò chuyện sẽ kết thúc ở đó, sạch sẽ, như gập một cuốn sổ. Anh biết cô. Anh biết cô sẽ chọn ngã quỵ trước mặt ba trăm đại biểu chứ không chọn để một người thấy mình nằm trên giường với cái mũi đỏ.
 
 :::chat
 > ok. c ngủ đi. mai e nhắn
@@ -201,7 +201,7 @@ Và gập nó lại.
 
 *Tách.*
 
-Tiếng gập máy nhỏ, khô, vang trong căn phòng như tiếng búa gõ xuống đế gỗ.
+Tiếng gập máy nhỏ, khô, vang trong căn phòng như tiếng một cánh tủ đóng khẽ.
 
 "Em không có quyền," cô nói. Giọng khàn nhưng sắc, sắc như ở ghế chủ tọa.
 
@@ -408,7 +408,9 @@ Hết nửa hộp cháo gà, cô lắc đầu. Anh không ép. Anh bóc một qu
 Chín giờ, điện thoại anh sáng lên trên bàn gấp.
 
 :::chat
-Ngọc Anh: Anh ơi em cảm ơn anh vụ góp ý slide hôm qua nhé, thầy khen nhóm em ❤️❤️
+Ngọc Anh: Anh ơiii
+Ngọc Anh: Em cảm ơn anh vụ góp ý slide hôm qua nhé
+Ngọc Anh: Thầy khen nhóm em ❤️❤️🥹
 :::
 
 Điện thoại nằm ngay cạnh cái gối cô đang tựa. Cô liếc xuống. Đọc. Anh thấy mắt cô đọc, dừng lại ở hai trái tim.
@@ -439,7 +441,7 @@ Dấu chấm cuối câu. Không emoji. Không *ok*. Không *em ơi*. Rồi cô 
 
 Gửi.
 
-Cô đặt điện thoại lại lên bàn gấp, màn hình úp xuống, đúng cái kiểu cô vẫn đặt điện thoại xuống sau khi đăng một bài, như đặt búa lên đế.
+Cô đặt điện thoại lại lên bàn gấp, màn hình úp xuống, đúng cái kiểu cô vẫn đặt điện thoại xuống sau khi đăng một bài.
 
 "Ngón tay cái," anh nói.
 
@@ -497,7 +499,7 @@ Cô xoay người lại. Rúc vào. Đầu gối lên cánh tay anh, trán áp v
 
 "Loại rẻ nhất là loại thơm nhất. Em đã nghiên cứu."
 
-"Hôm em giặt xong treo ở cửa sổ, chị lấy." Cô nói, như khai một tình tiết trong biên bản. "Hôm đầu tiên đến phòng em. Lúc em đi rửa cốc."
+"Hôm em giặt xong treo ở cửa sổ, chị lấy." Cô nói, như thú nhận một tội nhỏ đã tính trước. "Hôm đầu tiên đến phòng em. Lúc em đi rửa cốc."
 
 "Sao chị không bảo em?"
 
@@ -696,18 +698,18 @@ Anh nhìn hàng *Một đêm không ngủ*. Ba ô trắng.
 Anh bấm vào ô *Đơn giá* của hàng ấy, thêm một bình luận.
 
 :::chat
-> đề nghị thanh toán bằng hiện vật
+> đề nghị thanh toán bằng hiện vật 😏
 :::
 
 Mười giây sau, điện thoại sáng.
 
 :::chat
-Chủ tọa: Hiện vật gì?
+Chủ tọa: Hiện vật gì? 👀
 > e đang soạn danh mục. dự kiến 3 trang. có mục lục
 Chủ tọa: Trang 1 là gì?
-> trang 1 là xoa đầu. đơn giá 1 lần xoa đầu = 1 lần đo nhiệt độ. còn nợ e 3 lần
+> trang 1 là xoa đầu. đơn giá 1 lần xoa đầu = 1 lần đo nhiệt độ. còn nợ e 3 lần 🥺
 Chủ tọa: Trang 2?
-> trang 2 e chưa dám viết vì sợ bị bác bỏ
+> trang 2 e chưa dám viết vì sợ chị k duyệt 😈
 :::
 
 Ba chấm hiện lên. Biến mất. Hiện lên.

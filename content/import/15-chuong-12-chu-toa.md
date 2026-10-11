@@ -25,15 +25,16 @@ Cái thẻ chết anh để lại trên bàn. Hôm nay không cần.
 Anh chụp một tấm ảnh đôi giày gửi cho Vũ. Không viết gì.
 
 :::chat
-Vũ Béo: ơ
-Vũ Béo: derby
-Vũ Béo: hôm nay có việc gì to à
-> đi làm chuyên gia
-Vũ Béo: chuyên gia gì
+Vũ Béo: Ơ
+Vũ Béo: DERBY??????
+Vũ Béo: Hôm nay có việc gì to à cu 😅
+> đi làm chuyên gia 😏
+Vũ Béo: Chuyên gia cc 🤡
 > chuyên gia đứng một chỗ nói 15p rồi bị hỏi
-Vũ Béo: thế khác gì đi thi vấn đáp
-> khác. thi vấn đáp k có bữa trưa
-Vũ Béo: đm. nhớ chụp ảnh đồ ăn
+Vũ Béo: Thế khác đéo gì đi thi vấn đáp
+> khác. thi vấn đáp k có bữa trưa 😈
+Vũ Béo: Đm 🖕
+Vũ Béo: Nhớ chụp ảnh đồ ăn
 :::
 
 ---
@@ -188,6 +189,12 @@ Anh biết mình đúng. Không phải đoán. Không ai học ngoại giao tự
 
 Cô không đỏ mặt.
 
+Cô cười.
+
+Không phải cái cười chủ tọa, nhích một li. Một tiếng bật ra qua mũi, ngắn, thật, như người vừa bị chọc đúng chỗ nhột, và cô phải quay mặt đi nửa giây để nuốt nó lại. Anh thấy vai cô rung một cái dưới lớp vest đen. Cả phòng không ai thấy. Cả phòng đang nhìn anh.
+
+Cái cay trong anh tắt đi một nửa, trước cả khi anh hiểu vì sao.
+
 Cô cầm điện thoại lên, xoay màn hình về phía anh. Từ chỗ anh ngồi không đọc được chữ, nhưng thấy rõ cái khung chat, cái logo tròn quen thuộc.
 
 "*[[en: Yes, Expert. || Đúng vậy, thưa Chuyên gia.]]*" Giọng cô không đổi. "*[[en: I asked it to make my question as technical as possible. || Tôi đã nhờ nó viết câu hỏi của tôi kỹ thuật nhất có thể.]]*" Cô đặt điện thoại xuống, úp màn hình. "*[[en: Because I wanted to see whether a technical expert can tell which part of a question is the bait. || Vì tôi muốn xem một chuyên gia kỹ thuật có nhận ra phần nào trong câu hỏi là mồi không.]]*"
@@ -214,9 +221,13 @@ Câu hỏi thật vẫn nằm trên bàn. Không ai chạm vào nó.
 
 Anh ngồi xuống ghế. Lưng áo sơ mi đã dính vào da.
 
-Anh không thua. Cả phòng vừa cười vì câu của anh, và chắc chắn sẽ có đứa kể lại câu ChatGPT ở căng tin trưa nay. Nhưng anh biết rõ chuyện gì vừa xảy ra. Mười lăm phút đầu, anh dẫn nhịp. Câu hỏi của ngư dân, của ruộng lúa, của tòa án, anh trả lời được, trả lời dở, trả lời không biết, nhưng là anh tự đi. Năm phút cuối, có người dắt anh. Có người đặt sẵn một cái mồi bằng chính thứ ngôn ngữ của anh, đoán đúng anh sẽ cắn chỗ nào, cay chỗ nào, rồi để anh tự đi đến cái chữ *I don't know*.
+Anh không thua. Cả phòng vừa cười vì câu của anh, và chắc chắn sẽ có đứa kể lại câu ChatGPT ở căng tin trưa nay. Nhưng anh biết rõ chuyện gì vừa xảy ra. Mười lăm phút đầu, anh dẫn nhịp. Năm phút cuối, có người dắt anh. Có người đặt sẵn một cái mồi bằng chính thứ ngôn ngữ của anh: *foundation model*, *LoRA*, *share-alike*. Không ai học ngoại giao tự biết những chữ ấy. Muốn đặt một cái mồi như thế, người ta phải biết trước anh là ai, anh nói thứ ngôn ngữ gì, anh sẽ cắn vào chữ nào.
 
-Lần đầu tiên từ rất lâu, có người đọc anh trước khi anh kịp đọc người ta.
+*Chủ tọa ủy ban đặc biệt đề nghị mời anh.*
+
+Câu cuối của cái email đổi nghĩa ngay lúc ấy. Có người đã xem anh trước khi anh bước vào phòng này. Xem đủ kỹ để biết anh sẽ cay ở đâu, rồi vẫn mời anh, rồi vẫn bật cười khi anh cắn.
+
+Lần đầu tiên từ rất lâu, có người đọc anh trước khi anh kịp đọc người ta. Và lạ thay, anh không thấy mình bị hạ. Anh thấy mình được nhìn thấy.
 
 Anh nhìn lên ghế chủ tọa. Cô đang cúi xuống ghi gì đó vào sổ, tóc con rủ xuống gáy.
 
@@ -234,7 +245,7 @@ Anh nhìn cái vệt son ấy nửa giây. Vệt son này mà in lên cổ áo s
 
 Sống lưng anh lạnh đi một đường. Anh quay sang cái máy pha cà phê, nhìn cái cốc thứ hai đầy dần như nhìn một thí nghiệm hóa học quan trọng.
 
-"Lúc đấy," anh nói.
+"Lúc đấy…" anh nói.
 
 "Ba giây?"
 
@@ -244,7 +255,7 @@ Cô nhìn anh, như người vừa nhớ ra hồ sơ còn thiếu một dòng. "
 
 "Năm ba."
 
-"Năm ba à." Cô uống một ngụm nước. "Thế thì chị gọi nhầm cả buổi sáng rồi. Từ giờ chị là chị."
+"Năm ba à?" Cô bật cười qua mũi, ngắn, rồi mới uống một ngụm nước. "Thế thì chị gọi nhầm cả buổi sáng rồi." Cô đặt cốc xuống. "Từ giờ chị là chị."
 
 Anh khựng nửa nhịp. Cả buổi sáng bị gài mồi, bị dắt đến chữ *I don't know*, anh vẫn ngồi vững. Đây là lần đầu có người lấy lại thế bằng đúng một chữ xưng hô.
 
@@ -286,7 +297,7 @@ Người này anh đọc được hết, trừ việc mình nên làm gì tiếp
 
 Cô im một giây. Nhìn anh, rồi nhìn cái máy pha cà phê, như thể muốn xem cái máy ấy có phải là đồng tác giả không.
 
-"Câu đấy mà nói trong phòng thì hay," cô nói.
+"Hừm." Rồi, chậm hơn: "Câu đấy mà nói trong phòng thì hay."
 
 "Lúc đấy em chưa nghĩ ra."
 
@@ -294,11 +305,7 @@ Cô im một giây. Nhìn anh, rồi nhìn cái máy pha cà phê, như thể mu
 
 Anh không biết đáp lại câu đó thế nào, nên không đáp.
 
-"Mà em dừng ba lần ở summit, đúng không?" cô hỏi tiếp. "Cho người ta cười. Hôm nay hai lần, lúc thuyết trình. Lúc trả lời thì không lần nào."
-
-Anh khựng lại nửa nhịp. "Chị đếm à?"
-
-"Chị làm chủ tọa. Đếm là nghề." Cô nói. "Chị xem clip summit trên fanpage của trường em. Lần dừng thứ ba hơi dài. Có một người hỏi chen vào được."
+"Mà ở summit em dừng ba lần," cô nói. "Chị xem clip rồi. Lần thứ ba hơi dài. Có người hỏi chen vào được."
 
 Anh biết cô đang nói về ai. Cô gái áo len hồng, hàng ghế đầu, *anh phanh gấp*. Nhưng cô ở đây không biết người đó là ai, chỉ biết có một khoảng dừng hơi dài.
 
@@ -340,7 +347,11 @@ Anh đọc số. Cô gõ, lưu, rồi bấm gọi một hồi cho máy anh rung 
 
 "Số chị đấy," cô nói. "Lưu đúng tên nhé."
 
-Rồi cô quay người đi về phía phòng họp, gót giày gõ đều trên sàn hành lang. Lúc đi ngang qua bức tường kính, cô đưa tay lên chỉnh lại cái kẹp tóc, không nhìn vào kính.
+Cô quay người, rồi dừng lại. Cái dây đeo thẻ *Technical Expert* của anh bị xoắn một vòng sau gáy, mặt thẻ úp vào ngực áo. Cô đưa tay lên, gỡ cái vòng xoắn ấy, lật mặt thẻ ra ngoài, vuốt cho dây nằm phẳng trên cổ áo kaki. Ngón tay cô không chạm vào da anh. Anh biết, vì anh đã chờ nó chạm.
+
+"Chuyên gia thì đeo thẻ cho đúng mặt chứ," cô nói.
+
+Rồi cô đi về phía phòng họp, gót giày gõ đều trên sàn hành lang. Lúc đi ngang qua bức tường kính, cô đưa tay lên chỉnh lại cái kẹp tóc, không nhìn vào kính.
 
 Anh rút điện thoại ra, nhìn dãy số lạ, gõ tên lưu.
 
@@ -362,7 +373,7 @@ Cô không nhìn đi. Cô nhìn anh như nhìn một đại biểu đang giữ m
 
 Anh không định nói gì. Anh nhìn xuống tờ giấy trước mặt, viết một chữ không cần viết.
 
-Lúc ngẩng lên lần nữa, cô đã quay sang đại biểu Pháp. Nhưng khóe môi cô, đỏ, viền như kẻ thước, nhích lên một chút. Một chút thôi, đủ để anh biết hiệp vừa rồi đã được ghi vào biên bản, và người thua là ai.
+Lúc ngẩng lên lần nữa, cô đã quay sang đại biểu Pháp. Nhưng khóe môi cô, đỏ, viền như kẻ thước, nhích lên một chút. Một chút thôi, đủ để anh biết người thua là ai. Lạ là anh không thấy tức. Anh thấy muốn được chơi lại.
 
 Cuối ngày có chụp ảnh tập thể trước sảnh. Thợ ảnh là một cậu năm hai, đeo hai cái máy ảnh chéo người, hét: "Ủy ban AI tập trung nào! Chuyên gia đứng giữa đi anh ơi!"
 
@@ -389,13 +400,17 @@ Anh phóng to tấm ấy. Nhìn cái tay che miệng. Nhìn cái kẹp tóc đ�
 Điện thoại rung.
 
 :::chat
-Chủ tọa: Giấy chứng nhận của em. Ban tổ chức gửi ạ.
+Chủ tọa: Giấy chứng nhận của em
+Chủ tọa: Ban tổ chức gửi ạ
 Chủ tọa: [tệp PDF]
-Chủ tọa: Câu ở hành lang của em hay hơn câu trong phòng. Chị định ghi vào biên bản nhưng bạn thư ký bảo lời nói ở hành lang không được ghi vào nghị quyết.
-Chủ tọa: Câu ChatGPT thì bạn thư ký ghi rồi. Bạn ấy cười đến mức viết sai chính tả.
+Chủ tọa: Câu ở hành lang của em hay hơn câu trong phòng
+Chủ tọa: Chị định ghi vào biên bản 📝
+Chủ tọa: Nhưng bạn thư ký bảo lời nói ở hành lang không được ghi vào nghị quyết
+Chủ tọa: Câu ChatGPT thì bạn thư ký ghi rồi
+Chủ tọa: Bạn ấy cười đến mức viết sai chính tả 🤭
 :::
 
-Anh nhìn ba tin nhắn. Có chữ hoa đầu câu. Có dấu chấm cuối câu. Có cả chữ "ạ" ở tin đầu, như văn bản hành chính, rồi tin thứ ba thì không còn chữ "ạ" nào nữa.
+Anh nhìn tám tin nhắn. Mỗi câu một tin, chữ hoa đầu dòng, không một dấu chấm, như từng dòng biên bản được đọc lên. Có cả chữ "ạ" ở tin thứ hai, như văn bản hành chính, rồi đến cuối thì không còn chữ "ạ" nào nữa, chỉ còn một cái mặt che miệng cười.
 
 Khác hẳn một người khác. Một người nhắn bốn dòng không dấu, không chào, như hết giấy vệ sinh.
 
@@ -408,16 +423,17 @@ Anh gõ:
 Ba chấm hiện lên. Tắt. Hiện lại.
 
 :::chat
-Chủ tọa: Cả hai. Chủ yếu là đánh đố.
-Chủ tọa: Nhưng câu trả lời của em làm chị muốn biết thật.
+Chủ tọa: Cả hai
+Chủ tọa: Chủ yếu là đánh đố 😌
+Chủ tọa: Nhưng câu trả lời của em làm chị muốn biết thật
 :::
 
 Anh xoay người nằm nghiêng, điện thoại kề sát mặt. Ngoài cửa sổ, bức tường nhà bên vẫn ở đó, vàng ố dưới đèn đường.
 
 :::chat
 > hôm nay chị làm em ra khỏi sân
-Chủ tọa: Chị biết.
-Chủ tọa: Em đứng ngoài sân trông cũng không tệ.
+Chủ tọa: Chị biết
+Chủ tọa: Em đứng ngoài sân trông cũng không tệ 👀
 :::
 
 Anh đọc câu đó hai lần. Rồi gõ, xóa, gõ lại, xóa. Cuối cùng anh gõ cái câu đã nghĩ từ lúc đứng ở hàng ảnh tập thể, nửa vai bị đại biểu Brazil che mất:
@@ -429,7 +445,7 @@ Anh đọc câu đó hai lần. Rồi gõ, xóa, gõ lại, xóa. Cuối cùng a
 Lần này ba chấm hiện lên rất lâu.
 
 :::chat
-Chủ tọa: Em không đủ tư cách.
+Chủ tọa: Em không đủ tư cách 🙂
 :::
 
 Anh bật cười một mình trong căn phòng trọ.
@@ -437,7 +453,7 @@ Anh bật cười một mình trong căn phòng trọ.
 Ba chấm lại hiện lên.
 
 :::chat
-Chủ tọa: Nhưng chị sẽ cho em dự thính.
+Chủ tọa: Nhưng chị sẽ cho em dự thính
 :::
 
 Anh đặt điện thoại úp xuống ngực. Trần nhà có một vết thấm hình con cá, anh đã nhìn nó hai năm, hôm nay nó vẫn hình con cá.
@@ -445,35 +461,41 @@ Anh đặt điện thoại úp xuống ngực. Trần nhà có một vết thấ
 Một lúc sau, anh lật điện thoại lên, định trả lời. Màn hình hiện thông báo khác.
 
 :::chat
-Vũ Béo: ảnh đồ ăn đâu
-Vũ Béo: hay là bữa trưa k có thật
+Vũ Béo: Ảnh đồ ăn đâu
+Vũ Béo: Hay là bữa trưa k có thật 🤡
 :::
 
 Anh gửi cho Vũ tấm ảnh hộp cơm trưa: cơm, thịt kho, rau muống xào, một quả chuối.
 
 :::chat
-Vũ Béo: thế mà cũng phải đi derby
+Vũ Béo: Thế mà cũng phải đi derby 👎
 > derby là cho người ta nhìn. cơm là cho mình ăn
-Vũ Béo: câu này hay. m nói với bao nhiêu người rồi
+Vũ Béo: Câu này hay
+Vũ Béo: M nói với bao nhiêu người rồi
 > mày là người đầu tiên
-Vũ Béo: ơ tự nhiên t thấy được trân trọng
-Vũ Béo: mà hội nghị ngoại giao chắc nhiều gái xinh nhỉ
+Vũ Béo: Ơ
+Vũ Béo: Tự nhiên t thấy được trân trọng 😅
+Vũ Béo: Mà hội nghị ngoại giao chắc nhiều gái xinh nhỉ =)))
 > bình thường
-Vũ Béo: m bảo bình thường tức là xinh vl. con bé bán nước mía cổng trường m còn khen cute
-Vũ Béo: có đứa nào xin số k
+Vũ Béo: M bảo bình thường tức là xinh vl
+Vũ Béo: Con bé bán nước mía cổng trường m còn khen cute
+Vũ Béo: Có đứa nào xin số k
 :::
 
 Anh nhìn cái tên *Chủ tọa* nằm ngay dưới cuộc trò chuyện với Vũ.
 
 :::chat
 > k
-Vũ Béo: m đọc tin xong 30s mới trả lời chữ k. t biết m nói dối
-Vũ Béo: đứa nào. kể
+Vũ Béo: M đọc tin xong 30s mới trả lời chữ k
+Vũ Béo: T biết m nói dối 😡
+Vũ Béo: Đứa nào
+Vũ Béo: Kể
 > chủ tọa. xin số để gửi giấy chứng nhận
-Vũ Béo: giấy chứng nhận cái đầu m
-Vũ Béo: rồi m nhắn gì với nó. lại "vâng cảm ơn em" đúng k
-Vũ Béo: chụp màn hình t duyệt
-> k. riêng tư của chủ tọa, m không đủ tư cách dự thính
+Vũ Béo: Giấy chứng nhận cái đầu m 🖕
+Vũ Béo: Rồi m nhắn gì với nó
+Vũ Béo: Lại "vâng cảm ơn em" đúng k 🤡
+Vũ Béo: Chụp màn hình t duyệt
+> k. riêng tư của chủ tọa, m không đủ tư cách dự thính 😏
 :::
 
 Anh mở lại cuộc trò chuyện với cô, nhìn câu mình vừa gửi. *Lần sau chị ngồi ghế đại biểu, em làm chủ tọa xem.* Không phải giọng tổng đài. Lần này Vũ đoán sai.
@@ -483,12 +505,17 @@ Nhưng anh biết vì sao. Với cô, anh đọc được. Câu nào ném ra anh
 Còn với một người khác, người nhắn bốn dòng không dấu, anh vẫn chưa ném được câu nào.
 
 :::chat
-Vũ Béo: đm hai đứa trong một tuần
-Vũ Béo: t đánh bóng 10 năm chưa đứa nào xin số. m lên sân khấu 15p
-Vũ Béo: tháng này m bao t trà đá. coi như thuế
+Vũ Béo: Đm
+Vũ Béo: Hai đứa trong một tuần
+Vũ Béo: T đánh bóng 10 năm chưa đứa nào xin số
+Vũ Béo: M lên sân khấu 15p 😡😡
+Vũ Béo: Tháng này m bao t trà đá
+Vũ Béo: Coi như thuế
 > ok
-Vũ Béo: ok cái gì. m phải cãi chứ. m nhận nhanh thế là có thật đúng k
-Vũ Béo: ĐM
+Vũ Béo: Ok cái gì
+Vũ Béo: M phải cãi chứ
+Vũ Béo: M nhận nhanh thế là có thật đúng k
+Vũ Béo: ĐM 😡😡😡
 :::
 
 Anh thoát ra.

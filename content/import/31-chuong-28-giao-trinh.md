@@ -14,7 +14,7 @@ Email của khối chiến lược đến từ thứ Sáu tuần trước, ba đ
 
 Tầng mười bảy chưa bao giờ yên đến thế.
 
-Anh Bảo đọc paper, tai nghe trên đầu, một tay cầm bút chì gạch chân lên bản in, như đang chữa bài cho tác giả. Kiên chơi cờ vua trên điện thoại, mỗi nước đi nghĩ đúng ba phút, không hơn. Chị Quỳnh cuối cùng cũng có thời gian dọn hộp thư, xóa email cũ từ năm 2025 với vẻ mặt của người đang nhổ cỏ. Ở góc cửa sổ, Thảo vẫn dán nhãn. Không ai giao việc mới cho R&D, nhưng hình như không ai báo cho Thảo biết R&D không có việc, hoặc có báo mà cô vẫn làm, vì dữ liệu sạch thì không bao giờ thừa.
+Anh Bảo đọc paper, tai nghe trên đầu, một tay cầm bút chì gạch chân lên bản in, như đang chữa bài cho tác giả. Anh Kiên chơi cờ vua trên điện thoại, mỗi nước đi nghĩ đúng ba phút, không hơn. Chị Quỳnh cuối cùng cũng có thời gian dọn hộp thư, xóa email cũ từ năm 2025 với vẻ mặt của người đang nhổ cỏ. Ở góc cửa sổ, Thảo vẫn dán nhãn. Không ai giao việc mới cho R&D, nhưng hình như không ai báo cho Thảo biết R&D không có việc, hoặc có báo mà cô vẫn làm, vì dữ liệu sạch thì không bao giờ thừa.
 
 Mười giờ, sếp đi ra từ phòng riêng, tay ôm một bó hoa hồng to bằng cái lốp xe, giấy gói đỏ in chữ vàng *8/3*.
 
@@ -61,25 +61,29 @@ Slide của trường, anh làm đẹp. Xanh than, xám bạc, một điểm nh�
 Anh gửi bản slide vào nhóm chat đồ án. Nhóm có bốn người, ba người cũ từ hồi hackathon năm nhất.
 
 :::chat
-Khang: ơ ai làm slide đấy
+Khang: Ơ
+Khang: Ai làm slide đấy
 > tao
-Phúc: m á?? m mà làm được thế này
-Mai: năm nhất có đứa bảo phần giao diện là vẽ vời
+Phúc: M á??
+Phúc: M mà làm được thế này =)))
+Mai: Năm nhất có đứa bảo phần giao diện là vẽ vời 🙂
 :::
 
 Anh nhìn dòng tin của Mai một lúc. Ba năm rồi. Anh vẫn nhớ cái nhìn rất lâu lúc chia việc, và màn hình cô lặng lẽ xóa đi làm lại lúc gần sáng.
 
 :::chat
 > tao vẫn bảo vẽ vời
-> nhưng vẽ vời khó vcl. tao xin lỗi vì câu năm nhất
+> nhưng vẽ vời khó vcl. tao xin lỗi vì câu năm nhất 🥀
 :::
 
 Ba chấm hiện lên. Tắt. Hiện lại.
 
 :::chat
-Mai: ok. chấp nhận. chữ ở slide 4 lệch 2px
-> tao biết. con AI lệch. tao đang chửi nó
-Mai: thì chửi nhanh lên
+Mai: Ok
+Mai: Chấp nhận
+Mai: Chữ ở slide 4 lệch 2px
+> tao biết. con AI lệch. tao đang chửi nó 😡😡😡
+Mai: Thì chửi nhanh lên
 :::
 
 Anh cười, mở slide bốn ra. Lệch thật. Hai điểm ảnh. Anh căn lại bằng tay, mất mười phút, và không chửi ai cả.
@@ -88,7 +92,7 @@ Anh cười, mở slide bốn ra. Lệch thật. Hai điểm ảnh. Anh căn l�
 
 Thời gian nhiều quá thì nó tràn ra chỗ khác.
 
-Chiều thứ Ba, sau khi slide đã xong và báo cáo đã xong và cái bàn đã được lau đến mức có thể soi gương, anh mở điện thoại. Một con chó chạy vào bếp, trượt trên sàn gạch như diễn viên hài. Kyrie Irving đổi tay ba lần trong một giây, người kèm ngã. Một ông chú bán bánh mì ở Sài Gòn hát *opera*. Một cô gái chỉ cách gấp áo phông thành hình chữ nhật hoàn hảo trong bốn giây. Anh xem đến lần thứ ba, không hiểu vì sao mình xem đến lần thứ ba.
+Chiều thứ Ba, sau khi slide đã xong và báo cáo đã xong và cái bàn đã được lau đến mức có thể soi gương, anh mở điện thoại. Một con chó chạy vào bếp, trượt trên sàn gạch như diễn viên hài. Kyrie Irving đổi tay ba lần trong một giây, người kèm ngã. Một ông chú bán bánh mì ở Sài Gòn hát *opera*. Một cô gái chỉ cách gấp áo phông thành hình chữ nhật hoàn hảo trong bốn giây. Một hàng domino xếp trên sàn gỗ, quân đầu bằng móng tay, mỗi quân sau to hơn quân trước một chút, quân cuối cao ngang thắt lưng người quay; giọng thuyết minh nói *[[en: each domino can knock over one about one and a half times its size || mỗi quân domino đổ được một quân to hơn nó chừng gấp rưỡi]]*, một ngón tay chạm vào quân đầu, và quân cuối đổ xuống sàn như một cái cây. Anh xem đến lần thứ ba, không hiểu vì sao mình xem đến lần thứ ba.
 
 Rồi một anh đeo kính, mặc áo len cổ lọ, đứng trước một cái bảng trắng, cầm tờ năm trăm nghìn.
 
@@ -98,7 +102,7 @@ Anh dừng lướt.
 
 Video tiếp theo cũng của anh đeo kính ấy. Zimbabwe năm 2008, tờ một trăm nghìn tỷ đô la không mua nổi một ổ bánh mì. Video tiếp theo nữa: vì sao lạm phát ăn vào tiền tiết kiệm của bố mẹ bạn mà họ không biết. Rồi một video về lãi kép, với một đường cong lúc đầu nằm im như rắn ngủ đông rồi dựng đứng lên như rắn hổ mang.
 
-Bốn mươi phút. Kiên đi ngang qua bàn anh lấy nước, liếc xuống màn hình, thấy tờ một trăm nghìn tỷ đô la, liếc lên mặt anh, rồi đi tiếp không nói gì. Từ đầu năm đến giờ, đó là lần thứ hai Kiên liếc anh.
+Bốn mươi phút. Anh Kiên đi ngang qua bàn anh lấy nước, liếc xuống màn hình, thấy tờ một trăm nghìn tỷ đô la, liếc lên mặt anh, rồi đi tiếp không nói gì. Từ đầu năm đến giờ, đó là lần thứ hai anh Kiên liếc anh.
 
 Anh tắt điện thoại, nhìn ra cửa sổ. Bên dưới, đường Phạm Hùng chạy hai chiều không nghỉ, xe nối đuôi nhau như một dòng tiền đang chảy từ chỗ này sang chỗ khác mà không ai thấy.
 
@@ -118,7 +122,7 @@ Thứ Năm, quán trà trên Đặng Thai Mai đã tháo hết cành đào giả
 
 "Thầy không đùa với giáo trình."
 
-"Thầy đùa với mọi thứ." Cô nhìn anh, nghiêng đầu. "Anh đọc kinh tế làm gì? Định làm giàu à?"
+"Ơ kìa, thầy đùa với mọi thứ." Cô nhìn anh, nghiêng đầu. "Anh đọc kinh tế làm gì? Định làm giàu à?"
 
 "Định hiểu tiền chạy kiểu gì."
 
@@ -140,17 +144,17 @@ Anh nhìn xuống cuốn sách. Đọc người chứ có phải đọc lông mi
 
 Muộn rồi.
 
-"Anh nhìn gì đấy?"
+"Này. Anh nhìn gì đấy?"
 
 Cô không nheo mắt, không nghiêng đầu. Cô nói thẳng, qua hai tròng kính tròn, bằng đúng giọng cô hỏi *gió Lào là gì*. Anh nghe tai mình đỏ lên trước khi nghĩ ra câu trả lời.
 
-"Kính," anh nói. "Kính em trượt."
+"Kính…" anh nói. "Kính em trượt."
 
-"Nó trượt từ đầu buổi."
+"Thì nó trượt từ đầu buổi rồi."
 
-"Anh mới để ý."
+"Anh… mới để ý."
 
-"Anh nói dối dở thật." Cô vẫn nhìn anh thêm một nhịp, một nhịp nữa, chờ xem anh có tự nhìn đi chỗ khác không. Anh không. Anh không biết vì sao. Khoảng ba giây, hai người nhìn nhau qua một cuốn giáo trình to bằng viên gạch, và anh là người đầu tiên cúi xuống. Cô khẽ bật ra một tiếng qua mũi, rồi quay lại mẩu giấy nhớ, như chưa có gì xảy ra.
+"Anh nói dối dở thật đấy." Cô vẫn nhìn anh thêm một nhịp, một nhịp nữa, chờ xem anh có tự nhìn đi chỗ khác không. Anh không. Anh không biết vì sao. Khoảng ba giây, hai người nhìn nhau qua một cuốn giáo trình to bằng viên gạch, và anh là người đầu tiên cúi xuống. Cô khẽ bật ra một tiếng qua mũi, rồi quay lại mẩu giấy nhớ, như chưa có gì xảy ra.
 
 "Em học quản trị kinh doanh. Môn này năm nhất bắt buộc. Em không thích nhưng em thuộc."
 
@@ -160,7 +164,7 @@ Cô không nheo mắt, không nghiêng đầu. Cô nói thẳng, qua hai tròng 
 
 "Anh trai em chắc giỏi lắm."
 
-"Giỏi." Cô gật. "Giỏi nhất nhà."
+"Giỏi chứ!" Cô gật. "Giỏi nhất nhà."
 
 Anh lật cuốn sách. Không định để ý câu ấy, và không để ý. Một người anh trai giỏi nhất nhà, bảo em gái học gì cũng được miễn là về, nghe như một trăm người anh trai khác ở Hà Nội. Anh lật đến chương *Money*.
 
@@ -182,7 +186,7 @@ tiền = thứ mọi người cùng đồng ý là có giá. (giống điểm IE
 
 Anh bật cười thành tiếng. Bàn bên quay sang nhìn.
 
-"Gì?" Nhi nhổm dậy, ngó sang.
+"Gì cơ?" Nhi nhổm dậy, ngó sang.
 
 "Giống điểm IELTS."
 
@@ -210,7 +214,7 @@ Chỗ nào sách nói mười câu, cô ghi lại một câu. Câu của cô th�
 
 Anh nhìn cô một giây. Rồi nhìn cái đồ thị có tai mèo.
 
-"Chị người yêu anh học Ngoại giao," cô nói, giọng phẳng. "Sao anh không mượn sách chị ấy?"
+"Thì… chị người yêu anh học Ngoại giao," cô nói, giọng phẳng. "Sao anh không mượn sách chị ấy?"
 
 "Sách chị ấy toàn hiệp ước. Đọc xong anh ký hòa bình với ai thì ký, chứ không hiểu thêm được đồng nào." Anh vỗ lên cuốn sách. "Kinh tế thì học sinh là chuyên gia."
 
@@ -222,9 +226,23 @@ Nhi không nói gì. Cô mở cuốn sổ hồng, viết một dòng gì đó �
 
 Cô nhìn anh, nhíu mày, rồi bật cười, cái cười không che miệng.
 
-"Anh cố tình."
+"Anh cố tình!"
 
 "Thầy chỉ chọn đề phù hợp chủ đề tuần."
+
+Cô mở miệng. Không có chữ nào ra. Rồi cô với qua bàn, nắm tay lại, đấm vào bắp tay anh, ba cái liền, nhanh, nắm tay bé như một nắm xôi.
+
+"Anh…!"
+
+"Đấm thế này là xoa bóp à," anh nói, không né.
+
+Cái thứ tư mạnh hơn. Rồi cô rút tay về, lắc lắc mấy ngón, mặt đỏ lên tận tai, như vừa đấm vào cột đèn.
+
+Điện thoại cô, úp nghiêng cạnh cuốn sổ hồng, sáng lên. Màn hình khóa xếp ba thông báo, cùng một tên: *Phong (RMIT)*. Cái trên cùng gửi lúc 21:04 tối qua: *Nhi ơi bài Economics tuần này cậu làm chưa*. Cái dưới cùng vừa đến: *Nhi ơi 🥺*.
+
+"Hỏi bài lúc chín giờ tối là hỏi bài thật à," anh nói, mắt vẫn ở trang sách.
+
+Nhi lật úp điện thoại xuống. Không trả lời anh. Cũng không trả lời Phong.
 
 ---
 
@@ -312,12 +330,14 @@ $ git push
 Điện thoại sáng lên trên gối. Anh đã gửi cho Vũ một tràng từ lúc mười hai giờ, kèm ảnh chụp màn hình hai cái sổ lệnh.
 
 :::chat
-Vũ Béo: m đang làm cái gì lúc 2h sáng thế
-Vũ Béo: tiền tệ liên hành tinh??
-Vũ Béo: cringe hơn cả story của m
-> bỏ r. thời gian trên sao hỏa chạy khác. einstein phá đám
-Vũ Béo: einstein phá đám m hay m phá giấc ngủ của t
-Vũ Béo: mai ra sân. m cần ném bóng vào cái gì có trọng lực bình thường
+Vũ Béo: Ơ
+Vũ Béo: M đang làm cái gì lúc 2h sáng thế
+Vũ Béo: Tiền tệ liên hành tinh??
+Vũ Béo: Cringe hơn cả story của m 🤡
+> bỏ r. thời gian trên sao hỏa chạy khác. einstein phá đám 💔
+Vũ Béo: Einstein phá đám m hay m phá giấc ngủ của t 😡
+Vũ Béo: Mai ra sân
+Vũ Béo: M cần ném bóng vào cái gì có trọng lực bình thường
 :::
 
 Anh úp điện thoại xuống. Cuốn giáo trình vẫn nằm cạnh gối, mở ở trang ba trăm mười hai, chỗ mực tím viết *chương này hay. đọc 2 lần*.

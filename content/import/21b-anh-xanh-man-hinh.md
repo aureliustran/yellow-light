@@ -200,7 +200,7 @@ Cô kể xong. Anh gõ thêm một dòng.
 
 Giọng nhẹ, như hỏi mai có mưa không. Mắt vẫn trên màn hình.
 
-"Em đi nhầm thang."
+"Em… đi nhầm thang."
 
 Câu ấy ra nhanh, gọn, như đã nằm sẵn trên lưỡi từ lúc nào. Nhi nghe nó rời khỏi miệng mình và nghĩ: à, thì ra nói dối nghe như thế này. Nghe y hệt nói thật.
 

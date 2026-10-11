@@ -12,7 +12,7 @@ Nhà hàng nằm trong tòa nhà bên cạnh, cách tòa kính xanh một cái s
 
 Lab chia bàn theo cách lab vẫn chia mọi thứ.
 
-Bàn đầu, sát bục: sếp, chị Ngân, Trâm, Hà My, Ly. Bàn giữa: chị Hạnh, chị Phương, hai người bên khối kinh doanh sang dự ké. Bàn cuối, gần cửa ra vào, gần nhà vệ sinh: anh Bảo, Kiên, chị Quỳnh. Không ai xếp. Ai cũng tự biết ngồi đâu.
+Bàn đầu, sát bục: sếp, chị Ngân, Trâm, Hà My, Ly. Bàn giữa: chị Hạnh, chị Phương, hai người bên khối kinh doanh sang dự ké. Bàn cuối, gần cửa ra vào, gần nhà vệ sinh: anh Bảo, anh Kiên, chị Quỳnh. Không ai xếp. Ai cũng tự biết ngồi đâu.
 
 Anh chưa kịp chọn ghế thì sếp đã vẫy.
 
@@ -196,21 +196,29 @@ Anh không đơ. Anh chỉ thấy hai người đi ngang quay đầu lại nhìn
 
 Họ đi chầm chậm dọc bờ hồ, theo dòng người, không ai cần chọn hướng vì đám đông đã chọn hộ.
 
-"Đếm ngược là đếm cái gì?" cô hỏi. Hiệp thứ mấy rồi anh không còn đếm.
+"Đếm ngược là đếm cái gì nhỉ?" cô hỏi, không nhìn anh.
 
-"Đếm thời gian còn lại của năm."
+"Thì… đếm xem còn bao lâu hết năm."
 
-"Sai. Thời gian còn lại thì ai chả biết. Đồng hồ trên điện thoại có rồi." Cô nói. "Đếm ngược là để người ta biết lúc nào phải quyết."
+"Hừm. Cái đấy điện thoại đếm rồi." Cô nhìn thẳng phía trước. "Chị nghĩ người ta đếm để biết lúc nào phải quyết. Hôn ai. Ước gì. Có nói câu đấy không."
 
-"Quyết cái gì?"
+"Chị nói câu này như sắp ký hiệp định," anh nói.
 
-"Quyết hôn ai, quyết ước gì, quyết có nói câu đấy không." Cô nhìn thẳng phía trước. "Không có đếm ngược thì người ta cứ để mai. Mai rồi mai."
+"Thuyên." Cô quay sang, gọi đủ tên, lườm đúng một giây.
 
-"Thế thì đếm ngược là cái hạn chót."
+"Em xin rút lại."
 
-"Hạn chót có người đếm hộ, và có cả trăm nghìn người làm chứng." Cô liếc anh. "Em làm kỹ sư mà không biết cái gì hay nhất của hạn chót à?"
+"Hừm." Cô quay về phía hồ. Môi mím lại, rồi giãn ra, không kịp giữ.
 
-"Kỹ sư thì toàn trễ hạn chót."
+"Câu nào ạ?"
+
+"Câu nào cũng được." Cô liếc anh, nhanh. "Không có ai đếm hộ thì người ta cứ để mai. Mai rồi mai."
+
+"Thế… em xin đếm hộ chị."
+
+"Em đếm hộ chị cái gì?"
+
+"Đếm xem còn bao lâu nữa thì chị phải quyết." Anh cúi xuống một chút. "Em đếm chậm lắm. Kỹ sư toàn trễ hạn."
 
 Cô cười. Không che miệng.
 
@@ -219,8 +227,9 @@ Gió hồ lạnh. Cô đút tay vào túi áo khoác của anh, túi bên phải
 Điện thoại trong túi trái rung. Anh liếc.
 
 :::chat
-Vũ Béo: giao thừa ở đâu
-Vũ Béo: chắc chắn k phải sân nhà t rồi. derby k hợp xi măng
+Vũ Béo: Giao thừa ở đâu
+Vũ Béo: Chắc chắn k phải sân nhà t rồi
+Vũ Béo: Derby k hợp xi măng 👎
 :::
 
 Anh cất điện thoại, không trả lời. Cô thấy, không hỏi.
@@ -313,9 +322,9 @@ Son của cô đã nhòe một vệt ở khóe môi. Cô đưa ngón cái lên, 
 
 Cô định quay đi. Anh giữ ống tay áo dạ của cô. Không mạnh. Hai ngón tay, như người ta giữ một trang sách cho khỏi lật.
 
-"Mười phút nữa thôi, chị bé."
+"Mười phút nữa thôi, chị béee…"
 
-Cô nhìn bàn tay anh. Rồi nhìn anh. Cô khựng lại nửa nhịp, như chủ tọa nghe một đại biểu đọc sai chức danh, định sửa, rồi nhận ra không sai chỗ nào.
+Cô nhìn bàn tay anh. Rồi nhìn anh. Cô khựng lại nửa nhịp, như người nghe ai gọi mình bằng một cái tên lạ, định sửa, rồi nhận ra không sai chỗ nào.
 
 "Chị bé," cô nhắc lại, chậm, như đọc một từ chưa có trong văn bản nào. "Em đang nũng à?"
 
@@ -325,7 +334,7 @@ Cô nhìn bàn tay anh. Rồi nhìn anh. Cô khựng lại nửa nhịp, như ch
 
 "Với lab thì cứng. Lab không có son."
 
-Cô nhìn anh thêm một giây, như nhìn một bản đề xuất có điều khoản bất ngờ. Rồi cô quay lại, lưng tựa vào ngực anh như lúc đếm ngược, kéo hai tay anh vòng qua người mình, nhét hai bàn tay ấy vào túi áo khoác của cô.
+Cô nhìn anh thêm một giây, như nhìn một món quà không có trong danh sách. Rồi cô quay lại, lưng tựa vào ngực anh như lúc đếm ngược, kéo hai tay anh vòng qua người mình, nhét hai bàn tay ấy vào túi áo khoác của cô.
 
 "Mười phút thôi, bé," cô nói. "Chị bấm giờ."
 
@@ -369,16 +378,17 @@ Anh đi bộ ngược về phía Đinh Tiên Hoàng. Môi vẫn còn vị sáp.
 
 :::chat
 Chủ tọa: [ảnh]
-Chủ tọa: Tấm đẹp nhất trong ba mươi mốt tấm.
-Chủ tọa: Lần sau em nhớ đứng sang trái một chút. Cằm em cũng đẹp.
+Chủ tọa: Tấm đẹp nhất trong ba mươi mốt tấm 😌
+Chủ tọa: Lần sau em nhớ đứng sang trái một chút
+Chủ tọa: Cằm em cũng đẹp 👀
 :::
 
 Anh mở ảnh. Phóng to. Cô ở giữa, Tháp Rùa sau vai, son đỏ đã chấm lại gọn gàng. Anh ở mép phải, nửa cằm, cười một kiểu anh chưa từng thấy mình cười trong ảnh.
 
 :::chat
-> ok. lần sau e đứng giữa, c đứng mép
-Chủ tọa: Không.
-Chủ tọa: Lần sau em đứng cạnh chị.
+> ok. lần sau e đứng giữa, c đứng mép 😏
+Chủ tọa: Không
+Chủ tọa: Lần sau em đứng cạnh chị
 :::
 
 Anh cười một mình giữa phố. Rồi mở chat với Vũ.
@@ -391,18 +401,22 @@ Ba giây.
 
 :::chat
 Vũ Béo: ĐM
-Vũ Béo: chủ tọa à
-Vũ Béo: m hỏi hay nó hỏi
+Vũ Béo: Chủ tọa à??
+Vũ Béo: M hỏi hay nó hỏi
 :::
 
 Anh nhìn câu ấy một lúc.
 
 :::chat
-> nó hỏi. t trả lời
-Vũ Béo: trả lời bằng câu hỏi đúng k
-Vũ Béo: đừng chối. t biết m
-Vũ Béo: cột đèn biết hôn. năm mới đm hay vãi
-Vũ Béo: mùng 1 bao t trà đá. thuế người yêu. thuế này đóng cả năm
+> nó hỏi. t trả lời 😏
+Vũ Béo: Trả lời bằng câu hỏi đúng k
+Vũ Béo: Đừng chối
+Vũ Béo: T biết m 🤡
+Vũ Béo: Cột đèn biết hôn
+Vũ Béo: Năm mới đm hay vãi =)))))
+Vũ Béo: Mùng 1 bao t trà đá
+Vũ Béo: Thuế người yêu
+Vũ Béo: Thuế này đóng cả năm 😡😡😡
 :::
 
 Anh cất điện thoại.

@@ -333,6 +333,38 @@ dialog.login .close { position: absolute; top: 12px; right: 12px; }
 .lane .writing { display: flex; align-items: center; gap: 20px; padding: 16px 0; font-family: var(--serif); font-style: italic; font-size: 22px; color: var(--ink-2); }
 .lane .writing .node { justify-content: center; }
 .node span.lamp { width: 10px; height: 10px; background: var(--amber); box-shadow: 0 0 12px 3px var(--glow); }
+
+/* Special chapters (title is only digits, e.g. "3107"): a standing domino instead of a dot. */
+.domino { display: inline-block; position: relative; width: 13px; height: 24px; border-radius: 3px; background: var(--ink); box-shadow: 0 0 0 1px var(--ink);
+  transform-origin: 50% 100%; transition: transform .5s cubic-bezier(.55, 0, .75, .1); }
+.domino::before { content: ''; position: absolute; left: 2px; right: 2px; top: calc(50% - .5px); height: 1px; background: var(--bg); opacity: .75; }
+.domino::after { content: ''; position: absolute; inset: 0;
+  background: radial-gradient(circle, var(--bg) 1.4px, transparent 1.9px) 50% 22% / 6px 6px no-repeat,
+              radial-gradient(circle, var(--bg) 1.4px, transparent 1.9px) 30% 70% / 6px 6px no-repeat,
+              radial-gradient(circle, var(--bg) 1.4px, transparent 1.9px) 70% 86% / 6px 6px no-repeat; }
+.node.special span.domino { width: 13px; height: 24px; border-radius: 3px; background: var(--ink); }
+.node.special.latest span.domino { background: var(--amber-ink); box-shadow: 0 0 0 1px var(--amber-ink), 0 0 14px 4px var(--glow); }
+.lane li.special > a { background: color-mix(in srgb, var(--amber) 9%, transparent); box-shadow: inset 3px 0 0 var(--amber); }
+.lane li.special > a:hover { background: color-mix(in srgb, var(--amber) 16%, transparent); }
+.lane li.special > a:hover .domino { transform: rotate(72deg) translateY(2px); }
+.toc-title.special { font-weight: 300; font-variant-numeric: tabular-nums lining-nums; letter-spacing: .14em; font-size: 34px; }
+.special-head { display: flex; align-items: center; gap: 22px; }
+.special-head .domino.big { flex: 0 0 auto; width: 34px; height: 64px; border-radius: 6px; }
+.special-head .domino.big::before { left: 5px; right: 5px; }
+.special-head .domino.big::after {
+  background: radial-gradient(circle, var(--bg) 3.2px, transparent 3.8px) 50% 22% / 14px 14px no-repeat,
+              radial-gradient(circle, var(--bg) 3.2px, transparent 3.8px) 28% 70% / 14px 14px no-repeat,
+              radial-gradient(circle, var(--bg) 3.2px, transparent 3.8px) 72% 88% / 14px 14px no-repeat; }
+.chapter h1.special { font-variant-numeric: tabular-nums lining-nums; letter-spacing: .12em; margin-bottom: 0; }
+.special-head + .chapter-meta { margin-top: 24px; }
+@media (max-width: 640px) {
+  .toc-title.special { font-size: 28px; }
+  .special-head .domino.big { width: 26px; height: 50px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .domino { transition: none; }
+  .lane li.special > a:hover .domino { transform: none; }
+}
 @media (max-width: 640px) {
   .toc-title { font-size: 23px; }
   .toc-head h2 { font-size: 40px; }

@@ -108,7 +108,7 @@ Nhi ăn. Cá kho tộ, hơi mặn. Bên ngoài cửa kính, ông làm vườn đ
 
 Mẹ ngẩng lên, hơi ngạc nhiên. "Sao tự nhiên hỏi thế?"
 
-"Hỏi thế thôi."
+"Thì… hỏi thế thôi ạ."
 
 Mẹ nghĩ một lúc. Nghĩ lâu hơn một câu hỏi như thế đáng được nghĩ.
 

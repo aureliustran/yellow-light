@@ -11,18 +11,18 @@ anh ấy mượn sách kinh tế. sách của mình. (năm nhất mình đã vi�
 Tin nhắn đến lúc bốn giờ chiều, giữa giờ Marketing, khi giảng viên đang chiếu một quảng cáo nước tăng lực có ba anh trai cởi trần chạy trên bãi biển.
 
 :::chat
-Phanh Gấp: học sinh có giáo trình kinh tế năm nhất k
+Phanh Gấp: học sinh có giáo trình kinh tế năm nhất k 😏
 Phanh Gấp: thầy mượn. thứ 5 trả tiền thuê sách bằng 1 đề speaking dễ
 :::
 
 Nhi đọc ba lần. Lần một để biết anh hỏi gì. Lần hai để biết anh hỏi có đùa không. Lần ba không vì lý do gì cả.
 
 :::chat
-> để em tìm
+> Để em tìm 🔍
 Phanh Gấp: đề dễ thật đấy
-> anh nói dối dở lắm
-Phanh Gấp: thầy chưa bao giờ nói dối học sinh
-> câu này cũng là nói dối
+> Anh nói dối dở lắm 🙄
+Phanh Gấp: thầy chưa bao giờ nói dối học sinh 😈
+> Câu này cũng là nói dối 😤
 :::
 
 Anh thả một cái mặt cười. Cô úp điện thoại xuống mặt bàn, nhìn ba anh trai cởi trần trên màn chiếu, không thấy ai trong ba người.
@@ -135,7 +135,7 @@ Trang giấy lật qua, bàn tay anh đi theo nó. Mặt gỗ nơi tay anh vừa
 
 Trang chín mươi sáu, anh dừng. Rồi bật cười thành tiếng, cái cười làm cả bàn bên quay sang.
 
-Cô biết anh đang đọc dòng nào. Cô nhổm dậy, giả vờ không biết. "Gì?"
+Cô biết anh đang đọc dòng nào. Cô nhổm dậy, giả vờ không biết. "Gì cơ?"
 
 "Giống điểm IELTS."
 
@@ -157,7 +157,7 @@ Anh nhìn cô một giây. Cô nhìn lại. Rồi anh nhìn xuống cái đồ t
 
 Câu tiếp theo ra khỏi miệng cô trước khi cô kịp gọi nó lại.
 
-"Chị người yêu anh học Ngoại giao. Sao anh không mượn sách chị ấy?"
+"Thì… chị người yêu anh học Ngoại giao. Sao anh không mượn sách chị ấy?"
 
 Cô nghe chính giọng mình, phẳng, như đọc một câu hỏi Part 3. Và cô biết, ngay khi chữ cuối rơi ra, rằng câu ấy không phẳng chút nào.
 
@@ -179,9 +179,19 @@ Rồi cô gập sổ lại.
 
 Cô nhìn anh, rồi bật cười, cái cười không kịp che.
 
-"Anh cố tình."
+"Anh cố tình!"
 
 "Thầy chỉ chọn đề phù hợp chủ đề tuần."
+
+Cô đấm anh. Ba cái vào bắp tay, nắm tay bé xíu, như mọi lần cô hết chữ. Bắp tay anh vẫn cứng như cột, anh vẫn không né, vẫn một câu bình thản: "Đấm thế này là xoa bóp à." Cái thứ tư cô đấm mạnh hơn, rồi rút tay về, và để tay ở đó, dưới gầm bàn, nắm lại, lâu hơn cần.
+
+Điện thoại cô sáng lên cạnh cuốn sổ. *Phong (RMIT): Nhi ơi 🥺*. Bên dưới còn hai thông báo từ chín giờ tối qua, cô chưa mở.
+
+"Hỏi bài lúc chín giờ tối là hỏi bài thật à," anh nói, mắt không rời trang sách.
+
+Cô lật úp điện thoại. Mặt cô nóng lên, không phải vì Phong. Vì anh đọc được giờ gửi trên màn hình người khác, mà không đọc được cái gì khác trên mặt cô.
+
+Lúc anh xuống quầy lấy thêm đá, cô lật điện thoại lên, gõ cho Phong đúng một tin, không dấu, không emoji: *mai t gửi slide*. Rồi tắt thông báo cuộc trò chuyện ấy, một tiếng.
 
 Cô nói hai phút về lần để dành tiền mua cái máy ảnh phim đầu tiên năm lớp mười hai, tiền tiêu vặt tự để dành, không xin bố, không xin anh. Anh nghe, gật, ghi lại hai lỗi ngữ pháp. Anh không hỏi vì sao một đứa con nhà có thẻ của bố lại phải tự để dành tiền mua một cái máy ảnh phim. Cô không nói.
 

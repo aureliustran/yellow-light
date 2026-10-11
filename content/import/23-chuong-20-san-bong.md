@@ -8,7 +8,7 @@ Tin nhắn anh gửi lúc bốn giờ chiều, sau ba lần gõ rồi xóa.
 
 :::chat
 > tối nay sân nhà vũ có pickup. c ra xem k
-Chủ tọa: Sân bóng rổ ạ?
+Chủ tọa: Sân bóng rổ ạ? 👀
 > sân xi măng. 2 cái đèn cao áp. bác bảo vệ kể giá rau miễn phí
 Chủ tọa: Toàn bạn em à?
 > vũ, 3 đứa năm nhất, 1 bạn nữ năm nhất ngồi quay video
@@ -29,7 +29,8 @@ Anh nhìn chữ "người ta". Không phải "bạn em". Không phải "mọi ng
 Lần này ba chấm hiện lâu.
 
 :::chat
-Chủ tọa: Bảy rưỡi. Em ra đầu ngõ đón chị.
+Chủ tọa: Bảy rưỡi
+Chủ tọa: Em ra đầu ngõ đón chị
 :::
 
 ---
@@ -104,7 +105,7 @@ Vũ quay sang anh. "Mày kể tao với chị ấy à?"
 
 "Treo để cảnh báo! Không phải bằng khen!"
 
-"Cảnh báo cũng là ghi nhận."
+"Cảnh báo cũng là một kiểu khen."
 
 Cô nhìn từ người này sang người kia, như xem bóng bàn. Khóe môi nhích lên, hơn một li. Rồi cô hỏi Vũ:
 
@@ -124,7 +125,7 @@ Anh không ngờ câu đó. Anh nhìn xuống đôi derby dính nước rửa b�
 
 Vũ quay sang cô, chờ được hùa.
 
-"Chị lưu ba tấm," cô nói, giọng như đọc biên bản. "Tấm đèn sân. Tấm vạch kẻ đường lúc mưa. Và tấm em ném bóng hồi cấp ba, bị hai người kèm mà vẫn ngả người ra sau ném." Cô ngừng một nhịp. "Nhạc thì chị tắt tiếng."
+"Chị lưu ba tấm," cô nói, giọng đều như đọc danh sách. "Tấm đèn sân. Tấm vạch kẻ đường lúc mưa. Và tấm em ném bóng hồi cấp ba, bị hai người kèm mà vẫn ngả người ra sau ném." Cô ngừng một nhịp. "Nhạc thì chị tắt tiếng."
 
 Vũ há miệng. Rồi ngậm lại. Rồi quay sang anh, nhìn như nhìn một thằng vừa ném trúng từ giữa sân.
 
@@ -180,7 +181,7 @@ Vũ giơ hai tay ngửa lên ngang ngực, đưa lên đưa xuống như cân g�
 
 "Không có ý nghĩa gì cả chị. Thế mới hay."
 
-Cô gật đầu, như ghi nhận một điều khoản không hiểu nổi vì phép lịch sự.
+Cô gật đầu, kiểu người lịch sự gật đầu trước một thứ tiếng mình không hiểu. "Ừm. Chị… sẽ cố hiểu."
 
 ---
 
@@ -192,9 +193,13 @@ Anh nhặt cái bomber đang vắt trên lan can nhà xe, đi ra vạch biên, k
 
 Cô nhìn cái áo, rồi nhìn anh.
 
-"Áo em có mùi mồ hôi không?"
+"Áo em… có mùi mồ hôi không?"
 
 "Áo em có mùi cái lan can. Mồ hôi em đang mặc trên người."
+
+Anh cúi xuống chỉnh cổ áo cho cô, và nói, nhỏ đến mức cả sân không ai nghe, chỉ cô nghe: "Mặc vào đi… em ném cho chị xem."
+
+Cô không trả lời. Nhưng anh thấy hơi thở cô thành một vệt khói mỏng, dài hơn những vệt trước, như người vừa thở ra một câu không nói.
 
 Cô xỏ tay vào. Tay áo dài quá, trùm kín cả ngón tay, chỉ lộ ra một chút đầu móng sơn đỏ. Cái bomber xanh rêu chụp lên áo dạ màu lạc đà, chẳng hợp nhau tí nào. Trông cô nhỏ đi một cỡ.
 
@@ -222,7 +227,7 @@ Cô cầm chai nước. Và cô cười.
 
 Đầu anh làm việc trước khi anh cho phép nó. Cái cười đến chậm hơn câu nói nửa nhịp. Môi kéo lên đúng độ, nhưng khép, không thấy răng. Mắt không cong. Mắt cô nhìn lướt qua Hưng, lên mấy cái ban công phơi quần áo, xuống cái điện thoại Linh vừa hạ, như đang đếm xem trong cái sân này có bao nhiêu người vừa nghe thấy. Tay cô cầm chai nước như cầm micro của người khác, đầu ngón tay chỉ chạm vào nhãn.
 
-Cái cười của người ngồi ghế chủ tọa nghe đại biểu nói một câu sai chỗ.
+Cái cười của người đứng trên sân khấu nghe khán giả nói một câu sai chỗ.
 
 Anh dừng đọc ở đó.
 
@@ -258,6 +263,14 @@ Tám giờ bốn mươi, cô nhìn điện thoại.
 
 "Em ra đầu ngõ với chị."
 
+"Ơ, đang thắng mà!" Vũ gào từ giữa sân. "Mày bỏ đội à? Đang mười một – sáu!"
+
+"Thắng rồi thì về được." Anh cởi giày bóng rổ, xỏ lại đôi derby, không buộc dây. "Quân, vào thay tao."
+
+"Em cứ chơi tiếp đi," cô nói. "Chị gọi xe được."
+
+"Em biết chị gọi được." Anh đứng dậy. "Em muốn đi."
+
 Cô cởi cái bomber ra, gấp lại. Gấp gọn, hai tay áo xếp vào trong, như người ta gấp áo trong cửa hàng. Rồi đưa cho anh.
 
 "Cảm ơn em. Bạn em vui."
@@ -290,7 +303,7 @@ Bốn lần. Anh tưởng là ba.
 
 ---
 
-"Chị ấy đẹp," Vũ nói.
+"Chị ấy đẹp vcl," Vũ nói.
 
 Hai thằng ngồi trên bậc thềm. Mâm nhôm giữa sân đã có nem chua rán, khoai tây chiên, năm cốc bia hơi. Bọn năm nhất đang tranh nhau miếng nem cuối.
 
@@ -312,7 +325,7 @@ Hai thằng ngồi trên bậc thềm. Mâm nhôm giữa sân đã có nem chua 
 
 Nó cười. Rồi thôi cười, nhìn về phía vạch biên, chỗ cô đứng lúc nãy. Chỗ đó giờ chỉ còn một vệt xi măng nứt và vỏ một gói bim bim.
 
-"Chị ấy đẹp," Vũ nói lại. "Nhưng chị ấy nhìn sân như nhìn chỗ tổ chức sự kiện."
+"Chị ấy đẹp," Vũ nói lại, lần này không chửi. "Nhưng mà… chị ấy nhìn sân như nhìn chỗ tổ chức sự kiện."
 
 Anh không trả lời ngay. Anh xoay cốc bia trên bậc thềm một vòng.
 
@@ -367,9 +380,10 @@ Vũ lấy lại điện thoại, nhét vào túi áo phao, nhếch mép nhìn an
 Mười một giờ, điện thoại rung khi anh đang khoác lại cái bomber. Gió đã lạnh hơn. Cái áo vẫn còn mùi nước hoa.
 
 :::chat
-Anh Tuấn: Thuyên ơi em ngủ chưa.
-Anh Tuấn: Slide tổng kết năm sáng mai anh gửi khối, em xem lại giúp anh mấy trang số liệu nhé, căn lại cho đẹp, chỗ biểu đồ hơi xấu.
-Anh Tuấn: Con số 92% em làm tròn lên 95 cho đẹp nha em. Gấp nhé 🙏
+Anh Tuấn: Thuyên ơi em ngủ chưa
+Anh Tuấn: Slide tổng kết năm sáng mai anh gửi khối, em xem lại giúp anh mấy trang số liệu nhé, căn lại cho đẹp, chỗ biểu đồ hơi xấu 😂
+Anh Tuấn: Con số 92% em làm tròn lên 95 cho đẹp nha em
+Anh Tuấn: Gấp nhé 🙏🙏
 Anh Tuấn: [tệp]
 :::
 
@@ -388,13 +402,14 @@ Căn cho đẹp. Việc anh dở nhất, bằng công cụ dở nhất: một c�
 Anh căn xong bốn trang. Cái biểu đồ anh không động vào dòng chú thích. Con số 92 anh để nguyên, thêm một dòng chữ nhỏ bên cạnh: *đang tiếp tục cải thiện.*
 
 :::chat
-> em sửa xong r anh ạ. 92 là số thật trên tập kiểm tra, em để nguyên, thêm dòng "đang cải thiện" cho có đà. khối hỏi thì mình có số liệu đỡ
+> dạ em sửa xong r anh ạ 🙏 92 là số thật trên tập kiểm tra, em để nguyên, thêm dòng "đang cải thiện" cho có đà. khối hỏi thì mình có số liệu đỡ
 :::
 
 Gửi. Ba giây sau:
 
 :::chat
-Anh Tuấn: Ok em. Giỏi 👍
+Anh Tuấn: Ok em
+Anh Tuấn: Giỏi 👍👍
 :::
 
 Chấm xanh cạnh tên sếp vẫn sáng. Không rời đi đâu.
@@ -458,37 +473,45 @@ Phòng trọ tối. Anh treo cái bomber lên thành ghế, không giặt. Đôi
 Mười hai giờ năm phút, điện thoại sáng. Không phải cô.
 
 :::chat
-Vũ Béo: t lướt hết r
-Vũ Béo: ig chị dâu. 3 năm. 214 bài
-Vũ Béo: old money vcl. ảnh nào cũng như quảng cáo nước hoa
-Vũ Béo: tấm nào cũng có 1 cái cốc. chị ấy uống cà phê hay đang quay quảng cáo cốc
-Vũ Béo: k có tấm nào cười hở răng
-Vũ Béo: k có tấm nào ở chỗ đông người
-Vũ Béo: m với chị ấy đứng cạnh nhau như quảng cáo nước hoa đứng cạnh quảng cáo crocs
-> hôm nay t đi derby
-Vũ Béo: thì quảng cáo xi đánh giày
-Vũ Béo: suýt nữa t thả tim tấm 2024. tay t run. may mà rút kịp
-> t suýt từ tháng 10 r
-Vũ Béo: m stalk người yêu m từ trước khi là người yêu à
-Vũ Béo: biến thái
-Vũ Béo: mà tim vào ảnh 2 năm trước là tự thú đã stalk. luật bất thành văn của dân tộc
-Vũ Béo: chị ấy xem story cringe của m xong còn lưu 3 tấm
-Vũ Béo: còn đi grab sang tận đây đứng gió
-Vũ Béo: chắc yêu thật. t ghen tị lần 2 trong 1 tối
-> thuế lũy tiến
-Vũ Béo: đm
+Vũ Béo: T lướt hết r
+Vũ Béo: Ig chị dâu
+Vũ Béo: 3 năm. 214 bài
+Vũ Béo: Old money vcl
+Vũ Béo: Ảnh nào cũng như quảng cáo nước hoa
+Vũ Béo: Tấm nào cũng có 1 cái cốc
+Vũ Béo: Chị ấy uống cà phê hay đang quay quảng cáo cốc =)))))
+Vũ Béo: K có tấm nào cười hở răng
+Vũ Béo: K có tấm nào ở chỗ đông người
+Vũ Béo: M với chị ấy đứng cạnh nhau như quảng cáo nước hoa đứng cạnh quảng cáo crocs 🤡
+> hôm nay t đi derby 😏
+Vũ Béo: Thì quảng cáo xi đánh giày 👎
+Vũ Béo: Suýt nữa t thả tim tấm 2024
+Vũ Béo: Tay t run
+Vũ Béo: May mà rút kịp 😅
+> t suýt từ tháng 10 r ☠️
+Vũ Béo: Ơ
+Vũ Béo: M stalk người yêu m từ trước khi là người yêu à
+Vũ Béo: Biến thái 🤡
+Vũ Béo: Mà tim vào ảnh 2 năm trước là tự thú đã stalk
+Vũ Béo: Luật bất thành văn của dân tộc
+Vũ Béo: Chị ấy xem story cringe của m xong còn lưu 3 tấm
+Vũ Béo: Còn đi grab sang tận đây đứng gió
+Vũ Béo: Chắc yêu thật
+Vũ Béo: T ghen tị lần 2 trong 1 tối 😡
+> thuế lũy tiến 😈
+Vũ Béo: Đm 🖕
 :::
 
-Anh cười một mình trong bóng tối. Rồi anh lướt lên, đọc lại một dòng ở giữa. *k có tấm nào ở chỗ đông người.* Đọc một lần. Rồi anh đặt điện thoại xuống gối.
+Anh cười một mình trong bóng tối. Rồi anh lướt lên, đọc lại một dòng ở giữa. *K có tấm nào ở chỗ đông người.* Đọc một lần. Rồi anh đặt điện thoại xuống gối.
 
 Mười hai giờ mười bảy, điện thoại sáng lại.
 
 :::chat
-Chủ tọa: Chị xin lỗi vì về sớm.
-Chủ tọa: Chị không quen chỗ đông.
+Chủ tọa: Chị xin lỗi vì về sớm
+Chủ tọa: Chị không quen chỗ đông
 :::
 
-Anh nhìn hai dòng ấy. Có chữ hoa đầu câu. Có dấu chấm. Có một chữ "xin lỗi" đặt ở đầu, như văn bản đính chính.
+Anh nhìn hai dòng ấy. Chữ hoa đầu dòng. Không một cái icon. Có một chữ "xin lỗi" đặt ở đầu, như văn bản đính chính.
 
 Sân bóng tối nay có chín người và một bác bảo vệ. Anh biết thế. Anh không gõ thế.
 
@@ -501,14 +524,16 @@ Sân bóng tối nay có chín người và một bác bảo vệ. Anh biết th
 Ba chấm hiện lên. Tắt. Hiện lại.
 
 :::chat
-Chủ tọa: Bảo Hưng là chị không giận.
-Chủ tọa: Chỉ là hơi sớm.
+Chủ tọa: Bảo Hưng là chị không giận
+Chủ tọa: Chỉ là hơi sớm
 Chủ tọa: Giao thừa em làm gì?
 > đếm ngược
-Chủ tọa: Đếm ngược với chị. Hồ Gươm. Đi xem pháo hoa.
+Chủ tọa: Đếm ngược với chị
+Chủ tọa: Hồ Gươm
+Chủ tọa: Đi xem pháo hoa
 :::
 
-Không có dấu hỏi. Ba câu, ba dấu chấm, như ba điều khoản đã được thông qua.
+Không có dấu hỏi. Không có icon. Ba câu, ba tin, như ba cái đinh đóng xuống mặt gỗ.
 
 Anh gõ, nửa trêu:
 
@@ -517,7 +542,7 @@ Anh gõ, nửa trêu:
 Lần này ba chấm hiện lên rất nhanh.
 
 :::chat
-Chủ tọa: Ở đấy không ai biết chị.
+Chủ tọa: Ở đấy không ai biết chị
 :::
 
 Anh đọc câu ấy một lần. Đầu anh bắt đầu nghiêng sang một bên, như mọi lần có cái gì không khớp. Chín người quen thì đông. Một trăm nghìn người lạ thì không.
@@ -526,8 +551,9 @@ Anh để nó đấy. Lấy ngón tay kẹp trang, không mở lại.
 
 :::chat
 > ok. 31. e đi derby
-Chủ tọa: Chị biết em sẽ đi derby.
-Chủ tọa: Ngủ đi. Áo em vẫn còn mùi chị đúng không.
+Chủ tọa: Chị biết em sẽ đi derby 🙂
+Chủ tọa: Ngủ đi
+Chủ tọa: Áo em vẫn còn mùi chị đúng không 👀
 :::
 
 Anh nhìn cái bomber vắt trên thành ghế, trong bóng tối chỉ còn là một khối xanh rêu sẫm.
@@ -535,7 +561,7 @@ Anh nhìn cái bomber vắt trên thành ghế, trong bóng tối chỉ còn là
 :::chat
 > đúng
 > e chưa giặt
-Chủ tọa: Đừng giặt vội.
+Chủ tọa: Đừng giặt vội 🤭
 :::
 
 Anh úp điện thoại xuống ngực.

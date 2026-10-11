@@ -7,7 +7,7 @@ import Stars from '../../components/Stars.astro';
 import Footer from '../../components/Footer.astro';
 import { isConfigured } from '../../lib/supabase';
 import { getChapterPage } from '../../lib/chapters';
-import { chapterLabel } from '../../lib/chapters-shared';
+import { chapterLabel, chapterLinkName, isSpecialChapter } from '../../lib/chapters-shared';
 import { renderMarkdown, excerpt, stripTranslations } from '../../lib/markdown';
 
 const { slug = '' } = Astro.params;
@@ -33,6 +33,7 @@ const c = page?.chapter;
 const prev = page?.prev ?? null;
 const next = page?.next ?? null;
 const label = c ? chapterLabel(c) : '';
+const special = c ? isSpecialChapter(c) : false;
 const html = c ? renderMarkdown(c.body) : '';
 const words = c ? stripTranslations(c.body).split(/\s+/).filter(Boolean).length : 0;
 const minutes = Math.max(1, Math.round(words / 230));
@@ -71,8 +72,20 @@ const hasTranslations = c ? /\[\[(en|ht):|^:::dich/m.test(c.body) : false;
 
     <main>
       <article class="chapter" data-chapter data-id={c.id} data-slug={c.slug} data-title={c.title} data-label={label}>
-        <div class="eyebrow amber">{label}</div>
-        <h1 class:list={{ italic: c.kind === 'interlude' }}>{c.title}</h1>
+        {special ? (
+          <div class="special-head">
+            <span class="domino big" aria-hidden="true"></span>
+            <div>
+              <div class="eyebrow amber">{label}</div>
+              <h1 class="special">{c.title}</h1>
+            </div>
+          </div>
+        ) : (
+          <>
+            <div class="eyebrow amber">{label}</div>
+            <h1 class:list={{ italic: c.kind === 'interlude' }}>{c.title}</h1>
+          </>
+        )}
         <div class="chapter-meta">
           {c.story_date && <span class="story-date"><span class="lamp"></span>{c.story_date}</span>}
           <span class="meta-small">{minutes} phút đọc</span>
@@ -84,14 +97,14 @@ const hasTranslations = c ? /\[\[(en|ht):|^:::dich/m.test(c.body) : false;
 
         <div class="chapter-end">
           <div class="scene-break" aria-hidden="true"><span></span><span class="lit"></span><span></span></div>
-          <p>Hết {label === 'Interlude' ? c.title : label.toLowerCase()}</p>
+          <p>Hết {label === 'Interlude' ? c.title : special ? `chương ${c.title}` : label.toLowerCase()}</p>
         </div>
 
         <nav class="pager" aria-label="Chuyển chương">
           {prev ? (
             <a href={`/doc/${prev.slug}`} rel="prev">
               <div class="dir">← Trước</div>
-              <div class="name">{prev.kind === 'chapter' ? (prev.number != null ? `Chương ${prev.number} · ` : 'Chương ') : ''}{prev.title}</div>
+              <div class="name">{chapterLinkName(prev)}</div>
             </a>
           ) : (
             <div class="empty"><div class="dir">Trước</div><div class="name">Đây là phần đầu tiên</div></div>
@@ -99,7 +112,7 @@ const hasTranslations = c ? /\[\[(en|ht):|^:::dich/m.test(c.body) : false;
           {next ? (
             <a class="next" href={`/doc/${next.slug}`} rel="next">
               <div class="dir">Tiếp →</div>
-              <div class="name">{next.kind === 'chapter' ? (next.number != null ? `Chương ${next.number} · ` : 'Chương ') : ''}{next.title}</div>
+              <div class="name">{chapterLinkName(next)}</div>
             </a>
           ) : (
             <div class="empty"><div class="dir">Tiếp</div><div class="name">Chương sau đang được viết…</div></div>

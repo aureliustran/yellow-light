@@ -176,11 +176,13 @@ Anh nhìn dòng chữ. Chữ hoa đầu câu, dấu hỏi chấm, đến lúc m�
 > tử tế thì k có. hôm nay em chỉ làm toán
 Chủ tọa: Toán gì?
 > toán năng suất. 1 việc người làm mất mấy chục tiếng, máy làm 6 phút. nghe như việc thiện nhưng thật ra là phép chia
-Chủ tọa: Phép chia lúc mười một giờ đêm.
+Chủ tọa: Phép chia lúc mười một giờ đêm 🙄
 > phép chia k có giờ hành chính
-Chủ tọa: Chị hỏi vì hôm nay chị chẳng làm gì tử tế cả. Chị định mượn của em một việc.
-> thế chị mượn việc em mắng sếp trong đầu 3 lần mà không nói ra. tử tế bằng im lặng
-Chủ tọa: Cái đấy là nhịn, không phải tử tế. Chị không mượn.
+Chủ tọa: Chị hỏi vì hôm nay chị chẳng làm gì tử tế cả
+Chủ tọa: Chị định mượn của em một việc 🫠
+> thế chị mượn việc em mắng sếp trong đầu 3 lần mà không nói ra. tử tế bằng im lặng 😈
+Chủ tọa: Cái đấy là nhịn, không phải tử tế
+Chủ tọa: Chị không mượn 🙂
 :::
 
 Anh bật cười, rồi úp điện thoại xuống.
@@ -204,9 +206,9 @@ Chủ tọa: Em ngủ chưa?
 > chưa. đang nhìn sông chạy
 Chủ tọa: Sông gì?
 > sông của em. nó chảy trên máy chủ. hôm nào em vẽ cho chị xem
-Chủ tọa: Em hứa thì chị ghi vào biên bản đấy.
+Chủ tọa: Em hứa thì chị ghi vào biên bản đấy 📝
 > ghi đi. biên bản của chị dày lắm rồi, thêm 1 dòng k ai để ý
-Chủ tọa: Chị để ý.
+Chủ tọa: Chị để ý
 :::
 
 Anh nhìn câu ấy lâu hơn nhìn bốn mươi dòng chương trình.
@@ -278,7 +280,8 @@ Chín giờ tối, điện thoại rung trong túi áo hoodie.
 Anh đọc dòng nội dung. Đọc lại con số. Đếm số chữ số không, rồi đếm lại.
 
 :::chat
-Học sinh hồng: em trả theo giá em thấy đáng chứ không phải giá anh dám đòi
+Học sinh hồng: Em trả theo giá em thấy đáng
+Học sinh hồng: Chứ không phải giá anh dám đòi 😤
 :::
 
 Anh ngồi dậy.
@@ -292,8 +295,8 @@ Anh nhìn dòng chữ mình vừa gõ. Một giây.
 Rồi xóa từ cuối lên đầu.
 
 :::chat
-> ok. thầy nhận. vì tôn trọng ý kiến học sinh thôi đấy, k phải vì tiền
-Học sinh hồng: anh nói dối dở thật
+> ok. thầy nhận. vì tôn trọng ý kiến học sinh thôi đấy, k phải vì tiền 😏
+Học sinh hồng: Anh nói dối dở thật 🙄
 :::
 
 Cái mặt lúc gõ câu ấy chắc đang nhăn lại, môi mím, cái mũ tai mèo mà đội trong nhà thì…

@@ -138,7 +138,7 @@ Nhi mở miệng. Không có gì ra.
 
 Bàn bên, đứa con trai đã cúp máy, đang kéo khóa vali, tiếng khóa kéo dài một hơi.
 
-"Không phải tiền đâu," Nhi nói.
+"Không! Không phải tiền đâu," Nhi nói.
 
 Câu ấy ra trước khi cô kịp nghe nó.
 

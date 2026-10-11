@@ -188,11 +188,11 @@ Cô ngẩng lên.
 
 Cô gái ở bàn bên đang hút trà sữa thì sặc.
 
-Nhi chớp mắt một cái. "Anh nói gì cơ?"
+Nhi chớp mắt một cái. "Hả?! Anh nói gì cơ?"
 
 "Nói ngang." Anh giơ tờ đề lên, chỉ vào cái mũi tên gãy khúc anh vẽ từ Part 1. "Anh hỏi em thích Hà Nội không. Em đi từ cây sấu sang sấu dầm sang bà em sang năm lớp chín, rồi nhảy một phát về *so yes, I like Hanoi*. Anh hỏi có nên nói thẳng không. Em bảo nên, xong em kể mẹ em, cô giáo em, câu *ăn cơm chưa*, mỗi câu một hướng. Không câu nào sai. Nhưng không câu nào dắt người nghe sang câu sau. Người nghe như ngồi sau xe một đứa đi ngang, không xi nhan."
 
-"Em không đi ngang."
+"Em đâu có đi ngang!"
 
 "Em đi ngang vcl."
 
@@ -220,9 +220,9 @@ Cô nghĩ một lúc. Rồi hỏi, lạc đề hẳn:
 
 "Anh học IELTS ở đâu?"
 
-"Không ở đâu."
+"Thì… không ở đâu cả."
 
-"Không ai được tám chấm mà không học ở đâu."
+"Ơ kìa, không ai được tám chấm mà không học ở đâu cả."
 
 "YouTube. Phim không phụ đề. Podcast người ta cãi nhau hai tiếng." Anh nhún vai. "Năm lớp mười hai, đêm nào cũng nghe. Ngữ pháp anh chưa học trọn một bài nào. Hỏi anh thì hiện tại hoàn thành tiếp diễn dùng khi nào, anh không nói được. Anh chỉ biết người ta dùng nó lúc nào."
 
@@ -256,7 +256,7 @@ Anh nhìn bàn tay mình một giây, như thể nó vừa được trả lại 
 
 "Kể cả nó hay."
 
-"Thế thì phí."
+"Thế thì phí lắm á."
 
 "Để dành cho đề khác." Anh lật lại thẻ đề Part 2, đẩy sang phía cô. "Làm lại. Một phút. Lần này viết. Không viết câu. Chỉ viết chữ, tối đa năm chữ."
 
@@ -304,13 +304,13 @@ Cô nhìn chữ *đèn vàng*. Im ba giây. "Không."
 
 "Sân khấu?"
 
-Cô cắn đầu bút. "Không hẳn."
+Cô cắn đầu bút. "Ừm… không hẳn."
 
 "Thì gạch."
 
 Cô gạch *công bằng*. Gạch *sân khấu*. Đến *đèn vàng* thì bút dừng lại trên giấy.
 
-"Em thích đèn vàng."
+"Nhưng mà em thích đèn vàng cơ."
 
 "Anh biết. Để dành."
 
@@ -318,19 +318,19 @@ Cô gạch *công bằng*. Gạch *sân khấu*. Đến *đèn vàng* thì bút 
 
 "Đề *[[en: describe a rule you think is unfair || tả một quy định bạn thấy bất công]]*. Hoặc *[[en: a time you made a quick decision || một lần bạn quyết định thật nhanh]]*." Anh nói. "Thế giới có cả nghìn đề. Đèn vàng của em không chết được đâu. Gạch đi, kid."
 
-Cô ngẩng phắt lên. "Đừng gọi em là kid."
+Cô ngẩng phắt lên. "Này nhá! Đừng gọi em là kid."
 
 "Kid nhảy cóc. Người lớn đi đường thẳng."
 
-"Em mười chín tuổi."
+"Em mười chín tuổi rồi!"
 
 "Nói chuyện như mười hai."
 
 Cô nhìn anh một lúc. Môi mím lại, má phồng lên một chút, như sắp cãi tiếp. Rồi cúi xuống, gạch chữ *đèn vàng*, mạnh tay đến mức rách một vết nhỏ trên giấy.
 
-"Xong," cô nói. "Gạch rồi. Đồ ác."
+"Xong!" cô nói. "Gạch rồi đấy. Đồ ác."
 
-"Bắt đầu."
+"Mười ba," anh nói. "Vừa lên một tuổi. Bắt đầu."
 
 ---
 
@@ -342,7 +342,7 @@ Anh không nói gì ngay. Cô chờ.
 
 "Lần này," anh nói, "em không nói *very important* lần nào."
 
-Cô chớp mắt. "Thật à?"
+Cô chớp mắt. "Thật á?"
 
 "Thật. Anh không bảo em bỏ. Nó tự rơi." Anh gõ bút vào cái chấm tròn. "Có đường thì không phải vớ."
 
@@ -410,11 +410,11 @@ Anh quay lại. Nhìn miệng cô. "Lại."
 
 "Được rồi. Lần này hết giống con mèo."
 
-Cô cười. Lần đầu tiên trong buổi chiều cô cười thật, không phải cái khóe môi nhích lên, mà cả mắt cũng cong lại. "Anh đỏ tai kìa."
+Cô cười. Lần đầu tiên trong buổi chiều cô cười thật, không phải cái khóe môi nhích lên, mà cả mắt cũng cong lại. "Ơ, anh đỏ tai kìa!"
 
 "Quán này nóng."
 
-"Quán bật điều hòa mười tám độ." Cô chỉ lên cái máy điều hòa trên tường. "Em ngồi đây hai tiếng em biết."
+"Quán bật điều hòa mười tám độ cơ mà." Cô chỉ lên cái máy điều hòa trên tường. "Em ngồi đây hai tiếng em biết."
 
 Anh nhìn theo tay cô. Cái máy điều hòa trắng, màn hình tắt ngóm. Ngay cạnh là một cái sticker vàng đã bạc màu, chữ đen to tướng: *[[en: 18 MONTH WARRANTY || BẢO HÀNH 18 THÁNG]]*.
 
@@ -498,17 +498,17 @@ Cô mở miệng. Rồi dừng.
 
 Không phải cái dừng để nghĩ, như lúc cô chọn cái chấm cho bài Part 2. Cũng không phải cái dừng ở chữ *a friend*. Một cái dừng khác, rất ngắn, như người đang đi thì hụt chân một bậc.
 
-"Lần ba em xem để chắc," cô nói.
+"Lần ba thì… ừm… em xem để chắc," cô nói.
 
 "Chắc cái gì?"
 
-"Chắc là em học xong rồi." Cô cầm cốc nước lên, hút một ngụm, đặt xuống. Rồi nói thêm, không ai hỏi, mắt nhìn sang bức tường hồng bên cạnh: "Em không ngồi ngắm anh đâu."
+"Chắc là em học xong rồi." Cô cầm cốc nước lên, hút một ngụm, đặt xuống. Rồi nói thêm, không ai hỏi, mắt nhìn sang bức tường hồng bên cạnh: "Em không ngồi ngắm anh đâu nhá."
 
 Anh nhìn cô.
 
 "Anh có nói gì đâu."
 
-"Em biết." Cô cúi xuống, xoay quả dâu trên miệng cốc một vòng, rồi thêm một vòng nữa. "Em nói trước. Cho anh khỏi nghĩ."
+"Em biết." Cô cúi xuống, xoay quả dâu trên miệng cốc một vòng, rồi thêm một vòng nữa. "Thì… em nói trước. Cho anh khỏi nghĩ."
 
 Anh nhìn theo quả dâu. Nó quay, vòng thứ hai, vòng thứ ba. Nhìn quả dâu thì dễ hơn nhìn mặt cô, và anh vẫn luôn chọn cái dễ hơn.
 
@@ -534,7 +534,7 @@ Vì anh thật sự muốn mình sai. Nếu mình sai, thì mọi thứ vẫn nh
 
 "Lần sau em vẫn hỏi à?"
 
-"Vâng. Em hỏi đến khi anh trả lời." Cô cầm lại cuốn sổ hồng. "Em kiên nhẫn lắm. Anh xem cái sổ rồi đấy."
+"Vâng! Em hỏi đến khi nào anh trả lời thì thôi." Cô cầm lại cuốn sổ hồng. "Em kiên nhẫn lắm. Anh xem cái sổ rồi đấy."
 
 ---
 
@@ -548,7 +548,7 @@ Anh nhìn tập giấy của gia sư thứ nhất, cái mặt cười ở cuối
 
 "Nói nhiều," anh nói, "đến mức em chán."
 
-"Em không chán đâu."
+"Em không chán đâu mà."
 
 "Em chưa nghe anh nói nhiều bao giờ."
 
@@ -558,7 +558,7 @@ Cô nhìn anh một giây. Rồi gật đầu, rất mạnh, như ký vào một
 
 "Lại hồng à?"
 
-"Em chưa biết." Cô nghĩ. "Có thể là hồng đậm hơn."
+"Ừm… em chưa biết." Cô nghĩ. "Có thể là hồng đậm hơn."
 
 Cô đứng dậy, đội cái mũ tai mèo lên, rồi chìa điện thoại ra. "Số tài khoản."
 
@@ -613,7 +613,7 @@ Lần thứ hai, anh nhìn con số. Lần thứ ba, anh nhìn dòng nội dung.
 Điện thoại rung.
 
 :::chat
-Chủ tọa: Hôm nay em làm gì?
+Chủ tọa: Hôm nay em làm gì 👀
 :::
 
 Anh nhìn tin nhắn. Có chữ hoa đầu câu, có dấu hỏi. Anh gõ:
@@ -622,14 +622,15 @@ Anh nhìn tin nhắn. Có chữ hoa đầu câu, có dấu hỏi. Anh gõ:
 > đi dạy. kiếm tiền trà đá
 Chủ tọa: Dạy gì?
 > ielts. học sinh đầu tiên, giá học thử
+Chủ tọa: Hừm
 Chủ tọa: Học sinh có giỏi không?
 :::
 
 Anh nhìn câu hỏi một lúc. Nghĩ đến cuốn sổ hồng. Đến cái dây nối. Đến cái gõ tay hai lần.
 
 :::chat
-> học sinh khó dạy. nói như đi xe máy không xi nhan
-Chủ tọa: Em nói như người thích việc khó.
+> học sinh khó dạy. nói như đi xe máy không xi nhan :v
+Chủ tọa: Em nói như người thích việc khó 🙂
 :::
 
 Anh không trả lời câu đó. Anh cất điện thoại, đi bộ ra bến xe buýt, đi dọc bờ hồ, Crocs đen dẫm lên mấy cánh hoa giấy hồng rụng trên vỉa hè.
@@ -748,19 +749,21 @@ Anh gửi cho Vũ một tấm ảnh chụp màn hình cái thẻ đề. Lần n�
 
 :::chat
 Vũ Béo: ?
-Vũ Béo: đề gì đây
-> đề speaking buổi sau
-Vũ Béo: [[en: describe your type of boyfriend??? || tả kiểu bạn trai của mày???]]
-Vũ Béo: ielts có đề này thật à
-> giờ thì có
+Vũ Béo: Đề gì đây
+> đề speaking buổi sau 😏
+Vũ Béo: [[en: Describe your type of boyfriend??? || Tả kiểu bạn trai của mày???]]
+Vũ Béo: IELTS có đề này thật à
+> giờ thì có 😈
 Vũ Béo: ...
-Vũ Béo: đm
-Vũ Béo: tà đạo vcl
-Vũ Béo: quân sư tình yêu cả sân đến lượt mình thì đéo dám hỏi thẳng, đi soạn hẳn đề thi để hỏi hộ
+Vũ Béo: Đm
+Vũ Béo: Tà đạo vcl 🤡
+Vũ Béo: Quân sư tình yêu cả sân, đến lượt mình thì đéo dám hỏi thẳng
+Vũ Béo: Đi soạn hẳn đề thi để hỏi hộ 👎
 > luyện kỹ năng
-Vũ Béo: kỹ năng lừa học sinh
+Vũ Béo: Kỹ năng lừa học sinh
 > kỹ năng hỏi
-Vũ Béo: t xin rút lại câu m đứng im như cột đèn. m là cột đèn biết soạn giáo án
+Vũ Béo: T xin rút lại câu m đứng im như cột đèn
+Vũ Béo: M là cột đèn biết soạn giáo án =)))))
 :::
 
 Anh cười, bấm in. Cái máy in dưới gầm bàn lại kêu rè rè như con mèo ốm, nhả ra đúng một tờ.

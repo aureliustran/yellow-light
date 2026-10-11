@@ -237,13 +237,16 @@ Hậu trường ồn ào như cái chợ. Thầy Bình nắm tay anh lắc liên
 Anh rút ra.
 
 :::chat CLB Tin học – Ban điều hành
-Ngọc Anh (K71): ANH THUYÊNNNN em khóc thật đấy 😭😭😭
-Ngọc Anh (K71): đoạn ba chấm trắng hay quá anh ơi
-Đức (PCN): ông nói hay đấy. thầy Bình chắc sắp lên chức rồi
+Ngọc Anh (K71): ANH THUYÊNNNN
+Ngọc Anh (K71): Em khóc thật đấy 😭😭😭
+Ngọc Anh (K71): Đoạn ba chấm trắng hay quá anh ơiii
+Đức (PCN): Ông nói hay đấy :))
+Đức (PCN): Thầy Bình chắc sắp lên chức rồi
 :::
 
 :::chat Pickup tối T7 🏀
-Vũ Béo: idol cc. nhưng mà đỉnh thật đm
+Vũ Béo: Idol cc
+Vũ Béo: Nhưng mà đỉnh thật đm 😅
 :::
 
 *Vũ Béo: mà con bé áo hồng hỏi câu gì mà mặt m như ăn phải ớt thế*
@@ -251,13 +254,13 @@ Vũ Béo: idol cc. nhưng mà đỉnh thật đm
 Anh nhìn dòng tin cuối cùng, rồi gõ:
 
 :::chat
-> công chúa hỏi câu triết học. t trả lời bằng tấu hài. 1-0
+> công chúa hỏi câu triết học. t trả lời bằng tấu hài. 1-0 😈
 :::
 
 Vũ trả lời gần như ngay lập tức:
 
 :::chat
-Vũ Béo: 1-0 cái đầu m
+Vũ Béo: 1-0 cái đầu m 🖕
 :::
 
 Anh bật cười, cất điện thoại vào túi.

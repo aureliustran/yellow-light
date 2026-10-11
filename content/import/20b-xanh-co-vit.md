@@ -68,7 +68,7 @@ Anh gật. Vẽ một cái chấm, một mũi tên, khoanh tròn một chữ.
 
 Cô nhìn anh.
 
-"Sao anh biết em có Instagram?"
+"Ơ… sao anh biết em có Instagram?"
 
 "Học sinh hồng thế này mà không có Instagram thì phí màu." Anh nói, nhanh, và cầm cốc cà phê lên. "Ai mà chẳng có Instagram, kid."
 
@@ -90,7 +90,7 @@ Cô chép cái khung anh vừa vẽ sang sổ, bằng mực xanh cổ vịt. Ch�
 
 Năm giờ mười, anh đặt bút xuống. "Nghỉ năm phút. Não em đang chạy bằng trà sữa."
 
-"Đây là trà đào."
+"Trà đào mà!"
 
 "Thế bằng trà đào."
 
@@ -211,14 +211,15 @@ Cô nhân con số lên hai.
 Cây bút xanh cổ vịt nằm trên trang sổ mở, ngay cạnh đầu gối cô. Cô bấm chuyển.
 
 :::chat
-> em trả theo giá em thấy đáng chứ không phải giá anh dám đòi
+> Em trả theo giá em thấy đáng
+> Chứ không phải giá anh dám đòi 😤
 :::
 
 Dưới tin nhắn, ba chấm hiện lên. Đứng đó. Lâu. Lâu hơn bất cứ tin nào anh từng soạn cho cô, kể cả tin chấm bài dài nhất. Rồi tắt. Rồi hiện lại.
 
 :::chat
-Phanh Gấp: ok. thầy nhận. vì tôn trọng ý kiến học sinh thôi đấy, k phải vì tiền
-> anh nói dối dở thật
+Phanh Gấp: ok. thầy nhận. vì tôn trọng ý kiến học sinh thôi đấy, k phải vì tiền 😏
+> Anh nói dối dở thật 🙄
 :::
 
 Cô gửi xong thì ném điện thoại xuống chăn, nằm ngửa ra, nhìn trần nhà.
