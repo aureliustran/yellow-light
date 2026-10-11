@@ -28,6 +28,8 @@ Anh đọc lại cả email lần nữa, chậm, như đọc một dòng log bá
 
 Có khi nào chỉ là thế thôi. Sếp lớn đọc tài liệu, có chỗ không hiểu, gọi người viết lên hỏi. Hồi tháng tư, ở buổi review, Khải đã nói *tôi muốn đọc tài liệu kỹ thuật đầy đủ*, và người đọc tài liệu đầy đủ thì có câu hỏi đầy đủ. Hợp lý. Sạch.
 
+Và ở dưới cái hợp lý ấy là một câu anh không nói ra, kể cả với chính mình: tầng mười tám gọi tên anh. Không gọi tên trưởng nhóm. Anh đẩy câu ấy đi, như đẩy cái cốc ra xa mép bàn. Cái cốc vẫn ở trên bàn.
+
 Nhưng anh không đọc email này bằng mắt của Khải. Anh đọc nó bằng mắt của tầng mười bảy, vì tầng mười bảy mới là chỗ nó sẽ nổ.
 
 Một email từ tầng mười tám gọi riêng kỹ sư triển khai lên, không qua trưởng nhóm, ba tuần trước khi trưởng nhóm phải nộp danh sách nhân sự production. Nếu anh Tuấn biết chuyện này từ miệng anh, đấy là một email. Nếu anh Tuấn biết từ miệng bất cứ ai khác, đấy là một bản án.
@@ -67,6 +69,8 @@ Tám giờ ba mươi mốt, cửa phòng anh Tuấn mở.
 "Vào đây em."
 
 Anh vào. Cửa đóng. Anh Tuấn không ngồi sau bàn. Anh ta ngồi ở cái ghế sofa da cạnh cửa sổ, cái ghế dành cho khách từ khối khác, và chỉ cho anh ngồi cái ghế đối diện. Anh đọc được cái ghế ấy trước khi đọc được mặt anh Tuấn: hôm nay không phải sếp gọi lính. Hôm nay là hai người ngồi nói chuyện.
+
+Anh ngồi xuống, không vội. Lưng không chạm tựa ghế, hai bàn tay đặt yên trên đùi. Bảy tháng, lần đầu tiên anh không ngồi ở mép ghế trong căn phòng này.
 
 "Văn phòng anh Khải gửi riêng em," anh Tuấn nói.
 
@@ -111,6 +115,10 @@ Anh Tuấn gật, rất chậm. Gật như người vừa được người khá
 "Em thấy chưa," anh ta nói, không rõ với ai. Rồi, với anh: "Cả lab này…"
 
 Anh Tuấn không nói hết câu. Không cần. Anh đã nghe hết câu ấy hồi tháng tư: *cả lab chỉ có em thật lòng với anh*. Lần này anh Tuấn nuốt nó lại, vì lần này anh Tuấn biết có người đang đếm những câu anh ta nói.
+
+Ba câu, anh nghĩ. Một người hơn mình mười tuổi, đứng trên mình hai bậc, vừa phải nuốt lại lời của chính mình, và anh chỉ cần ba câu. Không phải vui. Anh ngạc nhiên vì nó dễ.
+
+Rồi một ý nghĩ đến, khô như một dòng chú thích trong code: *lão cần được tin như xe cần xăng.*
 
 "Thứ Năm anh đi cùng em," anh Tuấn nói. "Em xác nhận đi. Ghi tên anh vào."
 
@@ -273,7 +281,7 @@ Hà My không trả lời được câu ấy. Không có câu trả lời nào c
 
 Phòng họp 18B có một cửa sổ nhìn thẳng ra Keangnam, và một cái bàn tròn nhỏ, sáu ghế. Khải ngồi sẵn, áo sơ mi trắng, không vest, cốc cà phê giấy trước mặt. Anh ta đứng dậy bắt tay anh Tuấn trước, rồi bắt tay anh, cái bắt tay khô và ngắn.
 
-Bốn mươi phút. Khải hỏi ba câu. Hai câu đầu, Khải nhìn anh Tuấn. Anh Tuấn trả lời cả hai, trôi chảy hơn hồi tháng tư rất nhiều, vì tối qua anh Tuấn đã gọi anh đến chín giờ để tập. Câu thứ ba Khải nhìn anh, hỏi về cách mô hình xử lý vùng ảnh bị mây che quá bảy mươi phần trăm. Anh trả lời. Anh Tuấn gật bên cạnh, gật đúng chỗ, như người gật theo nhạc.
+Bốn mươi phút. Khải hỏi ba câu. Hai câu đầu, Khải nhìn anh Tuấn. Anh Tuấn trả lời cả hai, trôi chảy hơn hồi tháng tư rất nhiều, vì tối qua anh Tuấn đã gọi anh đến chín giờ để tập. Câu thứ ba Khải nhìn anh, hỏi về cách mô hình xử lý vùng ảnh bị mây che quá bảy mươi phần trăm. Anh trả lời. Anh Tuấn gật bên cạnh, gật đúng chỗ, như người gật theo nhạc. Nhạc là anh.
 
 Khải không ghi gì. Khải chỉ nghe, và nhìn ra cửa sổ những lúc người khác đang nói, lâu đến mức tưởng anh ta đang nghĩ chuyện khác.
 
@@ -312,6 +320,10 @@ Không có chữ nào về ảnh chụp màn hình. Không có chữ nào về m
 
 Cả hòn đảo đọc nó trong im lặng. Chị Phương nhìn sang cái bàn trống của Hà My, rồi nhìn xuống bảng tính nhân sự của mình, và anh thấy chị xóa một dòng. Trâm cầm điện thoại lên, rồi đặt xuống, rồi cầm lên. Chị Hạnh không nhìn ai. Chị Hạnh nhìn anh. Đúng một lần, rất ngắn, như người cộng thêm một con số vào bảng tính.
 
+Không ai hỏi về bản nháp. Không ai hỏi ảnh chụp ở máy ai. Không ai hỏi vì sao văn phòng giám đốc khối lại gửi riêng cho một kỹ sư.
+
+Sẽ không ai hỏi.
+
 ---
 
 Sáu giờ tối, Hà My quay lại lấy đồ.
@@ -322,13 +334,17 @@ Cô mang theo một cái thùng carton gấp sẵn, loại thùng đựng giấy
 
 Cô cầm bông hoa lên, nhìn nó một giây. Rồi đặt nó vào thùng, trên cùng.
 
-Cô không nhìn anh khi dọn. Đến lúc ôm thùng lên, đi ngang bàn anh, cô mới nhìn. Không giận. Không oán. Cái nhìn của một người đọc lại một bài toán mình đã làm sai, và vừa nhìn ra mình sai từ dòng nào.
+Cô không nhìn anh khi dọn. Anh không nhìn cô dọn. Anh nhìn màn hình, gõ một dòng log không cần gõ. Đến lúc ôm thùng lên, đi ngang bàn anh, cô mới nhìn. Không giận. Không oán. Cái nhìn của một người đọc lại một bài toán mình đã làm sai, và vừa nhìn ra mình sai từ dòng nào.
 
 "Bản nháp đẹp đấy," cô nói. Rất nhỏ. Chỉ đủ cho một người nghe.
 
-Rồi cô đi. Cửa thang máy đóng lại trên cái thùng carton.
+Anh không trả lời. Anh không ngẩng lên. Chỉ một bên khóe môi anh nhếch lên, đúng một nhịp, không có tiếng, rồi trở về chỗ cũ.
 
-Anh ngồi đó.
+*Cô ấy yếu ở chỗ tin vào cái mình thấy. Một người sống bằng màn hình của người khác thì chết vì một cái màn hình.*
+
+Cô đi. Cửa thang máy đóng lại trên cái thùng carton. Anh không quay đầu.
+
+Một lúc sau anh đứng dậy, đi ra cửa kính cuối hòn đảo, khoanh hai tay sau lưng, nhìn xuống Phạm Hùng. Đèn xe bắt đầu bật, từng dải đỏ và trắng chạy hai chiều không nghỉ. Anh không nghĩ về Hà My nữa. Cô đã là một dòng đã xử lý.
 
 Anh chờ.
 
@@ -336,11 +352,15 @@ Anh chờ cái cảm giác mà người ta gọi là tội lỗi. Anh biết nó
 
 Nó không đến.
 
-Thay vào đó là một thứ khác, nhỏ, ấm, ở chỗ dưới xương sườn. Nó giống cái cảm giác hồi tháng hai, lúc cả bàn bún chả cười cả mắt khi anh nói *lão có biết cái gì đâu*. Nó giống cái cảm giác lúc ký hóa đơn omakase mà không nhìn số. Nó giống cái cảm giác lúc cái fadeaway vào rổ.
+Thay vào đó là một sự bình thản, lạnh và phẳng, như nhìn một đường ống chạy xanh suốt đêm. Một bản nháp, một tin nhắn, hai trăm sáu mươi giây, một con trỏ chuột dời chỗ, một cánh cửa, một câu hỏi. Mỗi khúc chạy vào khúc sau, không gãy chỗ nào.
 
-Anh vui.
+Và một chút gì đó gần với chán. Trận vừa rồi dễ hơn anh tưởng. Ba đêm mất ngủ cho một người tự bước vào bẫy bằng chính cái điện thoại của mình.
 
-Anh vui, và anh biết là mình vui. Biết rõ như biết một con số trên màn hình. Không phải vui vì thoát. Vui vì đúng. Vì mọi thứ chạy đúng như anh vẽ: một bản nháp, một tin nhắn, hai trăm sáu mươi giây, một con trỏ chuột dời chỗ, một cánh cửa, một câu hỏi. Mỗi khúc chạy vào khúc sau như một đường ống không gãy chỗ nào.
+Anh thấy nhẹ, và hơi ngạc nhiên. *Thì ra không cần.*
+
+Nửa con mắt anh đã ở chỗ khác. Ở cái danh sách nộp trước mười lăm tháng sáu, ở dòng *kỹ thuật* trong ngoặc đơn, ở những người sẽ đến xin một dòng trong danh sách ấy. Hà My chỉ là trận mở màn. Cuộc chiến thật chưa bắt đầu.
+
+Anh nhìn ra, nhìn xuống. Không nhìn lên. Ngay trên trần, cách đầu anh một lớp bê tông, là tầng mười tám.
 
 *Có ai bị hại không?*
 
@@ -360,9 +380,15 @@ Anh Bảo đứng dậy, khoác ba lô, đi ngang bàn anh.
 
 Anh Bảo gật, đi. Không ngoái lại.
 
-Anh ngồi thêm một phút, nhìn theo cái lưng ấy đến khi nó khuất sau cửa thang máy. *Em.* Có khi nào anh Bảo nói nhầm. Có khi nào anh nghe nhầm. Anh không chắc. Anh thử đọc lại cái lưng ấy trong đầu, cái dáng đi, cái tay cầm quai ba lô, và lần đầu tiên anh không đọc ra gì. Hoặc đọc ra mà không muốn đọc tiếp.
+Anh ngồi thêm một phút, nhìn theo cái lưng ấy đến khi nó khuất sau cửa thang máy. *Em.* Có khi nào anh Bảo nói nhầm. Anh định đọc lại cái lưng ấy trong đầu, cái dáng đi, cái tay cầm quai ba lô. Rồi anh thôi. *Anh Bảo cũng sẽ quen.*
 
 Anh mở ngăn kéo, lấy quân thứ bảy. Hai – hai. Anh dựng nó sau quân thứ sáu.
+
+Rồi anh ngồi thêm mười phút, mắt nhắm, và chiếu lại hai trăm sáu mươi giây chiều hôm qua trong đầu, từng khung, như chiếu lại một pha fadeaway. Không phải để sướng. Để tìm chỗ thừa. Tin nhắn cho Hà My dài quá bốn chữ. Lần sau thì gọn hơn.
+
+*Lần sau.* Anh nghe hai chữ ấy trong đầu mình, và không sửa.
+
+Anh mở `cach_doi_pho.md`. Năm dòng, bốn dòng gạch, dòng năm và dòng sáu còn nguyên. Anh không xóa file. Anh đổi tên nó thành `playbook.md`, như mọi file anh định dùng lại.
 
 Bảy quân đứng dọc mép bàn, trong một dãy đèn trần duy nhất còn sáng. Bảy quân bằng nhau, cách nhau đúng một đốt ngón tay.
 
