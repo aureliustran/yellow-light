@@ -8,6 +8,14 @@ Cô dậy trước. Bảy giờ bốn mươi. Cô luôn dậy trước.
 
 Anh vẫn ngủ, nằm nghiêng, quay mặt vào tường, một chân thò ra khỏi mép giường, cánh tay trái duỗi thẳng ra chỗ đầu cô vừa rời đi, như một cây cầu dẫn đến chỗ trống. Lưng anh trần. Dưới ánh nắng lọt qua khe rèm, tấm lưng ấy không tăng tương phản, không đen trắng, không như ảnh. Có một vết đỏ mờ ở vai trái, ngay chỗ cổ nối vai, hình bán nguyệt nhỏ. Cô nhìn nó một lúc, và má cô nóng lên vì nhớ ra nó từ đâu.
 
+Thấp hơn, dưới bả vai phải, có bốn vệt đỏ mảnh chạy chéo xuống, song song, cách nhau đều như bốn dòng kẻ. Bên trái cũng có, ngắn hơn, lệch hơn, của bàn tay kém khéo. Cô không cần đếm để biết là của ai.
+
+Cô nhìn xuống tay mình. Móng cắt ngắn, sơn màu nude cho đúng chuẩn đi phỏng vấn, mép móng giữa bàn tay phải mẻ một góc nhỏ. Đêm qua có một lúc cô vòng hai tay qua lưng anh mà hai bàn tay không gặp được nhau. Lưng anh rộng quá. Hai bàn tay cô đặt lên đó như hai chiếc lá thả trên mặt hồ, không có chỗ nào để nắm. Nên cô bám. Rồi cô không bám được nữa.
+
+Tháng mười hai, cô lưu ảnh trong cụm tin nổi bật của anh và nói ra là ba tấm. Tấm thứ tư cô không kể: tấm cởi trần quay lưng, tương phản kéo gắt như ảnh mấy anh tập gym. Dưới tấm ấy có một bình luận của một cô gái lạ, ba chữ, kèm một cái emoji giọt nước: *bàn cào móng*. Hồi ấy cô thấy nó thô, và đã định, nếu có ngày yêu anh, sẽ bảo anh xóa tấm ảnh ấy đi.
+
+Bây giờ bản gốc nằm ngay trước mặt cô, không tăng tương phản, có chữ ký của cô ở trên. Cô không định bảo anh xóa gì nữa.
+
 Cái váy nằm vắt trên lưng ghế, nơi cô không nhớ đã ném nó lên. Khóa vẫn mở, hai hàng răng kim loại tách ra như một cái miệng chưa nói xong.
 
 Cô cầm nó lên. Ở gần cổ, giữa hai cái răng khóa, có một sợi tóc dài của cô bị kẹt lại, kéo căng như một sợi chỉ khâu dở.
@@ -223,13 +231,25 @@ Cô đứng nhìn anh, không cười, không chớp, như đang cân nhắc m�
 
 Nằm nghiêng, quay mặt vào anh. Gối đầu lên cánh tay phải của anh, cánh tay còn cảm giác. Đầu gối cô chạm đầu gối anh dưới chăn. Hơi lạnh của chân cô vừa đứng trên sàn gỗ chạm vào chân anh, anh rùng mình, cô cười không thành tiếng.
 
+Tay cô vòng qua eo anh, trườn lên lưng, tìm bốn vệt đỏ bằng đầu ngón, chậm, như dò lại một dòng chữ mình viết hôm qua. Anh hít vào một hơi qua kẽ răng.
+
+"Đau à?"
+
+"Không."
+
+"Nói dối."
+
+"Rát." Anh nhắm mắt. "Mà không đau."
+
+Cô để tay ở đấy.
+
 "Xoa đầu."
 
 "Hôm nay chị là bé à?"
 
 "Mười phút. Mười phút thì chị là bé."
 
-Anh xoa. Từ đỉnh đầu ra sau gáy, qua cái chun buộc tóc, qua nốt ruồi nhỏ. Nắng trên sàn gỗ dịch đi một chút. Ngoài cửa sổ, Nguyễn Chí Thanh sáng Chủ nhật vắng hơn, nghe được tiếng một người bán xôi rao ở đầu ngõ. Cô nhắm mắt. Hai bàn tay cô thu lại trước ngực, giữa hai người, trong ống tay hoodie xắn hai nấc.
+Anh xoa. Từ đỉnh đầu ra sau gáy, qua cái chun buộc tóc, qua nốt ruồi nhỏ. Nắng trên sàn gỗ dịch đi một chút. Ngoài cửa sổ, Nguyễn Chí Thanh sáng Chủ nhật vắng hơn, nghe được tiếng một người bán xôi rao ở đầu ngõ. Cô nhắm mắt. Một bàn tay cô thu lại trước ngực, giữa hai người, trong ống tay hoodie xắn hai nấc. Bàn tay kia vẫn nằm trên lưng anh, phủ lên bốn vệt đỏ, như che một chữ ký.
 
 Cô mở mắt một chút. Anh đang nhìn qua đầu cô, ra phía bàn học: cái cốc nghiêng mười lăm độ cắm ba cành hoa trắng, cái laptop gập lại, và ở góc bàn, cái khung ảnh nhỏ úp mặt xuống, mặt sau bằng bìa cứng, không có bụi.
 

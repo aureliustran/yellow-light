@@ -796,7 +796,7 @@ Phòng nhân sự ở tầng mười hai. Một chị tóc ngắn, đeo kính g�
 
 "Em đọc kỹ rồi ký từng trang nhé. Có gì thắc mắc em hỏi chị."
 
-Anh đọc kỹ. Thật sự đọc, từng điều khoản, như đọc một bài báo khoa học có thể có lỗi ở phần phương pháp. Mức lương theo giờ. Tối thiểu hai mươi giờ một tuần, linh hoạt theo lịch học. Phụ cấp ăn trưa, chuyển khoản cùng kỳ lương. Điều khoản bảo mật, bốn trang. Điều khoản sở hữu trí tuệ: mọi sản phẩm nghiên cứu trong thời gian hợp đồng thuộc về tập đoàn. Mốc xem xét hợp đồng chính thức sau mười hai tháng.
+Anh đọc kỹ. Thật sự đọc, từng điều khoản, như đọc một bài báo khoa học có thể có lỗi ở phần phương pháp. Mức lương theo giờ. Tối thiểu hai mươi giờ một tuần, linh hoạt theo lịch học. Giờ làm thêm tính theo luật, do trưởng nhóm duyệt. Phụ cấp ăn trưa, chuyển khoản cùng kỳ lương. Điều khoản bảo mật, bốn trang. Điều khoản sở hữu trí tuệ: mọi sản phẩm nghiên cứu trong thời gian hợp đồng thuộc về tập đoàn. Mốc xem xét hợp đồng chính thức sau mười hai tháng.
 
 Anh dừng ở điều khoản sở hữu trí tuệ lâu hơn các điều khác. Đọc lại một lần. Rồi lật sang trang tiếp.
 

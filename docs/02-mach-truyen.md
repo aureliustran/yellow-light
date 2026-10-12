@@ -43,6 +43,7 @@ Phần 1 có hình chữ X: Thuyên đi từ sáng xuống tối, Nhi đi từ t
 Giỏi đọc người, mù với chính mình. Hài hước và tinh ý là lớp che cho cơn đau âm ỉ.
 
 - **Quê:** Hà Tĩnh. Cấp 3 lên thành phố Hà Tĩnh học trường chuyên, ở trọ. Đại học ra Hà Nội.
+- **Sinh nhật (chốt 12/10):** 6/5/2006, cung Kim Ngưu. Tháng 10/2026 – tháng 4/2027 anh 20 tuổi; từ 6/5/2027 anh 21. Sinh nhật 21 tuổi (ch.34): lab không ai biết; Diệp Anh gửi hộp bánh qua lễ tân, mẩu giấy *Noted. 06.05.*; Nhi biết qua thông báo Facebook, nhắn "7.5 là quà". Tuần sau, mang bánh sinh nhật muộn, Nhi nói giọng phẳng: "Đúng mấy thằng Kim Ngưu tháng năm", đếm sáu nét (cứng đầu, tính tiền, mê đồ đẹp mà giả vờ không, bảo phí rồi ăn hết, chậm, giữ đồ) và nét thứ bảy: "Kim Ngưu tháng tư thì hay ghen. Tháng năm thì không" (trỏ ngầm chuyện anh ghép cô với Phong mà không ghen); anh đọc thành "con bé tiếc miếng bánh".
 - **Trường:** Đại học Công nghệ, ĐHQGHN (UET), khu Cầu Giấy – Xuân Thủy. CLB bóng rổ ĐHQGHN.
 
 ### Ngoại hình và gu
@@ -58,7 +59,7 @@ Giỏi đọc người, mù với chính mình. Hài hước và tinh ý là l�
   - Giơ tay "six seven", rồi quay sang gọi người khác là "kid".
   - Chọc ngoáy ai đó xong lấy ngón tay vuốt dọc xương hàm, tự nhận "sigma".
   - Solo bóng rổ thắng Vũ: "gg fvcking ez".
-  - Ghép đôi người khác, ghép Nhi với một bạn nào đó dai đến mức cô khóc.
+  - Ghép đôi người khác, ghép Nhi với Phong (bạn cùng nhóm RMIT) dai đến mức cô khóc (*Mixue*, chương 33 theo số mới, 29/4/2027).
   - Tóm lại: thân thì rage bait. Người lạ chỉ được mỉa, người thân mới được chọc cho cay.
 - Gu học từ hội bóng rổ cấp 3 (anh Long): "giày không cần xịn, cần sạch; quần không cần đắt, cần vừa", và những buổi bàn về đồ cầu thủ NBA mặc khi bước vào sân.
 - Vụng việc nhỏ nhưng không vụng chuyện ăn mặc. Không có bàn là, như mọi sinh viên.
@@ -86,6 +87,7 @@ Giỏi đọc người, mù với chính mình. Hài hước và tinh ý là l�
 - **Vụng về việc nhỏ cần tỉ mỉ:** khâu cúc, lắp tủ thừa ốc, nấu cơm lúc khê lúc sống, hay quên chìa khóa, sạc, ô.
 - **Học và dạy theo pattern, không theo lý thuyết:** tự học tiếng Anh bằng YouTube, phim không phụ đề, podcast; chưa học trọn bài ngữ pháp nào, chỉ biết người ta dùng nó lúc nào. Nhìn hình dạng hơn đếm số. Khi dạy, không đếm lỗi hay review chi tiết: chẩn đoán gốc (lỗi là triệu chứng), sửa từ khâu lập và triển khai ý, brainstorm, khung "chấm – vì sao – ví dụ – quay về". Chê thẳng kiểu người với người ("nói chuyện như bị đao", "kid").
 - *Ghi chú thiết kế, không đưa vào truyện: INTP (Ti-Ne). Ti dựng khung logic, Ne nhìn ra pattern và liên kết hơn định lượng; Fe yếu nên cảm xúc thô, khó biểu đạt.*
+- *Ghi chú thiết kế (11/10), không đưa vào truyện: giai đoạn biến chất (ch.35–51) dựng như việc INTP mượn dần bốn chức năng bóng, cũng là bộ chức năng của ENTJ: Te (người thành tài nguyên, từ ch.35), Ni (một tầm nhìn, đi trước một nước, từ ch.40), Se (hiện diện áp đảo, hưởng thụ, ra tay trong một giây, từ ch.43), Fi quỷ (giá trị riêng tuyệt đối, cắt người; lóe ở ch.41, bùng ở bữa cơm). Mỗi bóng nổi lên thì một chức năng gốc mờ đi (Ti: "có khi nào"; Ne: đùa, tò mò; Si: Casio, bún riêu, sân sáng; Fe: làm người ta dễ chịu). Hồi phục là quay về Ti–Ne–Si–Fe. Tham chiếu: Frank Underwood, Light Yagami, Lelouch, Michael Corleone, Tom Ripley. Chi tiết: `claude/plan-mo-rong-giai-doan-2.md`.*
 
 ### Quá khứ
 
@@ -318,7 +320,8 @@ Người đầu tiên đến với Thuyên. Đủ tốt để anh chọn, và r�
 
 ### Vết thương và giá trị
 
-- Gia đình từng mất mặt ở quê (bố làm ăn thua lỗ hoặc dính tai tiếng). Cô lớn lên trong ánh nhìn của người khác.
+- **Gia đình (chốt 13/10):** nhà cô **từng giàu**, giàu thật chứ không chỉ khá giả: bố làm chủ doanh nghiệp có tiếng ở một thành phố tỉnh, nhà tiếp khách ở nhà hàng Âu, đi nước ngoài hằng năm. Bố mẹ đầu tư khắt khe vào giáo dục cho cô từ bé (tiếng Anh với giáo viên bản ngữ, tranh biện, đàn, phép tắc bàn ăn kiểu Âu: dao dĩa, ly, gọi món, ngồi thẳng trước mặt khách của bố). Dao dĩa là thứ nhà giàu dạy, nhà khá giả không dạy. Năm cô khoảng mười bốn tuổi, bố làm ăn thua lỗ, nhà sa sút và mất mặt ở quê (hộp sushi giảm giá, "nhà mình ngày trước ăn cái này ở nhà hàng" ở *Váy cổ thuyền*). Cô lớn lên trong ánh nhìn của người khác. Nền giáo dục là thật; cái vỏ old money hiện tại dựng trên nền ấy. Cô được tạo ra theo cùng cách Khải được tạo ra. Thuyên thấy nền và vỏ, không thấy khúc sa sút ở giữa.
+- **Đã cài (13/10), mỏ neo phẩm chất – ngoại hình – địa vị qua mắt người khác:** ch.12 thầy cố vấn giới thiệu cô với khách đại sứ quán bằng tên rồi thành tích; ch.15 thầy chuyển bài của cô sang Vụ, ba đàn em đứng chờ, Thuyên đếm; ch.26 cô không nhìn bộ dao dĩa lần nào, Thuyên nghĩ chỉ nhà có tiền và kỷ luật mới làm ra người như thế, và nhớ đến cái cột sống ở thang máy tầng chín (Khải). Nhi: ch.8 cả hàng ghế ngoái nhìn khi cô đứng lên, môi ai đó mấp máy ba chữ; ch.23 cả sân tập thể nhìn về cổng nhà xe, bà bán xôi rắc thêm hành ("ngõ này người ta nhìn mặt mà rắc hành"). Chưa có chút kiêu ngạo nào; từ ch.40 mới quay lại thành phép cộng giá trị (xem brief kiêu ngạo §9).
 - Tự leo lên bằng một hình ảnh không tì vết. Danh tiếng là thứ duy nhất cô tự xây được.
 
 ### Phần xám
@@ -423,6 +426,7 @@ Người neo cảm xúc của Thuyên. Vũ giữ cho Thuyên còn là người, 
 | Đức | Phó chủ nhiệm CLB tin học | Quen chưa thân (tôi – ông) |
 | Ngọc Anh (K71) | Đàn em CLB tin học | Thuyên dịu dàng, nâng đỡ |
 | Thầy Bình | Giảng viên | Cử Thuyên phát biểu ở summit |
+| Phong | Bạn cùng ngành Quản trị kinh doanh, cùng nhóm bài tập Economics của Nhi ở RMIT (A6). Người Thuyên ghép đôi với Nhi | Lịch sự, hơi sốt sắng, xưng tớ – cậu, gọi Thuyên "anh ạ". Hay nhắn "Nhi ơi" hỏi bài lúc chín giờ tối, kèm 🥺. Nhớ chi tiết nhỏ (Nhi thích chụp ảnh phim), khen kẹp tóc đúng màu, xách túi hộ. Radar của Nhi xếp cậu vào ngăn "thật, nhưng không phải"; cô trả lời cụt ("mai t gửi slide"). Xuất hiện: ch.28 (thông báo 21:04), *Mực tím*, *Xanh bạc hà* (22/4, ghé quán Hàng Bông, mời xem triển lãm ảnh phim ở Complex 01; Thuyên: "Đi đi. Triển lãm có máy lạnh", "Em rể tương lai"), *Mixue* (ba lần ghép, Nhi khóc). Vô hại; không được thành tình địch thật |
 | Bác bảo vệ | Sân bóng khu tập thể | Hay kể chuyện giá rau |
 | Vy | Hoa khôi cấp 3, quá khứ | Đêm ghế đá, cú tát |
 | Thảo | Thực tập sinh ở lab, người bị Nhi bắt nạt năm Nhi lớp 7–8 (Thảo hơn Nhi một lớp: 8A rồi 9A, cùng đội tuyển hùng biện; danh bạ Nhi lưu "Thảo (8A)") | Sinh viên Đại học Kinh tế Quốc dân (ngành Khoa học dữ liệu hoặc Toán kinh tế), thực tập mảng dữ liệu. Học bổng, giỏi, ít nói. Intern không có tiếng nói: bị ép làm thay, không được ghi tên, không ai hỏi ý kiến, không tham gia phe nào. Lúc Thuyên bị vạch trần, cô muốn bảo vệ anh. Cô thấy anh có phần sai, nhưng hiểu được động cơ của anh, vì chính cô cũng từng phải sống sót trong một môi trường không chọn. Nhưng quyết định nằm trong tay anh trai Nhi, người mạnh nhất phòng, và lời của một intern không chạm được tới đó. Có thể cô thử nói một lần (một email không ai trả lời, một câu bị cắt ngang trong phòng họp) rồi im lặng. Thuyên chỉ biết chuyện này rất lâu sau. Thuyên che chở cô ở lab (phần phật của anh), không biết quá khứ của cô với Nhi. Nhận ra Nhi trước. Cảnh giác với mọi lời xin lỗi đi kèm tiền. Điểm nối hai đường chéo của chữ X |
@@ -519,6 +523,7 @@ Trước khi đổ vỡ một thời gian, người đọc phải thấy Thuyên
    - **Thuyên hả hê:** so với cuộc sống thành công của mình ở Hà Nội, anh thấy hả hê đến mức chính anh cũng ngạc nhiên. Anh đang dùng đúng cái thước đo "con nhà người ta" mà anh ghét cả tuổi thơ.
 3. **Bữa cơm, giọt nước tràn ly:** bố mẹ càm ràm như mọi lần (về quê ít, đi làm thêm cho công ty người ta, chưa nghĩ chuyện ổn định). Lần này Thuyên không nhịn. Anh kể lại mọi thứ bố mẹ đã làm với anh: cuốn sách vũ trụ trong bao giấy vụn, tờ giấy khen bị so với giải Ba của Nam, thư nhận từ Mỹ bị gạt đi, câu "để mạ nói với bác Hùng". Rồi anh công kích bố mẹ.
    - **Khác hẳn những lần trước:** ngày xưa anh giận thì thành lời trách có cơ sở. Lần này anh dùng mọi lý luận để hạ thấp bố mẹ, đúng sai không còn quan trọng. Anh đọc được chỗ đau của họ và nhắm thẳng vào đó.
+   - **So sánh tiền (chốt 12/10), ngay trước câu chí mạng:** "Con giờ lương cứng năm mươi triệu một tháng. Bố mạ thử cộng lại xem một tháng hai người được bao nhiêu?"; "Anh Nam âm một trăm hai mươi triệu. Con dương một trăm năm mươi triệu, trong ba tháng." Năm mươi triệu là lương cứng production **được hứa** ở tiệc mừng R&D 18/6, chưa ký; anh nói như sự thật. Một trăm năm mươi triệu là thu nhập thật tháng 4–6. Lời hứa bốc hơi ngày 16/7. Chi tiết ở dàn ý ch.46; hệ quả ở ch.49.
    - **Câu chí mạng:** "Giờ mạ đi hỏi xem con nhà bác Hùng được bao nhiêu đi. Một trăm hai mươi triệu." Câu gọi lại "Con nhà bác Hùng được bao nhiêu?" trong kho chi tiết, giờ ở miệng chính anh.
    - Bố im. Mẹ đặt bát xuống mâm mạnh đến mức canh sóng ra ngoài. Thuyên đứng dậy, gọi điện cho nhà xe lấy một chỗ giường nằm ra Hà Nội ngay trong đêm, nghĩ rằng đời thật của mình, đời thành công của mình, đang ở ngoài đó. Cái Casio bố mua năm anh đỗ chuyên nằm lại trên bàn học. Trên cổ tay anh là chiếc đồng hồ một khách hàng tặng trong tiệc mừng kết thúc R&D. Chi tiết nhỏ, nhưng đủ để thấy sự trở mặt.
 4. **Lần thứ hai dùng sự thấu hiểu để làm đau người thương mình:** Vy ở đêm ghế đá, rồi bố mẹ ở bữa cơm này, rồi Nhi ở cảnh tấm thiệp. Ba lần, mỗi lần một nấc.
@@ -526,6 +531,8 @@ Trước khi đổ vỡ một thời gian, người đọc phải thấy Thuyên
 6. **Tự mãn là điểm yếu để knockout:** chính cái tôi vừa phình lên khiến anh không nhịn được việc công trình của mình bị nói sai ở buổi review.
 
 ### Lab: người và phe
+
+**Kênh liên lạc ở lab (chốt 12/10):** việc chính thức đi qua **Microsoft Teams** (kênh *Thiên Nhãn – R&D*, tin nhắn riêng về việc, file, lịch họp; câu chữ có dấu chấm). Song song có **nhóm Zalo *Thiên Nhãn – Cả nhà ❤️*** (ảnh tiệc, hoa 8/3, tin chào người mới, chuyện ngoài lề; tin nhắn khuya của lão, thu hồi tin nhắn). Lão hay đẩy việc sang Zalo ngoài giờ và nhắn riêng nhân viên nữ qua Zalo, những thứ không muốn để lại trên Teams. Giờ làm thêm do trưởng nhóm duyệt (hợp đồng ch.13).
 
 **Tuổi và vị trí của Thuyên ở lab:** Thuyên là sinh viên năm ba, người nhỏ tuổi nhất phòng. Sinh viên hiếm khi được ký hợp đồng chính thức (dù part-time), nên anh là trường hợp đặc biệt: người ta vừa tò mò vừa dè chừng, gọi anh là "em", "em út", "thằng bé". Chính vì nhỏ nhất mà mọi phe đều nghĩ có thể kéo được anh, và không ai nghĩ một đứa nhỏ nhất phòng lại là người duy nhất hiểu phần lõi. Thảo bằng tuổi anh (năm ba Kinh tế Quốc dân), thực tập sinh, xưng hô tớ – cậu / mình – cậu. Ly là thực tập sinh năm cuối, hơn anh một tuổi (chị Ly).
 
@@ -613,6 +620,61 @@ Thuyên giữ kín được lõi, nhưng không giữ được độ khớp. Anh
 - **Cảnh hai người nói chuyện có hai lớp:** Thuyên tưởng là chuyện phiếm, anh trai thì đang thăm dò. Người đọc thấy cả hai lớp, Thuyên chỉ thấy lớp trên.
 - **Nhịp:** giai đoạn 1 chậm, xen kẽ mạch Nhi. Giai đoạn 2 nhanh dần, dồn lên đỉnh. Lật bài gọn trong một chương.
 - **Dung lượng:** giai đoạn lab (từ chương 14 đến lật bài ở chương 44) dài hơn toàn bộ quá khứ chương 2–7. Mỗi đợt lên xuống là ít nhất một chương viết trọn ở hiện tại.
+
+### Luật chơi tầng 17 và tính minh bạch của các ván (chốt 12/10)
+
+**Nguyên tắc: mọi ván đấu trí phải minh bạch với người đọc.** Người đọc không tự hiểu vì sao Thuyên nhìn ra ai là đối thủ, hay vì sao một nước đi thắng. Vì vậy mỗi ván phải được trình bày rõ trên trang, theo thứ tự:
+
+1. **Tuyên bố luật chơi** (không dùng chữ "luật"): người kể nói thẳng, giọng đời thường: tài nguyên là gì, ai quyết, quyết theo thước đo nào, hạn là bao giờ, và điều ai cũng biết mà không ai nói.
+2. **Tuyên bố cái đích** (không dùng chữ "điều kiện thắng"): Thuyên tự viết ra những thứ "phải còn nguyên" (ký hiệu ①②③), và đích của đối thủ cũng được nói ra.
+3. **Mỗi nước đi đối chiếu ngược lại:** hợp luật không (có bị thấy đang tranh không)? ①②③ còn không? Chưa đủ thì đi tiếp.
+4. **Suy luận hiện trên giấy:** bẻ bài toán về dạng có/không; giả thuyết "nếu… thì…" rồi giết nó; bảng loại trừ; viết luật trước khi thử; tự phản biện; nhiều đường chứng cứ độc lập hội tụ; cây nhánh cho mỗi cái bẫy; câu chốt "nói cho gọn". Hình thức: `:::note ink`, `:::sheet`, `:::editor`. Chi tiết công cụ: `claude/brief-van-phong-dau-tri.md` mục 9.
+5. **Khối lập luận ngắn dần** theo thước đo thời gian cân nhắc (ch.35 nhiều khối, ch.36 một dòng, ch.40 không còn). Đến lúc anh không còn kiểm chứng thì đó là dấu hiệu anh sắp sai.
+
+**Luật chơi tầng 17 (từ email production 17/5/2027, ch.35):**
+- **Ghế:** danh sách nhân sự giai đoạn vận hành, bốn dòng (kỹ thuật, dữ liệu, truyền thông, đầu mối đối tác), mười hai người, nộp trước 15/6. Có tên thì ở lại theo dự án sau tháng bảy; không có tên thì ra rìa.
+- **Người quyết:** anh Tuấn. Lão không chọn người giỏi nhất (không đủ hiểu để biết ai giỏi), lão chọn người lão tin. Với lão mỗi người chỉ có hai trạng thái, tin hoặc không tin; "trung lập" không phải trạng thái thứ ba.
+- **Điều ai cũng biết mà không ai nói:** được phép tranh, nhưng không được để người khác thấy mình đang tranh. Ai bị bắt quả tang đang tranh thì mất trước (Hà My thua đúng vì luật này ở ch.36).
+- **Người chơi chỉ là tầng 17.** Tầng 18 không chơi, tầng 18 đặt luật. Thuyên chỉ cảnh giác ở tầng 17 ("nhìn ra, nhìn xuống, không nhìn lên").
+- **Khối kinh doanh muốn cài người của họ vào hai dòng business** (đầu mối đối tác, truyền thông). Người bị đe dọa là hội business của R&D (Hà My, Trâm, chị Hạnh; chị Phương một phần ở dòng dữ liệu). **Hội kỹ sư (anh Bảo, anh Kiên, chị Quỳnh) không bị đe dọa:** họ không tranh, và việc của họ vẫn cần dù ai cầm ghế. Trên bản đồ mũi tên của Thuyên, họ là những cái chấm không có mũi tên nào.
+
+**Vì sao không ai thay được Thuyên (luận điểm phải đi đến cuối suy luận, nhiên liệu cho kiêu ngạo):**
+- **Hai tầng phiên dịch, chỉ Thuyên đứng ở cả hai:** (1) toán sang code: phần lõi là nhiều phương trình móc nối nhau; hội kỹ sư thuần code đọc được code nhưng không biết vì sao nó chạy, kể cả dùng AI (AI giải thích được từng phương trình, không giải thích được vì sao chọn phương trình này, lý do nằm trong hàng chục lần thử thất bại không ghi ở đâu); (2) mô hình sang nhu cầu khách hàng: phải nói rõ được mô hình chạy thế nào rồi nối với yêu cầu khách hàng để chứng minh đấy là thứ họ cần. Hội business càng không biết mô hình chạy thế nào; họ chỉ vay lời anh (Hà My chép nguyên văn ba câu trong tài liệu kỹ thuật).
+- **Lời chứng sẵn có:** anh Bảo ở bia hơi (ch.19): "cái lõi đấy chú đang cầm… đừng để ai viết tên lên nó. Kể cả anh"; đêm OT Tết (ch.25): "Không ai làm thay được chú đâu… đừng để nó thành cái xích." Anh Bảo đủ hiểu để biết mình không hiểu.
+- **Dòng ngân sách làm "giáp" (cài trong email production, ch.35):** *"Nhân sự giai đoạn vận hành ưu tiên sử dụng nguồn lực hiện có của lab, không phát sinh tuyển mới."* Thuyên tự tính: một tiến sĩ, chuyên gia học máy cầm được phần lõi tốn khoảng 80–120 triệu một tháng, cộng ba đến sáu tháng tìm người và ba tháng làm quen; giữ anh tốn 25 triệu. Đơn vị đo mới thay bát bún riêu (bỏ ở ch.36): *tháng lương tiến sĩ*.
+- **Mức lương của Thuyên ở lab (canon mới 12/10, lần đầu công bố):** hợp đồng tính theo giờ (ch.13: tối thiểu 20 giờ một tuần), đơn giá khoảng 150 nghìn một giờ, nên **lương cơ bản khoảng 13 triệu một tháng**. Mọi giờ làm thêm đều được duyệt OT (ngày thường 150%), nên **trong giai đoạn R&D, có OT, anh nhận khoảng 25 triệu một tháng**. Khi lab ngồi chờ giữa R&D và production (tháng 3/2027, ch.28–29) không có OT, anh chỉ về lương cơ bản: "lương tháng ba" ở ch.30 là tháng thấp nhất. OT Tết (ch.25): 500% lương ngày, bảy ngày, khoảng 40 triệu. Số dư khoảng 120 triệu ngày 5/4/2027 (ch.30, "mười một năm bún riêu") khớp với: khoảng năm kỳ lương lab từ 26/10/2026 (có OT trừ tháng ba), OT Tết, học phí dạy Nhi gấp đôi (khoảng 1 triệu một buổi, hai buổi một tuần), tiền thực tập để dành (ch.10), trừ chi tiêu. Mức 25 triệu là con số Thuyên dùng khi so với lương tiến sĩ (tháng 5). Ở tiệc mừng R&D 18/6, anh được hứa miệng lương cứng production năm mươi triệu (chưa ký; bốc hơi ngày 16/7). Ch.49 *Lời mời*: headhunter đưa đúng năm mươi triệu có hợp đồng ký ngay; anh từ chối một cách tính toán (ở lại thì giá còn tăng; không ổn thì nhảy lúc nào cũng được; lời mời là quân bài để lão chốt lời hứa thành email). Điểm mù: cửa ra đứng nhờ danh tiếng, Khải khóa nó bằng blacklist; sau lật bài cùng headhunter nhắn "vị trí đã có người". Gương với Diệp Anh: cô chọn chắc chắn, anh chọn quyền chọn có ngày hết hạn. Lớp nghĩa: thu nhập của anh phụ thuộc OT, mà OT do lão duyệt. Lão nắm một cái van tiền của anh, thêm một sợi dây trong ván tầng 17.
+- **Thuyên an toàn thì chơi để làm gì:** Hà My không loại được anh, nhưng làm được hai việc: làm lão nghi, để dòng kỹ thuật ghi "hỗ trợ" thay vì "phụ trách" và một người khác đứng tên trên phần lõi; và ghi tên người khác lên việc của anh (tiền lệ Sơn). Thứ anh giữ là **cái tên trên phần lõi**, không phải cái ghế. Đích ① của anh: *dòng "kỹ thuật": tên mình, chữ "phụ trách".* Khớp nỗi sợ cả đời của anh: thứ mình làm ra không có tên mình.
+
+**Hạn dùng của tấm giáp (chỉ người đọc thấy, để cú ngã có lý):**
+- Chữ trong email là giai đoạn **vận hành**, không phải **phát triển**. Phát triển cần lý thuyết, cần Thuyên. Vận hành một mô hình đã chạy ổn thì hội kỹ sư thuần code làm được (đọc log, sửa lỗi, chạy lại). Sau tháng bảy, phần lõi đóng băng, giá trị không thay thế của anh có ngày hết hạn. Lật bài 16/7 rơi đúng sau khi chuyển sang production.
+- Thuyên tự phản biện và bác bỏ bằng lý lẽ đúng một nửa: tài liệu 214 trang đã ở tầng 18 ("tài liệu ghi cái gì, không ghi vì sao"); thuê người ngoài ("cần ba tháng, production tháng bảy": đúng với tháng bảy, sai với tháng chín); tiền lệ Sơn ("Sơn viết đường ống, mình viết mô hình", trong khi anh Bảo kể chuyện Sơn đúng để cảnh báo điều này). Câu chốt của anh: *"Trước tháng bảy, không ai thay được mình."* Một câu đúng có giới hạn thời gian, và anh quên mấy chữ "trước tháng bảy".
+- Với tầng 18, "không ai thay được" là lý do để thay (rủi ro người chủ chốt; xem động cơ tầng 3 của Khải). Phép thử "không có mình thì sao" của Thuyên không đo được tầng 18: ô ấy để trống trên bản đồ.
+
+**Ngoại lệ Khải: người duy nhất trả được 120 triệu (chốt 12/10).**
+- Khải là người có quyền bổ nhiệm, đủ thẩm quyền đưa một người lương 120 triệu vào thay một người 25 triệu như Thuyên. Thuyên thấy khoảng chênh 95 triệu một tháng và vội kết luận "tập đoàn sẽ không tuyển". Dưới góc nhìn của anh, kết luận ấy hợp lý: dòng ngân sách *"không phát sinh tuyển mới"* là thật, và phép tính là thật.
+- Chỗ sai: dòng ngân sách là luật của lab (ngân sách của lão), không phải giới hạn của tầng 18. Với Khải, 95 triệu một tháng (khoảng 1,1 tỷ một năm) là con số làm tròn so với giá trị dự án mũi nhọn và rủi ro một người nắm cả phần lõi lẫn khách hàng. Thuyên đọc luật của tầng 17 như luật của cả tập đoàn.
+- Lớp nghĩa: ở ch.36 anh bỏ được đơn vị bát bún riêu, nhưng chưa bỏ được thang đo của người phải tính tiền. Anh đổi đơn vị sang "tháng lương tiến sĩ", vẫn nhìn khoản 95 triệu bằng mắt của người lương 25 triệu.
+- Khớp canon "sai lầm của anh trai": người thay thế lương cao đủ để **vận hành**, không đủ để **phát triển** (không có bốn mươi lần thử thất bại trong đầu, không có lòng tin của khách). Dự án chỉ hòa vốn rồi bị hủy ở Phần 2.
+- Cùng với Diệp Anh (bán anh mà không tự thiệt), đây là ngoại lệ thứ hai của nguyên tắc "ai đẩy mình là tự đẩy mình": Khải chống anh mà không mất gì, vì Khải trả được giá để không cần anh.
+
+**Người được kéo đi, người bị trả về (vì sao hội business phải tranh, kỹ sư thì không).** Kỹ sư rời dự án là được kéo sang dự án khác trong khối công nghệ (khối luôn thiếu kỹ sư, kỹ năng mang đi đâu cũng dùng được). Hội business phần lớn là người mượn (Hà My từ marketing, Trâm từ kinh doanh, chị Ngân từ hành chính); hết dự án là bị trả về một cái bàn đã có người ngồi; vốn của họ là quan hệ trong lab, ra khỏi lab thì mất giá. Trâm đau nhất: chính khối của cô đề xuất cử người khác. Chị Phương: gán nhãn dễ bị thuê ngoài khi sang vận hành. Chị Hạnh: vai trò cầu nối thừa nếu khối kinh doanh cài thẳng người. Câu trên trang: *"Ở tầng mười bảy từ sáng nay có hai loại người: người được cần, và người phải chứng minh mình được cần."*
+
+**Thuyên kiêm đầu mối kỹ thuật với khách hàng (tăng dần).** Ngoài phần lõi và vận hành, anh đứng trước khách: giải thích mô hình, nối với nhu cầu khách (kỹ sư giải pháp). Vì vậy anh đi vào chính dòng hội business đang tranh, nên xung đột thành cơ cấu. Phân biệt: anh giỏi **giao tiếp với khách**, không giỏi **làm kinh doanh** (định giá, thời điểm thị trường: đề xuất drone là bằng chứng; lý do MBA ở Phần 3 vẫn đứng). Câu khóa: *"Cậu ấy làm khách tin sản phẩm. Còn bán được bao nhiêu tiền là việc của người khác."* Nấc: ch.35 khách hỏi kỹ thuật, Trâm chuyển sang anh; ch.36 Hà My chép câu anh; ch.38 lão đưa anh vào họp khách, nháp danh sách thêm "và đầu mối kỹ thuật với đối tác"; ch.43 khách tặng đồng hồ; ch.48 anh gặp khách một mình. Hệ quả: quá tải part-time (bỏ buổi dạy Nhi, bỏ pickup); mài sắc động cơ blacklist của Khải (đi là mang theo cả hiểu biết lẫn khách).
+
+**Nguyên tắc kiêu ngạo giữa game: "Ai đẩy mình là tự đẩy mình."** Vì mọi mũi tên đi qua anh, ai chống anh là tự cắt đường của mình; cộng luật ngầm (muốn chống thì phải ra mặt, ra mặt là phạm luật). Bằng chứng đầu tiên: Hà My (ch.36) tự loại mình bằng chính tấm ảnh chụp. Anh khái quát từ một trường hợp. Nấc: mầm cuối ch.36; lần hai ở ch.38 (Trâm thử gạt anh khỏi buổi họp khách, khách hỏi tên anh); thành câu châm ngôn ở ch.40–41; áp sai ra ngoài lab ở ch.41 (Vũ chống anh, Vũ không thiệt gì, chỉ thôi nhắn tin). Ngoại lệ: Khải (trả được 120 triệu), Diệp Anh (được hợp đồng). Cú trả ở ch.51: lão chống anh và ngã theo, đúng như nguyên tắc; nguyên tắc chỉ thiếu vế *người bị chống cũng có thể ngã cùng*. *Quân trắng*: "Ai đẩy anh là tự đẩy mình. Anh nói đúng. Chỉ là anh quên mình cũng đứng trong hàng."
+
+**Từ mạnh cho sự kiêu ngạo (chốt 12/10).** Các đoạn kiêu ngạo dùng từ mạnh, dứt khoát, lạnh, nằm trong độc thoại và lời của Thuyên. Người kể vẫn trung tính (không gọi tên "kiêu ngạo", "khinh", "đắc thắng"; brief kiêu ngạo mục 2.5). Mạnh nghĩa là lạnh và chắc, không phải tục: chửi thề để dành cho lúc đùa với Vũ; khi khinh người, anh không chửi, anh phán.
+- **Thang từ theo nấc:**
+  - ch.35: lý trí, kỹ thuật ("bàn cờ", "quân", "khoanh vùng", "loại").
+  - ch.36: khinh nhẹ ("yếu", "một dòng đã xử lý", "lão cần được tin như xe cần xăng", "cô ấy yếu ở chỗ tin vào cái mình thấy").
+  - ch.37–39: người thành tài nguyên ("dùng được / không dùng được", "thừa", "rỗng", "con tốt", "đồ chơi", "dọn").
+  - ch.40–43: khinh ra mặt ("ngu", "nhỏ", "Sân này nhỏ", "Mày thì hiểu gì", "đè", "bẻ", "bóp", "quỳ").
+  - ch.44–50: mệnh lệnh không chủ ngữ, một chữ ("Cắt.", "Bỏ.", "Không cần.", "Chúng nó.").
+- **Đại từ cũng là từ mạnh:** "lão" (khinh), "nó", "chúng nó", "con bé" thay tên người; tên riêng thưa dần trong độc thoại.
+- **Câu ngắn, đặt cạnh cảnh mềm:** đặt câu mạnh ngay sau một cảnh dịu (Nhi, Diệp Anh, bố mẹ) để nó cứa. Một đến ba câu mỗi chương, không dồn thành đoạn.
+- **Khi ngã:** ở *Quân trắng*, người kể trích lại những câu ấy bằng giọng trung tính, đặt cạnh hệ quả; giai đoạn hồi phục từ mạnh biến mất, câu hỏi "có khi nào" quay lại.
+
+**Phép thử "không có mình" (ablation):** dữ kiện cài ở chiều thứ Sáu 21/5 (ch.35, buổi "bảo vệ đồ án" giả: anh ở thư viện, lab vẫn chạy): một ô đường ống gãy hai tiếng không ai sửa, anh Kiên nhắn "đoạn này e viết a k đọc được. đợi e về", anh Bảo chỉ xem log không chạm, lão nhắn ba lần. Phân tích ở cuối ch.36, sau trận: bảng "nếu không có mình" theo từng người, kết luận dạng có/không: *có ai thay được mình không? Không. Mũi tên nào không đi qua mình? Không có. Mấy anh kỹ sư: không có mũi tên nào.* Đã viết vào ch.35 và ch.36 (12/10), cùng đoạn tuyên bố luật chơi, dòng ngân sách trong email, ①②③ và các dòng đối chiếu, mầm "khách hỏi tên anh", mầm "ai chạm vào hàng quân này thì ngã về phía chính mình".
 
 ### 4. Sụp đổ
 

@@ -64,6 +64,8 @@ Sáu rưỡi, tiếng máy Vespa vào ngõ, êm hơn mọi cái xe máy khác tr
 
 Chiếc xe hồng dừng ngay cổng nhà xe. Cô xuống, tháo mũ tai mèo. Bên dưới còn một cái mũ len trắng. Áo phao hồng dài quá gối, khăn len trắng quấn đến tận mũi, chỉ thò ra hai con mắt và hai cái má đỏ ửng vì gió. Ba lô đeo trước bụng, như người đi xe buýt giờ cao điểm.
 
+Bác bảo vệ kéo chăn xuống khỏi cằm, thò nửa người ra khỏi chòi gác. Một ông cụ chạy bộ vòng quanh sân chậm lại ở góc nhà xe, chạy lùi hai bước cho nhìn rõ, rồi mới chạy tiếp. Trên tầng ba, hai chị đang phơi đồ dừng tay, chụm đầu vào nhau. Sân khu tập thể lúc sáu rưỡi sáng chưa bao giờ có nhiều người cùng nhìn về phía cổng nhà xe như thế.
+
 Thuyên nhìn. Không mất giây nào. Gương mặt này anh đã quen, cái khăn len cũng chỉ là một cái khăn len. Học sinh thì là học sinh.
 
 "Cái bánh bao nhân hồng biết đi xe," anh nói.
@@ -256,7 +258,11 @@ Anh định đùa một câu. Câu đùa có sẵn, nằm ngay đầu lưỡi. N
 
 ---
 
-Gánh xôi đầu ngõ có cái nồi nhôm bọc chăn, bà bán xôi xới bằng cái muôi gỗ đen bóng. Ba gói xôi xéo, hành phi rắc dày. Ba người ngồi lại trên bậc thềm, Nhi vẫn trên cái ba lô, Vũ ở giữa, Thuyên ở rìa.
+Gánh xôi đầu ngõ có cái nồi nhôm bọc chăn, bà bán xôi xới bằng cái muôi gỗ đen bóng. Ba gói xôi xéo, hành phi rắc dày. Đến gói thứ ba, bà nhìn Nhi một lúc, bốc thêm một nắm hành phi rắc lên, đưa tận tay cô. "Cháu nhà ai mà xinh thế này."
+
+Vũ nhìn gói của mình, nhìn gói của cô, rồi quay sang Thuyên, rất nghiêm: "Thấy chưa. Ngõ này người ta nhìn mặt mà rắc hành."
+
+Ba người ngồi lại trên bậc thềm, Nhi vẫn trên cái ba lô, Vũ ở giữa, Thuyên ở rìa.
 
 Nhi chưa ăn. Cô giơ điện thoại lên, chĩa vào ba gói xôi đặt cạnh nhau trên bậc thềm, gói của Vũ đã bị cắn mất một góc, và bấm. Không ngắm, không chỉnh, chưa đến một giây.
 
@@ -286,7 +292,33 @@ Anh mở khóa, đưa cho cô. Cô cúi xuống, ngón cái chạy nhanh trên m
 
 Vũ phun một hạt xôi ra khỏi miệng. "Tấm đấy! Cringe nhất là tấm đấy! Nó kéo tương phản mất nửa tiếng, mở ảnh mấy thằng gymer ra so từng thớ cơ, tao ngồi cạnh tao biết."
 
-Thuyên thấy gáy mình nóng lên dưới cổ hoodie. "Em xem kỹ thế."
+"Tấm ấy nhiều bình luận nhất đấy," Nhi nói.
+
+Cô nói xong thì dừng, chậm hơn mọi câu khác sáng nay nửa nhịp. Mắt cô rời gói xôi, đi lên vai anh, chỗ cái hoodie xám căng ra theo khung xương, rồi về lại gói xôi. Một giây. Anh nghĩ: con bé đang lục từ tiếng Việt cho lịch sự.
+
+"Toàn các chị," cô nói tiếp. "Gọi là bàn cào móng."
+
+"Bàn cào móng là cái gì?"
+
+"Cái bàn cho mèo cào móng à?" Vũ nhíu mày, vẫn nhai. "Lưng nó giống cái bàn cho mèo cào à? Thế thì chuẩn. Lưng nó ráp như giấy nhám."
+
+"Không phải mèo." Nhi nói, đều, như đọc định nghĩa trong sổ từ vựng. "Là lưng rộng, vai rộng. Ôm vào thì hai tay không gặp nhau. Không nắm được thì phải bám. Bám không được thì…"
+
+Cô giơ một bàn tay lên khỏi gói xôi, năm ngón co lại, và kéo một đường xuống trong không khí. Chậm.
+
+Vũ hiểu trước. Vũ ngừng nhai, mắt mở to, miếng xôi nằm nguyên giữa hai má như con sóc. Rồi anh hiểu. Cái hiểu đi từ đỉnh đầu xuống, qua tai, qua gáy, đỏ lên từng chỗ nó đi qua, như cồn bắt lửa.
+
+"Thôi," anh nói. "Thôi em không cần giải thích nữa."
+
+Nhi hạ tay xuống, nheo mắt nhìn anh phía trên mép khăn len.
+
+"Làm như anh ngây thơ lắm ý."
+
+Vũ ngã ngửa ra bậc thềm, xôi văng ra khỏi miệng lần thứ hai trong buổi sáng, cười đến mức con chó nhà tầng một sủa theo. "Em ơi. Em ơi. Câu này anh cũng ghi âm."
+
+Nhi không cười. Cô cúi xuống gói xôi, miết mép lá chuối cho phẳng, chậm, cẩn thận, như vuốt một lá thư. Hai vành tai cô, chỗ thò ra khỏi mũ len trắng, đỏ hơn hai cái má. Anh nghĩ: rét. Mười một độ thì tai ai chẳng đỏ.
+
+Gáy anh vẫn chưa nguội. "Em xem kỹ thế."
 
 "Em xem hết," cô nói, như nói hai cộng hai. "Anh để cảnh ở ngoài, người ở trong. Ai lười bấm thì chỉ thấy cảnh."
 

@@ -183,6 +183,20 @@ Anh gạt ý nghĩ ấy đi trước khi nó kịp ngồi xuống. Ở đây, í
 
 ---
 
+Tan buổi, hành lang tầng hai đông lên. Anh đi sau cô ba bước, vì cô bị giữ lại ngay ở cửa.
+
+Một thầy tóc hoa râm, kẹp tập giáo án dưới nách, dừng hẳn lại giữa dòng người. "Diệp Anh. Bài em nói ở hội thảo tuần trước, thầy gửi sang bên Vụ rồi. Họ hỏi hè này em có muốn sang thực tập không." Thầy nói bằng giọng người lớn khoe một thứ mình tự hào, đủ to để mấy người xung quanh cùng nghe.
+
+Cô cảm ơn, đưa hai tay nhận tấm danh thiếp, cúi đầu vừa đủ, không thừa một li. Cái cúi ấy không học được trong một buổi. Phải có người nhắc từ bé, ở bàn ăn, trước mặt khách của bố mẹ, nhắc đến khi nó thành cột sống.
+
+Sau lưng thầy, ba bạn năm nhất ôm sổ đứng chờ. Không ai chen lên. Thầy đi rồi họ mới bước tới, chào "chị Diệp Anh" như chào một cái tên đã có trên bảng vàng của khoa, xin chị xem hộ bài phát biểu vòng loại. Cô cầm từng tờ, đọc lướt, gạch một chữ, trả lại, gọi đúng tên từng đứa.
+
+Anh đứng dựa tường, tấm bìa *không có quyền phát biểu* kẹp dưới nách, và đếm. Một thầy. Một tấm danh thiếp của Vụ. Ba đứa đàn em đứng chờ. Ở Học viện, tên cô vào phòng trước cô.
+
+Cô quay lại, bắt gặp anh đang đếm. "Đi thôi, dự thính. Chị đói."
+
+---
+
 Lượt thứ hai là lượt tập của hai bạn năm ba trong đội. Cô rời bàn, đi xuống cuối phòng, ngồi vào hàng ghế dự thính. Cách anh một ghế, nhích lên trước nửa thân người, vì hàng ghế gấp kê không thẳng.
 
 Cô vắt chân.

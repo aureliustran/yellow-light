@@ -18,6 +18,8 @@ Sau buổi demo nội bộ ngày 4/5, Ban Lãnh đạo thống nhất chuẩn b�
 
 Đề nghị trưởng nhóm gửi đề xuất nhân sự phụ trách giai đoạn vận hành (kỹ thuật, dữ liệu, truyền thông, đầu mối đối tác) trước ngày 15/6.
 
+Nhân sự giai đoạn vận hành ưu tiên sử dụng nguồn lực hiện có của lab, không phát sinh tuyển mới. Khối Kinh doanh sẽ gửi đề xuất bổ sung cho hạng mục đầu mối đối tác và truyền thông.
+
 Trân trọng.
 :::
 
@@ -29,7 +31,32 @@ Anh Bảo kéo tai nghe xuống một bên. Đọc. Kéo lên.
 
 Anh Kiên không ngẩng đầu, nhưng tay anh Kiên dừng gõ.
 
-Tám chữ trong ngoặc đơn: *kỹ thuật, dữ liệu, truyền thông, đầu mối đối tác*. Tám chữ, và mười hai người, và một danh sách sẽ được viết bởi người hiểu ít nhất về cả tám chữ ấy.
+Bốn mục trong ngoặc đơn: *kỹ thuật, dữ liệu, truyền thông, đầu mối đối tác*. Bốn dòng, mười hai người, và một danh sách sẽ được viết bởi người hiểu ít nhất về cả bốn dòng ấy.
+
+Danh sách nghĩa là ghế, mà ghế có hạn. Từ lúc email ấy đến, ai ở tầng mười bảy cũng hiểu: sau tháng bảy, người có tên sẽ ở lại theo dự án, người không có tên sẽ ra rìa.
+
+Người viết danh sách là anh Tuấn. Lão không chọn người giỏi nhất, vì lão không đủ hiểu để biết ai giỏi nhất. Lão chọn người lão tin. Từ sáng nay, ở tầng mười bảy chỉ còn một thứ tiền: lòng tin của một người đàn ông ba mươi hai tuổi. Ai cũng bắt đầu đi kiếm nó, đổi nó, lấy nó từ tay người khác.
+
+Nhưng không phải ai cũng phải đếm ghế. Kỹ sư thì không. Khối công nghệ chưa bao giờ đủ người biết sửa một đường ống lúc hai giờ sáng; rời dự án này thì có ba dự án khác đang chờ. Anh Bảo kéo tai nghe lên lại vì anh Bảo biết điều ấy. Người phải đếm là những người được mượn về: Hà My từ marketing, Trâm từ kinh doanh, chị Ngân từ hành chính. Hết dự án, họ không được kéo đi đâu cả. Họ được trả về, về một cái bàn đã có người khác ngồi. Và dòng cuối của email vừa nói rằng chính khối của Trâm sẽ tự cử người cho cái ghế Trâm đang ngồi.
+
+Ở tầng mười bảy từ sáng nay có hai loại người: người được cần, và người phải chứng minh mình được cần.
+
+Còn một điều nữa, điều không ai viết ra mà ai cũng biết: được phép tranh, nhưng không được để ai thấy mình đang tranh. Người bị bắt quả tang đang tranh là người mất trước.
+
+Điện thoại rung trên mặt bàn, trước khi anh kịp làm gì.
+
+:::chat
+Anh Tuấn: Phần kỹ thuật trong đề xuất nhân sự em nghĩ giúp anh nhé
+Anh Tuấn: Cả lab chỉ em hiểu
+:::
+
+Anh đọc dòng thứ hai lâu hơn dòng thứ nhất. Có một cái gì đó ấm lên ở dưới xương ức, đúng một giây, như một ngụm trà nóng.
+
+Rồi anh cắt nó. Lão nói câu này với bao nhiêu người rồi. Có khi nào lão đang thả câu, chờ xem anh viết tên ai vào dòng *kỹ thuật*.
+
+:::chat
+> dạ e gửi a trong tuần ạ
+:::
 
 Anh lật tờ chương trình họp sáng nay sang mặt sau, lấy bút ra.
 
@@ -59,15 +86,67 @@ Không còn cái ô nào ở giữa. Không còn tảng đá nào nước phải
 
 Có khi nào mình đứng ngoài được.
 
-Anh thử nghĩ nghiêm túc. Không ăn trưa với ai. Không vào phòng ai. Làm phần lõi, đóng gói, giao, rồi để danh sách tự viết. Anh đã làm đúng như thế hồi tháng mười một, và hồi ấy nó chạy, vì hồi ấy không ai cần cái ô ở giữa. Bây giờ ai cũng cần. Danh sách sẽ có một dòng *kỹ thuật*, và ai viết danh sách thì người ấy quyết định dòng ấy là tên ai, là phụ trách hay là *hỗ trợ*, là người cầm phần lõi hay là người được hỏi khi phần lõi gãy.
+Câu hỏi ấy to quá, và câu hỏi to thì trả lời kiểu gì cũng đúng một nửa. Anh làm cái việc anh vẫn làm với mọi bài toán rối từ hồi đội tuyển: bẻ nó ra thành những câu nhỏ, mỗi câu chỉ có hai đáp án, có hoặc không, đúng hoặc sai. Câu nào có đáp án rồi thì đứng làm bậc cho câu sau.
 
-Đứng ngoài không phải là trung lập. Đứng ngoài là để người khác quyết định thay mình.
+Dưới tấm bản đồ, anh viết:
+
+:::note ink
+1. có ai cần mình không? → CÓ.
+– lão: cần người viết dòng "kỹ thuật", cần người đọc lại số.
+– c Hạnh: cần hàng để mang lên tầng 18.
+– My: cần "thông điệp kỹ thuật" cho phần truyền thông. lấy ở tài liệu của mình.
+2. ai cũng cần mình. mình đứng im thì có biến khỏi bàn cờ không? → KHÔNG.
+– vẫn ở đó. chỉ là người khác đi nước bằng mình.
+3. ai viết danh sách? → lão. lão viết theo cái gì? → theo người lão tin.
+4. với lão, một người có mấy trạng thái? → 2. tin / không tin.
+– "trung lập" có phải trạng thái thứ 3 không? → KHÔNG. không được tin = không tin.
+5. lão đang tin ai nhất? → người vào phòng lão nhiều nhất ba tuần nay.
+:::
+
+Anh đọc lại năm dòng. Không dòng nào cần đến cảm xúc. Chỉ cần đúng hoặc sai.
+
+Hồi tháng mười một anh đã đứng ngoài thật: không ăn trưa với ai, không vào phòng ai, làm phần lõi, đóng gói, giao. Hồi ấy nó chạy, vì hồi ấy không ai cần cái ô ở giữa. Dòng một bây giờ là *có*, nên mọi dòng sau đổi theo.
+
+Rồi anh hỏi theo chiều khác. Nếu mình là một mắt xích, thì mình nằm trong sợi xích nào, và sợi xích ấy đang kéo ngược sợi nào.
+
+Sợi thứ nhất là lão. Lão muốn giữ lab, giữ ghế trưởng nhóm sau tháng bảy, và muốn tầng mười tám không bao giờ biết lão từng chết đuối. Anh là cái phao. Phao thì nằm trong sợi xích của người đang bơi, dù phao có muốn hay không.
+
+Sợi thứ hai là khối kinh doanh, sợi Trâm đang đi ba vòng để nối. Họ muốn dòng *đầu mối đối tác* là người của họ. Lão giữ được dòng nào thì họ mất dòng ấy. Anh nằm trong sợi của lão, nên tự động nằm trong danh sách những thứ họ muốn gỡ ra.
+
+Sợi thứ ba là Hà My. Cô muốn một dòng có tên mình trước khi hợp đồng hết hạn ba mươi mốt tháng năm. Danh sách có hạn. Mỗi tên được viết vào là một tên khác không được viết. Và cách nhanh nhất để một người lên là có một người khác xuống, ngay trong phòng của người viết danh sách.
+
+Anh khoanh lại câu cuối cùng còn chưa có đáp án.
+
+*Đứng ngoài = trung lập?*
+
+Sai. Đứng ngoài là để người khác quyết định thay mình, bằng mình.
+
+Nhưng chính anh vừa nghĩ: kỹ sư không phải đếm ghế. Anh là kỹ sư. Vậy mình đang sợ cái gì?
+
+Anh lật lại email, đọc dòng ngân sách: *không phát sinh tuyển mới*. Rồi anh làm một phép tính, nhanh, như nhẩm học phí. Một người cầm được phần lõi này phải đọc được cả toán lẫn code, phải đứng được trước khách mà nói cho khách hiểu vì sao cái mái nhà trên ảnh cao mười hai mét chứ không phải mười. Ở Hà Nội, người như thế là một tiến sĩ, hoặc một chuyên gia từ nước ngoài về: tám mươi đến một trăm hai mươi triệu một tháng, ba đến sáu tháng mới tìm được, thêm ba tháng nữa mới hiểu nổi phần lõi. Giữ anh tốn hai mươi lăm triệu, tính cả tiền làm thêm giờ lão ký mỗi tháng.
+
+Không ai trả gấp năm để thay một thứ còn chạy tốt. Nhất là khi email vừa viết: không tuyển mới.
+
+Ghế của anh an toàn. Anh biết thế, và biết thế không làm anh nhẹ đi.
+
+Vì cái anh sợ không phải là mất ghế. Từ tháng mười hai, ở quán bia hơi, anh Bảo đã nói cho anh biết anh sợ cái gì: *đừng để ai viết tên lên nó.* Một danh sách có thể ghi *kỹ thuật: Thuyên (hỗ trợ)* rồi đặt một cái tên khác lên trên. Một danh sách có thể giữ anh lại mà vẫn lấy đi thứ anh làm ra. Sơn vẫn còn ở đây, trong đường ống, không có tên ở trang nào.
+
+Anh viết thêm ba dòng ở góc dưới tờ giấy, đánh số như đánh số trường hợp kiểm thử:
+
+:::note ink
+đến 15/6, ba thứ phải còn nguyên:
+① dòng "kỹ thuật": tên mình. chữ "phụ trách", không phải "hỗ trợ".
+② lão vẫn tin mình.
+③ không ai cầm được bằng chứng mình có hai giọng.
+:::
+
+Dòng thứ ba anh viết nhỏ hơn hai dòng trên.
 
 Mình không chơi thì mình là bàn cờ.
 
 Anh viết câu ấy xuống góc tờ giấy, rồi gạch đi, vì nó nghe như câu trên sân khấu. Rồi anh mở ngăn kéo tìm cái bút dạ để tô lại mấy mũi tên cho rõ.
 
-Cái cốc *ĐẠT* vẫn ở đó, đáy khô một lớp cà phê từ tháng mười năm ngoái. Anh chưa bao giờ rửa nó. Dưới cái cốc là cái hộp nhựa dẹt anh đã thấy từ ngày đầu, nắp mờ vì xước, kéo ngăn ra thì lục cục như có sỏi. Bảy tháng anh không mở.
+Cái cốc *ĐẠT* đã ra khỏi ngăn kéo từ hôm có xe, giờ đứng cạnh màn hình, đáy còn một vệt trà. Trong ngăn kéo, chỗ cái cốc từng nằm, là cái hộp nhựa dẹt anh đã thấy từ ngày đầu, nắp mờ vì xước, kéo ngăn ra thì lục cục như có sỏi. Bảy tháng anh không mở.
 
 Anh mở.
 
@@ -81,7 +160,26 @@ Một quân. Đứng một mình thì không đổ vào đâu được.
 
 ---
 
-Thứ Ba, anh Tuấn gọi anh vào phòng lúc mười giờ.
+Sáng thứ Ba, kênh Teams của lab sáng lên lúc tám giờ năm mươi.
+
+:::chat Teams · Thiên Nhãn – R&D
+Chị Phương: Mọi người ơi định dạng nhãn cho ảnh tháng 5 là polygon hay bbox ạ
+Kiên: hỏi Thuyên
+> polygon chị ạ. e gửi chị file mẫu
+~ Chị Hạnh, Trâm và Ly đã thả ❤️ vào tin nhắn của Kiên
+:::
+
+Anh trả lời trong mười giây. Gửi xong mới nhận ra mình đã ngồi thẳng lưng lên một chút trước khi gõ, như người vừa được gọi tên ở lớp.
+
+Chín giờ hai mươi, Trâm chuyển tiếp cho anh một email của bên bất động sản, không thêm chữ nào ngoài *em xem giúp chị với*. Khách hỏi: ảnh chụp mùa mưa, mây che quá nửa khu đất, thì sai số chiều cao công trình là bao nhiêu mét. Câu hỏi ba dòng. Câu trả lời đúng cần một trang toán. Anh viết lại thành sáu dòng, không phương trình nào, có một ví dụ về cái mái tôn nhà kho, gửi lại cho Trâm sau mười phút.
+
+Mười một giờ, anh thấy email Trâm trả lời khách. Sáu dòng của anh, nguyên văn, ký tên Trâm.
+
+Anh không thấy khó chịu. Anh thấy một điều khác. Khách hỏi câu kỹ thuật, và người ngồi ở dòng *đầu mối đối tác* phải chuyển sang anh. Lần sau khách sẽ hỏi thẳng anh. Lần sau nữa khách sẽ hỏi tên anh.
+
+Anh chưa nghĩ đến chuyện ấy có nghĩa gì với cái ghế của Trâm.
+
+Mười giờ, anh Tuấn gọi anh vào phòng. Anh đứng dậy ngay, như mọi lần, cầm theo sổ và bút, đi nhanh đến mức suýt va vào ghế của chị Ngân.
 
 Chuyện slide. Slide số hai của bộ trình bày gửi anh Đông, cái slide anh đã sửa ngồi ở bậc thềm sân bóng tối thứ Bảy, mồ hôi nhỏ xuống màn hình. Anh Tuấn muốn thêm một biểu đồ, rồi bỏ đi, rồi muốn đổi màu chữ tiêu đề từ trắng sang trắng ngà. Hai mươi phút. Anh ngồi, gật, ghi, như mọi lần.
 
@@ -107,13 +205,38 @@ Anh Tuấn không bao giờ dùng chữ ấy. Anh Tuấn dùng chữ *hỗ trợ
 
 Bàn ấy có năm người. Anh, chị Hạnh, Hà My, Trâm, anh Bảo.
 
-Có khi nào anh Tuấn tự nghĩ ra chữ ấy. Có thể. Người chết đuối thì nghĩ đến phao, ai cũng nghĩ thế. Nhưng anh Tuấn không nói *may có em*, không nói *may có Thuyên*. Anh Tuấn nói *may có phao*, và nhìn thẳng vào anh để xem anh có nghe ra chữ ấy không. Người ta không nhìn như thế khi nói một chữ tình cờ.
+Anh không đoán. Anh đặt giả thuyết, rồi tìm cách giết nó.
 
-Có người mang chữ ấy từ bàn bún chả vào căn phòng này. Và người ấy không mang một mình chữ ấy. Phao không đi một mình. Phao đi cùng *lão*, cùng *sự trưởng thành của mô hình*, cùng cái slide *sự trưởng thành của tình cảm*.
+Giả thuyết thứ nhất, cái dễ chịu nhất: *lão tự nghĩ ra chữ ấy.* Người chết đuối thì nghĩ đến phao, ai cũng nghĩ thế.
+
+Nếu đúng thế, thì chữ *phao* phải có ở đâu đó trong bảy tháng lão nói với anh. Anh mở Teams, vào cuộc trò chuyện với anh Tuấn, gõ vào ô tìm kiếm: *phao*. Không kết quả. Mở Zalo, chỗ lão hay nhắn những thứ không muốn để trên Teams, tìm. Không kết quả. Mở hộp thư, tìm. Không kết quả. Mở thư mục biên bản họp, mười bảy tuần, tìm. Không kết quả. Bảy tháng, ba trăm mấy tin nhắn, hai mươi mấy email, mười bảy biên bản. Chữ *phao* xuất hiện đúng một lần trong đời lão: sáng nay.
+
+Và nếu lão tự nghĩ ra, thì lão sẽ nói *may có em*, *may có Thuyên*. Lão không nói thế. Lão nói *may có phao*, rồi nhìn thẳng vào anh, như người thả một hòn sỏi xuống giếng rồi nghiêng tai nghe. Người ta không nhìn như thế khi nói một chữ tình cờ. Người ta nhìn như thế khi muốn biết chữ ấy có làm ai giật mình không.
+
+Giả thuyết thứ nhất chết.
+
+Giả thuyết thứ hai: *có người mang chữ ấy từ bàn bún chả vào căn phòng này.* Và người ấy không mang một mình chữ ấy. Phao không đi một mình. Phao đi cùng *lão*, cùng *sự trưởng thành của mô hình*, cùng cái slide *sự trưởng thành của tình cảm*.
 
 Anh mở ngăn kéo, lấy hộp domino ra, nhặt quân thứ hai. Không chọn. Quân nào tay chạm trước. Một – hai. Anh dựng nó sau quân trắng trơn, cách một đốt ngón tay.
 
-Rồi anh làm cái việc anh làm với mọi con sông có rò rỉ. Anh không đoán. Anh khoanh vùng.
+Rồi anh nhìn xuống góc tờ giấy hôm qua, chỗ ba dòng viết tay. Dòng thứ ba, dòng anh viết nhỏ nhất, đã không còn nguyên: có người đang ghép lời anh. Dòng thứ hai đang lung lay: lão vừa nhìn anh như đếm. Dòng thứ nhất chưa ai đụng tới. Nhưng ai cầm được dòng thứ ba thì sớm muộn cũng đụng tới dòng thứ nhất.
+
+Rồi anh làm cái việc anh làm với mọi con sông có rò rỉ: khoanh vùng.
+
+Nếu giả thuyết thứ hai đúng, thì người mang tin phải thỏa cả bốn điều kiện cùng một lúc. Một: ngồi ở bàn bún chả trưa hai mươi tháng tư. Hai: vào được phòng lão một mình, cửa đóng. Ba: có lý do để mang. Bốn: nhớ được nguyên văn, vì *phao* là nguyên văn, không phải ý chính.
+
+Hồi cấp ba, những đêm đọc trộm truyện trinh thám dưới gầm chăn, anh thuộc một câu của ông thám tử phố Baker: loại hết những gì không thể, cái còn lại, dù khó tin đến đâu, cũng là sự thật. Anh không cần nó khó tin. Anh chỉ cần loại.
+
+:::sheet ban_bun_cha_20.4
+| | Ngồi bàn 20/4 | Vào phòng lão một mình | Lý do để mang | Nhớ nguyên văn |
+| --- | --- | --- | --- | --- |
+| Anh Bảo | có | không. chỉ vào khi họp | không | không |
+| Trâm | có | không | ngược. muốn lão ngã | có |
+| Chị Hạnh | có | có. ít | có. nhưng bán lên tầng 18 | có |
+| Hà My | có | có. nhiều nhất lab | có. hợp đồng hết 31/5 | có |
+:::
+
+Rồi anh viết lý do cho từng ô, vì một ô không có lý do thì chỉ là cảm giác.
 
 Anh Bảo: không. Anh Bảo nói với anh Tuấn đúng những câu có trong biên bản họp, và ghét anh Tuấn bằng cái ghét của kỹ sư, cái ghét không cần ai nghe. Một người bật ra đúng một tiếng cười qua mũi ở bàn bún chả thì không phải người mang câu chuyện ấy đi đâu.
 
@@ -127,9 +250,15 @@ Hà My đập đũa vào thành bát, nhại *sự trưởng thành của mô h�
 
 Cô không hỏi để biết. Cô hỏi để đo.
 
-Bốn người, ba người bị loại bằng lý do, một người còn lại bằng lý do. Nhưng lý do không phải bằng chứng. Hồi tháng hai anh đã nằm nhìn trần đến hai giờ sáng chỉ vì một giả thuyết: *Hà My và anh Tuấn ngồi chung một bàn*. Anh đã gạt nó đi: *không bao giờ có ngày ấy*.
+Bốn hàng. Anh Bảo và Trâm trượt ngay ở cột thứ hai: một người không bao giờ vào phòng lão một mình thì không mang được gì vào đó. Còn lại hai người đi qua đủ bốn cột. Chị Hạnh và Hà My.
+
+Ở cột thứ ba, hai người tách ra một chút. Lý do của chị Hạnh đi lên tầng mười tám, không đi vào phòng lão. Lý do của Hà My đi thẳng vào phòng lão, ba tuần nay, mỗi lần bốn mươi phút. Cán cân nghiêng về một bên.
+
+Nhưng nghiêng không phải là bằng chứng. Lý do không phải là bằng chứng. Hồi tháng hai anh đã nằm nhìn trần đến hai giờ sáng chỉ vì một giả thuyết: *Hà My và anh Tuấn ngồi chung một bàn*. Anh đã gạt nó đi: *không bao giờ có ngày ấy*.
 
 Ngày ấy có rồi. Anh chỉ cần biết chắc nó có từ hôm nào.
+
+Còn hai cái tên. Anh cần một phép thử mà kết quả chỉ có thể chỉ vào một trong hai.
 
 ---
 
@@ -141,7 +270,19 @@ Bốn giờ, cửa sổ hành lang chỗ máy photo. Hà My đang chờ in một
 
 Không có buổi bảo vệ nào. Môn ấy anh qua từ tháng một.
 
-Sáng hay chiều. Hai chữ. Một chữ cho chị Hạnh, một chữ cho Hà My. Không chữ nào cho Trâm và anh Bảo, vì anh không cần. Trong kỹ thuật dữ liệu người ta gọi đây là đánh dấu: muốn biết dữ liệu rò ra từ đâu thì mỗi bản sao gửi đi phải khác nhau một chi tiết vô hại, đủ nhỏ để không ai thấy, đủ riêng để nhận ra khi nó quay về.
+Và anh không báo lão. Đấy mới là phần quan trọng nhất. Nếu lão biết anh vắng buổi nào vào thứ Sáu, thì lão chỉ có thể biết qua một đường duy nhất: một trong hai người vừa nghe.
+
+Anh viết luật ra trước, để sau này không tự lừa mình bằng cách đọc kết quả rồi mới đặt luật:
+
+:::note ink
+nếu lão biết "sáng" → c Hạnh.
+nếu lão biết "chiều" → My.
+nếu lão không biết gì → hoặc không phải hai người này, hoặc kênh đã tắt. quay lại bảng.
+:::
+
+Rồi anh dò lại điều ai cũng biết mà không ai nói. Phép thử này có để ai thấy anh đang tranh không? Không. Không có gì để thấy: một sinh viên năm ba than với đồng nghiệp rằng slide bảo vệ chưa xong. Hợp lệ.
+
+Sáng hay chiều. Hai chữ. Một chữ cho chị Hạnh, một chữ cho Hà My. Không chữ nào cho Trâm và anh Bảo, vì bảng tính đã loại họ ở cột thứ hai. Trong kỹ thuật dữ liệu người ta gọi đây là đánh dấu: muốn biết dữ liệu rò ra từ đâu thì mỗi bản sao gửi đi phải khác nhau một chi tiết vô hại, đủ nhỏ để không ai thấy, đủ riêng để nhận ra khi nó quay về.
 
 Anh về bàn, mở hộp domino, nhặt quân thứ ba. Một – ba. Dựng nó sau quân thứ hai.
 
@@ -268,6 +409,8 @@ Không ai cười to. Chị Hạnh nhìn anh lâu hơn một chút. Anh Bảo kh
 
 Anh đã không chửi lão. Lần đầu tiên ở cái bàn này. Và cái bàn nghe ra.
 
+Tối ấy, ở góc tờ giấy, anh vạch một nét chéo qua số ②. Không gạch hẳn. Một nét chéo, như đánh dấu một bài kiểm thử đang đỏ. Lão đã thôi gọi anh vào đọc số. Ba thứ phải còn nguyên: một chưa ai đụng tới, hai đang đỏ.
+
 ---
 
 Chiều thứ Năm là buổi học với Nhi.
@@ -275,6 +418,12 @@ Chiều thứ Năm là buổi học với Nhi.
 Quán trên Đặng Thai Mai, quán có những chậu cúc họa mi đã tàn, cô chọn lại vì lần trước cô bảo *quán này em học tốt*. Nhi mặc áo phông trắng in một con mèo đội mũ phi công, tóc buộc cao, và cô vào đề trước khi anh kịp ngồi.
 
 "Em đạt rồi, nên giờ học để giữ." Cô đẩy tờ đề sang. "Giữ khó hơn đạt. Anh dạy em giữ đi."
+
+Rồi cô nói thêm, mắt vẫn nhìn tờ đề, như kể một chuyện không quan trọng:
+
+"Bố em hỏi thầy em học ở đâu ra. Em bảo thầy em tự học. Bố em bảo thế thì giỏi thật."
+
+Anh không nói *thầy chỉ chọn đề phù hợp* như mọi lần. Anh không nói gì. Anh xoay cây bút một vòng trên ngón tay, và để câu khen nằm yên trên mặt bàn, giữa hai người, không đẩy nó đi.
 
 Anh dạy. Anh chấm, sửa, giải thích. Anh làm tất cả những việc ấy bằng một nửa cái đầu. Nửa kia ở bốn mươi mốt dòng, mười bốn cặp tô vàng, một cái cửa đóng bốn mươi phút.
 
@@ -320,9 +469,48 @@ Anh nhìn hai chữ ấy rất lâu. Rồi anh đóng cuốn sách lại.
 
 Không phải sáng. Chiều. Chị Hạnh nghe *sáng*. Hà My nghe *chiều*. Và chữ *chiều* đã đi từ máy photo ở hành lang tầng mười bảy, qua một cánh cửa đóng, vào một cái tin nhắn của anh Tuấn gửi lúc hai giờ mười chiều thứ Sáu, nguyên văn, không sai một chữ. Hà My nhớ nguyên văn. Đấy là thứ làm nên cô, và đấy cũng là thứ vừa chỉ ra cô.
 
+Rồi anh tự cãi lại mình, như một người phản biện ngồi ở bàn hội đồng. Sáng hay chiều, hai khả năng. Lão đoán bừa thì cũng trúng một nửa. Một phép thử năm mươi – năm mươi thì chưa đủ để kết tội ai.
+
+Nhưng nó không đứng một mình. Anh lật cuốn sổ, viết ba dòng:
+
+:::note ink
+1. "phao" → từ bàn bún chả. người mang phải vào phòng lão + nhớ nguyên văn. → My hoặc c Hạnh.
+2. c Ngân nghe qua cửa: "em chỉ thấy nó nói với mỗi người một kiểu." → người trong phòng lúc ấy là My.
+3. "chiều" → My.
+:::
+
+Ba đường đến từ ba nguồn, không đường nào biết đường kia. Đường thứ nhất là một chữ lão lỡ dùng. Đường thứ hai là một câu lọt qua cánh cửa. Đường thứ ba là cái bẫy anh tự gài. Một đường thì có thể trùng hợp. Ba đường gặp nhau ở cùng một cái tên thì không còn là trùng hợp nữa.
+
 Giả thuyết thành sự thật. Anh không thấy nhẹ. Anh thấy lạnh, cái lạnh của người vừa chạy một bài kiểm thử và thấy nó đỏ đúng chỗ mình đoán.
 
-Anh ngồi trong thư viện đến năm giờ. Rồi anh về phòng trọ, không lên lab.
+Nhưng dưới cái lạnh ấy, nằm rất sâu, có một thứ nhỏ và ấm. Không phải vì thoát. Anh chưa thoát gì cả. Nó giống cái lúc viết xong một bài kiểm thử, chạy, và thấy nó bắt đúng con lỗi mình đã đoán từ trước khi chạy. Hai chữ, sáng và chiều, và một người nhớ nguyên văn đã tự chỉ ra mình bằng chính trí nhớ của cô.
+
+Anh nhận ra thứ ấy. Anh không đuổi nó đi. Anh để nó ở đó.
+
+Anh ngồi trong thư viện đến năm giờ, và điện thoại không để anh yên.
+
+Ba giờ bốn mươi, email cảnh báo tự động của đường ống: *ô 712 thất bại, đã thử lại 3 lần.* Anh nhìn nó, không mở. Một sinh viên đang bảo vệ đồ án thì không mở log.
+
+Bốn giờ mười, anh Kiên nhắn riêng.
+
+:::chat
+Kiên: ô 712 lỗi ở bước lọc mây
+Kiên: a mở code ra rồi
+Kiên: đoạn này e viết a k đọc được. đợi e về
+:::
+
+Bốn giờ hai mươi, trên kênh Teams của lab, chị Phương hỏi *Thuyên đâu mọi người*. Hai người thả tim vào câu hỏi, không ai trả lời. Anh Bảo không nhắn gì. Anh biết anh Bảo đang nhìn đúng cái log ấy, và biết anh Bảo sẽ không chạm vào.
+
+Bốn giờ năm mươi, anh Tuấn nhắn lần thứ ba.
+
+:::chat
+Anh Tuấn: Ô lỗi kia tối nay e xem được k
+Anh Tuấn: Mai bên kia hỏi a k biết trả lời sao
+:::
+
+Ba người, ba cách hỏi cùng một câu: *em đâu*. Anh không biết vì sao, nhưng anh chép giờ của cả ba vào cuốn sổ, dưới ba dòng về chữ *chiều*, như chép dữ liệu của một lần chạy mà mình chưa định phân tích.
+
+Năm giờ, anh về phòng trọ, không lên lab. Mười giờ đêm, anh mở máy, sửa ô bảy trăm mười hai trong mười một phút, rồi nhắn anh Kiên: *xong r a. lỗi ở ngưỡng mây*. Anh Kiên thả một cái tim.
 
 ---
 
@@ -340,19 +528,23 @@ Anh mở một file trống khác. Lần này anh đặt tên bằng tiếng Vi�
 
 Anh nhìn năm dòng ấy đến hai giờ sáng.
 
-Dòng một: nhận với lão thì lão biết mình có hai giọng. Lão nghiện được tin. Người nghiện được tin mà mất lòng tin thì không thôi tin, mà tin người khác. Người khác ấy đang ngồi trong phòng lão bốn mươi phút mỗi lần. Gạch.
+Mỗi dòng, anh hỏi cùng một câu: *nếu làm thế, thì chuyện gì xảy ra tiếp theo, và tiếp theo nữa.*
 
-Dòng hai: Hà My không hết hơi. Cô có một cái hợp đồng hết hạn cuối tháng năm và một cái danh sách nộp trước mười lăm tháng sáu. Cô không có thời gian để hết hơi. Cô chỉ có thời gian để thắng. Và nếu Trâm có giữ ảnh chụp màn hình những tin nhắn nửa đêm của lão, thì có khi nào ở bàn bún chả, cũng có ai đó giữ một cái gì đó. Gạch.
+Dòng một: nếu nhận với lão, thì lão biết mình có hai giọng. Lão nghiện được tin. Nếu một người nghiện được tin mất lòng tin vào mình, thì người ấy không thôi tin, người ấy chuyển sang tin người khác. Người khác ấy đang ngồi trong phòng lão bốn mươi phút mỗi lần. Gạch.
 
-Dòng ba: nói thẳng thì cô biết mình biết. Một người biết mình bị nhìn thấy sẽ đi nhanh hơn, không chậm lại. Gạch.
+Dòng hai: nếu im chờ, thì phải có thời gian. Hà My không hết hơi. Cô có một cái hợp đồng hết hạn cuối tháng năm và một cái danh sách nộp trước mười lăm tháng sáu. Cô không có thời gian để hết hơi. Cô chỉ có thời gian để thắng. Và nếu Trâm có giữ ảnh chụp màn hình những tin nhắn nửa đêm của lão, thì có khi nào ở bàn bún chả, cũng có ai đó giữ một cái gì đó. Gạch.
 
-Dòng bốn: chị Ngân và chị Hạnh. Nhờ một người sống bằng thông tin là ký một tờ giấy nợ không ghi số tiền. Anh gạch dòng ấy chậm hơn ba dòng trên, vì anh biết sớm muộn gì mình cũng sẽ ký.
+Dòng ba: nếu nói thẳng, thì cô biết mình biết. Một người biết mình bị nhìn thấy sẽ đi nhanh hơn, không chậm lại. Gạch.
+
+Dòng bốn: nếu nhờ chị Ngân hay chị Hạnh, thì là nhờ một người sống bằng thông tin. Nhờ người như thế là ký một tờ giấy nợ không ghi số tiền. Anh gạch dòng ấy chậm hơn ba dòng trên, vì anh biết sớm muộn gì mình cũng sẽ ký.
 
 Dòng năm.
 
 Anh không gạch dòng năm.
 
 Anh nhìn nó, và cái đầu anh, cái đầu đọc người ấy, tự chạy trước khi anh cho phép nó chạy. Hà My nhớ nguyên văn và mang nguyên văn vào phòng sếp. Đấy là sức mạnh của cô. Cũng là cái kênh. Một cái kênh chở được sự thật thì chở được bất cứ thứ gì. Một con sông không biết nước trong nó từ đâu đến.
+
+Nếu cái kênh ấy chở một thứ sai vào phòng lão, và lão tự kiểm tra ra nó sai, thì người bị lão nhìn bằng con mắt khác sẽ không phải là anh. Mà là người cầm kênh.
 
 Anh đặt tay lên bàn phím, gõ thêm một dòng dưới dòng năm, rồi xóa. Gõ lại. Xóa.
 

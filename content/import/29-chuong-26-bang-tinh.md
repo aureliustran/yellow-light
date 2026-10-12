@@ -612,6 +612,10 @@ Cô gọi món cho cả hai, không mở thực đơn quá mười giây. Súp h
 
 Món súp ra. Anh cầm cái thìa ngoài cùng. Cô liếc xuống. Gật đầu nhẹ, như chấm đúng một câu trắc nghiệm.
 
+Cô thì không liếc xuống bộ dao dĩa lần nào. Tay cô tự tìm đúng cái thìa, như tay anh tự tìm phím tắt. Anh xem video ba lần để thuộc thứ tự; cô không cần thuộc, vì chưa bao giờ phải nghĩ. Thứ ấy không học được trong một tối. Phải có ai đó ngồi đối diện sửa từ năm sáu tuổi, ở những bàn ăn trải khăn trắng, sửa cả cách cầm ly, cách gọi món, cách nói *cảm ơn* với người phục vụ mà không cúi thấp hơn họ. Nhà có của ăn của để thì không dạy những thứ này. Chỉ những nhà giàu thật, và có kỷ luật, mới làm ra được một người ngồi thẳng như thế trước bốn cái dĩa.
+
+Anh từng thấy cái cột sống ấy một lần nữa: ở góc thang máy tầng chín, một người giơ cốc cà phê lên cao, nghe chuyện đẩy ngực chín mươi cân như nghe một con số quan trọng.
+
 Đến giữa bữa, dưới gầm bàn, có gì đó chạm vào cổ chân anh.
 
 Anh khựng lại, nĩa đang xiên dở miếng vịt.

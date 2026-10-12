@@ -16,6 +16,8 @@ Tầng mười bảy chưa bao giờ yên đến thế.
 
 Anh Bảo đọc paper, tai nghe trên đầu, một tay cầm bút chì gạch chân lên bản in, như đang chữa bài cho tác giả. Anh Kiên chơi cờ vua trên điện thoại, mỗi nước đi nghĩ đúng ba phút, không hơn. Chị Quỳnh cuối cùng cũng có thời gian dọn hộp thư, xóa email cũ từ năm 2025 với vẻ mặt của người đang nhổ cỏ. Ở góc cửa sổ, Thảo vẫn dán nhãn. Không ai giao việc mới cho R&D, nhưng hình như không ai báo cho Thảo biết R&D không có việc, hoặc có báo mà cô vẫn làm, vì dữ liệu sạch thì không bao giờ thừa.
 
+Thứ Ba, khối công nghệ nhắn sang xin mượn anh Kiên ba ngày cho dự án thanh toán. Anh Kiên đi, ba ngày sau về, không ai hỏi gì. Kỹ sư rảnh một tuần thì có người xin. Bảng chấm công tháng ấy của cả lab không có giờ làm thêm nào để lão ký.
+
 Mười giờ, sếp đi ra từ phòng riêng, tay ôm một bó hoa hồng to bằng cái lốp xe, giấy gói đỏ in chữ vàng *8/3*.
 
 "Các bông hoa của Thiên Nhãn đâu rồi?"

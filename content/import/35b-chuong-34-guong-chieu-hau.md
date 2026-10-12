@@ -153,6 +153,24 @@ Cô siết tay ở eo anh một cái, không nói gì. Trong gương, khóe môi
 
 Quốc lộ Một sáng mùng một tháng năm đông như một cái chợ chạy. Xe khách về quê, xe tải chở hàng, xe máy chở cả nhà bốn người kèm một con chó trong giỏ. Anh đi chậm, đi sát lề phải, ba mươi, bốn mươi, có lúc hai mươi lăm. Cả dòng xe vượt qua anh như nước chảy qua một hòn đá.
 
+Qua cầu Giẽ, gió quốc lộ thổi phồng lưng áo anh. Anh nói, không quay lại:
+
+"Chị ôm chặt thế, người ta tưởng em chở bao gạo."
+
+Không ai trả lời. Rồi anh cảm thấy năm đầu ngón tay cô rời khỏi eo, trườn lên giữa lưng, chậm, như người dò từng dòng, và dừng ở chỗ hai bả vai. Rồi cô cào. Một đường, từ bả vai xuống, qua lớp sơ mi lanh, không mạnh, đủ để anh ưỡn người ra như vừa bị dội nước lạnh.
+
+"Á."
+
+"Chị không đấm em lúc em lái xe," cô nói, cằm vẫn tựa trên vai anh. "Đấm thì xe lạng. Cào thì xe đi thẳng."
+
+"Chị tính rồi à?"
+
+"Chị tính lâu rồi." Trong gương, mắt cô không nhìn đường nữa. Nhìn anh. "Có người viết sẵn hướng dẫn sử dụng cho cái lưng này. Chị chỉ làm theo."
+
+Anh mất một giây mới hiểu cô nói đến cái bình luận nào. Gáy anh nóng lên dưới mũ bảo hiểm.
+
+Từ cầu Giẽ đến Phủ Lý, anh đếm được thêm bốn đường nữa. Mỗi lần anh mở miệng ragebait là một đường. Và anh vẫn mở miệng, đều đặn, như người cho xu vào máy để nghe lại bài hát mình thích.
+
 Phủ Lý, anh dừng đổ xăng. A95, như mẩu giấy dặn. Cô xuống xe, vươn vai, cởi mũ, gỡ bím tóc ra rồi tết lại, ba mươi giây, không cần gương. Anh đứng cạnh cây xăng nhìn cô tết tóc, và cô biết anh nhìn, và cô tết chậm hơn một chút.
 
 Trong lúc chờ, anh mở điện thoại xem log. Bốn trăm hai mươi ô. Xanh. Anh Kiên đã nhắn lúc năm giờ sáng: *đêm qua k có dòng đỏ nào.*
@@ -458,20 +476,126 @@ Sáng, anh vẫn ra sân.
 
 Sáu giờ, dắt xe xuống, nổ máy, rẽ vào khu tập thể nhà Vũ. Từ hôm có phi thuyền, anh đến sân nhanh hơn mười hai phút, nên có thêm mười hai phút ném rổ trước khi Vũ dậy. Vũ ra sân lúc sáu giờ hai mươi, mắt nhắm mắt mở, tay cầm ổ bánh mì, và ngày nào cũng nói đúng một câu: "Idol có xe rồi thì idol đến sớm để khoe." Anh không cãi. Anh khoe thật.
 
-Tối Thứ Năm tuần đầu tháng năm, sau buổi thi thử, điện thoại anh rung liền bốn cái.
+Thứ Năm, mùng sáu tháng năm, là sinh nhật anh. Ở tầng mười bảy không ai biết, và anh không định để ai biết. Buổi trưa, lễ tân tầng một gọi anh xuống nhận một hộp bánh nhỏ, không thiệp, chỉ có một mẩu giấy viết tay: *Noted. 06.05.*
+
+Tối, sau buổi thi thử, điện thoại anh rung liền bốn cái.
 
 :::chat
-Học sinh hồng: THẦYYYY
-Học sinh hồng: 7.5
-Học sinh hồng: writing 7
-Học sinh hồng: 😭😭😭
+Học sinh: THẦYYYY
+Học sinh: 7.5
+Học sinh: writing 7
+Học sinh: 😭😭😭
 > sang úc chăn cừu đc r
-Học sinh hồng: 👊👊👊
+Học sinh: 👊👊👊
+Học sinh: mà facebook báo hôm nay sinh nhật anh
+Học sinh: 7.5 là quà
+Học sinh: em k mua gì đâu
+> quà xịn nhất năm
 :::
 
 Anh thả một cái 🥶 vào chữ *writing 7*. Rồi gỡ ra, thả một trái tim. Rồi gỡ ra, thả lại 🥶.
 
 Thứ Bảy đầu tiên của tháng năm, tối, anh ra sân pickup. Thứ Bảy thứ hai, anh ra muộn bốn mươi phút vì sếp nhờ sửa slide, và cả nhóm bắt anh chạy ba vòng sân phạt tội đi muộn. Anh chạy.
+
+Thứ Năm tuần sau, quán thứ mười ba trong danh sách cuối cuốn sổ hồng. Anh đến trước, gọi cho mình một cốc cà phê đen, và gọi thêm một miếng tiramisu, đặt sẵn trước cái ghế cô hay ngồi.
+
+Nhi đến, nhìn miếng tiramisu, nhìn anh. Rồi trước khi mở đề, cô đặt lên bàn một hộp giấy nhỏ: một miếng bánh mousse dâu.
+
+"Sinh nhật muộn," cô nói. "Không có nến. Nến tốn tiền."
+
+"Không cần đâu. Phí," anh nói, và kéo cái hộp về phía mình.
+
+Anh ăn trong lúc cô làm Task 2. Ăn chậm, từng thìa nhỏ, đến thìa cuối thì cạo cho sạch lớp kem dính ở thành hộp. Không mời cô miếng nào. Rồi anh cầm bài cô lên, khoanh một đoạn, bảo đoạn này phải viết lại theo khung.
+
+"Giám khảo cho em bảy rồi mà."
+
+"Khung là khung."
+
+"Nhưng mà—"
+
+"Khung là khung."
+
+Cô cãi lần thứ ba. Anh nói câu ấy lần thứ ba, cùng một giọng, như máy đọc số.
+
+Nhi đặt bút xuống. Không nhìn anh. Giọng cô phẳng như đọc đáp án:
+
+"Đúng mấy thằng Kim Ngưu tháng năm."
+
+"Là sao?"
+
+"Là thế."
+
+"Thế là thế nào?"
+
+Cô giơ bàn tay lên, đếm trên ngón, mặt không đổi.
+
+"Một. Cứng đầu. Bò mà. Bảy tháng em bảo anh gọi món khác, anh vẫn cà phê đen."
+
+"Hai. Tính tiền. Nhìn menu là môi anh động."
+
+"Ba. Mê đồ đẹp mà giả vờ không. Đi Crocs với tất trắng, nhưng story thì như tạp chí."
+
+"Khoan." Anh giơ tay. "Crocs với tất là đẹp vl. Đã thế còn tiện. Trời mưa đi giày là bay đôi giày, đi Crocs thì không. Cộng một độ bền."
+
+Cô không dừng.
+
+"Bốn." Cô chỉ đầu bút vào cái hộp bánh đã sạch trơn. "Bảo phí, rồi ăn hết. Không chừa em miếng nào."
+
+"Anh gọi tiramisu cho kid từ lúc vào quán rồi." Anh hất cằm về phía cái đĩa trước mặt cô, còn một nửa. "Có đi có lại."
+
+"Có đi có lại," cô nhắc lại, phẳng. "Tức là trả. Không phải nhận."
+
+"Năm. Chậm. Phi thuyền chậm nhất Hà Nội."
+
+"Sáu. Giữ đồ. Thẻ chết vẫn đeo. Trong ví có mẩu giấy gấp tư không cho ai xem."
+
+Anh bật cười. "Em đọc cung hoàng đạo à? Mười hai cung, tám tỉ người. Mỗi cung sáu trăm triệu người giống hệt nhau à?"
+
+"Em không tin." Cô gõ bút lên tờ giấy, một cái. "Em chỉ thấy nó đúng."
+
+Anh mở miệng định đưa ra thêm một phản ví dụ. Anh lục bốn ngón tay còn lại của cô. Không tìm được ngón nào sai.
+
+"Bảy," cô nói, rồi dừng. Ngón tay thứ bảy đứng một mình giữa không trung. "Kim Ngưu tháng tư thì hay ghen. Tháng năm thì không." Vẫn cái giọng phẳng ấy. "Đúng luôn."
+
+"Đúng chỗ nào?"
+
+"Anh ghép em với Phong." Cô vẫn không nhìn anh. "Ở Hàng Bông một lần. Ở quán trà Chùa Láng ba lần. Không ghen tí nào."
+
+Anh ngả ra sau ghế, xoay cốc cà phê một vòng.
+
+"Khoan. Kid muốn anh coi em với Phong không là gì," anh nói, chậm, như đọc lại một bài có lỗi lập luận. "Nhưng lại khai là anh ghép em với Phong mà không ghen." Anh dừng một nhịp, đúng chỗ. "Thế là ngầm định em thực sự có gì đó với Phong, và muốn anh ghen với cái *có gì đó* ấy à?"
+
+Nhi mở miệng. Không có chữ nào ra.
+
+Đỏ lên trước là hai vành tai, rồi lan xuống má, chậm, như mực thấm vào giấy. Cô không nhìn anh. Cô nhìn cái hộp bánh rỗng, như thể câu trả lời nằm ở đáy hộp.
+
+Anh nhìn cái đỏ ấy, và lần này anh đọc được nó. Anh đọc ngược lại câu cô vừa nói, từng chữ, như dò lại một dòng log.
+
+Cô không trách anh chọc cô. Cô trách anh không ghen.
+
+Ghép cô với Phong là đáng ghét, cô có quyền ghét. Nhưng một người đã có người yêu thì việc gì phải ghen khi học sinh của mình được người khác để ý? Không ai trên đời nghĩ đến chuyện người ấy *nên* ghen. Trừ khi có người muốn được người ấy ghen.
+
+Cô vừa nói ra điều ấy. Bằng giọng phẳng nhất của cô, đếm trên ngón tay thứ bảy, như đọc một dữ kiện.
+
+Và cô vừa nghe thấy mình nói. Anh thấy cô nghe thấy: cái đỏ dừng lại ở gò má một giây, rồi đỏ thêm một nấc.
+
+Sống lưng anh lạnh đi, đúng cái lạnh của những lần ý nghĩ chạy trước mà anh phải cắt ngang giữa câu. Bảy tháng, anh đọc ra mọi thứ ở mọi người. Chưa có thứ gì anh đọc ra mà anh sợ đến thế.
+
+Hai cái má cô bắt đầu phồng lên. Chầm chậm. Tròn dần, như hai cái bánh bao vừa nhấc nắp xửng.
+
+Anh nhận ra hai cái bánh bao ấy. Lần trước chúng phồng lên đúng như thế, ở một quán trà trên phố Chùa Láng, hai tuần trước, ba giây trước khi cả quán quay lại nhìn.
+
+"Em khóc đấy," Nhi nói. Giọng không còn phẳng. "Em khóc to lắm đấy nhé."
+
+Anh nhìn ra cửa kính. Ở góc phố có một cái biển đỏ, cây kem ốc quế mười nghìn. Lần trước một cây là đủ. Lần này, anh tính rất nhanh, có khi phải hai.
+
+"Thôi," anh giơ hai tay lên, như người đầu hàng một nửa. "Anh rút lại. Ngón thứ bảy đúng."
+
+Hai cái bánh bao xẹp xuống, nửa chừng. Cô cúi xuống bài, gạch một chữ, gạch rất mạnh, mạnh đến mức ngòi bút xước sang cả trang sau.
+
+Anh kéo nửa miếng tiramisu còn lại về phía cô thêm một gang tay. Anh nghĩ: con bé tiếc miếng bánh.
+
+Anh chọn nghĩ thế.
 
 ---
 

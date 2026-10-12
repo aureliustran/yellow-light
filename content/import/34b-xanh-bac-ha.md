@@ -388,6 +388,26 @@ Nhi ngồi lại ở bàn ăn, một mình, cạnh đĩa vỏ tôm anh bóc, x�
 
 ---
 
+Mười giờ, cô nằm trên giường, mở Instagram, và tự bảo mình chỉ vào xem story của Phong cho có lệ.
+
+Ngón cái cô không đi đến chỗ Phong. Nó đi đến cụm tin nổi bật có cái bìa đèn đường, bấm, vuốt qua mười mấy tấm trời mây, dừng ở tấm ấy. Cởi trần, quay lưng, tương phản gắt. Cô đã xem nó từ tháng một. Cô thuộc từng bình luận bên dưới như thuộc bộ đề quý này. Ba chữ của một cô gái lạ, kèm một giọt nước. Cô đã đọc ba chữ ấy to lên ở bậc thềm sân bóng, mặt tỉnh như đọc định nghĩa, và anh đỏ đến tận gáy.
+
+Bây giờ cô không đọc to lên được nữa.
+
+Nó đến trước khi cô kịp chặn. Hai cánh tay vòng qua tấm lưng ấy, hai bàn tay không gặp được nhau ở giữa. Mùi cái áo bomber mười một ngày treo trên móc sau cửa. Bốn vết chai ở gốc ngón tay anh. Và tay cô, không có chỗ nào để nắm, nên…
+
+Cô nắm tay lại. Thật chặt. Móng tay ấn vào lòng bàn tay mình, sâu đến mức cô nghe thấy cái đau trước khi thấy nó.
+
+Cô úp màn hình xuống ngực.
+
+*Ghi nhận không phải là thích.*
+
+Cô nói câu ấy một lần, trong đầu, rõ từng chữ. Lần này cô không nói lần thứ hai. Cô không còn tin nó đủ để nói lại.
+
+Cô mở bàn tay ra, nhìn. Bốn vết móng hình bán nguyệt, đỏ, xếp hàng trên lòng bàn tay như bốn dấu ngoặc đơn không có chữ ở giữa. Đấy là chỗ duy nhất cô được cào.
+
+---
+
 Mười một giờ đêm, cô mở ghi chú điện thoại.
 
 :::phone

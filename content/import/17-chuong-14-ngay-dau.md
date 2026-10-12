@@ -206,7 +206,9 @@ Nửa câu, bỏ lửng, xem anh có cúi xuống nhặt nửa còn lại không
 
 Chị Hạnh khựng lại một nhịp. Rồi cười, lần đầu cái cười tới mắt.
 
-"Mệt chứ em. Bên kinh doanh hỏi bao giờ xong, bên kỹ thuật bảo không biết, chị đứng giữa bịa ra một ngày…"
+"Mệt chứ em. Bên kinh doanh hỏi bao giờ xong, bên kỹ thuật bảo không biết, chị đứng giữa bịa ra một ngày…" Chị liếc sang hai cô gái bên cạnh, hạ giọng thêm một chút, nửa đùa. "Mà hòn đảo này có mỗi chị là người của lab thôi đấy. Trâm bên kinh doanh cho mượn, My bên marketing, Ngân bên hành chính. Hết dự án là ai về nhà nấy. Mượn thì phải trả, em ạ."
+
+Hà My cười, gắp một miếng chả. Trâm không cười.
 
 Chị kể. Anh hỏi thêm đúng hai câu, đúng chỗ chị muốn được hỏi. Nửa câu về anh Tuấn nằm lại trên bàn, giữa lọ tương ớt và hộp tăm, không ai nhặt.
 
@@ -304,7 +306,9 @@ Lúc về bàn, anh đi ngang cái ngăn kéo có cốc *ĐẠT*, không mở. A
 
 ---
 
-Năm giờ, chị Ngân thêm anh vào nhóm chat của lab. *Thiên Nhãn – Cả nhà ❤️.*
+Bốn giờ, tài khoản Microsoft Teams của anh được kích hoạt. Kênh *Thiên Nhãn – R&D* có hơn ba trăm tin: file, lịch họp, những câu hỏi có dấu chấm ở cuối. Ở đó người ta làm việc.
+
+Năm giờ, chị Ngân thêm anh vào nhóm Zalo của lab, cái nhóm mà ai cũng gọi là nhóm thật. *Thiên Nhãn – Cả nhà ❤️.*
 
 Tin chào mừng của sếp hiện lên ngay: *Chào mừng Thuyên, nhân tố đột phá của Thiên Nhãn 🔥🔥🔥*. Chị Hạnh thả tim đầu tiên.
 

@@ -190,6 +190,8 @@ MC liếc xuống danh sách khách mời trên máy tính bảng, rồi mỉm c
 
 Một bạn tình nguyện viên chạy xuống đưa micro. Cô gái đứng dậy. Cao hơn anh tưởng. Hay là do đôi giày.
 
+Mấy hàng ghế phía sau ngoái lên. Hàng công ty trước, rồi cả mấy hàng sinh viên gần đó. Không ai nhìn cái micro. Người ta nhìn một cái áo len hồng đứng giữa một hàng vest. Từ trên sân khấu anh không nghe được, nhưng đọc được: một chị ở hàng công ty nghiêng sang người bên cạnh, môi mấp máy ba chữ, mắt không rời cô. Người kia gật, như thế là đủ giải thích mọi thứ.
+
 Mắt anh lại làm việc trước đầu. Dưới đèn hội trường, má cô hồng lên, không phải phấn. Lọn tóc xoăn vắt qua vai áo len. Cái cổ tay nhỏ cầm micro, lộ ra dưới ống tay áo quá dài.
 
 Hai giây. Ít hơn ở ngã tư một giây. Rồi anh kéo mình về.

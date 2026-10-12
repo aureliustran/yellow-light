@@ -484,7 +484,9 @@ Anh dắt xe đến A-17. Dựng chân chống. Đứng lùi lại hai bước, 
 
 Anh lấy tay áo lau một giọt nước đọng trên yếm xe. Rồi lau thêm một chỗ không có gì.
 
-Trưa, anh ngồi ở bàn mình, cái cốc "ĐẠT" để bên cạnh, mở app ngân hàng. Nhìn số dư.
+Sáng nay, lần đầu tiên, anh lấy cái cốc *ĐẠT* ra khỏi ngăn kéo, rửa sạch lớp cà phê khô của người cũ, pha trà vào đấy, đặt nó cạnh màn hình. Trưa, anh ngồi ở bàn mình, cái cốc bên cạnh, mở app ngân hàng. Nhìn số dư.
+
+Lương tháng ba mỏng hơn mọi tháng, tháng ngồi chờ không có giờ làm thêm. Nhưng đứng sau nó là bốn kỳ lương có OT, tiền trực Tết gấp năm, học phí gấp đôi của học sinh, và phần lương thực tập để yên từ năm ngoái.
 
 Theo thói quen, anh bắt đầu quy đổi. Một bát bún riêu ba mươi nghìn. Số dư chia cho ba mươi nghìn. Một con số dài. Anh chia tiếp cho ba trăm sáu mươi lăm.
 
@@ -540,7 +542,7 @@ Chủ tọa: Bố em dặn em à?
 Chủ tọa: Thế thì chị tin bố em =))
 :::
 
-Anh úp điện thoại xuống bàn. Cái cốc "ĐẠT" bên cạnh còn nửa cốc trà nguội. Ở bàn đối diện, anh Bảo tháo tai nghe ra một bên, nhìn anh một giây, như nhìn một dòng code chạy được mà không hiểu vì sao, rồi đeo lại.
+Anh úp điện thoại xuống bàn. Cái cốc *ĐẠT* bên cạnh còn nửa cốc trà nguội. Ở bàn đối diện, anh Bảo tháo tai nghe ra một bên, nhìn anh một giây, như nhìn một dòng code chạy được mà không hiểu vì sao, rồi đeo lại.
 
 Anh không biết mặt mình lúc ấy trông thế nào. Anh chỉ biết trong ví, sau cái thẻ sinh viên, có một mẩu giấy xé từ quyển lịch, gấp làm tư, bốn dòng, nét bút bi nghiêng về bên phải.
 

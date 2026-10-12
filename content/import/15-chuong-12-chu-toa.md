@@ -353,6 +353,12 @@ Cô quay người, rồi dừng lại. Cái dây đeo thẻ *Technical Expert* c
 
 Rồi cô đi về phía phòng họp, gót giày gõ đều trên sàn hành lang. Lúc đi ngang qua bức tường kính, cô đưa tay lên chỉnh lại cái kẹp tóc, không nhìn vào kính.
 
+Đến cửa phòng họp thì cô bị giữ lại. Một thầy tóc hoa râm, thẻ *Faculty Advisor*, đang đứng với một ông khách đeo thẻ đại sứ quán. Thầy đặt tay lên vai cô, xoay cô về phía ông khách, và giới thiệu bằng tiếng Anh: tên cô trước, rồi đến thành tích, theo đúng thứ tự ấy, trôi như đọc một bản lý lịch đã thuộc lòng. Trưởng đoàn của Học viện ở hội nghị quốc tế năm ngoái. Giải nhất tranh biện. Ông khách gật, bắt tay cô lâu hơn phép lịch sự một nhịp, rồi nhắc lại tên cô, như người ghi một cái tên vào sổ để sau này còn dùng.
+
+Cô bắt tay, cúi đầu vừa đủ, không thừa một li, nói hai câu rồi lui ra. Mọi động tác đều gọn, như đã làm nghìn lần trước khi biết vì sao phải làm.
+
+Anh đứng cạnh máy pha cà phê, nhìn. Ở đây không ai cần hỏi cô là ai. Người lớn nói hộ cô.
+
 Anh rút điện thoại ra, nhìn dãy số lạ, gõ tên lưu.
 
 *Diệp Anh*
