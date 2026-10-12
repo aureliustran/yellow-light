@@ -109,6 +109,10 @@ const hasTranslations = c ? /\[\[(en|ht):|^:::dich/m.test(c.body) : false;
           ) : (
             <div class="empty"><div class="dir">Trước</div><div class="name">Đây là phần đầu tiên</div></div>
           )}
+          <a class="toc-link" href="/#muc-luc">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 6h13M8 12h13M8 18h13M3.5 6h.01M3.5 12h.01M3.5 18h.01" /></svg>
+            <span>Quay về mục lục</span>
+          </a>
           {next ? (
             <a class="next" href={`/doc/${next.slug}`} rel="next">
               <div class="dir">Tiếp →</div>

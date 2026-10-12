@@ -568,8 +568,19 @@ dialog.login p.rename-error[hidden] { display: none; }
 .chapter-end .scene-break { margin: 0; }
 .chapter-end p { margin: 0; font-family: var(--serif); font-style: italic; font-size: 20px; }
 
-.pager { display: flex; flex-wrap: wrap; gap: 16px; }
-.pager > * { flex: 1 1 240px; padding: 20px 24px; border-radius: 18px; text-decoration: none; }
+/* Trước | Quay về mục lục | Tiếp; stacked in the same order on narrow screens */
+.pager { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); gap: 16px; }
+.pager > * { padding: 20px 24px; border-radius: 18px; text-decoration: none; }
+.pager .toc-link {
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px;
+  min-width: 132px; padding: 20px 18px; text-align: center; font-size: 14px; font-weight: 600; color: var(--ink-2);
+}
+.pager .toc-link:hover { color: var(--ink); }
+.pager .toc-link:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; }
+@media (max-width: 680px) {
+  .pager { grid-template-columns: minmax(0, 1fr); }
+  .pager .toc-link { flex-direction: row; min-height: 56px; padding: 14px 18px; }
+}
 .pager .empty { border: 1px dashed var(--line); color: var(--ink-2); }
 .pager a { border: 1px solid var(--line); background: var(--card); }
 .pager a.next { border-color: var(--amber); }
