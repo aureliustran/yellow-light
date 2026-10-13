@@ -88,6 +88,8 @@ divider between headers and body: drop it.
 per line, in one paragraph. Keep `$ ` at the start of shell commands. Keep code
 exactly as typed, even when it contains `*` or `_` (the editor may then show a
 pair of `*` as italic; that is acceptable).
+A Markdown heading line inside the file (`# Problem`) is kept as typed but wrapped
+in bold (`**# Problem**`), because the checker rejects lines starting with `# `.
 
 ### Handwritten note: `:::note [ink] Title`
 `*[Ghi chú viết tay – Title]*` (`*[Ghi bên lề sách – Title]*` for `ink`), then the
@@ -146,6 +148,47 @@ table in the same change.
 | 🏀 | (bóng rổ) |
 | 🔥 | (lửa) |
 | 🎉 | (tung hoa) |
+| 👀 | (liếc) |
+| 🙄 | (đảo mắt) |
+| 😅 | (cười trừ) |
+| 🥺 | (năn nỉ) |
+| 😌 | (mãn nguyện) |
+| 🥶 | (lạnh run) |
+| 🎀 | (nơ hồng) |
+| 😤 | (hừ) |
+| 📝 | (ghi chép) |
+| 🫠 | (tan chảy) |
+| 🤍 🩷 | <3 |
+| 💔 | </3 |
+| 🥹 | (rưng rưng) |
+| 🤭 | (che miệng cười) |
+| 🥰 | (cười tít) |
+| 😘 | (hôn gió) |
+| 🤫 | (suỵt) |
+| 🫡 | (chào) |
+| 👋 | (vẫy tay) |
+| 👊 | (đấm) |
+| 💅 | (sơn móng) |
+| ☠️ | (chết) |
+| 🥀 | (hoa héo) |
+| 🌹 | (hoa hồng) |
+| 🌸 | (hoa) |
+| 📌 | (ghim) |
+| 📸 | (chụp ảnh) |
+| ✍️ | (ghi) |
+| 🔍 | (tìm) |
+| 📘 | (sách) |
+| ☂️ | (ô) |
+| 🌧️ | (mưa) |
+| 🐟 | (con cá) |
+| 🍵 | (trà) |
+| 🚀 | (tên lửa) |
+| 🌌 | (trời đêm) |
+| 🌅 | (hoàng hôn) |
+| 🎆 | (pháo hoa) |
+| ✨ | (lấp lánh) |
+
+A run of the same emoji (`😭😭😭`) gets its text once.
 
 Emoticons the author typed himself (`:))`, `=)))))`, `:v`, `<3`) are text, not
 emoji: keep them exactly.

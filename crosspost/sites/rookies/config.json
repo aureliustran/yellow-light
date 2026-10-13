@@ -15,6 +15,10 @@
     "modeMenuItem": {
       "publish": "Đăng",
       "draft": "Lưu bản thảo"
+    },
+    "modeMenuItemEdit": {
+      "publish": "Đăng & tiếp tục chỉnh sửa",
+      "draft": "Lưu bản thảo"
     }
   },
   "remoteViewUrl": "https://rookies.vn/truyen/den-vang/{id}"

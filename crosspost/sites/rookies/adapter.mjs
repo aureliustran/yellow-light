@@ -132,12 +132,35 @@ export async function open(cfg, { profileDir, headless = false } = {}) {
     return got; // exactly what the editor holds: the site must give this back after saving
   }
 
-  async function save(mode) {
-    const item = r.modeMenuItem[mode];
+  // The "Lưu ▾" menu differs: the new-chapter page has "Đăng" / "Lưu bản thảo",
+  // an existing chapter has "Đăng & tiếp tục chỉnh sửa" / "Lưu bản thảo" (and no plain "Đăng").
+  async function save(mode, { existing = false } = {}) {
+    const item = (existing ? r.modeMenuItemEdit : r.modeMenuItem)[mode];
     await page.locator(SEL.saveMenu).last().click();
     await page.getByText(item, { exact: true }).last().click();
     const confirm = page.locator(SEL.confirm);
     if (await confirm.isVisible({ timeout: 5000 }).catch(() => false)) await confirm.click();
+  }
+
+  // After saving, rookies.vn shows a popup ("Đăng thành công!" with Tiếp tục tạo chương mới /
+  // Đóng / Thoát) and stays on the same URL, or shows a SweetAlert error. Returns when it is done.
+  async function waitSaved({ watchUrl = false } = {}) {
+    const ok = page.getByText(/^\s*[\p{L} ]{0,25}thành công!?\s*$/iu).first(); // a short popup line, not story text
+    const err = page.locator('.swal2-popup');
+    const outcome = await Promise.race([
+      ok.waitFor({ state: 'visible', timeout: 30000 }).then(() => 'ok'),
+      // Only on the new-chapter page: an existing chapter's URL already matches.
+      ...(watchUrl ? [page.waitForURL(/\/author\/chinh-sua-chuong\/[^/]+\/\d+/, { timeout: 30000 }).then(() => 'moved')] : []),
+      err.waitFor({ state: 'visible', timeout: 30000 }).then(() => 'error'),
+    ]).catch(() => 'timeout');
+    if (outcome === 'error') {
+      const msg = (await page.locator('.swal2-html-container').innerText().catch(() => '')).replace(/\s+/g, ' ').trim();
+      if (!/thành công/i.test(msg)) throw new Error('rookies.vn báo lỗi khi lưu: ' + (msg || '(không có nội dung)'));
+    }
+    // No popup at all (timeout): carry on; the reload-and-compare in verify() decides.
+    if (outcome === 'timeout') await page.waitForLoadState('networkidle', { timeout: 15000 }).catch(() => {});
+    await page.getByRole('button', { name: /^\s*đóng\s*$/i }).first().click({ timeout: 5000 })
+      .catch(() => page.getByText(/^\s*đóng\s*$/i).first().click({ timeout: 5000 }).catch(() => {}));
   }
 
   // Reload the chapter and check that the site kept exactly our text.
@@ -152,14 +175,21 @@ export async function open(cfg, { profileDir, headless = false } = {}) {
     if (text !== expected) throw new Error('Đã lưu nhưng nội dung trên rookies.vn khác bản đã gửi. Mở chương để xem.');
   }
 
+  const normTitle = (t) => t.normalize('NFC').toLowerCase().replace(/\s+/g, ' ').trim();
+
   async function create(post) {
     await ensureSignedIn();
     await page.goto(`${base}/author/tao-chuong/${r.storyId}`, { waitUntil: 'domcontentloaded' });
     const expected = await fillEditor(post);
     await save(post.mode);
-    // After saving, the page moves to /author/chinh-sua-chuong/<story>/<new id>.
-    await page.waitForURL(/\/author\/chinh-sua-chuong\/[^/]+\/\d+/, { timeout: 60000 });
-    const id = /\/chinh-sua-chuong\/[^/]+\/(\d+)/.exec(page.url())[1];
+    await waitSaved({ watchUrl: true });
+    // The page does not move to the new chapter, so find it in the chapter list by title.
+    let id = /\/chinh-sua-chuong\/[^/]+\/(\d+)/.exec(page.url())?.[1];
+    if (!id) {
+      const same = (await listRemote()).filter((x) => normTitle(x.title) === normTitle(post.title));
+      if (same.length !== 1) throw new Error(`Đã đăng "${post.title}" nhưng tìm thấy ${same.length} chương cùng tên trong mục lục rookies.vn. Kiểm tra mục lục rồi chạy lại (worker sẽ tự nhận lại chương).`);
+      id = same[0].id;
+    }
     await verify(id, post, expected);
     return { id, url: editUrl(id) };
   }
@@ -169,8 +199,8 @@ export async function open(cfg, { profileDir, headless = false } = {}) {
     await page.goto(editUrl(id), { waitUntil: 'domcontentloaded' });
     if (!page.url().includes(`/${id}`)) throw new Error(`Không mở được chương ${id} trên rookies.vn (đã bị xóa?)`);
     const expected = await fillEditor(post);
-    await save(post.mode);
-    await page.waitForLoadState('networkidle', { timeout: 30000 }).catch(() => {});
+    await save(post.mode, { existing: true });
+    await waitSaved();
     await verify(id, post, expected);
     return { id, url: editUrl(id) };
   }

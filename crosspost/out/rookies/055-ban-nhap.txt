@@ -1,0 +1,490 @@
+Email đến lúc tám giờ mười lăm sáng thứ Hai, và nó không gửi cho anh Tuấn.
+
+*[Email]*
+Từ: Văn phòng Giám đốc Khối Công nghệ
+Đến: Thuyên – R&D Thiên Nhãn
+Chủ đề: **Trao đổi tài liệu kỹ thuật giai đoạn hai**
+
+Chào em,
+
+Anh Khải muốn trao đổi trực tiếp với em một số điểm trong tài liệu kỹ thuật lab đã gửi.
+
+Thời gian: 10h00 thứ Năm 27/5. Địa điểm: phòng họp 18B.
+
+Em xác nhận giúp chị nhé.
+
+Thư ký Văn phòng
+
+Anh đọc dòng *Đến*. Một tên. Không *Cc*.
+
+Anh đọc lại cả email lần nữa, chậm, như đọc một dòng log báo lỗi mà không báo lỗi gì.
+
+Có khi nào chỉ là thế thôi. Sếp lớn đọc tài liệu, có chỗ không hiểu, gọi người viết lên hỏi. Hồi tháng tư, ở buổi review, Khải đã nói *tôi muốn đọc tài liệu kỹ thuật đầy đủ*, và người đọc tài liệu đầy đủ thì có câu hỏi đầy đủ. Hợp lý. Sạch.
+
+Và ở dưới cái hợp lý ấy là một câu anh không nói ra, kể cả với chính mình: tầng mười tám gọi tên anh. Không gọi tên trưởng nhóm. Anh đẩy câu ấy đi, như đẩy cái cốc ra xa mép bàn. Cái cốc vẫn ở trên bàn.
+
+Nhưng anh không đọc email này bằng mắt của Khải. Anh đọc nó bằng mắt của tầng mười bảy, vì tầng mười bảy mới là chỗ nó sẽ nổ.
+
+Một email từ tầng mười tám gọi riêng kỹ sư triển khai lên, không qua trưởng nhóm, ba tuần trước khi trưởng nhóm phải nộp danh sách nhân sự production. Nếu anh Tuấn biết chuyện này từ miệng anh, đấy là một email. Nếu anh Tuấn biết từ miệng bất cứ ai khác, đấy là một bản án.
+
+Và ở tầng mười bảy bây giờ có một người chuyên mang câu chuyện từ chỗ này sang chỗ khác, nguyên văn.
+
+Anh mở ngăn kéo. Ba quân domino vẫn đứng dọc mép bàn từ thứ Sáu, không ai chạm vào. Anh không thêm quân nào. Anh bấm *Chuyển tiếp*.
+
+* * *
+
+Ô *Đến*: anh Tuấn.
+
+Ô nội dung, lần thứ nhất:
+
+*Anh ơi, văn phòng anh Khải gửi riêng em email này. Em nghĩ là nhầm, vì phần này anh định hướng. Anh đi cùng em nhé.*
+
+Anh đọc lại. *Em nghĩ là nhầm.* Không ai tin văn phòng giám đốc khối gửi nhầm. Câu ấy giả. Xóa.
+
+Lần thứ hai:
+
+*Anh ơi, văn phòng anh Khải gửi riêng em. Em không muốn lên một mình. Anh đi cùng em được không ạ.*
+
+*Không muốn.* Chữ ấy để lộ là anh đã nghĩ đến chuyện lên một mình. Xóa.
+
+Lần thứ ba anh không viết câu nào về mình.
+
+*Anh ơi, văn phòng anh Khải gửi email này lúc 8h15. Em chưa xác nhận. Em đợi anh sắp xếp lịch rồi mình cùng lên ạ.*
+
+Anh nhìn câu ấy. Không một chữ nào sai. Không một chữ nào thừa. *Em chưa xác nhận* là một tấm khiên: nó cho anh Tuấn thấy quyền quyết định vẫn nằm trên bàn anh Tuấn. *Lúc 8h15* là một tấm khiên nữa: nó cho thấy anh chuyển tiếp ngay, không giữ lại một giờ nào. Còn *mình cùng lên* thì không cần nghĩa gì cả. Anh Tuấn sẽ tự điền vào đó cái nghĩa anh ta muốn.
+
+Tám giờ hai mươi sáu, anh bấm gửi.
+
+Tám giờ ba mươi mốt, cửa phòng anh Tuấn mở.
+
+* * *
+
+"Vào đây em."
+
+Anh vào. Cửa đóng. Anh Tuấn không ngồi sau bàn. Anh ta ngồi ở cái ghế sofa da cạnh cửa sổ, cái ghế dành cho khách từ khối khác, và chỉ cho anh ngồi cái ghế đối diện. Anh đọc được cái ghế ấy trước khi đọc được mặt anh Tuấn: hôm nay không phải sếp gọi lính. Hôm nay là hai người ngồi nói chuyện.
+
+Anh ngồi xuống, không vội. Lưng không chạm tựa ghế, hai bàn tay đặt yên trên đùi. Bảy tháng, lần đầu tiên anh không ngồi ở mép ghế trong căn phòng này.
+
+"Văn phòng anh Khải gửi riêng em," anh Tuấn nói.
+
+"Dạ."
+
+"Sao em không xác nhận luôn?"
+
+Câu thử. Anh nghe nó như nghe một cái gõ nhẹ vào vỏ dưa: không cần câu trả lời, cần cái tiếng.
+
+"Phần lõi là phần anh báo cáo lên tầng mười tám từ đầu ạ. Em lên một mình thì anh Khải hỏi em, em trả lời, mà anh không ở đấy." Anh dừng, đúng một nhịp. "Lần trước có anh ở đấy, mình đỡ được nhau."
+
+*Đỡ được nhau.* Không phải *em đỡ anh*. Anh Tuấn nghe chữ *nhau* và vai anh ta hạ xuống một chút, như người vừa được trả lại một thứ tưởng đã mất.
+
+Rồi vai ấy lại nhô lên.
+
+"Có người bảo anh," anh Tuấn nói, chậm, mắt nhìn ra cửa sổ, "là em nói với mỗi người một kiểu."
+
+Đây rồi.
+
+Anh đã chuẩn bị cho câu này từ đêm thứ Sáu, từ dòng số một trong cái file năm dòng, dòng anh đã gạch đi. *Nhận với lão thì lão biết mình có hai giọng.* Anh đã gạch nó vì nhận là thua. Nhưng hai đêm sau, đến thứ Bảy, lúc ném trượt quả thứ ba liền ở sân khu tập thể, anh nghĩ ra một điều mà đêm thứ Sáu anh chưa nghĩ ra: nhận không phải là thua, nếu người nhận được quyền chọn mình nhận cái gì.
+
+"Dạ," anh nói. "Em nói với mỗi người một kiểu thật."
+
+Anh Tuấn quay lại nhìn anh.
+
+"Ở bàn ăn, em có hùa với mọi người vài câu. Em nhận." Anh nói đều, không nhanh, không chậm, giọng của người đọc lại một biên bản. "Anh biết lab mình mà. Ở đây mà bị coi là người của sếp thì không ai nói gì trước mặt mình nữa. Em mà không hùa thì em ngồi ăn một mình, mà em ngồi ăn một mình thì em không biết họ đang nghĩ gì." Một nhịp. "Về anh."
+
+Im lặng. Ngoài cửa sổ, Phạm Hùng chạy hai chiều không nghỉ.
+
+"Thế họ nghĩ gì về anh?"
+
+Anh Tuấn hỏi nhỏ. Không phải giọng sếp. Giọng của người hỏi bác sĩ kết quả xét nghiệm.
+
+Và ở đây, anh nhận ra mình phải đưa ra một thứ. Một người tự nhận là tai mắt thì phải có cái gì trong tai. Anh không có gì sẵn. Anh có mười hai cái chấm và những mũi tên vẽ ở mặt sau tờ chương trình họp.
+
+"Bên khối kinh doanh muốn đưa người của họ sang cầm phần đầu mối đối tác ạ," anh nói. "Từ hôm có email production, Trâm đi ba vòng nói chuyện với chị Hạnh. Em không biết họ đề xuất ai. Nhưng nếu danh sách nộp lên mà dòng ấy không phải người của anh, thì sau tháng bảy, mọi đối tác gọi đến lab sẽ gọi qua một người không báo cáo cho anh."
+
+Câu ấy đúng. Từng chữ đều đúng. Anh đã thấy Trâm đi ba vòng. Anh không biết Trâm nói gì. Anh đặt hai điều ấy cạnh nhau và để anh Tuấn tự ghép.
+
+Anh Tuấn gật, rất chậm. Gật như người vừa được người khác đưa cho một tấm bản đồ của chính căn nhà mình.
+
+"Em thấy chưa," anh ta nói, không rõ với ai. Rồi, với anh: "Cả lab này…"
+
+Anh Tuấn không nói hết câu. Không cần. Anh đã nghe hết câu ấy hồi tháng tư: *cả lab chỉ có em thật lòng với anh*. Lần này anh Tuấn nuốt nó lại, vì lần này anh Tuấn biết có người đang đếm những câu anh ta nói.
+
+Ba câu, anh nghĩ. Một người hơn mình mười một tuổi, đứng trên mình hai bậc, vừa phải nuốt lại lời của chính mình, và anh chỉ cần ba câu. Không phải vui. Anh ngạc nhiên vì nó dễ.
+
+Rồi một ý nghĩ đến, khô như một dòng chú thích trong code: *lão cần được tin như xe cần xăng.*
+
+"Thứ Năm anh đi cùng em," anh Tuấn nói. "Em xác nhận đi. Ghi tên anh vào."
+
+"Dạ."
+
+Anh đứng dậy. Ở cửa, anh Tuấn nói thêm, giọng đã về lại giọng sếp:
+
+"Người bảo anh câu ấy, em không cần biết là ai."
+
+"Em không hỏi ạ," anh nói.
+
+Anh không hỏi. Anh đã biết từ hai giờ mười chiều thứ Sáu.
+
+Về bàn, anh lật tờ chương trình họp tuần trước, chỗ ba dòng viết tay. Cạnh số ②, cạnh nét chéo hôm thứ Năm, anh viết thêm một chữ: *lại*. Cạnh số ③: *lão nghe từ mình trước. ai cầm bằng chứng thì cũng là bằng chứng cũ.* Số ① anh để trống. Danh sách chưa ai viết.
+
+Rồi anh mở hộp domino. Hai quân. Một – bốn, cho cái email chuyển tiếp lúc tám giờ hai mươi sáu. Một – năm, cho cái chỗ ngồi trên sofa da và câu nói về Trâm. Anh dựng chúng sau ba quân cũ. Năm quân.
+
+Trâm sẽ không bao giờ biết tên mình vừa được đặt lên bàn anh Tuấn như một quân cờ. Anh tự bảo: Trâm có đi ba vòng thật. Anh chỉ kể lại.
+
+* * *
+
+Thứ Ba là ngày anh không làm gì cả, và đấy là phần khó nhất.
+
+Anh chỉ quan sát.
+
+Hà My vào phòng anh Tuấn lúc chín giờ, như mọi ngày. Ra lúc chín giờ mười hai. Mười hai phút. Tuần trước là bốn mươi. Cô ra với một tập giấy trên tay và cái cười hơi dài như mọi khi, nhưng cái cười ấy tắt nhanh hơn mọi khi một chút, tắt ngay khi cô quay lưng lại với cánh cửa.
+
+Chị Ngân thấy. Chị Ngân thấy mọi thứ xảy ra trong vòng ba mét quanh cánh cửa ấy. Chị không nhìn anh. Chị gõ phím nhanh hơn.
+
+Buổi trưa, bún chả. Chị Hạnh gắp cho anh hai miếng chả như mọi lần. Hà My kể chuyện con mèo nhà cô học được cách mở tủ lạnh. Trâm hỏi anh tuần sau có rảnh tối thứ Tư không, có một quán lẩu mới mở. Anh bảo để anh xem lịch.
+
+Không ai hỏi về lão. Lần đầu tiên.
+
+Anh gắp miếng chả chị Hạnh vừa bỏ vào bát, ăn, không nghĩ gì về giá bát bún hôm nay. Có một thời anh quy mọi thứ ra bát bún riêu — một cái USB, một chiếc áo, một suất ăn ngoài — bát bún riêu khu tập thể hai mươi nghìn một bát, đơn vị duy nhất anh từng tin. Bây giờ bát bún chả trước mặt chỉ là bát bún chả. Anh không quy đổi. Anh không nhận ra là mình đã thôi quy đổi từ bao giờ, cũng không nhận ra rằng chính việc không nhận ra ấy mới là điều đáng để nhận ra.
+
+Lúc về, đi qua sảnh, chị Hạnh đi chậm lại cho đến khi đi ngang hàng anh.
+
+"Dạo này em hiền với lão nhỉ," chị nói. Không phải câu hỏi.
+
+"Dạo này lão hiền với em, chị ạ."
+
+Chị Hạnh cười, cái cười không lộ răng. Rồi chị nói, nhỏ hơn, mắt nhìn thẳng về phía thang máy:
+
+"Có chuyện gì em cần chị nói với ai thì bảo chị nhé."
+
+Anh nghe câu ấy như nghe một tờ giấy nợ được đẩy qua bàn, giấy đã ký sẵn, chỉ để trống ô số tiền.
+
+"Em cảm ơn chị," anh nói. "Chưa cần đâu ạ."
+
+*Chưa.* Chị Hạnh nghe ra chữ ấy. Anh thấy chị nghe ra. Chị gật, bấm thang máy, và không nói gì thêm cho đến tầng mười bảy.
+
+* * *
+
+Đêm thứ Ba, anh mở lại file năm dòng.
+
+Dòng năm vẫn chưa gạch: *để My tự mang lên một thứ sai.*
+
+Bây giờ anh biết thứ sai ấy là gì. Anh đã biết từ sáng thứ Hai, từ cái lúc anh bấm chuyển tiếp, chỉ là đến đêm nay anh mới cho phép mình nhìn thẳng vào nó.
+
+Anh Tuấn đã biết về cuộc họp thứ Năm. Anh Tuấn đã được mời đi cùng. Đó là sự thật, và sự thật ấy đang nằm trong hộp thư của anh Tuấn với dấu giờ tám giờ hai mươi sáu sáng thứ Hai. Hà My thì chưa biết sự thật ấy. Hà My chỉ biết những gì đi qua máy photo, qua bàn bún chả, qua những màn hình người khác quên khóa.
+
+Nếu Hà My nhìn thấy một phiên bản khác của sự thật ấy. Một phiên bản trong đó Thuyên định lên tầng mười tám một mình, sau lưng anh Tuấn. Thì cô sẽ làm gì.
+
+Cô sẽ làm đúng cái việc cô giỏi nhất. Cô sẽ mang nó vào phòng sếp, nguyên văn.
+
+Và anh Tuấn sẽ mở hộp thư.
+
+Anh chưa viết vội. Anh vẽ cây trước, như vẽ các nhánh của một hàm có bốn lệnh *if*, và với mỗi nhánh, anh hỏi: ở nhánh này mình mất gì.
+
+*[Ghi bên lề sách]*
+nếu My không qua bàn → không có gì xảy ra. mình mất 1 tin nhắn.
+nếu My qua, chỉ copy file, không đọc nháp → không có gì xảy ra. My sạch. mình sai.
+nếu My đọc nháp nhưng không mang lên → My đã biết dừng. mình biết thêm 1 điều.
+nếu My đọc nháp và mang lên → lão mở hộp thư → thấy mail 8h26 "mình cùng lên"
+→ lão hỏi: ảnh này chụp ở máy ai?
+→ My không trả lời được mà không tự nhận.
+
+Anh nhìn bốn nhánh. Ở ba nhánh đầu, anh không mất gì. Ở nhánh thứ hai, anh còn sẵn sàng là người sai. Chỉ ở nhánh thứ tư mới có người mất, và người ấy phải tự đi bốn bước để đến đó: qua bàn, đọc, chụp, mang lên. Không bước nào anh đẩy.
+
+Chìa khóa của cả cái cây là dấu giờ tám giờ hai mươi sáu. Một sự thật đã nằm trong hộp thư lão từ sáng thứ Hai, trước khi có bất cứ bản nháp nào. Ảnh chụp màn hình thì ai cũng làm giả được. Dấu giờ của máy chủ thư thì không ai làm giả được.
+
+Nói cho gọn: anh không cần lừa lão. Anh chỉ cần để lão tự đặt hai thứ cạnh nhau. Một thứ thật anh đưa từ trước. Một thứ giả My mang đến sau.
+
+Anh viết dòng thứ sáu dưới dòng năm:
+
+*[cach_doi_pho.md @5]*
+5. để My tự mang lên một thứ sai.
+6. bản nháp. thư trả lời văn phòng a Khải: "em lên một mình được ạ. a Tuấn không nắm phần này, e xin phép không mời a ấy." để trên màn hình. không gửi.
+
+Anh nhìn dòng sáu.
+
+Không gửi. Không có gì được gửi đi. Không có lời nói dối nào đến tai ai. Chỉ có một bản nháp trên màn hình của chính anh, trên máy của chính anh, và một người không được phép đọc nó.
+
+Nếu cô không đọc, không có gì xảy ra.
+
+Nếu cô đọc, thì người làm sai là cô.
+
+Anh biết đấy là một câu nói dối. Không phải với ai khác. Với chính anh. Một bản nháp được viết ra để người khác đọc thì không còn là bản nháp. Nó là một bức thư gửi qua đường tắt.
+
+Anh dò lại điều ai cũng biết mà không ai nói: không được để ai thấy mình đang tranh. Bản nháp không gửi. Tin nhắn chỉ nhờ copy một file. Không ai thấy anh tranh. Người bị thấy, nếu có, sẽ là người cầm điện thoại chụp màn hình máy người khác. Hợp lệ, anh nghĩ. Rồi anh nghĩ thêm: hợp lệ theo một điều mà chính anh vừa đặt tên cho nó.
+
+Anh gập laptop, nằm xuống. Không ngủ được. Dậy. Rửa mặt. Không phải năm lần như thứ Năm tuần trước. Một lần. Anh nhìn vào gương lâu hơn mặt nước.
+
+* * *
+
+Thứ Tư, ba giờ năm mươi chiều.
+
+Anh mở một cửa sổ soạn thư, gõ bản nháp. Gõ xong, anh đọc lại, và câu đầu tiên sai. Quá sạch. Một người thật sự định đi một mình sau lưng sếp thì không viết thư cho văn phòng giám đốc khối bằng giọng tuyên bố. Họ viết bằng giọng xin.
+
+Xóa.
+
+Gõ lại:
+
+*Dạ chị ơi, em xác nhận 10h thứ Năm ạ. Em xin phép lên một mình được không ạ, vì phần này anh Tuấn không trực tiếp nắm, em sợ anh ấy lên thì mất thời gian của anh Khải. Em cảm ơn chị.*
+
+Anh đọc lại. Đúng giọng. Đúng giọng của anh, cái giọng *dạ* và *ạ* anh dùng với tầng mười tám, cái giọng Vũ nhại ở sân bóng hôm mười lăm tháng năm, *Dạ anh~*. Giọng ấy giờ thành một thứ đồ nghề.
+
+Anh để cửa sổ soạn thư mở, kéo nó ra giữa màn hình. Rồi mở Teams trên máy tính, tìm tên Hà My.
+
+Gõ: *chị My ơi, file kế hoạch truyền thông phần kỹ thuật em sửa xong rồi, em để sẵn trên máy, chị qua bàn em copy nhé, em xuống pantry pha trà tí*.
+
+Ngón tay anh dừng trên phím Enter.
+
+Ở một quầy sushi sau Nhà hát Lớn, tháng tư, một người hỏi anh bằng giọng chủ tọa: *Có ai bị hại không?* Và anh trả lời: *Chưa.*
+
+Có ai bị hại không.
+
+Hà My. Nếu cô qua bàn anh, nếu cô chỉ copy file rồi đi, thì không ai. Nếu cô đọc bản nháp, nếu cô cầm điện thoại lên, nếu cô mang nó vào phòng sếp, thì…
+
+Anh bấm Enter trước khi nghĩ hết câu.
+
+Tin nhắn hiện lên, hai dấu tích xám. Một giây. Hai dấu tích xanh.
+
+*ok em, chị qua liền (hôn gió)*
+
+Anh đứng dậy, cầm cốc giấy, đi về phía pantry. Không ngoái lại. Không nhanh, không chậm. Đi ngang bàn anh Kiên, anh Kiên không ngẩng lên. Đi ngang bàn chị Ngân, chị Ngân đang nghe điện thoại.
+
+Pantry có một ô kính mờ nhìn ra hành lang. Từ chỗ máy nước nóng, qua lớp kính mờ, anh thấy được một khoảng nhòe của hòn đảo, không thấy được mặt ai. Anh không nhìn. Anh pha trà. Anh đếm.
+
+Một trăm hai mươi giây là đủ để copy một file.
+
+Hai trăm bốn mươi giây là đủ để copy một file và đọc một bản nháp.
+
+Anh về bàn ở giây thứ hai trăm sáu mươi. Hà My đã đi. Màn hình vẫn sáng. File kế hoạch truyền thông đã được mở và đóng, anh thấy trong lịch sử. Cửa sổ soạn thư vẫn ở giữa màn hình, nguyên vị trí anh để.
+
+Không, không nguyên vị trí. Lúc anh đi, con trỏ chuột nằm ở góc dưới bên phải. Bây giờ nó nằm ở giữa, ngay trên chữ *một mình*.
+
+Nếu cô chỉ copy file, thì con trỏ không có lý do gì đi vào giữa màn hình. File nằm trên màn hình nền, ở góc trái. Con trỏ chỉ đi đến chỗ người ta đang đọc, và dừng ở chữ người ta đọc lâu nhất. Nhánh thứ nhất và nhánh thứ hai vừa đóng lại.
+
+Anh xóa bản nháp. Bấm xóa, rồi vào thùng rác, xóa lần nữa. Rồi anh ngồi xuống, uống trà. Trà nóng quá, bỏng đầu lưỡi. Anh vẫn uống.
+
+Quân thứ sáu. Một – sáu. Anh dựng nó sau quân thứ năm. Tay không run. Anh để ý là tay không run, và để ý rằng mình để ý.
+
+* * *
+
+Thứ Năm, chín giờ năm phút, Hà My vào phòng anh Tuấn.
+
+Cô không cầm tập giấy nào. Cô cầm điện thoại.
+
+Anh ngồi ở bàn mình, mở tài liệu kỹ thuật, đọc lại phần chồng lấn ô ảnh cho buổi họp mười giờ. Sáu mươi tư điểm ảnh. Anh đọc dòng ấy bốn lần. Ở bàn đối diện, anh Bảo đeo tai nghe. Chị Quỳnh gõ phím. Chị Ngân ngồi thẳng lưng hơn mọi ngày, như người ngồi gần sân khấu.
+
+Chín giờ mười một, cửa mở.
+
+Hà My đi ra. Mặt cô đỏ, không phải đỏ ở má. Đỏ ở cổ, lan lên mang tai, cái đỏ của người vừa bị người khác nhìn thấy mình. Cô không cười cái cười dài. Cô không cười. Cô đi thẳng qua hòn đảo về phía nhà vệ sinh, nhanh, điện thoại úp trong lòng bàn tay.
+
+Anh Tuấn đứng ở cửa phòng, tay cầm cốc cà phê, nói to, đủ to cho cả hòn đảo:
+
+"Thuyên. Chuẩn bị chưa em. Mười giờ mình lên."
+
+"Dạ, xong rồi anh."
+
+Anh Tuấn gật, quay vào, không đóng cửa.
+
+Chị Ngân nhìn anh. Lần này chị nhìn lâu. Rồi chị cúi xuống, viết một cái gì đó vào cuốn sổ tay nhỏ chị luôn để cạnh bàn phím, cuốn sổ không ai được xem.
+
+Anh không biết chính xác trong phòng đã có những câu gì. Đến trưa anh mới biết, qua chị Ngân, ở pantry, bằng đúng cái giọng nói vào bồn rửa như tuần trước. Hà My đưa anh Tuấn xem một tấm ảnh chụp màn hình máy tính. Anh Tuấn nhìn tấm ảnh, rồi mở hộp thư của chính anh ta, xoay màn hình về phía cô, cho cô xem cái email chuyển tiếp lúc tám giờ hai mươi sáu sáng thứ Hai, cái email có chữ *mình cùng lên*. Rồi anh Tuấn hỏi đúng một câu:
+
+*Ảnh này em chụp ở máy ai?*
+
+Hà My không trả lời được câu ấy. Không có câu trả lời nào cho câu ấy mà không phải là: *em chụp màn hình máy của đồng nghiệp, khi người ta không ở đó.*
+
+* * *
+
+Phòng họp 18B có một cửa sổ nhìn thẳng ra Keangnam, và một cái bàn tròn nhỏ, sáu ghế. Khải ngồi sẵn, áo sơ mi trắng, không vest, cốc cà phê giấy trước mặt. Anh ta đứng dậy bắt tay anh Tuấn trước, rồi bắt tay anh, cái bắt tay khô và ngắn.
+
+Bốn mươi phút. Khải hỏi ba câu. Hai câu đầu, Khải nhìn anh Tuấn. Anh Tuấn trả lời cả hai, trôi chảy hơn hồi tháng tư rất nhiều, vì tối qua anh Tuấn đã gọi anh đến chín giờ để tập. Câu thứ ba Khải nhìn anh, hỏi về cách mô hình xử lý vùng ảnh bị mây che quá bảy mươi phần trăm. Anh trả lời. Anh Tuấn gật bên cạnh, gật đúng chỗ, như người gật theo nhạc. Nhạc là anh.
+
+Khải không ghi gì. Khải chỉ nghe, và nhìn ra cửa sổ những lúc người khác đang nói, lâu đến mức tưởng anh ta đang nghĩ chuyện khác.
+
+Cuối buổi, anh Tuấn xin phép đi trước một phút, vì có cuộc gọi từ khối kinh doanh. Anh ở lại thu dọn laptop. Khải đứng dậy cùng lúc, cầm cốc cà phê, và hai người đi cùng nhau ra hành lang, về phía thang máy.
+
+"Quán bún chả sau tòa nhà," Khải nói, như nói chuyện thời tiết. "Bà ấy vẫn gắp chả thêm cho cậu à?"
+
+Anh cười. Sếp to toàn hỏi những câu chả liên quan, chị Hạnh nói thế hồi tháng tư. Hồi tháng tư Khải hỏi anh bà bán bánh mì cổng trường còn dùng lò điện không.
+
+"Bà ấy không gắp đâu anh. Mấy chị trong lab gắp cho em."
+
+"À." Khải gật, bấm nút thang máy. "Người quen thì được thêm."
+
+Cửa thang máy mở. Khải không vào. Anh ta đứng ở ngoài, cầm cốc cà phê, đợi cửa đóng lại trên mặt anh như đợi một trang giấy lật qua.
+
+Trong thang máy, anh nghĩ: sếp lớn ăn ở đâu nhỉ, chắc có lần đi ngang quán. Rồi anh nghĩ đến Hà My, và nghĩ đến chữ *ảnh này em chụp ở máy ai*, và không nghĩ đến bún chả nữa.
+
+* * *
+
+Hai giờ chiều, email nội bộ, người gửi là anh Tuấn, người nhận là khối Marketing, cc cả lab.
+
+*[Email]*
+Từ: Trưởng nhóm R&D Thiên Nhãn
+Đến: Khối Marketing
+Cc: Nhóm R&D Thiên Nhãn
+Chủ đề: **Kết thúc thời gian hỗ trợ dự án – bạn Hà My**
+
+Kính gửi anh chị,
+
+Lab Thiên Nhãn xin cảm ơn bạn Hà My đã hỗ trợ mảng truyền thông dự án trong thời gian qua. Do dự án chuyển sang giai đoạn chuẩn bị vận hành, lab xin kết thúc thời gian hỗ trợ của bạn từ ngày 31/5/2027, không gia hạn.
+
+Trân trọng.
+
+Không có chữ nào về ảnh chụp màn hình. Không có chữ nào về máy ai. Anh Tuấn không cần. Một email có chữ *không gia hạn* là một email mà ai đọc cũng tự điền được phần còn lại.
+
+*Không gia hạn* nghĩa là trả về. Về khối marketing, về một cái bàn đã có người khác ngồi nửa năm nay. Cô không bị đuổi. Cô chỉ bị trả lại, như một món đồ mượn đã hết hạn.
+
+Cả hòn đảo đọc nó trong im lặng. Chị Phương nhìn sang cái bàn trống của Hà My, rồi nhìn xuống bảng tính nhân sự của mình, và anh thấy chị xóa một dòng. Trâm cầm điện thoại lên, rồi đặt xuống, rồi cầm lên. Chị Hạnh không nhìn ai. Chị Hạnh nhìn anh. Đúng một lần, rất ngắn, như người cộng thêm một con số vào bảng tính.
+
+Không ai hỏi về bản nháp. Không ai hỏi ảnh chụp ở máy ai. Không ai hỏi vì sao văn phòng giám đốc khối lại gửi riêng cho một kỹ sư.
+
+Sẽ không ai hỏi.
+
+* * *
+
+Sáu giờ tối, Hà My quay lại lấy đồ.
+
+Anh vẫn ngồi ở bàn. Anh không định ở lại. Anh ở lại.
+
+Cô mang theo một cái thùng carton gấp sẵn, loại thùng đựng giấy in A4. Cô dọn rất nhanh, rất gọn, như người đã dọn nhiều lần trong đầu. Tập brochure màu. Cái cốc có hình con mèo. Ba cuốn sổ. Một cái khung ảnh nhỏ chụp cả lab ở buổi tất niên, ảnh ấy anh đứng ở rìa. Cuối cùng, từ ngăn kéo dưới cùng, một bông hồng khô, cánh đã sẫm lại như giấy cũ. Bông hồng ngày tám tháng ba, rút ra từ bó hoa to bằng cái lốp xe, anh Tuấn đi phát cho từng người, tay đặt lên vai từng người. Ly lấy tay áo lau vai. Hà My thì giữ lại bông hoa, ép khô, cất vào ngăn kéo.
+
+Cô cầm bông hoa lên, nhìn nó một giây. Rồi đặt nó vào thùng, trên cùng.
+
+Cô không nhìn anh khi dọn. Anh không nhìn cô dọn. Anh nhìn màn hình, gõ một dòng log không cần gõ. Đến lúc ôm thùng lên, đi ngang bàn anh, cô mới nhìn. Không giận. Không oán. Cái nhìn của một người đọc lại một bài toán mình đã làm sai, và vừa nhìn ra mình sai từ dòng nào.
+
+"Bản nháp đẹp đấy," cô nói. Rất nhỏ. Chỉ đủ cho một người nghe.
+
+Anh không trả lời. Anh không ngẩng lên. Chỉ một bên khóe môi anh nhếch lên, đúng một nhịp, không có tiếng, rồi trở về chỗ cũ.
+
+*Cô ấy yếu ở chỗ tin vào cái mình thấy. Một người sống bằng màn hình của người khác thì chết vì một cái màn hình.*
+
+Cô đi. Cửa thang máy đóng lại trên cái thùng carton. Anh không quay đầu.
+
+Một lúc sau anh đứng dậy, đi ra cửa kính cuối hòn đảo, khoanh hai tay sau lưng, nhìn xuống Phạm Hùng. Đèn xe bắt đầu bật, từng dải đỏ và trắng chạy hai chiều không nghỉ. Anh không nghĩ về Hà My nữa. Cô đã là một dòng đã xử lý.
+
+Anh chờ.
+
+Anh chờ cái cảm giác mà người ta gọi là tội lỗi. Anh biết nó trông như thế nào, anh đã thấy nó ở người khác: vai sụp, mắt nhìn xuống, tay tìm một thứ gì đó để làm. Anh chờ nó như chờ một cái xe buýt quen, đứng đúng trạm, nhìn đúng hướng.
+
+Nó không đến.
+
+Thay vào đó là một sự bình thản, lạnh và phẳng, như nhìn một đường ống chạy xanh suốt đêm. Một bản nháp, một tin nhắn, hai trăm sáu mươi giây, một con trỏ chuột dời chỗ, một cánh cửa, một câu hỏi. Mỗi khúc chạy vào khúc sau, không gãy chỗ nào.
+
+Và một chút gì đó gần với chán. Trận vừa rồi dễ hơn anh tưởng. Ba đêm mất ngủ cho một người tự bước vào bẫy bằng chính cái điện thoại của mình.
+
+Anh không đẩy quân nào. Cô tự đổ. Người chạm vào hàng quân này thì ngã về phía chính mình.
+
+Anh thấy nhẹ, và hơi ngạc nhiên. *Thì ra không cần.*
+
+Nửa con mắt anh đã ở chỗ khác. Ở cái danh sách nộp trước mười lăm tháng sáu, ở dòng *kỹ thuật* trong ngoặc đơn, ở những người sẽ đến xin một dòng trong danh sách ấy. Hà My chỉ là trận mở màn. Cuộc chiến thật chưa bắt đầu.
+
+Anh nhìn ra, nhìn xuống. Không nhìn lên. Ngay trên trần, cách đầu anh một lớp bê tông, là tầng mười tám.
+
+*Có ai bị hại không?*
+
+Có.
+
+Anh đợi chữ *có* ấy làm gì đó với mình. Nó nằm đó, một chữ, trên một dòng, như dòng thứ bốn mươi hai trong một cái file không ai đọc.
+
+* * *
+
+Bảy giờ, anh tắt máy. Anh Bảo vẫn còn ở bàn đối diện, đang thu dây sạc. Từ hôm bia hơi tháng mười hai, mỗi lần chỉ còn hai người ở tầng mười bảy, anh Bảo bao giờ cũng gọi anh là *chú*. *Chú về à. Chú ăn gì chưa. Màu xấu thế, cả lab chỉ có chú.*
+
+Anh Bảo đứng dậy, khoác ba lô, đi ngang bàn anh.
+
+"Em về à," anh Bảo nói.
+
+"Dạ. Anh về ạ."
+
+Anh Bảo gật, đi. Không ngoái lại.
+
+Anh ngồi thêm một phút, nhìn theo cái lưng ấy đến khi nó khuất sau cửa thang máy. *Em.* Có khi nào anh Bảo nói nhầm. Anh định đọc lại cái lưng ấy trong đầu, cái dáng đi, cái tay cầm quai ba lô. Rồi anh thôi. *Anh Bảo cũng sẽ quen.*
+
+Anh mở ngăn kéo, lấy quân thứ bảy. Hai – hai. Anh dựng nó sau quân thứ sáu.
+
+Rồi anh ngồi thêm mười phút, mắt nhắm, và chiếu lại hai trăm sáu mươi giây chiều hôm qua trong đầu, từng khung, như chiếu lại một pha fadeaway. Không phải để sướng. Để tìm chỗ thừa. Tin nhắn cho Hà My dài quá bốn chữ. Lần sau thì gọn hơn.
+
+*Lần sau.* Anh nghe hai chữ ấy trong đầu mình, và không sửa.
+
+Anh bật máy lại, mở `cach_doi_pho.md`. Năm dòng, bốn dòng gạch, dòng năm và dòng sáu còn nguyên. Anh không xóa file. Anh đổi tên nó thành `playbook.md`, như mọi file anh định dùng lại.
+
+Rồi anh mở cuốn sổ, lật lại trang chiều thứ Sáu tuần trước: ba giờ, ba tin nhắn, một ô đỏ.
+
+Trận này anh thắng. Nhưng anh thắng vì anh đúng, hay vì chưa có ai thử thay anh?
+
+Câu hỏi ấy đã nằm dưới mọi nước đi từ đầu tuần, như một dòng `TODO` không ai xóa. Đêm nay anh gọi đúng tên nó: *mình có thể bị thay không?*
+
+Lý lẽ thì anh có sẵn. Anh Kiên đọc được code, nhưng không biết vì sao nó chạy. Bốn mươi lần thử thất bại nằm trong đầu anh, không nằm trong bất cứ file nào. Con AI giải thích được từng phương trình, nhưng không giải thích được vì sao chọn phương trình này mà không chọn phương trình kia.
+
+Rồi anh tự cãi lại, như đã cãi lại mình chiều thứ Sáu. Tài liệu hai trăm mười bốn trang đã nằm ở tầng mười tám: tài liệu ghi *cái gì*, không ghi *vì sao*, ai đọc cũng phải quay lại hỏi người viết. Thuê người ngoài: tám mươi, một trăm hai mươi triệu một tháng, mất ba đến sáu tháng tìm người và ba tháng mới hiểu, mà production là tháng bảy, mà email đã ghi *không phát sinh tuyển mới*. Giữ anh thì hai mươi lăm triệu. Không ai bỏ ra gấp năm để thay một thứ còn chạy tốt. Còn Sơn. Sơn đi rồi đường ống vẫn chạy. Nhưng Sơn viết đường ống. Anh viết mô hình.
+
+Ba lần cãi, ba lần thắng.
+
+Nhưng người cãi và người chấm là cùng một người. Cả ba lý lẽ đều là suy luận trên giấy, và mỗi suy luận đứng trên một giả định anh chưa kiểm: rằng lão tính tiền đúng như anh tính, rằng anh Kiên kẹt thật chứ không chỉ chưa thử, rằng không ai học nhanh hơn anh nghĩ. Lý lẽ cho anh biết mình *có vẻ* quan trọng. Lý lẽ chưa chứng minh được mình không thay được.
+
+Anh cần câu trả lời, vì những gì sắp đến lớn hơn ván Hà My. Danh sách nộp trước mười lăm tháng sáu, mỗi dòng là một ghế, và mỗi nước đi để giữ ghế sẽ phải đặt cược nhiều hơn một bản nháp. Trước khi đặt cược, anh cần một cơ sở. Cảm giác mình quan trọng thì không phải cơ sở: ai cũng có cảm giác ấy, và người bị loại thường là người thấy mình chắc nhất. Cơ sở là thứ vẫn đứng vững khi anh dồn cả sức nặng lên.
+
+Mục đích rất rõ: chứng minh mình đủ quan trọng để không ai thay được. Chứng minh, không phải tin.
+
+Thứ duy nhất không phải suy luận là trang sổ chiều thứ Sáu. Nó trông giống một bằng chứng. Ô đỏ không ai sửa, lão nhắn ba lần, câu hỏi của khách bị chuyển sang anh. Nhưng anh đọc lại nó như đọc bài của người khác, và thấy ba lỗ.
+
+Một: hôm ấy anh vắng để bẫy chị Hạnh và Hà My, không phải để đo. Những gì anh ghi lại chỉ là tác dụng phụ.
+
+Hai: anh không bàn giao gì. Người ta kẹt vì không ai thay được anh, hay vì anh không để lại gì? Từ trang sổ này không tách được.
+
+Ba: anh không đặt tiêu chí từ trước. Không có tiêu chí thì nhìn đâu cũng thấy điều mình muốn thấy.
+
+*[Ghi bên lề sách]*
+chiều t6 21/5: quan sát. chưa phải phép thử.
+
+Hồi làm đề tài ở trường, muốn biết một lớp trong mô hình quan trọng đến đâu thì người ta tháo nó ra, chạy lại, đo xem kết quả tụt bao nhiêu. Nhưng phải nói trước sẽ đo cái gì, và tụt đến đâu thì tính là quan trọng. Nói sau khi đã thấy kết quả thì đấy là kể chuyện, không phải đo.
+
+Anh lật sang trang mới, viết phép thử. Bốn dòng.
+
+*[Ghi bên lề sách]*
+không có mình, tầng 17 có chạy không?
+→ nghỉ 1 ngày. bàn giao đủ. 6h tối mới đọc.
+→ có MỘT người làm được việc của mình: trượt. mình thay được.
+→ cả ngày không ai làm được: đỗ. không ai thay được mình.
+
+Tiêu chí khắt khe, và anh để nó khắt khe có chủ đích. Chỉ cần một người làm được việc của anh là lão đã có lựa chọn khác. Chỉ khi không ai làm được, cơ sở mới đủ chắc để đứng lên. Còn bàn giao đủ là để không ai, kể cả chính anh, nói được rằng người ta kẹt vì anh giấu.
+
+Anh viết bản bàn giao luôn, ngay tại bàn. Mật khẩu máy chủ. Danh sách đầu mối phía đối tác. Lịch chạy đêm. Một runbook mười hai mục cho những ô hay lỗi, ô 712 ở mục đầu tiên: *nếu đỏ, làm lần lượt bước 1 đến bước 4.* Anh Kiên trực, ghi mọi sự cố vào một sheet chung: mấy giờ, chuyện gì, ai xử lý, xong chưa.
+
+Đến lúc soát lại, anh dừng ở runbook.
+
+Mười hai mục, mục nào cũng ghi đủ từng bước. Không mục nào ghi vì sao chọn bước ấy. Vì sao bước 3 lọc mây ở ngưỡng không phẩy ba lăm mà không phải không phẩy bốn, câu trả lời nằm trong bốn mươi lần thử thất bại, và bốn mươi lần ấy nằm trong đầu anh, không nằm trong file nào.
+
+Anh biết chỗ này nghĩa là gì. Người làm phép thử viết luôn bản bàn giao, nên phép thử có thể lệch về phía người làm. Nếu là đề tài ở trường, thầy hướng dẫn sẽ khoanh đỏ đúng chỗ này. Thêm một cột *vì sao* cho mười hai mục thì mất một buổi tối.
+
+*Bàn giao là ghi cách làm,* anh nghĩ. *Không phải dạy lại.*
+
+Anh đóng file. Anh biết, và anh chọn không sửa.
+
+Rồi anh mở Teams.
+
+*[Tin nhắn – Teams · anh Tuấn]*
+Thuyên: Mai em xin nghỉ một ngày ạ. Em gửi bàn giao cho anh Kiên rồi, có gì anh Kiên trực.
+Anh Tuấn: Ok em
+Anh Tuấn: Mấy hôm nay vất vả rồi, nghỉ cho lại sức (like)
+
+Lão duyệt trong bốn phút. Người vừa thắng thì xin gì cũng dễ.
+
+Bảy quân đứng dọc mép bàn, trong một dãy đèn trần duy nhất còn sáng. Bảy quân bằng nhau, cách nhau đúng một đốt ngón tay.
+
+Điện thoại sáng lên.
+
+*[Tin nhắn]*
+Chủ tọa: Mai em qua chị nhé
+Chủ tọa: Chị nấu
+Chủ tọa: Đừng hỏi chị nấu gì :)
+Thuyên: e hỏi đâu
+Chủ tọa: Em định hỏi
+Chủ tọa: Chị đọc được (ghi chép)
+
+Anh cười, gõ một cái (năn nỉ), rồi xóa, rồi gõ lại, rồi gửi. Lần này anh không đếm mình đã gõ lại mấy lần. Gõ lại một cái emoji thì có sao.
+
+Mai anh có cả một ngày không có mặt ở đây. Sáu giờ tối mai, anh sẽ biết mình đang đứng trên cái gì.
+
+Anh đứng dậy, khoác ba lô. Ra đến thang máy, anh mới nhớ ra là cả buổi chiều nay, từ lúc Hà My ôm thùng đi, anh chưa rửa mặt lần nào, và cũng không thấy cần.
