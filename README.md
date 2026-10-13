@@ -163,6 +163,35 @@ docs/ban-dich-de-xuat.md            translation list to review
 tests/                              npm test
 ```
 
+## Cross-posting to other sites (rookies.vn)
+
+The first chapters also go up on rookies.vn, with a footer that links each one
+to the next chapter here. Everything lives in `crosspost/` (outside the site
+build) and `/admin/crosspost`.
+
+- **One-time setup:** run `supabase/migrations/0005_crosspost.sql` and `0006_crosspost_login.sql`
+  in Supabase → SQL Editor, then on your computer `npm run crosspost:setup` (installs the worker's browser).
+- **Signing the worker in:** with the worker running, use the "Đăng nhập Rookies.vn cho worker" form
+  in `/admin/crosspost`. The email and password are encrypted in your browser with a key that only the
+  worker's computer holds (`crosspost/.profile/`), so Vercel and Supabase never see them; tick
+  "Ghi nhớ" to let the worker sign itself in again when rookies.vn signs it out. While it is signed out,
+  queued chapters wait instead of failing. Google-only accounts or a "are you human" check:
+  `npm run crosspost -- login rookies` and sign in by hand in the window it opens.
+- **Converting:** rookies.vn can't show chat bubbles, emails, emoji or tap-to-translate,
+  so each chapter needs a site version. Ask Claude in chat ("chuyển chương 1–5 cho rookies"):
+  it follows `crosspost/sites/rookies/convert.md`, writes the versions to `crosspost/out/rookies/`,
+  and `npm run crosspost -- check rookies --save` rejects any version that changed the story's words.
+- **Posting:** in `/admin/crosspost`, select chapters (one by one, a range, or all) and press
+  **Đồng bộ**. That only queues them; `npm run crosspost:worker` on your computer posts them in
+  story order. Keep it running, or run `npm run crosspost -- worker rookies --once`.
+- **No duplicates:** one record and one open job per chapter (enforced by the database), an
+  update instead of a create once a chapter has a rookies.vn id, a check of the rookies.vn chapter
+  list before creating, and a "pending" mark so a crash mid-post never reposts.
+- **Teaser:** only the first N chapters go up (set N on the admin page). Editing a chapter here
+  marks its version "Cần chuyển lại"; a new next chapter only changes the footer ("Cần cập nhật").
+- **Adding another site:** a new folder in `crosspost/sites/` with `config.json`, `convert.md`
+  and `adapter.mjs` (same functions as the rookies one), plus a row in `crosspost_sites`.
+
 ## Useful commands
 
 ```bash
@@ -171,6 +200,8 @@ npm test          # renderer, import parser, numbering
 npm run check     # type check
 npm run build     # production build
 npm run export    # back up chapters to backup/chapters now
+npm run crosspost -- status rookies   # what is posted on rookies.vn
+npm run crosspost:worker              # post queued chapters
 ```
 
 ## Notes and limits

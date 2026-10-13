@@ -1,0 +1,21 @@
+{
+  "site": "rookies",
+  "name": "Rookies.vn",
+  "vercelUrl": "https://yellow-light.vercel.app",
+  "footer": {
+    "next": "Đọc tiếp {next} tại: {nextUrl}",
+    "last": "Chương mới sẽ lên trước tại: {nextUrl}",
+    "home": "Đọc trọn bộ Đèn Vàng, có bình luận và chấm điểm từng chương: {home}"
+  },
+  "rookies": {
+    "base": "https://rookies.vn",
+    "storyId": 21559,
+    "storySlug": "den-vang",
+    "delayBetweenChaptersMs": 8000,
+    "modeMenuItem": {
+      "publish": "Đăng",
+      "draft": "Lưu bản thảo"
+    }
+  },
+  "remoteViewUrl": "https://rookies.vn/truyen/den-vang/{id}"
+}

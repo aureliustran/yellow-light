@@ -1,7 +1,7 @@
 ---
 // Links between the admin pages. `current` marks the page you are on.
 interface Props {
-  current: 'chapters' | 'stats' | 'comments' | 'ratings';
+  current: 'chapters' | 'stats' | 'comments' | 'ratings' | 'crosspost';
 }
 const { current } = Astro.props;
 const items = [
@@ -9,6 +9,7 @@ const items = [
   { id: 'stats', href: '/admin/stats', label: 'Thống kê' },
   { id: 'comments', href: '/admin/comments', label: 'Bình luận' },
   { id: 'ratings', href: '/admin/ratings', label: 'Đánh giá' },
+  { id: 'crosspost', href: '/admin/crosspost', label: 'Đăng chéo' },
 ];
 ---
 <nav class="admin-nav" aria-label="Trang quản lý">

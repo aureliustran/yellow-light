@@ -80,6 +80,10 @@
 .admin-nav a[aria-current='page'] { background: var(--card); color: var(--ink); box-shadow: 0 0 0 1px var(--line); }
 
 /* ───────── Stats, comments and ratings pages ───────── */
+/* The landing page has its own global .stats and .panel (border, padding, big top
+   margin). Inside the admin pages those must not apply. */
+.admin .stats { flex-wrap: nowrap; border-top: 0; padding-top: 0; }
+.admin .panel { margin-top: 0; }
 .stats { --bar: #B8690A; display: flex; flex-direction: column; gap: 20px; max-width: 1100px; margin: 0 auto; }
 :root[data-theme='dark'] .stats { --bar: var(--amber); }
 @media (prefers-color-scheme: dark) { :root:not([data-theme='light']):not([data-theme='dark']) .stats { --bar: var(--amber); } }
@@ -155,3 +159,52 @@
   border: 1px solid var(--line-strong); background: var(--card); color: var(--ink); font: inherit; font-size: 15px; resize: vertical;
 }
 .mod-edit textarea:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; }
+
+/* ───────── Cross-posting page ───────── */
+.crosspost code { font-size: 13px; padding: 1px 6px; border-radius: 6px; background: var(--surface); }
+.worker-state { margin: 0; font-size: 14px; font-weight: 600; display: inline-flex; align-items: center; gap: 8px; }
+.worker-state::before { content: ''; width: 10px; height: 10px; border-radius: 50%; background: var(--ink-2); }
+.worker-state.on::before { background: #2E7D4F; box-shadow: 0 0 0 4px color-mix(in srgb, #2E7D4F 20%, transparent); }
+.worker-state.off { color: var(--ink-2); }
+.xs-inline { display: flex; gap: 8px; align-items: center; }
+.xs-inline input { width: 120px; min-height: 40px; padding: 0 12px; border: 1px solid var(--line-strong); border-radius: 10px; background: var(--bg); color: var(--ink); font: inherit; }
+.xs-toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.xs-toolbar .spacer { flex: 1 1 auto; }
+.xs-range { display: flex; gap: 6px; }
+.xs-range input, .xs-mode select { min-height: 40px; padding: 0 12px; border: 1px solid var(--line-strong); border-radius: 10px; background: var(--card); color: var(--ink); font: inherit; }
+.xs-range input { width: 170px; }
+.xs-table td, .xs-table th { text-align: left; white-space: normal; vertical-align: middle; }
+.xs-table td:first-child { width: 36px; }
+.xs-table input[type='checkbox'] { width: 18px; height: 18px; accent-color: var(--amber); }
+.xs-table th[scope='row'] { font-weight: 400; display: flex; flex-direction: column; gap: 2px; }
+.xs-table .ch-label { font-size: 11px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-2); }
+.xs-title { font-family: var(--serif); font-size: 17px; }
+.xs-table tr.xs-muted { opacity: .55; }
+.xs-error { display: block; margin-top: 4px; font-size: 13px; color: var(--danger); white-space: normal; }
+.xs-remote { font-size: 14px; white-space: nowrap; }
+.pill.xs-ready { background: color-mix(in srgb, #2F6FB5 16%, transparent); color: #2F6FB5; }
+:root[data-theme='dark'] .pill.xs-ready { color: #8DB8EA; }
+.pill.xs-busy { background: color-mix(in srgb, var(--amber) 30%, transparent); color: var(--amber-ink); }
+.pill.xs-outside { background: none; color: var(--ink-2); border: 1px dashed var(--line-strong); }
+.xs-preview-row td { padding: 0 10px 14px; }
+.xs-preview { margin: 0; max-height: 420px; overflow: auto; padding: 16px; border-radius: 12px; background: var(--bg); border: 1px solid var(--line); font-family: var(--serif); font-size: 15px; line-height: 1.6; white-space: pre-wrap; }
+.xs-jobs { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; }
+.xs-job { display: flex; flex-direction: column; gap: 2px; padding: 8px 0; border-bottom: 1px solid var(--line); }
+.xs-job:last-child { border-bottom: none; }
+.xs-job-title { font-weight: 600; }
+.xs-job.failed .xs-job-title { color: var(--danger); }
+.xs-help summary { list-style: none; cursor: pointer; }
+.xs-help summary::-webkit-details-marker { display: none; }
+.xs-help summary h2 { display: inline; }
+.xs-help ol { margin: 6px 0 0; padding-left: 20px; display: flex; flex-direction: column; gap: 6px; color: var(--ink-2); }
+.worker-state.warn { color: var(--amber-ink); }
+.worker-state.warn::before { background: var(--amber); box-shadow: 0 0 0 4px color-mix(in srgb, var(--amber) 25%, transparent); }
+.xs-login-panel.attention { border-color: var(--amber); box-shadow: 0 0 0 3px color-mix(in srgb, var(--amber) 22%, transparent); }
+.xs-login { display: flex; flex-direction: column; gap: 12px; }
+.xs-login .field input { width: 100%; min-height: 44px; padding: 10px 14px; border: 1px solid var(--line-strong); border-radius: 12px; background: var(--bg); color: var(--ink); font: inherit; }
+.xs-check { display: inline-flex; align-items: center; gap: 8px; font-size: 14px; }
+.xs-check input { width: 18px; height: 18px; accent-color: var(--amber); }
+.xs-login-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+.xs-login .help { margin: 0; font-size: 13px; color: var(--ink-2); }
+.crosspost .stat-cards { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+.xs-table th[scope='row'] { min-width: 140px; }

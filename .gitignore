@@ -7,3 +7,8 @@ dist/
 !.env.example
 .DS_Store
 ignorethis.md
+# Cross-posting: the worker's browser login, its installs, scratch files and screenshots
+crosspost/node_modules/
+crosspost/.profile/
+crosspost/work/
+crosspost/logs/

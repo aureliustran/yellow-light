@@ -14,7 +14,10 @@
     "export": "node scripts/export-chapters.mjs",
     "translations": "node scripts/apply-translations.mjs",
     "chats": "node scripts/apply-chats.mjs",
-    "blocks": "node scripts/apply-blocks.mjs"
+    "blocks": "node scripts/apply-blocks.mjs",
+    "crosspost": "node crosspost/cli.mjs",
+    "crosspost:worker": "node crosspost/cli.mjs worker rookies",
+    "crosspost:setup": "npm install --prefix crosspost && npx --prefix crosspost playwright install chromium"
   },
   "dependencies": {
     "@astrojs/vercel": "^11.0.12",

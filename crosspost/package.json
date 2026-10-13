@@ -1,0 +1,9 @@
+{
+  "name": "den-vang-crosspost",
+  "private": true,
+  "type": "module",
+  "description": "Cross-posting worker for Đèn Vàng (runs on the author's computer, never on Vercel)",
+  "dependencies": {
+    "playwright": "^1.56.0"
+  }
+}

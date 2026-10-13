@@ -1,0 +1,132 @@
+---
+import Base from '../../layouts/Base.astro';
+import Brand from '../../components/Brand.astro';
+import Account from '../../components/Account.astro';
+import ThemeToggle from '../../components/ThemeToggle.astro';
+import AdminNav from '../../components/AdminNav.astro';
+import AdminGate from '../../components/AdminGate.astro';
+import '../../styles/admin.css';
+export const prerender = true;
+---
+<Base title="Đăng chéo" noindex>
+  <header class="site-header bar">
+    <div style="display:flex;align-items:center;gap:16px"><Brand small /><span class="eyebrow">Quản lý</span><AdminNav current="crosspost" /></div>
+    <div class="reader-tools"><a class="btn ghost small" href="/">Xem trang</a><ThemeToggle /><Account /></div>
+  </header>
+
+  <main class="admin">
+    <AdminGate title="Đăng chéo" />
+
+    <div class="stats crosspost" data-admin hidden>
+      <div class="pane-head">
+        <h1>Đăng chéo</h1>
+        <p class="worker-state" data-worker aria-live="polite"></p>
+      </div>
+      <p class="meta-small">
+        Đưa chương lên trang khác để kéo người đọc về đây. Mỗi chương cần một <strong>bản chuyển</strong> cho trang đó
+        (Claude làm, theo <code>crosspost/sites/rookies/convert.md</code>); chân trang có link về chương tiếp theo trên Vercel.
+        Nút Đồng bộ chỉ xếp hàng: <strong>worker trên máy bạn</strong> mới là thứ đăng (<code>npm run crosspost:worker</code>).
+      </p>
+
+      <div class="stat-cards" data-cards></div>
+
+      <div class="panel">
+        <div class="xs-settings">
+          <label class="field">
+            <span class="label">Số chương đầu được đăng lên <span data-site-name>Rookies.vn</span></span>
+            <span class="xs-inline">
+              <input type="number" min="0" step="1" inputmode="numeric" data-teaser aria-describedby="teaser-help" />
+              <button type="button" class="btn small" data-teaser-save>Lưu</button>
+            </span>
+            <span class="help" id="teaser-help">Để trống = đăng tất cả. Interlude đi kèm chương ngay trước nó. Phần còn lại chỉ có trên Vercel.</span>
+          </label>
+        </div>
+      </div>
+
+      <div class="panel xs-login-panel" data-login-panel>
+        <div class="pane-head"><h2>Đăng nhập <span data-site-name>Rookies.vn</span> cho worker</h2></div>
+        <p class="meta-small" data-login-state aria-live="polite"></p>
+        <form class="xs-login" data-login-form>
+          <div class="fields-row">
+            <label class="field">
+              <span class="label">Tên đăng nhập, email hoặc số điện thoại</span>
+              <input type="text" name="username" autocomplete="username" required />
+            </label>
+            <label class="field">
+              <span class="label">Mật khẩu</span>
+              <input type="password" name="password" autocomplete="current-password" required />
+            </label>
+          </div>
+          <label class="xs-check"><input type="checkbox" name="remember" /> Ghi nhớ trên máy chạy worker, để nó tự đăng nhập lại khi bị đăng xuất</label>
+          <div class="xs-login-actions">
+            <button type="submit" class="btn primary small" data-login-send>Gửi cho worker</button>
+            <button type="button" class="btn small ghost" data-forget hidden>Xóa mật khẩu đã lưu</button>
+          </div>
+          <p class="help">
+            Mật khẩu được mã hóa ngay trong trình duyệt này bằng khóa riêng của worker: chỉ máy chạy worker mở được.
+            Vercel và Supabase chỉ thấy dữ liệu đã mã hóa, và worker xóa nó ngay khi đọc xong. Worker phải đang chạy.
+            Tài khoản chỉ đăng nhập bằng Google, hoặc khi rookies.vn hỏi kiểm tra: chạy <code>npm run crosspost -- login rookies</code> trên máy.
+          </p>
+        </form>
+      </div>
+
+      <div class="xs-toolbar">
+        <form class="xs-range" data-range-form>
+          <label class="visually-hidden" for="xs-range">Khoảng chương</label>
+          <input id="xs-range" type="text" placeholder="vd. 1-5, 8, 10-" data-range autocomplete="off" />
+          <button type="submit" class="btn small">Chọn khoảng</button>
+        </form>
+        <button type="button" class="btn small" data-select-all>Chọn tất cả</button>
+        <button type="button" class="btn small ghost" data-select-none>Bỏ chọn</button>
+        <span class="spacer"></span>
+        <label class="xs-mode">
+          <span class="visually-hidden">Khi đồng bộ</span>
+          <select data-mode>
+            <option value="publish">Đăng ngay</option>
+            <option value="draft">Lưu bản thảo</option>
+          </select>
+        </label>
+        <button type="button" class="btn primary" data-sync disabled>Đồng bộ</button>
+      </div>
+
+      <div class="table-scroll">
+        <table class="data-table xs-table">
+          <thead>
+            <tr>
+              <th scope="col"><span class="visually-hidden">Chọn</span></th>
+              <th scope="col">Chương</th>
+              <th scope="col">Vercel</th>
+              <th scope="col">Trên <span data-site-name>Rookies.vn</span></th>
+              <th scope="col"><span class="visually-hidden">Thao tác</span></th>
+            </tr>
+          </thead>
+          <tbody data-rows></tbody>
+        </table>
+      </div>
+
+      <div class="panel">
+        <div class="pane-head">
+          <h2>Hàng đợi</h2>
+          <button type="button" class="btn small" data-cancel hidden>Hủy việc đang chờ</button>
+        </div>
+        <ol class="xs-jobs" data-jobs></ol>
+        <p class="empty-note" data-jobs-empty hidden>Chưa đồng bộ lần nào.</p>
+      </div>
+
+      <details class="panel xs-help">
+        <summary><h2>Cách có bản chuyển</h2></summary>
+        <ol>
+          <li>Trong chat với Claude (đã kết nối thư mục dự án): <em>"chuyển chương 1–5 cho rookies"</em>.</li>
+          <li>Claude chạy <code>npm run crosspost -- pull rookies --range 1-5</code>, viết bản chuyển vào <code>crosspost/out/rookies/</code>, rồi <code>npm run crosspost -- check rookies --save</code>. Bản nào làm sai chữ của truyện sẽ bị máy kiểm tra từ chối.</li>
+          <li>Tải lại trang này: chương chuyển xong hiện <strong>Sẵn sàng</strong>. Chọn, rồi Đồng bộ.</li>
+          <li>Sửa chương trên Vercel thì bản chuyển thành <strong>Cần chuyển lại</strong>; chỉ đổi chân trang (vd. có chương mới) thì thành <strong>Cần cập nhật</strong> và đồng bộ được ngay.</li>
+        </ol>
+      </details>
+    </div>
+  </main>
+</Base>
+
+<script>
+  import { initCrosspostAdmin } from '../../scripts/crosspost-admin';
+  initCrosspostAdmin();
+</script>
