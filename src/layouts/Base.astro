@@ -10,7 +10,9 @@ interface Props {
   noindex?: boolean;
 }
 
-const { title, description = story.description, image = '/cover-og.jpg', bodyClass = '', noindex = false } = Astro.props;
+// Share-preview picture (1200×630, with the title). /cover-og.jpg is the old one, kept as a spare.
+const OG_IMAGE = '/og-fog.jpg';
+const { title, description = story.description, image = OG_IMAGE, bodyClass = '', noindex = false } = Astro.props;
 const fullTitle = title ? `${title} · ${story.title}` : `${story.title} – ${story.author}`;
 const site = Astro.site ?? new URL(Astro.url.origin);
 const canonical = new URL(Astro.url.pathname, site).toString();
@@ -30,9 +32,13 @@ const imageUrl = new URL(image, site).toString();
   <meta property="og:title" content={fullTitle} />
   <meta property="og:description" content={description} />
   <meta property="og:image" content={imageUrl} />
+  {image === OG_IMAGE && <meta property="og:image:width" content="1200" />}
+  {image === OG_IMAGE && <meta property="og:image:height" content="630" />}
+  <meta property="og:image:alt" content="Đèn Vàng: một đèn giao thông vàng trong sương" />
   <meta property="og:url" content={canonical} />
   <meta property="og:locale" content="vi_VN" />
   <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content={imageUrl} />
   <meta name="theme-color" content="#D3E0E8" media="(prefers-color-scheme: light)" />
   <meta name="theme-color" content="#0F1920" media="(prefers-color-scheme: dark)" />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />

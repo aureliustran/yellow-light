@@ -3,6 +3,17 @@ import { onMe, openLogin, type Me } from './auth';
 import { attachStars, formatNumber, store, toast } from './ui';
 
 export function initHome(): void {
+  // Cover: if the new picture cannot load, show the old one
+  const cover = document.querySelector<HTMLImageElement>('img[data-fallback]');
+  if (cover) {
+    const swap = () => {
+      const old = cover.dataset.fallback;
+      if (old && !cover.src.endsWith(old)) cover.src = old;
+    };
+    cover.addEventListener('error', swap, { once: true });
+    if (cover.complete && cover.naturalWidth === 0) swap();
+  }
+
   // "Đọc tiếp": the last chapter opened on this device
   try {
     const last = JSON.parse(store('dv:last') ?? 'null') as { slug: string; title: string; label: string } | null;
