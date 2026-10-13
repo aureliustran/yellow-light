@@ -59,6 +59,7 @@ export function initThemeToggle(): void {
     (root.dataset.theme as 'light' | 'dark' | undefined) ??
     (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
   const paint = () => {
+    document.querySelector('meta[name="theme-color"]')?.setAttribute('content', current() === 'dark' ? '#0F1920' : '#D3E0E8');
     document.querySelectorAll<HTMLElement>('[data-theme-label]').forEach((l) => {
       l.textContent = current() === 'dark' ? 'Ban ngày' : 'Ban đêm';
     });

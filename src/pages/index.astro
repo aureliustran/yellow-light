@@ -36,7 +36,7 @@ const demoHtml = renderMarkdown(
 );
 ---
 <Base bodyClass="fog">
-  <header class="wrap site-header">
+  <header class="wrap site-header over-hero">
     <Brand />
     <nav class="nav" aria-label="Điều hướng chính">
       <a href="#muc-luc">Mục lục</a>
@@ -46,7 +46,11 @@ const demoHtml = renderMarkdown(
   </header>
 
   <main>
-    <section class="wrap hero">
+    <section class="hero">
+      <div class="hero-art">
+        <img src="/hero-fog.webp" width="1672" height="941" data-fallback="/cover-fog.webp" alt="Ngã tư trong sương: đèn giao thông vàng, hai chiếc xe máy dừng ở vạch" fetchpriority="high" />
+      </div>
+      <div class="wrap hero-inner">
       <div class="hero-text">
         <div class="hero-status eyebrow amber"><span class="lamp"></span>{story.status}</div>
         <h1>{story.title}</h1>
@@ -62,12 +66,6 @@ const demoHtml = renderMarkdown(
         <div class="blurb">
           {story.blurb.map((p) => <p>{p}</p>)}
         </div>
-        <div class="stats">
-          <div><div class="stat-value">{chapterCount}</div><div class="stat-label eyebrow">chương</div></div>
-          {interludeCount > 0 && <div><div class="stat-value">{interludeCount}</div><div class="stat-label eyebrow">interlude</div></div>}
-          <div><div class="stat-value" data-story-views>—</div><div class="stat-label eyebrow">lượt đọc</div></div>
-          <div><div class="stat-value" data-story-rating>—</div><div class="stat-label eyebrow" data-story-rating-count>điểm đánh giá</div></div>
-        </div>
         <div class="actions">
           {first && (
             <a class="btn primary big" href={`/doc/${first.slug}`}>
@@ -80,15 +78,21 @@ const demoHtml = renderMarkdown(
             <a class="btn big" href={`/doc/${latest.slug}`}>Mới nhất · {latest.number ?? latest.title}</a>
           )}
         </div>
-        {isConfigured && (
-          <div class="story-rating">
-            <Stars label="Chấm điểm cả truyện" small data-story-stars />
-            <span class="hint" data-story-hint>Chấm điểm cả truyện</span>
-          </div>
-        )}
       </div>
-      <div class="cover">
-        <img src="/cover-fog.webp" width="848" height="1272" data-fallback="/cover.webp" alt="Bìa truyện Đèn Vàng: đèn giao thông vàng trong sương, hai chiếc xe máy dừng ở vạch" fetchpriority="high" />
+      <aside class="hero-aside" aria-label="Số liệu truyện">
+          <div class="stats">
+            <div><div class="stat-value">{chapterCount}</div><div class="stat-label eyebrow">chương</div></div>
+            {interludeCount > 0 && <div><div class="stat-value">{interludeCount}</div><div class="stat-label eyebrow">interlude</div></div>}
+            <div><div class="stat-value" data-story-views>—</div><div class="stat-label eyebrow">lượt đọc</div></div>
+            <div><div class="stat-value" data-story-rating>—</div><div class="stat-label eyebrow" data-story-rating-count>điểm đánh giá</div></div>
+          </div>
+          {isConfigured && (
+            <div class="story-rating">
+              <Stars label="Chấm điểm cả truyện" small data-story-stars />
+              <span class="hint" data-story-hint>Chấm điểm cả truyện</span>
+            </div>
+          )}
+      </aside>
       </div>
     </section>
 
