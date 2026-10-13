@@ -161,36 +161,142 @@ scripts/apply-blocks.mjs            turns spreadsheet / note / editor / terminal
 content/import/                     your chapters as of 7/10/2026
 docs/ban-dich-de-xuat.md            translation list to review
 tests/                              npm test
+crosspost/                          cross-posting: core, worker, CLI (never deployed to Vercel)
+crosspost/sites/rookies/convert.md  conversion rules Claude follows  ← edit to change conversions
+crosspost/sites/rookies/adapter.mjs every rookies.vn page step (fix here if rookies.vn changes)
+crosspost/out/rookies/              the converted versions (committed)
+src/pages/admin/crosspost.astro     /admin/crosspost (logic in src/scripts/crosspost-admin.ts)
+CLAUDE.md                           rules for Claude sessions in this project
 ```
 
 ## Cross-posting to other sites (rookies.vn)
 
-The first chapters also go up on rookies.vn, with a footer that links each one
-to the next chapter here. Everything lives in `crosspost/` (outside the site
-build) and `/admin/crosspost`.
+The first chapters also go up on rookies.vn, each with a footer linking to the
+next chapter here, so readers come over to this site. The code lives in
+`crosspost/` (outside the site build) and the controls in `/admin/crosspost`.
 
-- **One-time setup:** run `supabase/migrations/0005_crosspost.sql` and `0006_crosspost_login.sql`
-  in Supabase → SQL Editor, then on your computer `npm run crosspost:setup` (installs the worker's browser).
-- **Signing the worker in:** with the worker running, use the "Đăng nhập Rookies.vn cho worker" form
-  in `/admin/crosspost`. The email and password are encrypted in your browser with a key that only the
-  worker's computer holds (`crosspost/.profile/`), so Vercel and Supabase never see them; tick
-  "Ghi nhớ" to let the worker sign itself in again when rookies.vn signs it out. While it is signed out,
-  queued chapters wait instead of failing. Google-only accounts or a "are you human" check:
+How the pieces fit:
+
+```
+Supabase chapter ──► Claude converts (convert.md) ──► checks ──► /admin/crosspost: select + Đồng bộ
+                                                                        │ (queue in Supabase)
+                                              worker on your computer ◄─┘ ──► rookies.vn
+```
+
+The admin page (production or local, both work) only queues. Nothing reaches
+rookies.vn unless `npm run crosspost:worker` is running on your computer.
+
+### One-time setup
+
+1. Supabase → SQL Editor: run `supabase/migrations/0005_crosspost.sql`, then `0006_crosspost_login.sql`.
+2. On your computer: `npm run crosspost:setup` (installs the worker's browser, Playwright).
+3. Start the worker: `npm run crosspost:worker`, and leave the terminal open.
+4. Sign it in to rookies.vn from `/admin/crosspost` (see "Signing the worker in" below).
+5. In `/admin/crosspost`, set **Số chương đầu được đăng** (the teaser: how many chapters go up).
+
+### Converting chapters (Claude)
+
+rookies.vn can't show chat bubbles, emails, notes, emoji or tap-to-translate, so
+each chapter needs a site version. Claude makes it, on request:
+
+- In chat (with this folder connected) or in a coding session here, say
+  *"chuyển chương 1–5 cho rookies"*.
+- Claude follows `crosspost/sites/rookies/convert.md`, the only place the rules are
+  written (block formats, emoji table, translations). To change how chapters are
+  converted, edit that file.
+- `CLAUDE.md` (repo root) tells any Claude session in this project the workflow and
+  the hard rules. The `den-vang-crosspost` personal skill does the same in chat.
+- The versions are written to `crosspost/out/rookies/` (committed, so you can review
+  diffs), checked, and saved. The check rejects any version that changes, drops or
+  reorders the story's words, loses a chat line, or leaves emoji, `:::` blocks or links.
+
+The same steps by hand:
+
+```bash
+npm run crosspost -- pull rookies --range 1-5    # sources → crosspost/work/rookies/
+# write crosspost/out/rookies/<same name>.txt for each, following convert.md
+npm run crosspost -- check rookies               # fix until every chapter shows ✓
+npm run crosspost -- check rookies --save        # store them in Supabase
+```
+
+### Using /admin/crosspost
+
+1. **Check the worker** (top right): green "Worker đang chạy" is ready; amber "cần đăng
+   nhập lại" means sign it in again; grey means start `npm run crosspost:worker`.
+2. **Pick chapters**: tick them one by one, type a range (`1-5`, `8`, `10-`, `1-3,8`) and
+   press **Chọn khoảng**, or press **Chọn tất cả**. Only chapters that can be synced are
+   selectable (see the statuses below). Interludes come along with the chapter before them.
+3. **Choose the mode**: **Đăng ngay** (public right away) or **Lưu bản thảo** (draft on
+   rookies.vn, publish there by hand).
+4. **Press Đồng bộ N chương** and confirm. The dialog shows how many are new and how many
+   are updates. New chapters must go up in story order: if an earlier chapter is missing,
+   the page asks you to include it.
+5. **Watch Hàng đợi**: each job shows Đang chờ → Đang đăng → Xong (or Lỗi with the reason).
+   The page refreshes itself while jobs are running. **Hủy việc đang chờ** cancels jobs that
+   have not started.
+6. **Xem bản đăng** on a row shows exactly what will be sent (title, date, text, footer).
+   **Mở ↗** opens the chapter on rookies.vn.
+
+Statuses in the "Trên Rookies.vn" column:
+
+| Status | Meaning | What to do |
+|---|---|---|
+| Chỉ có trên Vercel | Past the teaser limit (or not published here) | Nothing; raise the limit to include it |
+| Chưa chuyển | No rookies.vn version yet | Ask Claude to convert it |
+| Cần chuyển lại | The chapter was edited here after converting | Ask Claude to convert it again |
+| Sẵn sàng | Converted, not posted yet | Select it and sync |
+| Đã đăng | rookies.vn has exactly the current version | Nothing |
+| Cần cập nhật | Posted, but the footer or title changed (e.g. a new next chapter) | Select it and sync |
+| Đang chờ / Đang đăng | In the queue / being posted by the worker | Wait |
+| Lỗi | The last attempt failed; the reason is under the status | Fix the reason, then sync again |
+
+### Signing the worker in
+
+The form **Đăng nhập Rookies.vn cho worker** on `/admin/crosspost` (the worker must be running):
+
+- The email/username and password are encrypted in your browser with a key that only the
+  worker's computer holds (`crosspost/.profile/`, never committed). Vercel and Supabase only
+  ever see the encrypted data, and the worker blanks it as soon as it has read it.
+- Tick **Ghi nhớ** to let the worker sign itself in again when rookies.vn signs it out. It is
+  kept only in `crosspost/.profile/` on that computer. **Xóa mật khẩu đã lưu** removes it.
+- While the worker is signed out, queued chapters wait instead of failing.
+- Accounts that only use Google sign-in, or when rookies.vn asks "are you human": run
   `npm run crosspost -- login rookies` and sign in by hand in the window it opens.
-- **Converting:** rookies.vn can't show chat bubbles, emails, emoji or tap-to-translate,
-  so each chapter needs a site version. Ask Claude in chat ("chuyển chương 1–5 cho rookies"):
-  it follows `crosspost/sites/rookies/convert.md`, writes the versions to `crosspost/out/rookies/`,
-  and `npm run crosspost -- check rookies --save` rejects any version that changed the story's words.
-- **Posting:** in `/admin/crosspost`, select chapters (one by one, a range, or all) and press
-  **Đồng bộ**. That only queues them; `npm run crosspost:worker` on your computer posts them in
-  story order. Keep it running, or run `npm run crosspost -- worker rookies --once`.
-- **No duplicates:** one record and one open job per chapter (enforced by the database), an
-  update instead of a create once a chapter has a rookies.vn id, a check of the rookies.vn chapter
-  list before creating, and a "pending" mark so a crash mid-post never reposts.
-- **Teaser:** only the first N chapters go up (set N on the admin page). Editing a chapter here
-  marks its version "Cần chuyển lại"; a new next chapter only changes the footer ("Cần cập nhật").
-- **Adding another site:** a new folder in `crosspost/sites/` with `config.json`, `convert.md`
-  and `adapter.mjs` (same functions as the rookies one), plus a row in `crosspost_sites`.
+
+### No duplicates
+
+One record and one open job per chapter (enforced by the database, so double-clicking or two
+open tabs can't queue twice), an update instead of a new chapter once it has a rookies.vn id,
+a check of the rookies.vn chapter list before creating (a chapter with the same title is taken
+over, not duplicated), a "pending" mark so a crash mid-post never reposts, and a read-back
+after saving to confirm rookies.vn kept exactly what was sent.
+
+### Command line
+
+```bash
+npm run crosspost -- status rookies                 # every chapter and its status
+npm run crosspost -- pull rookies --all             # sources for Claude (also --range, --only, --force, --any)
+npm run crosspost -- check rookies [--save]         # check Claude's versions; --save stores them
+npm run crosspost -- queue rookies --range 1-5      # same as Đồng bộ (add --draft or --publish)
+npm run crosspost -- cancel rookies                 # cancel jobs that have not started
+npm run crosspost -- login rookies                  # sign the worker in by hand
+npm run crosspost:worker                            # post queued chapters, keep running
+npm run crosspost -- worker rookies --once          # post what is queued, then stop
+```
+
+### When something goes wrong
+
+- **A job failed**: the reason shows under the chapter and in Hàng đợi; a screenshot is saved
+  in `crosspost/logs/rookies/job-<id>.png`. Fix it and sync again; the worker never creates
+  a second copy of a chapter it already posted.
+- **"Chưa đăng chương trước"**: new chapters go up in order. Sync the earlier ones too.
+- **rookies.vn changed its pages**: every step that depends on how rookies.vn looks is in
+  `crosspost/sites/rookies/adapter.mjs`; that is the only file to fix.
+
+### Adding another site
+
+A new folder in `crosspost/sites/<site>/` with `config.json`, `convert.md` and `adapter.mjs`
+(the same functions as the rookies one), plus a row in the `crosspost_sites` table.
 
 ## Useful commands
 

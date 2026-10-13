@@ -138,13 +138,26 @@ export async function open(cfg, { profileDir, headless = false } = {}) {
     const item = (existing ? r.modeMenuItemEdit : r.modeMenuItem)[mode];
     await page.locator(SEL.saveMenu).last().click();
     await page.getByText(item, { exact: true }).last().click();
-    const confirm = page.locator(SEL.confirm);
-    if (await confirm.isVisible({ timeout: 5000 }).catch(() => false)) await confirm.click();
+    // rookies.vn then asks "Chắc chắn muốn đăng chương này? …" (Đăng / Hủy). Wait for it:
+    // isVisible() does not wait, so the dialog used to be missed and read as an error.
+    await confirmIfAsked(8000);
+  }
+
+  // Press the confirm button of a "Chắc chắn …?" SweetAlert, if one shows up within ms.
+  async function confirmIfAsked(ms) {
+    const popup = page.locator('.swal2-popup');
+    if (!(await popup.waitFor({ state: 'visible', timeout: ms }).then(() => true).catch(() => false))) return false;
+    const msg = await page.locator('.swal2-popup').innerText().catch(() => '');
+    if (!/chắc chắn/i.test(msg)) return false; // not a question: leave it for waitSaved()
+    await page.locator(SEL.confirm).click();
+    await popup.waitFor({ state: 'hidden', timeout: 10000 }).catch(() => {});
+    return true;
   }
 
   // After saving, rookies.vn shows a popup ("Đăng thành công!" with Tiếp tục tạo chương mới /
   // Đóng / Thoát) and stays on the same URL, or shows a SweetAlert error. Returns when it is done.
-  async function waitSaved({ watchUrl = false } = {}) {
+  async function waitSaved({ watchUrl = false, asked = 0 } = {}) {
+    if (asked > 2) throw new Error('rookies.vn hỏi xác nhận liên tục, không lưu được.');
     const ok = page.getByText(/^\s*[\p{L} ]{0,25}thành công!?\s*$/iu).first(); // a short popup line, not story text
     const err = page.locator('.swal2-popup');
     const outcome = await Promise.race([
@@ -154,7 +167,12 @@ export async function open(cfg, { profileDir, headless = false } = {}) {
       err.waitFor({ state: 'visible', timeout: 30000 }).then(() => 'error'),
     ]).catch(() => 'timeout');
     if (outcome === 'error') {
-      const msg = (await page.locator('.swal2-html-container').innerText().catch(() => '')).replace(/\s+/g, ' ').trim();
+      const msg = (await page.locator('.swal2-popup').innerText().catch(() => '')).replace(/\s+/g, ' ').trim();
+      if (/chắc chắn/i.test(msg)) {
+        // A late confirmation question: answer it, then wait for the result again.
+        await confirmIfAsked(1000);
+        return waitSaved({ watchUrl, asked: asked + 1 });
+      }
       if (!/thành công/i.test(msg)) throw new Error('rookies.vn báo lỗi khi lưu: ' + (msg || '(không có nội dung)'));
     }
     // No popup at all (timeout): carry on; the reload-and-compare in verify() decides.
@@ -167,10 +185,18 @@ export async function open(cfg, { profileDir, headless = false } = {}) {
   async function verify(id, post, expected) {
     await page.goto(editUrl(id), { waitUntil: 'domcontentloaded' });
     await page.waitForFunction((eid) => !!window.tinymce?.get(eid)?.initialized, SEL.editorId, { timeout: 30000 });
-    const [title, text] = await page.evaluate(
-      ({ sel, eid }) => [document.querySelector(sel)?.value ?? '', window.tinymce.get(eid).getContent({ format: 'text' }).replace(/\s+/g, ' ').trim()],
+    const [title, text, html] = await page.evaluate(
+      ({ sel, eid }) => [
+        document.querySelector(sel)?.value ?? '',
+        window.tinymce.get(eid).getContent({ format: 'text' }).replace(/\s+/g, ' ').trim(),
+        window.tinymce.get(eid).getContent(),
+      ],
       { sel: SEL.title, eid: SEL.editorId },
     );
+    // The footer links must survive as real links, not just their label text.
+    for (const [, url] of post.html.matchAll(/<a href="([^"]+)"/g)) {
+      if (!html.includes(`href="${url}"`)) throw new Error(`Đã lưu nhưng rookies.vn bỏ mất link ở chân trang (${url}).`);
+    }
     if (title.trim() !== post.title.trim()) throw new Error(`Đã lưu nhưng tiêu đề trên rookies.vn khác: "${title}"`);
     if (text !== expected) throw new Error('Đã lưu nhưng nội dung trên rookies.vn khác bản đã gửi. Mở chương để xem.');
   }

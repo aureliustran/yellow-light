@@ -3,9 +3,9 @@
   "name": "Rookies.vn",
   "vercelUrl": "https://yellow-light.vercel.app",
   "footer": {
-    "next": "Đọc tiếp {next} tại: {nextUrl}",
-    "last": "Chương mới sẽ lên trước tại: {nextUrl}",
-    "home": "Đọc trọn bộ Đèn Vàng, có bình luận và chấm điểm từng chương: {home}"
+    "next": "[Đọc tiếp {next} trên website chính thức: đầy đủ nội dung, giao diện đọc truyện dễ chịu hơn]({nextUrl})",
+    "last": "[Chương mới sẽ lên trước trên website chính thức]({nextUrl})",
+    "home": "[Bấm vào dòng này để đọc Đèn Vàng trên website chính thức: đầy đủ nội dung, bình luận, chấm điểm từng chương]({home})"
   },
   "rookies": {
     "base": "https://rookies.vn",

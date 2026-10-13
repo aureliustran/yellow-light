@@ -32,6 +32,8 @@ Cô thả túi xuống giường, nằm sấp, mở điện thoại.
 
 Mười bốn thông báo. Nhóm lớp hỏi bài tập. Một đứa bạn gửi ảnh cái túi mới. Mẹ nhắn hỏi trưa có ăn ở nhà không. Cô trả lời mẹ là có, để nguyên mười ba cái còn lại.
 
+Ở những bữa cơm có khách của bố, cô được giới thiệu bằng đúng một câu: *con bé út nhà tôi, đang học kinh doanh ở RMIT.* Khách gật đầu, khen xinh, rồi quay sang hỏi anh trai cô chuyện công ty. Câu ấy không sai. Nhi, mười chín tuổi, sinh viên năm hai Quản trị kinh doanh ở RMIT. Thích màu hồng, và không thấy cần xin lỗi vì thích. Nghĩ gì nói nấy từ bé, nên nhiều người bảo cô vô duyên, ít ai bảo cô nói sai. Câu giới thiệu của bố chỉ thiếu một dòng, dòng cô tự viết trong điện thoại và chưa cho ai đọc.
+
 Rồi cô mở ứng dụng ghi chú.
 
 Trong ứng dụng có rất nhiều ghi chú. Danh sách phim muốn xem, công thức làm bánh chưa làm bao giờ, mật khẩu wifi ở mấy quán cà phê, một bài speaking IELTS viết đi viết lại chủ đề "[[en: Describe a person you admire || Tả một người bạn ngưỡng mộ]]". Cô kéo xuống dưới cùng, đến một ghi chú không có ảnh, không có danh sách, tiêu đề chỉ có một dòng:

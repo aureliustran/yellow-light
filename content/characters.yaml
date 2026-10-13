@@ -1,0 +1,418 @@
+# Nhân vật Đèn Vàng – nguồn dữ liệu duy nhất cho modal (web Vercel) và ghi chú dưới chương (bản phụ).
+# Cập nhật 13/10/2026, phủ đến 38-chuong-37-ba-tram-sau-muoi-do. 33 card.
+#
+# Quy ước:
+# - from: slug chương (tên file không có .md) mở nấc hồ sơ này. Thứ tự theo thứ tự chương trên site.
+# - name ở cấp stage (nếu có) ghi đè tên nhân vật cho nấc đó (dùng khi người đọc chưa biết tên thật).
+# - hideFrom: từ chương này trở đi không hiện card này nữa (đã gộp vào card khác).
+# - quote: nguyên văn trong truyện, của chính nhân vật (hoặc ý nghĩ của họ).
+# - group: chinh | quanh-thuyen | lab | nha-nhi | qua-khu (thứ tự hiển thị trong modal).
+
+- id: thuyen
+  name: "Thuyên"
+  group: chinh
+  image: /characters/thuyen.webp
+  stages:
+    - from: 03-chuong-01-den-vang
+      role: "Sinh viên năm ba Khoa học Máy tính, Đại học Công nghệ"
+      bio: "Hai mươi tuổi, quê Hà Tĩnh, dân chuyên Toán, giải Nhì quốc gia môn Tin, IELTS 8.0, vừa hết sáu tháng thực tập. Sáng nào cũng ném bóng ở sân khu tập thể. Nói chuyện được với tất cả mọi người, và chưa để ai thấy mình thật sự nghĩ gì."
+      quote: "Thôi, quả cuối mà trượt thì chưa tính là quả cuối."
+    - from: 10-chuong-08-san-khau
+      role: "Diễn giả sinh viên ở Vietnam Future Tech Summit 2026"
+      bio: "Đọc khán phòng trước khi lên sân khấu, biết chỗ nào người ta sẽ cười. Polo hàng Quảng Châu, đứng xa ba mét là xịn."
+      quote: "Lên sân khấu thì không ai nhớ cái áo giống mọi người cả."
+    - from: 16-chuong-13-buoi-hoc-dau
+      role: "Sinh viên năm ba, gia sư IELTS của Nhi"
+      bio: "Quy mọi thứ ra bát bún riêu. Dạy bằng một cái khung duy nhất: chấm, vì sao, ví dụ, quay về."
+    - from: 17-chuong-14-ngay-dau
+      role: "Kỹ sư part-time ở lab R&D Thiên Nhãn, tầng 17"
+      bio: "Sinh viên năm ba duy nhất được ký hợp đồng. Ngồi ở bàn của người cũ, cái cốc vẫn in chữ ĐẠT. Người duy nhất cầm cái đầu con voi mà cả lab chỉ sờ được từng phần."
+    - from: 27-chuong-24-mieng-banh
+      bio: "Kết quả mạnh đầu tiên của dự án là của anh, và lời khen thì về tay người khác. Đứng giữa hai phe, lần đầu anh thấy cả hai cùng nghi mình."
+      quote: "Gà cũng cần sổ đỏ."
+    - from: 36-chuong-35-hai-muoi-tam-quan
+      role: "Người cầm phần lõi của dự án"
+      bio: "Dự án sắp sang giai đoạn vận hành, danh sách nhân sự chỉ có vài ghế. Anh nhận ra không có chỗ đứng ngoài."
+      quote: "Mình không chơi thì mình là bàn cờ."
+
+- id: nhi
+  name: "Nhi"
+  group: chinh
+  image: /characters/nhi.webp
+  stages:
+    - from: 03-chuong-01-den-vang
+      name: "Cô gái đi Vespa hồng"
+      role: "Người đâm vào xe Thuyên ở đèn vàng"
+      bio: "Không đòi tiền, không đòi đền. Chỉ đòi anh nhận lỗi."
+    - from: 05b-hong-phan
+      role: "Cô gái đi Vespa hồng ở chương 1, sinh viên năm hai Quản trị kinh doanh ở RMIT"
+      bio: "Chiếc Vespa hồng là quà anh trai tặng hôm có giấy báo đỗ, tuần nào cũng lau dù không có vết xước nào. Giữ một ghi chú tên là \"Những lần mình đúng mà không ai nhường\"."
+    - from: 10-chuong-08-san-khau
+      role: "Cô gái áo len hồng, ghế VIP hàng đầu"
+      bio: "Ngồi giữa một hàng vest đen và xám. Hỏi diễn giả sinh viên một câu không ai dám hỏi."
+      quote: "Bài nói rất hay. Anh có tin câu nào trong đó không?"
+    - from: 16-chuong-13-buoi-hoc-dau
+      role: "Học sinh IELTS của Thuyên"
+      bio: "Mang theo xấp giáo án của ba gia sư cũ và một cuốn sổ hồng tự ghi lỗi sai gần một năm. Nói chuyện như ném đá. Người duy nhất Thuyên không đọc được."
+    - from: 21b-anh-xanh-man-hinh
+      bio: "Em gái anh Khải. Lần đầu nói dối anh trai: bảo là mình đi nhầm thang máy."
+    - from: 26-chuong-23-san-sang
+      quote: "Anh đẹp trai thật. Tiếc là mồm hơi thối."
+
+- id: diep-anh
+  name: "Diệp Anh"
+  group: chinh
+  image: /characters/diep-anh.webp
+  stages:
+    - from: 15-chuong-12-chu-toa
+      role: "Sinh viên năm cuối Học viện Ngoại giao, chủ tọa hội nghị Mô phỏng Liên Hợp Quốc"
+      bio: "Son đỏ kẻ như thước, đi vào phòng như người đã biết trước cả phòng sẽ nhìn. Người đầu tiên đọc được Thuyên trước khi anh kịp đọc cô. Ảnh nào có cô, cô cũng đứng giữa."
+      quote: "Hành lang cũng là sân của chị."
+    - from: 24-chuong-21-dem-nguoc
+      role: "Người yêu của Thuyên"
+      bio: "Người hỏi \"mình là gì của nhau\" năm giây trước khi pháo hoa nổ. Ở cạnh cô, Thuyên không phải hạ tốc độ. Với cả thế giới anh cứng, với cô anh nũng."
+
+- id: vu
+  name: "Vũ"
+  group: chinh
+  image: /characters/vu.webp
+  stages:
+    - from: 03-chuong-01-den-vang
+      name: "Vũ Béo"
+      role: "Bạn thân của Thuyên"
+      bio: "Bạn thân từ năm nhất, người Hà Nội gốc, nhà ở khu tập thể có sân bóng. Chủ chiếc Wave đời cũ. Chửi bậy như hát, ngủ nướng như làm nghĩa vụ, gọi Thuyên là \"idol\" với giọng mỉa."
+    - from: 12-chuong-09-den-san-khong-tat
+      bio: "Đêm sau summit, giơ tấm bìa thùng mì tôm \"CHÀO MỪNG IDOL\" ở sân. Người duy nhất Thuyên đọc được hết mà không thấy mệt."
+    - from: 23-chuong-20-san-bong
+      quote: "Nhưng mà… chị ấy nhìn sân như nhìn chỗ tổ chức sự kiện."
+    - from: 26-chuong-23-san-sang
+      quote: "Lúc lên sân khấu là nó kể bản đẹp. Anh có bản gốc."
+
+- id: khai
+  name: "Khải"
+  group: chinh
+  image: /characters/khai.webp
+  stages:
+    - from: 19-chuong-16-ban-do
+      name: "Anh Khải"
+      role: "Người ở tầng 18"
+      bio: "Gặp Thuyên trong thang máy, thân thiện, kể chuyện máy cà phê tầng anh bị hỏng. Đọc phụ lục báo cáo của lab từng dòng một."
+      quote: "Kỷ niệm mà quay logo ra ngoài."
+    - from: 21b-anh-xanh-man-hinh
+      role: "Anh trai Nhi, tầng 18"
+      bio: "Người duy nhất trong nhà nghe Nhi nói hết câu, và là người dọn mọi chuyện cho cô."
+      quote: "Lần sau mang lên thì gọi trước. Anh xuống sảnh lấy. Đỡ đi nhầm."
+    - from: 21c-mau-be
+      bio: "Hơn Nhi mười một tuổi. Người kế nghiệp mà bố giữ bên cạnh."
+    - from: 37-chuong-36-ban-nhap
+      role: "Giám đốc Khối Công nghệ, tầng 18"
+      bio: "Văn phòng của anh gửi email riêng cho Thuyên, không qua trưởng nhóm."
+
+- id: anh-trai-nhi
+  name: "Anh trai Nhi"
+  group: nha-nhi
+  image: /characters/khai.webp
+  hideFrom: 21b-anh-xanh-man-hinh
+  stages:
+    - from: 06b-mau-giay-can
+      role: "Anh trai Nhi"
+      bio: "Ở bàn ăn, người duy nhất hạ giọng hỏi tiếp khi Nhi kể chuyện. Hỏi cả tên anh sinh viên ở đèn vàng."
+    - from: 09b-kem-vien-nhu-vang
+      bio: "Một cuộc điện thoại hai mươi giây là có tấm thiệp mới."
+      quote: "Lần này đừng để anh phải dọn."
+    - from: 10b-hong-dat
+      bio: "Ngồi cạnh Nhi ở ghế VIP summit, vest xám, không cười."
+
+- id: tuan
+  name: "Anh Tuấn"
+  group: lab
+  image: /characters/tuan.webp
+  stages:
+    - from: 17-chuong-14-ngay-dau
+      role: "Trưởng lab R&D Thiên Nhãn"
+      bio: "Gọi mọi người mới là \"nhân tố đột phá\". Lo tầm nhìn, chi tiết để \"mấy đứa triển khai\" nắm. Khen người như soi gương, ai đứng trước lời khen của anh cũng thấy mặt anh."
+    - from: 18-chuong-15-du-thinh
+      quote: "Đấy. Khiêm tốn. Anh thích người khiêm tốn."
+
+- id: bao
+  name: "Anh Bảo"
+  group: lab
+  image: /characters/bao.webp
+  stages:
+    - from: 17-chuong-14-ngay-dau
+      role: "Kỹ sư trưởng"
+      bio: "Đeo tai nghe, nói đều như đọc thông số. Khinh sếp vì sếp không hiểu kỹ thuật."
+    - from: 22-chuong-19-hiep-hai
+      bio: "Rủ Thuyên đi bia hơi, ngồi gần như im cả buổi, đến cốc cuối mới nói một câu. Từ hôm ấy gọi Thuyên là \"chú\"."
+      quote: "Màu xấu thế, cả lab chỉ có chú."
+    - from: 27-chuong-24-mieng-banh
+      quote: "Ở đây không có ghế ở giữa đâu em."
+
+- id: hanh
+  name: "Chị Hạnh"
+  group: lab
+  image: /characters/hanh.webp
+  stages:
+    - from: 17-chuong-14-ngay-dau
+      role: "Điều phối dự án, \"bộ não điều phối\""
+      bio: "Cầu nối giữa lab, sếp và các khối. Bàn ăn trưa của chị là chỗ người mới bị thử."
+    - from: 37-chuong-36-ban-nhap
+      quote: "Có chuyện gì em cần chị nói với ai thì bảo chị nhé."
+
+- id: phuong
+  name: "Chị Phương"
+  group: lab
+  image: /characters/phuong.webp
+  stages:
+    - from: 17-chuong-14-ngay-dau
+      role: "Trưởng nhóm gán nhãn và vận hành dữ liệu"
+      bio: "Quản lý thực tập sinh. Việc thừa của nhóm thường đi về một góc cửa sổ."
+      quote: "Đủ người em ạ."
+
+- id: ngan
+  name: "Chị Ngân"
+  group: lab
+  image: /characters/ngan.webp
+  stages:
+    - from: 17-chuong-14-ngay-dau
+      role: "Trợ lý của anh Tuấn"
+      bio: "Ngồi sát phòng sếp, gõ biên bản không đổi nhịp. \"Không có Ngân anh chết\", lời sếp giới thiệu."
+
+- id: tram
+  name: "Trâm"
+  group: lab
+  image: /characters/tram.webp
+  stages:
+    - from: 17-chuong-14-ngay-dau
+      role: "Phụ trách đối tác"
+      bio: "Mượn từ khối kinh doanh. Hay nhìn ra cửa sổ khi sếp nói."
+
+- id: ha-my
+  name: "Hà My"
+  group: lab
+  image: /characters/ha-my.webp
+  stages:
+    - from: 17-chuong-14-ngay-dau
+      role: "Truyền thông, \"gương mặt của Thiên Nhãn\""
+      bio: "Mượn từ marketing. Mồm nhanh nhất bàn ăn trưa, biết góc nào của mặt mình đẹp nhất."
+    - from: 37-chuong-36-ban-nhap
+      role: "Đã chuyển công tác"
+
+- id: kien
+  name: "Anh Kiên"
+  group: lab
+  image: /characters/kien.webp
+  stages:
+    - from: 17-chuong-14-ngay-dau
+      role: "Kỹ sư"
+      bio: "Gần như không ngẩng khỏi màn hình. Ngày đầu gửi cho Thuyên một đường dẫn, kèm đúng một chữ \"đây\"."
+
+- id: quynh
+  name: "Chị Quỳnh"
+  group: lab
+  image: /characters/quynh.webp
+  stages:
+    - from: 17-chuong-14-ngay-dau
+      role: "Kỹ sư dữ liệu"
+      bio: "Giỏi, không theo phe nào. Về đúng năm giờ rưỡi như đồng hồ báo thức."
+
+- id: ly
+  name: "Ly"
+  group: lab
+  image: /characters/ly.webp
+  stages:
+    - from: 17-chuong-14-ngay-dau
+      role: "Thực tập sinh kiểm thử, \"bé nhất nhà\""
+      bio: "Xinh kiểu còn chưa biết mình xinh để làm gì."
+
+- id: thao-8a
+  name: "Thảo (8A)"
+  group: nha-nhi
+  image: /characters/thao.webp
+  hideFrom: 20b-xanh-co-vit
+  stages:
+    - from: 06b-mau-giay-can
+      role: "Một cái tên trong danh bạ của Nhi"
+      bio: "Nửa đêm, ngón cái Nhi dừng trên cái tên ấy. Không bấm."
+
+- id: thao
+  name: "Thảo"
+  group: lab
+  image: /characters/thao.webp
+  stages:
+    - from: 17-chuong-14-ngay-dau
+      role: "Thực tập sinh"
+      bio: "Ngồi góc cửa sổ, nhận việc của người khác mà không hỏi vì sao. Không ai gọi tên."
+    - from: 20-chuong-17-viec-cua-thao
+      bio: "Ở lại sau giờ làm, làm nốt phần của hai người khác, không được ghi tên."
+    - from: 20b-xanh-co-vit
+      role: "Thực tập sinh, sinh viên Kinh tế Quốc dân"
+      bio: "Cái tên làm Nhi đánh rơi bút khi nghe Thuyên kể chuyện lab."
+    - from: 24b-do-sam
+      bio: "Từng học cùng trường với Nhi, trên Nhi một lớp, cùng đội tuyển hùng biện. Chuyển trường giữa năm lớp chín."
+    - from: 27c-nau-ca-phe
+      quote: "Tôi có bốn mươi phút."
+
+- id: ngoc-anh
+  name: "Ngọc Anh"
+  group: quanh-thuyen
+  image: /characters/ngoc-anh.webp
+  stages:
+    - from: 03-chuong-01-den-vang
+      role: "Đàn em K71, CLB Tin học"
+      bio: "Nhờ Thuyên duyệt slide, sợ phần demo. Người Thuyên dịu dàng nhất ở CLB."
+    - from: 10-chuong-08-san-khau
+      quote: "ANH THUYÊN 10 ĐIỂM KHÔNG CÓ NHƯNG"
+
+- id: duc
+  name: "Đức"
+  group: quanh-thuyen
+  image: /characters/duc.webp
+  stages:
+    - from: 03-chuong-01-den-vang
+      role: "Phó chủ nhiệm CLB Tin học"
+      bio: "Quen mà chưa thân, xưng tôi – ông."
+    - from: 10-chuong-08-san-khau
+      quote: "Ông nói hay đấy :))"
+
+- id: thay-binh
+  name: "Thầy Bình"
+  group: quanh-thuyen
+  image: /characters/thay-binh.webp
+  stages:
+    - from: 03-chuong-01-den-vang
+      role: "Giảng viên ở khoa"
+      bio: "Người cử Thuyên lên phát biểu ở summit. Lo hơn cả diễn giả."
+    - from: 10-chuong-08-san-khau
+      quote: "Mang hai cái chưa?"
+
+- id: bac-bao-ve
+  name: "Bác bảo vệ"
+  group: quanh-thuyen
+  image: /characters/bac-bao-ve.webp
+  stages:
+    - from: 03-chuong-01-den-vang
+      role: "Bảo vệ khu tập thể nhà Vũ"
+      bio: "Giữ chìa khóa xe hộ. Chuyện gì rồi cũng quay về giá rau muống."
+    - from: 12-chuong-09-den-san-khong-tat
+      bio: "Xem livestream summit đến lần thứ tư."
+
+- id: hung
+  name: "Hưng"
+  group: quanh-thuyen
+  image: /characters/hung.webp
+  stages:
+    - from: 06-chuong-04-san-tro
+      role: "Năm nhất, nhóm pickup tối thứ Bảy"
+      bio: "Gọi Thuyên là \"anh\", nhìn anh như nhìn idol."
+    - from: 14-chuong-11-tam-thiep
+      bio: "Được Thuyên bày cho từng câu nhắn để rủ Linh."
+
+- id: linh
+  name: "Linh"
+  group: quanh-thuyen
+  image: /characters/linh.webp
+  stages:
+    - from: 12-chuong-09-den-san-khong-tat
+      role: "Năm nhất khoa Điện tử"
+      bio: "Xem livestream summit xong đòi đi theo nhóm pickup, ngồi bậc thềm quay video."
+
+- id: phong
+  name: "Phong"
+  group: quanh-thuyen
+  image: /characters/phong.webp
+  stages:
+    - from: 31-chuong-28-giao-trinh
+      role: "Bạn cùng nhóm bài tập Economics của Nhi ở RMIT"
+      bio: "Hay nhắn \"Nhi ơi\" lúc chín giờ tối hỏi bài, kèm một cái 🥺."
+    - from: 35a-chuong-33-mixue
+      bio: "Người Thuyên cứ ghép đôi với Nhi, ghép mãi."
+
+- id: bo-thuyen
+  name: "Bố"
+  group: qua-khu
+  image: /characters/bo-thuyen.webp
+  stages:
+    - from: 04-chuong-02-bao-giay-vun
+      role: "Bố Thuyên, công chức ở huyện"
+      bio: "Nghiêm, ít lời. Vứt cuốn sách vũ trụ đầu tiên của con vào bao giấy vụn. Những đêm mất điện thì lên sân thượng chỉ cho con Sao Hôm."
+    - from: 05-chuong-03-tieng-dep
+      bio: "Không nói ra lời khen nào. Hôm con đỗ chuyên, lặng lẽ mua cho con một cái Casio."
+    - from: 33-chuong-30-phi-thuyen
+      bio: "Gửi theo xe khách ra Hà Nội một chiếc Air Blade màu xanh midnight."
+
+- id: ma-thuyen
+  name: "Mạ"
+  group: qua-khu
+  image: /characters/ma-thuyen.webp
+  stages:
+    - from: 04-chuong-02-bao-giay-vun
+      role: "Mẹ Thuyên"
+      bio: "Chiều thứ Bảy nào cũng lau cái tủ kính để giấy khen giữa nhà, kỹ hơn lau bàn thờ."
+    - from: 05-chuong-03-tieng-dep
+      bio: "Gọi điện tối Chủ nhật, giọng Hà Tĩnh. Hay nhắc đến con trai bác Hùng."
+
+- id: nam
+  name: "Nam"
+  group: qua-khu
+  image: /characters/nam.webp
+  stages:
+    - from: 05-chuong-03-tieng-dep
+      role: "Con trai bác Hùng hàng xóm, hơn Thuyên một tuổi"
+      bio: "\"Con nhà người ta\" của cả tuổi thơ Thuyên. Cái tên được nhắc ở nhà Thuyên nhiều hơn cần."
+
+- id: thay-quang
+  name: "Thầy Quang"
+  group: qua-khu
+  image: /characters/thay-quang.webp
+  stages:
+    - from: 06-chuong-04-san-tro
+      role: "Thầy dạy Tin cấp ba"
+      bio: "Tóc lúc nào cũng bù xù, không bao giờ trả lời thẳng câu hỏi nào. Người đưa cho Thuyên chìa khóa phòng máy."
+      quote: "Câu hay. Em tự tìm hiểu rồi kể thầy nghe."
+
+- id: anh-long
+  name: "Anh Long"
+  group: qua-khu
+  image: /characters/anh-long.webp
+  stages:
+    - from: 06-chuong-04-san-tro
+      role: "Đàn anh ở sân bóng rổ cấp ba"
+      bio: "Mê một tay hậu vệ người Mỹ cầm bóng như có dây buộc. Dạy Thuyên chơi bóng, và dạy luôn cách mặc."
+
+- id: vy
+  name: "Vy"
+  group: qua-khu
+  image: /characters/vy.webp
+  stages:
+    - from: 06-chuong-04-san-tro
+      role: "Bạn cùng khối, chuyên Anh"
+      bio: "Cả trường biết Vy. Năm nào cũng dẫn chương trình văn nghệ. Một ngày bắt đầu đứng ở rìa sân bóng."
+    - from: 08-chuong-06-ghe-da
+      quote: "Anh có bao giờ thật sự thích em không?"
+
+- id: me-nhi
+  name: "Mẹ Nhi"
+  group: nha-nhi
+  image: /characters/me-nhi.webp
+  stages:
+    - from: 05b-hong-phan
+      role: "Mẹ Nhi"
+      bio: "Nhi hỏi đèn vàng thì phải dừng hay đi, mẹ trả lời bằng một câu không phải câu trả lời."
+      quote: "Mẹ có đi xe đâu. Lái xe đi đâu thì mẹ ngồi đằng sau."
+    - from: 06b-mau-giay-can
+      bio: "Trong phòng bố mẹ có một ống đựng bản vẽ mang tên bà. Cánh tủ đóng lại rất khẽ."
+
+- id: bo-nhi
+  name: "Bố Nhi"
+  group: nha-nhi
+  image: /characters/bo-nhi.webp
+  stages:
+    - from: 06b-mau-giay-can
+      role: "Bố Nhi"
+      bio: "Ở bàn ăn chỉ nói chuyện công ty. Nghe Nhi kể chuyện đâm xe, chỉ hỏi \"có đòi tiền không\"."
+    - from: 10b-hong-dat
+      role: "Nhà tài trợ kim cương của summit"
+      bio: "Phát biểu năm phút, đọc từ giấy, ba lần nhắc đến tên tập đoàn."
+    - from: 21c-mau-be
+      quote: "Thằng lớn thì theo tôi. Còn con bé thì sau này lấy được chồng tử tế là tôi mừng."

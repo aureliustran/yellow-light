@@ -2,7 +2,7 @@
 
 Oct 8, 2026 · @aureliustran.
 
-*Chủ nhật, 24/1/2027*
+_Chủ nhật, 24/1/2027_
 
 Sáu giờ sáng, trời chưa sáng hẳn. Mười một độ.
 
@@ -50,7 +50,7 @@ Vũ đặt cốc sữa xuống bậc thềm. Tháo mũ len. Mở camera trước
 
 Vũ nhìn anh rất lâu, cái nhìn của người đang cố tin vào tai mình.
 
-"Mày lưu gái là *Học sinh hồng*," Vũ nói chậm, "người yêu mày thấy, người yêu mày sửa. Xong mày đứng đây kể lại cho tao như khoe huy chương."
+"Mày lưu gái là _Học sinh hồng_," Vũ nói chậm, "người yêu mày thấy, người yêu mày sửa. Xong mày đứng đây kể lại cho tao như khoe huy chương."
 
 "Huy chương thật mà. Có người ghen hộ mình là một loại thành tích."
 
@@ -63,8 +63,6 @@ Vũ nhìn anh rất lâu, cái nhìn của người đang cố tin vào tai mìn
 Sáu rưỡi, tiếng máy Vespa vào ngõ, êm hơn mọi cái xe máy khác trong khu, như một con mèo đi giữa đàn vịt.
 
 Chiếc xe hồng dừng ngay cổng nhà xe. Cô xuống, tháo mũ tai mèo. Bên dưới còn một cái mũ len trắng. Áo phao hồng dài quá gối, khăn len trắng quấn đến tận mũi, chỉ thò ra hai con mắt và hai cái má đỏ ửng vì gió. Ba lô đeo trước bụng, như người đi xe buýt giờ cao điểm.
-
-Bác bảo vệ kéo chăn xuống khỏi cằm, thò nửa người ra khỏi chòi gác. Một ông cụ chạy bộ vòng quanh sân chậm lại ở góc nhà xe, chạy lùi hai bước cho nhìn rõ, rồi mới chạy tiếp. Trên tầng ba, hai chị đang phơi đồ dừng tay, chụm đầu vào nhau. Sân khu tập thể lúc sáu rưỡi sáng chưa bao giờ có nhiều người cùng nhìn về phía cổng nhà xe như thế.
 
 Thuyên nhìn. Không mất giây nào. Gương mặt này anh đã quen, cái khăn len cũng chỉ là một cái khăn len. Học sinh thì là học sinh.
 
@@ -100,7 +98,7 @@ Rồi cô nói với Thuyên:
 
 Vũ đứng đơ đúng một nhịp. Rồi gập người xuống cười, cười đến mức sữa đậu nành sóng ra khỏi cốc, nhỏ xuống giày.
 
-Thuyên thì không cười. Ba giây nhìn của cô đã dừng ở sẹo lông mày anh một nhịp lâu hơn cần thiết, rồi trượt xuống cái khuyên bạc ở tai, rồi mới về mắt. Anh cảm thấy từng chỗ cô đi qua, như ai đó lần ngón tay dọc đường ấy. Gáy anh nóng. Anh nói *đồ con nít* hoặc câu gì đó tương tự, anh không nhớ, vì cả sáng hôm đó, mỗi lần nhắm mắt, anh lại thấy đúng cái nhìn ấy.
+Thuyên thì không cười. Ba giây nhìn của cô đã dừng ở sẹo lông mày anh một nhịp lâu hơn cần thiết, rồi trượt xuống cái khuyên bạc ở tai, rồi mới về mắt. Anh cảm thấy từng chỗ cô đi qua, như ai đó lần ngón tay dọc đường ấy. Gáy anh nóng. Anh nói _đồ con nít_ hoặc câu gì đó tương tự, anh không nhớ, vì cả sáng hôm đó, mỗi lần nhắm mắt, anh lại thấy đúng cái nhìn ấy.
 
 "Em ơi. Em ơi." Vũ vừa thở vừa chỉ vào cô. "Em nói lại câu đấy cho anh ghi âm. Anh làm nhạc chuông."
 
@@ -236,7 +234,7 @@ Thuyên kéo mũ hoodie lên một chút, đủ để lộ một con mắt. "Xe 
 
 "Cho cái rổ. Cái rổ là khán giả trung thành nhất." Anh hất cằm về phía cô. "Kid không hiểu được nghệ thuật."
 
-Cô không cãi chữ *kid*. Cô nhìn anh thêm một lúc, cằm tì lên đầu gối.
+Cô không cãi chữ _kid_. Cô nhìn anh thêm một lúc, cằm tì lên đầu gối.
 
 "Ở đây anh cười to," cô nói.
 
@@ -258,11 +256,7 @@ Anh định đùa một câu. Câu đùa có sẵn, nằm ngay đầu lưỡi. N
 
 ---
 
-Gánh xôi đầu ngõ có cái nồi nhôm bọc chăn, bà bán xôi xới bằng cái muôi gỗ đen bóng. Ba gói xôi xéo, hành phi rắc dày. Đến gói thứ ba, bà nhìn Nhi một lúc, bốc thêm một nắm hành phi rắc lên, đưa tận tay cô. "Cháu nhà ai mà xinh thế này."
-
-Vũ nhìn gói của mình, nhìn gói của cô, rồi quay sang Thuyên, rất nghiêm: "Thấy chưa. Ngõ này người ta nhìn mặt mà rắc hành."
-
-Ba người ngồi lại trên bậc thềm, Nhi vẫn trên cái ba lô, Vũ ở giữa, Thuyên ở rìa.
+Gánh xôi đầu ngõ có cái nồi nhôm bọc chăn, bà bán xôi xới bằng cái muôi gỗ đen bóng. Ba gói xôi xéo, hành phi rắc dày. Ba người ngồi lại trên bậc thềm, Nhi vẫn trên cái ba lô, Vũ ở giữa, Thuyên ở rìa.
 
 Nhi chưa ăn. Cô giơ điện thoại lên, chĩa vào ba gói xôi đặt cạnh nhau trên bậc thềm, gói của Vũ đã bị cắn mất một góc, và bấm. Không ngắm, không chỉnh, chưa đến một giây.
 
@@ -298,27 +292,43 @@ Cô nói xong thì dừng, chậm hơn mọi câu khác sáng nay nửa nhịp. 
 
 "Toàn các chị," cô nói tiếp. "Gọi là bàn cào móng."
 
-"Bàn cào móng là cái gì?"
+Anh biết từ ấy. Anh đọc nó dưới tấm ảnh từ cái đêm đăng lên, đọc hai lần, rồi úp điện thoại xuống gối và nằm nhìn trần nhà khá lâu. Anh biết nó nghĩa là gì, biết đến từng chữ.
+
+"Bàn cào móng là cái gì?" anh hỏi. Giọng ngây ra, như học sinh hỏi lại một từ chưa học.
 
 "Cái bàn cho mèo cào móng à?" Vũ nhíu mày, vẫn nhai. "Lưng nó giống cái bàn cho mèo cào à? Thế thì chuẩn. Lưng nó ráp như giấy nhám."
 
-"Không phải mèo." Nhi nói, đều, như đọc định nghĩa trong sổ từ vựng. "Là lưng rộng, vai rộng. Ôm vào thì hai tay không gặp nhau. Không nắm được thì phải bám. Bám không được thì…"
+"Không phải mèo." Nhi nói, đều, như đọc định nghĩa trong sổ từ vựng.
 
-Cô giơ một bàn tay lên khỏi gói xôi, năm ngón co lại, và kéo một đường xuống trong không khí. Chậm.
+Anh chờ. Anh không giúp.
 
-Vũ hiểu trước. Vũ ngừng nhai, mắt mở to, miếng xôi nằm nguyên giữa hai má như con sóc. Rồi anh hiểu. Cái hiểu đi từ đỉnh đầu xuống, qua tai, qua gáy, đỏ lên từng chỗ nó đi qua, như cồn bắt lửa.
+"Là lưng rộng, vai rộng." Cô nói tiếp, nhìn gói xôi, không nhìn ai. "Ôm vào thì hai tay không gặp nhau."
 
-"Thôi," anh nói. "Thôi em không cần giải thích nữa."
+"Ừ," anh nói. "Rồi sao?"
 
-Nhi hạ tay xuống, nheo mắt nhìn anh phía trên mép khăn len.
+"Thì… không nắm được." Cô liếc anh một cái, rồi lại về gói xôi. "Không nắm được thì phải bám."
+
+"Bám rồi sao nữa?"
+
+Anh hỏi bằng đúng cái giọng anh dùng khi cô viết thiếu ví dụ trong bài Task 2: _Vì sao? Rồi sao? Ví dụ đâu?_ Anh biết chính xác cô đang đứng ở mép câu nào. Anh không kéo cô lại.
+
+Nhi cắn môi dưới. Rồi cô giơ một bàn tay lên khỏi gói xôi, năm ngón co lại, và kéo một đường xuống trong không khí. Chậm. Đến giữa chừng thì cô mới hiểu tay mình đang vẽ cái gì, nhưng đã muộn để dừng, nên cô vẽ cho hết.
+
+"Bám không được thì cào," cô nói. Rất nhỏ.
+
+Vũ ngừng nhai. Mắt mở to, miếng xôi nằm nguyên giữa hai má như con sóc.
+
+Anh gật gù, chậm, như vừa được giảng xong một khái niệm khó. "À. Hiểu rồi. Cảm ơn em. Từ mới."
+
+Nhi hạ tay xuống, nhìn anh. Nhìn khóe miệng anh đang cố không nhếch lên, mà nhếch lên mất một chút. Mắt cô nheo lại phía trên mép khăn len.
 
 "Làm như anh ngây thơ lắm ý."
 
-Vũ ngã ngửa ra bậc thềm, xôi văng ra khỏi miệng lần thứ hai trong buổi sáng, cười đến mức con chó nhà tầng một sủa theo. "Em ơi. Em ơi. Câu này anh cũng ghi âm."
+Vũ ngã ngửa ra bậc thềm, xôi văng ra khỏi miệng lần thứ hai trong buổi sáng, cười đến mức con chó nhà tầng một sủa theo. "Em ơi. Em ơi. Nó biết từ đầu. Nó biết từ đầu mà nó để em kể hết. Câu này anh cũng ghi âm."
 
 Nhi không cười. Cô cúi xuống gói xôi, miết mép lá chuối cho phẳng, chậm, cẩn thận, như vuốt một lá thư. Hai vành tai cô, chỗ thò ra khỏi mũ len trắng, đỏ hơn hai cái má. Anh nghĩ: rét. Mười một độ thì tai ai chẳng đỏ.
 
-Gáy anh vẫn chưa nguội. "Em xem kỹ thế."
+Gáy anh lúc ấy mới nóng lên, muộn hơn cái nhếch môi một nhịp, như hóa đơn đến sau bữa ăn. "Em xem kỹ thế."
 
 "Em xem hết," cô nói, như nói hai cộng hai. "Anh để cảnh ở ngoài, người ở trong. Ai lười bấm thì chỉ thấy cảnh."
 
@@ -426,22 +436,23 @@ Vũ nhìn cái ô vuông khô trên bậc thềm thêm một giây. "Thôi. Kệ
 
 Trên xe buýt về Cầu Giấy, anh mở cuốn sách ở trang có giấy nhớ hồng.
 
-Đoạn ấy anh thuộc. Một tấm ảnh chụp Trái Đất từ rìa Hệ Mặt Trời, cả hành tinh chỉ là một chấm sáng xanh nhỏ hơn một điểm ảnh, lọt thỏm trong một vệt nắng. *[[en: Look again at that dot. That's here. That's home. That's us. || Hãy nhìn lại chấm ấy. Đó là ở đây. Đó là nhà. Đó là chúng ta.]]* Năm lớp sáu anh đọc câu ấy bằng phụ đề tự động, trên cái máy tính nhà, lúc bố mẹ tưởng anh đang học tiếng Anh.
+Đoạn ấy anh thuộc. Một tấm ảnh chụp Trái Đất từ rìa Hệ Mặt Trời, cả hành tinh chỉ là một chấm sáng xanh nhỏ hơn một điểm ảnh, lọt thỏm trong một vệt nắng. _[[en: Look again at that dot. That's here. That's home. That's us. || Hãy nhìn lại chấm ấy. Đó là ở đây. Đó là nhà. Đó là chúng ta.]]_ Năm lớp sáu anh đọc câu ấy bằng phụ đề tự động, trên cái máy tính nhà, lúc bố mẹ tưởng anh đang học tiếng Anh.
 
 Câu ấy được gạch chân bằng bút chì màu hồng, rất mảnh, như sợ làm đau trang sách.
 
 Trên mẩu giấy nhớ, chữ của cô, mực tím:
 
-*cái chấm này là ý chính đúng không*
+_cái chấm này là ý chính đúng không_
 
 Anh cười. Đúng. Chấm là ý chính. Mũi tên là vì sao, ô vuông là ví dụ, mũi tên cuối quay về chấm. Học sinh đọc sách vũ trụ cũng tìm cái chấm. Kid học nhanh thật.
 
 Anh gõ:
 
 :::chat
+
 > đúng. chấm là ý chính. đọc trộm mà vẫn học bài, đáng khen
-Học sinh: vâng
-:::
+> Học sinh: vâng
+> :::
 
 Điện thoại rung tiếp.
 
@@ -449,8 +460,9 @@ Học sinh: vâng
 Chủ tọa: Chiều nay em mặc áo kaki nhé
 Chủ tọa: Chị chọn được chỗ có nền đỏ 📸
 Chủ tọa: Đừng xắn tay áo 🙂
+
 > vâng chị chủ tọa. tay áo e sẽ được giữ nguyên trạng
-:::
+> :::
 
 Trên màn hình chính, cái ô Locket cạnh đồng hồ vẫn là tấm ba gói xôi lệch. Chưa có tấm nào mới.
 

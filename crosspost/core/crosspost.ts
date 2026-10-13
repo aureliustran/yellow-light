@@ -187,8 +187,13 @@ export function finalText(cfg: SiteConfig, c: CrossChapter, converted: string, n
 
 const esc = (s: string) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
+// Only the footer uses links: [label](https://...) becomes <a href>. The
+// converted body never has links (checks.ts rejects them).
+const LINK = /\[([^\]\n]+)\]\((https:\/\/[^\s)]+)\)/g;
+
 function inline(s: string): string {
   return esc(s)
+    .replace(LINK, (_, label, url) => `<a href="${url}">${label}</a>`)
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
     .replace(/(^|[^*\w])\*(?!\s)(.+?)(?<!\s)\*(?=[^*\w]|$)/g, '$1<em>$2</em>');
 }
@@ -207,7 +212,7 @@ export function textToHtml(text: string): string {
 // What the editor should contain afterwards, as plain text with whitespace
 // collapsed: used to check that the site really saved what we sent.
 export function plainForCompare(text: string): string {
-  return lf(text).replace(/\*\*(.+?)\*\*/g, '$1').replace(/\*(?!\s)(.+?)(?<!\s)\*/g, '$1').replace(/\s+/g, ' ').trim();
+  return lf(text).replace(LINK, '$1').replace(/\*\*(.+?)\*\*/g, '$1').replace(/\*(?!\s)(.+?)(?<!\s)\*/g, '$1').replace(/\s+/g, ' ').trim();
 }
 
 // ───────────── Status of one chapter on one site ─────────────

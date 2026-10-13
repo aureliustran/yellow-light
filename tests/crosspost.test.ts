@@ -10,6 +10,7 @@ import {
   selectByRange,
   teaserSet,
   textToHtml,
+  plainForCompare,
   type CrossChapter,
   type PostRow,
   type SiteConfig,
@@ -48,7 +49,7 @@ const cfg: SiteConfig = {
   site: 'rookies',
   name: 'Rookies.vn',
   vercelUrl: 'https://yellow-light.vercel.app/',
-  footer: { next: 'Đọc tiếp {next} tại: {nextUrl}', last: 'Chương mới: {nextUrl}', home: 'Trọn bộ: {home}' },
+  footer: { next: '[Đọc tiếp {next}]({nextUrl})', last: '[Chương mới]({nextUrl})', home: '[Trọn bộ]({home})' },
 };
 const site: SiteRow = { site: 'rookies', name: 'Rookies.vn', teaser_limit: 2, default_mode: 'publish', enabled: true };
 
@@ -80,12 +81,18 @@ test('titles on the other site', () => {
   assert.equal(remoteTitle({ kind: 'interlude', title: 'Hồng phấn', number: null }), 'Interlude: Hồng phấn');
 });
 
+test('footer links become <a> in HTML and plain text when comparing', () => {
+  const t = '[Trọn bộ](https://yellow-light.vercel.app/)';
+  assert.equal(textToHtml(t), '<p><a href="https://yellow-light.vercel.app/">Trọn bộ</a></p>');
+  assert.equal(plainForCompare(t), 'Trọn bộ');
+});
+
 test('footer links to the next live chapter, even past the teaser', () => {
   const text = finalText(cfg, { ...live[1], story_date: 'Thứ Hai, 5/10/2026' }, 'Đoạn một.\n\nĐoạn hai.', live[2]);
   assert.match(text, /^\*Thứ Hai, 5\/10\/2026\*\n\nĐoạn một\.\n\nĐoạn hai\.\n\n\* \* \*\n\n/);
-  assert.match(text, /Đọc tiếp Interlude i2 tại: https:\/\/yellow-light\.vercel\.app\/doc\/i2\n/);
-  assert.match(text, /Trọn bộ: https:\/\/yellow-light\.vercel\.app\/\n$/);
-  assert.match(finalText(cfg, live[5], 'x', null), /Chương mới: https:\/\/yellow-light\.vercel\.app\//);
+  assert.match(text, /\[Đọc tiếp Interlude i2\]\(https:\/\/yellow-light\.vercel\.app\/doc\/i2\)\n/);
+  assert.match(text, /\[Trọn bộ\]\(https:\/\/yellow-light\.vercel\.app\/\)\n$/);
+  assert.match(finalText(cfg, live[5], 'x', null), /\[Chương mới\]\(https:\/\/yellow-light\.vercel\.app\//);
 });
 
 test('editor HTML: paragraphs, line breaks, italic, bold, scene break, escaping', () => {

@@ -417,51 +417,72 @@ Rồi anh ngồi thêm mười phút, mắt nhắm, và chiếu lại hai trăm 
 
 *Lần sau.* Anh nghe hai chữ ấy trong đầu mình, và không sửa.
 
-Anh mở `cach_doi_pho.md`. Năm dòng, bốn dòng gạch, dòng năm và dòng sáu còn nguyên. Anh không xóa file. Anh đổi tên nó thành `playbook.md`, như mọi file anh định dùng lại.
+Anh bật máy lại, mở `cach_doi_pho.md`. Năm dòng, bốn dòng gạch, dòng năm và dòng sáu còn nguyên. Anh không xóa file. Anh đổi tên nó thành `playbook.md`, như mọi file anh định dùng lại.
 
-Rồi anh mở cuốn sổ, lật lại trang chiều thứ Sáu tuần trước: ba giờ, ba tin nhắn, một ô đỏ. Lúc ghi anh chưa biết mình ghi để làm gì. Bây giờ anh biết.
+Rồi anh mở cuốn sổ, lật lại trang chiều thứ Sáu tuần trước: ba giờ, ba tin nhắn, một ô đỏ.
 
-Hồi làm đề tài ở trường, muốn biết một lớp trong mô hình quan trọng đến đâu thì người ta tháo nó ra, chạy lại, đo xem kết quả tụt bao nhiêu. Chiều thứ Sáu tuần trước, không ai định làm thế, nhưng tầng mười bảy đã chạy một lần không có anh.
+Trận này anh thắng. Nhưng anh thắng vì anh đúng, hay vì chưa có ai thử thay anh?
 
-:::sheet khong_co_minh
-| Nếu không có mình | Chiều thứ Sáu 21/5 | Thay được không? |
-| --- | --- | --- |
-| Phần lõi | ô 712 đỏ hai tiếng, không ai sửa | Không |
-| Lão | nhắn ba lần, lần nào cũng hỏi "em đâu" | Không |
-| Khách hàng | hỏi sai số chiều cao, Trâm chuyển sang mình | Không |
-| Hà My | "thông điệp kỹ thuật" là câu của mình | Không |
-| Chị Hạnh | hàng mang lên tầng 18 là chuyện phần lõi | Không |
-| Anh Kiên, anh Bảo | đọc log, chờ | Không chơi |
-| Tầng 18 | (trống) | (trống) |
-:::
+Câu hỏi ấy đã nằm dưới mọi nước đi từ đầu tuần, như một dòng `TODO` không ai xóa. Đêm nay anh gọi đúng tên nó: *mình có thể bị thay không?*
 
-Anh nhìn cột cuối. Rồi anh viết bên dưới, bằng bút, như mọi kết luận anh không muốn để trên màn hình:
+Lý lẽ thì anh có sẵn. Anh Kiên đọc được code, nhưng không biết vì sao nó chạy. Bốn mươi lần thử thất bại nằm trong đầu anh, không nằm trong bất cứ file nào. Con AI giải thích được từng phương trình, nhưng không giải thích được vì sao chọn phương trình này mà không chọn phương trình kia.
 
-:::note ink
-có ai thay được mình không? → KHÔNG.
-mũi tên nào không đi qua mình? → không có.
-mấy anh kỹ sư → không có mũi tên nào.
-:::
+Rồi anh tự cãi lại, như đã cãi lại mình chiều thứ Sáu. Tài liệu hai trăm mười bốn trang đã nằm ở tầng mười tám: tài liệu ghi *cái gì*, không ghi *vì sao*, ai đọc cũng phải quay lại hỏi người viết. Thuê người ngoài: tám mươi, một trăm hai mươi triệu một tháng, mất ba đến sáu tháng tìm người và ba tháng mới hiểu, mà production là tháng bảy, mà email đã ghi *không phát sinh tuyển mới*. Giữ anh thì hai mươi lăm triệu. Không ai bỏ ra gấp năm để thay một thứ còn chạy tốt. Còn Sơn. Sơn đi rồi đường ống vẫn chạy. Nhưng Sơn viết đường ống. Anh viết mô hình.
 
-Anh Kiên đọc được code. Anh Kiên không biết vì sao nó chạy. Bốn mươi lần thử thất bại nằm trong đầu anh, không nằm trong bất cứ file nào. Con AI giải thích được từng phương trình, nhưng không giải thích được vì sao chọn phương trình này mà không chọn phương trình kia.
+Ba lần cãi, ba lần thắng.
 
-Rồi anh tự cãi lại, như đã cãi lại mình chiều thứ Sáu. Tài liệu hai trăm mười bốn trang đã nằm ở tầng mười tám: tài liệu ghi *cái gì*, không ghi *vì sao*, ai đọc cũng phải quay lại hỏi người viết. Thuê người ngoài: tám mươi, một trăm hai mươi triệu, ba tháng mới hiểu, mà production là tháng bảy. Không ai bỏ ra gấp năm để thay một thứ còn chạy tốt. Còn Sơn. Sơn đi rồi đường ống vẫn chạy. Nhưng Sơn viết đường ống. Anh viết mô hình.
+Nhưng người cãi và người chấm là cùng một người. Cả ba lý lẽ đều là suy luận trên giấy, và mỗi suy luận đứng trên một giả định anh chưa kiểm: rằng lão tính tiền đúng như anh tính, rằng anh Kiên kẹt thật chứ không chỉ chưa thử, rằng không ai học nhanh hơn anh nghĩ. Lý lẽ cho anh biết mình *có vẻ* quan trọng. Lý lẽ chưa chứng minh được mình không thay được.
 
-Ba lần cãi, ba lần thắng. Anh viết dòng cuối:
+Anh cần câu trả lời, vì những gì sắp đến lớn hơn ván Hà My. Danh sách nộp trước mười lăm tháng sáu, mỗi dòng là một ghế, và mỗi nước đi để giữ ghế sẽ phải đặt cược nhiều hơn một bản nháp. Trước khi đặt cược, anh cần một cơ sở. Cảm giác mình quan trọng thì không phải cơ sở: ai cũng có cảm giác ấy, và người bị loại thường là người thấy mình chắc nhất. Cơ sở là thứ vẫn đứng vững khi anh dồn cả sức nặng lên.
+
+Mục đích rất rõ: chứng minh mình đủ quan trọng để không ai thay được. Chứng minh, không phải tin.
+
+Thứ duy nhất không phải suy luận là trang sổ chiều thứ Sáu. Nó trông giống một bằng chứng. Ô đỏ không ai sửa, lão nhắn ba lần, câu hỏi của khách bị chuyển sang anh. Nhưng anh đọc lại nó như đọc bài của người khác, và thấy ba lỗ.
+
+Một: hôm ấy anh vắng để bẫy chị Hạnh và Hà My, không phải để đo. Những gì anh ghi lại chỉ là tác dụng phụ.
+
+Hai: anh không bàn giao gì. Người ta kẹt vì không ai thay được anh, hay vì anh không để lại gì? Từ trang sổ này không tách được.
+
+Ba: anh không đặt tiêu chí từ trước. Không có tiêu chí thì nhìn đâu cũng thấy điều mình muốn thấy.
 
 :::note ink
-trước tháng bảy, không ai thay được mình.
+chiều t6 21/5: quan sát. chưa phải phép thử.
 :::
 
-Anh gạch dưới hai chữ *không ai*. Anh không gạch dưới mấy chữ *trước tháng bảy*.
+Hồi làm đề tài ở trường, muốn biết một lớp trong mô hình quan trọng đến đâu thì người ta tháo nó ra, chạy lại, đo xem kết quả tụt bao nhiêu. Nhưng phải nói trước sẽ đo cái gì, và tụt đến đâu thì tính là quan trọng. Nói sau khi đã thấy kết quả thì đấy là kể chuyện, không phải đo.
 
-Bàn đối diện, ghế anh Bảo trống. Anh nhớ câu anh Bảo nói đêm hai mươi tám Tết, lúc ô ba trăm bốn mươi vừa chạy xong: *biết rồi thì đừng để nó thành cái xích.* Đêm ấy anh chưa kịp hỏi xích là gì. Đêm nay anh nghĩ là mình hiểu. Mọi mũi tên đều đi qua anh, thì anh là cái khóa của cả sợi xích. Ai muốn kéo sợi xích về phía mình cũng phải qua anh.
+Anh lật sang trang mới, viết phép thử. Bốn dòng.
 
-Lão không cần anh tin lão. Lão cần anh. Cả tầng này cần anh.
+:::note ink
+không có mình, tầng 17 có chạy không?
+→ nghỉ 1 ngày. bàn giao đủ. 6h tối mới đọc.
+→ có MỘT người làm được việc của mình: trượt. mình thay được.
+→ cả ngày không ai làm được: đỗ. không ai thay được mình.
+:::
 
-Số ① vẫn để trống. Danh sách chưa ai viết. Nhưng khi không ai thay được một người, người viết danh sách không còn nhiều cách để viết.
+Tiêu chí khắt khe, và anh để nó khắt khe có chủ đích. Chỉ cần một người làm được việc của anh là lão đã có lựa chọn khác. Chỉ khi không ai làm được, cơ sở mới đủ chắc để đứng lên. Còn bàn giao đủ là để không ai, kể cả chính anh, nói được rằng người ta kẹt vì anh giấu.
 
-Trên tờ giấy, ô tầng mười tám vẫn để trống.
+Anh viết bản bàn giao luôn, ngay tại bàn. Mật khẩu máy chủ. Danh sách đầu mối phía đối tác. Lịch chạy đêm. Một runbook mười hai mục cho những ô hay lỗi, ô 712 ở mục đầu tiên: *nếu đỏ, làm lần lượt bước 1 đến bước 4.* Anh Kiên trực, ghi mọi sự cố vào một sheet chung: mấy giờ, chuyện gì, ai xử lý, xong chưa.
+
+Đến lúc soát lại, anh dừng ở runbook.
+
+Mười hai mục, mục nào cũng ghi đủ từng bước. Không mục nào ghi vì sao chọn bước ấy. Vì sao bước 3 lọc mây ở ngưỡng không phẩy ba lăm mà không phải không phẩy bốn, câu trả lời nằm trong bốn mươi lần thử thất bại, và bốn mươi lần ấy nằm trong đầu anh, không nằm trong file nào.
+
+Anh biết chỗ này nghĩa là gì. Người làm phép thử viết luôn bản bàn giao, nên phép thử có thể lệch về phía người làm. Nếu là đề tài ở trường, thầy hướng dẫn sẽ khoanh đỏ đúng chỗ này. Thêm một cột *vì sao* cho mười hai mục thì mất một buổi tối.
+
+*Bàn giao là ghi cách làm,* anh nghĩ. *Không phải dạy lại.*
+
+Anh đóng file. Anh biết, và anh chọn không sửa.
+
+Rồi anh mở Teams.
+
+:::chat Teams · anh Tuấn
+> Mai em xin nghỉ một ngày ạ. Em gửi bàn giao cho anh Kiên rồi, có gì anh Kiên trực.
+Anh Tuấn: Ok em
+Anh Tuấn: Mấy hôm nay vất vả rồi, nghỉ cho lại sức 👍
+:::
+
+Lão duyệt trong bốn phút. Người vừa thắng thì xin gì cũng dễ.
 
 Bảy quân đứng dọc mép bàn, trong một dãy đèn trần duy nhất còn sáng. Bảy quân bằng nhau, cách nhau đúng một đốt ngón tay.
 
@@ -477,5 +498,7 @@ Chủ tọa: Chị đọc được 📝
 :::
 
 Anh cười, gõ một cái 🥺, rồi xóa, rồi gõ lại, rồi gửi. Lần này anh không đếm mình đã gõ lại mấy lần. Gõ lại một cái emoji thì có sao.
+
+Mai anh có cả một ngày không có mặt ở đây. Sáu giờ tối mai, anh sẽ biết mình đang đứng trên cái gì.
 
 Anh đứng dậy, khoác ba lô. Ra đến thang máy, anh mới nhớ ra là cả buổi chiều nay, từ lúc Hà My ôm thùng đi, anh chưa rửa mặt lần nào, và cũng không thấy cần.
