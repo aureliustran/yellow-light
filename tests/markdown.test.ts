@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { renderMarkdown, excerpt, stripTranslations, findMarkupProblems } from '../src/lib/markdown.ts';
+import { renderMarkdown, excerpt, stripTranslations, findMarkupProblems, parseNotifications, notificationAppKey } from '../src/lib/markdown.ts';
 import { slugify } from '../src/lib/slug.ts';
 import { withNumbers, chapterLabel } from '../src/lib/chapters-shared.ts';
 
@@ -166,4 +166,79 @@ test('chapter numbers skip interludes and follow order', () => {
   assert.deepEqual(n.map((x) => [x.id, x.number]), [['a', 1], ['i', null], ['c', 2]]);
   assert.equal(chapterLabel(n[1]), 'Interlude');
   assert.equal(chapterLabel(n[2]), 'Chương 2');
+});
+
+
+test('notifications: lines with and without content, multi-part titles, extra colons', () => {
+  const b = parseNotifications(
+    '18:00 · Thứ Sáu, 28 tháng 5',
+    [
+      '09:00  Email · Khối Công nghệ – Nhân sự: Đánh giá 360 độ trước giai đoạn vận hành (hạn 4/6)',
+      '11:24  Teams · Thiên Nhãn – R&D · anh Tuấn: Ô 712 thôi để thứ Hai Thuyên vào xem',
+      '12:10  Cuộc gọi nhỡ · Mạ',
+      '15:32  Ngân hàng: +5.000.000đ. ND: THUONG NONG T5 THIEN NHAN',
+    ].join('\n'),
+  );
+  assert.equal(b.clock, '18:00');
+  assert.equal(b.date, 'Thứ Sáu, 28 tháng 5');
+  assert.deepEqual(b.items[0], { time: '09:00', app: 'Email', sender: 'Khối Công nghệ – Nhân sự', body: 'Đánh giá 360 độ trước giai đoạn vận hành (hạn 4/6)' });
+  // several " · " parts: the first is the app, the rest the sender
+  assert.deepEqual(b.items[1], { time: '11:24', app: 'Teams', sender: 'Thiên Nhãn – R&D · anh Tuấn', body: 'Ô 712 thôi để thứ Hai Thuyên vào xem' });
+  // no ":" → all title, no content
+  assert.deepEqual(b.items[2], { time: '12:10', app: 'Cuộc gọi nhỡ', sender: 'Mạ', body: '' });
+  // only the FIRST ":" splits; later ones stay in the content
+  assert.deepEqual(b.items[3], { time: '15:32', app: 'Ngân hàng', sender: '', body: '+5.000.000đ. ND: THUONG NONG T5 THIEN NHAN' });
+});
+
+test('notifications: header is optional; a ":" inside a translation marker is not the split', () => {
+  assert.deepEqual(parseNotifications('', '09:00  Zalo · Mạ: hi').items.length, 1);
+  const b = parseNotifications('', '09:00  Zalo · [[en: Mom: call || Mẹ gọi]]');
+  assert.equal(b.clock, '');
+  assert.equal(b.date, '');
+  assert.equal(b.items[0].body, '');
+  assert.equal(b.items[0].sender, '[[en: Mom: call || Mẹ gọi]]');
+  assert.equal(parseNotifications('Thứ Hai', '').date, 'Thứ Hai');
+});
+
+test('notifications: a line without a time continues the previous one', () => {
+  const b = parseNotifications('', '09:00  Email · A: một\nhai\n\n10:00  Zalo · B: ba');
+  assert.equal(b.items.length, 2);
+  assert.equal(b.items[0].body, 'một hai');
+});
+
+test('notifications: app icons by name, ignoring case and accents; unknown apps are generic', () => {
+  assert.equal(notificationAppKey('Email'), 'mail');
+  assert.equal(notificationAppKey('Teams'), 'teams');
+  assert.equal(notificationAppKey('Cuộc gọi nhỡ'), 'phone');
+  assert.equal(notificationAppKey('NGÂN HÀNG'), 'bank');
+  assert.equal(notificationAppKey('Ngân hàng VCB'), 'bank');
+  assert.equal(notificationAppKey('Cảnh báo đường ống'), 'system');
+  assert.equal(notificationAppKey('Zalo'), 'zalo');
+  assert.equal(notificationAppKey('Tiktok'), 'generic');
+});
+
+test('notifications block: renders cards in order, escapes, translations work, excerpt skips it', () => {
+  const html = renderMarkdown(
+    'Trước.\n\n:::notifications 18:00 · Thứ Sáu\n09:00  Email · A <b>: chào [[en: hi || xin chào]] 😀\n12:10  Cuộc gọi nhỡ · Mạ\n:::\n\nSau.',
+  );
+  assert.match(html, /<figure class="notif"><div class="notif-head"><div class="notif-clock">18:00<\/div><div class="notif-date">Thứ Sáu<\/div><\/div>/);
+  assert.ok(html.indexOf('09:00') < html.indexOf('12:10'));
+  assert.match(html, /class="nf-icon app-mail"/);
+  assert.match(html, /class="nf-icon app-phone"/);
+  assert.match(html, /<div class="nf-from">A &lt;b&gt;<\/div>/);
+  assert.match(html, /class="nf-body">chào <span class="tr tr-en"/);
+  assert.match(html, /😀/);
+  assert.equal((html.match(/nf-body/g) ?? []).length, 1); // the call has no content
+  assert.equal(excerpt('Mở đầu.\n\n:::notifications\n09:00  Zalo · Mạ: ẩn\n:::\n\nCuối.'), 'Mở đầu. Cuối.');
+});
+
+test('notifications: does not disturb the phone block; markup check warns about stray lines', () => {
+  const html = renderMarkdown(':::phone Ghi chú\ndòng một\n:::\n\n:::notifications\n09:00  Zalo · Mạ: hi\n:::');
+  assert.match(html, /<figure class="phone">/);
+  assert.match(html, /<figure class="notif">/);
+  assert.deepEqual(findMarkupProblems(':::notifications\n09:00  Zalo · Mạ: hi\n:::'), []);
+  const p = findMarkupProblems('A\n\n:::notifications\n09:00  Zalo · Mạ: hi\n9h sáng lỗi\n:::');
+  assert.equal(p.length, 1);
+  assert.match(p[0], /^Dòng 5:/);
+  assert.match(findMarkupProblems(':::notifications\n09:00  Zalo · Mạ: hi')[0], /chưa có dòng ":::"/);
 });

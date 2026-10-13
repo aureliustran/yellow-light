@@ -453,6 +453,73 @@ dialog.login p.rename-error[hidden] { display: none; }
 .phone-title { margin: 0 0 4px; font-size: 19px; font-weight: 700; line-height: 1.35; }
 .phone-body em { font-style: normal; }
 
+/* A notification list, like an iPhone lock screen (:::notifications). Colours come
+   from the site theme, so it follows light and dark. Without JavaScript the list is
+   simply shown in full; notifications.ts adds .is-js (fixed height, inner scroll). */
+.notif {
+  --nf-glass: color-mix(in srgb, var(--card) 66%, transparent);
+  --nf-edge: color-mix(in srgb, var(--ink) 11%, transparent);
+  position: relative; display: flex; flex-direction: column; min-width: 0;
+  max-width: 400px; margin: 1.8em auto; overflow: hidden;
+  border: 1px solid var(--line-strong); border-radius: 38px;
+  background:
+    radial-gradient(120% 55% at 18% 0%, color-mix(in srgb, var(--amber) 28%, transparent), transparent 62%),
+    radial-gradient(90% 50% at 100% 100%, color-mix(in srgb, #5B8DEF 24%, transparent), transparent 60%),
+    linear-gradient(180deg, var(--fog-top), var(--surface));
+  box-shadow: 0 18px 40px -26px rgba(20, 30, 40, .55);
+  color: var(--ink); font-family: var(--sans);
+}
+.notif.is-js { height: 560px; }
+.notif .notif-head { flex: none; padding: 28px 20px 10px; text-align: center; }
+.notif .notif-clock { font-size: 64px; font-weight: 600; line-height: 1; letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
+.notif .notif-date { margin-top: 8px; font-size: 16px; font-weight: 500; color: var(--ink-2); }
+.notif .notif-scroll { flex: 1 1 auto; min-height: 0; padding: 12px 12px 20px; scrollbar-width: none; }
+.notif .notif-scroll::-webkit-scrollbar { display: none; }
+.notif .notif-scroll:focus-visible { outline: 2px solid var(--amber); outline-offset: -4px; border-radius: 30px; }
+.notif.is-js .notif-scroll { overflow-y: auto; -webkit-overflow-scrolling: touch; }
+.notif.is-js .notif-scroll[data-more] {
+  -webkit-mask-image: linear-gradient(to bottom, #000 calc(100% - 64px), transparent);
+  mask-image: linear-gradient(to bottom, #000 calc(100% - 64px), transparent);
+}
+.notif .notif-list { display: flex; flex-direction: column; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.notif .notif-card {
+  display: flex; align-items: flex-start; gap: 11px; margin: 0; padding: 11px 13px 12px;
+  border: 1px solid var(--nf-edge); border-radius: 22px; background: var(--nf-glass);
+  -webkit-backdrop-filter: blur(18px) saturate(1.5); backdrop-filter: blur(18px) saturate(1.5);
+  box-shadow: 0 6px 16px -12px rgba(0, 0, 0, .45);
+}
+.notif .notif-card.can-open { cursor: pointer; }
+.notif .notif-card.can-open:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; }
+.notif .nf-icon { flex: none; display: grid; place-items: center; width: 38px; height: 38px; border-radius: 10px; box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .2); }
+.notif .nf-icon svg { width: 22px; height: 22px; }
+/* One colour per app. A new app in NOTIF_APPS (markdown.ts) needs a line here. */
+.notif .app-mail { background: linear-gradient(180deg, #4DB2FF, #1E6FEA); }
+.notif .app-teams { background: linear-gradient(180deg, #7B83EB, #464EB8); }
+.notif .app-phone { background: linear-gradient(180deg, #5DDB77, #26A840); }
+.notif .app-bank { background: linear-gradient(180deg, #2FA4B5, #12607A); }
+.notif .app-system { background: linear-gradient(180deg, #FFB347, #F27D0C); }
+.notif .app-zalo { background: linear-gradient(180deg, #2A85FF, #0059E0); }
+.notif .app-generic { background: linear-gradient(180deg, #B7C0C7, #7D8991); }
+.notif .nf-main { flex: 1 1 auto; min-width: 0; }
+.notif .nf-top { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; }
+.notif .nf-app { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--ink-2); font-size: 11.5px; font-weight: 600; letter-spacing: .05em; text-transform: uppercase; }
+.notif .nf-time { flex: none; color: var(--ink-2); font-size: 12px; font-variant-numeric: tabular-nums; }
+.notif .nf-from { margin-top: 3px; font-size: 15px; font-weight: 700; line-height: 1.3; overflow-wrap: anywhere; }
+.notif .nf-body { margin-top: 2px; font-size: 15px; line-height: 1.38; overflow-wrap: anywhere; }
+.notif.is-js .nf-body { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; overflow: hidden; }
+.notif.is-js .notif-card.is-open .nf-body { display: block; overflow: visible; }
+.notif .nf-body em { font-style: normal; }
+@media (prefers-reduced-motion: no-preference) {
+  .notif.is-armed .notif-card { opacity: 0; transform: translateY(16px) scale(.97); }
+  .notif.is-in .notif-card { opacity: 1; transform: none; transition: opacity .5s ease, transform .5s cubic-bezier(.2, .8, .2, 1); transition-delay: calc(var(--i, 0) * 60ms); }
+}
+@media print { .notif .notif-card { opacity: 1 !important; transform: none !important; } }
+@media (max-width: 680px) {
+  .notif { max-width: 100%; margin: 1.4em auto; border-radius: 32px; }
+  .notif.is-js { height: 70vh; }
+  .notif .notif-clock { font-size: 54px; }
+}
+
 .sheet { max-width: 700px; }
 
 .email { border: 1px solid var(--line); border-radius: 14px; background: var(--mail-bg); overflow: hidden; font-size: 15px; line-height: 1.6; color: var(--ink); }

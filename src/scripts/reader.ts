@@ -3,6 +3,7 @@ import { onMe, openLogin, type Me } from './auth';
 import { trackView } from './analytics';
 import { initComments } from './comments';
 import { initTranslations } from './translations';
+import { initNotifications } from './notifications';
 import { attachStars, formatNumber, store, toast } from './ui';
 
 export function initReader(): void {
@@ -47,6 +48,7 @@ export function initReader(): void {
 
   // Translations
   if (prose) initTranslations(prose, document.querySelector<HTMLButtonElement>('[data-tr-all]'));
+  if (prose) initNotifications(prose);
 
   if (!isConfigured) return;
   const sb = browserClient();

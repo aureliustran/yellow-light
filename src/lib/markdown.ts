@@ -18,6 +18,8 @@
 //   :::ide file.py              an IDE or terminal window (dark); lines starting "$ " are shell commands
 //   :::note [ink] Title         a handwritten note; a list inside it is drawn as handwritten lines
 //   :::phone [Title]           a note typed in a phone's Notes app: every line of the block is a line of the note
+//   :::notifications 18:00 · Thứ Sáu, 28 tháng 5   an iPhone notification list; one line per notification:
+//                               "09:00  App · Sender: text" (time, two spaces; title cut at the first ":")
 //   :::sheet File name          a spreadsheet: a Markdown table; start a row with [x] (done, green) or [~] (waiting, yellow);
 //                               an empty cell or (trống) is a blank cell
 //
@@ -363,6 +365,129 @@ const phoneExtension: TokenizerAndRendererExtension = {
   },
 };
 
+// ───────────── Notification list (iPhone lock screen) ─────────────
+//   :::notifications 18:00 · Thứ Sáu, 28 tháng 5
+//   09:00  Email · Khối Công nghệ: Đánh giá 360 độ (hạn 4/6)
+//   12:10  Cuộc gọi nhỡ · Mạ
+//   :::
+// Each line is "HH:MM", two spaces, then "title: content". The title is cut at
+// the FIRST ":" (outside [[en: …]] markers) and its parts are separated by " · ":
+// the first part is the app, the rest the channel or sender. No ":" → all title.
+
+// Icons of the apps. TO ADD AN APP: add one line to NOTIF_APPS (names are compared
+// without case or accents), then a matching ".nf-icon.app-<key>" colour in global.css
+// and, if it needs its own picture, an entry in NOTIF_ICONS.
+export const NOTIF_APPS: { key: string; names: string[] }[] = [
+  { key: 'mail', names: ['email', 'mail', 'gmail', 'outlook', 'thu'] },
+  { key: 'teams', names: ['teams', 'microsoft teams'] },
+  { key: 'phone', names: ['cuoc goi nho', 'cuoc goi', 'dien thoai', 'phone'] },
+  { key: 'bank', names: ['ngan hang', 'bank', 'vcb', 'techcombank', 'mb bank', 'momo'] },
+  { key: 'system', names: ['canh bao duong ong', 'canh bao', 'he thong', 'system', 'pipeline'] },
+  { key: 'zalo', names: ['zalo'] },
+];
+
+const NOTIF_SVG = (inner: string) =>
+  `<svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${inner}</svg>`;
+
+export const NOTIF_ICONS: Record<string, string> = {
+  mail: NOTIF_SVG('<rect x="3" y="5.5" width="18" height="13" rx="2.5"/><path d="m4 8 8 5.5L20 8"/>'),
+  teams: NOTIF_SVG('<path d="M4 7.5h10M9 7.5V18"/><circle cx="18" cy="9" r="2"/><path d="M15.5 18v-3.5a2.5 2.5 0 0 1 5 0V18"/>'),
+  phone: NOTIF_SVG('<path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>'),
+  bank: NOTIF_SVG('<path d="M3 10 12 4l9 6H3z"/><path d="M5.5 10v7.5M9.5 10v7.5M14.5 10v7.5M18.5 10v7.5M3 20h18"/>'),
+  system: NOTIF_SVG('<path d="M12 4 3 19.5h18L12 4z"/><path d="M12 10v4.5M12 17.2v.01"/>'),
+  zalo: `<svg viewBox="0 0 24 24" aria-hidden="true"><text x="12" y="15.6" text-anchor="middle" font-family="Arial, sans-serif" font-size="9.5" font-weight="800" fill="#fff">Zalo</text></svg>`,
+  generic: NOTIF_SVG('<path d="M6 16v-5a6 6 0 0 1 12 0v5l1.5 2h-15L6 16z"/><path d="M10 20.5a2 2 0 0 0 4 0"/>'),
+};
+
+const plain = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/đ/g, 'd').toLowerCase().trim();
+
+export function notificationAppKey(app: string): string {
+  const a = plain(app);
+  return NOTIF_APPS.find((x) => x.names.some((n) => a === n || a.startsWith(n + ' ')))?.key ?? 'generic';
+}
+
+export interface NotificationItem { time: string; app: string; sender: string; body: string }
+export interface NotificationBlock { clock: string; date: string; items: NotificationItem[] }
+
+const NOTIF_LINE = /^(\d{1,2}:\d{2})(?:[ \t]{2,}|\t)(\S.*)$/;
+const NOTIF_HEAD = /^(\d{1,2}:\d{2})(?:[ \t]*·[ \t]*|[ \t]+|$)(.*)$/;
+
+// Index of the first ":" that is not inside a [[…]] marker, or -1.
+function firstColon(s: string): number {
+  for (let i = 0; i < s.length; i++) {
+    if (s.startsWith('[[', i)) {
+      const end = s.indexOf(']]', i + 2);
+      if (end > -1) i = end + 1;
+    } else if (s[i] === ':') return i;
+  }
+  return -1;
+}
+
+// Pure parsing, so it can be tested without rendering.
+export function parseNotifications(head: string, body: string): NotificationBlock {
+  const h = NOTIF_HEAD.exec(head.trim());
+  const clock = h ? h[1] : '';
+  const date = (h ? h[2] : head).trim();
+  const items: NotificationItem[] = [];
+  for (const raw of body.split('\n')) {
+    const line = raw.trim();
+    if (!line) continue;
+    const m = NOTIF_LINE.exec(line);
+    if (!m) {
+      // a line without a time continues the previous notification's text
+      const last = items[items.length - 1];
+      if (last) last.body = last.body ? `${last.body} ${line}` : line;
+      continue;
+    }
+    const rest = m[2];
+    const c = firstColon(rest);
+    const title = (c < 0 ? rest : rest.slice(0, c)).trim();
+    const text = c < 0 ? '' : rest.slice(c + 1).trim();
+    const [app, ...from] = title.split(/[ \t]+·[ \t]+/).map((p) => p.trim()).filter(Boolean);
+    items.push({ time: m[1], app: app ?? '', sender: from.join(' · '), body: text });
+  }
+  return { clock, date, items };
+}
+
+const notificationsExtension: TokenizerAndRendererExtension = {
+  name: 'notifications',
+  level: 'block',
+  start: blockStart('notifications'),
+  tokenizer(src: string) {
+    const f = fenced('notifications', src);
+    if (!f) return undefined;
+    const block = parseNotifications(f.title, f.body);
+    return {
+      type: 'notifications',
+      raw: f.raw,
+      clock: block.clock,
+      date: block.date,
+      items: block.items.map((it) => ({ ...it, tokens: it.body ? this.lexer.inlineTokens(it.body) : [] })),
+    };
+  },
+  renderer(token) {
+    const items = token.items as (NotificationItem & { tokens: Token[] })[];
+    const head =
+      token.clock || token.date
+        ? `<div class="notif-head">${token.clock ? `<div class="notif-clock">${escapeHtml(String(token.clock))}</div>` : ''}` +
+          `${token.date ? `<div class="notif-date">${escapeHtml(String(token.date))}</div>` : ''}</div>`
+        : '';
+    const cards = items
+      .map((it) => {
+        const key = notificationAppKey(it.app);
+        return (
+          `<li class="notif-card"><span class="nf-icon app-${key}" aria-hidden="true">${NOTIF_ICONS[key]}</span>` +
+          `<div class="nf-main"><div class="nf-top"><span class="nf-app">${escapeHtml(it.app)}</span><time class="nf-time">${escapeHtml(it.time)}</time></div>` +
+          (it.sender ? `<div class="nf-from">${escapeHtml(it.sender)}</div>` : '') +
+          (it.body ? `<div class="nf-body">${this.parser.parseInline(it.tokens)}</div>` : '') +
+          `</div></li>`
+        );
+      })
+      .join('');
+    return `<figure class="notif">${head}<div class="notif-scroll" role="region" aria-label="Danh sách thông báo" tabindex="0"><ol class="notif-list">${cards}</ol></div></figure>\n`;
+  },
+};
+
 // Spreadsheet: a Markdown table with column letters and row numbers.
 const ROW_MARK = /^\[(x|~|!)\][ \t]*/i;
 const ROW_CLASS: Record<string, string> = { x: 'is-done', '~': 'is-wait', '!': 'is-flag' };
@@ -430,6 +555,7 @@ const marked = new Marked({
     codeExtension('ide'),
     noteExtension,
     phoneExtension,
+    notificationsExtension,
     sheetExtension,
     blockTranslation,
     inlineTranslation,
@@ -458,7 +584,7 @@ export function stripTranslations(md: string): string {
 // Plain-text preview of a chapter, for share cards and search results.
 export function excerpt(md: string, max = 160): string {
   const text = stripTranslations(md)
-    .replace(/^:::(?:chat|email|editor|ide|note|phone|sheet)\b[\s\S]*?^:::\s*$/gm, ' ')
+    .replace(/^:::(?:chat|email|editor|ide|note|phone|notifications|sheet)\b[\s\S]*?^:::\s*$/gm, ' ')
     .replace(/^\s*(---|\*\*\*|___)\s*$/gm, ' ')
     .replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
     .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
@@ -490,7 +616,7 @@ export function findMarkupProblems(md: string): string[] {
     problems.push(`Dòng ${lineOf(m.index)}: chỉ dùng [[en: …]] hoặc [[ht: …]].`);
   }
 
-  const blockOpen = /^:::(chat|dich|email|editor|ide|note|phone|sheet)\b[^\n]*$/gm;
+  const blockOpen = /^:::(chat|dich|email|editor|ide|note|phone|notifications|sheet)\b[^\n]*$/gm;
   while ((m = blockOpen.exec(src))) {
     const rest = src.slice(m.index + m[0].length);
     const close = /^:::[ \t]*$/m.exec(rest);
@@ -500,6 +626,14 @@ export function findMarkupProblems(md: string): string[] {
     }
     if (m[1] === 'sheet' && !/^\s*\|?\s*:?-{3,}/m.test(rest.slice(0, close.index))) {
       problems.push(`Dòng ${lineOf(m.index)}: khối :::sheet cần một bảng Markdown (hàng tiêu đề, hàng | --- |, các hàng dữ liệu).`);
+    }
+    if (m[1] === 'notifications') {
+      const first = lineOf(m.index) + 1;
+      rest.slice(0, close.index).split('\n').slice(1).forEach((l, i) => {
+        if (l.trim() && !NOTIF_LINE.test(l.trim())) {
+          problems.push(`Dòng ${first + i}: thông báo cần bắt đầu bằng giờ "HH:MM" và hai dấu cách (không thì dòng này được nối vào thông báo trước).`);
+        }
+      });
     }
     if (m[1] === 'dich') {
       if (!/^:::dich[ \t]+(en|ht)[ \t]*$/.test(m[0])) {

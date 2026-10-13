@@ -7,6 +7,7 @@ import { slugify } from '../lib/slug';
 import { withNumbers, chapterLabel, isLive, type ChapterRow } from '../lib/chapters-shared';
 import { onMe, openLogin } from './auth';
 import { initTranslations } from './translations';
+import { initNotifications } from './notifications';
 import { h, toast } from './ui';
 
 type Row = ChapterRow & { number: number | null };
@@ -119,6 +120,7 @@ function startEditor(): void {
     if (preview.hidden) return;
     previewBody.innerHTML = renderMarkdown(f.body.value); // renderer escapes raw HTML
     initTranslations(previewBody);
+    initNotifications(previewBody);
   };
 
   function fill(r: Partial<ChapterRow> & { body?: string }) {
@@ -338,6 +340,7 @@ function startEditor(): void {
         case 'ide':
         case 'note':
         case 'phone':
+        case 'notifications':
         case 'sheet': {
           const T: Record<string, [string, string]> = {
             email: [':::email\nTừ: Người gửi\nĐến: Người nhận\nChủ đề: Tiêu đề thư\n\nNội dung thư.\n:::', 'Tiêu đề thư'],
@@ -345,6 +348,7 @@ function startEditor(): void {
             ide: [':::ide Terminal\n$ lệnh\n:::', 'lệnh'],
             note: [':::note Tiêu đề\n- mục một\n- mục hai\n:::', 'Tiêu đề'],
             phone: [':::phone Tiêu đề ghi chú\ndòng một\ndòng hai\n:::', 'Tiêu đề ghi chú'],
+            notifications: [':::notifications 18:00 · Thứ Sáu, 28 tháng 5\n09:00  Email · Người gửi: nội dung thông báo\n12:10  Cuộc gọi nhỡ · Tên\n:::', 'Người gửi'],
             sheet: [':::sheet Ten_file\n| Cột A | Cột B |\n| --- | --- |\n| [x] ô A1 | ô B1 |\n| [~] ô A2 | ô B2 |\n:::', 'Ten_file'],
           };
           const [body, pick] = T[b.dataset.insert as string];
