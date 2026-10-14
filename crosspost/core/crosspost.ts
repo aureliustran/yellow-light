@@ -25,6 +25,9 @@ export interface SiteConfig {
   site: string;
   name: string;
   vercelUrl: string; // e.g. https://yellow-light.vercel.app (no trailing slash)
+  // A foreword written by hand on that site. It is never synced, converted or
+  // adopted. The tool only notices it (see forewordNote); nothing is enforced.
+  foreword?: { title: string };
   remoteViewUrl?: string; // reader page of a posted chapter, "{id}" = its id on that site
   footer: {
     next: string; // "Đọc tiếp {next} tại: {nextUrl}"
@@ -138,6 +141,26 @@ export function selectByRange<T extends CrossChapter>(live: T[], spec: string, w
   return groups(live)
     .filter((g) => ok(g.number))
     .flatMap((g) => (withInterludes ? g.items : g.items.filter((c) => c.number != null)));
+}
+
+// ───────────── Handwritten foreword ─────────────
+
+const normT = (t: string) => t.normalize('NFC').toLowerCase().replace(/\s+/g, ' ').trim();
+
+// Called before the first chapter of a site is created. `remote` is the site's
+// table of contents in order. Returns a note to print, or null. Advice only:
+// the worker goes on either way.
+export function forewordNote(cfg: SiteConfig, remote: { id: string; title: string }[], anySynced: boolean): string | null {
+  if (!cfg.foreword || anySynced) return null;
+  const fw = remote.find((x) => normT(x.title) === normT(cfg.foreword!.title));
+  if (!fw) return `Chưa thấy "${cfg.foreword.title}" (viết tay) trên ${cfg.name}. Vẫn tạo Chương 1 như thường; nếu thêm lời nói đầu sau, nó sẽ nằm sau các chương đã đăng, bạn tự đưa lên đầu mục lục.`;
+  if (remote[0].id !== fw.id) return `"${cfg.foreword.title}" trên ${cfg.name} không đứng đầu mục lục. Bỏ qua nó, vẫn đồng bộ bình thường.`;
+  return `Thấy "${cfg.foreword.title}" (viết tay) trên ${cfg.name}, bỏ qua nó. Chương 1 sẽ tạo sau nó.`;
+}
+
+// Chapters on the site that are not ours: the foreword, or anything else written by hand.
+export function isForeword(cfg: SiteConfig, title: string): boolean {
+  return !!cfg.foreword && normT(title) === normT(cfg.foreword.title);
 }
 
 // ───────────── Titles and footer ─────────────

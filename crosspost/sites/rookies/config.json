@@ -2,6 +2,7 @@
   "site": "rookies",
   "name": "Rookies.vn",
   "vercelUrl": "https://yellow-light.vercel.app",
+  "foreword": { "title": "Lời nói đầu" },
   "footer": {
     "next": "[Đọc tiếp {next} trên website chính thức: đầy đủ nội dung, giao diện đọc truyện dễ chịu hơn]({nextUrl})",
     "last": "[Chương mới sẽ lên trước trên website chính thức]({nextUrl})",

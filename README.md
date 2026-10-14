@@ -175,6 +175,10 @@ The first chapters also go up on rookies.vn, each with a footer linking to the
 next chapter here, so readers come over to this site. The code lives in
 `crosspost/` (outside the site build) and the controls in `/admin/crosspost`.
 
+A **foreword** on rookies.vn is written by hand and never synced or adopted. Its
+title is in `crosspost/sites/rookies/config.json` (`foreword`). The worker only
+notices it and prints a note before creating Chapter 1; nothing is enforced.
+
 How the pieces fit:
 
 ```

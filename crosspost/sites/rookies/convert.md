@@ -4,6 +4,9 @@ Instructions for Claude. The author asks in chat ("chuyển chương 1–5 cho r
 Claude follows this file. Code checks the result afterwards (`crosspost check`),
 so a conversion that changes the story is rejected, not posted.
 
+> The foreword ("Lời nói đầu") on rookies.vn is written by hand. Never convert or
+> post it; it is not a Vercel chapter. Its title is set in `config.json` (`foreword`).
+
 ## Workflow
 
 1. `npm run crosspost -- pull rookies --range 1-5` (or `--all`, `--only slug,slug`).

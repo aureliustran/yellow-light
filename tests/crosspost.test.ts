@@ -10,6 +10,8 @@ import {
   selectByRange,
   teaserSet,
   textToHtml,
+  forewordNote,
+  isForeword,
   plainForCompare,
   type CrossChapter,
   type PostRow,
@@ -207,4 +209,14 @@ test('sign-in details: only the worker key opens them, tampering is refused', as
   await assert.rejects(unseal(stranger.privateJwk, sealed));
   const flipped = sealed.data.slice(0, -2) + (sealed.data.slice(-2) === 'AA' ? 'BB' : 'AA');
   await assert.rejects(unseal(worker.privateJwk, { ...sealed, data: flipped }));
+});
+
+test('foreword: only a note, never blocks', () => {
+  const withFw = { ...cfg, foreword: { title: 'Lời nói đầu' } };
+  assert.match(forewordNote(withFw, [], false)!, /Chưa thấy "Lời nói đầu"/);
+  assert.match(forewordNote(withFw, [{ id: '1', title: 'Chương 1: X' }, { id: '2', title: 'lời  nói đầu' }], false)!, /không đứng đầu/);
+  assert.match(forewordNote(withFw, [{ id: '2', title: 'Lời nói đầu' }], false)!, /bỏ qua nó/);
+  assert.equal(forewordNote(withFw, [], true), null); // chapters already synced
+  assert.equal(forewordNote(cfg, [], false), null); // site without a foreword
+  assert.equal(isForeword(withFw, ' Lời nói  đầu '), true);
 });

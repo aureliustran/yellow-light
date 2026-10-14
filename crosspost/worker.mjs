@@ -25,7 +25,7 @@ import { existsSync } from 'node:fs';
 import { mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { hostname } from 'node:os';
 import { join } from 'node:path';
-import { plainForCompare, textToHtml } from './core/crosspost.ts';
+import { forewordNote, isForeword, plainForCompare, textToHtml } from './core/crosspost.ts';
 import { makeKeyPair, seal, unseal } from './core/seal.ts';
 import { CROSS, db, loadRows, must, siteConfig } from './core/data.mjs';
 
@@ -285,8 +285,10 @@ async function processJob(job, getSession) {
     if (earlier.length) throw new Error(`Chưa đăng chương trước: ${earlier.map((r) => r.title).join(', ')}. Đồng bộ theo thứ tự để mục lục trên ${siteRow.name} đúng.`);
 
     const remote = await s.listRemote();
+    const fwNote = forewordNote(siteConfig(site), remote, rows.some((r) => r.post?.remote_id));
+    if (fwNote) console.log(`[${stamp()}] ℹ ${fwNote}`);
     const taken = new Set(rows.map((r) => r.post?.remote_id).filter(Boolean));
-    const same = remote.filter((x) => normTitle(x.title) === normTitle(title));
+    const same = remote.filter((x) => normTitle(x.title) === normTitle(title) && !isForeword(siteConfig(site), x.title));
     if (same.length > 1) throw new Error(`Trên ${siteRow.name} có ${same.length} chương cùng tên "${title}". Xóa bớt bằng tay rồi chạy lại.`);
     if (same.length === 1) {
       if (taken.has(same[0].id)) throw new Error(`Chương "${title}" trên ${siteRow.name} đã gắn với một chương khác ở đây. Kiểm tra lại tên chương.`);
