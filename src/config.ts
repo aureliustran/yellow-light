@@ -21,9 +21,13 @@ export const story = {
   // Short line used for search results and share previews.
   description:
     'Đèn Vàng – truyện dài học đường, ngôn tình, đấu trí chốn công sở và hào môn của Aurelius. Hà Nội, mùa hoa sữa 2026.',
+  // Other sites that carry the story (shown in the footer and on /admin/crosspost).
+  // Add an entry when a new site goes live; `url` is the story's page there.
+  crossposts: [
+    { name: 'Rookies.vn', url: 'https://rookies.vn/truyen/den-vang' },
+  ] as { name: string; url: string }[],
   footer: [
     '© Aurelius · Truyện hư cấu: nhân vật, tổ chức và sự kiện đều do tác giả tưởng tượng.',
-    'Cũng đăng tại Truyện nhà Ong.',
     'Trang ghi lại số liệu đọc ẩn danh (loại thiết bị, trình duyệt, nguồn truy cập, mức độ đã đọc). Không lưu địa chỉ IP, không dùng cookie theo dõi.',
   ],
 };

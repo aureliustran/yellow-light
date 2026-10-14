@@ -208,3 +208,6 @@
 .xs-login .help { margin: 0; font-size: 13px; color: var(--ink-2); }
 .crosspost .stat-cards { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
 .xs-table th[scope='row'] { min-width: 140px; }
+
+.xs-sites { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.xs-sites a { font-weight: 600; }

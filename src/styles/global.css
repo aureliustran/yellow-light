@@ -271,6 +271,7 @@ dialog.login p.rename-error[hidden] { display: none; }
 .site-footer { margin-top: auto; padding: 40px 0 56px; border-top: 1px solid var(--line); font-size: 13px; line-height: 1.7; color: var(--ink-2); }
 .site-footer .narrow { display: flex; flex-wrap: wrap; gap: 8px 24px; justify-content: space-between; }
 .site-footer p { margin: 0; flex: 1 1 320px; }
+.site-footer .also a { color: inherit; text-decoration: underline; text-underline-offset: 3px; }
 
 /* ───────────── Home ───────────── */
 

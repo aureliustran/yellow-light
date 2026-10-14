@@ -5,6 +5,7 @@ import Account from '../../components/Account.astro';
 import ThemeToggle from '../../components/ThemeToggle.astro';
 import AdminNav from '../../components/AdminNav.astro';
 import AdminGate from '../../components/AdminGate.astro';
+import { story } from '../../config';
 import '../../styles/admin.css';
 export const prerender = true;
 ---
@@ -27,6 +28,19 @@ export const prerender = true;
         (Claude làm, theo <code>crosspost/sites/rookies/convert.md</code>); chân trang có link về chương tiếp theo trên Vercel.
         Nút Đồng bộ chỉ xếp hàng: <strong>worker trên máy bạn</strong> mới là thứ đăng (<code>npm run crosspost:worker</code>).
       </p>
+
+      <div class="panel">
+        <div class="pane-head"><h2>Truyện đã được đăng tại</h2></div>
+        {story.crossposts.length === 0 ? (
+          <p class="meta-small">Chưa có trang nào. Thêm vào <code>crossposts</code> trong <code>src/config.ts</code> (hiện ở chân trang).</p>
+        ) : (
+          <ul class="xs-sites">
+            {story.crossposts.map((c) => (
+              <li><a href={c.url} target="_blank" rel="noopener">{c.name}</a> <span class="meta-small">{c.url}</span></li>
+            ))}
+          </ul>
+        )}
+      </div>
 
       <div class="stat-cards" data-cards></div>
 
