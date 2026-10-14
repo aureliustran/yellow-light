@@ -32,7 +32,7 @@ Tháng mười, Hà Nội vào mùa hoa sữa. Đầu ngõ có hai cây, mùi n�
 
 Ba lô nhẹ hơn mọi khi. Không có laptop công ty. Ngăn trước vẫn còn sợi dây đeo thẻ màu xanh. Thẻ thì trả rồi, dây thì quên. Hai tuần nay sáng nào anh cũng sờ thấy nó lúc lấy ví, và sáng nào cũng tự nhủ để mai vứt.
 
-Nếu có ai hỏi, anh có sẵn một phiên bản ba mươi giây về mình, nói trơn như đọc. Thuyên, hai mươi tuổi, sinh viên năm ba Khoa học Máy tính, Đại học Công nghệ. Quê Hà Tĩnh, dân chuyên Toán, giải Nhì quốc gia môn Tin năm lớp mười một, IELTS 8.0, một giải hackathon, một đề tài nghiên cứu khoa học cấp quốc gia, vừa xong sáu tháng thực tập ở một công ty công nghệ có vốn nước ngoài. Phó ban CLB Tin học. Chơi bóng rổ. Phiên bản ấy không có dòng nào sai. Nó chỉ thiếu những dòng không ai hỏi: anh nói chuyện được với bất cứ ai, từ bác bảo vệ đến trưởng phòng, mà chưa để ai thấy mình thật sự nghĩ gì. Với người lạ anh chỉ mỉa. Người thân thì anh chọc đến khi cay mới thôi. Và sau sáu tháng ấy, lần đầu tiên anh không biết mình đang chạy về phía nào.
+Nếu có ai hỏi, anh có sẵn một phiên bản ba mươi giây về mình, nói trơn như đọc. Thuyên, hai mươi tuổi, sinh viên năm ba Khoa học Máy tính, Đại học Công nghệ. Quê Hà Tĩnh, dân chuyên Toán, giải Nhì quốc gia môn Tin năm lớp mười một, IELTS 8.0, một giải hackathon, một đề tài nghiên cứu khoa học cấp quốc gia, vừa xong sáu tháng thực tập ở một công ty công nghệ có vốn đầu tư nước ngoài. Phó ban CLB Tin học. Chơi bóng rổ. Phiên bản ấy không có dòng nào sai. Nó chỉ thiếu những dòng không ai hỏi: anh nói chuyện được với bất cứ ai, từ bác bảo vệ đến trưởng phòng, mà chưa để ai thấy mình thật sự nghĩ gì. Với người lạ anh chỉ mỉa. Người thân thì anh chọc đến khi cay mới thôi. Và sau sáu tháng ấy, lần đầu tiên anh không biết mình đang chạy về phía nào.
 
 Điện thoại rung. Anh đợi đến đèn đỏ mới rút ra xem.
 
@@ -54,25 +54,32 @@ Vũ Béo: M mà k ra t bảo m bận đi Mỹ 🤡
 Thuyên trả lời Ngọc Anh:
 
 :::chat
+
 ^ Ngọc Anh (K71): Nhưng phần demo em vẫn sợ sợ 🥲
 
 > ok trưa a xem, demo cứ chạy thử trước 1 lần với máy chiếu phòng 302 nhé, máy đấy hay lag lắm
-> :::
+
+:::
 
 Nghĩ một chút, anh gõ thêm:
 
 :::chat
 
 > mà làm được thế là ổn rồi, đừng sợ :v
-> ^ Đức (PCN): Thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy :))
+
+^ Đức (PCN): Thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy :))
+
 > ai cho ông nhận hộ tôi thế 😱
-> :::
+
+:::
 
 :::chat
+
 ^ Vũ Béo: Mấy đứa năm nhất đòi gặp "idol" kìa vcl =)))))
 
 > idol cc. ok vua hợi 🖕 tối tính
-> :::
+
+:::
 
 Đèn xanh. Anh đi thêm hai trăm mét đến ngã tư tiếp theo, cái ngã tư có đèn đếm ngược mà con số 3 với mỗi người một nghĩa. Với anh, 3 là sắp vàng. Với nửa còn lại của Hà Nội, 3 là còn kịp chán.
 
@@ -239,7 +246,12 @@ Thuyên gõ:
 
 > 7h. im mồm đi vua hợi 😈
 > bảo mấy đứa năm nhất mang nước, idol k tự mua nước 😏
-> ~ Rồi anh mở tin nhắn của Đức, gõ thêm:
-> ^ Đức (PCN): Thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy :))
+> :::
+
+Rồi anh mở tin nhắn của Đức, gõ thêm:
+
+:::chat
+^ Đức (PCN): Thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy :))
+
 > ok ông bảo thầy là tôi đi nhé. lần sau hỏi tôi trước đã ông ơi
 > :::
