@@ -179,7 +179,15 @@ Xinh thì công nhận là xinh. Nhưng biết làm gì với cái xinh ấy th�
 
 "Mà anh biết em ngồi đấy đúng không? Hôm summit ấy."
 
-"Biết. Hàng thứ hai, áo len hồng, muốn không biết cũng khó."
+"Biết. Hàng thứ hai, áo len hồng, giữa một dãy con nhà đối tác. Muốn không biết cũng khó."
+
+Cô mở miệng. "Em…"
+
+Rồi dừng. Một giây. Mắt cô đi từ mặt anh xuống cái cốc trà, như người vừa nghe một câu trả lời trả lời nhầm câu mình hỏi, và đang cân xem có nên chỉ ra chỗ nhầm không.
+
+"Ừ," cô nói. "Hàng thứ hai."
+
+Anh đọc cái dừng ấy là ngượng. Con nhà đối tác thì chẳng ai thích bị gọi đúng tên cái hàng ghế mình ngồi.
 
 "Từ lúc nào?"
 

@@ -2,7 +2,7 @@
 
 Oct 5, 2026 · @aureliustran.
 
-*Thứ Sáu, 9/10/2026*
+_Thứ Sáu, 9/10/2026_
 
 Chín giờ sáng thứ Sáu, hội trường chưa có khán giả trông to gấp đôi. Hàng nghìn cái ghế bọc nỉ xanh xếp thẳng tắp, im lặng như một đội quân đang chờ lệnh.
 
@@ -58,7 +58,7 @@ Ban ngày anh đi học, lên lớp đúng giờ, ngồi bàn ba. Những môn c
 
 Ban đêm, anh vẫn rửa mặt bằng nước lạnh. Không còn gì phải giấu, không còn ai để giấu. Nhưng tay anh vẫn tự vặn vòi, vẫn tự vốc nước, vẫn đứng ở bồn rửa lâu hơn mức cần thiết. Như cái đồng hồ Casio vẫn đeo trên tay dù dây hơi rộng.
 
-Có một đêm, hai giờ sáng, anh mở hộp thư, mở thư mục *sau-nay*. Bức thư vẫn ở đó, dòng đầu tiên vẫn là *[[en: Congratulations. || Chúc mừng em.]]* Anh đọc một lần. Không đọc lại. Đóng thư mục, tắt máy, nằm xuống.
+Có một đêm, hai giờ sáng, anh mở hộp thư, mở thư mục _sau-nay_. Bức thư vẫn ở đó, dòng đầu tiên vẫn là _[[en: Congratulations. || Chúc mừng em.]]_ Anh đọc một lần. Không đọc lại. Đóng thư mục, tắt máy, nằm xuống.
 
 Anh không mở nó thêm lần nào nữa.
 
@@ -102,7 +102,7 @@ Hết trận, thằng béo ngồi bệt xuống vạch biên, thở như cái b�
 
 Anh bật cười. Cười thật, không tính góc.
 
-Tối thứ Bảy tuần sau anh ra. Tuần sau nữa cũng ra. Đến tháng mười hai thì anh có tên trong cái nhóm chat tên là *Pickup tối T7* kèm một quả bóng rổ màu cam. Đến tháng ba thì Vũ đã thôi bảo anh gọi nó là Vũ, vì nó không giảm được cân nào, và anh gọi nó là vua hợi.
+Tối thứ Bảy tuần sau anh ra. Tuần sau nữa cũng ra. Đến tháng mười hai thì anh có tên trong cái nhóm chat tên là _Pickup tối T7_ kèm một quả bóng rổ màu cam. Đến tháng ba thì Vũ đã thôi bảo anh gọi nó là Vũ, vì nó không giảm được cân nào, và anh gọi nó là vua hợi.
 
 ---
 
@@ -186,7 +186,7 @@ Anh cúp máy. Lần đó là lần cuối cùng anh gọi về nhà để kể 
 
 Sau hackathon, Khang kéo anh vào CLB Tin học. Đến đầu năm hai, anh thành phó ban.
 
-Anh không ứng cử. Ban cũ họp, bầu, rồi Đức, phó chủ nhiệm, nhắn cho anh một câu: *ông nhận nhé, mọi người bầu ông rồi.* Không có dấu hỏi.
+Anh không ứng cử. Ban cũ họp, bầu, rồi Đức, phó chủ nhiệm, nhắn cho anh một câu: _ông nhận nhé, mọi người bầu ông rồi._ Không có dấu hỏi.
 
 Từ đó, điện thoại của anh không bao giờ im.
 
@@ -213,7 +213,7 @@ Quai hàm anh mỏi, như mỏi sau khi cắn gối. Anh nằm xuống, nhìn l�
 
 Không có chữ nào về mình.
 
-Ai cũng nói anh hiểu họ. Anh nghĩ đến chuyện đó, rồi nghĩ đến chuyện ngược lại: trong cả cái CLB ấy, trong cả cái trường ấy, có ai biết anh không? Có ai biết cái bể nước sau nhà, cái tủ kính, cái thư mục tên là *sau-nay*?
+Ai cũng nói anh hiểu họ. Anh nghĩ đến chuyện đó, rồi nghĩ đến chuyện ngược lại: trong cả cái CLB ấy, trong cả cái trường ấy, có ai biết anh không? Có ai biết cái bể nước sau nhà, cái tủ kính, cái thư mục tên là _sau-nay_?
 
 Anh biết câu trả lời. Và anh biết đó là do chính anh. Mỗi khi có ai sắp hỏi về anh, câu đùa luôn đến trước. Đúng lúc. Không bao giờ trượt.
 
@@ -247,11 +247,15 @@ Cùng tháng đó, anh qua vòng phỏng vấn thực tập ở một công ty c
 
 Sáu tháng ấy là sáu tháng anh không có thời gian để đứng ở bồn rửa.
 
-Nhóm anh giữ một hệ thống phân tán viết bằng Go, hơn trăm service nói chuyện với nhau qua mạng, cộng thêm một tầng truy xuất đưa tài liệu cho mô hình ngôn ngữ đọc trước khi trả lời, thứ mà cả nhóm gọi tắt là RAG. Tháng đầu, anh đọc code đến hai giờ sáng. Đến tháng thứ ba, anh là người bị gọi dậy mỗi khi có một service im lặng giữa đêm.
+Nhóm anh sử dụng ngôn ngữ lập trình Go. Ngày đầu mở trang tài liệu của nó, anh thấy linh vật: một con gopher xanh, mắt lồi, hai cái răng cửa chìa ra, mà anh nhìn kiểu gì cũng thấy là một con hải ly mặt ngố. Cũng cute. Anh đặt nó làm hình nền.
+
+Đằng sau con hải ly ấy là hơn một trăm service, tức là hơn một trăm chương trình nhỏ, mỗi cái làm một việc, chạy trên những máy khác nhau và gọi nhau qua mạng như một tổng đài: cái này hỏi, cái kia trả lời, cái thứ ba ghi sổ. Người ta gọi thế là hệ phân tán. Một cái im lặng là cả dây phía sau đứng chờ theo. Trên cùng còn một tầng cả nhóm gọi tắt là RAG: trước khi con chatbot của công ty trả lời khách, nó phải đi lục đúng tài liệu ra đọc đã, như học sinh được mở sách trước khi làm bài.
+
+Tháng đầu, con hải ly hành anh đến hai giờ sáng. Đến tháng thứ ba, anh là người bị gọi dậy mỗi khi có một service im lặng giữa đêm. Hình nền thì anh vẫn để. Ba giờ sáng nhìn cái mặt ngố ấy, anh không biết nên thương nó hay ghét nó.
 
 Sáng nào cũng có cuộc họp đứng mười lăm phút. Mỗi người nói hôm qua làm gì, hôm nay làm gì, đang bị kẹt ở đâu. Đến tháng thứ hai thì anh nhận ra, sau mỗi cuộc họp, đã có hai ba người nhắn riêng hỏi anh về chỗ họ đang kẹt. Đến tháng thứ tư, quản lý của anh, một người Singapore nói tiếng Anh nhanh như súng liên thanh, bảo anh trong buổi đánh giá:
 
-*"[[en: You're the guy everyone goes to. I don't know how you do it. || Cậu là người ai cũng tìm đến. Tôi chẳng hiểu cậu làm thế nào.]]"*
+_"[[en: You're the guy everyone goes to. I don't know how you do it. || Cậu là người ai cũng tìm đến. Tôi chẳng hiểu cậu làm thế nào.]]"_
 
 Anh cười, nói cảm ơn. Anh biết mình làm thế nào. Chỉ là không có cách nào nói ra mà nghe không giống một câu chuyện buồn.
 

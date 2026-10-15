@@ -166,11 +166,31 @@ Cô không nheo mắt, không nghiêng đầu. Cô nói thẳng, qua hai tròng 
 
 "Anh em bảo cứ học xong về làm cho nhà." Cô nói, không cay, không ngọt, như kể thời tiết. "Học gì cũng được. Miễn là về."
 
+"Nhà em làm công ty à?"
+
+Tay cô dừng trên mẩu giấy nhớ. Một nhịp, ngắn đến mức nếu không đang nhìn cô thì anh đã không thấy.
+
+"Ừ. Kinh doanh."
+
+"Kinh doanh gì?"
+
+"Nhiều thứ." Cô gỡ mẩu giấy nhớ ra, dán lại, lệch đi một chút so với chỗ cũ. "Bố em cái gì cũng muốn làm thử."
+
+"Thế anh em về làm cho nhà rồi?"
+
+"Rồi. Từ hồi tốt nghiệp."
+
 "Anh trai em chắc giỏi lắm."
 
 "Giỏi chứ!" Cô gật. "Giỏi nhất nhà."
 
-Anh lật cuốn sách. Không định để ý câu ấy, và không để ý. Một người anh trai giỏi nhất nhà, bảo em gái học gì cũng được miễn là về, nghe như một trăm người anh trai khác ở Hà Nội. Anh lật đến chương *Money*.
+Anh lật cuốn sách. Câu trả lời khớp vào đúng cái ngăn anh đã xếp cô từ hôm summit: con nhà đối tác, nhà có một công ty, hoặc vài công ty, đủ to để một tập đoàn mời con cái ngồi hàng thứ hai. Bố mở rộng, anh trai nối nghiệp, em gái học quản trị để về đứng cạnh. Một trăm gia đình ở Hà Nội sống đúng như thế. *Nhiều thứ*, với một nhà có điều kiện, thường là một chuỗi nhà hàng với vài mảnh đất cho thuê.
+
+"Học xong về làm giám đốc thì nhớ tuyển thầy," anh nói.
+
+Nhi đẩy cái kính lên sống mũi. Nó trượt xuống ngay. "Nhà em không tuyển người nói dối dở."
+
+Anh cười, và lật đến chương *Money*.
 
 Chữ mực tím bên lề nhỏ như kiến bò. Anh lục túi áo bomber, lấy cái kính nửa gọng anh vẫn đeo trước màn hình ở tầng mười bảy, đeo vào.
 

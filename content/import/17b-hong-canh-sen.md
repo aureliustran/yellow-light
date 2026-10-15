@@ -41,6 +41,16 @@ Phanh Gấp: ok kid. anh mang kính râm 🥶
 
 Cô úp điện thoại xuống gối. Rồi lật lên, đọc lại chữ *kid*. Rồi úp xuống.
 
+Anh ấy không biết.
+
+Cô biết anh ấy không biết. Từ chiều Chủ nhật ở quán trà đá trên Xuân Thủy, lúc anh ấy bảo *giữa một dãy con nhà đối tác* và cô suýt sửa. Trong đầu anh ấy, cô là con gái của một nhà đối tác nào đó, được phát một cái dây xanh, đi học IELTS để đi du học như nửa lớp cô. Anh ấy không biết cái ghế trống úp bảng tên cạnh bố là ghế nhà cô. Không biết người đeo khẩu trang là anh trai cô. Không biết tầng mười bảy anh ấy vừa lên làm được ba ngày là của nhà ai.
+
+Cô đã định nói. Ở quán trà đá, rồi ở Xuân Diệu, cả hai lần câu ấy đều lên đến đầu lưỡi. Nói ra thì anh ấy sẽ thôi gọi *kid*. Anh ấy sẽ gọi cô như mọi người vẫn gọi: cân từng chữ trước khi nói, gọi món đắt hơn cho khỏi ngại, hoặc rẻ hơn cho khỏi bị nghĩ là bám. Cô đã nhìn thấy cái cân ấy trên mặt người ta từ năm lớp bảy.
+
+Nên cô không nói. Không phải nói dối. Chỉ là không sửa.
+
+Một người không biết cô là ai mà vẫn gọi cô là *kid*, vẫn hỏi *lại hồng à* như người ta hỏi *lại mưa à*. Cô muốn giữ cái đó thêm một thời gian. Bao lâu thì cô chưa nghĩ.
+
 ---
 
 Chiều thứ Năm, tan lớp Marketing lúc ba giờ, cô về nhà thay đồ.

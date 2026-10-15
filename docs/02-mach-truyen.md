@@ -451,7 +451,7 @@ Nhân vật phụ quá khứ (chương 2–4): thầy Quang (dạy Tin cấp 3),
 - **Hàng thứ hai (khối sinh viên đối tác, dây xanh):** nửa hàng nam vest may đo → Khải (vest xám, đeo khẩu trang vì ho từ thứ Năm, bỏ ghế hàng đầu xuống ngồi cạnh em; nói với bố là ban tổ chức xếp nhầm) → Nhi (áo len hồng) → nửa hàng nữ, mỗi người một kiểu sang (đầm tweed, áo dài cách tân, đầm lụa, blazer + chân váy xếp ly).
 - **Thuyên đọc sai:** người đeo khẩu trang là trưởng đoàn hoặc nghiên cứu sinh đi kèm khối sinh viên; Nhi là con nhà đối tác ("Cô ấy không cần thiệp mời. Bố cô ấy là thiệp mời"). Anh không ghi nhớ mặt Khải (không thấy mặt). Thấy chữ *Astrea* ba lần nhưng gạt đi ở ch.10 và ch.13.
 - ***Hồng đất*** kể những thứ Thuyên không đọc được: thiệp trong túi anh đã chết, ghế trống là của người ngồi cạnh cô, dây xanh là lỗi dữ liệu. "Anh ta tưởng cô là một trong số họ. Hôm nay, lần đầu tiên, cô đúng là một trong số họ."
-- **Hệ quả:** Thuyên chỉ biết Khải là anh trai Nhi ở ch.52 (tiệc 15/7, Khải về nhà). Trước đó Nhi biết anh biết cô "nhà có điều kiện" (cô giơ tay ở summit), không biết anh không biết cô là con chủ tập đoàn.
+- **Hệ quả:** Thuyên chỉ biết Khải là anh trai Nhi ở ch.52 (tiệc 15/7, Khải về nhà). Nhi biết anh không biết cô là con gái chủ tập đoàn, từ ch.11: anh nói "Hàng thứ hai, áo len hồng, giữa một dãy con nhà đối tác", cô mở miệng định sửa rồi thôi ("Ừ. Hàng thứ hai."), lần đầu cô chọn giấu; Thuyên đọc cái dừng ấy là ngượng. *Xanh bạc hà* nhắc lại khoảnh khắc này ("Thứ Năm là chỗ duy nhất trong tuần cô không phải con gái của ai").
 
 ## Phần 1 – Việt Nam: Đèn vàng → Sụp đổ
 
