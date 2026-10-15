@@ -120,6 +120,10 @@ Một sự kiện ở hiện tại mà chỉ được kể qua một câu tóm t
 
 **Quy ước tên và mốc:** chương mạch chính đánh số, tên đồ vật hoặc âm thanh. Interlude không đánh số, tên là một màu (POV Nhi), mở bằng một dòng trích ghi chú trong điện thoại cô; interlude POV Diệp Anh mang tên một món trang phục cô mặc trong interlude (Măng tô, Váy cổ thuyền, Áo cử nhân, Áo dài); interlude POV anh trai mang tên một sắc độ trắng – đen (*Màu xám*, *Đen*). Màu sắc có sắc độ (hồng, xanh, vàng…) là của Nhi; trắng, xám, đen là của Khải; tên Nhi không dùng trắng, xám, đen. Không gắn tên nhân vật lên đầu chương. Mỗi chương và interlude có một dòng ngày ở đầu.
 
+**Interlude POV Phong** (chốt 15/10): tên một loại phim chụp ảnh (ví dụ *Portra 400*), vì cậu và Nhi cùng chụp phim.
+
+**Interlude nhiều góc nhìn** (chốt 15/10): một interlude kể bằng hai góc nhìn trở lên của các nhân vật ngoài Thuyên thì **gộp quy ước đặt tên của từng người** thành một tên, mỗi người góp một phần, đọc lên vẫn tự nhiên như một cụm người trong nghề vẫn nói; không đặt hai tên cạnh nhau một cách thô. Ví dụ Phong (phim) + Nhi (màu theo cách chỉnh màu ảnh, color grading): *Quầng cam Cinestill*: phim CineStill 800T làm mỗi ngọn đèn có một quầng sáng, quầng ấy màu cam trên nền đêm xanh lam. Tên phải là một hình ảnh có thật trong cảnh, như mọi interlude khác. Màu ghép vẫn theo luật của Nhi (có sắc độ, không trắng, xám, đen) và nên tránh màu đã dùng nhiều (hồng). Trong interlude, đổi góc nhìn bằng ngắt đoạn `---`; mỗi đoạn giữ trọn một góc nhìn, không trộn trong cùng đoạn. Chương mạch chính vẫn một góc nhìn (Thuyên); đêm cần cả Thuyên cùng kể thì dùng chương chỉ có số (như *3107*).
+
 ### Mục đích của từng loại chương ngoài mạch chính
 
 | Loại | Mục đích |

@@ -28,7 +28,7 @@
 #
 # ADDING A SITE: create crosspost/sites/<site>/, then add its name to SITES below.
 
-SITES := rookies
+SITES := rookies truyennhaong
 
 .DEFAULT_GOAL := help
 .PHONY: help install dev build preview check test crosspost-setup \

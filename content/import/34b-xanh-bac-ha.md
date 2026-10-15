@@ -115,11 +115,11 @@ Mười một ngày. Cái áo ở phòng cô mười một ngày, và cô không
 
 Họ làm bài nửa tiếng. Part 2 về một lần cô phải đưa ra một quyết định khó. Cô kể chuyện chọn RMIT, chọn ở lại, nói đúng khung, có chấm, có vì sao, có ví dụ, có quay về. Anh nghe, gật, ghi lại một lỗi về mạo từ. Anh không hỏi vì sao chọn ở lại lại là quyết định khó. Cô không nói.
 
-Sàn gỗ cầu thang kêu cót két mấy nhịp liền, nhanh, như người chạy lên. Rồi một cái đầu nhô lên khỏi mép gác, tóc vuốt keo, dây đeo thẻ RMIT màu đỏ còn lủng lẳng trên cổ.
+Sàn gỗ cầu thang kêu cót két mấy nhịp liền, nhanh, như người chạy lên. Rồi một cái đầu nhô lên khỏi mép gác: tóc rẽ ngôi gọn như học sinh trường dòng, kính gọng tròn kim loại, rồi đến cái sơ mi oxford màu kem cài kín cúc cổ giữa trời tháng tư, đôi dây đeo quần màu rêu, quần âu ống đứng, đôi giày brogue đánh xi bóng. Giữa một quán gác hai toàn áo phông, cậu ấy trông như vừa bước ra từ một hiệu sách cũ ở London năm mươi năm trước. Cái túi da đeo chéo đập vào hông theo từng bậc thang.
 
 "Nhi!"
 
-Phong. Cùng ngành, cùng nhóm bài tập Economics, người gửi cô ba tin *Nhi ơi* lúc chín giờ tối mỗi tuần. Cậu ấy đi thẳng đến bàn, tay cầm một tập giấy kẹp ghim, cười cái cười của người đã chuẩn bị câu mở đầu từ dưới chân cầu thang.
+Phong. Cùng ngành, cùng nhóm bài tập Economics, người gửi cô ba tin *Nhi ơi* lúc chín giờ tối mỗi tuần. Cậu ấy đi thẳng đến bàn, đứng cạnh ghế cô, cao hơn cô đang ngồi đúng một cái đầu, mà cô biết nếu cô đứng lên trên đôi giày đế thì cậu thấp hơn cô. Tay cầm một tập giấy kẹp ghim, cười cái cười của người đã chuẩn bị câu mở đầu từ dưới chân cầu thang.
 
 "Tớ đi qua Hàng Gai lấy đồ cho bác, thấy gần nên ghé. Tớ in bản báo cáo nhóm rồi, cậu xem trước nhé, tớ sợ gửi file cậu không mở." Rồi cậu ấy quay sang anh, cúi đầu đúng chuẩn. "Em chào anh ạ."
 
@@ -433,6 +433,7 @@ hộp kẹo bạc hà trong túi: còn 7 viên.
 anh hỏi về anh ấy 3 lần.
 (anh lo cho mình. anh lúc nào chẳng lo)
 anh ấy ghép mình với phong. (không ghen tí nào à)
+khóa viết luận apply thạc sĩ: đăng ký rồi. được tặng 1 suất đi kèm. (ô người đi kèm: chưa điền)
 áo trả rồi. cái móc sau cửa trống.
 :::
 

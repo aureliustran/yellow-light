@@ -1,0 +1,32 @@
+{
+  "site": "truyennhaong",
+  "name": "Truyện nhà Ong",
+  "vercelUrl": "https://yellow-light.vercel.app",
+  "linksAllowed": false,
+  "footer": {
+    "next": "Đọc tiếp {next} trên website chính thức: {nextUrl}",
+    "last": "Chương mới sẽ lên trước trên website chính thức: {home}",
+    "home": "Website chính thức của Đèn Vàng: {home}",
+    "noLinks": []
+  },
+  "checks": {
+    "noDashLines": true,
+    "lint": { "maxPerThousand": 10 }
+  },
+  "truyennhaong": {
+    "base": "https://truyennhaong.vn",
+    "workId": "6ac311b0ab5c6c9fae4d01e6",
+    "delayBetweenChaptersMs": 15000,
+    "status": { "publish": "4", "draft": "1" },
+    "blockHosts": [
+      "googlesyndication.com",
+      "doubleclick.net",
+      "googleadservices.com",
+      "adservice.google.com",
+      "fundingchoicesmessages.google.com",
+      "googletagmanager.com",
+      "google-analytics.com"
+    ]
+  },
+  "remoteViewUrl": "https://truyennhaong.vn/vanphong/sua-chuong?id={id}"
+}

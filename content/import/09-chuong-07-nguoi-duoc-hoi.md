@@ -247,6 +247,8 @@ Cùng tháng đó, anh qua vòng phỏng vấn thực tập ở một công ty c
 
 Sáu tháng ấy là sáu tháng anh không có thời gian để đứng ở bồn rửa.
 
+Nhóm anh giữ một hệ thống phân tán viết bằng Go, hơn trăm service nói chuyện với nhau qua mạng, cộng thêm một tầng truy xuất đưa tài liệu cho mô hình ngôn ngữ đọc trước khi trả lời, thứ mà cả nhóm gọi tắt là RAG. Tháng đầu, anh đọc code đến hai giờ sáng. Đến tháng thứ ba, anh là người bị gọi dậy mỗi khi có một service im lặng giữa đêm.
+
 Sáng nào cũng có cuộc họp đứng mười lăm phút. Mỗi người nói hôm qua làm gì, hôm nay làm gì, đang bị kẹt ở đâu. Đến tháng thứ hai thì anh nhận ra, sau mỗi cuộc họp, đã có hai ba người nhắn riêng hỏi anh về chỗ họ đang kẹt. Đến tháng thứ tư, quản lý của anh, một người Singapore nói tiếng Anh nhanh như súng liên thanh, bảo anh trong buổi đánh giá:
 
 *"[[en: You're the guy everyone goes to. I don't know how you do it. || Cậu là người ai cũng tìm đến. Tôi chẳng hiểu cậu làm thế nào.]]"*

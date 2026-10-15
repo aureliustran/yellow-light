@@ -17,6 +17,7 @@
     "blocks": "node scripts/apply-blocks.mjs",
     "crosspost": "node crosspost/cli.mjs",
     "crosspost:worker": "node crosspost/cli.mjs worker rookies",
+    "crosspost:worker:truyennhaong": "node crosspost/cli.mjs worker truyennhaong",
     "crosspost:setup": "npm install --prefix crosspost && npx --prefix crosspost playwright install chromium"
   },
   "dependencies": {

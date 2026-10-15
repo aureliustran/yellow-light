@@ -462,7 +462,7 @@ Thứ Hai là ngày nghỉ bù. Anh lên tầng mười bảy từ tám giờ s�
 
 Anh Kiên ngồi xuống. Tai đỏ lên. Lâu lắm rồi anh mới thấy tai ai đỏ vì một câu khen thật.
 
-Thứ Ba, buổi demo chạy trơn như một bài thuyết trình đã tập mười lần. Một nghìn hai trăm cây số vuông, ảnh mới, kết quả ghép liền một dải. Văn phòng Giám đốc Khối Công nghệ không ai xuống, chỉ có anh Đông và hai người khối chiến lược. Anh Đông vỗ vai anh Tuấn ba cái. Anh Tuấn nói *đội ngũ trực lễ rất tận tâm*, và nhìn sang Thuyên, gật đầu, như hai người cùng giữ một bí mật.
+Thứ Ba, buổi demo chạy trơn như một bài thuyết trình đã tập mười lần. Một nghìn hai trăm cây số vuông, ảnh mới, kết quả ghép liền một dải. Văn phòng Tổng giám đốc không ai xuống, chỉ có anh Đông và hai người khối chiến lược. Anh Đông vỗ vai anh Tuấn ba cái. Anh Tuấn nói *đội ngũ trực lễ rất tận tâm*, và nhìn sang Thuyên, gật đầu, như hai người cùng giữ một bí mật.
 
 Bốn ngày trực. Một ngày ngồi, ba ngày cầm điện thoại, một đêm có ếch kêu. Anh không sửa câu ấy.
 

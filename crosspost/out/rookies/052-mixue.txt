@@ -3,7 +3,7 @@ Sáng thứ Hai, email đến lúc tám giờ hai mươi, tiêu đề có hai ch
 *[Email]*
 Từ: Khối Chiến lược – Phát triển Kinh doanh
 Đến: Nhóm R&D Thiên Nhãn
-Cc: Trưởng nhóm R&D Thiên Nhãn; Văn phòng Giám đốc Khối Công nghệ
+Cc: Trưởng nhóm R&D Thiên Nhãn; Văn phòng Tổng giám đốc
 Chủ đề: **[GẤP] Dời lịch demo nội bộ giai đoạn hai lên 9h00 thứ Ba 4/5**
 
 Kính gửi nhóm R&D Thiên Nhãn,
@@ -278,7 +278,7 @@ Anh nhoài người qua bàn, lau. Vụng. Như người lau màn hình laptop, 
 Anh lau xong má trái, đổi tay, rút điện thoại ra bằng tay kia, liếc. Một email. Gửi cả nhóm.
 
 *[Email]*
-Từ: Văn phòng Giám đốc Khối Công nghệ
+Từ: Văn phòng Tổng giám đốc
 Đến: Nhóm R&D Thiên Nhãn
 Cc: Trưởng nhóm R&D Thiên Nhãn
 Chủ đề: **Tóm tắt hướng kỹ thuật giai đoạn hai, trước demo 4/5**
@@ -429,7 +429,7 @@ Anh bật ra một tiếng qua mũi. *Rất chuẩn.* Lão xác nhận luôn c�
 
 Anh đặt tay lên bàn phím. Ba mươi hai, không phải ba mươi hai. Một câu thôi, gửi riêng cho văn phòng tầng mười tám, hoặc trả lời tất cả.
 
-Rồi anh nghĩ đến anh Tuấn, cái cốc cà phê xoay một vòng, hai vòng. Trả lời tất cả thì là sửa lưng sếp trước văn phòng giám đốc khối. Gửi riêng thì là đi vòng qua đầu sếp. Cái nào cũng không cần thiết, khi buổi demo chạy bằng con số đúng nằm trong code chứ không phải con số trong email.
+Rồi anh nghĩ đến anh Tuấn, cái cốc cà phê xoay một vòng, hai vòng. Trả lời tất cả thì là sửa lưng sếp trước văn phòng tổng giám đốc. Gửi riêng thì là đi vòng qua đầu sếp. Cái nào cũng không cần thiết, khi buổi demo chạy bằng con số đúng nằm trong code chứ không phải con số trong email.
 
 Sai một con số thì kệ nó sai.
 

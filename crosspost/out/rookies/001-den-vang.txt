@@ -28,7 +28,7 @@ Tháng mười, Hà Nội vào mùa hoa sữa. Đầu ngõ có hai cây, mùi n�
 
 Ba lô nhẹ hơn mọi khi. Không có laptop công ty. Ngăn trước vẫn còn sợi dây đeo thẻ màu xanh. Thẻ thì trả rồi, dây thì quên. Hai tuần nay sáng nào anh cũng sờ thấy nó lúc lấy ví, và sáng nào cũng tự nhủ để mai vứt.
 
-Nếu có ai hỏi, anh có sẵn một phiên bản ba mươi giây về mình, nói trơn như đọc. Thuyên, hai mươi tuổi, sinh viên năm ba Khoa học Máy tính, Đại học Công nghệ. Quê Hà Tĩnh, dân chuyên Toán, giải Nhì quốc gia môn Tin năm lớp mười một, IELTS 8.0, một giải hackathon, một đề tài nghiên cứu khoa học cấp quốc gia, vừa xong sáu tháng thực tập ở một công ty công nghệ có vốn nước ngoài. Phó ban CLB Tin học. Chơi bóng rổ. Phiên bản ấy không có dòng nào sai. Nó chỉ thiếu những dòng không ai hỏi: anh nói chuyện được với bất cứ ai, từ bác bảo vệ đến trưởng phòng, mà chưa để ai thấy mình thật sự nghĩ gì. Với người lạ anh chỉ mỉa. Người thân thì anh chọc đến khi cay mới thôi. Và sau sáu tháng ấy, lần đầu tiên anh không biết mình đang chạy về phía nào.
+Nếu có ai hỏi, anh có sẵn một phiên bản ba mươi giây về mình, nói trơn như đọc. Thuyên, hai mươi tuổi, sinh viên năm ba Khoa học Máy tính, Đại học Công nghệ. Quê Hà Tĩnh, dân chuyên Toán, giải Nhì quốc gia môn Tin năm lớp mười một, IELTS 8.0, một giải hackathon, một đề tài nghiên cứu khoa học cấp quốc gia, vừa xong sáu tháng thực tập ở một công ty công nghệ có vốn đầu tư nước ngoài. Phó ban CLB Tin học. Chơi bóng rổ. Phiên bản ấy không có dòng nào sai. Nó chỉ thiếu những dòng không ai hỏi: anh nói chuyện được với bất cứ ai, từ bác bảo vệ đến trưởng phòng, mà chưa để ai thấy mình thật sự nghĩ gì. Với người lạ anh chỉ mỉa. Người thân thì anh chọc đến khi cay mới thôi. Và sau sáu tháng ấy, lần đầu tiên anh không biết mình đang chạy về phía nào.
 
 Điện thoại rung. Anh đợi đến đèn đỏ mới rút ra xem.
 
@@ -225,6 +225,9 @@ Thuyên gõ:
 › Trả lời Vũ Béo: Nói rõ ra thằng chó (cáu)
 Thuyên: 7h. im mồm đi vua hợi (cười gian)
 Thuyên: bảo mấy đứa năm nhất mang nước, idol k tự mua nước (nhếch mép)
-Thuyên: ~ Rồi anh mở tin nhắn của Đức, gõ thêm:
-Thuyên: ^ Đức (PCN): Thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy :))
+
+Rồi anh mở tin nhắn của Đức, gõ thêm:
+
+*[Tin nhắn]*
+› Trả lời Đức (PCN): Thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy :))
 Thuyên: ok ông bảo thầy là tôi đi nhé. lần sau hỏi tôi trước đã ông ơi

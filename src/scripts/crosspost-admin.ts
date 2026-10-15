@@ -20,9 +20,16 @@ import {
 } from '../../crosspost/core/crosspost';
 import { seal, type LoginPayload } from '../../crosspost/core/seal';
 import rookiesConfig from '../../crosspost/sites/rookies/config.json';
+import truyennhaongConfig from '../../crosspost/sites/truyennhaong/config.json';
 
-const SITE = 'rookies';
-const cfg = rookiesConfig as SiteConfig;
+// One page for every site: /admin/crosspost?site=<slug>. Add a site's config here.
+export const SITE_CONFIGS: Record<string, SiteConfig> = {
+  rookies: rookiesConfig as SiteConfig,
+  truyennhaong: truyennhaongConfig as SiteConfig,
+};
+const wantedSite = typeof location !== 'undefined' ? new URLSearchParams(location.search).get('site') : null;
+const SITE = wantedSite && SITE_CONFIGS[wantedSite] ? wantedSite : 'rookies';
+const cfg = SITE_CONFIGS[SITE];
 const $ = <T extends Element = HTMLElement>(sel: string) => document.querySelector<T>(sel)!;
 const $$ = <T extends Element = HTMLElement>(sel: string) => [...document.querySelectorAll<T>(sel)];
 
@@ -63,7 +70,21 @@ interface Worker {
 const WORKER_COLS = 'worker, last_seen, info, public_key, needs_login, has_saved_login, login_note';
 const ALIVE_MS = 60_000;
 
+function fillSiteText() {
+  for (const el of $$('[data-site-name]')) el.textContent = cfg.name;
+  for (const el of $$('[data-site-slug]')) el.textContent = SITE;
+  for (const a of $$<HTMLAnchorElement>('[data-site-tab]')) {
+    const on = a.dataset.siteTab === SITE;
+    a.classList.toggle('primary', on);
+    a.classList.toggle('ghost', !on);
+    if (on) a.setAttribute('aria-current', 'page');
+  }
+  const links = $('[data-links-note]');
+  if (links) links.hidden = cfg.linksAllowed !== false;
+}
+
 export function initCrosspostAdmin(): void {
+  fillSiteText();
   guardAdmin((sb) => start(sb));
 }
 
@@ -95,7 +116,7 @@ function start(sb: SupabaseClient): void {
       const hint = /crosspost_/.test(err.message) ? ' Đã chạy supabase/migrations/0005_crosspost.sql trong Supabase chưa?' : '';
       return toast('Không tải được: ' + err.message + hint, 8000);
     }
-    if (!st.data) return toast('Chưa có trang "rookies" trong crosspost_sites. Chạy lại migration 0005.', 8000);
+    if (!st.data) return toast(`Chưa có trang "${SITE}" trong crosspost_sites. Chạy migration của trang này trong Supabase.`, 8000);
     site = st.data as SiteRow;
     jobs = (js.data ?? []) as JobRow[];
     const chapters: CrossChapter[] = withNumbers((ch.data ?? []) as ChapterRow[]);
@@ -364,7 +385,7 @@ function start(sb: SupabaseClient): void {
   });
 
   $('[data-forget]').addEventListener('click', async () => {
-    if (!alive(worker) || !confirm('Xóa mật khẩu rookies.vn đã lưu trên máy chạy worker?')) return;
+    if (!alive(worker) || !confirm(`Xóa mật khẩu ${cfg.name} đã lưu trên máy chạy worker?`)) return;
     await sendLoginRequest('forget', null);
   });
 

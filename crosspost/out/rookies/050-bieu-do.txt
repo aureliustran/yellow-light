@@ -3,7 +3,7 @@ Email đến lúc tám giờ năm mươi sáng, đúng lúc cả tầng mười 
 *[Email]*
 Từ: Khối Chiến lược – Phát triển Kinh doanh
 Đến: Nhóm R&D Thiên Nhãn
-Cc: Trưởng nhóm R&D Thiên Nhãn; Văn phòng Giám đốc Khối Công nghệ
+Cc: Trưởng nhóm R&D Thiên Nhãn; Văn phòng Tổng giám đốc
 Chủ đề: **Kết thúc khảo sát quý I – Triển khai giai đoạn hai**
 
 Kính gửi nhóm R&D Thiên Nhãn,
@@ -53,6 +53,28 @@ Mười một giờ, file quay lại. Sếp đã sửa trang bìa thành *THIÊN
 * * *
 
 *Thứ Ba, 20/4/2027*
+
+Tám giờ bốn mươi, cả nhóm đứng chờ ngoài phòng họp lớn tầng mười tám. Phiên trước kéo dài quá giờ. Qua lớp kính mờ chỉ thấy những vệt đen của áo vest, ngồi rồi đứng rồi lại ngồi.
+
+Tám giờ năm mươi, cửa mở. Một dàn người đi ra, toàn vest, toàn giày da, toàn những gương mặt anh chưa thấy ở tầng mười bảy bao giờ. Lão đứng thẳng lên, kéo vạt áo, cúi chào từng người một như cúi chào một hàng cờ.
+
+Giữa đám ấy có một ông chú ngoài bốn mươi mặc áo phông trơn màu than, quần thể thao ống rộng, đôi giày chạy bộ đã bạc mũi. Tay không cầm gì, kể cả điện thoại. Mấy ông vest đi hai bên nghiêng người về phía ông khi nói, và cười trước khi ông cười.
+
+"Ngài Morpheus, mời ngài đi lối này ạ."
+
+Ông đáp một ông vest một câu ngắn, bằng tiếng Việt, giọng ngang ngang, đều đều, chữ nào cũng đúng mà không chữ nào có quê. Rồi cả đoàn rẽ về phía thang máy riêng ở cuối hành lang. Lão vẫn còn cúi.
+
+"Ai đấy chị?" anh hỏi nhỏ chị Hạnh.
+
+Chị Hạnh lắc đầu. Anh Bảo nhún vai, không tháo tai nghe. Trâm nhìn theo cái lưng áo phông, nói: "Ngài á? Em tưởng mỗi phim mới có người gọi thế."
+
+Anh không hỏi lão. Lão vẫn đang bận cúi.
+
+Anh xếp lại những gì vừa thấy, theo thứ tự anh vẫn xếp. Một: ăn mặc bố đời giữa một hành lang toàn vest, mà các sếp gọi là ngài. Ở tầng này, đến anh Khải cũng chỉ là *anh Khải*. Hai: Morpheus không phải tên Việt, mà ông nói tiếng Việt, giọng của người lớn lên ở chỗ khác. Ba: Morpheus là tên một vị thần Hy Lạp. Chả ai đặt tên con như thế. Vậy đấy không phải tên thật. Chắc các sếp coi khách hàng là thượng đế, nên gọi khách bằng tên thần thánh luôn cho máu.
+
+Người duy nhất được gọi trên cả giám đốc thì chỉ có thể là khách. Khách hàng là thượng đế. Giám đốc chỉ là ông sếp lớn.
+
+Anh xếp ông vào ngăn *khách*, rồi đóng ngăn lại.
 
 Phòng họp lớn tầng mười tám rộng gấp ba phòng họp tầng mười bảy, và lạnh gấp năm. Một cái bàn gỗ hình bầu dục, mặt bàn bóng đến mức soi được trần nhà. Ghế da đen. Mỗi chỗ ngồi có một chai nước khoáng nhãn ngoại, một tập giấy có in logo, một cây bút có in logo. Cửa kính chạy suốt một bức tường, nhìn xuống Phạm Hùng như nhìn xuống một cái sa bàn.
 
@@ -262,9 +284,13 @@ Anh gật. Đúng thế. Toàn những câu chả liên quan.
 
 * * *
 
-Ba giờ chiều, anh gửi bộ tài liệu kỹ thuật đầy đủ cho anh Tuấn, để anh Tuấn gửi lên văn phòng Giám đốc Khối Công nghệ.
+Ba giờ chiều, anh gửi bộ tài liệu kỹ thuật đầy đủ cho anh Tuấn, để anh Tuấn gửi lên văn phòng Tổng giám đốc.
 
-Hai trăm mười bốn trang. Không phải hai trang trên ổ chung. Không phải những cuốn sổ tay riêng của con AI. Một phiên bản ở giữa: đủ dày để không ai bảo là thiếu, đủ khô để không ai đọc hết. Mục lục, sơ đồ con sông, các khúc lọc mây, cắt ô, mô hình, ghép kết quả. Ở phụ lục cuối, anh để lại một thư mục con anh chưa bao giờ nhắc tới với ai trong lab, đặt tên bằng tiếng Anh như mọi file của riêng anh.
+Hai trăm mười bốn trang. Không phải hai trang trên ổ chung. Không phải những cuốn sổ tay riêng của con AI. Một phiên bản ở giữa: đủ dày để không ai bảo là thiếu, đủ khô để không ai đọc hết. Mục lục, sơ đồ con sông, các khúc lọc mây, cắt ô, mô hình, ghép kết quả.
+
+Chương cuối trước phụ lục là chương anh viết lâu nhất: *Kiến trúc triển khai.* File *terminal_to_cluster_v0.md* từ tháng ba đã thành bốn mươi trang. Đưa mô hình từ một cái máy gõ lệnh ra một hệ chạy cả nước: cắt ảnh thành ô, xếp hàng đợi, chia cho nhiều máy chạy song song, ghép lại ở biên, tự chạy lại phần lỗi, tự hiệu chỉnh hệ số theo mùa và theo tỉnh. Thiết kế để chạy không cần người ngồi trông. Đầu chương có một đoạn ngắn tên *Vì sao Java*: lõi mô hình giữ Python, lớp điều phối bao quanh viết bằng Java, vì đó là ngôn ngữ chung của tập đoàn, ai vào dự án cũng đọc được, anh Bảo đọc được, anh Kiên đọc được. Ngôn ngữ anh thạo nhất là Go, sáu tháng ở tòa nhà kính. Anh không chọn nó. Một hệ thống để nhiều người cùng làm thì phải viết bằng thứ nhiều người cùng đọc. Lúc ấy anh tin thế, và lúc ấy điều đó đúng.
+
+Ở phụ lục cuối, anh để lại một thư mục con anh chưa bao giờ nhắc tới với ai trong lab, đặt tên bằng tiếng Anh như mọi file của riêng anh.
 
 *future_directions/*
 
@@ -340,7 +366,7 @@ Lần thứ ba anh gõ đến chữ *tháng* thì dừng, giữ phím xóa cho �
 
 Anh gập laptop. Câu ấy đã có giờ của nó, và giờ ấy là một giây sáng nay, ở tầng mười tám. Bây giờ nó không còn là sự thật nữa. Bây giờ nó chỉ là một cách để lão chết muộn hơn sáng nay nửa ngày, và kéo anh chết theo vì đã đỡ lão.
 
-Anh cầm điện thoại lên, mở lại email buổi sáng. *Hướng thương mại hóa cụ thể sẽ được thông báo sau.* Anh nghĩ đến cái thư mục *future_directions/* nằm ở phụ lục một bộ tài liệu hai trăm mười bốn trang, bây giờ đã nằm trong hộp thư của văn phòng Giám đốc Khối Công nghệ, dưới một tiêu đề có chữ *trưởng nhóm tổng hợp*.
+Anh cầm điện thoại lên, mở lại email buổi sáng. *Hướng thương mại hóa cụ thể sẽ được thông báo sau.* Anh nghĩ đến cái thư mục *future_directions/* nằm ở phụ lục một bộ tài liệu hai trăm mười bốn trang, bây giờ đã nằm trong hộp thư của văn phòng Tổng giám đốc, dưới một tiêu đề có chữ *trưởng nhóm tổng hợp*.
 
 Sẽ không ai đọc đến phụ lục.
 

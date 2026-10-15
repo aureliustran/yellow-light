@@ -419,7 +419,8 @@ Người neo cảm xúc của Thuyên. Vũ giữ cho Thuyên còn là người, 
 
 | Nhân vật | Vai trò | Ghi chú |
 | --- | --- | --- |
-| Anh trai nữ chính (Khải) | Người kế nghiệp, điều hành mảng công nghệ của tập đoàn. Đối thủ chính Phần 1 và Phần 4 | Đúng về sự lươn lẹo của Thuyên nhưng có lợi ích riêng (nắm dự án, khó chịu vì em gái quý Thuyên). Đối trọng đấu trí mạnh hơn Thuyên: Thuyên đọc người, anh ta đọc dấu vết. Người duy nhất trong tổ chức chịu đọc để hiểu phần lõi Thuyên làm. Cũng nói nhiều, thân thiện, kể chuyện vụn để giữ lõi, nhưng có quyền nhìn thấy cả hai phía của mọi người dưới quyền. Dùng em gái làm màn khói. Thuyên không nghi anh ta cho đến lúc bị lật bài, vì anh ta không trực tiếp giám sát Thuyên. Không có POV, người đọc chỉ thấy anh ta qua mắt Thuyên và Nhi, trừ một interlude duy nhất sau lật bài |
+| Anh trai nữ chính (Khải) | Người kế nghiệp. Thành viên HĐQT Astrea Group kiêm Tổng giám đốc Astrea Technology (công ty con mảng công nghệ, nơi Thuyên làm), đang chờ lên Phó Chủ tịch HĐQT. Đối thủ chính Phần 1 (bề mặt) và Phần 4 | Đúng về sự lươn lẹo của Thuyên nhưng có lợi ích riêng (nắm dự án, khó chịu vì em gái quý Thuyên). Đối trọng đấu trí mạnh hơn Thuyên: Thuyên đọc người, anh ta đọc dấu vết. Người duy nhất trong tổ chức chịu đọc để hiểu phần lõi Thuyên làm. Cũng nói nhiều, thân thiện, kể chuyện vụn để giữ lõi, nhưng có quyền nhìn thấy cả hai phía của mọi người dưới quyền. Dùng em gái làm màn khói. Thuyên không nghi anh ta cho đến lúc bị lật bài, vì anh ta không trực tiếp giám sát Thuyên. Không có POV, người đọc chỉ thấy anh ta qua mắt Thuyên và Nhi, trừ một interlude duy nhất sau lật bài |
+| Ngài Morpheus (Morpheus Đỗ) | Giám đốc Công nghệ Tập đoàn (Group CTO) của Astrea Group: ban điều hành, không ngồi HĐQT; người đặt chuẩn công nghệ cho mọi công ty con. Boss cuối thật của Phần 1 | Việt kiều, ngoài bốn mươi, giọng ngang ngang, ăn mặc xuề xòa. Giấu kín: nhân viên cỡ đồng nghiệp của Thuyên không biết danh tính; văn bản Thuyên thấy (ADR, duyệt thử nghiệm) đều do Khải ký. Lần đầu xuất hiện ở hành lang tầng 18 (ch.32), Thuyên đoán là khách hàng ("khách hàng là thượng đế"), không hỏi anh Tuấn. Người đọc tưởng Khải là boss cuối đến hết ch.53. Đòn của ngài: bản phân tích thành căn cứ blacklist. Chi tiết: `claude/plan-giai-doan-2-hop-nhat.md` |
 | Sếp cũ ở lab (anh Tuấn) | Trưởng nhóm R&D, khoảng 32 tuổi, con trai một cổ đông, đối tác lâu năm của bố Nhi, được xin vào | Đáng ghét nhiều hơn đáng thương (xem mục "Lab: người và phe"). Kém chuyên môn, cướp công, khinh kỹ sư, tán tỉnh nhân viên nữ và cả thực tập sinh. Rất cần được công nhận, nghiện lời khen. Tin Thuyên là người duy nhất thật lòng với mình, trong khi Thuyên nói xấu sau lưng (giai đoạn 2). Một trong những người vạch trần Thuyên |
 | Đồng nghiệp ở lab | Kỹ sư ít nói; phe "rắn" là nhóm điều phối và các nhân viên mượn từ khối khác | Ghét sếp vì lý do có thật. Ngọt mặt với sếp, cắn sau lưng. Quay lưng khi biết Thuyên đứng hai phía |
 | Bố mẹ Thuyên | Công chức gốc làng quê | Không ác, cũng đang sống sót trong cuộc đời không chọn. Bố từng bị ông nội đánh vì đi học muộn. Mẹ sợ con không bằng ai |
@@ -433,6 +434,25 @@ Người neo cảm xúc của Thuyên. Vũ giữ cho Thuyên còn là người, 
 
 Nhân vật phụ quá khứ (chương 2–4): thầy Quang (dạy Tin cấp 3), anh Long (hội bóng rổ cấp 3, mê Kyrie Irving, dạy cách mặc), Tú (đồng đội cấp 3), bác Hùng (hàng xóm ở quê, có con đi học bổng Nga). Nam (con bác Hùng, hơn Thuyên một tuổi): được học bổng đi Nga nhưng trượt lớp tiếng Nga, dùng quyền lợi khác của diện học bổng vào một trường top ở Hà Nội, lần đầu tự do thì sa đà theo hội cùng quê, nghiện bi-a đánh độ tiền, thua khoảng 120 triệu. Xuất hiện lại ở giai đoạn biến chất của Thuyên. Hiện tại: Hưng (năm nhất, nhóm pickup).
 
+## Cơ cấu tập đoàn và chỗ ngồi summit (chốt 15/10)
+
+### Cơ cấu
+
+- **Astrea Group** (tập đoàn): mười mấy công ty con (bất động sản, thanh toán, bán lẻ, giáo dục, bảo hiểm, công nghệ…). Chủ tịch HĐQT là bố Nhi. Logo *Astrea Group* mạ vàng ở sảnh trụ sở, trên băng rôn summit, trên thiệp VIP nhà tài trợ.
+- **Astrea Technology** (Công ty Cổ phần Công nghệ Astrea): công ty con, tầng 17–18 trụ sở. Logo chữ xanh, dòng nhỏ *Thành viên Astrea Group*. Offer, hợp đồng, thẻ nhân viên, email nhân sự của Thuyên đều mang tên công ty này.
+- **Khải:** thành viên HĐQT tập đoàn kiêm Tổng giám đốc Astrea Technology, đang chờ lên Phó Chủ tịch HĐQT. Email ký "Văn phòng Tổng giám đốc". Thẻ ở ch.16: *Tổng giám đốc – Astrea Technology*.
+- **Ngài Morpheus:** Group CTO, thuộc ban điều hành tập đoàn, không ngồi HĐQT. Đặt chuẩn công nghệ (Java, C#, Node.js, Python). Đề xuất ngoài chuẩn do Tổng giám đốc công ty con duyệt thử nghiệm và báo cáo Văn phòng CTO Tập đoàn (ch.35), nên chữ ký trên ADR là của Khải.
+- **Vì sao Thuyên khó nối:** logo ở summit là tập đoàn, offer là công ty con; một tập đoàn hai mươi nghìn người, mười mấy công ty, công ty anh là một dòng trên tấm bảng đồng (ch.13).
+
+### Chỗ ngồi summit (ch.8, *Hồng đất*)
+
+- **Thiệp cấp lại:** tối 9/10 Khải gọi thư ký (Trang) hủy mã thiệp VIP Nhi làm rơi, xin cấp lại (*Kem viền nhũ vàng*). Hủy mã thì ghế gắn với mã cũng bị nhả; thiệp mới chạy theo danh sách duy nhất còn chỗ: *Khách mời – Khối sinh viên đối tác*, hàng thứ hai, dây đeo xanh (thiệp cũ: *Khách mời VIP – Nhà tài trợ*, ghế số ba hàng đầu, cạnh bố). Danh sách chốt, không sửa kịp trong một đêm. Bố không biết chuyện mất thiệp.
+- **Hàng đầu (VIP, dây đỏ):** bố ngồi giữa, không nêu tên; ghế bên trái bố trống, bảng tên úp (ghế của Khải); ông tóc bạc quỹ đầu tư; hai bà.
+- **Hàng thứ hai (khối sinh viên đối tác, dây xanh):** nửa hàng nam vest may đo → Khải (vest xám, đeo khẩu trang vì ho từ thứ Năm, bỏ ghế hàng đầu xuống ngồi cạnh em; nói với bố là ban tổ chức xếp nhầm) → Nhi (áo len hồng) → nửa hàng nữ, mỗi người một kiểu sang (đầm tweed, áo dài cách tân, đầm lụa, blazer + chân váy xếp ly).
+- **Thuyên đọc sai:** người đeo khẩu trang là trưởng đoàn hoặc nghiên cứu sinh đi kèm khối sinh viên; Nhi là con nhà đối tác ("Cô ấy không cần thiệp mời. Bố cô ấy là thiệp mời"). Anh không ghi nhớ mặt Khải (không thấy mặt). Thấy chữ *Astrea* ba lần nhưng gạt đi ở ch.10 và ch.13.
+- ***Hồng đất*** kể những thứ Thuyên không đọc được: thiệp trong túi anh đã chết, ghế trống là của người ngồi cạnh cô, dây xanh là lỗi dữ liệu. "Anh ta tưởng cô là một trong số họ. Hôm nay, lần đầu tiên, cô đúng là một trong số họ."
+- **Hệ quả:** Thuyên chỉ biết Khải là anh trai Nhi ở ch.52 (tiệc 15/7, Khải về nhà). Trước đó Nhi biết anh biết cô "nhà có điều kiện" (cô giơ tay ở summit), không biết anh không biết cô là con chủ tập đoàn.
+
 ## Phần 1 – Việt Nam: Đèn vàng → Sụp đổ
 
 Thuyên leo lên bằng chiến lược nửa phật nửa ma, làm đúng việc nhưng sai người, và trả giá khi bước ra ánh sáng. Kéo dài từ đầu năm 3 (tháng 10/2026) đến khi tốt nghiệp (hè 2028).
@@ -440,7 +460,7 @@ Thuyên leo lên bằng chiến lược nửa phật nửa ma, làm đúng việ
 ### 1. Mở đầu
 
 - **Chương 1 – Đèn vàng (đã viết):** sáng sớm sau buổi tập, Thuyên dừng đèn vàng, bị nữ chính đi Vespa hồng đâm từ sau rồi "ăn vạ", không đòi tiền, chỉ đòi anh nhận lỗi. Anh đọc cô sai hoàn toàn. Cô đánh rơi thư mời VIP summit, cùng sáng đó thầy Bình cử anh lên phát biểu.
-- **Summit:** đảo vai, Thuyên là người có hào quang. Sau bài phát biểu, anh được offer vị trí part-time ở lab R&D thuộc mảng công nghệ của tập đoàn nhà nữ chính.
+- **Summit:** đảo vai, Thuyên là người có hào quang. Sau bài phát biểu, anh được offer vị trí part-time ở lab R&D của Astrea Technology, công ty con mảng công nghệ của Astrea Group, tập đoàn nhà nữ chính.
 - Nữ chính thuê anh làm mentor IELTS (cô cần IELTS để đi du học, hạt giống cho Phần 2).
 - Nữ phụ đến với anh qua hội nghị MUN của Học viện Ngoại giao.
 

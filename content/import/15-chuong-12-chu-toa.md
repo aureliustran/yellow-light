@@ -309,7 +309,7 @@ Anh không biết đáp lại câu đó thế nào, nên không đáp.
 
 "Mà ở summit em dừng ba lần," cô nói. "Chị xem clip rồi. Lần thứ ba hơi dài. Có người hỏi chen vào được."
 
-Anh biết cô đang nói về ai. Cô gái áo len hồng, hàng ghế đầu, *anh phanh gấp*. Nhưng cô ở đây không biết người đó là ai, chỉ biết có một khoảng dừng hơi dài.
+Anh biết cô đang nói về ai. Cô gái áo len hồng, hàng ghế thứ hai, *anh phanh gấp*. Nhưng cô ở đây không biết người đó là ai, chỉ biết có một khoảng dừng hơi dài.
 
 "Còn chị," anh nói, "chị nhìn đại biểu Ấn Độ trước khi cậu ấy giơ biển."
 

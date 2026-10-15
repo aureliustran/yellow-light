@@ -9,12 +9,16 @@ Email đến lúc tám giờ bốn mươi, không có chữ *GẤP*, và vì kh�
 :::email
 Từ: Khối Chiến lược – Phát triển Kinh doanh
 Đến: Trưởng nhóm R&D Thiên Nhãn
-Cc: Nhóm R&D Thiên Nhãn; Văn phòng Giám đốc Khối Công nghệ
+Cc: Nhóm R&D Thiên Nhãn; Văn phòng Tổng giám đốc
 Chủ đề: Kế hoạch chuyển giao sang vận hành thương mại (production) – dự kiến tháng 7/2027
 
 Kính gửi anh Tuấn,
 
 Sau buổi demo nội bộ ngày 4/5, Ban Lãnh đạo thống nhất chuẩn bị chuyển Thiên Nhãn sang giai đoạn vận hành thương mại từ tháng 7/2027.
+
+Yêu cầu của đối tác (theo biên bản làm việc ngày 12/5): trả kết quả biến động đất theo từng huyện trong vòng 48 giờ kể từ khi nhận ảnh; sai số độ cao công trình không vượt quá ±1,5 m; phủ toàn bộ 34 tỉnh, thành trong quý IV/2027.
+
+Hệ thống vận hành triển khai theo chuẩn công nghệ của Tập đoàn (Java, C#, Node.js, Python). Đề xuất sử dụng công nghệ ngoài chuẩn do Tổng giám đốc phê duyệt thử nghiệm và báo cáo Văn phòng CTO Tập đoàn.
 
 Đề nghị trưởng nhóm gửi đề xuất nhân sự phụ trách giai đoạn vận hành (kỹ thuật, dữ liệu, truyền thông, đầu mối đối tác) trước ngày 15/6.
 
@@ -33,11 +37,13 @@ Anh Kiên không ngẩng đầu, nhưng tay anh Kiên dừng gõ.
 
 Bốn mục trong ngoặc đơn: *kỹ thuật, dữ liệu, truyền thông, đầu mối đối tác*. Bốn dòng, mười hai người, và một danh sách sẽ được viết bởi người hiểu ít nhất về cả bốn dòng ấy.
 
+Còn một đoạn không ai ở tầng mười bảy chụp màn hình: bốn mươi tám giờ một huyện, sai số một mét rưỡi, ba mươi tư tỉnh. Mô hình hôm nay chạy một tỉnh mất một đêm, trên một cái máy. Người ta đọc đoạn ấy và thấy một mốc tháng. Anh đọc nó và thấy chương cuối của bộ tài liệu hai trăm mười bốn trang, chương anh đã viết xong từ tháng tư.
+
 Danh sách nghĩa là ghế, mà ghế có hạn. Từ lúc email ấy đến, ai ở tầng mười bảy cũng hiểu: sau tháng bảy, người có tên sẽ ở lại theo dự án, người không có tên sẽ ra rìa.
 
 Người viết danh sách là anh Tuấn. Lão không chọn người giỏi nhất, vì lão không đủ hiểu để biết ai giỏi nhất. Lão chọn người lão tin. Từ sáng nay, ở tầng mười bảy chỉ còn một thứ tiền: lòng tin của một người đàn ông ba mươi hai tuổi. Ai cũng bắt đầu đi kiếm nó, đổi nó, lấy nó từ tay người khác.
 
-Nhưng không phải ai cũng phải đếm ghế. Kỹ sư thì không. Khối công nghệ chưa bao giờ đủ người biết sửa một đường ống lúc hai giờ sáng; rời dự án này thì có ba dự án khác đang chờ. Anh Bảo kéo tai nghe lên lại vì anh Bảo biết điều ấy. Người phải đếm là những người được mượn về: Hà My từ marketing, Trâm từ kinh doanh, chị Ngân từ hành chính. Hết dự án, họ không được kéo đi đâu cả. Họ được trả về, về một cái bàn đã có người khác ngồi. Và dòng cuối của email vừa nói rằng chính khối của Trâm sẽ tự cử người cho cái ghế Trâm đang ngồi.
+Nhưng không phải ai cũng phải đếm ghế. Kỹ sư thì không. Astrea Technology chưa bao giờ đủ người biết sửa một đường ống lúc hai giờ sáng; rời dự án này thì có ba dự án khác đang chờ. Anh Bảo kéo tai nghe lên lại vì anh Bảo biết điều ấy. Người phải đếm là những người được mượn về: Hà My từ marketing, Trâm từ kinh doanh, chị Ngân từ hành chính. Hết dự án, họ không được kéo đi đâu cả. Họ được trả về, về một cái bàn đã có người khác ngồi. Và dòng cuối của email vừa nói rằng chính khối của Trâm sẽ tự cử người cho cái ghế Trâm đang ngồi.
 
 Ở tầng mười bảy từ sáng nay có hai loại người: người được cần, và người phải chứng minh mình được cần.
 

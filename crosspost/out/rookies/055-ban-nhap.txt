@@ -1,7 +1,7 @@
 Email đến lúc tám giờ mười lăm sáng thứ Hai, và nó không gửi cho anh Tuấn.
 
 *[Email]*
-Từ: Văn phòng Giám đốc Khối Công nghệ
+Từ: Văn phòng Tổng giám đốc
 Đến: Thuyên – R&D Thiên Nhãn
 Chủ đề: **Trao đổi tài liệu kỹ thuật giai đoạn hai**
 
@@ -39,7 +39,7 @@ Anh mở ngăn kéo. Ba quân domino vẫn đứng dọc mép bàn từ thứ S�
 
 *Anh ơi, văn phòng anh Khải gửi riêng em email này. Em nghĩ là nhầm, vì phần này anh định hướng. Anh đi cùng em nhé.*
 
-Anh đọc lại. *Em nghĩ là nhầm.* Không ai tin văn phòng giám đốc khối gửi nhầm. Câu ấy giả. Xóa.
+Anh đọc lại. *Em nghĩ là nhầm.* Không ai tin văn phòng tổng giám đốc gửi nhầm. Câu ấy giả. Xóa.
 
 Lần thứ hai:
 
@@ -219,7 +219,7 @@ Anh gập laptop, nằm xuống. Không ngủ được. Dậy. Rửa mặt. Khô
 
 Thứ Tư, ba giờ năm mươi chiều.
 
-Anh mở một cửa sổ soạn thư, gõ bản nháp. Gõ xong, anh đọc lại, và câu đầu tiên sai. Quá sạch. Một người thật sự định đi một mình sau lưng sếp thì không viết thư cho văn phòng giám đốc khối bằng giọng tuyên bố. Họ viết bằng giọng xin.
+Anh mở một cửa sổ soạn thư, gõ bản nháp. Gõ xong, anh đọc lại, và câu đầu tiên sai. Quá sạch. Một người thật sự định đi một mình sau lưng sếp thì không viết thư cho văn phòng tổng giám đốc bằng giọng tuyên bố. Họ viết bằng giọng xin.
 
 Xóa.
 
@@ -297,7 +297,7 @@ Hà My không trả lời được câu ấy. Không có câu trả lời nào c
 
 Phòng họp 18B có một cửa sổ nhìn thẳng ra Keangnam, và một cái bàn tròn nhỏ, sáu ghế. Khải ngồi sẵn, áo sơ mi trắng, không vest, cốc cà phê giấy trước mặt. Anh ta đứng dậy bắt tay anh Tuấn trước, rồi bắt tay anh, cái bắt tay khô và ngắn.
 
-Bốn mươi phút. Khải hỏi ba câu. Hai câu đầu, Khải nhìn anh Tuấn. Anh Tuấn trả lời cả hai, trôi chảy hơn hồi tháng tư rất nhiều, vì tối qua anh Tuấn đã gọi anh đến chín giờ để tập. Câu thứ ba Khải nhìn anh, hỏi về cách mô hình xử lý vùng ảnh bị mây che quá bảy mươi phần trăm. Anh trả lời. Anh Tuấn gật bên cạnh, gật đúng chỗ, như người gật theo nhạc. Nhạc là anh.
+Bốn mươi phút. Khải hỏi ba câu. Hai câu đầu, Khải nhìn anh Tuấn: tiến độ đóng gói, và chạy cả nước thì sao, ba mươi tư tỉnh, mỗi huyện bốn mươi tám giờ, cần bao nhiêu máy. Anh Tuấn trả lời cả hai, trôi chảy hơn hồi tháng tư rất nhiều, vì tối qua anh Tuấn đã gọi anh đến chín giờ để tập. Câu thứ hai lão trả lời bằng đúng chữ trong chương *Kiến trúc triển khai*: chia ô, xếp hàng đợi, chạy song song, ghép lại ở biên. Chữ nào cũng của anh, đọc bằng giọng lão. Khải gật, viết một chữ. Câu thứ ba Khải nhìn anh, hỏi về cách mô hình xử lý vùng ảnh bị mây che quá bảy mươi phần trăm. Anh trả lời. Anh Tuấn gật bên cạnh, gật đúng chỗ, như người gật theo nhạc. Nhạc là anh.
 
 Khải không ghi gì. Khải chỉ nghe, và nhìn ra cửa sổ những lúc người khác đang nói, lâu đến mức tưởng anh ta đang nghĩ chuyện khác.
 
@@ -337,7 +337,7 @@ Không có chữ nào về ảnh chụp màn hình. Không có chữ nào về m
 
 Cả hòn đảo đọc nó trong im lặng. Chị Phương nhìn sang cái bàn trống của Hà My, rồi nhìn xuống bảng tính nhân sự của mình, và anh thấy chị xóa một dòng. Trâm cầm điện thoại lên, rồi đặt xuống, rồi cầm lên. Chị Hạnh không nhìn ai. Chị Hạnh nhìn anh. Đúng một lần, rất ngắn, như người cộng thêm một con số vào bảng tính.
 
-Không ai hỏi về bản nháp. Không ai hỏi ảnh chụp ở máy ai. Không ai hỏi vì sao văn phòng giám đốc khối lại gửi riêng cho một kỹ sư.
+Không ai hỏi về bản nháp. Không ai hỏi ảnh chụp ở máy ai. Không ai hỏi vì sao văn phòng tổng giám đốc lại gửi riêng cho một kỹ sư.
 
 Sẽ không ai hỏi.
 
@@ -440,38 +440,77 @@ chiều t6 21/5: quan sát. chưa phải phép thử.
 
 Hồi làm đề tài ở trường, muốn biết một lớp trong mô hình quan trọng đến đâu thì người ta tháo nó ra, chạy lại, đo xem kết quả tụt bao nhiêu. Nhưng phải nói trước sẽ đo cái gì, và tụt đến đâu thì tính là quan trọng. Nói sau khi đã thấy kết quả thì đấy là kể chuyện, không phải đo.
 
-Anh lật sang trang mới, viết phép thử. Bốn dòng.
+Lần này, cái lớp phải tháo ra là chính anh.
+
+Cách dễ nhất là nghỉ một ngày, bàn giao cho đủ, sáu giờ tối mới đọc. Anh nghĩ đến nó trước tiên, và bỏ nó trước tiên. Nghỉ một ngày thì người ta chỉ cần đợi đến thứ Hai. Lão sẽ nhắn *để thứ Hai Thuyên vào xem*, cả lab sẽ đợi, và anh sẽ có thêm một chiều thứ Sáu nữa: đẹp, và không chứng minh được gì. Một ô đỏ để qua cuối tuần chưa chắc vì không ai sửa được. Có khi chỉ vì chưa ai cần sửa.
+
+Muốn biết có ai thay được mình thì phải để người ta không còn cách nào đợi mình. Giao hết. Giao thật. Giao đủ thời gian để người ta làm, không phải đủ để người ta chờ.
+
+Việc đầu tiên là khoanh vùng: anh đang cầm những gì. Anh tưởng mất năm phút. Mất gần một tiếng, vì cứ viết xong một dòng anh lại nhớ ra một việc mình vẫn làm mà không ai gọi là việc.
+
+*[Bảng tính – khoanh_vung.md]*
+STT | Việc | Giao cho | Đoán
+1 | Vận hành đường ống: mẻ đêm, cảnh báo, chạy lại ô lỗi | a Kiên | B
+2 | Ô lỗi theo mùa: mây, bóng mây, ngưỡng | a Kiên + a Bảo | C
+3 | Huấn luyện lại mô hình khi có dữ liệu mới | a Bảo | C
+4 | Quy chuẩn nhãn, kiểm định nhãn | c Quỳnh | A
+5 | Trả lời câu hỏi kỹ thuật của đối tác | a Bảo viết, Trâm gửi | B
+6 | Tài liệu kỹ thuật, câu hỏi từ tầng 18 | a Bảo | B
+7 | Số liệu, phụ lục cho báo cáo của lão | c Hạnh | B
+8 | Kế hoạch scaling lên production | a Bảo | C
+9 | Kiến trúc production: từ một máy ra cả nước | a Bảo | C
+10 | Tinh chỉnh mô hình cho khớp kiến trúc và hợp đồng | a Bảo | C
+
+Bảy việc đầu, cả lab đều biết là việc, chỉ không biết ai đang làm. Ba việc cuối, cả lab chưa biết là việc. Chúng nằm trong chương *Kiến trúc triển khai*, và trong ba con số của email production: bốn mươi tám giờ một huyện, một mét rưỡi, ba mươi tư tỉnh.
+
+Người nhận, anh chọn người mạnh nhất có thể nhận từng việc, không chọn người dễ kẹt. Giao cho người yếu rồi người ta kẹt thì chẳng chứng minh được gì. Gần như dòng nào cũng có tên anh Bảo, vì anh Bảo là người duy nhất ở tầng mười bảy anh không chắc thắng được.
+
+Cột cuối là anh đoán trước. Viết ra, ghi giờ, để một tuần sau không tự lừa mình rằng mình đã biết từ đầu.
+
+Ba việc cuối anh đoán C, và lý do phải viết được thành câu, không thì cũng chỉ là một cảm giác nữa. Kiến trúc production nằm ở chỗ giao của ba thứ: hệ thống phân tán, toán của mô hình, và yêu cầu của khách. Anh Bảo giỏi thứ nhất, nhưng không biết mô hình chỗ nào chia ra chạy được, chỗ nào phải chạy liền, sai số đi qua biên ô thì lan thế nào. Khối kinh doanh biết thứ ba, nhưng không biết hai thứ kia tồn tại. Ở tầng mười bảy, chỉ một người đứng được ở cả ba chỗ. Cái bảng này là để kiểm xem câu ấy có đúng không.
+
+Việc thứ hai là tiêu chí. Viết trước khi giao, viết bằng mực, để không sửa được.
 
 *[Ghi bên lề sách]*
-không có mình, tầng 17 có chạy không?
-→ nghỉ 1 ngày. bàn giao đủ. 6h tối mới đọc.
-→ có MỘT người làm được việc của mình: trượt. mình thay được.
-→ cả ngày không ai làm được: đỗ. không ai thay được mình.
+phép thử: không có mình, tầng 17 có chạy không?
+giao hết 10 việc. 28/5 → 4/6. bàn giao đủ, có cả vì sao.
+mình ngồi đó, không làm hộ. 4/6 nghỉ hẳn. 6h tối mới đọc.
+đo: xong chưa / đúng không / mất bao lâu / nói được vì sao không.
+A: làm ngang mình. B: làm được, chậm hơn hoặc kém hơn. C: không làm được.
+toàn A và B: trượt. mình thay được.
+có C: đỗ. ở đúng những ô C.
 
-Tiêu chí khắt khe, và anh để nó khắt khe có chủ đích. Chỉ cần một người làm được việc của anh là lão đã có lựa chọn khác. Chỉ khi không ai làm được, cơ sở mới đủ chắc để đứng lên. Còn bàn giao đủ là để không ai, kể cả chính anh, nói được rằng người ta kẹt vì anh giấu.
+B cũng tính là trượt, và anh để thế có chủ đích. Lão không cần người làm ngang anh. Lão chỉ cần người làm được: chậm hơn một chút, kém hơn một chút, rẻ hơn nhiều. Việc nào có người làm được là việc ấy lão có lựa chọn khác. Chỉ ở những ô không ai làm được, cơ sở mới đủ chắc để đứng lên.
 
-Anh viết bản bàn giao luôn, ngay tại bàn. Mật khẩu máy chủ. Danh sách đầu mối phía đối tác. Lịch chạy đêm. Một runbook mười hai mục cho những ô hay lỗi, ô 712 ở mục đầu tiên: *nếu đỏ, làm lần lượt bước 1 đến bước 4.* Anh Kiên trực, ghi mọi sự cố vào một sheet chung: mấy giờ, chuyện gì, ai xử lý, xong chưa.
+Đến dòng *bàn giao đủ, có cả vì sao* thì anh dừng lâu hơn.
 
-Đến lúc soát lại, anh dừng ở runbook.
+Runbook hiện tại có mười hai mục, mục nào cũng ghi đủ từng bước, không mục nào ghi vì sao. Vì sao bước 3 lọc mây ở ngưỡng không phẩy ba lăm mà không phải không phẩy bốn, câu trả lời nằm trong bốn mươi lần thử thất bại, và bốn mươi lần ấy nằm trong đầu anh, không nằm trong file nào. Giao nguyên như thế thì người ta kẹt là chắc. Phép thử sẽ đỗ, và đỗ vì anh giấu.
 
-Mười hai mục, mục nào cũng ghi đủ từng bước. Không mục nào ghi vì sao chọn bước ấy. Vì sao bước 3 lọc mây ở ngưỡng không phẩy ba lăm mà không phải không phẩy bốn, câu trả lời nằm trong bốn mươi lần thử thất bại, và bốn mươi lần ấy nằm trong đầu anh, không nằm trong file nào.
-
-Anh biết chỗ này nghĩa là gì. Người làm phép thử viết luôn bản bàn giao, nên phép thử có thể lệch về phía người làm. Nếu là đề tài ở trường, thầy hướng dẫn sẽ khoanh đỏ đúng chỗ này. Thêm một cột *vì sao* cho mười hai mục thì mất một buổi tối.
-
-*Bàn giao là ghi cách làm,* anh nghĩ. *Không phải dạy lại.*
-
-Anh đóng file. Anh biết, và anh chọn không sửa.
+Thêm cột *vì sao* cho mười việc thì mất cả đêm, và có thể làm phép thử trượt. Anh biết. Nhưng một cơ sở đứng được nhờ mình giấu bớt thì không phải cơ sở, chỉ là một cái hố mình tự đào rồi tự phủ lá lên. Nếu dưới chân là cát, anh cần biết trước khi dồn cả sức nặng lên.
 
 Rồi anh mở Teams.
 
 *[Tin nhắn – Teams · anh Tuấn]*
-Thuyên: Mai em xin nghỉ một ngày ạ. Em gửi bàn giao cho anh Kiên rồi, có gì anh Kiên trực.
-Anh Tuấn: Ok em
-Anh Tuấn: Mấy hôm nay vất vả rồi, nghỉ cho lại sức (like)
+Thuyên: Anh ơi, trước production em muốn bàn giao thử toàn bộ phần em đang cầm cho các anh chị, một tuần, từ mai đến thứ Sáu sau, để lab có người dự phòng ạ
+Thuyên: Khối mà hỏi rủi ro phụ thuộc một người thì mình có sẵn câu trả lời
+Thuyên: Thứ Sáu 4/6 em xin nghỉ một ngày, để mọi người chạy thử không có em
+Anh Tuấn: Ý hay đấy em
+Anh Tuấn: Đúng cái anh đang cần cho danh sách :D
+Anh Tuấn: Ok, hôm ấy nghỉ cho lại sức (like)
 
-Lão duyệt trong bốn phút. Người vừa thắng thì xin gì cũng dễ.
+Lão duyệt trong bốn phút. Người vừa thắng thì xin gì cũng dễ. Còn chữ *rủi ro phụ thuộc một người*, lão đọc lướt, như đọc một câu trong slide của người khác.
 
-Bảy quân đứng dọc mép bàn, trong một dãy đèn trần duy nhất còn sáng. Bảy quân bằng nhau, cách nhau đúng một đốt ngón tay.
+Anh mở một thư mục mới, đặt tên *ban_giao/*. Mười file, mỗi file một việc. File nào cũng hai cột. Cột trái là bước. Cột phải là vì sao.
+
+Bước 3 của file thứ nhất: lọc mây ở ngưỡng không phẩy ba lăm. Cột phải: *0,4 thì mây mỏng trên ruộng lúa lọt vào, trông như mái tôn; 0,3 thì cắt mất mái tôn thật. Thử bốn mươi lần trên ảnh tháng mười đến tháng hai. Mùa mưa (tháng năm đến tháng chín) mây dày và thấp, ngưỡng vẫn đúng nhưng phải bật thêm bước lọc bóng mây, xem mục 2.4.*
+
+Viết xong dòng ấy, anh ngồi nhìn nó lâu hơn cần. Bốn mươi lần thử thất bại, bốn tháng, những đêm ở tầng mười bảy một mình với tiếng điều hòa, bây giờ nằm gọn trong bốn dòng. Lần đầu tiên chúng có một chỗ ở ngoài đầu anh. Chúng trông nhỏ hơn anh tưởng.
+
+Anh viết tiếp.
+
+Ba việc cuối thì không có runbook để viết. Anh gom chương *Kiến trúc triển khai*, file *terminal_to_cluster_v0.md* từ tháng ba, và một đề bài thật: chạy thử cho một tỉnh, yêu cầu đúng như hợp đồng. Anh chọn Lào Cai. Ruộng bậc thang, đồi dốc, mây núi. Bản thiết kế của anh được chỉnh trên ảnh đồng bằng; nếu nó gãy thì sẽ gãy ở đây. Chọn một tỉnh dễ cũng là một cách giấu.
+
+Bảy quân domino đứng dọc mép bàn, trong một dãy đèn trần duy nhất còn sáng. Bảy quân bằng nhau, cách nhau đúng một đốt ngón tay. Đêm nay anh không thêm quân nào.
 
 Điện thoại sáng lên.
 
@@ -485,6 +524,6 @@ Chủ tọa: Chị đọc được (ghi chép)
 
 Anh cười, gõ một cái (năn nỉ), rồi xóa, rồi gõ lại, rồi gửi. Lần này anh không đếm mình đã gõ lại mấy lần. Gõ lại một cái emoji thì có sao.
 
-Mai anh có cả một ngày không có mặt ở đây. Sáu giờ tối mai, anh sẽ biết mình đang đứng trên cái gì.
+Hai giờ sáng, file thứ mười lưu xong. Một trăm mười hai dòng *vì sao*. Đó là bản bàn giao trung thực nhất anh từng viết, và anh viết nó để xem mình có thể bị thay hay không. Thứ Sáu tuần sau, sáu giờ tối, anh sẽ biết mình đang đứng trên cái gì.
 
-Anh đứng dậy, khoác ba lô. Ra đến thang máy, anh mới nhớ ra là cả buổi chiều nay, từ lúc Hà My ôm thùng đi, anh chưa rửa mặt lần nào, và cũng không thấy cần.
+Anh đứng dậy, khoác ba lô. Ra đến thang máy, anh mới nhớ ra là từ chiều, từ lúc Hà My ôm thùng đi, anh chưa rửa mặt lần nào, và cũng không thấy cần.

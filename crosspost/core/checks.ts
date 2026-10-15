@@ -11,6 +11,8 @@
 //      emoji, HTML tags. The footer links must not be there either: they are
 //      added by code, so they are always exact.
 //   4. The length must stay close to the original.
+//   5. Per site (config "checks"): no line may start with a dash (TNO reads it
+//      as dash-style dialogue), and the site's own save-time lint must pass.
 
 export interface CheckReport {
   ok: boolean;
@@ -18,6 +20,45 @@ export interface CheckReport {
   missingBlock: string[];
   problems: string[];
   ratio: number;
+  lint?: LintReport;
+}
+
+export interface CheckOptions {
+  noDashLines?: boolean;
+  lint?: { maxPerThousand: number };
+}
+
+export interface LintReport {
+  words: number;
+  emDash: number;
+  spaceBefore: number;
+  lowerAfterStop: number;
+  perThousand: number;
+  examples: string[];
+}
+
+// The same three counts truyennhaong.vn makes when "Lưu" is pressed
+// (/js/office-text-lint.js, OfficeTextLint.checkForSave): "—", a space before
+// , . ! ?, and a lowercase letter after . ! ? plus spaces. Each text node is
+// checked on its own, so it runs per line. Above the site's threshold the
+// editor refuses to save, so a conversion that fails here cannot be posted.
+export function formatLint(text: string): LintReport {
+  const r: LintReport = { words: 0, emDash: 0, spaceBefore: 0, lowerAfterStop: 0, perThousand: 0, examples: [] };
+  const plain = text.replace(/\r\n?/g, '\n').replace(/\*\*(.+?)\*\*/g, '$1').replace(/\*/g, '');
+  const ex = (line: string, i: number) => {
+    if (r.examples.length < 8) r.examples.push(line.slice(Math.max(0, i - 25), i + 20).trim());
+  };
+  for (const line of plain.split('\n')) {
+    if (!line.trim()) continue;
+    for (const m of line.matchAll(/—/g)) { r.emDash++; ex(line, m.index!); }
+    for (const m of line.matchAll(/ ([,.!?])/g)) { r.spaceBefore++; ex(line, m.index!); }
+    for (const m of line.matchAll(/([.!?])(\s+)(\p{Ll})/gu)) { r.lowerAfterStop++; ex(line, m.index!); }
+  }
+  const trimmed = plain.trim();
+  r.words = trimmed ? trimmed.split(/\s+/).length : 0;
+  const errors = r.emDash + r.spaceBefore + r.lowerAfterStop;
+  r.perThousand = r.words ? Math.round((errors / r.words) * 10000) / 10 : 0;
+  return r;
 }
 
 const EMOJI = /[\p{Extended_Pictographic}\u{1F1E6}-\u{1F1FF}\u{1F3FB}-\u{1F3FF}️‍⃣]/gu;
@@ -79,12 +120,12 @@ export function sourcePieces(body: string): { prose: string[]; block: string[] }
     }
     if (!line.trim() || /^\s*(---|\|\|)\s*$/.test(line) || /^\s*\|?[\s:-]+\|[\s|:-]*$/.test(line)) continue;
     if (inBlock) block.push(...chunks(stripBlockPrefix(line)));
-    else prose.push(...chunks(line.replace(/^#+\s+/, '').replace(/^>\s?/, '')));
+    else prose.push(...chunks(line.replace(/^#+\s+/, '').replace(/^>\s?/, '').replace(/^\s*[-*+–—]\s+/, ''))); // list marker may change (TNO: • )
   }
   return { prose, block };
 }
 
-export function checkConversion(sourceBody: string, converted: string): CheckReport {
+export function checkConversion(sourceBody: string, converted: string, opts: CheckOptions = {}): CheckReport {
   const problems: string[] = [];
   const out = norm(converted);
   const { prose, block } = sourcePieces(sourceBody);
@@ -116,8 +157,20 @@ export function checkConversion(sourceBody: string, converted: string): CheckRep
   if (ratio < 0.85) problems.push(`Bản chuyển ngắn hơn hẳn bản gốc (${Math.round(ratio * 100)}%)`);
   if (ratio > 1.6) problems.push(`Bản chuyển dài hơn hẳn bản gốc (${Math.round(ratio * 100)}%)`);
 
+  // 5. Per-site rules.
+  if (opts.noDashLines) {
+    const dashed = converted.split('\n').filter((l) => /^\s*[-–—]\s/.test(l));
+    if (dashed.length) problems.push(`${dashed.length} dòng bắt đầu bằng gạch ngang (trang này đọc thành thoại kiểu gạch đầu dòng): dùng "• " cho danh sách. Ví dụ: "${dashed[0].slice(0, 60)}"`);
+  }
+  let lint: LintReport | undefined;
+  if (opts.lint) {
+    lint = formatLint(converted);
+    if (lint.perThousand > opts.lint.maxPerThousand)
+      problems.push(`Lỗi định dạng ${lint.perThousand}/1000 từ, trang đích chặn lưu khi quá ${opts.lint.maxPerThousand} (gạch dài ${lint.emDash}, cách trước dấu câu ${lint.spaceBefore}, thiếu viết hoa ${lint.lowerAfterStop}). Sửa ở bản gốc trên Vercel, không sửa trong bản chuyển.`);
+  }
+
   if (missingProse.length) problems.push(`${missingProse.length} đoạn văn bị mất hoặc bị sửa`);
   if (missingBlock.length) problems.push(`${missingBlock.length} dòng trong khối (tin nhắn, email, ghi chú…) bị mất hoặc bị sửa`);
 
-  return { ok: problems.length === 0, missingProse, missingBlock, problems, ratio: Math.round(ratio * 1000) / 1000 };
+  return { ok: problems.length === 0, missingProse, missingBlock, problems, ratio: Math.round(ratio * 1000) / 1000, ...(lint ? { lint } : {}) };
 }

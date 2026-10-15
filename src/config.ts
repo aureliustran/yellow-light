@@ -18,6 +18,16 @@ export const story = {
     'Sáng thứ Bảy, Thuyên dừng lại ở đèn vàng. Cô gái đi Vespa hồng phía sau thì không.',
     'Một vết xước không tồn tại, một tấm thiệp mời bị đánh rơi, và một lý thuyết rất ngớ ngẩn về đèn vàng.',
   ],
+  // Story introduction for other reading sites (one-line hook + paragraphs).
+  // Source of truth: `npm run crosspost -- info <site> --save` copies it to the
+  // site's story page. Never put a link here while a site has linksAllowed: false.
+  tagline: 'Có hai kiểu người trước đèn vàng. Kiểu thứ nhất dừng lại. Kiểu thứ hai vặn ga.',
+  intro: [
+    "Một tiếng \"cốp\". Một chiếc Vespa hồng, một cái mũ tai mèo lệch sang bên, và một giọng nói trong veo bắt anh phải nhận lỗi, giữa ngã tư, trước mặt bác xe ôm đang cười khẩy. Cô không đòi tiền. Anh đưa, cô còn gạt đi. Cô chỉ muốn nghe anh nói một câu: là lỗi của tôi.",
+    "Thuyên đã quen đọc người. Đọc tiếng dép của bố từ năm lên mười, đọc cái cách mẹ đặt bát xuống mâm, đọc đám bạn, đọc thầy cô, đọc cả những cô gái thích mình trước khi họ kịp nói ra. Nhờ vậy anh sống sót, đi qua được một tuổi thơ nhiều thành tích mà ít lời khen, rồi ra Hà Nội làm cậu sinh viên ai cũng quý, ai cũng nghĩ mình hiểu.",
+    "Nhưng cô gái áo hồng thì anh đọc sai từ đầu đến cuối.",
+    "Một người đã học cách nói điều người khác muốn nghe. Một người đã thề sẽ nói thật với tất cả, vì cả đời chưa ai nói thật với mình. Họ sẽ dạy nhau, làm nhau đau, rồi mất rất lâu mới hiểu ra: đèn vàng không bảo ai phải dừng, cũng không bảo ai phải đi. Nó chỉ hỏi người đứng trước nó muốn gì.",
+  ],
   // Short line used for search results and share previews.
   description:
     'Đèn Vàng – truyện dài học đường, ngôn tình, đấu trí chốn công sở và hào môn của Aurelius. Hà Nội, mùa hoa sữa 2026.',

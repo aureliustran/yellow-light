@@ -20,13 +20,21 @@ export const prerender = true;
 
     <div class="stats crosspost" data-admin hidden>
       <div class="pane-head">
-        <h1>Đăng chéo</h1>
+        <h1>Đăng chéo: <span data-site-name>Rookies.vn</span></h1>
         <p class="worker-state" data-worker aria-live="polite"></p>
       </div>
+      <nav class="xs-site-tabs" aria-label="Trang đăng chéo" style="display:flex;gap:8px;margin:0 0 12px">
+        <a class="btn small primary" href="?site=rookies" data-site-tab="rookies">Rookies.vn</a>
+        <a class="btn small ghost" href="?site=truyennhaong" data-site-tab="truyennhaong">Truyện nhà Ong</a>
+      </nav>
+      <p class="meta-small" data-links-note hidden>
+        <strong>Chưa gửi link:</strong> trang này chưa được phép có đường dẫn ra ngoài, nên chương đăng lên không có chân trang.
+        Bật <code>linksAllowed</code> trong <code>crosspost/sites/<span data-site-slug>rookies</span>/config.json</code> khi biên tập viên của trang đã đồng ý.
+      </p>
       <p class="meta-small">
         Đưa chương lên trang khác để kéo người đọc về đây. Mỗi chương cần một <strong>bản chuyển</strong> cho trang đó
-        (Claude làm, theo <code>crosspost/sites/rookies/convert.md</code>); chân trang có link về chương tiếp theo trên Vercel.
-        Nút Đồng bộ chỉ xếp hàng: <strong>worker trên máy bạn</strong> mới là thứ đăng (<code>npm run crosspost:worker</code>).
+        (Claude làm, theo <code>crosspost/sites/<span data-site-slug>rookies</span>/convert.md</code>); chân trang có link về chương tiếp theo trên Vercel (nếu trang đó cho phép link).
+        Nút Đồng bộ chỉ xếp hàng: <strong>worker trên máy bạn</strong> mới là thứ đăng (<code>npm run crosspost -- worker <span data-site-slug>rookies</span></code>).
       </p>
 
       <div class="panel">
@@ -79,7 +87,7 @@ export const prerender = true;
           <p class="help">
             Mật khẩu được mã hóa ngay trong trình duyệt này bằng khóa riêng của worker: chỉ máy chạy worker mở được.
             Vercel và Supabase chỉ thấy dữ liệu đã mã hóa, và worker xóa nó ngay khi đọc xong. Worker phải đang chạy.
-            Tài khoản chỉ đăng nhập bằng Google, hoặc khi rookies.vn hỏi kiểm tra: chạy <code>npm run crosspost -- login rookies</code> trên máy.
+            Tài khoản chỉ đăng nhập bằng Google, hoặc khi trang hỏi kiểm tra: chạy <code>npm run crosspost -- login <span data-site-slug>rookies</span></code> trên máy.
           </p>
         </form>
       </div>
@@ -130,8 +138,8 @@ export const prerender = true;
       <details class="panel xs-help">
         <summary><h2>Cách có bản chuyển</h2></summary>
         <ol>
-          <li>Trong chat với Claude (đã kết nối thư mục dự án): <em>"chuyển chương 1–5 cho rookies"</em>.</li>
-          <li>Claude chạy <code>npm run crosspost -- pull rookies --range 1-5</code>, viết bản chuyển vào <code>crosspost/out/rookies/</code>, rồi <code>npm run crosspost -- check rookies --save</code>. Bản nào làm sai chữ của truyện sẽ bị máy kiểm tra từ chối.</li>
+          <li>Trong chat với Claude (đã kết nối thư mục dự án): <em>"chuyển chương 1–5 cho <span data-site-slug>rookies</span>"</em>.</li>
+          <li>Claude chạy <code>npm run crosspost -- pull <span data-site-slug>rookies</span> --range 1-5</code>, viết bản chuyển vào <code>crosspost/out/<span data-site-slug>rookies</span>/</code>, rồi <code>npm run crosspost -- check <span data-site-slug>rookies</span> --save</code>. Bản nào làm sai chữ của truyện sẽ bị máy kiểm tra từ chối.</li>
           <li>Tải lại trang này: chương chuyển xong hiện <strong>Sẵn sàng</strong>. Chọn, rồi Đồng bộ.</li>
           <li>Sửa chương trên Vercel thì bản chuyển thành <strong>Cần chuyển lại</strong>; chỉ đổi chân trang (vd. có chương mới) thì thành <strong>Cần cập nhật</strong> và đồng bộ được ngay.</li>
         </ol>

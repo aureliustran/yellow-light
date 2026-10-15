@@ -169,7 +169,9 @@ Tờ đầu tiên là một startup làm ứng dụng giao đồ ăn, đề ngh�
 
 Tờ thứ tư anh đọc chậm hơn.
 
-*Vị trí: Nghiên cứu viên part-time, Phòng thí nghiệm R&D, Khối Công nghệ.* *Lĩnh vực: Ứng dụng học máy trên dữ liệu ảnh vệ tinh và viễn thám.* Bên dưới là mấy dòng mô tả công việc, mấy dòng yêu cầu, và ở góc trên bên phải, một cái logo.
+*Vị trí: Nghiên cứu viên part-time, Phòng thí nghiệm R&D, Công ty Cổ phần Công nghệ Astrea (Astrea Technology).* *Lĩnh vực: Ứng dụng học máy trên dữ liệu ảnh vệ tinh và viễn thám.* Bên dưới là mấy dòng mô tả công việc, mấy dòng yêu cầu, và ở góc trên bên phải, một cái logo.
+
+Dòng yêu cầu cuối cùng không chung chung như các tờ kia: *Ưu tiên ứng viên đã tham gia đề tài nghiên cứu khoa học sinh viên cấp quốc gia về ảnh vệ tinh, có kinh nghiệm vận hành hệ thống phân tán trong môi trường doanh nghiệp.* Hai vế, đúng hai dòng trong CV của anh. Người viết tờ này không đi tìm một sinh viên. Người ta có sẵn một cái tên, rồi viết yêu cầu ngược lại từ cái tên ấy.
 
 Mắt anh đi xuống phần quyền lợi trước.
 
@@ -185,13 +187,13 @@ Dòng còn lại anh tính bằng cốc. Ba năm nay, sáng nào có tiết mộ
 
 Rồi anh mới nhìn cái logo.
 
-Anh đã nhìn thấy cái logo ấy ba lần trong tuần trước. Một lần trên tấm thiệp màu kem viền nhũ vàng, nằm trên mặt đường ướt sương ở ngã tư sáng thứ Bảy trước đó. Một lần trên tấm băng rôn treo từ trần hội trường xuống. Và một lần, nhỏ xíu, trên cái thẻ đeo của mấy người ngồi hàng ghế đầu, cạnh cái áo len hồng.
+Logo chữ xanh, *Astrea Technology*, bên dưới một dòng nhỏ: *Thành viên Astrea Group*. Cái logo thì lạ, nhưng chữ *Astrea* thì anh đã nhìn thấy ba lần trong tuần trước. Một lần trên tấm thiệp màu kem viền nhũ vàng, nằm trên mặt đường ướt sương ở ngã tư sáng thứ Bảy trước đó. Một lần trên tấm băng rôn treo từ trần hội trường xuống. Và một lần, nhỏ xíu, trên bảng tên dây xanh của cả khối sinh viên ngồi hàng thứ hai, cạnh cái áo len hồng.
 
-"Bên này là nhà tài trợ hôm thứ Bảy," thầy Bình nói, như đọc được chỗ anh đang nhìn. "Có người bên họ xem em nói, chủ động liên hệ khoa. Thầy nghĩ em sẽ thích dữ liệu của họ."
+"Bên này là công ty con của nhà tài trợ hôm thứ Bảy," thầy Bình nói, như đọc được chỗ anh đang nhìn. "Có người bên họ xem em nói, chủ động liên hệ khoa. Thầy nghĩ em sẽ thích dữ liệu của họ."
 
 *Ảnh vệ tinh. Viễn thám.* Anh nhìn mấy chữ đó một lúc lâu.
 
-Có khi nào cô gái áo hồng là con của một ông sếp nào đó bên này? Chắc chắn là có liên quan, thiệp VIP của nhà tài trợ kim cương thì không ai phát cho người ngoài. Có khi nào lời mời này có dính dáng đến câu hỏi hôm đó? Anh lật lại câu hỏi ấy trong đầu, lật cả cái gật đầu rất nhẹ của người đàn ông áo xám ngồi cạnh cô. Rồi anh gạt đi. Một tập đoàn mấy chục nghìn người. Hà Nội có cả nghìn người cầm thiệp VIP. Con gái nhà giàu hỏi một câu khó trên sân khấu không phải là thứ người ta dùng để tuyển nghiên cứu viên.
+Có khi nào cô gái áo hồng là con của một ông sếp nào đó bên này? Chắc chắn là có liên quan: hôm ấy cô ngồi khối sinh viên đối tác, mà khối ấy thì không ai phát cho người ngoài. Có khi nào lời mời này có dính dáng đến câu hỏi hôm đó? Anh lật lại câu hỏi ấy trong đầu, lật cả cái gật đầu rất nhẹ của người đeo khẩu trang ngồi cạnh cô. Rồi anh gạt đi. Một tập đoàn mấy chục nghìn người, mười mấy công ty con, mà cô ngồi ở khối của con nhà đối tác. Hà Nội có cả nghìn người cầm thiệp VIP. Con gái nhà giàu hỏi một câu khó trên sân khấu không phải là thứ người ta dùng để tuyển nghiên cứu viên.
 
 Nhưng anh vẫn muốn biết. Muốn biết cái tập đoàn đã phát cho cô tấm thiệp ấy trông như thế nào từ bên trong.
 
@@ -199,7 +201,7 @@ Nhưng anh vẫn muốn biết. Muốn biết cái tập đoàn đã phát cho c
 
 "Vì sao?" thầy Bình hỏi.
 
-Anh nghĩ đến một cuốn sách vũ trụ bìa xanh trong cái bao giấy vụn ở góc bếp. Mấy trang tinh vân xé vội, gấp làm tư, nằm dưới đáy ngăn kéo từ năm lớp ba. Nghĩ đến cái áo len hồng đứng giữa hàng ghế đầu, hỏi một câu anh không trả lời được.
+Anh nghĩ đến một cuốn sách vũ trụ bìa xanh trong cái bao giấy vụn ở góc bếp. Mấy trang tinh vân xé vội, gấp làm tư, nằm dưới đáy ngăn kéo từ năm lớp ba. Nghĩ đến cái áo len hồng đứng giữa hàng ghế thứ hai, hỏi một câu anh không trả lời được.
 
 "Lương cao nhất ạ," anh nói. "Có hợp đồng chính thức. Với cả phụ cấp ăn trưa, thầy ạ. Thời buổi này ai còn cho sinh viên phụ cấp ăn trưa."
 
@@ -263,7 +265,7 @@ Lần này anh không nghe chữ. Anh nhìn mình. Cái tay trái đút túi qu�
 
 Anh nhấn dừng.
 
-Khung hình đứng im. Cô gái đứng giữa hàng ghế đầu, tay cầm micro thả lỏng, đầu hơi nghiêng. Độ phân giải thấp, mặt cô nhòe đi thành mấy mảng màu. Chỉ có cái áo len hồng là rõ.
+Khung hình đứng im. Cô gái đứng giữa hàng ghế thứ hai, tay cầm micro thả lỏng, đầu hơi nghiêng. Độ phân giải thấp, mặt cô nhòe đi thành mấy mảng màu. Chỉ có cái áo len hồng là rõ.
 
 Anh nhìn khung hình ấy chừng mười giây. Rồi gập laptop lại.
 

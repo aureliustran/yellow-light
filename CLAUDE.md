@@ -29,3 +29,8 @@ Hard rules:
 - A new emoji gets one replacement, added to the table in `convert.md` in the same change.
 - If the checker rejects something you believe is right, report it instead of
   rewording the story to get past it.
+
+## Developing cross-posting (new sites, adapters, worker)
+
+Use the `crosspost-site` skill (`.claude/skills/crosspost-site/SKILL.md`): file map,
+checklist for a new site, adapter contract, and the anti-duplicate layers that must stay.

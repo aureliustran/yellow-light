@@ -7,6 +7,8 @@
 //   npm run crosspost -- queue rookies --range 1-5     queue a sync (same as "Đồng bộ" in /admin/crosspost)
 //   npm run crosspost -- cancel rookies                cancel jobs that have not started
 //   npm run crosspost -- login rookies                 sign in once in the worker's browser
+//   npm run crosspost -- info truyennhaong [--save]    compare (and with --save, copy) the story
+//                                                      intro from src/config.ts to the site
 //   npm run crosspost:worker                           post queued chapters (keep it running)
 //
 // Selecting chapters (pull, queue, status):
@@ -34,7 +36,7 @@ for (let i = 0; i < rest.length; i++) {
   } else flags.set(a.slice(2), true);
 }
 
-const HELP = `Cách dùng: npm run crosspost -- <status|pull|check|queue|cancel|login|worker> <trang> [--all | --range 1-5 | --only slug,slug]`;
+const HELP = `Cách dùng: npm run crosspost -- <status|pull|check|queue|cancel|login|worker|info> <trang> [--all | --range 1-5 | --only slug,slug]`;
 if (!cmd || cmd === 'help' || cmd === '--help') {
   console.log(HELP);
   process.exit(0);
@@ -152,7 +154,7 @@ async function cmdCheck() {
     }
     const source = stripHeader(await readFile(join(workDir, `${m.file}.source.md`), 'utf8'));
     const converted = (await readFile(outPath, 'utf8')).replace(/\r\n?/g, '\n');
-    const report = checkConversion(source, converted);
+    const report = checkConversion(source, converted, siteConfig(site).checks ?? {});
     if (!report.ok) {
       console.log(`  ✗  ${m.title}`);
       for (const p of report.problems) console.log(`       - ${p}`);
@@ -162,7 +164,8 @@ async function cmdCheck() {
     }
     okCount++;
     if (!save) {
-      console.log(`  ✓  ${m.title}  (độ dài ${Math.round(report.ratio * 100)}%)`);
+      const lint = report.lint ? ` · lỗi định dạng ${report.lint.perThousand}/1000 từ` : '';
+      console.log(`  ✓  ${m.title}  (độ dài ${Math.round(report.ratio * 100)}%${lint})`);
       continue;
     }
     const now = current.get(m.id);
@@ -210,12 +213,39 @@ async function cmdLogin() {
   await login(site);
 }
 
+// Story intro: src/config.ts (tagline + intro) is the source; the site follows it.
+async function cmdInfo() {
+  const { story } = await import('../src/config.ts');
+  if (!story.tagline || !Array.isArray(story.intro)) throw new Error('src/config.ts chưa có story.tagline / story.intro.');
+  const cfg = siteConfig(site);
+  const adapter = await import(`./sites/${site}/adapter.mjs`);
+  const s = await adapter.open(cfg, { profileDir: join(CROSS, '.profile', site) });
+  try {
+    if (!s.syncInfo) throw new Error(`${cfg.name}: adapter chưa hỗ trợ đồng bộ giới thiệu truyện.`);
+    if (s.workStatus) console.log(`Trạng thái truyện trên ${cfg.name}: ${(await s.workStatus()) ?? '(không đọc được)'}`);
+    const save = flags.get('save') === true;
+    const r = await s.syncInfo({ tagline: story.tagline, intro: story.intro }, { save });
+    if (!r.changed) return console.log('Giới thiệu truyện đã khớp với src/config.ts. Không có gì để đổi.');
+    if (save) return console.log('Đã cập nhật giới thiệu truyện theo src/config.ts.');
+    console.log('Khác với src/config.ts:');
+    if (r.current.tagline !== r.wanted.tagline) console.log(`  Giới thiệu một dòng\n    đang có: ${r.current.tagline}\n    sẽ thành: ${r.wanted.tagline}`);
+    const n = Math.max(r.current.intro.length, r.wanted.intro.length);
+    for (let i = 0; i < n; i++) {
+      if (r.current.intro[i] === r.wanted.intro[i]) continue;
+      console.log(`  Đoạn ${i + 1}\n    đang có: ${r.current.intro[i] ?? '(không có)'}\n    sẽ thành: ${r.wanted.intro[i] ?? '(xóa)'}`);
+    }
+    console.log('\nThêm --save để lưu lên trang.');
+  } finally {
+    await s.close();
+  }
+}
+
 async function cmdWorker() {
   const { runWorker } = await import('./worker.mjs');
   await runWorker(site, { once: flags.get('once') === true });
 }
 
-const commands = { status: cmdStatus, pull: cmdPull, check: cmdCheck, queue: cmdQueue, cancel: cmdCancel, login: cmdLogin, worker: cmdWorker };
+const commands = { status: cmdStatus, pull: cmdPull, check: cmdCheck, queue: cmdQueue, cancel: cmdCancel, login: cmdLogin, worker: cmdWorker, info: cmdInfo };
 const run = commands[cmd];
 if (!run) {
   console.error(`Không có lệnh "${cmd}".\n` + HELP);

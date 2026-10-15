@@ -275,7 +275,7 @@ Cô lật tờ đề lại. Ba câu Part 3.
 
 Câu thứ nhất thì dễ. Câu thứ hai cô có thể nói cả tiếng. Câu thứ ba anh tự gõ, tự căn lề, tự kẹp vào giữa, rồi tự úp xuống bàn.
 
-Cô cầm bút mực tím, định viết câu trả lời vào lề. Chữ *no* đã thành hình trong đầu, kèm một chấm, một mũi tên, một ví dụ có thật, có hình ảnh: một người con gái giơ tay ở hàng ghế đầu một hội trường.
+Cô cầm bút mực tím, định viết câu trả lời vào lề. Chữ *no* đã thành hình trong đầu, kèm một chấm, một mũi tên, một ví dụ có thật, có hình ảnh: một người con gái giơ tay ở hàng ghế thứ hai một hội trường.
 
 Cô đặt bút xuống. Không viết.
 

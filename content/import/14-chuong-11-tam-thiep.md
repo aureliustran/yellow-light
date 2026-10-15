@@ -48,7 +48,7 @@ Vũ chửi một câu, rồi giật bóng, lên rổ. Trượt. Bóng nảy ra p
 
 Điện thoại rung lúc anh đang ngồi trên bậc thềm buộc lại dây giày.
 
-Một email từ phòng nhân sự của tập đoàn, tiêu đề ngắn: *Lịch ký hợp đồng – Nghiên cứu viên part-time.* Hồ sơ của anh cần thêm một tuần để bên Khối Công nghệ duyệt, hẹn anh lên ký vào chín giờ sáng thứ Hai, ngày 26 tháng 10. Mang theo căn cước và bảng điểm.
+Một email từ phòng nhân sự của Astrea Technology, tiêu đề ngắn: *Lịch ký hợp đồng – Nghiên cứu viên part-time.* Hồ sơ của anh cần thêm một tuần để bên công ty duyệt, hẹn anh lên ký vào chín giờ sáng thứ Hai, ngày 26 tháng 10. Mang theo căn cước và bảng điểm.
 
 Anh đọc hai lần, rồi lưu email vào một thư mục riêng.
 
@@ -177,9 +177,9 @@ Xinh thì công nhận là xinh. Nhưng biết làm gì với cái xinh ấy th�
 
 "Không có gì. Lần sau đánh rơi thì chọn chỗ nào đỡ tắc đường hơn nhé."
 
-"Mà anh biết em ngồi hàng đầu đúng không? Hôm summit ấy."
+"Mà anh biết em ngồi đấy đúng không? Hôm summit ấy."
 
-"Biết. Hàng ghế đầu, áo len hồng, muốn không biết cũng khó."
+"Biết. Hàng thứ hai, áo len hồng, muốn không biết cũng khó."
 
 "Từ lúc nào?"
 
@@ -205,7 +205,7 @@ Anh nhấp một ngụm trà. Mát, chát, có vị lá vối.
 
 "Còn lại là bài phát biểu."
 
-Cô nghiêng đầu, đúng cái kiểu nghiêng đầu ở hàng ghế đầu hôm ấy. "Đấy. Anh lại né."
+Cô nghiêng đầu, đúng cái kiểu nghiêng đầu ở hàng ghế thứ hai hôm ấy. "Đấy. Anh lại né."
 
 "Anh trả lời rồi mà."
 

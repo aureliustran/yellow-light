@@ -16,6 +16,8 @@ Anh không mở slide. Anh cầm bút dạ, vẽ lên bảng trắng một con s
 
 Đầu sông là ảnh vệ tinh đổ vào, mỗi ngày mấy trăm tấm. Khúc thứ nhất là lưới lọc mây, đỡ cho mô hình nhìn mây rồi tưởng nhà mới xây. Khúc thứ hai cắt ảnh thành ô vuông, mỗi ô bằng một sân bóng. Khúc thứ ba là mô hình, nhìn từng ô, so với chính nó ba tháng trước, đánh dấu chỗ ruộng thành đất trống, đất trống thành móng nhà. Cuối sông là tấm bản đồ, chấm đỏ ở những chỗ đất vừa đổi chủ, hoặc sắp.
 
+Đến khúc thứ ba, anh chỉ nói hai câu, vì hai câu là đủ cho một phòng không ai định hỏi. Phần lõi dựng trên một khung transformer cho ảnh, loại cắt ảnh thành từng ô mười sáu nhân mười sáu điểm rồi đọc như đọc chữ. Khung ấy người ta làm sẵn; phần anh làm là dạy nó nhìn ruộng Việt Nam từ năm trăm cây số trên cao.
+
 Anh nói tám phút. Rồi quay lại.
 
 Mười cái đầu gật. Gật đều, gật theo nhịp, như mấy con chó gật gù đặt trên taplo ô tô.
@@ -326,7 +328,7 @@ Một người đàn ông chừng ba mươi tuổi bước vào, sơ mi xanh nh�
 
 "Thang số ba này lần nào cũng dừng ở tầng chín," anh ta nói, không rõ với ai. "Phòng gym. Sáng nào cũng có người tập xong lên ăn sáng, mồ hôi chưa khô." Anh ta nhấp một ngụm cà phê, nhăn mặt. "Máy cà phê tầng anh hỏng ba ngày rồi, phải xuống tận sảnh mua. Đắng như thuốc bắc."
 
-Cái thẻ trên cổ anh ta đang quay mặt sau ra ngoài. Lúc anh ta đưa cốc lên, nó lật lại, đủ để Thuyên đọc dòng chữ nhỏ dưới tên: *Giám đốc Khối Công nghệ*.
+Cái thẻ trên cổ anh ta đang quay mặt sau ra ngoài. Lúc anh ta đưa cốc lên, nó lật lại, đủ để Thuyên đọc dòng chữ nhỏ dưới tên: *Tổng giám đốc – Astrea Technology*.
 
 Người này nói chuyện máy cà phê với một thằng đeo hai cái thẻ, một cái đã chết.
 

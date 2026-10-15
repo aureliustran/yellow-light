@@ -33,7 +33,15 @@ export interface SiteConfig {
     next: string; // "Đọc tiếp {next} tại: {nextUrl}"
     last: string; // used when there is no next chapter yet
     home: string; // "Trọn bộ ... : {home}"
+    // Used instead of the three lines above while linksAllowed is false: plain
+    // lines without any URL or link. Empty or missing = no footer at all.
+    noLinks?: string[];
   };
+  // false = never send a URL or link to this site (e.g. until its editors have
+  // approved links by hand). Missing = true, the footer above is used as is.
+  linksAllowed?: boolean;
+  // Extra per-site checks on a conversion (checks.ts).
+  checks?: { noDashLines?: boolean; lint?: { maxPerThousand: number } };
 }
 
 export interface PostRow {
@@ -189,7 +197,15 @@ export function nextLive<T extends CrossChapter>(live: T[], c: CrossChapter): T 
   return i >= 0 && i + 1 < live.length ? live[i + 1] : null;
 }
 
+const HAS_URL = /https?:\/\/|www\.|\]\(/i;
+
 export function footerLines(cfg: SiteConfig, next: CrossChapter | null): string[] {
+  if (cfg.linksAllowed === false) {
+    const lines = (cfg.footer.noLinks ?? []).map((l) => l.trim()).filter(Boolean);
+    const bad = lines.find((l) => HAS_URL.test(l));
+    if (bad) throw new Error(`${cfg.name}: chưa được phép gửi link, nhưng footer.noLinks có link: "${bad}"`);
+    return lines;
+  }
   const home = cfg.vercelUrl.replace(/\/+$/, '') + '/';
   const vars = { home, next: next ? linkName(next) : '', nextUrl: next ? chapterUrl(cfg, next.slug) : home };
   return [fill(next ? cfg.footer.next : cfg.footer.last, vars), fill(cfg.footer.home, vars)];
@@ -199,8 +215,11 @@ export function finalText(cfg: SiteConfig, c: CrossChapter, converted: string, n
   const parts: string[] = [];
   if (c.story_date) parts.push(`*${c.story_date}*`);
   parts.push(lf(converted).trim());
-  parts.push('* * *');
-  parts.push(footerLines(cfg, next).join('\n'));
+  const footer = footerLines(cfg, next);
+  if (footer.length) {
+    parts.push('* * *');
+    parts.push(footer.join('\n'));
+  }
   return parts.join('\n\n') + '\n';
 }
 

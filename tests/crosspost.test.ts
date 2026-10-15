@@ -18,7 +18,8 @@ import {
   type SiteConfig,
   type SiteRow,
 } from '../crosspost/core/crosspost.ts';
-import { checkConversion } from '../crosspost/core/checks.ts';
+import { checkConversion, formatLint } from '../crosspost/core/checks.ts';
+import { footerLines } from '../crosspost/core/crosspost.ts';
 
 const past = '2026-10-01T00:00:00Z';
 let pos = 0;
@@ -219,4 +220,48 @@ test('foreword: only a note, never blocks', () => {
   assert.equal(forewordNote(withFw, [], true), null); // chapters already synced
   assert.equal(forewordNote(cfg, [], false), null); // site without a foreword
   assert.equal(isForeword(withFw, ' Lời nói  đầu '), true);
+});
+
+// ───────────── Sites that do not allow links yet (truyennhaong) ─────────────
+
+const noLinks: SiteConfig = { ...cfg, site: 'truyennhaong', name: 'Truyện nhà Ong', linksAllowed: false, footer: { ...cfg.footer, noLinks: [] } };
+
+test('no links allowed: no footer, no scene break, no URL anywhere', () => {
+  const text = finalText(noLinks, live[1], 'Đoạn một.\n\nĐoạn hai.', live[2]);
+  assert.equal(text, 'Đoạn một.\n\nĐoạn hai.\n');
+  assert.doesNotMatch(text, /https?:|\]\(/);
+  assert.doesNotMatch(textToHtml(text), /<a\s/);
+});
+
+test('no links allowed: plain footer lines are kept, a link in them is refused', () => {
+  const plain = { ...noLinks, footer: { ...noLinks.footer, noLinks: ['Đèn Vàng – Aurelius'] } };
+  assert.deepEqual(footerLines(plain, live[2]), ['Đèn Vàng – Aurelius']);
+  assert.match(finalText(plain, live[1], 'x', live[2]), /x\n\n\* \* \*\n\nĐèn Vàng – Aurelius\n$/);
+  const sneaky = { ...noLinks, footer: { ...noLinks.footer, noLinks: ['Đọc tiếp tại https://yellow-light.vercel.app'] } };
+  assert.throws(() => footerLines(sneaky, null), /chưa được phép gửi link/);
+});
+
+test('links allowed (missing flag) keeps the old footer', () => {
+  assert.equal(footerLines(cfg, null).length, 2);
+});
+
+test('TNO lint counts the same things as the site', () => {
+  const r = formatLint('Anh nói — rồi thôi . Cô cười. rồi đi! Ổn.\n*Nhẹ.* nhàng');
+  assert.equal(r.emDash, 1);
+  assert.equal(r.spaceBefore, 1);
+  assert.equal(r.lowerAfterStop, 2); // "cười. rồi" and "Nhẹ. nhàng" (after * is removed); "! Ổn" is uppercase
+  assert.ok(r.perThousand > 10);
+});
+
+test('per-site checks: dash lines and lint', () => {
+  const src = 'Danh sách:\n\n- một\n- hai\n';
+  assert.ok(checkConversion(src, 'Danh sách:\n\n• một\n• hai\n', { noDashLines: true }).ok);
+  const dashed = checkConversion(src, 'Danh sách:\n\n– một\n– hai\n', { noDashLines: true });
+  assert.ok(!dashed.ok);
+  assert.match(dashed.problems.join(' '), /gạch ngang/);
+  const messy = 'Một. hai. ba. bốn. năm. sáu.';
+  const lint = checkConversion(messy, messy, { lint: { maxPerThousand: 10 } });
+  assert.ok(!lint.ok);
+  assert.match(lint.problems.join(' '), /1000 từ/);
+  assert.ok(checkConversion(messy, messy).ok, 'no site options: lint is not applied');
 });
