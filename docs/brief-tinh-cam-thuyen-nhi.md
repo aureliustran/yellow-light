@@ -76,15 +76,12 @@ Thuyên quy tiền ra **bún riêu** [nguyên liệu: bản cũ ch.17, ch.30].
 ## 5b. Biệt danh của Nhi
 
 - Con nhà giàu thường có tên ở nhà. Nhi có một cái, do bố mẹ đặt từ bé. Người nhà, cô giúp việc và hội đồng (khi muốn trêu) gọi cô bằng tên đó.
-- **Đề xuất tên:**
-  - **Đào** (nên chọn): má hồng từ bé. Khớp với ba giây đầu ở ch.1 ("má như đào chưa chín") và dầu gội đào [nguyên liệu].
-  - **Bông**: mềm, phổ biến.
-  - **Su**: kiểu tên ở nhà sang, ngắn.
-- **Thuyên biết tên ấy ở đêm nhậu** (ngoại khóa số 5): hội đồng ùa vào quán gọi "Đào ơi".
+- **Tên: chưa chốt.** Các phương án đang có: Đào (má hồng từ bé, khớp ba giây đầu ở ch.1 "má như đào chưa chín" và dầu gội đào), Bông, Su. Trong brief, chỗ cần tên ghi là *[tên ở nhà]*.
+- **Thuyên biết tên ấy ở đêm say cuối giai đoạn 1:** hội đồng ùa vào quán gọi "*[tên ở nhà]* ơi".
 - **Vì sao "kid" quan trọng hơn biệt danh:**
   - Tên ở nhà là tên gắn với nhà: con gái của ai.
   - *Kid* là cái tên duy nhất trong đời cô không ai đặt theo gia thế.
-  - Anh dùng "Đào" đúng một lần để rage bait. Cô cấm. Anh quay về "kid", và cô không cấm cái đó nữa.
+  - Anh dùng *[tên ở nhà]* đúng một lần để rage bait. Cô cấm. Anh quay về "kid", và cô không cấm cái đó nữa.
 
 ## 5c. Sticker *18 MONTH WARRANTY* (giữ, từ ch.13 cũ)
 
@@ -260,25 +257,8 @@ Luật viết nằm ở `01-rules-viet.md`, mục "Dịu dàng không thừa nh�
 - Giữa buổi, một tờ giấy nhớ cô viết rồi vò lại trước khi anh kịp đọc. Bản giấy của câu bị ngậm lại ở buổi 1.
 - **Hệ quả:** anh giữ một tờ giấy nhớ không phải bài làm. Không ai biết anh giữ.
 
-### Ngoại khóa số 5 – Đêm nhậu (T7 28/12)
-- **Mồi:** cô đòi đi nhậu với anh, vì anh đã nhận tửu lượng kém (ngoại khóa số 4).
-- **Lựa chọn của Thuyên:** anh thấy cô ngáo, nên dẫn đi uống Jägermeister. Anh tưởng thứ vị thuốc ho ấy sẽ làm cô bỏ cuộc.
-- **Diễn biến:**
-  - Cô uống hai cốc pha là say mèm, nói ngớ.
-  - Anh uống nước, không say.
-  - Anh nghe cô kể về người yêu cũ: boy phố, gần hai năm, trading, tài xỉu, thẻ của bố [nguyên liệu: bible cũ, quá khứ Nhi mục 7]. Lần đầu anh nghe quá khứ của cô.
-  - Cô tựa vào người anh khóc: "Anh biết anh đáng ghét lắm không."
-- **Thuyên đọc sai:** anh nghe "đáng ghét" theo nghĩa đen, một lần nữa, và chắc thêm rằng cô không thích mình. Anh gọi cho hội đồng của cô.
-- **Hội đồng đến quán**, gọi "Đào ơi". Thuyên biết biệt danh ở đây.
-  - Câu đầu tiên: "Anh làm gì nó chưa?"
-  - Anh chứng minh một cách cực chill:
-    - Hóa đơn: hai cốc của cô, một nước lọc của anh.
-    - Nhật ký cuộc gọi: gọi các em lúc 22:41, ngay sau cốc thứ hai.
-    - Áo anh trên vai cô.
-    - "Camera quán ở góc kia, các em xin trích xuất."
-  - Hội đồng lèm bèm.
-  - An Nhiên ghi sổ riêng. Đây là mốc cảm tình thứ hai của hội đồng.
-- **Luật:** say chỉ một lần với Nhi (kho: "hạn chế với Nhi để giữ khí chất"). Cô say kiểu ngáo, không thảm hại. Không có gì gợi dục; anh là người tỉnh, giữ khoảng cách.
+### (Chỗ trống tháng 12)
+Đêm nhậu cũ (28/12) đã dời xuống cuối giai đoạn 1 (xem "Cuối giai đoạn 1 – Đêm say"). Chỗ này có thể lấp bằng một cảnh trong mục 8, ví dụ đêm Noel trùng hẹn với Diệp Anh, hoặc để trống cho tuyến Diệp Anh.
 
 ### Ngoài lớp – tháng 12 → Tết 29/1/2025
 - *HĐQT 🎀*: các nghị quyết nối nhau hủy.
@@ -287,6 +267,48 @@ Luật viết nằm ở `01-rules-viet.md`, mục "Dịu dàng không thừa nh�
 - Giao thừa dương lịch (T3 31/12/2024): phía Nhi chỉ có Locket lúc 0 giờ. Không nhân đôi cảnh pháo hoa với Diệp Anh.
 - Khảo sát cuối giai đoạn 1: anh qua.
 - Tết: Nhi đi Melbourne (30/1 – 6/2/2025), interlude *Xanh lục bảo*. Thuyên OT Tết.
+
+### Cuối giai đoạn 1 – Đêm say (khoảng giữa đến cuối tháng 3/2025)
+
+**Vị trí:** sau *Mixue* (ghép đôi lần ba, khóc, tát, kem), trước kết quả khảo sát. Đây là bản lề sang giai đoạn 2.
+
+- **Mồi:** lần xin lỗi Thảo đầu tiên của Nhi bị từ chối [nguyên liệu: "ba lần xin lỗi không được nhận"]. Cô buồn vì chuyện của chính mình, rồi đòi nhậu, viện món nợ từ đêm trốn nhà: "Anh nợ em vụ tửu lượng."
+- **Lựa chọn của Thuyên:** anh thấy cô ngáo, nên dẫn đi uống Jägermeister, tưởng thứ vị thuốc ho ấy sẽ làm cô bỏ cuộc. Cô uống hai cốc pha là say mèm, nói ngớ.
+- **Thuyên cũng uống một cốc.** Tửu lượng kém, nên chừng ấy đủ để anh hơi ngấm: lỏng ra, chưa say.
+- **Bối cảnh:** tháng ba nồm, mưa phùn. Cửa kính quán mờ hơi nước.
+- **Cô kể:** chuyện Thảo, rồi người yêu cũ (boy phố, gần hai năm, trading, tài xỉu, thẻ của bố) [nguyên liệu: bible cũ, quá khứ Nhi mục 7]. Lần đầu anh nghe quá khứ của cô.
+- **Lời tỏ tình không kiểm soát của Nhi** (giữ nguyên thoại):
+  > "Em thích anh."
+  >
+  > Rồi nói tiếp không dừng: "Anh đáng ghét lắm, anh biết không. Anh cứ đẩy em sang chỗ người ta…"
+- **Sau đó Thuyên mới dỗ:** siêu dịu dàng, gọi cô là **"bé…"**: "Anh xin lỗi bé nha…"
+- **Hành động tăng dần:**
+  1. Cô tựa đầu vào vai anh.
+  2. Trán cô dụi vào bả vai anh; tay cô nắm vạt áo anh.
+  3. Lời tỏ tình, rồi cô khóc.
+  4. Anh lau nước mắt cho cô bằng ngón cái. Má cô lún dưới ngón tay anh.
+  5. Cô kéo tay anh vòng qua eo mình, giữ lại bằng cả hai tay.
+  6. Một bên đùi cô gác lên đùi anh.
+  7. Đầu cô sụp vào ngực anh, nằm im, chờ.
+  8. Anh xoa đầu cô.
+  9. "Anh xin lỗi bé nha…"
+  10. Anh ôm cô, cằm tựa lên đỉnh đầu cô.
+- **Thang gợi:** nấc 4, viết bằng sự kiềm chế.
+  - Phần cô chủ động và phần dịu dàng của anh được tả đầy đủ.
+  - Ý nghĩ của anh bị cắt ngay chữ đầu, ngược với F8 kéo dài ở các cảnh tỉnh.
+  - Rượu làm khoảng cách tự chủ mỏng đi, vậy mà tay anh vẫn chỉ đặt ở tóc và lưng cô.
+- **Chữ "bé":** lần đổi cách gọi duy nhất của Thuyên với Nhi ở Phần 1 (luật mỗi người đổi xưng hô một lần). Đề xuất để dành lần gọi lại đến Phần Lan. Ở bản cũ, "bé" là chữ Diệp Anh gọi anh; ở v2, anh gọi Nhi như thế, ba tháng sau khi từ chối Diệp Anh.
+- **Hội đồng đến quán**, gọi "*[tên ở nhà]* ơi". Thuyên biết biệt danh ở đây.
+  - Câu đầu tiên: "Anh làm gì nó chưa?"
+  - Anh chứng minh cực chill, giọng hơi chậm vì rượu: hóa đơn, nhật ký cuộc gọi, áo anh trên vai cô, "Camera quán ở góc kia, các em xin trích xuất."
+  - Hội đồng lèm bèm. An Nhiên ghi sổ riêng: thấy anh lau nước mắt cho Nhi lúc họ vừa tới cửa. Đây là mốc cảm tình lớn của hội đồng.
+  - **Hội đồng che cho bạn:** Châu: "Nó say là nó thích cả cái cột điện, anh đừng để bụng." Họ che để giữ thể diện cho Nhi, và vô tình khóa luôn cái đọc sai của Thuyên.
+  - Thuyên không cãi. Anh cũng muốn tin như thế, vì như thế thì câu "bé" của anh cũng được tính là lời say.
+- **Sáng hôm sau:**
+  - Nhi không nhớ mình đã nói gì; chỉ nhớ đã khóc trên vai anh, và mang máng có ai gọi mình là "bé".
+  - Thuyên nhớ cả hai câu, không nhắc câu nào. Buổi học kế tiếp, anh gọi "kid" to hơn mọi khi.
+  - Hội đồng giấu chuyện "bé", vì đã có cảm tình với Thuyên và muốn để hai người tự tìm ra.
+- **Sang giai đoạn 2:** qua khảo sát, Thuyên tự mãn. Anh lôi câu "Em thích anh" ra đọc lại bằng sự tự tin mới, và xác nhận cô thích mình. Câu "bé" của chính anh cũng nằm lại. Cả hai câu không được nhắc tới cho đến 16/7.
 
 ## 8. Đề xuất cảnh có thể thêm (từ kho)
 
@@ -307,7 +329,7 @@ Luật viết nằm ở `01-rules-viet.md`, mục "Dịu dàng không thừa nh�
 
 - **Vị trí:** buổi học đầu tiên sau Tết, ở bài thi thử Part 2. Đề: *Describe the kind of person you would like to have as a boyfriend.*
 - **Nội dung:** Nhi đã hiểu anh đủ để tả đúng: cao, quên ô, đi Crocs, nói một nửa rồi đóng cửa nửa kia, chê đúng chỗ, thấy trước cú đấm mà không chặn, khoác áo rồi bảo "tiện tay". Anh đỏ tai suốt bài.
-- Kết bài: "*So that is why I would never date someone like that.*" Cô nói ngược vì hội đồng, vì kiêu, và vì đêm nhậu: cô không nhớ mình đã nói gì, chỉ nhớ đã khóc trên vai anh.
+- Kết bài: "*So that is why I would never date someone like that.*" Cô nói ngược vì hội đồng, vì kiêu, và vì sợ.
 - **Thuyên tin từng chữ.** Anh thấy hụt, rồi nhẹ nhõm, khen "đúng khung, Coherence tám". Từ đây việc làm quân sư cho Phong trong mắt anh là tử tế.
 - Tờ đề Nhi kẹp trong sổ hồng; gọi lại khi Phong tỏ tình và ở Phần Lan.
 
@@ -337,7 +359,7 @@ Mưa ở giai đoạn 2 theo thang thời tiết của kho: mưa phùn sau Tết
 
 1. **Bản lề ở bản mới** là chương nào, câu then chốt nào? Repo chưa có `danh-sach-chuong-mo-dau.md`.
 2. Đề boyfriend làm bản lề đầu giai đoạn 2: duyệt không?
-3. Biệt danh: Đào, Bông hay Su?
+3. Biệt danh: chưa chốt (Đào, Bông, Su, hoặc tên khác).
 4. Ở mục 8: chọn Nhi viêm họng (buổi 5) hay Thuyên ốm, hay cả hai?
 5. Cảnh Noel (Thuyên chọn Diệp Anh, nói dối Nhi): có đặt không? Đây là lời nói dối đầu tiên với Nhi, sớm hơn bản cũ rất nhiều.
 6. Phong thanh mai trúc mã kiêm cùng nhóm RMIT: duyệt không?
