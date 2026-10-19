@@ -148,6 +148,23 @@ Luật viết nằm ở `01-rules-viet.md`, mục "Dịu dàng không thừa nh�
 - "Che ô cho học phí, không phải cho em."
 - "Ngồi chỗ anh đi, chỗ này lạnh, anh cần bộ não tỉnh."
 
+## 5e. Thang gợi theo toàn truyện
+
+Độ gợi tăng dần trên cả quá trình viết, không phải trong một cảnh. Trong một cảnh, nấc đứng yên; thứ được phép tăng trong cảnh là hành động của nhân vật.
+
+**Cơ chế:** Thuyên không đọc được Nhi, nhưng hành vi của cô đổi theo mức thích: ngồi gần hơn, chạm nhiều hơn, mặc cho anh xem, nhìn lâu hơn. Kích thích tăng thì suy nghĩ của anh chạy xa hơn. Độ gợi trong đầu Thuyên thành **nhiệt kế ngầm** cho người đọc, đo cảm xúc của Nhi, thứ chính Thuyên không đo được. Chiều POV Nhi áp ngược lại: độ gợi trong interlude của cô tăng theo mức Thuyên thích cô (dâng mạnh sau đêm 31/12).
+
+| Nấc | Nhi thích Thuyên đến đâu | Suy nghĩ của Thuyên |
+| --- | --- | --- |
+| 1 | Tò mò, "thấy đẹp trai chứ không thích" | Ba giây, chi tiết nhỏ (môi, gáy), cắt ngay |
+| 2 | Bắt đầu thích, chưa nhận | Ý nghĩ đi nửa câu: da lún dưới ngón tay, vệt quai túi trên vai |
+| 3 | Biết mình thích, cố giấu | Ý nghĩ đi trọn câu về chạm: eo, hông, đùi; cơ thể anh phản ứng rõ |
+| 4 (tối đa) | Thích đến mức không giấu được | Ý nghĩ ham muốn đi hết câu, dừng lâu, chi tiết thân mật nhất rules cho phép; dừng ở ngưỡng hành vi |
+
+**Đặt vào timeline:** buổi 1 nấc 1 → ngoại khóa chụp ảnh, mưa nấc 2 → arcade, đêm trốn nhà nấc 2–3 → tháng 1–3 (Nhi mập mờ từ phía cô) nấc 3 → đêm say cuối giai đoạn 1 nấc 4, viết bằng sự kiềm chế → giai đoạn 2 nấc 4 tối đa ở các cảnh tỉnh, cả hai chiều.
+
+**Cách viết** (theo *3107*): giác quan cụ thể kể cả vị và nhiệt; phản ứng lan trên da; đo bằng đơn vị rất nhỏ (một phân, hai đốt ngón tay, năm giây); ẩn dụ từ chữ và giấy; câu ngắn đứng riêng một dòng để dừng nhịp; một vật làm trật tự giữa lúc rối (tấm sticker, cốc đá, đống xu). Giới hạn và cách viết cảnh thân mật theo `01-rules-viet.md`, mục "Cảnh nóng và fan service".
+
 ---
 
 ## 6. Lịch gặp: gấp đôi bản cũ
@@ -282,21 +299,19 @@ Luật viết nằm ở `01-rules-viet.md`, mục "Dịu dàng không thừa nh�
   >
   > Rồi nói tiếp không dừng: "Anh đáng ghét lắm, anh biết không. Anh cứ đẩy em sang chỗ người ta…"
 - **Sau đó Thuyên mới dỗ:** siêu dịu dàng, gọi cô là **"bé…"**: "Anh xin lỗi bé nha…"
-- **Hành động tăng dần:**
+- **Trong cảnh này, thứ tăng dần là độ bạo trong hành động của Nhi.** Mỗi bước bạo hơn bước trước. Suy nghĩ của Thuyên đứng yên ở nấc 4 của thang toàn truyện (mục 5e), viết bằng sự kiềm chế từ đầu đến cuối cảnh.
   1. Cô tựa đầu vào vai anh.
-  2. Trán cô dụi vào bả vai anh; tay cô nắm vạt áo anh.
-  3. Lời tỏ tình, rồi cô khóc.
-  4. Anh lau nước mắt cho cô bằng ngón cái. Má cô lún dưới ngón tay anh.
-  5. Cô kéo tay anh vòng qua eo mình, giữ lại bằng cả hai tay.
-  6. Một bên đùi cô gác lên đùi anh.
-  7. Đầu cô sụp vào ngực anh, nằm im, chờ.
-  8. Anh xoa đầu cô.
-  9. "Anh xin lỗi bé nha…"
-  10. Anh ôm cô, cằm tựa lên đỉnh đầu cô.
-- **Thang gợi:** nấc 4, viết bằng sự kiềm chế.
+  2. Trán cô dụi vào bả vai anh; tay cô nắm vạt áo anh, vò lại.
+  3. Lời tỏ tình, rồi cô khóc. Anh lau nước mắt cho cô bằng ngón cái; má cô lún dưới ngón tay anh.
+  4. Cô kéo tay anh vòng qua eo mình, giữ lại bằng cả hai tay.
+  5. Một bên đùi cô gác lên đùi anh.
+  6. Đầu cô sụp vào ngực anh, nằm im, chờ anh xoa đầu. Anh xoa. "Anh xin lỗi bé nha…"
+  7. Cô vòng tay ôm cổ anh, dụi mặt vào hõm cổ anh, thở vào đấy.
+  8. Cô kéo anh sát xuống, muốn anh ôm chặt hơn. Anh ôm cô, cằm tựa lên đỉnh đầu cô, và tay anh vẫn chỉ đặt ở tóc và lưng cô.
+- **Thuyên ở nấc 4:**
   - Phần cô chủ động và phần dịu dàng của anh được tả đầy đủ.
-  - Ý nghĩ của anh bị cắt ngay chữ đầu, ngược với F8 kéo dài ở các cảnh tỉnh.
-  - Rượu làm khoảng cách tự chủ mỏng đi, vậy mà tay anh vẫn chỉ đặt ở tóc và lưng cô.
+  - Mọi ý nghĩ của anh bị cắt ngay chữ đầu, ngược với F8 kéo dài ở các cảnh tỉnh. Cô càng bạo thì anh phải cắt càng gắt.
+  - Rượu làm khoảng cách tự chủ mỏng đi, vậy mà tay anh không đi xa hơn.
 - **Chữ "bé":** lần đổi cách gọi duy nhất của Thuyên với Nhi ở Phần 1 (luật mỗi người đổi xưng hô một lần). Đề xuất để dành lần gọi lại đến Phần Lan. Ở bản cũ, "bé" là chữ Diệp Anh gọi anh; ở v2, anh gọi Nhi như thế, ba tháng sau khi từ chối Diệp Anh.
 - **Hội đồng đến quán**, gọi "*[tên ở nhà]* ơi". Thuyên biết biệt danh ở đây.
   - Câu đầu tiên: "Anh làm gì nó chưa?"
