@@ -29,6 +29,28 @@ Oct 19, 2026 · @aureliustran. **Trạng thái: [đề xuất]**, chờ duyệt.
 - **Phản kháng là thứ khóa niềm tin sai của Thuyên.** Cô càng cãi, càng đấm, càng "đáng ghét", anh càng chắc cô không thích mình. Sổ quyết định mới có "thấy đẹp trai chứ không thích" và "Em không ngồi ngắm anh đâu". Lớp này thêm cho người đọc lý do để tin rằng Thuyên tin thật.
 - **Giới hạn:** Nhi vẫn có khí chất sang. Cãi và đấm là của một người không sợ ai, không phải của một cô ngố.
 
+## 2b. Thuyên trong buổi học: cợt nhả là lúc anh không tính
+
+- **[chốt 19/10]** Rage bait và cợt nhả của bản cũ giờ là dấu hiệu Thuyên **không toan tính, đang thoải mái**. Nó không còn là bức tường hay cách đóng khung như bản cũ (ch.16–17 cũ: "chọc giờ là bức tường").
+- Hệ quả cho người đọc: anh cợt nhả với ai thì đó là người anh đang không đọc, đang không đề phòng. Người đọc tự đếm được mà Thuyên không đếm.
+  - **Với Nhi:** cợt nhả gần như suốt buổi học. Đây là chỗ duy nhất trong tuần anh không chạy ván nào. Gọi "kid", chê bao bì, "Mười ba", "Bằng anh là đủ".
+  - **Với Vũ:** tao – mày, lầy bựa (F7).
+  - **Với hội đồng:** rage bait, nhưng là kiểu chill vì đòn nào cũng rơi vào chỗ trống. Thoải mái thật, không phải phòng thủ.
+  - **Với Diệp Anh và ở lab:** ít cợt nhả hơn, vì đó là chỗ anh đang tính. Có đùa thì đùa có chủ đích. Đây là chỗ phân biệt hai tuyến: với đồng minh anh sắc, với Nhi anh lỏng.
+- Mốc có thể dùng:
+  - Giai đoạn 2, lúc biến chất, anh bắt đầu tính cả trong buổi học (moi tin hướng tập đoàn, quân sư cho Phong). Câu đùa với Nhi thưa dần hoặc thành có chủ đích. Nhi là người cảm được điều đó trước tiên, dù gọi sai lý do.
+  - Một câu Nhi có thể nói ở giai đoạn 2: "Dạo này anh hết đáng ghét rồi." Câu này vừa là lời khen theo kiểu Nhi, vừa là lời báo động.
+
+## 2c. Đơn vị tiền: bún riêu (giữ)
+
+- **[chốt 19/10]** Thuyên vẫn quy tiền ra **bún riêu** [nguyên liệu: bản cũ ch.17, ch.30].
+- Chỗ dùng trong mạch Nhi:
+  - Buổi 1: giá học thử, rồi về sau Nhi đòi trả gấp đôi. Anh nhẩm ra số bát.
+  - Buổi 2: quà 20/11. Nhi không nhìn giá (khí chất sang); anh nhìn thấy logo là nhẩm ra bún riêu ngay, rồi chê bao bì để khỏi phải nói con số.
+  - Chuyển khoản X2 cuối buổi 2: đủ bao nhiêu bát.
+  - Đòn của Ngọc ở nhà hàng sang: anh đọc thực đơn bằng bún riêu, gọi món rẻ nhất, ăn ngon lành.
+- Mốc biến chất (giai đoạn 2): ngày anh **thôi quy ra bún riêu** là một dấu hiệu, cùng nhóm với chi tiết "từ chia tiền sân sang bao cả sân" trong sổ quyết định. Nên đặt ở một cảnh có Nhi chứng kiến, để cô là người duy nhất nhận ra anh không nhẩm nữa.
+
 ## 3. Nhịp cũ giữ lại và chỗ đặt mới
 
 | Nhịp (nguồn) | Đặt ở |
@@ -66,7 +88,7 @@ Oct 19, 2026 · @aureliustran. **Trạng thái: [đề xuất]**, chờ duyệt.
 - Anh khen một câu → "Đừng khen em." → "Anh đáng ghét." → đấm.
 - Giữa buổi cô hỏi thẳng vì sao anh gọi cô là *kid*. Anh đưa câu trả lời khôn: nhi = 兒. Cô biết chữ ấy từ lâu, và biết anh không gọi vì thế. Rồi anh dạy cô đọc chính chữ *kid*. Câu trả lời thật để dành đến Phần Lan.
 - Anh kể chuyện lab, nhắc tên Thảo. Nhi nghe ra cái tên. Nhịp này mở trục Thảo, mục tiêu riêng của Nhi.
-- Cuối buổi là chuyển khoản X2. Câu "Anh nhận ngay, giả vờ ngại đúng một giây" giữ nguyên.
+- Cuối buổi là chuyển khoản X2. Câu "Anh nhận ngay, giả vờ ngại đúng một giây" giữ nguyên. Anh nhẩm số tiền ra **bát bún riêu** (mục 9).
 - Hiệp phụ: **có**. Cô thấy anh ủ rũ vì một ván ở lab, không hỏi, kéo anh đến chỗ *cô* thích (hình mẫu Marin; gương với Diệp Anh, người bàn nước tiếp).
   - Cô trân trọng đúng cái đam mê "vô dụng" của anh: tinh vân, mắt chụp ảnh.
 - **Interlude POV Nhi** có thể là chính buổi này kể từ phía cô, thay cho cả *Xanh chàm* lẫn *Xanh cổ vịt*.
