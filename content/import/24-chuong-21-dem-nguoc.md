@@ -88,7 +88,7 @@ Sếp quay lại ghế, rót bia cho anh, rót đầy, bọt trào qua miệng c
 
 "Hai tháng mà bằng người ta hai năm." Sếp cụng cốc, uống một hơi, rồi ghé sát lại, hạ giọng, mùi bia và mùi nước hoa nam quá liều. "Anh nói thật với em nhé. Năm sau anh muốn em báo cáo thẳng anh. Không cần qua anh Bảo."
 
-Anh đặt cốc bia xuống.
+Anh uống cố một ngụm dài, đắng và chua, rồi đặt cốc bia xuống.
 
 "Anh Bảo giỏi tay," sếp nói tiếp. "Thợ cả mà. Nhưng không có tầm nhìn. Em khác. Em hiểu được cái anh muốn. Lab mình cần người hiểu được tầm nhìn."
 
@@ -103,6 +103,10 @@ Cả hai câu đều thật. Anh để ý sếp chỉ nghe câu thứ hai.
 "Đấy." Sếp vỗ vai anh. Bàn tay nặng, đặt xuống rồi nhấc lên ngay. Với anh thì nhấc lên ngay. "Thế mới là người của anh."
 
 Anh không sửa.
+
+Sếp rót thêm. Anh uống. Sếp rót nữa. Anh uống nữa. Đến cốc thứ ba, mặt anh đỏ lên đến tận cổ áo, hai vành tai nóng ran, nhưng giọng anh vẫn đều, câu nào sếp hỏi anh cũng đáp đúng, tay cầm đũa không run. Ba cốc là ngưỡng. Anh biết, và anh gồng.
+
+"Mặt đỏ thế mà vẫn tỉnh nhỉ." Sếp cười, rồi quay sang rót cho người khác.
 
 ---
 

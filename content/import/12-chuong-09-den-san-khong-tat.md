@@ -224,7 +224,13 @@ Mấy đứa năm nhất cười rú lên. Hưng vừa bưng đĩa nem quay lạ
 
 ---
 
-Họ ngồi bệt quanh cái mâm nhôm đặt giữa sân, ngay dưới cột đèn. Một đĩa nem chua rán chấm tương ớt, hai đĩa khoai tây chiên, một bịch trà đá to, và năm cốc bia hơi Vũ xách từ quán đầu ngõ về bằng túi nilon buộc quai. Bác bảo vệ được mời một cốc, từ chối, rồi nhận, rồi kéo ghế nhựa lại gần mâm.
+Họ ngồi bệt quanh cái mâm nhôm đặt giữa sân, ngay dưới cột đèn. Một đĩa nem chua rán chấm tương ớt, hai đĩa khoai tây chiên, một bịch trà đá to, và năm cốc bia hơi Vũ xách từ quán đầu ngõ về bằng túi nilon buộc quai. Vũ đẩy một cốc sang trước mặt Thuyên. Anh đẩy nó sang bác bảo vệ. Bác từ chối, rồi nhận, rồi kéo ghế nhựa lại gần mâm. Thuyên tự rót cho mình một cốc trà đá.
+
+Quân định rót cốc khác, Vũ giơ tay chặn trước cả mâm:
+
+"Thôi, đừng phí. Thằng này nửa cốc đã đỏ tai, một lon là gục, hai lon là triết."
+
+Cả mâm cười. Vũ nói quá. Ba lon anh mới bắt đầu bàn chuyện vũ trụ, Vũ biết rõ, vì lần ấy chính nó ngồi nghe đến hết; lon thứ năm anh mới gục, và sáng hôm sau anh nhớ từng câu mình đã nói. Anh không uống vì không thích cái vị đắng chua ấy, không phải vì không uống được. Nhưng để Vũ nói thế thì tiện. Không ai ép một người sắp triết.
 
 "Thôi, tối nay idol bao," Vũ nói, móc ví ra. "Đùa đấy. Tối nay tao bao. Coi như tiền bàn là."
 
@@ -386,7 +392,7 @@ Phòng trọ tối om. Anh không bật đèn, đi thẳng vào nhà tắm, vặ
 
 Nước tháng mười chưa lạnh hẳn, nhưng cũng đủ để da mặt co lại. Anh vốc nước lên mặt, một lần, hai lần, kỳ lên cổ, lên gáy, chỗ mồ hôi đã khô thành một lớp mỏng, sờ thấy rin rít. Mùi bia hơi, mùi nem chua rán, mùi xi măng sân bóng. Nước chảy xuống bồn mang theo hết.
 
-Anh ngẩng lên. Trong cái gương nhỏ trên bồn rửa, mặt anh đỏ lên vì nước lạnh và vì bia. Mắt không sưng. Mi không dính vào nhau. Không có vết hằn nào của vỏ gối trên má.
+Anh ngẩng lên. Trong cái gương nhỏ trên bồn rửa, mặt anh đỏ lên vì nước lạnh. Mắt không sưng. Mi không dính vào nhau. Không có vết hằn nào của vỏ gối trên má.
 
 Anh đứng đó lâu hơn cần thiết một chút, tay vẫn chống lên mép bồn, nhìn cái mặt trong gương như nhìn một người quen lâu rồi không gặp.
 

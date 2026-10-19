@@ -74,6 +74,9 @@ import-overwrite: ## Import and replace chapters that already exist
 import-reorder: ## Import and put chapters in file-name order
 	npm run import -- --reorder
 
+import-overwrite-reorder: ## Import and replace chapters that already exist and put them in file-name order
+	npm run import -- --overwrite --reorder
+
 export: ## Export all chapters to backup/chapters
 	npm run export
 

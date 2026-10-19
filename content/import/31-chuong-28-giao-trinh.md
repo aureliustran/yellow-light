@@ -16,7 +16,7 @@ Tầng mười bảy chưa bao giờ yên đến thế.
 
 Anh Bảo đọc paper, tai nghe trên đầu, một tay cầm bút chì gạch chân lên bản in, như đang chữa bài cho tác giả. Anh Kiên chơi cờ vua trên điện thoại, mỗi nước đi nghĩ đúng ba phút, không hơn. Chị Quỳnh cuối cùng cũng có thời gian dọn hộp thư, xóa email cũ từ năm 2025 với vẻ mặt của người đang nhổ cỏ. Chiều thứ Tư, trên màn hình anh Bảo là một video hội thảo bằng tiếng Anh: một người đàn ông mặc áo phông trơn đứng trước một màn chiếu đầy sơ đồ, nói về chuyện phục vụ một mô hình cho hàng trăm triệu người dùng cùng lúc. Anh Bảo xem hết bốn mươi phút, tua lại một đoạn, chép một dòng vào sổ. Ở góc cửa sổ, Thảo vẫn dán nhãn. Không ai giao việc mới cho R&D, nhưng hình như không ai báo cho Thảo biết R&D không có việc, hoặc có báo mà cô vẫn làm, vì dữ liệu sạch thì không bao giờ thừa.
 
-Thứ Ba, công ty thanh toán bên tập đoàn nhắn sang xin mượn anh Kiên ba ngày cho dự án ví điện tử. Anh Kiên đi, ba ngày sau về, không ai hỏi gì. Kỹ sư rảnh một tuần thì có người xin. Bảng chấm công tháng ấy của cả lab không có giờ làm thêm nào để lão ký.
+Thứ Ba, công ty thanh toán bên tập đoàn nhắn sang xin mượn anh Kiên ba ngày cho dự án ví điện tử. Anh Kiên đi, ba ngày sau về, không ai hỏi gì. Kỹ sư rảnh một tuần thì có người xin. Bảng chấm công tháng ấy của cả lab không có giờ làm thêm nào để anh Tuấn ký.
 
 Thuyên mở một file mới, đặt tên bằng tiếng Anh như mọi file của riêng anh: *terminal_to_cluster_v0.md*. Mô hình của Thiên Nhãn đang chạy trên đúng một cái máy, gõ lệnh từ terminal, một tỉnh mất một đêm. Muốn chạy cả nước thì phải cắt ảnh thành ô, chia ô cho nhiều máy chạy song song, rồi ghép lại ở biên. Anh viết ba gạch đầu dòng, vẽ một cái hộp, rồi để đấy. Không ai hỏi. Chưa ai cần.
 

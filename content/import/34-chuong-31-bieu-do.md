@@ -63,19 +63,19 @@ Mười một giờ, file quay lại. Sếp đã sửa trang bìa thành *THIÊN
 
 Tám giờ bốn mươi, cả nhóm đứng chờ ngoài phòng họp lớn tầng mười tám. Phiên trước kéo dài quá giờ. Qua lớp kính mờ chỉ thấy những vệt đen của áo vest, ngồi rồi đứng rồi lại ngồi.
 
-Tám giờ năm mươi, cửa mở. Một dàn người đi ra, toàn vest, toàn giày da, toàn những gương mặt anh chưa thấy ở tầng mười bảy bao giờ. Lão đứng thẳng lên, kéo vạt áo, cúi chào từng người một như cúi chào một hàng cờ.
+Tám giờ năm mươi, cửa mở. Một dàn người đi ra, toàn vest, toàn giày da, toàn những gương mặt anh chưa thấy ở tầng mười bảy bao giờ. Anh Tuấn đứng thẳng lên, kéo vạt áo, cúi chào từng người một như cúi chào một hàng cờ.
 
 Giữa đám ấy có một ông chú ngoài bốn mươi mặc áo phông trơn màu than, quần thể thao ống rộng, đôi giày chạy bộ đã bạc mũi. Tay không cầm gì, kể cả điện thoại. Mấy ông vest đi hai bên nghiêng người về phía ông khi nói, và cười trước khi ông cười.
 
 "Ngài Morpheus, mời ngài đi lối này ạ."
 
-Ông đáp một ông vest một câu ngắn, bằng tiếng Việt, giọng ngang ngang, đều đều, chữ nào cũng đúng mà không chữ nào có quê. Rồi cả đoàn rẽ về phía thang máy riêng ở cuối hành lang. Lão vẫn còn cúi.
+Ông đáp một ông vest một câu ngắn, bằng tiếng Việt, giọng ngang ngang, đều đều, chữ nào cũng đúng mà không chữ nào có quê. Rồi cả đoàn rẽ về phía thang máy riêng ở cuối hành lang. Anh Tuấn vẫn còn cúi.
 
 "Ai đấy chị?" anh hỏi nhỏ chị Hạnh.
 
 Chị Hạnh lắc đầu. Anh Bảo nhún vai, không tháo tai nghe. Trâm nhìn theo cái lưng áo phông, nói: "Ngài á? Em tưởng mỗi phim mới có người gọi thế."
 
-Anh không hỏi lão. Lão vẫn đang bận cúi.
+Anh không hỏi anh Tuấn. Anh Tuấn vẫn đang bận cúi.
 
 Anh xếp lại những gì vừa thấy, theo thứ tự anh vẫn xếp. Một: ăn mặc bố đời giữa một hành lang toàn vest, mà các sếp gọi là ngài. Ở tầng này, đến anh Khải cũng chỉ là *anh Khải*. Hai: Morpheus không phải tên Việt, mà ông nói tiếng Việt, giọng của người lớn lên ở chỗ khác. Ba: Morpheus là tên một vị thần Hy Lạp. Chả ai đặt tên con như thế. Vậy đấy không phải tên thật. Chắc các sếp coi khách hàng là thượng đế, nên gọi khách bằng tên thần thánh luôn cho máu.
 
@@ -95,13 +95,13 @@ Người bước vào sau đi chậm hơn, khép cửa lại sau lưng.
 
 Sơ mi trắng xắn tay. Áo vest xám vắt trên tay, không mặc. Không cà vạt. Một cốc cà phê giấy, loại máy bán tự động.
 
-Khải gật đầu chào cả phòng một lần. Khi mắt đi qua góc bàn, nó dừng ở anh nửa nhịp, và khóe miệng nhích lên một chút, như người nhận ra một khuôn mặt quen ở thang máy.
+Anh Khải gật đầu chào cả phòng một lần. Khi mắt đi qua góc bàn, nó dừng ở anh nửa nhịp, và khóe miệng nhích lên một chút, như người nhận ra một khuôn mặt quen ở thang máy.
 
-"Máy cà phê tầng anh sửa xong rồi," Khải nói, đặt cốc xuống. "Hôm nay hỏng lại."
+"Máy cà phê tầng anh sửa xong rồi," anh Khải nói, đặt cốc xuống. "Hôm nay hỏng lại."
 
 Cả phòng cười. Anh Đông cười to nhất.
 
-Rồi Khải ngồi xuống, kéo tập giấy in logo về phía mình, mở nắp bút. Anh ta không nói thêm câu nào.
+Rồi anh Khải ngồi xuống, kéo tập giấy in logo về phía mình, mở nắp bút. Anh ta không nói thêm câu nào.
 
 "Mời anh Tuấn," anh Đông nói, như mời người lên hát karaoke.
 
@@ -111,7 +111,7 @@ Anh Tuấn trình bày được bốn trang trước khi có người ngắt l�
 
 Người ngắt lời là anh Đông. Ông ngắt lời ba lần trong bốn trang, lần nào cũng để nói một điều không liên quan đến trang đang chiếu. Lần một là chuyện một tập đoàn ở Singapore cũng làm ảnh vệ tinh. Lần hai là chuyện con trai ông thi vào trường chuyên. Lần ba là chữ *hệ sinh thái*, và anh Tuấn gật đầu như vừa nghe một lời tiên tri, vì đó cũng là chữ của anh ta.
 
-Khải không ngắt lời lần nào. Anh ta nghe, đôi khi ghi một chữ vào tập giấy, nhấp cà phê, nhìn màn chiếu. Có lúc anh ta nhìn ra cửa kính, xuống Phạm Hùng, lâu đến mức Thuyên nghĩ anh ta đang nghĩ chuyện khác.
+Anh Khải không ngắt lời lần nào. Anh ta nghe, đôi khi ghi một chữ vào tập giấy, nhấp cà phê, nhìn màn chiếu. Có lúc anh ta nhìn ra cửa kính, xuống Phạm Hùng, lâu đến mức Thuyên nghĩ anh ta đang nghĩ chuyện khác.
 
 Trang năm. Bảng số liệu.
 
@@ -119,9 +119,9 @@ Anh Tuấn đọc con số chín mươi hai bằng cái giọng đọc con số 
 
 "Anh Tuấn."
 
-Khải không cao giọng. Anh ta chỉ đặt cây bút xuống mặt bàn gỗ, và cái tiếng *tạch* nhỏ ấy làm anh Đông ngừng gật.
+Anh Khải không cao giọng. Anh ta chỉ đặt cây bút xuống mặt bàn gỗ, và cái tiếng *tạch* nhỏ ấy làm anh Đông ngừng gật.
 
-"Báo cáo tháng mười một của lab ghi chín mươi tư." Khải lật tập giấy về trang đầu, nơi anh ta đã ghi gì đó từ trước khi vào phòng. "Báo cáo tổng kết năm ghi chín mươi hai. Hôm nay vẫn chín mươi hai." Anh ta ngẩng lên. "Mô hình tốt lên mà con số đi xuống. Hai con số ấy đo trên cùng một tập không anh?"
+"Báo cáo tháng mười một của lab ghi chín mươi tư." Anh Khải lật tập giấy về trang đầu, nơi anh ta đã ghi gì đó từ trước khi vào phòng. "Báo cáo tổng kết năm ghi chín mươi hai. Hôm nay vẫn chín mươi hai." Anh ta ngẩng lên. "Mô hình tốt lên mà con số đi xuống. Hai con số ấy đo trên cùng một tập không anh?"
 
 Câu hỏi đặt xuống giữa bàn như một cái cốc đặt hơi mạnh tay.
 
@@ -135,7 +135,7 @@ Anh ta ngừng lại. Tìm chữ. Anh Đông gật đầu khích lệ, như gậ
 
 "…thì đó là sự trưởng thành của mô hình ạ."
 
-Khải không nói gì. Anh ta nhìn anh Tuấn, rồi nhìn xuống tập giấy, rồi viết một chữ.
+Anh Khải không nói gì. Anh ta nhìn anh Tuấn, rồi nhìn xuống tập giấy, rồi viết một chữ.
 
 Thuyên ngồi ở góc bàn, tay đặt trên con chuột, và cảm thấy một thứ gì đó ấm lên dưới xương ức.
 
@@ -151,7 +151,7 @@ Anh suýt bật cười. Anh cắn vào má trong.
 
 Cả phòng quay sang nhìn anh.
 
-Anh Đông nhìn anh như nhìn một món tráng miệng không có trong thực đơn. Chị Hạnh ngừng bút. Anh Bảo không nhìn ai, nhìn chai nước khoáng trước mặt. Khải nhìn anh, bình thản, cốc cà phê lưng chừng giữa bàn và miệng.
+Anh Đông nhìn anh như nhìn một món tráng miệng không có trong thực đơn. Chị Hạnh ngừng bút. Anh Bảo không nhìn ai, nhìn chai nước khoáng trước mặt. Anh Khải nhìn anh, bình thản, cốc cà phê lưng chừng giữa bàn và miệng.
 
 Và trong một giây ấy, Thuyên thấy hai cánh cửa.
 
@@ -175,15 +175,15 @@ Anh Đông nheo mắt. "Ối giời, màu gì đây?"
 
 Mấy người bật cười. Anh Tuấn cười theo, hơi nhanh.
 
-Khải không cười. Anh ta nhìn cái biểu đồ. Nhìn lâu hơn bất cứ trang nào trước đó. Mắt anh ta đi dọc trục ngang, từ ba cái điểm lè tè dưới đáy, đến cái chỗ đường kẻ gãy lên ở cuối tháng mười, rồi xuống dòng chú thích nhỏ dưới chân. Giữa hai hàng lông mày anh ta hằn lên một nếp mảnh, rồi tan ngay, như vết ngón tay trên mặt kính lạnh.
+Anh Khải không cười. Anh ta nhìn cái biểu đồ. Nhìn lâu hơn bất cứ trang nào trước đó. Mắt anh ta đi dọc trục ngang, từ ba cái điểm lè tè dưới đáy, đến cái chỗ đường kẻ gãy lên ở cuối tháng mười, rồi xuống dòng chú thích nhỏ dưới chân. Giữa hai hàng lông mày anh ta hằn lên một nếp mảnh, rồi tan ngay, như vết ngón tay trên mặt kính lạnh.
 
-"Ai chọn màu này?" Khải hỏi.
+"Ai chọn màu này?" Anh Khải hỏi.
 
 Một nhịp im.
 
 "Dạ, em ạ," anh Tuấn nói. "Em muốn cho nó nổi bật."
 
-"Nổi thật." Khải gật đầu, khóe miệng nhích lên. Anh Đông cười phá lên, vỗ bàn, và cả phòng cười theo anh Đông, kể cả anh Tuấn, kể cả chị Hạnh. Trong tiếng cười ấy, Khải cầm bút, viết thêm một chữ vào tập giấy, rồi gập trang lại.
+"Nổi thật." Anh Khải gật đầu, khóe miệng nhích lên. Anh Đông cười phá lên, vỗ bàn, và cả phòng cười theo anh Đông, kể cả anh Tuấn, kể cả chị Hạnh. Trong tiếng cười ấy, anh Khải cầm bút, viết thêm một chữ vào tập giấy, rồi gập trang lại.
 
 Thuyên không cười. Anh cắn má trong lần thứ hai. Cái màu xanh lá chuối và cam ấy, cả lab chỉ có một người chọn. Anh Bảo biết. Bây giờ sếp vừa nhận nó là của mình, trước tầng mười tám, chỉ vì sếp không biết rằng ở đâu đó có người coi một cái màu xấu là một chữ ký.
 
@@ -191,17 +191,17 @@ Anh liếc sang anh Bảo. Anh Bảo vẫn nhìn chai nước khoáng. Một bê
 
 ---
 
-Buổi review kéo dài thêm bốn mươi phút. Anh Đông nói hai mươi phút trong số đó. Khải hỏi thêm ba câu, đều là câu dễ, kiểu câu người ta hỏi để biết người kia còn thức: tiến độ đóng gói, số người cần thêm, mốc tháng sáu có kịp không. Anh Tuấn trả lời cả ba câu trôi chảy, bằng cái giọng của người vừa được kéo lên bờ và đã quên mình suýt chìm.
+Buổi review kéo dài thêm bốn mươi phút. Anh Đông nói hai mươi phút trong số đó. Anh Khải hỏi thêm ba câu, đều là câu dễ, kiểu câu người ta hỏi để biết người kia còn thức: tiến độ đóng gói, số người cần thêm, mốc tháng sáu có kịp không. Anh Tuấn trả lời cả ba câu trôi chảy, bằng cái giọng của người vừa được kéo lên bờ và đã quên mình suýt chìm.
 
-Cuối buổi, Khải đứng dậy trước.
+Cuối buổi, anh Khải đứng dậy trước.
 
 "Lab làm tốt." Anh ta khoác vest lên vai, không xỏ tay. "Giai đoạn hai, tôi muốn đọc tài liệu kỹ thuật đầy đủ. Không phải slide. Tài liệu." Anh ta nhìn anh Tuấn. "Anh gửi cho văn phòng tôi nhé."
 
 "Dạ, em gửi ngay ạ."
 
-Khải gật đầu chào cả phòng một lần. Lúc đi ngang góc bàn, anh ta đặt cái cốc cà phê giấy đã cạn lên cạnh cái máy tính nối máy chiếu, chỗ Thuyên ngồi, như người ta tiện tay để lại cái cốc ở chỗ gần nhất.
+Anh Khải gật đầu chào cả phòng một lần. Lúc đi ngang góc bàn, anh ta đặt cái cốc cà phê giấy đã cạn lên cạnh cái máy tính nối máy chiếu, chỗ Thuyên ngồi, như người ta tiện tay để lại cái cốc ở chỗ gần nhất.
 
-"Bánh mì nướng than cổng trường em," Khải nói, không dừng bước. "Bà ấy còn dùng lò điện không?"
+"Bánh mì nướng than cổng trường em," anh Khải nói, không dừng bước. "Bà ấy còn dùng lò điện không?"
 
 "Dạ còn ạ."
 
@@ -281,7 +281,7 @@ Không ai để ý miếng chả thứ ba. Anh cũng không.
 
 "Về em gì chị?"
 
-"Thì, *người trực tiếp triển khai* ấy." Hà My nhại chữ ấy y như anh Tuấn nói, đúng cái giọng tìm phao. "Sếp to thì hay để ý người làm thật."
+"Thì, *người trực tiếp triển khai* ấy." Hà My nhại chữ ấy y như lão nói, đúng cái giọng tìm phao. "Sếp to thì hay để ý người làm thật."
 
 "Không chị. Anh ấy chỉ hỏi em bà bán bánh mì cổng trường em còn dùng lò điện không."
 
@@ -291,7 +291,7 @@ Anh gật. Đúng thế. Toàn những câu chả liên quan.
 
 ---
 
-Ba giờ chiều, anh gửi bộ tài liệu kỹ thuật đầy đủ cho anh Tuấn, để anh Tuấn gửi lên văn phòng Tổng giám đốc.
+Ba giờ chiều, anh gửi bộ tài liệu kỹ thuật đầy đủ cho lão, để lão gửi lên văn phòng Tổng giám đốc.
 
 Hai trăm mười bốn trang. Không phải hai trang trên ổ chung. Không phải những cuốn sổ tay riêng của con AI. Một phiên bản ở giữa: đủ dày để không ai bảo là thiếu, đủ khô để không ai đọc hết. Mục lục, sơ đồ con sông, các khúc lọc mây, cắt ô, mô hình, ghép kết quả.
 
@@ -305,7 +305,7 @@ Trong đó có một file. *as_the_crow_flies_v0.md.* Năm tuần nay anh đã s
 
 Anh nhìn cái thư mục ấy một lúc. Rồi để nguyên. Tài liệu kỹ thuật đầy đủ thì phải đầy đủ. Để nó ở đây thì nó có ngày tạo, có tên người tạo, nằm trong một bộ hồ sơ đã gửi lên tầng mười tám. Một ngày nào đó có ai hỏi *ai nghĩ ra*, câu trả lời sẽ không cần ai đỡ. Mà người ta sẽ không đọc đến phụ lục.
 
-Anh Tuấn chuyển tiếp lúc ba giờ hai mươi, không mở file, tiêu đề email sửa thành *Tài liệu kỹ thuật Thiên Nhãn – do trưởng nhóm tổng hợp*.
+Lão chuyển tiếp lúc ba giờ hai mươi, không mở file, tiêu đề email sửa thành *Tài liệu kỹ thuật Thiên Nhãn – do trưởng nhóm tổng hợp*.
 
 ---
 
@@ -363,7 +363,7 @@ Anh nằm ngửa, con cá trên trần vẫn bơi về phía bức tường. Bá
 
 Anh nhắm mắt, và tầng mười tám hiện lên. Cái bàn bầu dục bóng soi được trần nhà. Anh Đông vỗ bàn. Cái biểu đồ xanh lá chuối chói như biển quảng cáo.
 
-Và anh Tuấn xoay cốc cà phê. Một vòng. Hai vòng.
+Và lão xoay cốc cà phê. Một vòng. Hai vòng.
 
 Anh mở mắt, kéo cái laptop trên bàn xuống bụng, mở một file trống. Gõ: *Dạ, tháng mười một là số trên tập huấn luyện, em không rõ ai đưa vào báo cáo.* Anh nhìn câu ấy. Không một chữ nào sai.
 

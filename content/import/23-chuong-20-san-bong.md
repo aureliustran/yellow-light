@@ -117,7 +117,7 @@ Anh không ngờ câu đó. Anh nhìn xuống đôi derby dính nước rửa b�
 
 "Hai điểm," cô nói. "Đủ để qua vòng gửi xe."
 
-"Còn điểm trừ thì nhiều lắm chị ạ." Vũ được đà. "Chị xem story nó chưa? Facebook, Instagram, chỗ nào cũng thế. Bìa toàn đèn đường, vũng nước, sân không người, bấm vào thì có cái ảnh nó cởi trần quay lưng, kéo tương phản gắt như ảnh mấy anh tập gym. Nhạc thì nghe như sắp có ma, có hôm bài gì tiếng Anh có chữ *angel* mà nghe xong muốn đi thắp hương. Cringe vcl chị ạ, nhóm em chụp màn hình lại hết, để dành đến đám cưới nó chiếu."
+"Còn điểm trừ thì nhiều lắm chị ạ." Vũ được đà. "Đi nhậu thì nửa cốc đã đỏ tai, một lon là gục, hai lon là triết, nên đi đâu cũng ôm lon Pepsi như học sinh cấp hai. Còn story thì chị xem chưa? Facebook, Instagram, chỗ nào cũng thế. Bìa toàn đèn đường, vũng nước, sân không người, bấm vào thì có cái ảnh nó cởi trần quay lưng, kéo tương phản gắt như ảnh mấy anh tập gym. Nhạc thì nghe như sắp có ma, có hôm bài gì tiếng Anh có chữ *angel* mà nghe xong muốn đi thắp hương. Cringe vcl chị ạ, nhóm em chụp màn hình lại hết, để dành đến đám cưới nó chiếu."
 
 "Nhóm mày không hiểu nghệ thuật," Thuyên nói. "Nghệ thuật cần khoảng lặng. Nhóm mày chỉ có tiếng nhai."
 
@@ -305,7 +305,7 @@ Bốn lần. Anh tưởng là ba.
 
 "Chị ấy đẹp vcl," Vũ nói.
 
-Hai thằng ngồi trên bậc thềm. Mâm nhôm giữa sân đã có nem chua rán, khoai tây chiên, năm cốc bia hơi. Bọn năm nhất đang tranh nhau miếng nem cuối.
+Hai thằng ngồi trên bậc thềm. Mâm nhôm giữa sân đã có nem chua rán, khoai tây chiên, năm cốc bia hơi, và một lon Pepsi chanh không calo đứng lẻ loi cạnh chân Thuyên. Bọn năm nhất đang tranh nhau miếng nem cuối.
 
 "Ừ."
 
@@ -327,7 +327,7 @@ Nó cười. Rồi thôi cười, nhìn về phía vạch biên, chỗ cô đứ
 
 "Chị ấy đẹp," Vũ nói lại, lần này không chửi. "Nhưng mà… chị ấy nhìn sân như nhìn chỗ tổ chức sự kiện."
 
-Anh không trả lời ngay. Anh xoay cốc bia trên bậc thềm một vòng.
+Anh không trả lời ngay. Anh xoay lon Pepsi trên bậc thềm một vòng.
 
 "Chị ấy làm chủ tọa. Vào đâu cũng nhìn xem ghế chủ tọa đặt ở đâu."
 
@@ -353,7 +353,7 @@ Bọn năm nhất đã tranh xong miếng nem cuối. Hưng bê cốc bia sang, 
 
 Linh nói vọng xuống từ bậc thềm, mắt vẫn dán vào điện thoại: "Em quay cả tối mà chỉ được mỗi cái vai chị ấy. Chị ấy cứ đứng ra ngoài khung."
 
-"Info đây," Thuyên nói. "Học Ngoại giao. Năm tư. Cãi thắng anh trước hai trăm người. Và đã có chủ." Anh nhấp bia. "Còn Instagram thì tự tìm. Tìm được là có năng lực, anh cho đá chính."
+"Info đây," Thuyên nói. "Học Ngoại giao. Năm tư. Cãi thắng anh trước hai trăm người. Và đã có chủ." Anh nhấp một ngụm Pepsi. "Còn Instagram thì tự tìm. Tìm được là có năng lực, anh cho đá chính."
 
 "Tìm được rồi."
 

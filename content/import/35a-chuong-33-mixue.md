@@ -21,7 +21,7 @@ Trân trọng.
 
 Thứ Ba 4/5 là ngày đầu tiên đi làm lại sau bốn ngày nghỉ. Bốn ngày nghỉ là bốn ngày đường ống phải chạy một mình.
 
-Anh Tuấn gọi anh vào phòng lúc chín giờ, cửa đóng, cốc cà phê thứ nhất trong ngày đặt trên bàn như một cái đồng hồ cát.
+Lão gọi anh vào phòng lúc chín giờ, cửa đóng, cốc cà phê thứ nhất trong ngày đặt trên bàn như một cái đồng hồ cát.
 
 "Lễ này em trực được không?" Anh ta hỏi bằng giọng của người đã biết câu trả lời. "Anh trực từ xa."
 
@@ -29,13 +29,13 @@ Anh tính trong đầu. Khúc ghép kết quả mới đóng gói tuần trướ
 
 "Ba mươi em ngồi ở đây cả ngày, anh ạ," anh nói. "Mười hai tiếng đầu phải có người hiểu nó ngồi cạnh. Mùng một, mùng hai thì anh Kiên ngồi nhìn log được, em viết cho anh Kiên một trang hướng dẫn: dòng nào đỏ thì gọi em. Em ở trong bán kính hai tiếng, có gì là lên ngay. Mùng ba em lên làm demo."
 
-Anh Tuấn nhìn anh một giây, như nhìn một bảng tính tự điền xong.
+Lão nhìn anh một giây, như nhìn một bảng tính tự điền xong.
 
 "Em tính hết rồi à."
 
 "Dạ. Đường ống mà anh."
 
-"Được." Anh Tuấn gật, cầm cốc lên. "Anh báo lên là lab trực đủ bốn ngày."
+"Được." Lão gật, cầm cốc lên. "Anh báo lên là lab trực đủ bốn ngày."
 
 Bốn ngày. Thật ra là một ngày ngồi và ba ngày cầm điện thoại. Anh không sửa câu ấy. Một con số trong báo cáo của sếp thì nặng bao nhiêu.
 
@@ -229,7 +229,7 @@ Anh cắt nó đi giữa chừng, như cắt một sợi chỉ.
 
 Anh ngồi im.
 
-Anh đọc người được. Anh vẫn đọc người được. Anh đọc được Vũ trước khi Vũ liếm môi, đọc được anh Tuấn trước khi anh Tuấn xoay cốc, đọc được một phòng họp tầng mười tám qua cái tiếng *tạch* của một cây bút đặt xuống mặt bàn. Nhưng anh không có chương nào cho cái này. Một đứa con gái mười chín tuổi khóc toáng giữa quán vì một câu kết luận viết bằng bút đỏ.
+Anh đọc người được. Anh vẫn đọc người được. Anh đọc được Vũ trước khi Vũ liếm môi, đọc được lão trước khi lão xoay cốc, đọc được một phòng họp tầng mười tám qua cái tiếng *tạch* của một cây bút đặt xuống mặt bàn. Nhưng anh không có chương nào cho cái này. Một đứa con gái mười chín tuổi khóc toáng giữa quán vì một câu kết luận viết bằng bút đỏ.
 
 "Thì…" anh nói. "Em… ừm."
 
@@ -428,13 +428,13 @@ Anh vẫn cười. Ít hơn một chút.
 
 Mười một giờ, anh mở laptop để thêm một dòng vào trang hướng dẫn cho anh Kiên. Dòng thứ hai mươi tư: *Nếu log báo lệch tọa độ ở bước ghép thì a gọi e ngay, k chờ 3 lần.*
 
-Trang hướng dẫn nằm cùng thư mục với bộ tài liệu kỹ thuật trên ổ chung. Anh mở nhầm bộ tài liệu, vì hai file nằm cạnh nhau và tay anh nhanh hơn mắt. Hai trăm mười bốn trang hiện lên, trang mục lục, sơ đồ con sông. Góc trên bên phải là một hàng hình tròn nhỏ, những người đã mở tài liệu này trong bảy ngày qua: một chữ T màu cam là anh Tuấn, một chữ K màu xanh lá là anh Kiên, một chữ B màu tím là anh Bảo. Và một chữ K nữa, màu xám, đứng thứ tư.
+Trang hướng dẫn nằm cùng thư mục với bộ tài liệu kỹ thuật trên ổ chung. Anh mở nhầm bộ tài liệu, vì hai file nằm cạnh nhau và tay anh nhanh hơn mắt. Hai trăm mười bốn trang hiện lên, trang mục lục, sơ đồ con sông. Góc trên bên phải là một hàng hình tròn nhỏ, những người đã mở tài liệu này trong bảy ngày qua: một chữ T màu cam là lão, một chữ K màu xanh lá là anh Kiên, một chữ B màu tím là anh Bảo. Và một chữ K nữa, màu xám, đứng thứ tư.
 
 Hai chữ K. Chắc anh Kiên mở bằng hai máy. Anh Kiên vẫn hay mở hai máy.
 
 Anh đóng nó lại, mở đúng file, gõ dòng thứ hai mươi tư.
 
-Hộp thư báo một email mới, trong cùng chuỗi email lúc chiều. Anh Tuấn trả lời tất cả, lúc tám giờ bốn mươi tối:
+Hộp thư báo một email mới, trong cùng chuỗi email lúc chiều. Lão trả lời tất cả, lúc tám giờ bốn mươi tối:
 
 *Dạ em cảm ơn anh Khải. Anh tóm tắt rất chuẩn ạ. Bọn em sẽ bám sát ba ý này trong buổi demo ạ.*
 
@@ -442,7 +442,7 @@ Anh bật ra một tiếng qua mũi. *Rất chuẩn.* Lão xác nhận luôn c�
 
 Anh đặt tay lên bàn phím. Ba mươi hai, không phải ba mươi hai. Một câu thôi, gửi riêng cho văn phòng tầng mười tám, hoặc trả lời tất cả.
 
-Rồi anh nghĩ đến anh Tuấn, cái cốc cà phê xoay một vòng, hai vòng. Trả lời tất cả thì là sửa lưng sếp trước văn phòng tổng giám đốc. Gửi riêng thì là đi vòng qua đầu sếp. Cái nào cũng không cần thiết, khi buổi demo chạy bằng con số đúng nằm trong code chứ không phải con số trong email.
+Rồi anh nghĩ đến lão, cái cốc cà phê xoay một vòng, hai vòng. Trả lời tất cả thì là sửa lưng sếp trước văn phòng tổng giám đốc. Gửi riêng thì là đi vòng qua đầu sếp. Cái nào cũng không cần thiết, khi buổi demo chạy bằng con số đúng nằm trong code chứ không phải con số trong email.
 
 Sai một con số thì kệ nó sai.
 

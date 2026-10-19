@@ -462,7 +462,7 @@ Thứ Hai là ngày nghỉ bù. Anh lên tầng mười bảy từ tám giờ s�
 
 Anh Kiên ngồi xuống. Tai đỏ lên. Lâu lắm rồi anh mới thấy tai ai đỏ vì một câu khen thật.
 
-Thứ Ba, buổi demo chạy trơn như một bài thuyết trình đã tập mười lần. Một nghìn hai trăm cây số vuông, ảnh mới, kết quả ghép liền một dải. Văn phòng Tổng giám đốc không ai xuống, chỉ có anh Đông và hai người khối chiến lược. Anh Đông vỗ vai anh Tuấn ba cái. Anh Tuấn nói *đội ngũ trực lễ rất tận tâm*, và nhìn sang Thuyên, gật đầu, như hai người cùng giữ một bí mật.
+Thứ Ba, buổi demo chạy trơn như một bài thuyết trình đã tập mười lần. Một nghìn hai trăm cây số vuông, ảnh mới, kết quả ghép liền một dải. Văn phòng Tổng giám đốc không ai xuống, chỉ có anh Đông và hai người khối chiến lược. Anh Đông vỗ vai lão ba cái. Lão nói *đội ngũ trực lễ rất tận tâm*, và nhìn sang Thuyên, gật đầu, như hai người cùng giữ một bí mật.
 
 Bốn ngày trực. Một ngày ngồi, ba ngày cầm điện thoại, một đêm có ếch kêu. Anh không sửa câu ấy.
 
@@ -701,7 +701,7 @@ Rồi Hưng hét *dạ anh~* lần thứ mười, và anh quên mất nửa giâ
 
 Mười giờ kém mười, hết hiệp ba. Anh thắng, không ai nhớ tỉ số, chỉ nhớ Hưng ném fadeaway trúng một quả, rồi chạy quanh sân giơ hai tay như vừa vô địch NBA.
 
-Anh gửi slide cho anh Tuấn lúc chín giờ năm mươi tám, ngồi ở bậc thềm, mồ hôi còn nhỏ xuống màn hình.
+Anh gửi slide cho lão lúc chín giờ năm mươi tám, ngồi ở bậc thềm, mồ hôi còn nhỏ xuống màn hình.
 
 Mấy đứa năm nhất về trước. *Anh về ạ. Idol về ạ.* Hưng đi cuối, quay lại, hét "six seven!", rồi chạy mất trước khi anh kịp giơ tay.
 
