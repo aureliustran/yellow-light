@@ -94,7 +94,14 @@ Gộp buổi học đầu (ch.13 cũ) với nhịp chữ *kid* (*Xanh chàm* cũ
       - Nghĩa gốc của *kid* là dê con.
       - Nghĩa "trẻ con" là tiếng lóng có về sau.
       - Động từ *kid* nghĩa là trêu.
-    - Nhi rút ra đúng điều anh không muốn: "Thế anh gọi em là dê." Hoặc: "Thế là anh đang trêu em." Rồi đấm.
+    - Nhi rút ra đúng điều anh không muốn: "Thế anh gọi em là dê."
+    - Thuyên: "Có thể. Kiểu… dâm dê chăng?"
+    - Nhi đấm. Đây là cú đấm đầu tiên.
+    - **Luật cho câu này:** là đùa giữa hai người ngang hàng, không phải quấy rối.
+      - Nhi phải thắng hiệp: đấm, rồi một câu đáp trả.
+      - Thuyên phải thấy trước cú đấm mà không chặn.
+      - Không ai trong quán nghe thấy.
+      - Đọc lại thì đây là dấu hiệu sớm nhất anh đang thoải mái với cô (mục 5): với Diệp Anh, anh sẽ không bao giờ buột ra một câu như thế.
     - Nhịp này đúng ý mục 5: anh đang thoải mái, nên cợt nhả và khoe chữ.
     - Câu trả lời thật cho việc vì sao anh gọi cô là *kid* vẫn để dành đến Phần Lan. Tầng nhi = 兒 bỏ, hoặc để Nhi tự biết trong một interlude.
   - Tập âm *th*, nhìn môi. Âm /ɪ/ của *kid* có thể dạy nối luôn sau âm *th*: cô bắt anh đọc chính chữ ấy.
