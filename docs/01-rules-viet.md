@@ -6,9 +6,14 @@ Kỹ thuật viết cho toàn truyện. Mạch truyện và nhân vật nằm �
 
 ## Nguyên tắc chung
 
-Cho thấy, không kể. Người đọc phải tự cảm nhận qua chi tiết, không được dẫn dắt bằng lời giải thích.
+Cho thấy là mặc định: người đọc tự cảm nhận qua chi tiết. Nhưng giấu hay nói đều phải có mục đích (xem dòng đầu dưới đây).
 
-- **Không gọi tên cảm xúc, không giải thích động cơ.** Để hành động, chi tiết, phản ứng cơ thể tự nói.
+- **Không gọi tên cảm xúc, không giải thích động cơ ở phần cần giấu, và giấu phải đi kèm mục đích** (chốt 15/10). Phần cần giấu là:
+  - nhân vật truyện cần người đọc đi sau một bước: Khải (đến *Quân trắng*), ngài Morpheus (đến *Quân đen* và cảnh quán bia hơi), Diệp Anh ở phía bên kia (đến *Quân đen*). Mục đích: giữ bất ngờ cho lần lật bài, mọi manh mối đọc được theo hai nghĩa;
+  - cảm xúc nhân vật POV chưa tự nhận ra hoặc chưa chịu nhận (Nhi với Thuyên trước khi cô gọi tên được; Thuyên với Nhi). Mục đích: người đọc nhận ra trước nhân vật.
+  Ở các chỗ ấy, để hành động, chi tiết, phản ứng cơ thể tự nói.
+- **Ngoài phần cần giấu, được gọi tên cảm xúc và nói động cơ** khi nói thẳng giúp người đọc thấy đường đi của cảm xúc: nhân vật đi từ đâu đến đâu qua một cảnh. Ví dụ interlude POV Phong: người kể nói thẳng Phong thích Nhi từ bao giờ, vì sao, và buổi sáng ấy làm gì với cái thích đó. Gọi tên vẫn phải đi cùng chi tiết cụ thể, không thay chi tiết bằng tính từ.
+- **Kiểm tra:** trước mỗi chỗ giấu hoặc nói, trả lời được câu *giấu để làm gì* hoặc *nói để làm gì*. Không trả lời được thì đang giấu theo thói quen.
 - **Ngoại cảnh sống động:** thời tiết, mùi, âm thanh, đồ vật cụ thể (hoa sữa, đèn đếm ngược, vòi nước rỉ, lá bàng, đêm trắng Phần Lan…).
 - **Suy nghĩ vu vơ có chủ đích:** ý lan man phải cài cắm điều gì đó về nhân vật hoặc cốt truyện.
 - **Không viết quá chuẩn xác:** người thật không nói và nghĩ gọn gàng, logic tuyệt đối.
@@ -32,6 +37,12 @@ Cho thấy, không kể. Người đọc phải tự cảm nhận qua chi tiết
 | Đồng nghiệp ở lab | Thuyên là **người nhỏ tuổi nhất phòng** (sinh viên năm ba, trường hợp đặc biệt: hiếm khi sinh viên được ký hợp đồng chính thức). Gọi mọi người là anh/chị (anh Tuấn, anh Bảo, anh Kiên, chị Quỳnh, chị Hạnh, chị Phương, chị Ngân, chị Trâm, chị My, chị Ly — Ly là thực tập sinh năm cuối, hơn anh một tuổi), xưng em. Mọi người gọi anh là em, đôi khi "em út", "thằng bé". |
 | Thảo (bằng tuổi Thuyên, năm ba Kinh tế Quốc dân) | Thuyên: **tớ – cậu**. Thảo: **mình – cậu** (giữ khoảng cách, ít nói). Không dùng anh – em. |
 | Nhi (năm hai, nhỏ hơn) | anh – em |
+
+**Người kể gọi nhân vật (POV Thuyên, chốt 15/10).** Người kể gọi theo cách Thuyên gọi trong đầu, và đổi khi Thuyên đổi:
+
+- **Tuấn:** "anh Tuấn" từ ch.14 đến hết buổi review tầng 18 ở ch.32. Từ câu *"Lão đứng được là nhờ ai."* (ch.32) trở đi, lời kể gọi **"lão"** (đầu câu "Lão"). Giữ "anh Tuấn" trong thoại của Thuyên và người khác, tên hiển thị trong tin nhắn, tên người gọi đến trên màn hình điện thoại, email. Câu ở ch.35 "Một người trong phòng sếp gọi *anh*. Một người ngồi ở bàn nhựa gọi *lão*." là nhận xét của chính Thuyên về hai giọng, giữ nguyên.
+- **Khải:** **"anh Khải"** (đầu câu "Anh Khải"); lần đầu ở ch.16 là "Người tên Khải". "Anh ta" làm đại từ thay thế để tránh lặp. Chữ ký email giữ "Khải".
+- Interlude POV Nhi: Nhi gọi Khải là "anh trai" / "anh". Interlude POV Khải (*Quân trắng*, *Quân đen*): theo luật riêng khi viết.
 
 ### Giọng địa phương
 

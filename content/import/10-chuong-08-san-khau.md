@@ -50,6 +50,10 @@ Im lặng ba giây.
 
 "Bàn là thì làm gì được sữa đậu nành." Vũ lau, vệt sữa loang ra to gấp đôi. Nó nhìn xuống ngực mình, rồi nhìn sang Thuyên từ đầu đến chân, rồi thở dài như một ông bố có con trai hư. "Thôi. Idol. Đi thôi, tao chở."
 
+Ra đến cửa, nó rút từ túi quần ra một chai Sting đỏ, chìa sang. "Hôm nay idol cần tài lộc quá lớn."
+
+Thuyên lắc đầu, cầm chai nước vối mua ở đầu ngõ. Vũ nhún vai, tự vặn nắp, tu một hơi hết nửa chai. Ba năm đại học, sáng nào nó cũng một chai tài lộc như thế, và giờ nó thành ông Địa thật: bụng tròn, má đỏ, cười híp mắt, chỉ thiếu cái quạt mo.
+
 ---
 
 Vũ chở anh bằng chiếc Wave đời cũ, đi đường Phạm Hùng. Gió tháng mười lùa vào cổ áo. Thuyên một tay giữ cái blazer vắt trên đùi cho khỏi bay, tay kia giữ tập giấy in bài phát biểu trong túi áo.

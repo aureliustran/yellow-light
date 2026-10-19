@@ -29,7 +29,7 @@ Trân trọng.
 
 Anh đọc nó hai lần. Rồi anh không đọc email nữa. Anh đọc tầng mười bảy.
 
-Trâm là người đầu tiên đứng dậy, cầm cốc đi về phía pantry, và trên đường đi chị dừng ở bàn chị Hạnh đúng ba giây, cúi xuống nói một câu không ai nghe thấy. Chị Phương mở một file bảng tính mới, gõ tiêu đề, xóa, gõ lại. Chị Ngân không làm gì cả. Chị Ngân ngồi im, nhìn cánh cửa phòng anh Tuấn, như người ngồi canh một cái nồi sắp sôi. Hà My cầm điện thoại, chụp màn hình email, rồi mở Zalo, ngón cái chạy nhanh đến mức anh nhìn từ bàn mình cũng thấy nó mờ đi.
+Trâm là người đầu tiên đứng dậy, cầm cốc đi về phía pantry, và trên đường đi chị dừng ở bàn chị Hạnh đúng ba giây, cúi xuống nói một câu không ai nghe thấy. Chị Phương mở một file bảng tính mới, gõ tiêu đề, xóa, gõ lại. Chị Ngân không làm gì cả. Chị Ngân ngồi im, nhìn cánh cửa phòng lão, như người ngồi canh một cái nồi sắp sôi. Hà My cầm điện thoại, chụp màn hình email, rồi mở Zalo, ngón cái chạy nhanh đến mức anh nhìn từ bàn mình cũng thấy nó mờ đi.
 
 Anh Bảo kéo tai nghe xuống một bên. Đọc. Kéo lên.
 
@@ -41,7 +41,7 @@ Còn một đoạn không ai ở tầng mười bảy chụp màn hình: bốn m
 
 Danh sách nghĩa là ghế, mà ghế có hạn. Từ lúc email ấy đến, ai ở tầng mười bảy cũng hiểu: sau tháng bảy, người có tên sẽ ở lại theo dự án, người không có tên sẽ ra rìa.
 
-Người viết danh sách là anh Tuấn. Lão không chọn người giỏi nhất, vì lão không đủ hiểu để biết ai giỏi nhất. Lão chọn người lão tin. Từ sáng nay, ở tầng mười bảy chỉ còn một thứ tiền: lòng tin của một người đàn ông ba mươi hai tuổi. Ai cũng bắt đầu đi kiếm nó, đổi nó, lấy nó từ tay người khác.
+Người viết danh sách là lão. Lão không chọn người giỏi nhất, vì lão không đủ hiểu để biết ai giỏi nhất. Lão chọn người lão tin. Từ sáng nay, ở tầng mười bảy chỉ còn một thứ tiền: lòng tin của một người đàn ông ba mươi hai tuổi. Ai cũng bắt đầu đi kiếm nó, đổi nó, lấy nó từ tay người khác.
 
 Nhưng không phải ai cũng phải đếm ghế. Kỹ sư thì không. Astrea Technology chưa bao giờ đủ người biết sửa một đường ống lúc hai giờ sáng; rời dự án này thì có ba dự án khác đang chờ. Anh Bảo kéo tai nghe lên lại vì anh Bảo biết điều ấy. Người phải đếm là những người được mượn về: Hà My từ marketing, Trâm từ kinh doanh, chị Ngân từ hành chính. Hết dự án, họ không được kéo đi đâu cả. Họ được trả về, về một cái bàn đã có người khác ngồi. Và dòng cuối của email vừa nói rằng chính khối của Trâm sẽ tự cử người cho cái ghế Trâm đang ngồi.
 
@@ -84,7 +84,7 @@ Chị Ngân: một mũi tên ngắn, dày, về phía cửa phòng sếp. Chị 
 
 Hà My.
 
-Anh dừng bút ở cái chấm của Hà My lâu hơn mọi chấm khác. Tháng mười một, giữa Hà My và anh Tuấn là một đường đứt đoạn, cái đường anh không muốn đặt tên. Bây giờ anh vẽ lại đường ấy, và nó không đứt nữa. Ba tuần nay Hà My vào phòng sếp nhiều hơn bất cứ ai, cửa đóng, mỗi lần ra thì cầm theo một tập in có logo, và mỗi lần ra thì cười với cả hòn đảo một cái cười hơi dài. *Truyền thông dự án*. Chữ *truyền thông* nằm trong ngoặc đơn sáng nay. Hợp đồng mượn người của cô với khối marketing hết vào cuối tháng năm.
+Anh dừng bút ở cái chấm của Hà My lâu hơn mọi chấm khác. Tháng mười một, giữa Hà My và lão là một đường đứt đoạn, cái đường anh không muốn đặt tên. Bây giờ anh vẽ lại đường ấy, và nó không đứt nữa. Ba tuần nay Hà My vào phòng sếp nhiều hơn bất cứ ai, cửa đóng, mỗi lần ra thì cầm theo một tập in có logo, và mỗi lần ra thì cười với cả hòn đảo một cái cười hơi dài. *Truyền thông dự án*. Chữ *truyền thông* nằm trong ngoặc đơn sáng nay. Hợp đồng mượn người của cô với khối marketing hết vào cuối tháng năm.
 
 Anh nhìn tờ giấy.
 
@@ -185,21 +185,21 @@ Anh không thấy khó chịu. Anh thấy một điều khác. Khách hỏi câu
 
 Anh chưa nghĩ đến chuyện ấy có nghĩa gì với cái ghế của Trâm.
 
-Mười giờ, anh Tuấn gọi anh vào phòng. Anh đứng dậy ngay, như mọi lần, cầm theo sổ và bút, đi nhanh đến mức suýt va vào ghế của chị Ngân.
+Mười giờ, lão gọi anh vào phòng. Anh đứng dậy ngay, như mọi lần, cầm theo sổ và bút, đi nhanh đến mức suýt va vào ghế của chị Ngân.
 
-Chuyện slide. Slide số hai của bộ trình bày gửi anh Đông, cái slide anh đã sửa ngồi ở bậc thềm sân bóng tối thứ Bảy, mồ hôi nhỏ xuống màn hình. Anh Tuấn muốn thêm một biểu đồ, rồi bỏ đi, rồi muốn đổi màu chữ tiêu đề từ trắng sang trắng ngà. Hai mươi phút. Anh ngồi, gật, ghi, như mọi lần.
+Chuyện slide. Slide số hai của bộ trình bày gửi anh Đông, cái slide anh đã sửa ngồi ở bậc thềm sân bóng tối thứ Bảy, mồ hôi nhỏ xuống màn hình. Lão muốn thêm một biểu đồ, rồi bỏ đi, rồi muốn đổi màu chữ tiêu đề từ trắng sang trắng ngà. Hai mươi phút. Anh ngồi, gật, ghi, như mọi lần.
 
-Rồi anh Tuấn ngả ra sau ghế, xoay cốc cà phê. Một vòng.
+Rồi lão ngả ra sau ghế, xoay cốc cà phê. Một vòng.
 
 "Hôm review tháng trước," anh ta nói, mắt nhìn cái cốc, "anh như người chết đuối nhỉ."
 
-Anh không trả lời ngay. Anh Tuấn chưa bao giờ nhắc đến buổi review ấy bằng bất cứ chữ nào khác ngoài *buổi review thành công*.
+Anh không trả lời ngay. Lão chưa bao giờ nhắc đến buổi review ấy bằng bất cứ chữ nào khác ngoài *buổi review thành công*.
 
-"May có phao." Anh Tuấn cười, ngẩng lên, nhìn thẳng vào anh. Cái cười đúng, độ dài đúng, nhưng mắt không cười theo. Mắt đang đếm.
+"May có phao." Lão cười, ngẩng lên, nhìn thẳng vào anh. Cái cười đúng, độ dài đúng, nhưng mắt không cười theo. Mắt đang đếm.
 
 "Dạ," anh nói. "Anh Khải hỏi khó thật mà anh."
 
-"Ừ. Khó." Anh Tuấn gật, đặt cốc xuống. "Thôi em ra đi. Chữ trắng ngà nhé."
+"Ừ. Khó." Lão gật, đặt cốc xuống. "Thôi em ra đi. Chữ trắng ngà nhé."
 
 Anh đi ra. Đóng cửa. Đi qua bàn chị Ngân, chị Ngân không ngẩng lên, nhưng bàn tay chị đang cầm chuột thì dừng.
 
@@ -207,7 +207,7 @@ Anh ngồi xuống ghế. Nhìn màn hình. Không gõ gì.
 
 *Phao.*
 
-Anh Tuấn không bao giờ dùng chữ ấy. Anh Tuấn dùng chữ *hỗ trợ*, *phối hợp*, *đồng hành*, những chữ có trong slide. *Phao* là chữ của một cái bàn nhựa ở quán bún chả bà béo, mười hai giờ năm phút ngày hai mươi tháng tư. *Suýt. Xong lão quay sang tìm phao. Phao là em.*
+Lão không bao giờ dùng chữ ấy. Lão dùng chữ *hỗ trợ*, *phối hợp*, *đồng hành*, những chữ có trong slide. *Phao* là chữ của một cái bàn nhựa ở quán bún chả bà béo, mười hai giờ năm phút ngày hai mươi tháng tư. *Suýt. Xong lão quay sang tìm phao. Phao là em.*
 
 Bàn ấy có năm người. Anh, chị Hạnh, Hà My, Trâm, anh Bảo.
 
@@ -215,7 +215,7 @@ Anh không đoán. Anh đặt giả thuyết, rồi tìm cách giết nó.
 
 Giả thuyết thứ nhất, cái dễ chịu nhất: *lão tự nghĩ ra chữ ấy.* Người chết đuối thì nghĩ đến phao, ai cũng nghĩ thế.
 
-Nếu đúng thế, thì chữ *phao* phải có ở đâu đó trong bảy tháng lão nói với anh. Anh mở Teams, vào cuộc trò chuyện với anh Tuấn, gõ vào ô tìm kiếm: *phao*. Không kết quả. Mở Zalo, chỗ lão hay nhắn những thứ không muốn để trên Teams, tìm. Không kết quả. Mở hộp thư, tìm. Không kết quả. Mở thư mục biên bản họp, mười bảy tuần, tìm. Không kết quả. Bảy tháng, ba trăm mấy tin nhắn, hai mươi mấy email, mười bảy biên bản. Chữ *phao* xuất hiện đúng một lần trong đời lão: sáng nay.
+Nếu đúng thế, thì chữ *phao* phải có ở đâu đó trong bảy tháng lão nói với anh. Anh mở Teams, vào cuộc trò chuyện với lão, gõ vào ô tìm kiếm: *phao*. Không kết quả. Mở Zalo, chỗ lão hay nhắn những thứ không muốn để trên Teams, tìm. Không kết quả. Mở hộp thư, tìm. Không kết quả. Mở thư mục biên bản họp, mười bảy tuần, tìm. Không kết quả. Bảy tháng, ba trăm mấy tin nhắn, hai mươi mấy email, mười bảy biên bản. Chữ *phao* xuất hiện đúng một lần trong đời lão: sáng nay.
 
 Và nếu lão tự nghĩ ra, thì lão sẽ nói *may có em*, *may có Thuyên*. Lão không nói thế. Lão nói *may có phao*, rồi nhìn thẳng vào anh, như người thả một hòn sỏi xuống giếng rồi nghiêng tai nghe. Người ta không nhìn như thế khi nói một chữ tình cờ. Người ta nhìn như thế khi muốn biết chữ ấy có làm ai giật mình không.
 
@@ -252,7 +252,7 @@ Chị Hạnh: chị Hạnh sống bằng thông tin, nên chị biết giá củ
 
 Hà My.
 
-Hà My đập đũa vào thành bát, nhại *sự trưởng thành của mô hình* đúng đến từng chỗ ngắt hơi. Hà My nhớ nguyên văn. Hồi tháng hai, ở cái bàn ấy, cô nhại lại nguyên một câu anh Tuấn nói ở phòng riêng, cái câu *anh ăn ở đấy từ hồi còn đi học*, mà cô không có mặt ở phòng riêng. Cô có một cái tai nối thẳng vào mọi căn phòng, và một cái miệng nhớ được từng chữ. Ba tuần nay cô vào phòng sếp nhiều hơn bất cứ ai. Hợp đồng mượn người của cô hết vào cuối tháng năm. Và hôm hai mươi tháng tư, khi cả bàn đang cười, cô đổi số giọng, như người đổi số xe: *Anh Khải có hỏi gì về em không?*
+Hà My đập đũa vào thành bát, nhại *sự trưởng thành của mô hình* đúng đến từng chỗ ngắt hơi. Hà My nhớ nguyên văn. Hồi tháng hai, ở cái bàn ấy, cô nhại lại nguyên một câu lão nói ở phòng riêng, cái câu *anh ăn ở đấy từ hồi còn đi học*, mà cô không có mặt ở phòng riêng. Cô có một cái tai nối thẳng vào mọi căn phòng, và một cái miệng nhớ được từng chữ. Ba tuần nay cô vào phòng sếp nhiều hơn bất cứ ai. Hợp đồng mượn người của cô hết vào cuối tháng năm. Và hôm hai mươi tháng tư, khi cả bàn đang cười, cô đổi số giọng, như người đổi số xe: *Anh Khải có hỏi gì về em không?*
 
 Cô không hỏi để biết. Cô hỏi để đo.
 
@@ -260,7 +260,7 @@ Bốn hàng. Anh Bảo và Trâm trượt ngay ở cột thứ hai: một ngư�
 
 Ở cột thứ ba, hai người tách ra một chút. Lý do của chị Hạnh đi lên tầng mười tám, không đi vào phòng lão. Lý do của Hà My đi thẳng vào phòng lão, ba tuần nay, mỗi lần bốn mươi phút. Cán cân nghiêng về một bên.
 
-Nhưng nghiêng không phải là bằng chứng. Lý do không phải là bằng chứng. Hồi tháng hai anh đã nằm nhìn trần đến hai giờ sáng chỉ vì một giả thuyết: *Hà My và anh Tuấn ngồi chung một bàn*. Anh đã gạt nó đi: *không bao giờ có ngày ấy*.
+Nhưng nghiêng không phải là bằng chứng. Lý do không phải là bằng chứng. Hồi tháng hai anh đã nằm nhìn trần đến hai giờ sáng chỉ vì một giả thuyết: *Hà My và lão ngồi chung một bàn*. Anh đã gạt nó đi: *không bao giờ có ngày ấy*.
 
 Ngày ấy có rồi. Anh chỉ cần biết chắc nó có từ hôm nào.
 
@@ -363,15 +363,15 @@ Chủ tọa: Em thì chị biết rồi
 Chủ tọa: Ngủ đi 🤍
 :::
 
-Anh nằm xuống, điện thoại trên ngực. *Bản ghép không phải là em.* Câu ấy đúng. Câu ấy chỉ đúng với người đã nghe phiên bản thứ ba, phiên bản không có số. Với anh Tuấn, bản ghép là anh. Với bàn bún chả, bản ghép cũng là anh. Ở tầng mười bảy, không ai có phiên bản thứ ba để đặt cạnh.
+Anh nằm xuống, điện thoại trên ngực. *Bản ghép không phải là em.* Câu ấy đúng. Câu ấy chỉ đúng với người đã nghe phiên bản thứ ba, phiên bản không có số. Với lão, bản ghép là anh. Với bàn bún chả, bản ghép cũng là anh. Ở tầng mười bảy, không ai có phiên bản thứ ba để đặt cạnh.
 
 Anh ngủ lúc bốn giờ kém mười, và mơ thấy một cái bàn rất dài.
 
 ---
 
-Thứ Năm, anh Tuấn không gọi anh vào phòng.
+Thứ Năm, lão không gọi anh vào phòng.
 
-Đó là điều đầu tiên. Bảy tháng nay, sáng thứ Năm nào anh Tuấn cũng gọi anh vào phòng, vì sáng thứ Năm anh Tuấn phải gửi báo cáo tuần lên khối, và báo cáo tuần thì phải có một người đọc lại các con số. Sáng nay, mười giờ, báo cáo tuần đã được gửi. Người đọc lại là chị Ngân. Anh biết vì chị Ngân đi ngang bàn anh lúc mười giờ năm phút, tay cầm bản in có chữ ký, và nhìn anh một cái rất ngắn, như nhìn một chiếc ghế vừa bị đổi chỗ.
+Đó là điều đầu tiên. Bảy tháng nay, sáng thứ Năm nào lão cũng gọi anh vào phòng, vì sáng thứ Năm lão phải gửi báo cáo tuần lên khối, và báo cáo tuần thì phải có một người đọc lại các con số. Sáng nay, mười giờ, báo cáo tuần đã được gửi. Người đọc lại là chị Ngân. Anh biết vì chị Ngân đi ngang bàn anh lúc mười giờ năm phút, tay cầm bản in có chữ ký, và nhìn anh một cái rất ngắn, như nhìn một chiếc ghế vừa bị đổi chỗ.
 
 Điều thứ hai: email nội bộ về kế hoạch truyền thông cho buổi trình diễn tháng sáu được gửi lúc mười một giờ, người soạn là Hà My, người nhận là cả lab, và ở mục *Thông điệp kỹ thuật chính*, ba gạch đầu dòng là ba câu anh viết trong tài liệu kỹ thuật, nguyên văn, không có tên ai.
 
@@ -473,7 +473,7 @@ Anh Tuấn: Xong thì tối gửi anh bản slide cuối cho anh Đông nhé. Ch
 
 Anh nhìn hai chữ ấy rất lâu. Rồi anh đóng cuốn sách lại.
 
-Không phải sáng. Chiều. Chị Hạnh nghe *sáng*. Hà My nghe *chiều*. Và chữ *chiều* đã đi từ máy photo ở hành lang tầng mười bảy, qua một cánh cửa đóng, vào một cái tin nhắn của anh Tuấn gửi lúc hai giờ mười chiều thứ Sáu, nguyên văn, không sai một chữ. Hà My nhớ nguyên văn. Đấy là thứ làm nên cô, và đấy cũng là thứ vừa chỉ ra cô.
+Không phải sáng. Chiều. Chị Hạnh nghe *sáng*. Hà My nghe *chiều*. Và chữ *chiều* đã đi từ máy photo ở hành lang tầng mười bảy, qua một cánh cửa đóng, vào một cái tin nhắn của lão gửi lúc hai giờ mười chiều thứ Sáu, nguyên văn, không sai một chữ. Hà My nhớ nguyên văn. Đấy là thứ làm nên cô, và đấy cũng là thứ vừa chỉ ra cô.
 
 Rồi anh tự cãi lại mình, như một người phản biện ngồi ở bàn hội đồng. Sáng hay chiều, hai khả năng. Lão đoán bừa thì cũng trúng một nửa. Một phép thử năm mươi – năm mươi thì chưa đủ để kết tội ai.
 
@@ -507,7 +507,7 @@ Kiên: đoạn này e viết a k đọc được. đợi e về
 
 Bốn giờ hai mươi, trên kênh Teams của lab, chị Phương hỏi *Thuyên đâu mọi người*. Hai người thả tim vào câu hỏi, không ai trả lời. Anh Bảo không nhắn gì. Anh biết anh Bảo đang nhìn đúng cái log ấy, và biết anh Bảo sẽ không chạm vào.
 
-Bốn giờ năm mươi, anh Tuấn nhắn lần thứ ba.
+Bốn giờ năm mươi, lão nhắn lần thứ ba.
 
 :::chat
 Anh Tuấn: Ô lỗi kia tối nay e xem được k

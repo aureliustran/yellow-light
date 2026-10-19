@@ -253,6 +253,8 @@ Nhóm anh sử dụng ngôn ngữ lập trình Go. Ngày đầu mở trang tài 
 
 Tháng đầu, con hải ly hành anh đến hai giờ sáng. Đến tháng thứ ba, anh là người bị gọi dậy mỗi khi có một service im lặng giữa đêm. Hình nền thì anh vẫn để. Ba giờ sáng nhìn cái mặt ngố ấy, anh không biết nên thương nó hay ghét nó.
 
+Trong tủ lạnh pantry, cạnh mấy hộp cà phê ủ lạnh, có một chai Jägermeister, cái chai xanh lá đậm như vỏ chai thuốc, nhãn có đầu con hươu. Quy tắc bất thành văn của nhóm: sau mười hai giờ đêm, ai còn ngồi với con hải ly thì được rót một chén nhỏ, pha vào coldbrew hoặc Pepsi không calo, *cho tỉnh, cho ấm, cho đỡ ghét Go*. Anh không thích rượu. Nhưng cái vị cam thảo với hồi ấy, pha loãng, ra đúng vị thuốc ho ngọt hồi bé, và anh uống được. Đến tháng thứ ba, chai nào trong tủ cũng có một phần là của anh.
+
 Sáng nào cũng có cuộc họp đứng mười lăm phút. Mỗi người nói hôm qua làm gì, hôm nay làm gì, đang bị kẹt ở đâu. Đến tháng thứ hai thì anh nhận ra, sau mỗi cuộc họp, đã có hai ba người nhắn riêng hỏi anh về chỗ họ đang kẹt. Đến tháng thứ tư, quản lý của anh, một người Singapore nói tiếng Anh nhanh như súng liên thanh, bảo anh trong buổi đánh giá:
 
 _"[[en: You're the guy everyone goes to. I don't know how you do it. || Cậu là người ai cũng tìm đến. Tôi chẳng hiểu cậu làm thế nào.]]"_

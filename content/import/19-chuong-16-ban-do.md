@@ -372,11 +372,11 @@ Thuyên cười. Lần này cười thật.
 
 *Ting.* Tầng mười bảy.
 
-"Làm tốt nhé," Khải nói, nhích người cho anh ra. "Khi nào máy cà phê tầng anh sửa xong thì lên uống. Anh mời."
+"Làm tốt nhé," anh Khải nói, nhích người cho anh ra. "Khi nào máy cà phê tầng anh sửa xong thì lên uống. Anh mời."
 
 "Dạ. Em cảm ơn anh ạ."
 
-Trong khe cửa khép dần, anh thấy Khải đang nghe chuyện đẩy ngực, gật đầu rất chăm chú, như thể chín mươi cân là con số quan trọng nhất sáng nay.
+Trong khe cửa khép dần, anh thấy anh Khải đang nghe chuyện đẩy ngực, gật đầu rất chăm chú, như thể chín mươi cân là con số quan trọng nhất sáng nay.
 
 Sếp lớn tử tế, Thuyên nghĩ. Nhớ cả bánh mì nướng than, hỏi chuyện một đứa part-time chỉ để hỏi. Tòa nhà ba mươi hai tầng thì cũng phải có vài người như thế.
 
