@@ -98,6 +98,59 @@ Thuyên quy tiền ra **bún riêu** [nguyên liệu: bản cũ ch.17, ch.30].
   - Quán ấy thành "căn cứ". Mỗi lần ngồi dưới máy điều hòa, cô liếc lên tờ sticker.
   - Tối 16/7 là khoảng chín tháng sau buổi 1: "bảo hành mười tám tháng" thành một câu đau, Nhi nói hoặc nghĩ. Hoặc để dành đến Phần Lan.
 
+## 5d. Dịu dàng không thừa nhận: kho hành động
+
+Luật viết nằm ở `01-rules-viet.md`, mục "Dịu dàng không thừa nhận". Kho dưới đây dùng dần; mỗi cử chỉ đi kèm một câu độc miệng che lại.
+
+### Ăn uống, sức khỏe
+- **Học sinh nộp bài lúc khuya → anh tự đặt ship đồ ăn đến nhà cô.**
+  - Cô chưa nói đói. Anh biết giờ cô nộp bài là giờ cô bỏ bữa.
+  - Tin nhắn: "ăn đi rồi chữa."
+  - Thứ có giá trị với cô không phải tiền mà là việc anh biết giờ. Anh vẫn nhẩm ra bún riêu.
+- Gọi sẵn đồ uống trước khi cô đến quán học: đúng món, đúng lượng đá. Trời lạnh thì tự đổi sang đồ nóng.
+- Để dành quả dâu trên bánh cho cô (gọi lại quả dâu ở ch.13): "anh không ăn dâu."
+- Buổi học câm sau đêm mưa: trên bàn đã có kẹo ngậm và một cốc trà gừng, không ai nhắc.
+- Đêm trước thi thử: "ngủ đi. đề mai anh đoán rồi, không có gì mới."
+
+### Thời tiết, đi đường
+- Đi bộ thì luôn đứng phía ngoài lòng đường, đổi bên khi qua đường mà không nói.
+- Ô nghiêng về phía cô, vai mình ướt (A3). Khoác áo bomber cho cô trong đêm lạnh.
+- Chỉnh quai mũ tai mèo cho cô: "cài thế này rơi đầu thì mất học phí."
+- Sau vụ Vespa chết máy: thứ Hai nào cũng nhắn "đổ xăng chưa", giả vờ là nhắc lịch học.
+- Mang sạc dự phòng ở ngoại khóa chụp ảnh, vì biết máy cô hay hết pin.
+- Những tối về muộn: chạy xe sau Vespa của cô đến đầu ngõ rồi rẽ. Cô không biết; hội đồng ngồi trong xe đi sau thì thấy.
+
+### Học
+- **Tôn trọng câu "Đừng khen em":** anh thôi khen bằng lời, chuyển sang đánh một ngôi sao nhỏ ở lề, không chữ, cạnh câu hay. Cô phát hiện ra sau vài tuần.
+- Chấm bài bằng mực tím, theo đúng quy ước của cô, không phải của anh.
+- Chấm lúc 2 giờ sáng nhưng hẹn giờ gửi lúc 7 giờ, vì biết cô sẽ thức chờ.
+- Soạn đề đúng chỗ yếu cũ của cô. In đề trên giấy hồng: "hết giấy trắng."
+- Ở ngoại khóa: lén chuẩn bị danh sách từ vựng cho từng buổi, để quên trong túi áo cô.
+
+### Để ý chi tiết
+- Cô kể lặt vặt một bộ phim muốn xem. Hai tuần sau, ngoại khóa ở mall có vé đúng phim ấy. "Tiện có vé."
+- Thấy cô xoa tay vì điều hòa (dưới tấm sticker *18 MONTH WARRANTY*), anh đổi chỗ với cô: "chỗ này nhìn bảng rõ hơn."
+- Kính trượt khỏi mũi cô thì anh đẩy giấy về phía cô, để cô khỏi phải cúi.
+- Ngoại khóa chụp ảnh: chụp cô ở góc đẹp, gửi đúng ba tấm đẹp nhất, xóa những tấm xấu trước khi cô kịp thấy.
+
+### Che chở trước người khác
+- **Anh chê cô được, người khác thì không.** Ở sân pickup, một người lạ cười cú ném của cô. Anh vẫn ít nói, nhưng pha sau anh cô lập đúng người ấy.
+- Ai nhắc đến gia thế của cô (Phong, hội đồng, người ở sân), anh lái câu chuyện đi.
+  - Trớ trêu: ở cảnh "thầy thì nghèo quá", chính anh phạm luật này.
+- Đêm nhậu: ngồi lại đến khi hội đồng đến, áo trên vai cô, ghế kéo ra một khoảng.
+
+### Khi cô dỗi, buồn
+- Giọng đổi: "kid" mềm đi, câu ngắn, không đùa.
+- Không hỏi vì sao (gương của Nhi khi thấy anh ủ rũ). Anh đẩy hộp giấy ăn sang, rồi ngồi im.
+- Để cô đấm, lần này đưa vai ra trước.
+- Kéo đi ăn kem (Mixue), hoặc chạy đi mua đúng món cô hay ăn khi buồn.
+- Sau cảnh "thầy thì nghèo quá", cô không đấm. Tối đó anh nhắn một tin không có câu đùa nào, lần đầu tiên.
+
+### Câu độc miệng đi kèm (mẫu)
+- "Ăn đi rồi chữa. Đói thì viết như người say."
+- "Che ô cho học phí, không phải cho em."
+- "Ngồi chỗ anh đi, chỗ này lạnh, anh cần bộ não tỉnh."
+
 ---
 
 ## 6. Lịch gặp: gấp đôi bản cũ

@@ -95,6 +95,20 @@ Thuyên đọc từng người và đổi giọng theo họ. Ba lớp giọng t�
 - **Ở chỗ làm (Phần 1):** mỗi người một giọng. Ngọt với sếp, sắc và hùa theo với đồng nghiệp.
 - **Khi vụng về việc nhỏ:** tự giễu, đùa cho qua ("kệ thừa ốc là do nhà sản xuất hào phóng").
 
+### Dịu dàng không thừa nhận (với Nhi, v2, chốt 19/10)
+
+Kho hành động cụ thể nằm ở `docs/brief-tinh-cam-thuyen-nhi.md`, mục 5d.
+
+- **Độc miệng là mặc định, dịu dàng là hành động.** Anh chê, cợt nhả, nói móc; sự chăm sóc nằm ở việc tay anh làm, không nằm ở lời.
+- **Không bao giờ gọi tên việc mình làm.** Mỗi cử chỉ đi kèm một câu che: "tiện tay", "tiện đường", "thừa", "đặt nhầm", hoặc một câu độc miệng ("Ăn đi rồi chữa. Đói thì viết như người say.").
+- **Giọng chỉ đổi khi cô dỗi hoặc buồn:** câu ngắn lại, chữ "kid" mềm đi, không đùa. Hết dỗi là độc miệng lại ngay.
+- **Đọc trước nhu cầu:** dùng kỹ năng đọc người theo chiều ngược với ở lab. Anh làm trước khi cô kịp nói, nên phần lớn cô không thấy.
+- **Ai thấy:** phần lớn là hội đồng, Vũ, Linh và người đọc. Nhi thấy ít hơn họ. Người kể POV Thuyên chỉ tả hành động, không giải thích động cơ (phần cần giấu: cảm xúc của Thuyên với Nhi).
+- **Tỉ lệ:** khoảng bốn phần độc miệng, một phần dịu dàng.
+- **Anh chê cô được, người khác thì không.** Trước người lạ, anh che chở cô bằng hành động, không bằng lời.
+- **Gương với Diệp Anh:** với Diệp Anh, sự chu đáo của anh đúng chuẩn, hợp lý (đặt xe vì an toàn, đúng giờ). Với Nhi, nó là đọc trước rồi giấu đi.
+- **Biến chất (giai đoạn 2):** khi anh bắt đầu tính toán, cử chỉ thành có chủ đích, câu đùa thưa dần. Nhi cảm được trước tiên.
+
 ## Nhịp kể
 
 Hồi tưởng và nghĩ về tương lai được phép đi nhanh. Mạch kể hiện tại thì không bao giờ được rush.
