@@ -310,8 +310,8 @@ Luật viết nằm ở `01-rules-viet.md`, mục "Dịu dàng không thừa nh�
   8. Cô kéo anh sát xuống, muốn anh ôm chặt hơn. Anh ôm cô, cằm tựa lên đỉnh đầu cô; tay anh chỉ đặt ở tóc và lưng cô.
 - **Thuyên ở nấc 4:**
   - **Kiểm soát, không cắt phăng.** Anh vẫn cảm nhận trọn vẹn cơ thể cô: sức nặng, hơi ấm, độ mềm, hơi thở, chỗ da lún dưới tay. Anh để cảm giác ấy ở yên, không đẩy nó đi xa hơn, và vẫn dịu dàng.
-  - Sự kiềm chế nằm ở việc tay anh làm gì và không làm gì (tay chỉ ở eo, tóc, lưng; không siết, không dời đi), không nằm ở việc chặt đứt câu. Không có ý nghĩ tình dục hướng vào cô lúc cô say.
-  - Phần cô chủ động và phần dịu dàng của anh được tả đầy đủ. Cô càng bạo, anh càng chậm và càng nhẹ tay.
+  - Sự kiềm chế nằm ở việc tay anh làm gì và không làm gì (tay chỉ ở eo, tóc, lưng, không dời đi chỗ khác), không nằm ở việc chặt đứt câu. Không có ý nghĩ tình dục hướng vào cô lúc cô say.
+  - Phần cô chủ động và phần dịu dàng của anh được tả đầy đủ. **Anh siết, tỉ lệ thuận với độ bạo của Nhi:** cô tựa vai thì tay anh chỉ đặt hờ; cô kéo tay anh qua eo thì tay anh giữ lại; cô sụp vào ngực thì anh ôm; cô ôm cổ, kéo anh sát xuống thì anh siết chặt. Siết mà vẫn chậm.
   - Ham muốn lãng mạn được đi hết câu: muốn hôn lên tóc cô, muốn giữ cô đến sáng, muốn nghe cô nói lại câu kia lúc tỉnh.
   - Rượu làm khoảng cách tự chủ mỏng đi, vậy mà tay anh không đi xa hơn.
 - **Chữ "bé":** lần đổi cách gọi duy nhất của Thuyên với Nhi ở Phần 1 (luật mỗi người đổi xưng hô một lần). Đề xuất để dành lần gọi lại đến Phần Lan. Ở bản cũ, "bé" là chữ Diệp Anh gọi anh; ở v2, anh gọi Nhi như thế, ba tháng sau khi từ chối Diệp Anh.
