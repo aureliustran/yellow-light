@@ -303,10 +303,10 @@ Luật viết nằm ở `01-rules-viet.md`, mục "Dịu dàng không thừa nh�
   - **Nhịp dỗ:** cô khóc nấc một câu, anh dỗ một câu. Thoại dỗ là của cảnh, viết theo từng câu cô nói; "Anh xin lỗi bé nha…" chỉ là một ví dụ, không phải câu duy nhất.
   - Trong đêm này anh gọi "bé" bao nhiêu lần cũng được, theo nhịp dỗ.
 - **Trong cảnh này, thứ tăng dần là độ bạo trong hành động của Nhi.** Mỗi bước bạo hơn bước trước. Suy nghĩ của Thuyên đứng yên ở nấc 4 của thang toàn truyện (mục 5e), viết bằng sự kiểm soát từ đầu đến cuối cảnh.
-  1. Cô tựa đầu vào vai anh.
-  2. Trán cô dụi vào bả vai anh; tay cô nắm vạt áo anh, vò lại.
-  3. Lời tỏ tình, rồi cô khóc. Anh lau nước mắt cho cô bằng ngón cái; má cô lún dưới ngón tay anh.
-  4. Cô kéo tay anh vòng qua eo mình, giữ lại bằng cả hai tay.
+  1. Cô tựa đầu vào vai anh; trán dụi vào bả vai anh.
+  2. "Em thích anh." Rồi nói tiếp không dừng: "Anh đáng ghét lắm, anh biết không. Anh cứ đẩy em sang chỗ người ta…"
+  3. Nói xong, cô vòng tay ôm eo anh và siết luôn.
+  4. Cô khóc. Anh lau nước mắt cho cô bằng ngón cái; má cô lún dưới ngón tay anh. Cô kéo tay anh vòng qua eo mình, giữ lại bằng cả hai tay.
   5. Một bên đùi cô gác lên đùi anh.
   6. Đầu cô sụp vào ngực anh, nằm im, chờ anh xoa đầu. Anh xoa, vỗ về, dỗ theo từng câu cô nấc ra.
   7. Cô vòng tay ôm cổ anh, dụi mặt vào hõm cổ anh, thở vào đấy.
