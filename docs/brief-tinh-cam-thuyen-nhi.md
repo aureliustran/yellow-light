@@ -161,7 +161,7 @@ Luật viết nằm ở `01-rules-viet.md`, mục "Dịu dàng không thừa nh�
 | 3 | Biết mình thích, cố giấu | Ý nghĩ đi trọn câu về chạm: eo, hông, đùi; cơ thể anh phản ứng rõ |
 | 4 (tối đa) | Thích đến mức không giấu được | Ý nghĩ ham muốn đi hết câu, dừng lâu, chi tiết thân mật nhất rules cho phép; dừng ở ngưỡng hành vi |
 
-**Đặt vào timeline:** buổi 1 nấc 1 → ngoại khóa chụp ảnh, mưa nấc 2 → arcade, đêm trốn nhà nấc 2–3 → tháng 1–3 (Nhi mập mờ từ phía cô) nấc 3 → đêm say cuối giai đoạn 1 nấc 4, viết bằng sự kiềm chế → giai đoạn 2 nấc 4 tối đa ở các cảnh tỉnh, cả hai chiều.
+**Đặt vào timeline:** buổi 1 nấc 1 → ngoại khóa chụp ảnh, mưa nấc 2 → arcade, đêm trốn nhà nấc 2–3 → tháng 1–3 (Nhi mập mờ từ phía cô) nấc 3 → đêm say cuối giai đoạn 1 nấc 4, viết bằng sự kiểm soát (không cắt phăng) → giai đoạn 2 nấc 4 tối đa ở các cảnh tỉnh, cả hai chiều.
 
 **Cách viết** (theo *3107*): giác quan cụ thể kể cả vị và nhiệt; phản ứng lan trên da; đo bằng đơn vị rất nhỏ (một phân, hai đốt ngón tay, năm giây); ẩn dụ từ chữ và giấy; câu ngắn đứng riêng một dòng để dừng nhịp; một vật làm trật tự giữa lúc rối (tấm sticker, cốc đá, đống xu). Giới hạn và cách viết cảnh thân mật theo `01-rules-viet.md`, mục "Cảnh nóng và fan service".
 
@@ -299,7 +299,7 @@ Luật viết nằm ở `01-rules-viet.md`, mục "Dịu dàng không thừa nh�
   >
   > Rồi nói tiếp không dừng: "Anh đáng ghét lắm, anh biết không. Anh cứ đẩy em sang chỗ người ta…"
 - **Sau đó Thuyên mới dỗ:** siêu dịu dàng, gọi cô là **"bé…"**: "Anh xin lỗi bé nha…"
-- **Trong cảnh này, thứ tăng dần là độ bạo trong hành động của Nhi.** Mỗi bước bạo hơn bước trước. Suy nghĩ của Thuyên đứng yên ở nấc 4 của thang toàn truyện (mục 5e), viết bằng sự kiềm chế từ đầu đến cuối cảnh.
+- **Trong cảnh này, thứ tăng dần là độ bạo trong hành động của Nhi.** Mỗi bước bạo hơn bước trước. Suy nghĩ của Thuyên đứng yên ở nấc 4 của thang toàn truyện (mục 5e), viết bằng sự kiểm soát từ đầu đến cuối cảnh.
   1. Cô tựa đầu vào vai anh.
   2. Trán cô dụi vào bả vai anh; tay cô nắm vạt áo anh, vò lại.
   3. Lời tỏ tình, rồi cô khóc. Anh lau nước mắt cho cô bằng ngón cái; má cô lún dưới ngón tay anh.
@@ -307,10 +307,12 @@ Luật viết nằm ở `01-rules-viet.md`, mục "Dịu dàng không thừa nh�
   5. Một bên đùi cô gác lên đùi anh.
   6. Đầu cô sụp vào ngực anh, nằm im, chờ anh xoa đầu. Anh xoa. "Anh xin lỗi bé nha…"
   7. Cô vòng tay ôm cổ anh, dụi mặt vào hõm cổ anh, thở vào đấy.
-  8. Cô kéo anh sát xuống, muốn anh ôm chặt hơn. Anh ôm cô, cằm tựa lên đỉnh đầu cô, và tay anh vẫn chỉ đặt ở tóc và lưng cô.
+  8. Cô kéo anh sát xuống, muốn anh ôm chặt hơn. Anh ôm cô, cằm tựa lên đỉnh đầu cô; tay anh chỉ đặt ở tóc và lưng cô.
 - **Thuyên ở nấc 4:**
-  - Phần cô chủ động và phần dịu dàng của anh được tả đầy đủ.
-  - Mọi ý nghĩ của anh bị cắt ngay chữ đầu, ngược với F8 kéo dài ở các cảnh tỉnh. Cô càng bạo thì anh phải cắt càng gắt.
+  - **Kiểm soát, không cắt phăng.** Anh vẫn cảm nhận trọn vẹn cơ thể cô: sức nặng, hơi ấm, độ mềm, hơi thở, chỗ da lún dưới tay. Anh để cảm giác ấy ở yên, không đẩy nó đi xa hơn, và vẫn dịu dàng.
+  - Sự kiềm chế nằm ở việc tay anh làm gì và không làm gì (tay chỉ ở eo, tóc, lưng; không siết, không dời đi), không nằm ở việc chặt đứt câu. Không có ý nghĩ tình dục hướng vào cô lúc cô say.
+  - Phần cô chủ động và phần dịu dàng của anh được tả đầy đủ. Cô càng bạo, anh càng chậm và càng nhẹ tay.
+  - Ham muốn lãng mạn được đi hết câu: muốn hôn lên tóc cô, muốn giữ cô đến sáng, muốn nghe cô nói lại câu kia lúc tỉnh.
   - Rượu làm khoảng cách tự chủ mỏng đi, vậy mà tay anh không đi xa hơn.
 - **Chữ "bé":** lần đổi cách gọi duy nhất của Thuyên với Nhi ở Phần 1 (luật mỗi người đổi xưng hô một lần). Đề xuất để dành lần gọi lại đến Phần Lan. Ở bản cũ, "bé" là chữ Diệp Anh gọi anh; ở v2, anh gọi Nhi như thế, ba tháng sau khi từ chối Diệp Anh.
 - **Hội đồng đến quán**, gọi "*[tên ở nhà]* ơi". Thuyên biết biệt danh ở đây.
