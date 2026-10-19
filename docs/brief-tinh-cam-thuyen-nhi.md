@@ -30,6 +30,22 @@ Bản brief trước gom nhịp theo ngày, nên một buổi học chứa nhữ
 - **Thuyên ở ngoại khóa là thoải mái nhất** (mục 5): cợt nhả, không tính. Đây là chỗ cử chỉ dịu dàng không thừa nhận rơi ra nhiều nhất.
 - **Khán giả:** hội đồng chen vào bằng kế hoạch "tình cờ" và thường phản tác dụng (kho: "Kế hoạch hội đồng phản tác dụng"). Phong được hội đồng sắp đặt cho có mặt. Vũ là người Thuyên kể lại sau.
 
+## 2b. Ngoại khóa là cách Thuyên tự học từ nhỏ
+
+- Thuyên học tiếng Anh bằng chính thứ mình thích, không bằng giáo trình [nguyên liệu: ch.2 và ch.4 cũ, bible cũ mục "Nền tiếng Anh"]:
+  - Video vũ trụ tiếng Anh, phụ đề tự động, Google Dịch, trên cái máy tính bố mẹ mua "để học tiếng Anh online".
+  - Video phân tích bóng rổ bật tốc độ 0.75, tua đi tua lại.
+  - Tài liệu lập trình.
+- Vì vậy ngoại khóa không chỉ là cái cớ của Nhi. **Nó đúng phương pháp của anh**: học bằng trải nghiệm thật.
+- **Cách lộ ra:**
+  - Ở hiệp phụ buổi 1, Nhi hỏi anh học từ đâu. Anh trả lời nửa đùa: "Từ mấy ông già đứng giữa sa mạc chỉ lên trời."
+  - Đến ngoại khóa số 1, anh mới nói thật: học bằng thứ mình thích thì không quên.
+  - Từ đó, cô đặt tên cho các buổi ngoại khóa. Anh thì lén biến chúng thành giáo trình: mỗi buổi chuẩn bị sẵn một danh sách từ vựng, không cho cô biết.
+- **Lớp ngầm:**
+  - Đó là cách học của một đứa trẻ không ai dạy. Nhi đang trả tiền, gấp đôi, để học cách ấy.
+  - Marin: cô trân trọng đúng cái đam mê "vô dụng" (vũ trụ) đã dạy anh tiếng Anh. Đó là cái mà bố anh từng vứt.
+- **Số buổi học và ngoại khóa không giới hạn.** Chỉ cần mỗi buổi có một chiến trường hoặc một trải nghiệm riêng, và đổi quan hệ đi một nấc.
+
 ## 3. Nhi v2: phản kháng làm cỗ máy
 
 - **Cãi là mặc định.** Thuyên chê, Nhi cãi, có lúc thắng (F6).
@@ -60,28 +76,34 @@ Thuyên quy tiền ra **bún riêu** [nguyên liệu: bản cũ ch.17, ch.30].
 
 ## 6. Giai đoạn 1 (lịch 2024–2025)
 
-Có **5 buổi học** và **3 hoạt động ngoại khóa**. Ngày buổi học bám theo thứ Năm từ buổi 2. Buổi 1 rơi vào Chủ nhật, theo bản cũ.
+Bản khung: **4 buổi học** và **3 hoạt động ngoại khóa**; số buổi không giới hạn, thêm buổi khi có chiến trường mới. Từ buổi 2, buổi học bám theo thứ Năm; buổi 1 rơi vào Chủ nhật, theo bản cũ.
 
-### Buổi 1 – Đường thẳng (CN 27/10/2024). Chiến trường: Speaking Part 2
-- **Nguyên liệu:** ch.13 cũ, gần như giữ nguyên, vì các nhịp ở đây vốn đã đánh trên cùng một chiến trường.
+### Buổi 1 – Đường thẳng (CN 27/10/2024). Chiến trường: Speaking Part 2 và phát âm
+Gộp buổi học đầu (ch.13 cũ) với nhịp chữ *kid* (*Xanh chàm* cũ). Hai nhịp đánh trên cùng một chiến trường, vì chữ *kid* bật ra ngay lúc anh gạch ý thừa của cô.
+
 - **Nhịp:**
   - Dạy từ bản chất: chấm → vì sao → ví dụ, nối với pattern ở bản lề. Lần đầu cách nghĩ của Thuyên được dùng **lên một người**, và Nhi gọi tên nó: "Anh cũng vẽ người như thế à?"
-  - *Kid* lần đầu ("Kid nhảy cóc. Người lớn đi đường thẳng" / "Mười ba").
-  - Tập âm *th*, nhìn môi.
+  - *Kid* lần đầu: "Kid nhảy cóc. Người lớn đi đường thẳng." Rồi đến "Mười ba".
+  - **Cãi chữ *kid*, ngay trong buổi:**
+    - T: "Đúng là kid."
+    - N: "Kid?"
+    - T: "Yes, you are a kid. Kiddo?"
+    - N: "Anh hơn em có một tuổi. Anh hơn kid một tuổi thì anh cũng là kid."
+    - T: "Thực ra…" Anh cười đắc ý, rồi chụm tay lại, nghiêm túc đến mức buồn cười, và giải thích nguồn gốc của chữ *kid*.
+    - **Nội dung giải thích (cần tra lại trước khi viết):**
+      - Nghĩa gốc của *kid* là dê con.
+      - Nghĩa "trẻ con" là tiếng lóng có về sau.
+      - Động từ *kid* nghĩa là trêu.
+    - Nhi rút ra đúng điều anh không muốn: "Thế anh gọi em là dê." Hoặc: "Thế là anh đang trêu em." Rồi đấm.
+    - Nhịp này đúng ý mục 5: anh đang thoải mái, nên cợt nhả và khoe chữ.
+    - Câu trả lời thật cho việc vì sao anh gọi cô là *kid* vẫn để dành đến Phần Lan. Tầng nhi = 兒 bỏ, hoặc để Nhi tự biết trong một interlude.
+  - Tập âm *th*, nhìn môi. Âm /ɪ/ của *kid* có thể dạy nối luôn sau âm *th*: cô bắt anh đọc chính chữ ấy.
   - "Em không ngồi ngắm anh đâu."
   - Câu "Em thích giọng anh á?" bị nuốt.
   - Giá học thử như lời thách.
-- **Phản kháng:** gạch chữ *đèn vàng* rách giấy, rồi cú đấm đầu tiên.
-- **Hệ quả cho buổi sau:** Nhi bắt đầu gạch vạch đếm số lần bị gọi là "kid" ở lề sổ hồng.
-- **Hiệp phụ:** không có.
-
-### Buổi 2 – Chữ *kid* (T5 7/11). Chiến trường: phát âm
-- Nhi giở trang vạch đếm: bảy vạch trong một tuần. Cô đòi anh dạy cô đọc chính chữ ấy cho đúng, như một cái bẫy.
-- Âm /ɪ/: anh viết *kid*, gạch chân. Cô hỏi: "Anh gọi em là kid từ ngày đầu. Giờ anh dạy em đọc chữ kid?"
-- Anh đưa câu trả lời khôn: nhi = 兒. Cô biết chữ ấy từ lâu, và biết anh không gọi cô vì thế. Câu trả lời thật để dành đến Phần Lan.
-- **Phản kháng:** cô bắt anh đọc lại âm của chính anh, và bắt lỗi anh được một lần. Anh nhận.
-- **Hệ quả:** quy ước mực tím ghi lỗi, xanh cổ vịt ghi khung [nguyên liệu: *Xanh cổ vịt*].
-- **Hiệp phụ:** có, thành ngoại khóa số 1.
+- **Phản kháng:** gạch chữ *đèn vàng* rách giấy; cú đấm đầu tiên rơi vào đoạn *kid*.
+- **Hệ quả cho buổi sau:** Nhi gạch vạch đếm số lần bị gọi là "kid" ở lề sổ hồng. Quy ước mực tím ghi lỗi, xanh cổ vịt ghi khung [nguyên liệu: *Xanh cổ vịt*].
+- **Hiệp phụ:** có. Đây là mầm của ngoại khóa (mục 2b): cô hỏi anh học tiếng Anh từ đâu mà nói được như thế.
 
 ### Ngoại khóa số 1 – Chụp ảnh (CN 10/11 hoặc cuối tháng 11). Cớ: *describe a photograph*
 - **Bối cảnh:** bãi đá sông Hồng mùa cúc họa mi, khoảng cuối tháng 11 đến đầu tháng 12 (cần tra lại mùa năm 2024). Hoặc phố cũ, nếu muốn sớm hơn.
@@ -94,7 +116,7 @@ Có **5 buổi học** và **3 hoạt động ngoại khóa**. Ngày buổi họ
 - **Nấc thay đổi:** có một tấm ảnh cô không biết là anh chụp.
 - **Thuyên:** cợt nhả suốt buổi; quy cuộn phim ra bún riêu.
 
-### Buổi 3 – Đừng khen em (T4 20/11, ngày Nhà giáo). Chiến trường: Writing Task 2
+### Buổi 2 – Đừng khen em (T4 20/11, ngày Nhà giáo). Chiến trường: Writing Task 2
 - Mở bằng quà 20/11: hồng, quá tay, rất sang (cô không nhìn giá). Anh nhìn logo là nhẩm ra bún riêu, rồi chê bao bì để khỏi phải nói con số.
 - Cả buổi là bài essay bị gạch đỏ. Cô cãi từng chỗ, thắng hai chỗ.
 - Anh khen đúng một câu → "Đừng khen em." → "Anh đáng ghét." → đấm.
@@ -103,7 +125,7 @@ Có **5 buổi học** và **3 hoạt động ngoại khóa**. Ngày buổi họ
   - Câu "Anh nhận ngay, giả vờ ngại đúng một giây" giữ nguyên.
 - **Hiệp phụ:** không có. Anh có hẹn với Diệp Anh. Cô không hỏi.
 
-### Buổi 4 – Đồng nghiệp khó chịu (T5 28/11). Chiến trường: Speaking Part 3, chit chat
+### Buổi 3 – Đồng nghiệp khó chịu (T5 28/11). Chiến trường: Speaking Part 3, chit chat
 - **Đề:** *describe a difficult person you work or study with*. Cô bắt anh trả lời trước, "làm mẫu".
 - Anh kể chuyện lab bằng giọng cợt nhả, nhắc tên Thảo. Nhi nghe ra cái tên, và trục Thảo của cô mở ra (mục tiêu riêng không xoay quanh Thuyên).
 - Lần đầu cô thấy anh nghiêm túc khi nói về việc (kho: "Nhìn người kia làm việc nghiêm túc", E1).
@@ -131,7 +153,7 @@ Có **5 buổi học** và **3 hoạt động ngoại khóa**. Ngày buổi họ
   - Kế hoạch phản tác dụng; An Nhiên ghi sổ.
 - **Nấc thay đổi:** trên đường ra bãi xe, cô bảo bài review của anh "vô cảm". Anh nói đúng một câu thật về bộ phim, rồi cợt nhả lại ngay.
 
-### Buổi 5 – Buổi học bốn người (T5 12/12). Chiến trường: thi thử Speaking có khán giả
+### Buổi 4 – Buổi học bốn người (T5 12/12). Chiến trường: thi thử Speaking có khán giả
 - Cả hội đồng dắt Phong đến đúng giờ học. Anh kê thêm ghế và biến buổi phá đám thành **buổi thi thử**: chấm cả Châu, Ngọc, An Nhiên, Phong.
   - Đòn mẫu của hội đồng (thẻ hội đồng, mục 5) chạy trên chiến trường này: An Nhiên đố rượu vang, anh hỏi ngược về bóng rổ.
 - Nhi cãi gấp đôi vì có khán giả.
@@ -180,7 +202,7 @@ Ngoại khóa ở giai đoạn 2 thưa dần, đi cùng việc Thuyên bắt đ�
 ## 9. Cân giữa Nhi và Diệp Anh ở giai đoạn 1
 
 - Đỉnh fan service với Diệp Anh (đụng chạm, gợi dục, đồng minh) nằm ở giai đoạn 1, trước khi Thuyên – Nhi mập mờ.
-- Các cảnh Diệp Anh đặt ở khoảng trống giữa các buổi học: buổi 3 (hiệp phụ "không có" vì anh có hẹn với cô), ngoại khóa số 3 (tin nhắn của cô).
+- Các cảnh Diệp Anh đặt ở khoảng trống giữa các buổi học: buổi 2 (hiệp phụ "không có" vì anh có hẹn với cô), ngoại khóa số 3 (tin nhắn của cô).
 - Gương:
   - Diệp Anh đọc anh rồi bàn nước tiếp; Nhi không đọc, chỉ kéo đi.
   - Diệp Anh chạm có chủ đích; Nhi đấm.
@@ -190,7 +212,7 @@ Ngoại khóa ở giai đoạn 2 thưa dần, đi cùng việc Thuyên bắt đ�
 
 1. **Bản lề ở bản mới** là chương nào, câu then chốt nào? Repo chưa có `danh-sach-chuong-mo-dau.md`.
 2. Đề boyfriend làm bản lề đầu giai đoạn 2: duyệt không? Sổ quyết định đang dùng *Hồng cánh sen* làm nền cho niềm tin "Nhi không thích mình".
-3. Năm buổi học và ba ngoại khóa ở giai đoạn 1: thừa hay thiếu?
+3. Thêm buổi nào cho giai đoạn 1? Số buổi không giới hạn; khung hiện có 4 buổi học và 3 ngoại khóa.
 4. Đi mưa đặt sau Tết vì mùa mưa phùn: được không, hay anh muốn một cơn mưa rào cuối thu?
 5. Phong thanh mai trúc mã kiêm cùng nhóm RMIT: duyệt không? Phong có biết danh sách mai mối không?
 6. Tần suất đấm: đề xuất mỗi buổi tối đa một lần, và không đấm trước mặt người lạ.
