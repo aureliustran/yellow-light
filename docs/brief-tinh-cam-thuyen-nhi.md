@@ -76,12 +76,12 @@ Thuyên quy tiền ra **bún riêu** [nguyên liệu: bản cũ ch.17, ch.30].
 ## 5b. Biệt danh của Nhi
 
 - Con nhà giàu thường có tên ở nhà. Nhi có một cái, do bố mẹ đặt từ bé. Người nhà, cô giúp việc và hội đồng (khi muốn trêu) gọi cô bằng tên đó.
-- **Tên: chưa chốt.** Các phương án đang có: Đào (má hồng từ bé, khớp ba giây đầu ở ch.1 "má như đào chưa chín" và dầu gội đào), Bông, Su. Trong brief, chỗ cần tên ghi là *[tên ở nhà]*.
-- **Thuyên biết tên ấy ở đêm say cuối giai đoạn 1:** hội đồng ùa vào quán gọi "*[tên ở nhà]* ơi".
+- **Tên: Sóc** (chốt 20/10). Nhỏ, nhanh, nhảy từ cành này sang cành khác (đúng "kid nhảy cóc" ở buổi 1); má phồng như sóc ngậm hạt (gọi lại má Nhi phồng khi uống trà ở ch.11 cũ); hay cất giấu đồ (sổ hồng, tờ đề, giấy nhớ, ba tấm ảnh).
+- **Thuyên biết tên ấy ở đêm say cuối giai đoạn 1:** hội đồng ùa vào quán gọi "Sóc ơi".
 - **Vì sao "kid" quan trọng hơn biệt danh:**
   - Tên ở nhà là tên gắn với nhà: con gái của ai.
   - *Kid* là cái tên duy nhất trong đời cô không ai đặt theo gia thế.
-  - Anh dùng *[tên ở nhà]* đúng một lần để rage bait. Cô cấm. Anh quay về "kid", và cô không cấm cái đó nữa.
+  - Anh dùng Sóc đúng một lần để rage bait. Cô cấm. Anh quay về "kid", và cô không cấm cái đó nữa.
 
 ## 5c. Sticker *18 MONTH WARRANTY* (giữ, từ ch.13 cũ)
 
@@ -318,7 +318,7 @@ Luật viết nằm ở `01-rules-viet.md`, mục "Dịu dàng không thừa nh�
   - Ham muốn lãng mạn được đi hết câu: muốn hôn lên tóc cô, muốn giữ cô đến sáng, muốn nghe cô nói lại câu kia lúc tỉnh.
   - Rượu làm khoảng cách tự chủ mỏng đi, vậy mà tay anh không đi xa hơn.
 - **Chữ "bé":** đêm này là lần đổi cách gọi duy nhất của Thuyên với Nhi ở Phần 1 (luật mỗi người đổi xưng hô một lần). Đề xuất để dành lần gọi lại đến Phần Lan. Ở bản cũ, "bé" là chữ Diệp Anh gọi anh; ở v2, anh gọi Nhi như thế, ba tháng sau khi từ chối Diệp Anh.
-- **Hội đồng đến quán**, gọi "*[tên ở nhà]* ơi". Thuyên biết biệt danh ở đây.
+- **Hội đồng đến quán**, gọi "Sóc ơi". Thuyên biết biệt danh ở đây.
   - Câu đầu tiên: "Anh làm gì nó chưa?"
   - Anh chứng minh cực chill, giọng hơi chậm vì rượu: hóa đơn, nhật ký cuộc gọi, áo anh trên vai cô, "Camera quán ở góc kia, các em xin trích xuất."
   - Hội đồng lèm bèm. An Nhiên ghi sổ riêng: thấy anh lau nước mắt cho Nhi lúc họ vừa tới cửa. Đây là mốc cảm tình lớn của hội đồng.
@@ -379,7 +379,7 @@ Mưa ở giai đoạn 2 theo thang thời tiết của kho: mưa phùn sau Tết
 
 1. **Bản lề ở bản mới** là chương nào, câu then chốt nào? Repo chưa có `danh-sach-chuong-mo-dau.md`.
 2. Đề boyfriend làm bản lề đầu giai đoạn 2: duyệt không?
-3. Biệt danh: chưa chốt (Đào, Bông, Su, hoặc tên khác).
+3. ~~Biệt danh~~: đã chốt là Sóc.
 4. Ở mục 8: chọn Nhi viêm họng (buổi 5) hay Thuyên ốm, hay cả hai?
 5. Cảnh Noel (Thuyên chọn Diệp Anh, nói dối Nhi): có đặt không? Đây là lời nói dối đầu tiên với Nhi, sớm hơn bản cũ rất nhiều.
 6. Phong thanh mai trúc mã kiêm cùng nhóm RMIT: duyệt không?
