@@ -29,9 +29,17 @@ const must = ({ data, error }, what) => {
   return data;
 };
 
+// Cross-posting is pinned to the Legacy edition (v1) until the v2 crosspost
+// work (docs/plan-legacy.md, "Cross-posting handoff"): the other sites carry v1.
+export const CROSSPOST_EDITION = 'v1';
+
 export async function loadChapters() {
   const rows = must(
-    await db().from('chapters').select('id, slug, kind, title, story_date, status, publish_at, position, body').order('position'),
+    await db()
+      .from('chapters')
+      .select('id, slug, kind, title, story_date, status, publish_at, position, body')
+      .eq('edition', CROSSPOST_EDITION)
+      .order('position'),
     'Không đọc được chương',
   );
   return withNumbers(rows);

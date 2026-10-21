@@ -27,6 +27,10 @@ anything.
 | `src/pages/admin/crosspost.astro`, `src/scripts/crosspost-admin.ts` | Admin UI | currently hard-coded to rookies |
 | `tests/crosspost.test.ts` | `npm test` | add cases |
 
+**Editions (v1 Legacy / v2):** cross-posting is pinned to v1 until the v2
+crosspost work. Before changing anything here, read "Cross-posting handoff" in
+`docs/plan-legacy.md`.
+
 Rule of thumb: if the code would change when the site redesigns its pages, it
 belongs in `adapter.mjs`. If it would change when the story changes, it belongs
 in core. Never put site quirks in core.

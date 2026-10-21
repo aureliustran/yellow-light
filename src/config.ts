@@ -42,6 +42,22 @@ export const story = {
   ],
 };
 
+// Editions of the story (docs/plan-legacy.md). `current` is the one the home
+// page, "Đọc từ đầu" and /doc/ show; v1 becomes "Legacy" once v2 is current.
+// Switch `current` to 'v2' only when v2's first chapter is ready.
+export type Edition = 'v1' | 'v2';
+export const editions = {
+  current: 'v1' as Edition,
+  list: ['v2', 'v1'] as Edition[],
+  names: { v1: 'Legacy', v2: 'Bản mới' } as Record<Edition, string>,
+  // First chapter number per edition: v2 opens with Chương 0.
+  firstNumber: { v1: 1, v2: 0 } as Record<Edition, number>,
+};
+
+export function isEdition(v: unknown): v is Edition {
+  return v === 'v1' || v === 'v2';
+}
+
 // Sign-in options. Reading never needs an account; signing in is only for
 // commenting, rating and the admin page. Each provider must be enabled in
 // Supabase → Authentication → Providers.

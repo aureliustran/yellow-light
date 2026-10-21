@@ -2,23 +2,25 @@
 // rules only return chapters that are published and past their publish time.
 import { serverClient } from './supabase';
 import { withNumbers, type ChapterRow, type NumberedChapter } from './chapters-shared';
+import { editions, type Edition } from '../config';
 
-const LIST_COLUMNS = 'id, slug, kind, title, color, story_date, status, publish_at, position';
+const LIST_COLUMNS = 'id, edition, slug, kind, title, color, story_date, status, publish_at, position';
 
-export async function getPublishedChapters(): Promise<NumberedChapter[]> {
+export async function getPublishedChapters(edition: Edition = editions.current): Promise<NumberedChapter[]> {
   const { data, error } = await serverClient()
     .from('chapters')
     .select(LIST_COLUMNS)
+    .eq('edition', edition)
     .order('position', { ascending: true });
   if (error) throw error;
-  return withNumbers((data ?? []) as ChapterRow[]);
+  return withNumbers((data ?? []) as ChapterRow[], editions.firstNumber[edition]);
 }
 
-export async function getChapterPage(slug: string) {
+export async function getChapterPage(slug: string, edition: Edition = editions.current) {
   const sb = serverClient();
   const [{ data: chapter, error }, list] = await Promise.all([
-    sb.from('chapters').select(`${LIST_COLUMNS}, body, updated_at`).eq('slug', slug).maybeSingle(),
-    getPublishedChapters(),
+    sb.from('chapters').select(`${LIST_COLUMNS}, body, updated_at`).eq('edition', edition).eq('slug', slug).maybeSingle(),
+    getPublishedChapters(edition),
   ]);
   if (error) throw error;
   if (!chapter) return null;

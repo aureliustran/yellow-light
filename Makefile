@@ -32,7 +32,7 @@ SITES := rookies truyennhaong
 
 .DEFAULT_GOAL := help
 .PHONY: help install dev build preview check test crosspost-setup \
-	import import-dry import-draft import-overwrite import-reorder export \
+	import import-dry import-draft import-overwrite import-reorder import-v2-dry import-v2-draft export \
 	translations translations-dry chats chats-dry blocks blocks-dry
 
 help: ## Show this list
@@ -59,7 +59,7 @@ test: ## Run the tests
 
 # ───────────── Chapter files and database ─────────────
 
-import: ## Import content/import/*.md (published, existing chapters skipped)
+import: ## Import the current edition's files (published, existing chapters skipped)
 	npm run import
 
 import-dry: ## Show what import would do, change nothing
@@ -77,7 +77,13 @@ import-reorder: ## Import and put chapters in file-name order
 import-overwrite-reorder: ## Import and replace chapters that already exist and put them in file-name order
 	npm run import -- --overwrite --reorder
 
-export: ## Export all chapters to backup/chapters
+import-v2-dry: ## Show what importing content/v2 (edition v2) would do
+	npm run import -- --edition v2 --dry-run
+
+import-v2-draft: ## Import content/v2 into edition v2 as drafts, in file-name order
+	npm run import -- --edition v2 --draft --reorder
+
+export: ## Export all chapters to backup/chapters/<edition>
 	npm run export
 
 translations: ## Mark translations in content/import

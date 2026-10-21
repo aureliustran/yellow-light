@@ -1,10 +1,12 @@
 // Chapter helpers that work both on the server and in the browser.
+import type { Edition } from '../config';
 
 export type ChapterKind = 'chapter' | 'interlude';
 export type ChapterStatus = 'draft' | 'published';
 
 export interface ChapterRow {
   id: string;
+  edition?: Edition;
   slug: string;
   kind: ChapterKind;
   title: string;
@@ -29,8 +31,9 @@ export function isSpecialChapter(c: { kind: ChapterKind; title: string }): boole
 
 // Chapter numbers are not stored: they come from the order, and interludes
 // and special chapters are skipped, so reordering renumbers everything automatically.
-export function withNumbers<T extends ChapterRow>(list: T[]): (T & { number: number | null })[] {
-  let n = 0;
+// `list` is one edition; `first` is its first number (editions.firstNumber).
+export function withNumbers<T extends ChapterRow>(list: T[], first = 1): (T & { number: number | null })[] {
+  let n = first - 1;
   return [...list]
     .sort((a, b) => a.position - b.position)
     .map((c) => ({ ...c, number: c.kind === 'chapter' && !isSpecialChapter(c) ? ++n : null }));

@@ -1,6 +1,6 @@
 # Plan: old story becomes "Legacy", v2 comes first; whole-story comments
 
-Oct 20, 2026. Development plan, not built yet.
+Oct 20, 2026. Development plan. **Step 1 of the rollout is built** (Oct 21, see "Status").
 
 ## Goal
 
@@ -16,6 +16,8 @@ Readers should see:
   đầu tiên, đã dừng lại"), chapter count, and a link to `/legacy`.
 - `/legacy`: the old TOC exactly as today's home TOC, under a banner saying this
   edition is finished and replaced.
+- Search engines go to v2: every Legacy page has `noindex` (with
+  `<link rel="canonical">` to the home page) and Legacy is left out of the sitemap.
 - An old chapter page: a thin "Legacy" banner at the top with a link to the new
   version, prev/next stay inside the old edition, numbering stays as it is today
   (starts at Chương 1). Comments and chapter ratings stay open.
@@ -119,7 +121,8 @@ old link opens the new chapter, which is the intended behaviour for a rewrite.
    old entries have only `slug`, which still works through the redirect). If the
    last chapter read is legacy, label it "Đọc tiếp Legacy · Chương N".
 7. `src/scripts/reader.ts`/`stats.ts`: `get_story_stats` call passes the edition.
-8. `src/pages/sitemap.xml.ts`: v2 under `/doc/`, legacy under `/legacy/`.
+8. `src/pages/sitemap.xml.ts`: v2 only (it already lists only the current edition).
+   Legacy pages render `Base` with `noindex`.
 9. Admin (`src/scripts/admin.ts`, `src/pages/admin/index.astro`): an edition
    switch above the list (default v2); new chapter gets the selected edition;
    reorder passes it. Stats/comments/ratings pages show the edition next to the
@@ -248,10 +251,110 @@ Decided (Oct 21, 2026):
 4. Other sites keep Legacy; crosspost is not changed beyond the v1 pin. The site
    says they carry Legacy.
 
-Open:
+5. Google leads to v2: Legacy pages are `noindex` and not in the sitemap.
 
-5. **Search engines:** index Legacy chapters, or `noindex` them so Google sends
-   readers to v2?
+Nothing is open.
+
+## Status
+
+### Step 1: built (Oct 21, 2026)
+
+What shipped, and where it differs from the design above:
+
+- `supabase/migrations/0008_editions.sql`: `edition` column, per-edition
+  `unique (edition, slug)` and `unique (edition, position)`, per-edition next
+  position, a chapter can't change edition, `reorder_chapters(p_ids)` keeps its
+  signature and takes the edition from the first id (so old admin code keeps
+  working), `get_story_stats(p_edition text default null)` (null = all, so old
+  code calling it without arguments still works), `admin_chapter_stats()` returns
+  `edition`. The column default stays `'v1'` (not `'v2'`): code that does not
+  send an edition lands where the site shows it; the site code always sends it.
+  Checked on a local Postgres 16 with the 0001–0007 schema and seed data, and
+  re-running the file is safe.
+- `src/config.ts`: `editions` (`current: 'v1'`, names, `firstNumber`).
+- `src/lib/chapters-shared.ts`: `withNumbers(list, first = 1)`, `ChapterRow.edition`.
+- `src/lib/chapters.ts`: reads filter by edition (default current).
+- `src/scripts/home.ts`: views of the current edition.
+- Admin: edition picker above the chapter list (`/admin`); new chapters go into
+  the picked edition; "Xem" only for the current edition (until `/legacy`
+  exists). `/admin/stats` numbers per edition and names the edition once both exist.
+- `scripts/import-chapters.mjs`: `--edition v1|v2` (default current); v1 reads
+  `content/import/`, v2 reads `content/v2/`. **Changed from the design:**
+  `content/import/` is not renamed to `content/v1/`, because
+  `apply-translations`, `apply-chats`, `apply-blocks` and the writing docs use
+  that path. Make: `import-v2-dry`, `import-v2-draft`. Import workflow: `edition` input.
+- `scripts/export-chapters.mjs`: `backup/chapters/v1/`, `backup/chapters/v2/`
+  (old files in `backup/chapters/*.md` are removed on the first run). The
+  `number:` field now skips special chapters, like the site does.
+- Crosspost pinned to v1 (`crosspost/core/data.mjs` `CROSSPOST_EDITION`,
+  `src/scripts/crosspost-admin.ts`).
+- Tests: `withNumbers` from 0.
+
+Not in step 1, moved to step 2: comment/rating admin pages and the digest
+naming the edition (they only matter once v2 chapters are public).
+
+**To deploy:** run `0008_editions.sql` in Supabase → SQL Editor first, then
+deploy the code. The other order breaks the home page's view count until the
+migration runs.
+
+## Cross-posting handoff (for another agent)
+
+Moving cross-posting to v2 is separate work that another agent can take on. Not
+started; the author said not to touch it yet. Read first:
+`.claude/skills/crosspost-site/SKILL.md` (anti-duplicate layers that must stay),
+`CLAUDE.md` (conversion rules), this file.
+
+State when handed over:
+
+- Every crosspost read is pinned to Legacy: `CROSSPOST_EDITION = 'v1'` in
+  `crosspost/core/data.mjs` and `.eq('edition', 'v1')` in
+  `src/scripts/crosspost-admin.ts`. Grep for `edition` in `crosspost/` and
+  `crosspost-admin.ts` to find every pin.
+- rookies.vn (ch. 1–36 posted) and truyennhaong (8 chapters, work waiting for
+  its editors, per `crosspost/sites/truyennhaong/PLAN.md` on 15/10) carry v1.
+  Check `npm run crosspost -- status <site>` for the real state. The author wants them left there.
+- `crosspost_posts` / `crosspost_jobs` key on `chapter_id`; v2 chapters are new
+  rows, so they can never match a v1 post. Don't key anything on slug: v2 may
+  reuse v1 slugs (`den-vang`).
+
+Questions to settle with the author before coding:
+
+1. v2 on each site: a new work (new `storyId`), or replace the Legacy chapters
+   in the same work? A new work is far safer: no remote edits or deletes, no
+   chance of overwriting a posted Legacy chapter.
+2. If a new work: a site config per edition (e.g. `sites/rookies/config.json`
+   gets `edition` and a second entry, or `sites/rookies-v2/`), and `crosspost_sites`
+   one row per (site, edition).
+
+Things that will bite:
+
+- **Footer links.** `chapterUrl` in `crosspost/core/crosspost.ts` builds
+  `${vercelUrl}/doc/${slug}`. After the switch, `/doc/<slug>` is v2: a Legacy
+  footer link redirects to `/legacy/<slug>` only while v2 has no chapter with
+  that slug. Fix: build Legacy links as `/legacy/<slug>`. But the footer is part
+  of `source_hash`, so this marks every posted Legacy chapter "update"; decide
+  with the author whether to re-sync them (one queue, worker edits in place) or
+  leave the old links.
+- **Footer text.** rookies' `footer.last` says new chapters appear first on the
+  official site; for a finished Legacy edition that is no longer true. Legacy
+  may want its own `footer` templates ("Bản Legacy · đọc bản mới tại …").
+- **Chương 0.** `parseRange` treats an open start (`-3`) as 1; `groups()` folds
+  anything before the first numbered chapter into it (fine with 0); `teaser_limit`
+  counts groups (limit 5 = ch. 0–4); docs and Makefile examples say `--range 1-5`.
+  Check how each site numbers chapters ("Chương 0: …" in the title, or does the
+  site number them itself?).
+- **Story intro.** `crosspost info <site> --save` copies `story.tagline` and
+  `story.intro` from `src/config.ts`. Once those are rewritten for v2, running it
+  for a Legacy work would put the v2 intro there. Keep a per-edition intro or
+  refuse `info` for Legacy.
+- **Admin page** `/admin/crosspost` is hard-coded to rookies; an edition picker
+  belongs next to the site picker.
+- **Tests:** `tests/crosspost.test.ts`: v1 and v2 rows mixed in one list must
+  never be numbered or queued together.
+
+Done means: v1 posts untouched (same `remote_id`, no new jobs for them unless
+the author asked for a footer re-sync), v2 chapters posting to the chosen
+target, `npm test` green, and `npm run crosspost -- status <site>` showing both.
 
 ## Rough size
 

@@ -2,7 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { renderMarkdown, excerpt, stripTranslations, findMarkupProblems, parseNotifications, notificationAppKey } from '../src/lib/markdown.ts';
 import { slugify } from '../src/lib/slug.ts';
-import { withNumbers, chapterLabel } from '../src/lib/chapters-shared.ts';
+import { withNumbers, chapterLabel, chapterLinkName } from '../src/lib/chapters-shared.ts';
 
 test('scene break becomes a traffic light', () => {
   const html = renderMarkdown('Một.\n\n---\n\nHai.');
@@ -166,6 +166,19 @@ test('chapter numbers skip interludes and follow order', () => {
   assert.deepEqual(n.map((x) => [x.id, x.number]), [['a', 1], ['i', null], ['c', 2]]);
   assert.equal(chapterLabel(n[1]), 'Interlude');
   assert.equal(chapterLabel(n[2]), 'Chương 2');
+});
+
+test('chapter numbers can start at 0 (v2 opens with Chương 0)', () => {
+  const rows = [
+    { id: 'a', kind: 'chapter', position: 1, title: 'Mở đầu' },
+    { id: 'i', kind: 'interlude', position: 2, title: 'Hồng phấn' },
+    { id: 's', kind: 'chapter', position: 3, title: '3107' },
+    { id: 'b', kind: 'chapter', position: 4, title: 'Đèn vàng' },
+  ] as any[];
+  const n = withNumbers(rows, 0);
+  assert.deepEqual(n.map((x) => [x.id, x.number]), [['a', 0], ['i', null], ['s', null], ['b', 1]]);
+  assert.equal(chapterLabel(n[0]), 'Chương 0');
+  assert.equal(chapterLinkName(n[0]), 'Chương 0 · Mở đầu');
 });
 
 

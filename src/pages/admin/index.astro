@@ -4,7 +4,7 @@ import Brand from '../../components/Brand.astro';
 import Account from '../../components/Account.astro';
 import ThemeToggle from '../../components/ThemeToggle.astro';
 import AdminNav from '../../components/AdminNav.astro';
-import { interludeColors } from '../../config';
+import { interludeColors, editions } from '../../config';
 import '../../styles/admin.css';
 export const prerender = true;
 ---
@@ -39,6 +39,16 @@ export const prerender = true;
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14" /></svg>
             Chương mới
           </button>
+        </div>
+        <div class="edition-pick">
+          <label for="f-edition">Bản</label>
+          <select id="f-edition" data-edition>
+            {editions.list.map((ed) => (
+              <option value={ed} selected={ed === editions.current}>
+                {editions.names[ed]} ({ed}){ed === editions.current ? ' · đang hiện trên trang' : ''}
+              </option>
+            ))}
+          </select>
         </div>
         <ol class="ch-list" data-list aria-label="Danh sách chương, kéo để sắp xếp"></ol>
         <p class="list-note">Kéo biểu tượng ⋮⋮ hoặc dùng mũi tên để đổi thứ tự. Thứ tự được lưu ngay, số chương tự đánh lại.</p>

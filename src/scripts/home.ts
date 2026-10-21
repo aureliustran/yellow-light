@@ -1,6 +1,7 @@
 import { browserClient, isConfigured } from '../lib/supabase';
 import { onMe, openLogin, type Me } from './auth';
 import { attachStars, formatNumber, store, toast } from './ui';
+import { editions } from '../config';
 
 export function initHome(): void {
   // Cover: if the new picture cannot load, show the old one
@@ -31,7 +32,8 @@ export function initHome(): void {
   const sb = browserClient();
 
   const loadStats = async () => {
-    const { data } = await sb.rpc('get_story_stats');
+    // Views of the current edition only; the story rating covers the whole work.
+    const { data } = await sb.rpc('get_story_stats', { p_edition: editions.current });
     const s = Array.isArray(data) ? data[0] : data;
     if (!s) return;
     const views = document.querySelector('[data-story-views]');
