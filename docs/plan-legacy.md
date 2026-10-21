@@ -1,4 +1,4 @@
-# Plan: old story becomes "Legacy", v2 comes first
+# Plan: old story becomes "Legacy", v2 comes first; whole-story comments
 
 Oct 20, 2026. Development plan, not built yet.
 
@@ -162,6 +162,65 @@ old link opens the new chapter, which is the intended behaviour for a rewrite.
 15. Tests: `withNumbers` per edition (v2 starts at 0), `/doc` redirect lookup,
     import `--edition`, crosspost still sees only v1 rows.
 
+## Whole-story comments
+
+A comment section for the story itself, on the home page, under Mục lục and the
+Legacy card ("Bình luận về truyện"). It works exactly like a chapter's comments:
+same form, sign-in, anonymous names, replies (one level), report, hide/restore,
+admin edit, ban, blocked words, rate limits, digest. Like the story rating, it
+belongs to the whole work, not to an edition, so it stays when v2 takes over.
+
+### Data: `chapter_id is null` means "the story"
+
+No new table, so every moderation path already built keeps working. Migration
+`0009_story_comments.sql`:
+
+```sql
+alter table public.comments alter column chapter_id drop not null;
+create index comments_story_idx on public.comments (created_at) where chapter_id is null;
+
+-- A story comment is public whenever it is visible.
+create or replace function public.comment_target_is_public(p_chapter uuid)
+returns boolean language sql stable security definer set search_path = public as $$
+  select p_chapter is null or public.chapter_is_public(p_chapter)
+$$;
+```
+
+Then swap `chapter_is_public(chapter_id)` for `comment_target_is_public(chapter_id)` in:
+
+- policy "read comments" (latest in `0002_analytics_moderation.sql`)
+- policy "post comment" (`0001_init.sql`), keeping `not is_banned()` as in 0002
+- policy "report a comment" on `comment_reports` (`0002`)
+- `comments_before_insert`: the reply check becomes
+  `p.chapter_id is distinct from new.chapter_id` (plain `<>` is null for story
+  comments, so a story reply would pass a chapter parent through)
+- `admin_comments`: `join chapters` → `left join`, `chapter_title` =
+  `coalesce(c.title, 'Cả truyện')`; add filter `p_filter = 'story'`
+- `get_story_stats()`: add `comment_count` (visible story comments)
+
+### Code
+
+1. `src/components/Comments.astro`: the `<section class="comments" data-comments>`
+   block moved out of `doc/[slug].astro` (props: heading, placeholder), used by
+   the chapter page and the home page.
+2. `src/scripts/comments.ts`: `initComments(section, chapterId: string | null)`;
+   load uses `.is('chapter_id', null)` when null, insert sends `chapter_id: null`.
+   Nothing else changes.
+3. `src/pages/index.astro` + `src/scripts/home.ts`: render the section with
+   `id="binh-luan"`, call `initComments(el, null)`; show the count next to the
+   heading and as a stat in the hero ("bình luận"). Comments load in the browser,
+   so the home page's 30 s cache does not delay them.
+4. `src/scripts/moderation.ts`, `/admin/comments`: "Cả truyện" as the place,
+   linking to `/#binh-luan`; a "Cả truyện" filter.
+5. `scripts/digest.mjs`: `chapters(title)` is null for story comments → "Cả truyện".
+6. Tests: insert/read as anon and signed-in for a story comment, a reply to a story
+   comment, a story reply pointed at a chapter comment (rejected), report.
+
+### Order
+
+Independent of the Legacy work: it can ship before or after. If before, the
+`Comments.astro` extraction is done here and step 5 of the Legacy code reuses it.
+
 ## Rollout order
 
 Each step deploys alone and changes nothing visible until step 4.
@@ -198,3 +257,4 @@ Open:
 
 Migration and lib: half a day. Routes, shared component, home card: a day.
 Admin, import/export, digest, crosspost pin and tests: half a day.
+Whole-story comments: half a day.
