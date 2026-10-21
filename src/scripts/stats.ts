@@ -6,6 +6,7 @@ import { chapterLabel, withNumbers, type ChapterRow } from '../lib/chapters-shar
 import { guardAdmin } from './admin-gate';
 import { columnChart, hbars, tableView, type Item } from './charts';
 import { formatNumber, h, toast } from './ui';
+import { editions, type Edition } from '../config';
 
 interface Overview {
   views_today: number; views_7d: number; views_30d: number;
@@ -15,7 +16,7 @@ interface Overview {
   ratings_7d: number; story_rating_avg: number | null; story_rating_count: number; banned_users: number;
 }
 interface ChapterStat {
-  chapter_id: string; kind: 'chapter' | 'interlude'; title: string; pos: number; is_public: boolean;
+  chapter_id: string; edition?: Edition; kind: 'chapter' | 'interlude'; title: string; pos: number; is_public: boolean;
   views: number; readers: number; avg_progress: number; completion: number;
   rating_avg: number | null; rating_count: number; comments: number; hidden: number;
 }
@@ -109,18 +110,27 @@ async function loadChapters(sb: SupabaseClient) {
   const { data, error } = await sb.rpc('admin_chapter_stats');
   if (error) return toast('Không tải được thống kê chương: ' + error.message);
   const rows = (data ?? []) as ChapterStat[];
-  const numbered = withNumbers(
-    rows.map((r) => ({ id: r.chapter_id, slug: '', kind: r.kind, title: r.title, color: null, story_date: null, status: 'published', publish_at: null, position: r.pos })) as ChapterRow[],
-  );
+  // Numbers run per edition; the edition's name shows once there is more than one.
+  const label = new Map<string, string>();
+  const present = editions.list.filter((ed) => rows.some((r) => (r.edition ?? 'v1') === ed));
+  for (const ed of present) {
+    const numbered = withNumbers(
+      rows
+        .filter((r) => (r.edition ?? 'v1') === ed)
+        .map((r) => ({ id: r.chapter_id, slug: '', kind: r.kind, title: r.title, color: null, story_date: null, status: 'published', publish_at: null, position: r.pos })) as ChapterRow[],
+      editions.firstNumber[ed],
+    );
+    for (const c of numbered) label.set(c.id, present.length > 1 ? `${editions.names[ed]} · ${chapterLabel(c)}` : chapterLabel(c));
+  }
   const tbody = $('[data-chapter-rows]');
   tbody.replaceChildren(
-    ...rows.map((r, i) => {
+    ...rows.map((r) => {
       const bar = h('span', { class: 'minibar' }, h('span', { class: 'fill' }));
       (bar.firstElementChild as HTMLElement).style.width = `${r.completion}%`;
       return h(
         'tr',
         {},
-        h('th', { scope: 'row' }, h('span', { class: 'ch-label', text: chapterLabel(numbered[i]) }), ' ', h('span', { text: r.title }), r.is_public ? null : h('span', { class: 'pill draft', text: 'Chưa đăng' })),
+        h('th', { scope: 'row' }, h('span', { class: 'ch-label', text: label.get(r.chapter_id) ?? '' }), ' ', h('span', { text: r.title }), r.is_public ? null : h('span', { class: 'pill draft', text: 'Chưa đăng' })),
         h('td', { text: formatNumber(num(r.views)) }),
         h('td', { text: formatNumber(num(r.readers)) }),
         h('td', { text: `${r.avg_progress}%` }),

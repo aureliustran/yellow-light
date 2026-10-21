@@ -33,14 +33,38 @@ export const story = {
     'Đèn Vàng – truyện dài học đường, ngôn tình, đấu trí chốn công sở và hào môn của Aurelius. Hà Nội, mùa hoa sữa 2026.',
   // Other sites that carry the story (shown in the footer and on /admin/crosspost).
   // Add an entry when a new site goes live; `url` is the story's page there.
+  // `edition`: which edition that site carries; when it is not the current one,
+  // the site is listed as carrying that edition (e.g. "Rookies.vn · bản Legacy").
   crossposts: [
-    { name: 'Rookies.vn', url: 'https://rookies.vn/truyen/den-vang' },
-  ] as { name: string; url: string }[],
+    { name: 'Rookies.vn', url: 'https://rookies.vn/truyen/den-vang', edition: 'v1' },
+  ] as { name: string; url: string; edition: Edition }[],
   footer: [
     '© Aurelius · Truyện hư cấu: nhân vật, tổ chức và sự kiện đều do tác giả tưởng tượng.',
     'Trang ghi lại số liệu đọc ẩn danh (loại thiết bị, trình duyệt, nguồn truy cập, mức độ đã đọc). Không lưu địa chỉ IP, không dùng cookie theo dõi.',
   ],
 };
+
+// Editions of the story (docs/plan-legacy.md). `current` is the one the home
+// page, "Đọc từ đầu" and /doc/ show; v1 becomes "Legacy" once v2 is current.
+// Switch `current` to 'v2' only when v2's first chapter is ready.
+export type Edition = 'v1' | 'v2';
+export const editions = {
+  current: 'v1' as Edition,
+  list: ['v2', 'v1'] as Edition[],
+  names: { v1: 'Legacy', v2: 'Bản mới' } as Record<Edition, string>,
+  // The old edition: its reader pages live under `path` and are kept out of search.
+  legacy: {
+    id: 'v1' as Edition,
+    path: '/legacy',
+    note: 'Bản viết đầu tiên của Đèn Vàng. Truyện đã được viết lại từ đầu; bản này giữ nguyên để ai muốn đọc lại vẫn đọc được, kèm bình luận và điểm của nó.',
+  },
+  // First chapter number per edition: v2 opens with Chương 0.
+  firstNumber: { v1: 1, v2: 0 } as Record<Edition, number>,
+};
+
+export function isEdition(v: unknown): v is Edition {
+  return v === 'v1' || v === 'v2';
+}
 
 // Sign-in options. Reading never needs an account; signing in is only for
 // commenting, rating and the admin page. Each provider must be enabled in

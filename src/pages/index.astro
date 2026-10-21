@@ -5,19 +5,26 @@ import Account from '../components/Account.astro';
 import ThemeToggle from '../components/ThemeToggle.astro';
 import Stars from '../components/Stars.astro';
 import Footer from '../components/Footer.astro';
-import { story } from '../config';
+import { story, editions } from '../config';
 import { isConfigured } from '../lib/supabase';
+import Toc from '../components/Toc.astro';
 import { getPublishedChapters } from '../lib/chapters';
-import { chapterLabel, isSpecialChapter, type NumberedChapter } from '../lib/chapters-shared';
+import { type NumberedChapter } from '../lib/chapters-shared';
 import { renderMarkdown } from '../lib/markdown';
 
 let chapters: NumberedChapter[] = [];
 let problem: string | null = null;
+let legacyCount = 0;
+const legacySites = story.crossposts.filter((c) => c.edition === editions.legacy.id);
 if (!isConfigured) {
   problem = 'Trang chưa được kết nối với cơ sở dữ liệu. Xem README, mục "Cài đặt".';
 } else {
   try {
     chapters = await getPublishedChapters();
+    // Once the old edition is no longer current, a card under Mục lục leads to it.
+    if (editions.current !== editions.legacy.id) {
+      legacyCount = (await getPublishedChapters(editions.legacy.id)).filter((c) => c.kind === 'chapter').length;
+    }
   } catch (e) {
     problem = 'Không tải được mục lục. Thử tải lại trang sau ít phút.';
     console.error(e);
@@ -132,30 +139,22 @@ const demoHtml = renderMarkdown(
       {problem && <p class="empty-note">{problem}</p>}
       {!problem && chapters.length === 0 && <p class="empty-note">Chương đầu tiên sắp lên đèn…</p>}
       {chapters.length > 0 && (
-        <ol class="lane">
-          {chapters.map((c) => (
-            <li class:list={{ special: isSpecialChapter(c) }}>
-              <a href={`/doc/${c.slug}`}>
-                <span class:list={['node', { interlude: c.kind === 'interlude', latest: c === latest, special: isSpecialChapter(c) }]} aria-hidden="true">
-                  {isSpecialChapter(c)
-                    ? <span class="domino"></span>
-                    : <span style={c.kind === 'interlude' && c !== latest ? `background:${c.color ?? '#D9C8B0'}` : undefined}></span>}
-                </span>
-                <span class="toc-text">
-                  <span class:list={['eyebrow', { amber: isSpecialChapter(c) }]}>{chapterLabel(c)}</span>
-                  <span class:list={['toc-title', { italic: c.kind === 'interlude', special: isSpecialChapter(c) }]}>{c.title}</span>
-                </span>
-                {c === latest && <span class="badge">Mới nhất</span>}
-              </a>
-            </li>
-          ))}
-          <li class="writing">
-            <span class="node" aria-hidden="true"><span class="lamp pulse"></span></span>
-            Chương tiếp theo đang được viết…
-          </li>
-        </ol>
+        <Toc chapters={chapters} base="/doc" />
       )}
     </section>
+
+    {legacyCount > 0 && (
+      <section class="narrow legacy-card-wrap" aria-labelledby="legacy-title">
+        <a class="legacy-card" href={editions.legacy.path}>
+          <span class="eyebrow">Bản cũ · {legacyCount} chương</span>
+          <span class="legacy-card-title" id="legacy-title">{editions.names[editions.legacy.id]}</span>
+          <span class="legacy-card-note">{editions.legacy.note}</span>
+          {legacySites.length > 0 && (
+            <span class="legacy-card-note">Các trang đăng lại ({legacySites.map((c) => c.name).join(', ')}) đang đăng bản {editions.names[editions.legacy.id]}.</span>
+          )}
+        </a>
+      </section>
+    )}
   </main>
 
   <Footer />

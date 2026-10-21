@@ -6,6 +6,7 @@
 //   node scripts/digest.mjs            # needs .env or the two Supabase variables
 import { adminClient } from './env.mjs';
 import { buildDigest } from './digest-lib.mjs';
+import { editions } from '../src/config.ts';
 
 const sb = adminClient();
 const HOUR = 3600_000;
@@ -32,10 +33,14 @@ const [views24h, viewsPrev7d, newUsers] = await Promise.all([
   count('profiles', 'created_at', since24),
 ]);
 
+// "Legacy · Title" for chapters outside the current edition.
+const chapterName = (c) =>
+  c && (c.edition ?? 'v1') !== editions.current ? `${editions.names[editions.legacy.id]} · ${c.title}` : c?.title;
+
 // Reports that still need a decision: the comment is visible (hiding or restoring clears them).
 const rep = await sb
   .from('comment_reports')
-  .select('reason, comments!inner(body, status, profiles!user_id(display_name), chapters(title))')
+  .select('reason, comments!inner(body, status, profiles!user_id(display_name), chapters(title, edition))')
   .eq('comments.status', 'visible')
   .order('created_at', { ascending: false })
   .limit(50);
@@ -44,12 +49,12 @@ const reports = (rep.data ?? []).map((r) => ({
   reason: r.reason,
   body: one(r.comments)?.body,
   author: one(one(r.comments)?.profiles)?.display_name,
-  chapter: one(one(r.comments)?.chapters)?.title,
+  chapter: chapterName(one(one(r.comments)?.chapters)),
 }));
 
 const com = await sb
   .from('comments')
-  .select('body, profiles!user_id(display_name), chapters(title)')
+  .select('body, profiles!user_id(display_name), chapters(title, edition)')
   .eq('status', 'visible')
   .gte('created_at', since24)
   .order('created_at', { ascending: false })
@@ -58,7 +63,7 @@ if (com.error) fail('bình luận', com.error);
 const newComments = (com.data ?? []).map((c) => ({
   body: c.body,
   author: one(c.profiles)?.display_name,
-  chapter: one(c.chapters)?.title,
+  chapter: chapterName(one(c.chapters)),
 }));
 
 // Anyone who rated five or more times in a day.

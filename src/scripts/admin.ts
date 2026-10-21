@@ -4,14 +4,15 @@
 import { browserClient, isConfigured } from '../lib/supabase';
 import { renderMarkdown, findMarkupProblems } from '../lib/markdown';
 import { slugify } from '../lib/slug';
-import { withNumbers, chapterLabel, isLive, type ChapterRow } from '../lib/chapters-shared';
+import { withNumbers, chapterLabel, chapterPath, isLive, type ChapterRow } from '../lib/chapters-shared';
 import { onMe, openLogin } from './auth';
 import { initTranslations } from './translations';
 import { initNotifications } from './notifications';
 import { h, toast } from './ui';
+import { editions, isEdition, type Edition } from '../config';
 
 type Row = ChapterRow & { number: number | null };
-const COLS = 'id, slug, kind, title, color, story_date, status, publish_at, position, updated_at';
+const COLS = 'id, edition, slug, kind, title, color, story_date, status, publish_at, position, updated_at';
 const DEFAULT_COLOR = '#D9C8B0';
 
 const $ = <T extends Element = HTMLElement>(sel: string, root: ParentNode = document) => root.querySelector<T>(sel)!;
@@ -68,6 +69,7 @@ function startEditor(): void {
   const list = $<HTMLOListElement>('[data-list]');
   const form = $<HTMLFormElement>('[data-editor]');
   const emptyEditor = $('[data-empty-editor]');
+  const editionSel = $<HTMLSelectElement>('[data-edition]');
   const f = {
     title: $<HTMLInputElement>('#f-title'),
     slug: $<HTMLInputElement>('#f-slug'),
@@ -91,6 +93,8 @@ function startEditor(): void {
   const saveState = $('[data-save-state]');
 
   let rows: Row[] = [];
+  // The list shows one edition; a new chapter goes into it.
+  let edition: Edition = isEdition(editionSel.value) ? editionSel.value : editions.current;
   let currentId: string | null = null; // 'new' while creating
   let snapshot = '';
   let slugTouched = false;
@@ -105,7 +109,11 @@ function startEditor(): void {
 
   const paintKind = () => (colorField.hidden = kind() !== 'interlude');
   const paintStatus = () => (publishField.hidden = f.status.value !== 'published');
-  const paintSlug = () => (slugPreview.textContent = f.slug.value || '…');
+  const slugBase = $('[data-slug-base]');
+  const paintSlug = () => {
+    slugBase.textContent = chapterPath({ slug: '', edition });
+    slugPreview.textContent = f.slug.value || '…';
+  };
   const paintSwatches = () =>
     swatches.forEach((s) => s.setAttribute('aria-pressed', String(s.dataset.swatch!.toLowerCase() === f.color.value.toLowerCase())));
 
@@ -144,7 +152,7 @@ function startEditor(): void {
     const exists = currentId !== 'new';
     deleteBtn.hidden = !exists;
     viewLink.hidden = !(exists && r.status && isLive(r as ChapterRow));
-    viewLink.href = `/doc/${r.slug ?? ''}`;
+    viewLink.href = chapterPath({ slug: r.slug ?? '', edition: r.edition ?? edition });
     saveState.textContent = exists && r.updated_at ? `Lưu lần cuối ${formatShort(r.updated_at)}` : 'Chưa lưu';
   }
 
@@ -153,11 +161,24 @@ function startEditor(): void {
   // ───── List ─────
 
   async function loadList() {
-    const { data, error } = await sb.from('chapters').select(COLS).order('position', { ascending: true });
+    const { data, error } = await sb.from('chapters').select(COLS).eq('edition', edition).order('position', { ascending: true });
     if (error) return toast('Không tải được danh sách: ' + error.message);
-    rows = withNumbers((data ?? []) as ChapterRow[]);
+    rows = withNumbers((data ?? []) as ChapterRow[], editions.firstNumber[edition]);
     renderList();
   }
+
+  editionSel.addEventListener('change', () => {
+    if (!isEdition(editionSel.value) || editionSel.value === edition) return;
+    if (!confirmLeave()) {
+      editionSel.value = edition;
+      return;
+    }
+    edition = editionSel.value;
+    currentId = null;
+    form.hidden = true;
+    emptyEditor.hidden = false;
+    loadList();
+  });
 
   function renderList() {
     list.replaceChildren(...rows.map((r, i) => listItem(r, i)));
@@ -197,7 +218,7 @@ function startEditor(): void {
   async function saveOrder(ids: string[]) {
     const before = rows;
     const byId = new Map(rows.map((r) => [r.id, r]));
-    rows = withNumbers(ids.map((id, i) => ({ ...byId.get(id)!, position: i + 1 })));
+    rows = withNumbers(ids.map((id, i) => ({ ...byId.get(id)!, position: i + 1 })), editions.firstNumber[edition]);
     renderList();
     const { error } = await sb.rpc('reorder_chapters', { p_ids: ids });
     if (error) {
@@ -395,7 +416,7 @@ function startEditor(): void {
     saveState.textContent = 'Đang lưu…';
     const query =
       currentId === 'new'
-        ? sb.from('chapters').insert(payload).select(`${COLS}, body`).single()
+        ? sb.from('chapters').insert({ ...payload, edition }).select(`${COLS}, body`).single()
         : sb.from('chapters').update(payload).eq('id', currentId).select(`${COLS}, body`).single();
     const { data, error } = await query;
     saving = false;
@@ -403,7 +424,7 @@ function startEditor(): void {
 
     if (error) {
       saveState.textContent = 'Chưa lưu';
-      if (error.code === '23505') return toast(`Địa chỉ "/doc/${slug}" đã có chương khác dùng. Đổi địa chỉ trang nhé.`);
+      if (error.code === '23505') return toast(`Địa chỉ "${slug}" đã có chương khác trong bản ${editions.names[edition]} dùng. Đổi địa chỉ trang nhé.`);
       if (error.code === '42501') return toast('Tài khoản này không có quyền ghi.');
       return toast('Không lưu được: ' + error.message);
     }

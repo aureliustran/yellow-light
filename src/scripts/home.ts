@@ -1,6 +1,7 @@
 import { browserClient, isConfigured } from '../lib/supabase';
 import { onMe, openLogin, type Me } from './auth';
 import { attachStars, formatNumber, store, toast } from './ui';
+import { editions } from '../config';
 
 export function initHome(): void {
   // Cover: if the new picture cannot load, show the old one
@@ -16,11 +17,15 @@ export function initHome(): void {
 
   // "Đọc tiếp": the last chapter opened on this device
   try {
-    const last = JSON.parse(store('dv:last') ?? 'null') as { slug: string; title: string; label: string } | null;
+    // Entries from before editions have no path: /doc/ sends them on to /legacy/ if needed.
+    const last = JSON.parse(store('dv:last') ?? 'null') as
+      | { slug: string; path?: string; title: string; label: string; legacy?: boolean }
+      | null;
     const link = document.querySelector<HTMLAnchorElement>('[data-continue]');
     if (last?.slug && link) {
-      link.href = `/doc/${encodeURIComponent(last.slug)}`;
-      link.textContent = `Đọc tiếp · ${last.label === 'Interlude' ? last.title : last.label}`;
+      link.href = last.path ?? `/doc/${encodeURIComponent(last.slug)}`;
+      const where = last.label === 'Interlude' ? last.title : last.label;
+      link.textContent = last.legacy ? `Đọc tiếp ${editions.names[editions.legacy.id]} · ${where}` : `Đọc tiếp · ${where}`;
       link.hidden = false;
     }
   } catch {
@@ -31,7 +36,8 @@ export function initHome(): void {
   const sb = browserClient();
 
   const loadStats = async () => {
-    const { data } = await sb.rpc('get_story_stats');
+    // Views of the current edition only; the story rating covers the whole work.
+    const { data } = await sb.rpc('get_story_stats', { p_edition: editions.current });
     const s = Array.isArray(data) ? data[0] : data;
     if (!s) return;
     const views = document.querySelector('[data-story-views]');

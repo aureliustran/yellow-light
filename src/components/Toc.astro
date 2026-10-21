@@ -1,0 +1,36 @@
+---
+// Table of contents for one edition: a dashed lane of chapters, the newest lit.
+import { chapterLabel, isSpecialChapter, type NumberedChapter } from '../lib/chapters-shared';
+
+interface Props {
+  chapters: NumberedChapter[];
+  base: string; // '/doc' or the legacy path
+  writing?: boolean; // show "Chương tiếp theo đang được viết…" at the end
+}
+const { chapters, base, writing = true } = Astro.props;
+const latest = chapters.at(-1);
+---
+<ol class="lane">
+  {chapters.map((c) => (
+    <li class:list={{ special: isSpecialChapter(c) }}>
+      <a href={`${base}/${c.slug}`}>
+        <span class:list={['node', { interlude: c.kind === 'interlude', latest: writing && c === latest, special: isSpecialChapter(c) }]} aria-hidden="true">
+          {isSpecialChapter(c)
+            ? <span class="domino"></span>
+            : <span style={c.kind === 'interlude' && !(writing && c === latest) ? `background:${c.color ?? '#D9C8B0'}` : undefined}></span>}
+        </span>
+        <span class="toc-text">
+          <span class:list={['eyebrow', { amber: isSpecialChapter(c) }]}>{chapterLabel(c)}</span>
+          <span class:list={['toc-title', { italic: c.kind === 'interlude', special: isSpecialChapter(c) }]}>{c.title}</span>
+        </span>
+        {writing && c === latest && <span class="badge">Mới nhất</span>}
+      </a>
+    </li>
+  ))}
+  {writing && (
+    <li class="writing">
+      <span class="node" aria-hidden="true"><span class="lamp pulse"></span></span>
+      Chương tiếp theo đang được viết…
+    </li>
+  )}
+</ol>

@@ -386,6 +386,26 @@ main > section:not(.hero) { position: relative; z-index: 1; }
 .lane .writing .node { justify-content: center; }
 .node span.lamp { width: 10px; height: 10px; background: var(--amber); box-shadow: 0 0 12px 3px var(--glow); }
 
+/* Legacy (the first version of the story): banner on its chapters, its own
+   table of contents, and a quiet card under the home page's Mục lục. */
+.legacy-banner { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; margin: 0 0 32px; padding: 12px 16px;
+  border: 1px solid var(--line-strong); border-radius: 12px; background: color-mix(in srgb, var(--card) 70%, transparent);
+  font-size: 15px; line-height: 1.5; color: var(--ink-2); }
+.legacy-banner a { color: var(--amber-ink); font-weight: 600; text-decoration: none; }
+.legacy-banner a:hover { text-decoration: underline; }
+.legacy-intro { padding-block: 48px 8px; }
+.legacy-intro h1 { margin: 10px 0 16px; font-family: var(--serif); font-weight: 300; font-size: 52px; letter-spacing: -.02em; line-height: 1.1; }
+.legacy-intro p { max-width: 60ch; margin: 0 0 16px; color: var(--ink-2); line-height: 1.6; }
+.legacy-intro p a { color: var(--amber-ink); }
+.legacy-card-wrap { padding-block: 0 96px; margin-top: -48px; }
+.legacy-card { display: flex; flex-direction: column; gap: 6px; padding: 20px 24px; border: 1px dashed var(--line-strong); border-radius: 18px;
+  text-decoration: none; transition: background .15s, border-color .15s; }
+.legacy-card:hover { background: color-mix(in srgb, var(--card) 62%, transparent); border-color: var(--amber); }
+.legacy-card-title { font-family: var(--serif); font-size: 28px; line-height: 1.2; }
+.legacy-card:hover .legacy-card-title { color: var(--amber-ink); }
+.legacy-card-note { color: var(--ink-2); line-height: 1.5; max-width: 60ch; }
+@media (max-width: 640px) { .legacy-intro h1 { font-size: 38px; } }
+
 /* Special chapters (title is only digits, e.g. "3107"): a standing domino instead of a dot. */
 .domino { display: inline-block; position: relative; width: 13px; height: 24px; border-radius: 3px; background: var(--ink); box-shadow: 0 0 0 1px var(--ink);
   transform-origin: 50% 100%; transition: transform .5s cubic-bezier(.55, 0, .75, .1); }
