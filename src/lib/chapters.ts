@@ -32,3 +32,11 @@ export async function getChapterPage(slug: string, edition: Edition = editions.c
     progress: list.length ? (i + 1) / list.length : 0,
   };
 }
+
+// Is there a public chapter with this web address in that edition? Used to send
+// old /doc/ links on to /legacy/ once v1 is no longer current.
+export async function chapterExists(slug: string, edition: Edition): Promise<boolean> {
+  const { data, error } = await serverClient().from('chapters').select('id').eq('edition', edition).eq('slug', slug).maybeSingle();
+  if (error) throw error;
+  return !!data;
+}

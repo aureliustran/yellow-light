@@ -2,7 +2,8 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { renderMarkdown, excerpt, stripTranslations, findMarkupProblems, parseNotifications, notificationAppKey } from '../src/lib/markdown.ts';
 import { slugify } from '../src/lib/slug.ts';
-import { withNumbers, chapterLabel, chapterLinkName } from '../src/lib/chapters-shared.ts';
+import { withNumbers, chapterLabel, chapterLinkName, chapterPath, isLegacy } from '../src/lib/chapters-shared.ts';
+import { editions } from '../src/config.ts';
 
 test('scene break becomes a traffic light', () => {
   const html = renderMarkdown('Một.\n\n---\n\nHai.');
@@ -179,6 +180,14 @@ test('chapter numbers can start at 0 (v2 opens with Chương 0)', () => {
   assert.deepEqual(n.map((x) => [x.id, x.number]), [['a', 0], ['i', null], ['s', null], ['b', 1]]);
   assert.equal(chapterLabel(n[0]), 'Chương 0');
   assert.equal(chapterLinkName(n[0]), 'Chương 0 · Mở đầu');
+});
+
+test('chapter paths: current edition under /doc/, the other under the legacy path', () => {
+  const other = editions.current === 'v1' ? 'v2' : 'v1';
+  assert.equal(chapterPath({ slug: 'den-vang', edition: editions.current }), '/doc/den-vang');
+  assert.equal(chapterPath({ slug: 'den-vang', edition: other }), `${editions.legacy.path}/den-vang`);
+  assert.equal(isLegacy({ edition: editions.current }), false);
+  assert.equal(isLegacy({ edition: other }), true);
 });
 
 

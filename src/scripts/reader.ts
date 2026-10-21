@@ -9,7 +9,8 @@ import { attachStars, formatNumber, store, toast } from './ui';
 export function initReader(): void {
   const article = document.querySelector<HTMLElement>('[data-chapter]');
   if (!article) return;
-  const { id, slug, title, label } = article.dataset as Record<string, string>;
+  const { id, slug, title, label, path } = article.dataset as Record<string, string>;
+  const legacy = article.dataset.legacy != null;
   const root = document.documentElement;
 
   // Text size
@@ -44,7 +45,7 @@ export function initReader(): void {
   }
 
   // Remember where the reader is, for "Đọc tiếp" on the home page
-  store('dv:last', JSON.stringify({ slug, title, label }));
+  store('dv:last', JSON.stringify({ slug, path, title, label, legacy }));
 
   // Translations
   if (prose) initTranslations(prose, document.querySelector<HTMLButtonElement>('[data-tr-all]'));

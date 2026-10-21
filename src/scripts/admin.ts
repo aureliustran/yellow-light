@@ -4,7 +4,7 @@
 import { browserClient, isConfigured } from '../lib/supabase';
 import { renderMarkdown, findMarkupProblems } from '../lib/markdown';
 import { slugify } from '../lib/slug';
-import { withNumbers, chapterLabel, isLive, type ChapterRow } from '../lib/chapters-shared';
+import { withNumbers, chapterLabel, chapterPath, isLive, type ChapterRow } from '../lib/chapters-shared';
 import { onMe, openLogin } from './auth';
 import { initTranslations } from './translations';
 import { initNotifications } from './notifications';
@@ -109,7 +109,11 @@ function startEditor(): void {
 
   const paintKind = () => (colorField.hidden = kind() !== 'interlude');
   const paintStatus = () => (publishField.hidden = f.status.value !== 'published');
-  const paintSlug = () => (slugPreview.textContent = f.slug.value || '…');
+  const slugBase = $('[data-slug-base]');
+  const paintSlug = () => {
+    slugBase.textContent = chapterPath({ slug: '', edition });
+    slugPreview.textContent = f.slug.value || '…';
+  };
   const paintSwatches = () =>
     swatches.forEach((s) => s.setAttribute('aria-pressed', String(s.dataset.swatch!.toLowerCase() === f.color.value.toLowerCase())));
 
@@ -147,9 +151,8 @@ function startEditor(): void {
     emptyEditor.hidden = true;
     const exists = currentId !== 'new';
     deleteBtn.hidden = !exists;
-    // Only the current edition has reader pages under /doc/ for now.
-    viewLink.hidden = !(exists && r.status && isLive(r as ChapterRow) && (r.edition ?? edition) === editions.current);
-    viewLink.href = `/doc/${r.slug ?? ''}`;
+    viewLink.hidden = !(exists && r.status && isLive(r as ChapterRow));
+    viewLink.href = chapterPath({ slug: r.slug ?? '', edition: r.edition ?? edition });
     saveState.textContent = exists && r.updated_at ? `Lưu lần cuối ${formatShort(r.updated_at)}` : 'Chưa lưu';
   }
 

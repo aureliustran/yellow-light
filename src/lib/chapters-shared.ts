@@ -1,5 +1,6 @@
 // Chapter helpers that work both on the server and in the browser.
-import type { Edition } from '../config';
+// .ts extension: this file is also loaded by Node (tests, crosspost, scripts).
+import { editions, type Edition } from '../config.ts';
 
 export type ChapterKind = 'chapter' | 'interlude';
 export type ChapterStatus = 'draft' | 'published';
@@ -53,4 +54,15 @@ export function chapterLinkName(c: { kind: ChapterKind; number: number | null; t
 
 export function isLive(c: Pick<ChapterRow, 'status' | 'publish_at'>, now = Date.now()): boolean {
   return c.status === 'published' && !!c.publish_at && Date.parse(c.publish_at) <= now;
+}
+
+// Where readers open a chapter: the current edition under /doc/, Legacy under
+// /legacy/. A row without an edition is from before editions: v1.
+export function chapterPath(c: { slug: string; edition?: Edition }): string {
+  const ed = c.edition ?? 'v1';
+  return `${ed === editions.current ? '/doc' : editions.legacy.path}/${c.slug}`;
+}
+
+export function isLegacy(c: { edition?: Edition }): boolean {
+  return (c.edition ?? 'v1') !== editions.current;
 }

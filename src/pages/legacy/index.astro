@@ -1,0 +1,70 @@
+---
+// Table of contents of the Legacy edition (the first version of the story).
+// Kept out of search engines: Google should lead to the current edition.
+import Base from '../../layouts/Base.astro';
+import Brand from '../../components/Brand.astro';
+import Account from '../../components/Account.astro';
+import ThemeToggle from '../../components/ThemeToggle.astro';
+import Footer from '../../components/Footer.astro';
+import Toc from '../../components/Toc.astro';
+import { story, editions } from '../../config';
+import { isConfigured } from '../../lib/supabase';
+import { getPublishedChapters } from '../../lib/chapters';
+import type { NumberedChapter } from '../../lib/chapters-shared';
+
+const name = editions.names[editions.legacy.id];
+let chapters: NumberedChapter[] = [];
+let problem: string | null = null;
+if (!isConfigured) {
+  problem = 'Trang chưa được kết nối với cơ sở dữ liệu.';
+} else {
+  try {
+    chapters = await getPublishedChapters(editions.legacy.id);
+  } catch (e) {
+    problem = 'Không tải được mục lục. Thử tải lại trang sau ít phút.';
+    console.error(e);
+  }
+}
+Astro.response.headers.set('Cache-Control', problem ? 'no-store' : 'public, s-maxage=30, stale-while-revalidate=300');
+
+const count = chapters.filter((c) => c.kind === 'chapter').length;
+const sites = story.crossposts.filter((c) => c.edition === editions.legacy.id);
+---
+<Base title={`Bản ${name}`} description={editions.legacy.note} noindex bodyClass="fog">
+  <header class="wrap site-header">
+    <Brand />
+    <nav class="nav" aria-label="Điều hướng chính">
+      <a href="/">Bản mới</a>
+      <ThemeToggle />
+      <Account />
+    </nav>
+  </header>
+
+  <main>
+    <section class="narrow legacy-intro" aria-labelledby="legacy-title">
+      <div class="eyebrow">Bản cũ{count > 0 && ` · ${count} chương`}</div>
+      <h1 id="legacy-title">{story.title} · {name}</h1>
+      <p>{editions.legacy.note}</p>
+      {sites.length > 0 && (
+        <p>
+          Bản {name} cũng đang được đăng trên{' '}
+          {sites.map((c, i) => (
+            <>{i > 0 && ', '}<a href={c.url} target="_blank" rel="noopener">{c.name}</a></>
+          ))}.
+        </p>
+      )}
+      <a class="btn primary" href="/">Đọc bản mới</a>
+    </section>
+
+    <section class="narrow toc" id="muc-luc" aria-labelledby="toc-title">
+      <div class="toc-head">
+        <h2 id="toc-title">Mục lục bản {name}</h2>
+      </div>
+      {problem && <p class="empty-note">{problem}</p>}
+      {!problem && chapters.length === 0 && <p class="empty-note">Chưa có chương nào.</p>}
+      {chapters.length > 0 && <Toc chapters={chapters} base={editions.legacy.path} writing={false} />}
+    </section>
+  </main>
+
+  <Footer />
+</Base>

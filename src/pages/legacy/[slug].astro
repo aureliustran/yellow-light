@@ -1,0 +1,28 @@
+---
+import ChapterPage from '../../components/ChapterPage.astro';
+import { isConfigured } from '../../lib/supabase';
+import { getChapterPage } from '../../lib/chapters';
+import { editions } from '../../config';
+
+// A Legacy chapter: same page as /doc/, with a banner, its own prev/next and
+// table of contents, and kept out of search engines.
+const { slug = '' } = Astro.params;
+let page: Awaited<ReturnType<typeof getChapterPage>> = null;
+let failed = false;
+if (isConfigured) {
+  try {
+    page = await getChapterPage(slug, editions.legacy.id);
+  } catch (e) {
+    failed = true;
+    console.error(e);
+  }
+}
+
+if (!page) {
+  Astro.response.status = failed ? 503 : 404;
+  Astro.response.headers.set('Cache-Control', 'no-store');
+} else {
+  Astro.response.headers.set('Cache-Control', 'public, s-maxage=30, stale-while-revalidate=300');
+}
+---
+<ChapterPage page={page} failed={failed} base={editions.legacy.path} legacy />

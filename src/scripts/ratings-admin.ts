@@ -1,5 +1,5 @@
 // /admin/ratings: who rated what, with flags for patterns that look like abuse.
-import { askBanDays, banLabel, guardAdmin } from './admin-gate';
+import { askBanDays, banLabel, chapterTitler, guardAdmin } from './admin-gate';
 import { h, timeAgo, toast } from './ui';
 
 interface AdminRating {
@@ -31,7 +31,8 @@ export function initRatingsAdmin(): void {
       const before = rows.length ? rows[rows.length - 1].rated_at : null;
       const { data, error } = await sb.rpc('admin_ratings', { p_limit: PAGE, p_before: before });
       if (error) return toast('Không tải được đánh giá: ' + error.message);
-      const page = (data ?? []) as AdminRating[];
+      const titled = await chapterTitler(sb);
+      const page = ((data ?? []) as AdminRating[]).map((r) => (r.chapter_id ? { ...r, chapter_title: titled(r.chapter_id, r.chapter_title) } : r));
       rows = rows.concat(page);
       more = page.length === PAGE;
       render();

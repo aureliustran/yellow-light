@@ -17,11 +17,15 @@ export function initHome(): void {
 
   // "Đọc tiếp": the last chapter opened on this device
   try {
-    const last = JSON.parse(store('dv:last') ?? 'null') as { slug: string; title: string; label: string } | null;
+    // Entries from before editions have no path: /doc/ sends them on to /legacy/ if needed.
+    const last = JSON.parse(store('dv:last') ?? 'null') as
+      | { slug: string; path?: string; title: string; label: string; legacy?: boolean }
+      | null;
     const link = document.querySelector<HTMLAnchorElement>('[data-continue]');
     if (last?.slug && link) {
-      link.href = `/doc/${encodeURIComponent(last.slug)}`;
-      link.textContent = `Đọc tiếp · ${last.label === 'Interlude' ? last.title : last.label}`;
+      link.href = last.path ?? `/doc/${encodeURIComponent(last.slug)}`;
+      const where = last.label === 'Interlude' ? last.title : last.label;
+      link.textContent = last.legacy ? `Đọc tiếp ${editions.names[editions.legacy.id]} · ${where}` : `Đọc tiếp · ${where}`;
       link.hidden = false;
     }
   } catch {

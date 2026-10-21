@@ -1,6 +1,6 @@
 # Plan: old story becomes "Legacy", v2 comes first; whole-story comments
 
-Oct 20, 2026. Development plan. **Step 1 of the rollout is built** (Oct 21, see "Status").
+Oct 20, 2026. Development plan. **Rollout steps 1 and 2 are built** (Oct 21, see "Status").
 
 ## Goal
 
@@ -16,8 +16,8 @@ Readers should see:
   đầu tiên, đã dừng lại"), chapter count, and a link to `/legacy`.
 - `/legacy`: the old TOC exactly as today's home TOC, under a banner saying this
   edition is finished and replaced.
-- Search engines go to v2: every Legacy page has `noindex` (with
-  `<link rel="canonical">` to the home page) and Legacy is left out of the sitemap.
+- Search engines go to v2: every Legacy page has `noindex` and Legacy is left
+  out of the sitemap.
 - An old chapter page: a thin "Legacy" banner at the top with a link to the new
   version, prev/next stay inside the old edition, numbering stays as it is today
   (starts at Chương 1). Comments and chapter ratings stay open.
@@ -292,6 +292,39 @@ What shipped, and where it differs from the design above:
 
 Not in step 1, moved to step 2: comment/rating admin pages and the digest
 naming the edition (they only matter once v2 chapters are public).
+
+### Step 2: built (Oct 21, 2026)
+
+- `src/components/ChapterPage.astro`: the chapter page, shared by
+  `src/pages/doc/[slug].astro` (current edition) and
+  `src/pages/legacy/[slug].astro`. For Legacy: banner "Legacy · Bạn đang đọc bản
+  viết đầu tiên… Đọc bản mới →", `noindex`, prev/next and "Mục lục" inside
+  `/legacy`, and the last chapter's "Tiếp" becomes "Hết bản Legacy · Đọc bản mới".
+- `src/pages/legacy/index.astro`: intro (`editions.legacy.note` in
+  `src/config.ts`), the line naming the sites that carry Legacy, Legacy's
+  Mục lục, `noindex`.
+- `src/components/Toc.astro`: the Mục lục lane, used by both.
+- `/doc/<slug>`: when it is not in the current edition but is in Legacy, 301 to
+  `/legacy/<slug>`. Only once `current` is not v1.
+- Home page: the Legacy card under Mục lục (only once `current` is not v1).
+  Footer: "Cũng đăng tại: Rookies.vn (bản Legacy)" from
+  `story.crossposts[].edition`.
+- "Đọc tiếp" remembers the page's path and says "Đọc tiếp Legacy · …" for Legacy.
+- Admin: "Xem" opens the right path for either edition; the address hint shows
+  `/doc/` or `/legacy/`. Comment and rating admin and the daily digest put
+  "Legacy · " before Legacy chapter titles once v2 is current.
+- The `/legacy` folder name in `src/pages/` must match `editions.legacy.path`.
+
+Checked with a stand-in database (3 Legacy rows, 2 v2 rows) and `current`
+switched to v2 locally: `/doc/den-vang` shows v2 Chương 0 (slug reused),
+`/doc/hong-phan` → 301 `/legacy/hong-phan`, unknown → 404, `/legacy/mot` (a v2
+slug) → 404, home card and footer line present, no sideways scroll at 390 px.
+With `current: 'v1'` (as committed) every page is unchanged; `/legacy` works
+as a preview (noindex, linked from nowhere).
+
+Next: step 3 (import v2 as drafts), then step 4 (switch `current`). Before
+step 4, rewrite `story.blurb`, `tagline`, `intro`, `tags`, `status` for v2 in
+`src/config.ts` (not `crosspost info --save`, see the handoff).
 
 **To deploy:** run `0008_editions.sql` in Supabase → SQL Editor first, then
 deploy the code. The other order breaks the home page's view count until the

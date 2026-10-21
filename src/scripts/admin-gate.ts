@@ -4,6 +4,7 @@
 import type { SupabaseClient } from '@supabase/supabase-js';
 import { browserClient, isConfigured } from '../lib/supabase';
 import { onMe, openLogin } from './auth';
+import { editions } from '../config';
 
 const $ = <T extends Element = HTMLElement>(sel: string) => document.querySelector<T>(sel)!;
 
@@ -49,4 +50,16 @@ export function askBanDays(name: string): number | null {
   if (v === null) return null;
   const n = Number.parseInt(v, 10);
   return Number.isFinite(n) ? n : null;
+}
+
+// Chapter titles in admin lists, with the edition's name in front for chapters
+// that are not in the current edition ("Legacy · Đèn vàng"). Loaded once per page.
+let legacyIds: Promise<Set<string>> | null = null;
+async function loadLegacyIds(sb: SupabaseClient): Promise<Set<string>> {
+  const { data } = await sb.from('chapters').select('id').neq('edition', editions.current);
+  return new Set((data ?? []).map((r: { id: string }) => r.id));
+}
+export async function chapterTitler(sb: SupabaseClient): Promise<(id: string | null, title: string) => string> {
+  const ids = await (legacyIds ??= loadLegacyIds(sb));
+  return (id, title) => (id && ids.has(id) ? `${editions.names[editions.legacy.id]} · ${title}` : title);
 }
