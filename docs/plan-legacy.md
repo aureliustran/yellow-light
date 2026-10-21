@@ -18,7 +18,12 @@ Readers should see:
   edition is finished and replaced.
 - An old chapter page: a thin "Legacy" banner at the top with a link to the new
   version, prev/next stay inside the old edition, numbering stays as it is today
-  (starts at Chương 1).
+  (starts at Chương 1). Comments and chapter ratings stay open.
+- Wherever the other sites are listed (footer, the Legacy card, `/legacy`), a line
+  says they carry Legacy, e.g. footer "Rookies.vn · bản Legacy" and on `/legacy`:
+  "Bản Legacy cũng đang đăng trên Rookies.vn." The site list comes from
+  `story.crossposts` in `src/config.ts`; each entry gets `edition: 'v1'`, and the
+  line is built from it, so when a site later moves to v2 only the config changes.
 
 ## Where things are today (what assumes one story)
 
@@ -61,9 +66,11 @@ alter table public.chapters add constraint chapters_slug_key unique (edition, sl
 - `chapters_before_write`: next position = `max(position) + 1` **within** `new.edition`.
 - `reorder_chapters(p_ids uuid[])` → `reorder_chapters(p_edition text, p_ids uuid[])`:
   the "every chapter exactly once" check runs over that edition only.
-- `get_story_stats()` → takes `p_edition text default 'v2'`. Story rating
-  (`story_ratings`) stays one rating for the work; decide below whether to reset it.
-- RLS does not change: an old chapter stays public because it is published.
+- `get_story_stats()` → takes `p_edition text default 'v2'`: views count only
+  that edition's chapters. Story rating (`story_ratings`) stays one rating for
+  the whole work and carries over to v2 unchanged.
+- RLS does not change: an old chapter stays public because it is published, and
+  comments and ratings on it stay open.
 
 Which edition is current lives in code, not the database:
 
@@ -122,11 +129,23 @@ old link opens the new chapter, which is the intended behaviour for a rewrite.
     current `content/import/` to `content/v1/` (Makefile and README updated).
 11. `scripts/export-chapters.mjs`: write `backup/chapters/v1/` and `backup/chapters/v2/`.
 12. `scripts/digest-lib.mjs`: prefix legacy chapter names with "Legacy ·".
-13. Crosspost (`crosspost/core/data.mjs`, `crosspost-admin.ts`, cli): only the
-    current edition by default; `--edition v1` to keep managing old posts.
-    The anti-duplicate keys (`site, chapter_id`) stay as they are; v2 chapters
-    are new ids so they never collide with v1 posts. Read
-    `.claude/skills/crosspost-site/SKILL.md` before touching this.
+13. Crosspost: **not changed in this work.** The other sites keep the Legacy
+    chapters as they are. One guard is still needed, because crosspost reads
+    every row of `chapters` by `position` (`crosspost/core/data.mjs`,
+    `src/scripts/crosspost-admin.ts`): once v2 rows exist, positions repeat per
+    edition and v2 chapters would mix into the list, get numbered with the old
+    ones, and could be queued. So both reads get `.eq('edition', 'v1')` (one
+    line each, no behaviour change today since every row is v1), with a comment
+    that crosspost is pinned to Legacy until the v2 crosspost work.
+    Known side effect: footer links already posted on rookies.vn point at
+    `/doc/<slug>`. They redirect to `/legacy/<slug>` until v2 reuses a slug,
+    then that link opens the v2 chapter. Fine for now; fix in the v2 crosspost
+    work by building footer links from the edition's path.
+
+    Later, v2 crosspost work (not now): current edition by default,
+    `--edition v1` for old posts. The anti-duplicate keys (`site, chapter_id`)
+    stay; v2 chapters are new ids so they never collide with v1 posts. Read
+    `.claude/skills/crosspost-site/SKILL.md` first.
     Chương 0 also touches crosspost numbering (`crosspost/core/crosspost.ts`):
     `parseRange` treats an open start ("-3") as 1, so it must become the
     edition's first number; `groups()` folds anything before "chapter 1" into
@@ -135,9 +154,13 @@ old link opens the new chapter, which is the intended behaviour for a rewrite.
     `--range 1-5` would skip ch. 0, so the docs and Makefile examples become
     `--range 0-5`. Site chapter titles ("Chương 0: …") need a check per site,
     since some sites number chapters themselves.
-14. `src/config.ts`: v2 blurb, intro, tagline, tags, status.
-15. Tests: `withNumbers` per edition (v2 starts at 0), `/doc` redirect lookup, import `--edition`,
-    crosspost list filter.
+14. `src/config.ts`: v2 blurb, intro, tagline, tags, status; `edition: 'v1'` on
+    each `crossposts` entry. `src/components/Footer.astro` and the Legacy card
+    show "· bản Legacy" for those entries. (`tagline`/`intro` are also copied to
+    other sites by `crosspost info --save`; don't run that until those sites
+    move to v2, or they would get the v2 intro on the Legacy story.)
+15. Tests: `withNumbers` per edition (v2 starts at 0), `/doc` redirect lookup,
+    import `--edition`, crosspost still sees only v1 rows.
 
 ## Rollout order
 
@@ -145,31 +168,33 @@ Each step deploys alone and changes nothing visible until step 4.
 
 1. Migration 0008 (all rows become `v1`). Code from steps 1–2, 9–11 reads
    `edition` but the home page still shows v1 as current (`current: 'v1'`).
+   The crosspost `v1` pin (13) ships here too: it must be live before any v2
+   row exists.
 2. `/legacy` routes and the shared chapter component; check every old chapter
    opens there with comments, ratings and views.
 3. Import v2 chapters as **drafts** with `--edition v2`; preview in admin.
 4. Switch `editions.current` to `'v2'`, publish v2 Chương 0 (or schedule it).
    From here `/doc/<old slug>` redirects.
-5. Crosspost decisions (below), then config texts on other sites.
 
 Rollback at any point before 4: nothing reader-facing changed. After 4: set
 `current` back to `'v1'` and redeploy.
 
-## Decisions for the author
+## Decisions
 
-1. **Comments on Legacy:** keep open, or read-only (old comments visible, no new
-   ones)? Read-only needs one RLS change: `chapter_is_public` stays, comment insert
-   also checks `edition = current`.
-2. **Story rating** (`story_ratings`): carry over to v2, or start fresh and show
-   the old score on `/legacy`?
-3. **Total views** on the home page: v2 only, or both editions together?
-4. **rookies.vn / truyennhaong:** leave the old chapters there, replace them
-   chapter by chapter with v2, or open v2 as a new work? This decides whether
-   crosspost needs a "replace remote chapter" mode.
-5. **Search engines:** index old chapters, or `noindex` them so Google sends
+Decided (Oct 21, 2026):
+
+1. Comments and chapter ratings on Legacy stay open.
+2. The story rating carries over to v2.
+3. Home page views count v2 only.
+4. Other sites keep Legacy; crosspost is not changed beyond the v1 pin. The site
+   says they carry Legacy.
+
+Open:
+
+5. **Search engines:** index Legacy chapters, or `noindex` them so Google sends
    readers to v2?
 
 ## Rough size
 
 Migration and lib: half a day. Routes, shared component, home card: a day.
-Admin, import/export, digest: half a day. Crosspost filter and tests: half a day.
+Admin, import/export, digest, crosspost pin and tests: half a day.
