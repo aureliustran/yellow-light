@@ -49,7 +49,7 @@ export const story = {
 // Switch `current` to 'v2' only when v2's first chapter is ready.
 export type Edition = 'v1' | 'v2';
 export const editions = {
-  current: 'v1' as Edition,
+  current: 'v2' as Edition,
   list: ['v2', 'v1'] as Edition[],
   names: { v1: 'Legacy', v2: 'Bản mới' } as Record<Edition, string>,
   // The old edition: its reader pages live under `path` and are kept out of search.
