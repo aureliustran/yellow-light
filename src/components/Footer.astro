@@ -1,5 +1,5 @@
 ---
-import { story } from '../config';
+import { story, editions } from '../config';
 ---
 <footer class="site-footer">
   <div class="narrow">
@@ -8,7 +8,7 @@ import { story } from '../config';
       <p class="also">
         Cũng đăng tại:{' '}
         {story.crossposts.map((c, i) => (
-          <>{i > 0 && ', '}<a href={c.url} target="_blank" rel="noopener">{c.name}</a></>
+          <>{i > 0 && ', '}<a href={c.url} target="_blank" rel="noopener">{c.name}</a>{c.edition !== editions.current && ` (bản ${editions.names[c.edition]})`}</>
         ))}.
       </p>
     )}

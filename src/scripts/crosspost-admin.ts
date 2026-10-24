@@ -105,7 +105,8 @@ function start(sb: SupabaseClient): void {
 
   async function load() {
     const [ch, st, ps, js, ws] = await Promise.all([
-      sb.from('chapters').select('id, slug, kind, title, color, story_date, status, publish_at, position, body').order('position'),
+      // Pinned to Legacy (v1), like crosspost/core/data.mjs: the other sites carry v1.
+      sb.from('chapters').select('id, slug, kind, title, color, story_date, status, publish_at, position, body').eq('edition', 'v1').order('position'),
       sb.from('crosspost_sites').select('*').eq('site', SITE).maybeSingle(),
       sb.from('crosspost_posts').select('*').eq('site', SITE),
       sb.from('crosspost_jobs').select('*').eq('site', SITE).order('id', { ascending: false }).limit(300),

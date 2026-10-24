@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 // One-time import of chapter files into the database.
 //
-//   npm run import                      # content/import/*.md, published now
+//   npm run import                      # current edition's folder, published now
+//   npm run import -- --edition v2      # one edition: v1 = content/import, v2 = content/v2
 //   npm run import -- --draft           # import as drafts instead
 //   npm run import -- --dry-run         # show what would happen, change nothing
 //   npm run import -- --overwrite       # also replace chapters that already exist
@@ -14,21 +15,33 @@
 // are not in the files keep their order and stay after the ones that are.
 // Chapters that already exist (same web address) are skipped unless you pass
 // --overwrite, so edits you made in the admin page are never lost by accident.
+// Everything happens inside one edition (src/config.ts → editions): matching by
+// web address, new positions and --reorder never touch the other edition.
 import { readdir, readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { adminClient } from './env.mjs';
 import { parseChapter } from './parse-chapter.mjs';
-import { interludeColors } from '../src/config.ts';
+import { interludeColors, editions, isEdition } from '../src/config.ts';
+
+const FOLDERS = { v1: 'content/import', v2: 'content/v2' };
 
 const args = process.argv.slice(2);
-const flags = new Set(args.filter((a) => a.startsWith('--')));
-const folder = args.find((a) => !a.startsWith('--')) ?? 'content/import';
+const at = args.indexOf('--edition');
+const edition = at >= 0 ? args[at + 1] : editions.current;
+if (!isEdition(edition)) {
+  console.error(`--edition phải là ${editions.list.join(' hoặc ')}`);
+  process.exit(1);
+}
+const rest = at >= 0 ? args.filter((_, i) => i !== at && i !== at + 1) : args;
+const flags = new Set(rest.filter((a) => a.startsWith('--')));
+const folder = rest.find((a) => !a.startsWith('--')) ?? FOLDERS[edition];
+console.log(`${editions.names[edition]} (${edition}) · thư mục ${folder}\n`);
 const dryRun = flags.has('--dry-run');
 const overwrite = flags.has('--overwrite');
 const reorder = flags.has('--reorder');
 const status = flags.has('--draft') ? 'draft' : 'published';
 
-const files = (await readdir(folder)).filter((f) => f.endsWith('.md')).sort();
+const files = (await readdir(folder).catch(() => [])).filter((f) => f.endsWith('.md')).sort();
 if (!files.length) {
   console.error(`Không có file .md nào trong ${folder}`);
   process.exit(1);
@@ -54,7 +67,7 @@ for (const file of files) {
 const sb = dryRun ? null : adminClient();
 let existing = [];
 if (sb) {
-  const { data, error } = await sb.from('chapters').select('id, slug, position');
+  const { data, error } = await sb.from('chapters').select('id, slug, position').eq('edition', edition);
   if (error) throw error;
   existing = data;
 }
@@ -90,7 +103,7 @@ for (const r of parsed) {
     console.log(`  ~ đã ghi đè      ${label}${extra}`);
     updated++;
   } else {
-    const { error } = await sb.from('chapters').insert({ ...payload, status, position: nextPosition++ });
+    const { error } = await sb.from('chapters').insert({ ...payload, edition, status, position: nextPosition++ });
     if (error) throw new Error(`${r.file}: ${error.message}`);
     console.log(`  + đã thêm        ${label} → /doc/${r.slug}${extra}`);
     created++;
@@ -101,7 +114,7 @@ if (reorder) {
   if (dryRun) {
     console.log('\nSắp xếp lại: sẽ đặt các chương theo thứ tự tên file (chạy thử, chưa đổi gì).');
   } else {
-    const { data, error } = await sb.from('chapters').select('id, slug, position').order('position', { ascending: true });
+    const { data, error } = await sb.from('chapters').select('id, slug, position').eq('edition', edition).order('position', { ascending: true });
     if (error) throw error;
     const inFiles = parsed.map((p) => data.find((d) => d.slug === p.slug)).filter(Boolean);
     const others = data.filter((d) => !inFiles.includes(d));

@@ -1,6 +1,6 @@
 // /admin/comments: every comment on the site, reported ones first if you want,
 // with hide / restore / delete / ban, plus the blocked-word list.
-import { askBanDays, banLabel, guardAdmin } from './admin-gate';
+import { askBanDays, banLabel, chapterTitler, guardAdmin } from './admin-gate';
 import { formatNumber, h, timeAgo, toast } from './ui';
 
 interface AdminComment {
@@ -29,7 +29,8 @@ export function initModeration(): void {
       const before = rows.length ? rows[rows.length - 1].created_at : null;
       const { data, error } = await sb.rpc('admin_comments', { p_filter: filter, p_limit: PAGE, p_before: before });
       if (error) return toast('Không tải được bình luận: ' + error.message);
-      const page = (data ?? []) as AdminComment[];
+      const titled = await chapterTitler(sb);
+      const page = ((data ?? []) as AdminComment[]).map((r) => ({ ...r, chapter_title: titled(r.chapter_id, r.chapter_title) }));
       rows = rows.concat(page);
       more = page.length === PAGE;
       render();

@@ -7,6 +7,11 @@ name: Import chapters
 on:
   workflow_dispatch:
     inputs:
+      edition:
+        description: 'Edition to import into: v1 (Legacy, content/import) or v2 (content/v2). Empty = the current one in src/config.ts'
+        type: choice
+        options: ['', 'v1', 'v2']
+        default: ''
       overwrite:
         description: 'Replace chapters that already exist (--overwrite). Edits made in /admin are lost.'
         type: boolean
@@ -59,6 +64,7 @@ jobs:
       - name: Import
         run: |
           ARGS=""
+          if [ -n "${{ inputs.edition }}" ]; then ARGS="$ARGS --edition ${{ inputs.edition }}"; fi
           if [ "${{ inputs.overwrite }}" = "true" ]; then ARGS="$ARGS --overwrite"; fi
           if [ "${{ inputs.reorder }}" = "true" ]; then ARGS="$ARGS --reorder"; fi
           npm run import -- $ARGS

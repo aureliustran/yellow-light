@@ -4,7 +4,7 @@ import Brand from '../../components/Brand.astro';
 import Account from '../../components/Account.astro';
 import ThemeToggle from '../../components/ThemeToggle.astro';
 import AdminNav from '../../components/AdminNav.astro';
-import { interludeColors } from '../../config';
+import { interludeColors, editions } from '../../config';
 import '../../styles/admin.css';
 export const prerender = true;
 ---
@@ -40,6 +40,16 @@ export const prerender = true;
             Chương mới
           </button>
         </div>
+        <div class="edition-pick">
+          <label for="f-edition">Bản</label>
+          <select id="f-edition" data-edition>
+            {editions.list.map((ed) => (
+              <option value={ed} selected={ed === editions.current}>
+                {editions.names[ed]} ({ed}){ed === editions.current ? ' · đang hiện trên trang' : ''}
+              </option>
+            ))}
+          </select>
+        </div>
         <ol class="ch-list" data-list aria-label="Danh sách chương, kéo để sắp xếp"></ol>
         <p class="list-note">Kéo biểu tượng ⋮⋮ hoặc dùng mũi tên để đổi thứ tự. Thứ tự được lưu ngay, số chương tự đánh lại.</p>
       </aside>
@@ -64,7 +74,7 @@ export const prerender = true;
             <div class="field">
               <label for="f-slug">Địa chỉ trang</label>
               <input id="f-slug" type="text" name="slug" required pattern="[a-z0-9]+(-[a-z0-9]+)*" autocomplete="off" spellcheck="false" />
-              <span class="help">/doc/<span data-slug-preview></span></span>
+              <span class="help"><span data-slug-base>/doc/</span><span data-slug-preview></span></span>
             </div>
           </div>
 
