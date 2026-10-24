@@ -86,8 +86,8 @@ Thuyên đọc từng người và đổi giọng theo họ. Ba lớp giọng t�
 
 - **Đàn em:** dịu dàng, nâng đỡ, góp ý cụ thể, động viên.
 - **Bạn thân con trai:** chửi thẳng, thân mật, lầy bựa ("ok vua hợi", "im mồm đi"). Không mỉa. Với Vũ là trêu nhau, khoe khoang vớ vẩn, bóc phốt nhau trước mặt người khác.
-- **Người yêu (Diệp Anh):** cứng với cả thế giới, nũng với một người. Càng thành công càng nũng, thích làm cô ghen như trẻ con thích được giành.
-- **Nhi:** chọc như chọc trẻ con. Chọc là cách anh thân với cô mà không phải thừa nhận.
+- **Diệp Anh (v2: đồng minh, trên mức đối tác, tình cảm thật, không yêu chính thức):** đùa ngang tốc độ, sắc, có chủ đích; ít cợt nhả hơn với Nhi, vì đây là chỗ anh còn tính. Sau đêm 31/12 (anh từ chối lời tỏ tình), phần thân mật dừng hẳn. *Bản cũ:* người yêu, "cứng với cả thế giới, nũng với một người".
+- **Nhi:** chọc như chọc trẻ con, độc miệng, cợt nhả gần như suốt. Đây là dấu hiệu anh đang thoải mái, không tính (v2). Dịu dàng nằm ở hành động (mục "Dịu dàng không thừa nhận" bên dưới).
 - **Meme trẻ con:** Thuyên hay tự làm mấy trò meme của học sinh cấp hai (giơ tay "six seven", trùm mũ hoodie rồi nhận mình đang "aura farming"), xong quay sang gọi người khác là "kid". Thêm: chọc ngoáy ai đó xong lấy ngón tay vuốt dọc xương hàm, tự nhận mình là "sigma"; solo bóng rổ thắng Vũ thì "gg fvcking ez"; ghép đôi người khác (ghép Nhi với một bạn nào đó dai đến mức cô khóc). Tóm lại, với người thân Thuyên thích rage bait. Một kiểu tự giễu, dùng với Vũ, Nhi, đàn em. Không dùng ở chỗ làm, không dùng với người lớn: đây là dấu hiệu anh đang thoải mái. Ở giai đoạn biến chất, trò này thưa dần.
 - **Con trai chưa thân:** thẳng nhưng nhẹ hơn một nấc.
 - **Người lạ làm anh không vừa ý:** mỉa mai, cay ngầm, đủ để chích nhưng không đủ để đối phương nổi khùng.

@@ -53,7 +53,10 @@ Giữ lõi [nguyên liệu: bible cũ, `the-nhan-vat-nhi.md`, `M-he-gia-tri-nhi.
 - **Khí chất sang [đề xuất]:** bảng kiểm tám điều và tham chiếu ở `00-quyet-dinh-v2.md` mục 2. Gương với Diệp Anh: Diệp Anh *dựng* khí chất sang, Nhi *có* nó.
 - **Cảm được Thuyên rút lui, gọi sai lý do [đề xuất]:** "Anh ấy đẩy mình sang Phong vì anh ấy không thích mình."
 - **Cú tát [chốt]:** dỗi, tát anh, lần này anh không chặn. [đề xuất] Một lần duy nhất trong truyện.
-- **Nhận ra giọng Thuyên trong lời Phong [đề xuất]:** Phong nói những câu quá trúng; Nhi nhận ra khung "chấm – vì sao – ví dụ" của buổi học thứ Năm. Từ chối Phong: "Câu này không phải của cậu."
+- **Nhận ra giọng Thuyên trong lời Phong [đề xuất, đang mở]:** Phong không tỏ tình ở giai đoạn 1 nữa; còn mở giữ ý này ở mức nhỏ hay bỏ.
+- **Biệt danh [chốt 20/10]:** Sóc.
+- **Phản kháng nhiều hơn bản cũ [đề xuất]:** cãi, "Đừng khen em", "Anh đáng ghét", đấm (motif hài; tát chỉ một lần ở *Mixue*). Chủ động kéo anh đi "hoạt động ngoại khóa".
+- **Tỏ tình không kiểm soát [chốt 19–20/10]:** đêm say cuối giai đoạn 1 ("Em thích anh."). Chi tiết ở `brief-tinh-cam-thuyen-nhi.md`.
 
 ### 2.3 Diệp Anh (đồng minh, nữ phụ)
 
@@ -62,9 +65,10 @@ Giữ lõi [nguyên liệu: bible cũ, `the-nhan-vat-nhi.md`, `M-he-gia-tri-nhi.
 - **Vị trí [chốt]:** bố là **giám đốc một mảng** ở Astrea Logistics. Cô không làm thực tập sinh: đủ giỏi, và là con giám đốc. Vẫn là sinh viên năm cuối Học viện Ngoại giao [nguyên liệu].
 - **Mảng của bố [đề xuất]:** giao nhận chặng cuối. Bài toán thật năm 2027: địa chỉ Việt Nam (ngõ ngách, số nhà nhảy cóc). Thiên Nhãn nhận diện mái nhà, nên bản đồ điểm giao cho shipper là sản phẩm bán được ngay.
 - **Quyền lực không chính thức [đề xuất]:** không có chức danh. Quyền đi qua bố và qua hội con nhà các ông lớn, đúng loại ghế do người khác xếp cho mà cô ghét. Liên minh với Thuyên hứa cho cô một ghế thật: pilot giao nhận thành công thì cô có tên trong dự án.
-- **Quan hệ với Thuyên [chốt]:** đồng minh, cùng lập phe từ đầu. Không yêu chính thức. Fan service nâng đến mức **đụng chạm, gợi dục**, dù chưa mập mờ.
+- **Quan hệ với Thuyên [chốt]:** đồng minh, cùng lập phe từ đầu. Không yêu chính thức. Fan service nâng đến mức **đụng chạm, gợi dục**. **[chốt 20/10]** Trên mức đối tác, tình cảm là thật, có mập mờ ít nhất từ phía cô.
+- **Lời tỏ tình bị từ chối [chốt 20/10]:** đêm 31/12, OT ở tầng 17, chỉ còn hai người, xem pháo hoa qua vách kính. Cô tỏ tình bằng câu đầu tiên không viết trước. Thuyên nhận ra mình đang soạn câu trả lời: thoải mái khi ở cạnh Nhi, với cô vẫn phải tính. Anh từ chối, không nhắc đến Nhi. 0 giờ, Locket của Nhi đến, anh bật cười; cô đọc ra cái cười ấy là của ai. Phần sau đêm này chưa tính.
 - **Gặp nhau [nguyên liệu: MUN, bible cũ]:** MUN, câu hỏi mồi, "Em không đủ tư cách. Nhưng chị sẽ cho em dự thính." [đề xuất] Ở v2, "dự thính" nối thẳng vào lab: cô đưa anh vào một buổi làm việc giữa lab và Logistics.
-- **Thời điểm fan service [đề xuất]:** đỉnh đặt trước khi Thuyên – Nhi mập mờ. Khi anh nghiêng về Nhi, anh rút khỏi cô, không giải thích. Cô đọc ra: người cô mất anh vào tay là con gái người đã mua công ty bố mình, cô bé từng khiến cả hội cười năm 2019 [nguyên liệu: module Diệp Anh mục 5].
+- **Thời điểm fan service [đề xuất]:** đỉnh ở tháng 11–12 (những lần đi chơi với danh nghĩa đi làm, thám thính; chưa tính), trước khi Thuyên – Nhi mập mờ, khép lại bằng lời từ chối đêm 31/12. Cô đọc ra: người cô mất anh vào tay là con gái người đã mua công ty bố mình, cô bé từng khiến cả hội cười năm 2019 [nguyên liệu: module Diệp Anh mục 5].
 - **Ván cược [đề xuất]:** Khải đưa một ghế chính thức, có hợp đồng, có KPI, ngay lập tức. Cô đổi ghế đang hứa lấy ghế đã ký. Không ai ép; Khải không nhắc đến bố cô [nguyên liệu: luật "không ai ép"].
 - **Đổi phe công khai sau khi Thuyên ngã [đề xuất]**, trông như nước đi hợp lý của kẻ thắng. Thuyên đọc đó là hệ quả, không phải nguyên nhân, và tha cho cô [chốt: bị đồng minh phản bội dễ chấp nhận hơn bị người yêu phản bội].
 - **Phần 4 [nguyên liệu, cần xem lại]:** giám đốc truyền thông của tập đoàn; lần đầu đặt sự thật lên trên hình ảnh.
@@ -75,7 +79,7 @@ Giữ lõi [nguyên liệu: bible cũ, `the-nhan-vat-nhi.md`, `M-he-gia-tri-nhi.
 - **Giữ bề mặt [nguyên liệu: bible cũ]:** bạn cùng nhóm Economics của Nhi ở RMIT; lịch sự, hơi sốt sắng, xưng tớ – cậu, gọi Thuyên "anh ạ"; nhớ chi tiết nhỏ (Nhi thích ảnh phim), khen kẹp tóc đúng màu, xách túi hộ; mời xem triển lãm ảnh phim.
 - **Thứ Phong có mà Thuyên thiếu [đề xuất]:** Phong hỏi, Thuyên đọc. Với Nhi, người cả đời "được đồng ý mà không được nghe", đó là sức hút thật.
 - **Danh sách mai mối [đề xuất, câu hỏi mở 1]:** nhà Phong là đối tác Astrea; tên cậu nằm trong danh sách "môn đăng hộ đối" bố mẹ Nhi lập. Phong không biết. Lựa chọn của Nhi là tự do hay thoải mái, không phải người tốt hay người xấu.
-- **Lời tỏ tình mượn [đề xuất]:** dùng những câu Thuyên dạy; bị Nhi nhận ra và từ chối.
+- **Tỏ tình như bản cũ [chốt 20/10]:** định tỏ tình ở tiệc Nhi đạt aim (cuối giai đoạn 2), rút lại, hỏi "Cậu thích anh ấy à?" (câu để dành từ *Portra 400*). Thay cho ý "lời tỏ tình mượn".
 - **Ngày 16/7 [đề xuất]:** người ở lại với Nhi là Phong.
 - **Luật:** Phong không bao giờ làm điều xấu để giữ chỗ. Cậu thua vì không phải người Nhi muốn.
 
@@ -141,27 +145,32 @@ Mốc thời gian lấy từ bản cũ là [nguyên liệu]; cần soát lại k
 - Phần lõi thành thứ chỉ Thuyên hiểu [nguyên liệu].
 
 **Tình cảm:**
-- Diệp Anh: fan service đụng chạm, gợi dục, đỉnh ở giai đoạn này [chốt + đề xuất thời điểm]. Nguyên liệu dùng lại được: MUN, "dự thính", sân bóng, bờ Hồ đêm giao thừa (bỏ "mình là gì của nhau"), ảnh daily, gối đầu lên đùi (F1).
-- Nhi: các buổi học thứ Năm, rage bait, F8, Locket, ảnh daily [nguyên liệu]. Hội đồng của Nhi ra mắt. Chưa mập mờ.
-- Phong xuất hiện, thích Nhi.
+Kế hoạch chi tiết, lịch 2024–2025: `brief-tinh-cam-thuyen-nhi.md` (mục 7).
+- Diệp Anh: fan service đụng chạm, gợi dục, đỉnh ở tháng 11–12 [chốt + đề xuất thời điểm]. Nguyên liệu dùng lại được: MUN, "dự thính", ảnh daily, gối đầu lên đùi (F1). Bỏ cảnh sân bóng của cô. Khép lại đêm 31/12: cô tỏ tình, Thuyên từ chối.
+- Nhi: học hai buổi một tuần (Chủ nhật, thứ Năm) và các "hoạt động ngoại khóa" cô kéo anh đi (chụp ảnh, mưa, công viên, mall và arcade, phim, đi chơi đêm, xem pickup). Hội đồng của Nhi ra mắt. Phong xuất hiện, thích Nhi.
+- **Chuỗi Phong ở giai đoạn 1 [chốt 19–20/10]:** đề boyfriend (tháng 12, "never date someone like that") → Thuyên lùi, làm quân sư cho Phong → ghép đôi lần một (buổi học bốn người), lần hai (công khai ở sân pickup: "thầy thì nghèo quá…"), lần ba (*Mixue*: khóc, tát, kem).
+- Tháng 1–3: Nhi mập mờ từ phía mình.
+- **Đêm say cuối giai đoạn 1 [chốt]:** Nhi tỏ tình không kiểm soát; Thuyên dỗ, gọi "bé". Hội đồng che: "cột điện". Sau đó khảo sát qua, sang giai đoạn 2.
 
 ### 4.2 Giai đoạn 2 – Tấn công (khoảng 4/2027 đến 15/7/2027)
 
 **Tình cảm, theo thứ tự [đề xuất]:**
-1. Thuyên – Nhi bắt đầu mập mờ. Thuyên rút khỏi Diệp Anh; cô đọc ra.
-2. Thuyên để ý Phong thích Nhi, lùi lại quan sát. Làm quân sư cho Phong; ghép đôi khi Phong vắng.
-3. ***Mixue***: ghép lần ba → Nhi khóc → tát → tay anh dừng nửa đường → kem [chốt: tát, không chặn; đề xuất: vị trí]. Luật: có lý do người đọc đồng ý; register dỗi, không tả đau.
-4. Nhi cảm được anh rút lui, gọi sai lý do. Hội đồng họp, Nhi bỏ qua.
-5. Phong tỏ tình bằng lời Thuyên dạy; Nhi nhận ra, từ chối.
-6. Thuyên quan sát ra kết quả: Nhi không chọn Phong. Quyết định tỏ tình vào ngày nhận ghế vận hành chính.
-7. Rạn nứt với Vũ (12/6): mất hội đồng.
+Chuỗi Phong đã chạy hết ở giai đoạn 1. Giai đoạn 2 là lúc Thuyên tự mãn [chốt 19–20/10]:
+1. Xác nhận Nhi thích mình: đọc lại lời "Em thích anh" ở đêm say bằng sự tự tin mới.
+2. Mập mờ có chủ đích từ phía Thuyên [đề xuất].
+3. Kể Nhi phiên bản gần sự thật nhất (xem dưới).
+4. Hội đồng chuyển sang cảm tình; đòn "gia thế không xứng" lần đầu trúng. Anh chờ ghế 50 triệu để tỏ tình trong vai người thắng.
+5. *Hồng đào*: Nhi nói cô thích giọng ở nhà của anh.
+6. Rạn nứt với Vũ (12/6): mất hội đồng.
+7. Tiệc Nhi đạt aim: Phong định tỏ tình, rút lại, hỏi "Cậu thích anh ấy à?"
+8. Bảng tính tỏ tình; câu đùa với Nhi thưa dần.
 
 **Lab [đề xuất, nguyên liệu: chuỗi domino bản cũ]:**
 - Thích nghi → thao túng → thủ đoạn chủ động. Ván tầng 17 (danh sách nhân sự vận hành) chuyển sang tấn công.
 - Đề xuất drone để cắm cờ, bị gạt đúng.
 - Biến chất: tiệc mừng R&D (18/6), giỗ ông (26/6) với lời khoe 50 triệu [nguyên liệu].
 - Khải truy dấu vết: các phiên bản lệch nhau, lịch sử chỉnh sửa, mốc giờ từ Nhi [nguyên liệu].
-- **Ván cược Diệp Anh**, sau khi Thuyên rút khỏi cô.
+- **Ván cược Diệp Anh**, sau khi Thuyên từ chối cô (31/12). Thời điểm cụ thể chưa tính.
 
 **Thông tin Thuyên kể cho Nhi [đề xuất]:** vì là người anh định tỏ tình, anh kể Nhi phiên bản gần sự thật nhất, nhiều hơn bản cũ. Đó chính là những mảnh sẽ lên bàn.
 

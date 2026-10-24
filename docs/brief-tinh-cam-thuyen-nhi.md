@@ -165,6 +165,33 @@ Luật viết nằm ở `01-rules-viet.md`, mục "Dịu dàng không thừa nh�
 
 **Cách viết** (theo *3107*): giác quan cụ thể kể cả vị và nhiệt; phản ứng lan trên da; đo bằng đơn vị rất nhỏ (một phân, hai đốt ngón tay, năm giây); ẩn dụ từ chữ và giấy; câu ngắn đứng riêng một dòng để dừng nhịp; một vật làm trật tự giữa lúc rối (tấm sticker, cốc đá, đống xu). Giới hạn và cách viết cảnh thân mật theo `01-rules-viet.md`, mục "Cảnh nóng và fan service".
 
+## 5f. Kho chi tiết gợi cảm (Thuyên – Nhi)
+
+Dùng theo thang ở mục 5e: cùng một chi tiết, nấc càng cao thì ý nghĩ của Thuyên càng đi xa. Giới hạn và cách viết theo `01-rules-viet.md`, mục "Cảnh nóng và fan service".
+
+**Trục chính: tưởng gầy mà mềm.** Da cô lún xuống mỗi lần có gì chạm vào, rồi đầy dần lên lại, như mặt nệm sau khi người ta đứng dậy: ngón tay dưới cằm lúc chỉnh quai mũ, vệt quai túi trên vai, cạp quần cắt vào eo, má dưới ngón cái lúc lau nước mắt. Da cô giữ lại vết của mọi thứ đè lên nó đủ lâu.
+
+**Nhịp một khoảnh khắc:** chạm tình cờ hoặc "tiện tay" → da lún rồi đầy lại, anh nhận ra cô mềm hơn vẻ gầy → ý nghĩ chạy (dài hay ngắn theo nấc) → một vật để bám vào cho tỉnh (tấm sticker, đống xu, khóa quai mũ) → câu độc miệng đóng lại, thường đổi lại một cú đấm.
+
+| Chi tiết | Bối cảnh | Phản ứng của Thuyên |
+| --- | --- | --- |
+| Áo trễ vai: da mịn ở vai, hõm xương quai xanh, vệt quai túi, dây áo lót mảnh lộ một vệt | Buổi học dưới điều hòa | Nhìn lên sticker *18 MONTH WARRANTY*, đọc hai lần; tăng nhiệt độ điều hòa. "Em hở vai thế này mai lại mất giọng." Cô không kéo áo lên |
+| Baby tee: vệt eo lộ khi cô vươn tay, đường hông, cạp quần cắt vào eo | Mall, arcade, máy gắp thú | Thắng máy gắp vì không dám nhìn sang. "Áo em co lại hay em lớn ra?" |
+| Ngón tay dưới cằm lúc chỉnh quai mũ tai mèo | Mọi lần đi xe | Vệt hồng mờ hình đốt ngón tay. "Lần sau cài lệch thì tự chịu" |
+| Váy ngắn, đùi lúc co chân lên ghế nhung | Buổi học | Ý nghĩ gối đầu lên đùi |
+| Tóc ướt dính má và cổ, áo ướt bám vào người | Ngoại khóa chụp ảnh về dính mưa | Ba giây quay về; trùm áo khoác lên cô: "Che máy ảnh. Máy đắt hơn em." |
+| Áo khoác của anh trùm quá gối, tay áo dài quá ngón | Đêm trốn nhà | Nhìn lâu nhất ở đêm này: cô trong áo của mình |
+| Cắn dây chun khi buộc lại tóc, gáy lộ ra | Buổi học | Ý nghĩ về cái dây chun |
+| Liếm môi khi nghĩ câu trả lời | Buổi học Speaking | Đổi chủ đề sang phát âm |
+| Mắt cá chân, móng chân sơn hồng trong dép | Công viên, buổi học | Một giây, rồi chê màu sơn |
+| Áo phông bị gió thổi dính vào người | Ngoại khóa ở bãi đá sông Hồng | Lùi ra sau chụp ảnh, nhìn qua ống kính cho an toàn |
+| Môi bóng sau cốc trà sữa | Mọi buổi | Gọi lại môi lúc tập âm *th* ở buổi 1 |
+| Cổ áo len trượt khi cô ngủ gật trên bàn | Buổi học khuya trước thi thử | Kéo cổ áo lên, rút tay ngay. Cô không biết |
+
+**Chiều ngược lại, Nhi nhìn Thuyên** (độ gợi theo mức anh thích cô): cẳng tay lúc xắn tay áo, đường gân chạy đến cái Casio (A5); ở sân, áo ướt dính lưng, cơ bụng lộ khi lên rổ, giọt mồ hôi trượt xuống yết hầu [nguyên liệu ch.23]; kính nửa gọng lúc chấm bài; đỏ gáy khi bị cô bắt gặp đang nhìn. Nhi không có ba giây: nhìn bao lâu tùy thích, nói ra luôn, rồi ngượng trong interlude.
+
+**Giai đoạn 2:** khi anh tự mãn và biết cô thích mình, ánh nhìn của anh không còn bị cắt; anh cho phép mình nhìn lâu. Nhi nhận ra, và đó là một dấu hiệu nhỏ của biến chất.
+
 ---
 
 ## 6. Lịch gặp: gấp đôi bản cũ
@@ -172,7 +199,7 @@ Luật viết nằm ở `01-rules-viet.md`, mục "Dịu dàng không thừa nh�
 - **Học hai buổi một tuần, Chủ nhật và thứ Năm** [nguyên liệu: bản cũ]. Từ CN 27/10/2024 đến trước Tết (29/1/2025) có **27 buổi**.
 - Chỉ kể những buổi có chiến trường mới. Các buổi khác còn một dòng, một tin nhắn, hoặc nằm trong biên bản hội đồng.
 - **Ngoại khóa ngoài lịch học** (thứ Bảy, tối, hiệp phụ kéo dài): số lần gặp Nhi tăng gấp đôi.
-- Khung dưới đây có **5 buổi học kể thành chương** và **5 ngoại khóa**, xen kẽ. Số buổi không giới hạn.
+- Khung dưới đây có **5 buổi học kể thành chương**, **5 ngoại khóa**, buổi đề boyfriend, đêm 31/12, *Mixue* và đêm say, xen kẽ. Số buổi không giới hạn.
 
 ## 7. Giai đoạn 1 (lịch 2024–2025)
 
@@ -252,10 +279,19 @@ Luật viết nằm ở `01-rules-viet.md`, mục "Dịu dàng không thừa nh�
   - Kế hoạch phản tác dụng; An Nhiên ghi sổ.
 - **Nấc thay đổi:** ra bãi xe, cô bảo bài review phim của anh "vô cảm". Anh nói đúng một câu thật về bộ phim, rồi cợt nhả lại ngay.
 
+### Bản lề lùi – Đề boyfriend (CN 8/12). Chiến trường: thi thử Part 2
+Dời từ *Hồng cánh sen* cũ và từ bản brief trước (sau Tết) lên đây.
+- **Đề:** *Describe the kind of person you would like to have as a boyfriend.*
+- **Nội dung:** sau sáu tuần, Nhi tả anh bằng chính những gì đã xảy ra: cao, quên ô, đi Crocs, nói một nửa rồi đóng cửa nửa kia, chê đúng chỗ, thấy trước cú đấm mà không chặn, máy gắp thú "tiện tay", kể tinh vân say sưa như đứa trẻ. Anh đỏ tai suốt bài.
+- Kết bài: "*So that is why I would never date someone like that.*" Cô nói ngược vì hội đồng, vì kiêu, và vì sợ.
+- **Thuyên tin từng chữ của người nói thẳng** (kho: "Lời nói ngược bị tin theo nghĩa đen"). Anh hụt, rồi nhẹ nhõm, khen "đúng khung, Coherence tám".
+- **Hệ quả:** anh lùi lại và bắt đầu làm quân sư cho Phong. Trong mắt anh đó là tử tế: giúp cô có một người tốt. Anh vẫn không ghen ra mặt; ghen rò qua việc đọc Phong quá kỹ và kết luận "thằng này tốt"; Vũ gọi đúng tên: "Mày đang lùi đấy à?"
+- Tờ đề Nhi kẹp trong sổ hồng; gọi lại ở Phần Lan.
+
 ### Buổi 4 – Buổi học bốn người (T5 12/12). Chiến trường: thi thử Speaking có khán giả
 - Hội đồng dắt Phong đến đúng giờ học. Anh kê thêm ghế và biến buổi phá đám thành buổi thi thử: chấm cả Châu, Ngọc, An Nhiên, Phong.
 - Đòn mẫu của hội đồng chạy trên chiến trường này: Châu "phỏng vấn", An Nhiên đố rượu vang.
-- Lần ghép đôi đầu tiên, lúc Phong ra ngoài nghe điện thoại: "Bạn ấy được đấy." Nhi đấm, mạnh hơn mọi lần.
+- **Ghép đôi lần một** (bốn ngày sau đề boyfriend), lúc Phong ra ngoài nghe điện thoại: "Bạn ấy được đấy." Nhi đấm, mạnh hơn mọi lần.
 - **Hệ quả:** hội đồng có lần đầu bất lực tập thể.
 
 ### Ngoại khóa số 4 – Trốn nhà đi chơi đêm (T6 20/12)
@@ -274,20 +310,66 @@ Luật viết nằm ở `01-rules-viet.md`, mục "Dịu dàng không thừa nh�
 - Giữa buổi, một tờ giấy nhớ cô viết rồi vò lại trước khi anh kịp đọc. Bản giấy của câu bị ngậm lại ở buổi 1.
 - **Hệ quả:** anh giữ một tờ giấy nhớ không phải bài làm. Không ai biết anh giữ.
 
-### (Chỗ trống tháng 12)
-Đêm nhậu cũ (28/12) đã dời xuống cuối giai đoạn 1 (xem "Cuối giai đoạn 1 – Đêm say"). Chỗ này có thể lấp bằng một cảnh trong mục 8, ví dụ đêm Noel trùng hẹn với Diệp Anh, hoặc để trống cho tuyến Diệp Anh.
+### Ngoại khóa số 5 – Pickup ở sân thuê (T7 28/12)
+- **Cớ:** *describe a sport you enjoy watching*. Giờ nghỉ, anh giảng luật bóng rổ bằng tiếng Anh như bình luận viên (pick and roll, help defense), đúng cái vốn học từ video phân tích bật 0.75.
+- **Bối cảnh:** sân thuê kẻ vạch đầy đủ, pickup tối, chia tiền sân. Thay cho cảnh sân của Diệp Anh (bỏ).
+- **Hội sân** (đội bóng rổ cấp 3 ở trường chuyên, ra Hà Nội học mỗi người một trường, giữ lịch đánh chung; thêm người ngoài). Thuyên không lớn tuổi nhất, không đánh hay nhất:
+  - *Hơn tuổi:* **anh Long** (đàn anh cấp 3, đã đi làm, người kéo Thuyên vào sân hồi lớp 10; top 2–4); một đàn anh cấp 3 khác (đến không đều); **cựu cầu thủ trẻ một CLB giải VBA** (người ngoài, nghỉ vì chấn thương, thường top 1); ông chú khoảng 35 tuổi (dân văn phòng, đánh như máy); **Linh – "mana"** (đàn chị cấp 3; giữ quỹ sân, chia tiền, lên lịch, lo nước, chạy TikTok của sân; không đánh, quyền lực nhất sân).
+  - *Bằng tuổi:* **Tùng** (đồng khóa cấp 3, thích Linh từ hồi cấp 3; Thuyên làm quân sư cho Tùng đã khoảng năm năm); một đồng khóa cấp 3 nữa (Bách khoa hoặc Kinh tế Quốc dân, biết hết chuyện cũ); **thành viên đội tuyển bóng rổ một trường đại học** (người ngoài, top 1–3, nhanh đến mức Thuyên khó đọc); Vũ.
+  - *Kém tuổi:* **Hưng** (năm hai, đàn em cấp 3, hậu vệ nhanh, crossover gắt, qua được Thuyên một pha); **Quân** (năm nhất, đàn em cấp 3, cao, chắn bóng giỏi, ném vụng); một hai đàn em cấp 3 nữa; tùy chọn một người nước ngoài từng chơi bóng rổ trung học ở Mỹ (nói tiếng Anh trên sân).
+  - Một số người trong hội học cùng đại học với Thuyên.
+- **Thuyên trên sân:** đánh rất hay, chỉ là có người hay hơn. **Top 2–7** tùy tối ai đến: top 2 khi vắng người bán chuyên, tụt về 5–7 khi họ đến đông.
+  - Ít nói lúc đánh; cợt nhả và trash talk chỉ trước, sau trận hoặc trong solo với Vũ.
+  - Lối chơi: cá nhân học từ Kyrie (xử lý bóng sát sàn, đổi tay, dứt điểm khéo), isolate, makeplay, thủ zone vòng ngoài, bait. Không đè bằng thể lực; thăm dò vài pha đầu, đọc thói quen từng người rồi mới ra tay.
+  - Motif nối lab: trên sân anh bait, ở lab anh cũng bait.
+  - Tối có người bán chuyên là tối anh bị đọc ngược: gương nhỏ cho Khải.
+- **Nhịp:**
+  1. Cả sân điên lên vì anh dẫn một cô gái siêu xinh đến: trận dừng giữa chừng, Quân ném hụt một quả không ai kèm, Linh quay ngay, Hưng chạy ra vạch biên định chìa chai nước.
+  2. Nhi mua nước cho cả sân, không nhìn giá. Linh đòi tiền sân cả Nhi; Nhi trả cho cả hội, Linh ghi sổ quỹ như một khoản tài trợ. Thuyên nhẩm ra bún riêu.
+  3. Anh khoe bằng lựa chọn trên sân (cô lập nhiều hơn, xử lý bóng hoa mỹ hơn), không bằng lời. Anh Long dạy cho anh một bài; Nhi vỗ tay cho anh Long to nhất.
+  4. **Hưng buột miệng gọi "chị dâu".** Cả sân ồ lên. Nhi lúng túng. Thuyên cứu theo phản xạ, cợt nhả:
+     > "Con bé này là học sinh, và học sinh tuyên bố không thích. Học sinh thích người nào đấy môn đăng hộ đối, và thật xui xẻo đã có sẵn người ngồi vào chỗ ấy. Thầy thì nghèo quá…"
+     - Câu dừng ở "nghèo quá…" vì anh thấy mặt cô tối đi.
+     - Bốn chỗ chạm vào Nhi: nhắc lại câu nói ngược của cô trước cả sân; gán cho cô cái thước của bố mẹ và hội đồng; **ghép đôi lần hai, công khai** (Phong là "người ngồi vào chỗ ấy"); tự gạt mình ra bằng tiền.
+     - Cả sân hỏi dồn "Ai? Ai?". Thuyên: "Bí mật nghề nghiệp."
+  5. Giữa trận, với anh Long và đàn em cùng quê, Thuyên buột ra giọng Hà Tĩnh. Nhi nghe lần đầu: gốc của *Hồng đào* ở giai đoạn 2.
+  6. **Tùng và Linh:** Nhi đọc ra trong một phút. "Anh kia thích chị Linh à?" / "Năm năm rồi." / "Thế sao anh không bảo anh ấy nói?" / "Bảo rồi. Nó bảo chưa đủ." Câu này là chuyện của Tùng; đọc lại sau 16/7 là chuyện của Thuyên. Về sau Nhi đẩy Tùng nói thẳng; cách của cô đúng, Thuyên chứng kiến mà không áp vào mình.
+- **Sau trận:** cô không đấm, lần đầu tiên từ buổi 1. Thuyên thấy thiếu mà không hiểu thiếu gì. Linh hỏi lúc thu tiền sân: "Em vừa nói câu gì mà con bé thôi cười thế?" Tối đó anh nhắn cho Nhi một tin không có câu đùa nào.
+- **Hệ quả:** clip của Linh lên TikTok của sân; Ngọc tìm ra trong lúc "điều tra đối thủ", hội đồng họp khẩn. Từ đây hội sân là một nhóm khán giả nữa cho tuyến Thuyên – Nhi. Câu "thầy thì nghèo quá" quay lại ở giai đoạn 2.
+- **Solo với Vũ** (kỹ năng cá nhân, rất mạnh) giữ từ bản cũ: ch.9 *Đèn sân không tắt* ở phần mở đầu (khán giả là đàn em cấp 3 và Linh; trận ba người trước đó các đàn em thua có trình) và ch.23 *Sân sáng* thành ngoại khóa buổi sáng ở cột rổ khu tập thể (A4). Ở *Sân sáng*, Nhi hỏi: "Sao ở đây anh đánh như người khác?" / "Ở đây có một người. Đọc một người thì dễ." Bỏ chi tiết "đôi giày cao gót" của Diệp Anh trong ch.23 cũ.
+
+### T3 31/12 – OT tầng 17, Diệp Anh tỏ tình
+- **Mồi:** OT ngày cuối năm cho pilot giao nhận chặng cuối (việc chung giữa lab và Logistics). Mọi người về dần, chỉ còn Thuyên và Diệp Anh. Tiền OT ngày lễ anh nhẩm ra bún riêu.
+- **Bối cảnh:** vách kính kín sàn ở tầng 17 trên Phạm Hùng, tắt bớt đèn văn phòng. Hồ Tây thành một mảng tối viền đèn (khoảng 5–6 km); Hồ Gươm không thấy mặt hồ (8–9 km, bị che) nhưng thấy pháo hoa bung ở phía ấy trên mái nhà; Keangnam, Mỹ Đình, đèn xe Phạm Hùng. Thành phố náo nhiệt dưới chân, tầng 17 im, không có ai cạnh. Cần tra lại Hà Nội có bắn pháo hoa đêm 31/12/2024 không; nếu không, dùng pháo hoa của các tòa nhà, khách sạn.
+- **Nhịp:**
+  1. Diệp Anh tỏ tình bằng **câu đầu tiên cô không viết trước** [nguyên liệu bản cũ].
+  2. Thuyên nhận ra mình đang soạn câu trả lời: đến câu từ chối anh cũng cân chữ, đọc mặt cô, tính hệ quả cho liên minh.
+  3. Phép so sánh hiện ra mà không cần gọi tên: với Nhi anh chưa bao giờ soạn trước câu nào; với Diệp Anh, đến lúc này anh vẫn phải tính. Lần đầu Thuyên tự thấy cái thước ở mục 5.
+  4. Anh từ chối ngắn, thật, không đổ lỗi, không nhắc đến Nhi. Anh chỉ nhận ra mình "thoải mái", chưa gọi đó là thích (phần cần giấu theo rules v2).
+  5. 0 giờ, Locket của Nhi đến: một tấm ảnh ngớ ngẩn. Anh bật cười theo phản xạ, đúng sau câu từ chối. Diệp Anh đọc ra cái cười ấy là của ai. Thuyên không biết cô đã thấy.
+- Hình ảnh có thể dùng: hai người phản chiếu trên kính chồng lên pháo hoa; trong kính họ trông như đứng cùng nhau, ngoài đời thì không.
+- **Đảo ngược bản cũ:** ở bản cũ, sau khi "bị Nhi từ chối", Thuyên hôn Diệp Anh lúc pháo hoa đêm giao thừa. Ở v2, đề boyfriend đã xảy ra và anh vẫn tin Nhi không thích mình, vậy mà anh không đi về phía Diệp Anh.
+- **Hệ quả:** đỉnh fan service với Diệp Anh (tháng 11–12, những lần đi chơi với danh nghĩa đi làm, thám thính; chưa tính) khép lại ở đêm này; phần thân mật dừng hẳn. Thuyên vẫn làm quân sư cho Phong: anh từ chối Diệp Anh vì cảm giác của chính mình, nhưng vẫn tin Nhi không thích mình. Phần Diệp Anh sau đêm này (liên minh, cái cười lúc 0 giờ) chưa tính.
 
 ### Ngoài lớp – tháng 12 → Tết 29/1/2025
 - *HĐQT 🎀*: các nghị quyết nối nhau hủy.
 - A4: Nhi xem anh chơi buổi sáng ở cột rổ khu tập thể.
 - "Bàn cào móng": Ngọc thú nhận với Nhi; Nhi kể lại cho Thuyên, cười chảy nước mắt. Thuyên: "À, cái nick ấy. Anh tra rồi. Theo dõi chung: em."
-- Giao thừa dương lịch (T3 31/12/2024): phía Nhi chỉ có Locket lúc 0 giờ. Không nhân đôi cảnh pháo hoa với Diệp Anh.
-- Khảo sát cuối giai đoạn 1: anh qua.
 - Tết: Nhi đi Melbourne (30/1 – 6/2/2025), interlude *Xanh lục bảo*. Thuyên OT Tết.
+
+### Tháng 1 → tháng 3/2025 – Nhi mập mờ từ phía mình
+- Sau lời từ chối Diệp Anh, độ gợi trong POV Nhi dâng (mục 5e: Thuyên thích cô hơn). Ở các cảnh tỉnh của Thuyên, nấc 3.
+- Nhi bạo dần: ngồi sát hơn, chạm nhiều hơn, mặc cho anh xem. Thuyên đọc hết thành "học sinh quen thầy".
+- Thuyên tiếp tục làm quân sư cho Phong; ghép đôi những lúc Phong vắng.
+
+### Tháng 2–3 (mưa phùn) – *Mixue*: ghép đôi lần ba
+- Ghép lần ba → Nhi khóc toáng → tát → tay anh dừng nửa đường, không chặn → kem mười nghìn. "Hiệp phụ hỏng."
+- Vì sao khóc: người duy nhất không nhìn cô như "con nhà ai" vừa ghép cô với Phong, y như danh sách của bố mẹ.
+- Luật: tát một lần duy nhất trong truyện; lý do người đọc đồng ý; register dỗi, không tả đau.
 
 ### Cuối giai đoạn 1 – Đêm say (khoảng giữa đến cuối tháng 3/2025)
 
-**Vị trí:** sau *Mixue* (ghép đôi lần ba, khóc, tát, kem), trước kết quả khảo sát. Đây là bản lề sang giai đoạn 2.
+**Vị trí:** sau *Mixue*, trước kết quả khảo sát. Đây là bản lề sang giai đoạn 2. Sau đêm say: khảo sát cuối giai đoạn 1, anh qua, không suýt trượt.
 
 - **Mồi:** lần xin lỗi Thảo đầu tiên của Nhi bị từ chối [nguyên liệu: "ba lần xin lỗi không được nhận"]. Cô buồn vì chuyện của chính mình, rồi đòi nhậu, viện món nợ từ đêm trốn nhà: "Anh nợ em vụ tửu lượng."
 - **Lựa chọn của Thuyên:** anh thấy cô ngáo, nên dẫn đi uống Jägermeister, tưởng thứ vị thuốc ho ấy sẽ làm cô bỏ cuộc. Cô uống hai cốc pha là say mèm, nói ngớ.
@@ -345,31 +427,38 @@ Luật viết nằm ở `01-rules-viet.md`, mục "Dịu dàng không thừa nh�
 | Người yêu giả để thoát buổi cà phê mai mối | "Hẹn hò giả, người yêu giả" | Giai đoạn 2 | Thuyên diễn quá giỏi, vì anh đọc được cậu kia. Mầm của "quân sư tự hại" |
 | Noel: Nhi kéo đi, trùng hẹn với Diệp Anh | "Đúng ngày hẹn thì có việc đột xuất" | 24/12 | Lần đầu anh phải chọn giữa hai tuyến. Anh chọn đồng minh và nói dối Nhi |
 
-## 9. Bản lề sang giai đoạn 2: đề boyfriend (dời từ *Hồng cánh sen*)
+## 9. Bản lề sang giai đoạn 2
 
-- **Vị trí:** buổi học đầu tiên sau Tết, ở bài thi thử Part 2. Đề: *Describe the kind of person you would like to have as a boyfriend.*
-- **Nội dung:** Nhi đã hiểu anh đủ để tả đúng: cao, quên ô, đi Crocs, nói một nửa rồi đóng cửa nửa kia, chê đúng chỗ, thấy trước cú đấm mà không chặn, khoác áo rồi bảo "tiện tay". Anh đỏ tai suốt bài.
-- Kết bài: "*So that is why I would never date someone like that.*" Cô nói ngược vì hội đồng, vì kiêu, và vì sợ.
-- **Thuyên tin từng chữ.** Anh thấy hụt, rồi nhẹ nhõm, khen "đúng khung, Coherence tám". Từ đây việc làm quân sư cho Phong trong mắt anh là tử tế.
-- Tờ đề Nhi kẹp trong sổ hồng; gọi lại khi Phong tỏ tình và ở Phần Lan.
+Chuỗi nhân quả liền: đề boyfriend (12/2024, anh lùi) → ghép đôi ba lần → đêm say, "Em thích anh" (anh không tin, nhưng câu ấy nằm lại; hội đồng che: "cột điện") → khảo sát qua, anh tự mãn → giai đoạn 2, anh lôi câu ấy ra đọc lại và **xác nhận** Nhi thích mình.
 
-## 10. Giai đoạn 2 (chỉ thứ tự)
+Hai giai đoạn của lab khớp với hai trạng thái của Thuyên trong tình cảm:
 
-1. Thuyên lùi.
-2. Mập mờ bắt đầu từ phía Nhi. Thuyên rút khỏi Diệp Anh.
-3. Quân sư cho Phong. Ghép đôi lần một, lần hai.
-4. *Hồng đào*: Nhi nói cô thích giọng ở nhà của anh.
-5. *Mixue*: ghép lần ba → khóc → tát → kem.
-6. Phong tỏ tình bằng lời Thuyên dạy → "Câu này không phải của cậu."
-7. Rạn nứt với Vũ (12/6).
-8. 16/7.
+| | Giai đoạn 1 | Giai đoạn 2 |
+| --- | --- | --- |
+| Lab | Phòng thủ, còn phải chứng minh làm chủ được model | Tấn công, kim bài miễn tử, tự mãn |
+| Tình cảm | Tin Nhi không thích mình → lùi, quân sư cho Phong | Đủ tự tin để xác nhận Nhi thích mình → lên kế hoạch tỏ tình như một ván |
+| Cách đọc Nhi | Không đọc được, tin từng chữ cô nói | Tưởng cuối cùng cũng đọc được cô; đọc đúng, nhưng dùng cái đúng ấy theo kiểu ở lab |
 
-Mưa ở giai đoạn 2 theo thang thời tiết của kho: mưa phùn sau Tết, một cái ô chung (nấc 2), bão ở 16/7 (nấc 4).
+Sự tự tin làm anh dám tiến về phía Nhi cũng chính là sự tự mãn làm anh mù trước Khải.
+
+## 10. Giai đoạn 2 (chỉ thứ tự, chưa tính lịch)
+
+1. **Xác nhận:** anh đọc lại câu "Em thích anh" bằng sự tự tin mới. Câu "bé" của chính anh cũng nằm lại; cả hai không được nhắc đến cho tới 16/7.
+2. **Mập mờ có chủ đích từ phía Thuyên** [đề xuất]: lần đầu anh tiến, nhưng tiến bằng kỹ năng đọc người, ngược với Nhi ở giai đoạn 1 tiến bằng sự thẳng thắn. Thang gợi nấc 4 tối đa ở các cảnh tỉnh, cả hai chiều; ánh nhìn của anh không còn bị cắt, Nhi nhận ra cái nhìn đã đổi.
+3. **Kể cho Nhi phiên bản gần sự thật nhất**, vì chắc chắn về cô. Đó là những mảnh sẽ lên bàn 16/7: niềm tin của anh vào cô là thứ đẩy cô vào cáo buộc.
+4. **Hội đồng chuyển sang cảm tình;** sự miễn nhiễm của anh vỡ. Đòn "gia thế không xứng" lần đầu trúng: câu "thầy thì nghèo quá" ở sân quay lại, không còn là câu đùa. Anh muốn tỏ tình trong vai người thắng (ghế 50 triệu), nên vẫn chờ dù đã biết cô thích mình.
+5. ***Hồng đào*:** Nhi nói cô thích giọng ở nhà của anh (gốc ở sân pickup). Câu bị nuốt ở buổi 1 được trả lời mà không ai hỏi.
+6. **Rạn nứt với Vũ (12/6):** "Biết nó thích mày rồi còn đợi cái gì?" và câu "sống hay sống sót". Anh mất hội đồng một người.
+7. **Bảng tính tỏ tình** soạn như soạn một ván. Câu đùa với Nhi thưa dần: "Dạo này anh hết đáng ghét rồi." Mốc thôi quy ra bún riêu; Linh ghi khoản "bao cả sân" vào sổ quỹ và nhìn anh lâu hơn bình thường.
+8. **Tiệc Nhi đạt aim** (theo bản cũ): Phong định tỏ tình, rút lại, hỏi câu đã để dành từ *Portra 400*: "Cậu thích anh ấy à?" Nhi trả lời thật. Phong là người biết chắc trước cả Thuyên; ngày 16/7 cậu vẫn là người ở lại với Nhi.
+9. **16/7:** ngày nhận ghế cũng là ngày định tỏ tình; kịch bản tỏ tình bị phá. Lời tỏ tình không được nói ra, để dành cho Phần Lan. Một người tỏ tình lúc không kiểm soát (đêm say), một người chuẩn bị bằng bảng tính và không kịp nói.
+
+Mưa ở giai đoạn 2 theo thang thời tiết của kho: một cái ô chung (nấc 2), bão ở 16/7 (nấc 4).
 
 ## 11. Cân giữa Nhi và Diệp Anh ở giai đoạn 1
 
-- Đỉnh fan service với Diệp Anh (đụng chạm, gợi dục, đồng minh) nằm ở giai đoạn 1, trước khi Thuyên – Nhi mập mờ.
-- Lịch gặp Nhi giờ dày gấp đôi, nên cảnh Diệp Anh phải đặt vào các khoảng hở có chủ đích: hiệp phụ "không có" ở buổi 2, đêm Noel nếu chọn cảnh ấy.
+- Đỉnh fan service với Diệp Anh (đụng chạm, gợi dục, tình cảm thật trên mức đối tác) nằm ở tháng 11–12, khép lại bằng lời tỏ tình bị từ chối đêm 31/12. Khoảng chồng với lúc Nhi bắt đầu mập mờ gần như không có.
+- Lịch gặp Nhi giờ dày gấp đôi, nên cảnh Diệp Anh phải đặt vào các khoảng hở có chủ đích: hiệp phụ "không có" ở buổi 2, những lần đi chơi với danh nghĩa đi làm, đêm Noel nếu chọn cảnh ấy, đêm 31/12.
 - Gương:
   - Diệp Anh đọc anh rồi bàn nước tiếp; Nhi không đọc, chỉ kéo đi.
   - Diệp Anh chạm có chủ đích; Nhi đấm.
@@ -377,10 +466,12 @@ Mưa ở giai đoạn 2 theo thang thời tiết của kho: mưa phùn sau Tết
 
 ## 12. Cần duyệt
 
-1. **Bản lề ở bản mới** là chương nào, câu then chốt nào? Repo chưa có `danh-sach-chuong-mo-dau.md`.
-2. Đề boyfriend làm bản lề đầu giai đoạn 2: duyệt không?
-3. ~~Biệt danh~~: đã chốt là Sóc.
-4. Ở mục 8: chọn Nhi viêm họng (buổi 5) hay Thuyên ốm, hay cả hai?
-5. Cảnh Noel (Thuyên chọn Diệp Anh, nói dối Nhi): có đặt không? Đây là lời nói dối đầu tiên với Nhi, sớm hơn bản cũ rất nhiều.
-6. Phong thanh mai trúc mã kiêm cùng nhóm RMIT: duyệt không?
-7. Tần suất đấm: đề xuất mỗi lần gặp tối đa một cú, không đấm trước người lạ.
+1. **Bản lề ở bản mới** là chương nào, câu then chốt nào? (Dùng cho buổi 1.)
+2. Ở mục 8: chọn Nhi viêm họng (buổi 5) hay Thuyên ốm, hay cả hai?
+3. Cảnh Noel (Thuyên chọn Diệp Anh, nói dối Nhi): có đặt không?
+4. Phong thanh mai trúc mã kiêm cùng nhóm RMIT: duyệt không? Phong có biết danh sách mai mối không?
+5. Tần suất đấm: đề xuất mỗi lần gặp tối đa một cú, không đấm trước người lạ.
+6. Lúc ở sân pickup, Nhi đã biết danh sách mai mối chưa? (Nếu biết, chữ "môn đăng hộ đối" đau gấp đôi.)
+7. Giữ ý "Nhi nhận ra giọng Thuyên trong lời Phong" ở mức nhỏ (Phong nói một câu quá trúng trong lúc nói chuyện thường, Nhi nhận ra khung và im), hay bỏ hẳn?
+8. Mở đầu giai đoạn 2 là "Thuyên mập mờ có chủ đích": duyệt không?
+9. Phần Diệp Anh sau 31/12 và những lần đi chơi với danh nghĩa đi làm: chưa tính.
