@@ -86,14 +86,28 @@ Thuyên đọc từng người và đổi giọng theo họ. Ba lớp giọng t�
 
 - **Đàn em:** dịu dàng, nâng đỡ, góp ý cụ thể, động viên.
 - **Bạn thân con trai:** chửi thẳng, thân mật, lầy bựa ("ok vua hợi", "im mồm đi"). Không mỉa. Với Vũ là trêu nhau, khoe khoang vớ vẩn, bóc phốt nhau trước mặt người khác.
-- **Người yêu (Diệp Anh):** cứng với cả thế giới, nũng với một người. Càng thành công càng nũng, thích làm cô ghen như trẻ con thích được giành.
-- **Nhi:** chọc như chọc trẻ con. Chọc là cách anh thân với cô mà không phải thừa nhận.
+- **Diệp Anh (v2: đồng minh, trên mức đối tác, tình cảm thật, không yêu chính thức):** đùa ngang tốc độ, sắc, có chủ đích; ít cợt nhả hơn với Nhi, vì đây là chỗ anh còn tính. Sau đêm 31/12 (anh từ chối lời tỏ tình), phần thân mật dừng hẳn. *Bản cũ:* người yêu, "cứng với cả thế giới, nũng với một người".
+- **Nhi:** chọc như chọc trẻ con, độc miệng, cợt nhả gần như suốt. Đây là dấu hiệu anh đang thoải mái, không tính (v2). Dịu dàng nằm ở hành động (mục "Dịu dàng không thừa nhận" bên dưới).
 - **Meme trẻ con:** Thuyên hay tự làm mấy trò meme của học sinh cấp hai (giơ tay "six seven", trùm mũ hoodie rồi nhận mình đang "aura farming"), xong quay sang gọi người khác là "kid". Thêm: chọc ngoáy ai đó xong lấy ngón tay vuốt dọc xương hàm, tự nhận mình là "sigma"; solo bóng rổ thắng Vũ thì "gg fvcking ez"; ghép đôi người khác (ghép Nhi với một bạn nào đó dai đến mức cô khóc). Tóm lại, với người thân Thuyên thích rage bait. Một kiểu tự giễu, dùng với Vũ, Nhi, đàn em. Không dùng ở chỗ làm, không dùng với người lớn: đây là dấu hiệu anh đang thoải mái. Ở giai đoạn biến chất, trò này thưa dần.
 - **Con trai chưa thân:** thẳng nhưng nhẹ hơn một nấc.
 - **Người lạ làm anh không vừa ý:** mỉa mai, cay ngầm, đủ để chích nhưng không đủ để đối phương nổi khùng.
 - **Người lớn:** lễ phép, kiên nhẫn, chịu nghe chuyện.
 - **Ở chỗ làm (Phần 1):** mỗi người một giọng. Ngọt với sếp, sắc và hùa theo với đồng nghiệp.
 - **Khi vụng về việc nhỏ:** tự giễu, đùa cho qua ("kệ thừa ốc là do nhà sản xuất hào phóng").
+
+### Dịu dàng không thừa nhận (với Nhi, v2, chốt 19/10)
+
+Kho hành động cụ thể nằm ở `docs/brief-tinh-cam-thuyen-nhi.md`, mục 5d.
+
+- **Độc miệng là mặc định, dịu dàng là hành động.** Anh chê, cợt nhả, nói móc; sự chăm sóc nằm ở việc tay anh làm, không nằm ở lời.
+- **Không bao giờ gọi tên việc mình làm.** Mỗi cử chỉ đi kèm một câu che: "tiện tay", "tiện đường", "thừa", "đặt nhầm", hoặc một câu độc miệng ("Ăn đi rồi chữa. Đói thì viết như người say.").
+- **Giọng chỉ đổi khi cô dỗi hoặc buồn:** câu ngắn lại, chữ "kid" mềm đi, không đùa. Hết dỗi là độc miệng lại ngay.
+- **Đọc trước nhu cầu:** dùng kỹ năng đọc người theo chiều ngược với ở lab. Anh làm trước khi cô kịp nói, nên phần lớn cô không thấy.
+- **Ai thấy:** phần lớn là hội đồng, Vũ, Linh và người đọc. Nhi thấy ít hơn họ. Người kể POV Thuyên chỉ tả hành động, không giải thích động cơ (phần cần giấu: cảm xúc của Thuyên với Nhi).
+- **Tỉ lệ:** khoảng bốn phần độc miệng, một phần dịu dàng.
+- **Anh chê cô được, người khác thì không.** Trước người lạ, anh che chở cô bằng hành động, không bằng lời.
+- **Gương với Diệp Anh:** với Diệp Anh, sự chu đáo của anh đúng chuẩn, hợp lý (đặt xe vì an toàn, đúng giờ). Với Nhi, nó là đọc trước rồi giấu đi.
+- **Biến chất (giai đoạn 2):** khi anh bắt đầu tính toán, cử chỉ thành có chủ đích, câu đùa thưa dần. Nhi cảm được trước tiên.
 
 ## Nhịp kể
 

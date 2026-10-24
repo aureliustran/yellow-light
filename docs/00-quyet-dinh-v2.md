@@ -31,7 +31,8 @@ Oct 19, 2026 · @aureliustran. Điểm xuất phát của bản viết lại. Bi
 ### Diệp Anh
 - **[chốt]** Làm lại toàn bộ, **trừ tính cách và background**. Giá trị trong cốt truyện phải tương xứng với vai trò.
 - **[chốt]** Bố là **giám đốc một mảng** của Astrea Logistics. Cô **không** làm thực tập sinh: đủ giỏi, và là con giám đốc.
-- **[chốt]** Quan hệ với Thuyên là **đồng minh**, cùng lập phe riêng từ đầu. Không yêu chính thức. Fan service được nâng đến mức **đụng chạm, gợi dục**, dù chưa đến mập mờ.
+- **[chốt]** Quan hệ với Thuyên là **đồng minh**, cùng lập phe riêng từ đầu. Không yêu chính thức. Fan service được nâng đến mức **đụng chạm, gợi dục**.
+- **[chốt 20/10]** Hai người **trên mức đối tác; tình cảm là thật**, có mập mờ (ít nhất từ phía cô). Khép lại bằng lời tỏ tình bị từ chối đêm 31/12: OT ở tầng 17, chỉ còn hai người, xem pháo hoa qua vách kính; cô tỏ tình bằng câu đầu tiên không viết trước; Thuyên nhận ra mình đang soạn câu trả lời (thoải mái khi ở cạnh Nhi, với Diệp Anh vẫn phải tính) và từ chối. Chi tiết: `brief-tinh-cam-thuyen-nhi.md`. Phần Diệp Anh sau đêm này chưa tính.
 - **[chốt]** Bị đồng minh phản bội thì dễ xảy ra và dễ chấp nhận hơn bị người yêu phản bội.
 - **[chốt]** **MUN là chỗ cô tự sắp xếp để gặp Thuyên.** Ở summit cô nghe Chủ tịch bảo Khải "để ý nó", nên chủ động mời anh đến MUN. Từ đó hai người qua lại. Lúc vào lab, anh đã quen cô một thời gian ngắn.
 - **[chốt]** Cô **nghĩ mình là người chơi, cầm lá bài Thuyên** (mục 6).
@@ -41,7 +42,7 @@ Oct 19, 2026 · @aureliustran. Điểm xuất phát của bản viết lại. Bi
 - **[đề xuất]** Người đọc biết động cơ của cô sớm (một interlude ở giai đoạn 1); ván cược với Khải giấu đến *Đen*.
 - **[đề xuất]** Mảng của bố: **giao nhận chặng cuối**. Sản phẩm có thị trường ngay năm 2027: bản đồ điểm giao (ghép mái nhà trên ảnh vệ tinh với địa chỉ cho shipper).
 - **[đề xuất]** Cô **không có ghế chính thức**. Quyền lực đi qua bố và qua hội con nhà các ông lớn. Liên minh hứa cho cô một ghế thật, nhưng chậm.
-- **[đề xuất]** Đỉnh fan service với Diệp Anh đặt **trước** khi Thuyên – Nhi bắt đầu mập mờ. Thuyên rút dần khỏi cô; với cô, đó là lá bài tự rời khỏi tay.
+- **[đề xuất]** Đỉnh fan service với Diệp Anh đặt **trước** khi Thuyên – Nhi bắt đầu mập mờ: tháng 11–12, những lần đi chơi với danh nghĩa đi làm, thám thính (chưa tính), khép lại đêm 31/12. Với cô, lời từ chối là lá bài tự rời khỏi tay.
 - **[đề xuất]** Ván cược: Khải đưa một **ghế chính thức, có hợp đồng, có KPI, ngay lập tức**. Cô tự kể với mình là đánh lá Thuyên ở giá cao nhất; thật ra Khải đánh cô. Cô đổi phe công khai **sau** khi Thuyên ngã; Thuyên đọc đó là hệ quả, không phải nguyên nhân.
 - **[đề xuất]** Thuyên tha cho Diệp Anh (đồng minh đổi phe khi thua là luật chơi) và hận Nhi (người không làm).
 
@@ -51,6 +52,7 @@ Oct 19, 2026 · @aureliustran. Điểm xuất phát của bản viết lại. Bi
 - **[đề xuất]** Nhà Phong là đối tác Astrea; tên cậu nằm trong **danh sách mai mối "môn đăng hộ đối"**. Phong là người tốt; lựa chọn của Nhi là tự do hay thoải mái.
 - **[đề xuất]** Hội đồng của Nhi ủng hộ Phong vì gia thế xứng (mục 8).
 - **[đề xuất]** Ngày 16/7, người ở lại với Nhi là Phong. Luật: Phong không bao giờ làm điều xấu để giữ chỗ.
+- **[chốt 20/10]** Phong tỏ tình **như bản cũ**: định tỏ tình ở tiệc Nhi đạt aim (cuối giai đoạn 2), rút lại, hỏi "Cậu thích anh ấy à?" (câu để dành từ *Portra 400*). Thay cho ý "Phong tỏ tình bằng lời Thuyên dạy".
 
 ### Vũ
 - **[chốt]** Là **"hội đồng quản trị" của Thuyên**: hội đồng một người.
@@ -87,14 +89,17 @@ Oct 19, 2026 · @aureliustran. Điểm xuất phát của bản viết lại. Bi
 - **[chốt]** Thuyên **không ghen ra mặt**. Khi để ý Phong thích Nhi, anh lùi lại và quan sát.
 - **[chốt]** Thuyên làm **quân sư cho Phong** để tán Nhi, đồng thời ghép đôi Nhi với Phong những lúc Phong vắng mặt.
 - **[chốt]** Nhi dỗi và **tát anh. Lần này anh không chặn.**
-- **[đề xuất]** Nền từ bản cũ để anh tin Nhi không thích mình: "thấy đẹp trai chứ không thích" (Nhi), "Em không ngồi ngắm anh đâu… Em nói trước. Cho anh khỏi nghĩ." (ch.13 cũ), đề giả ở *Hồng cánh sen* kết bằng "*I would never date someone like that*", anh tin là thật và thấy nhẹ nhõm. Anh tin từng chữ của người nói thẳng.
+- **[chốt 19–20/10]** Biệt danh của Nhi: **Sóc**. Thuyên biết ở đêm say, khi hội đồng gọi "Sóc ơi".
+- **[chốt 19–20/10]** Chuỗi Phong (lùi, quân sư, ghép đôi ba lần, *Mixue*) nằm ở **giai đoạn 1**. Đề boyfriend dời lên tháng 12. Giai đoạn 2 là lúc Thuyên tự mãn, đủ tự tin để xác nhận Nhi thích mình, rồi chờ "đủ" (ghế 50 triệu) mới tỏ tình.
+- **[chốt 19–20/10]** **Đêm say cuối giai đoạn 1:** Nhi tỏ tình không kiểm soát ("Em thích anh." rồi "Anh đáng ghét lắm, anh biết không. Anh cứ đẩy em sang chỗ người ta…"); Thuyên hơi ngấm rượu, dỗ siêu dịu dàng, gọi cô là "bé". Hội đồng che: "Nó say là nó thích cả cái cột điện." Chi tiết, thang gợi, kho cử chỉ: `brief-tinh-cam-thuyen-nhi.md`.
+- **[đề xuất]** Nền từ bản cũ để anh tin Nhi không thích mình: "thấy đẹp trai chứ không thích" (Nhi), "Em không ngồi ngắm anh đâu… Em nói trước. Cho anh khỏi nghĩ." (ch.13 cũ), đề boyfriend kết bằng "*I would never date someone like that*" (ở v2 dời lên tháng 12), anh tin là thật và thấy nhẹ nhõm. Ở v2 thêm: Nhi càng cãi, càng đấm, càng "đáng ghét", anh càng chắc cô không thích mình. Anh tin từng chữ của người nói thẳng.
 - **[đề xuất]** Hệ quả: tin Nhi không thích mình nên việc **lùi lại và làm quân sư cho Phong** trong mắt anh là hợp lý, thậm chí tử tế: anh tưởng mình đang giúp cô có một người tốt.
 - **[đề xuất]** Cử chỉ dịu dàng không thừa nhận, nguyên liệu bản cũ: nghiêng ô hồng về phía cô, ướt nửa người như không quan tâm (A3); dắt Vespa chết máy trong mưa phùn (A7). Anh che bằng câu đùa, câu mỉa, hoặc "tiện tay".
 - **[đề xuất]** Bậc thang sợi "tay": Vy tát, anh chặn → Nhi tát, tay anh dừng nửa đường → cảnh tấm thiệp, anh sẵn sàng chặn mà không có gì đến.
 - **[đề xuất]** Đặt cú tát trong cảnh *Mixue*: ghép lần ba → cô khóc → tát → không chặn → kem. Luật: có lý do người đọc đồng ý; register dỗi, không tả đau; một lần duy nhất.
 - **[đề xuất]** Cơn ghen không gọi tên, rò qua: đọc Phong quá kỹ và kết luận "thằng này tốt"; F8 dày lên; Vũ gọi đúng tên ("Mày đang lùi đấy à?").
 - **[đề xuất]** Nhi cảm được anh rút lui nhưng gọi sai lý do: "anh ấy đẩy mình sang Phong vì không thích mình".
-- **[đề xuất]** Nhi **nhận ra giọng Thuyên trong lời Phong** (khung "chấm – vì sao – ví dụ"), từ chối Phong: "Câu này không phải của cậu." Đây là dữ liệu đầu tiên làm anh nghi rằng mình đã đọc sai cô, và là dữ liệu cuối cùng anh chờ.
+- **[đề xuất, đang mở]** ~~Nhi nhận ra giọng Thuyên trong lời Phong, từ chối Phong: "Câu này không phải của cậu."~~ Phong không tỏ tình ở giai đoạn 1 nữa. Còn mở: giữ ý này ở mức nhỏ (Phong nói một câu quá trúng, Nhi nhận ra khung và im) hay bỏ. Dữ liệu làm Thuyên nghi mình đọc sai giờ là lời "Em thích anh" ở đêm say.
 - **[đề xuất]** Ngưỡng "đủ" để tỏ tình đến từ vết thương cũ của anh và từ sự có mặt của Phong, **không** đến từ hội đồng.
 - **[đề xuất]** Lỗi của Thuyên: chỉ tiến khi đã đọc trước được kết quả. Phần 2 trả lại bằng đèn vàng.
 
@@ -125,7 +130,9 @@ Oct 19, 2026 · @aureliustran. Điểm xuất phát của bản viết lại. Bi
 - **[chốt]** **Bỏ** sân các trường hàng xóm trong ĐHQGHN (Kinh tế, Ngoại ngữ) của bản cũ.
 - **[đề xuất]** Phân vai:
   - *Cột rổ khu tập thể:* tập sáng, một mình hoặc solo với Vũ; chỗ nghỉ đọc người; bác bảo vệ; nơi họp "hội đồng một người". Nhi xem anh chơi buổi sáng (A4) ở đây.
-  - *Sân thuê:* pickup tối có đội, có người lạ, có vạch, chia tiền sân. Cảnh Diệp Anh đứng sát vạch, đi giày cao gót (nguyên liệu ch.20) đặt ở đây.
+  - *Sân thuê:* pickup tối có đội, có người lạ, có vạch, chia tiền sân. **[chốt 20/10]** Bỏ cảnh Diệp Anh đứng sát vạch; thay bằng ngoại khóa Nhi đi xem pickup.
+  - **[chốt 20/10]** Hội sân thuê: đội bóng rổ cấp 3 ở trường chuyên (ra Hà Nội học mỗi người một trường, một số học cùng đại học với Thuyên), cộng người ngoài, có vài người đánh bán chuyên. Có người hơn tuổi, bằng tuổi, kém tuổi. Linh là "mana", lớn tuổi hơn Thuyên; Thuyên làm quân sư cho người thích Linh từ hồi cấp 3.
+  - **[chốt 20/10]** Thuyên đánh rất hay, chỉ là có người hay hơn: **top 2–7** tùy tối. Ít nói lúc đánh; lối chơi cá nhân học từ Kyrie, isolate, makeplay, thủ zone vòng ngoài, bait; không đè, giữ khả năng thăm dò và đọc trận. Solo với Vũ (kỹ năng cá nhân, rất mạnh) giữ từ bản cũ.
   - Rạn nứt: anh bỏ pickup ở sân thuê. Hồi phục: quay về cột rổ khu tập thể với Vũ lúc sáng sớm.
   - Chi tiết biến chất nhỏ: từ chia tiền sân sang bao cả sân.
 
@@ -152,7 +159,7 @@ Thẻ từng thành viên: `claude/v2/02-hoi-dong-nhi.md` (Minh Châu, Bảo Ng�
 ## 9. Câu hỏi mở
 
 1. Phong có nằm trong danh sách mai mối không, và cậu ấy có biết không?
-2. Nhi có nói với Thuyên rằng cô đã nhận ra giọng anh trong lời Phong, hay giữ kín đến 16/7?
+2. Giữ ý "Nhi nhận ra giọng Thuyên trong lời Phong" ở mức nhỏ, hay bỏ?
 3. Cảnh tấm thiệp: giữ ở giai đoạn hồi phục, hay gộp vào tối 16/7?
 4. Duyệt tên và cá tính hội đồng (`02-hoi-dong-nhi.md`).
 5. Khung chương v2 cho giai đoạn 1.
