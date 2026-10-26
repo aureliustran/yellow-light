@@ -2,7 +2,7 @@
 
 Oct 4, 2026 · @aureliustran.
 
-*Thứ Bảy, 3/10/2026*
+_Thứ Bảy, 3/10/2026_
 
 Sáu giờ năm mươi. Sân bóng rổ khu tập thể vẫn còn ướt sương, mấy chiếc lá bàng dính bẹp trên vạch ba điểm.
 
@@ -55,14 +55,24 @@ Thuyên trả lời Ngọc Anh:
 
 :::chat
 ^ Ngọc Anh (K71): Nhưng phần demo em vẫn sợ sợ 🥲
+
 > ok trưa a xem, demo cứ chạy thử trước 1 lần với máy chiếu phòng 302 nhé, máy đấy hay lag lắm
-~ Nghĩ một chút, anh gõ thêm:
+> :::
+
+Nghĩ một chút, anh gõ thêm:
+
+:::chat
+
 > mà làm được thế là ổn rồi, đừng sợ :v
-^ Đức (PCN): Thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy :))
+> ^ Đức (PCN): Thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy :))
 > ai cho ông nhận hộ tôi thế 😱
+> :::
+
+:::chat
 ^ Vũ Béo: Mấy đứa năm nhất đòi gặp "idol" kìa vcl =)))))
+
 > idol cc. ok vua hợi 🖕 tối tính
-:::
+> :::
 
 Đèn xanh. Anh đi thêm hai trăm mét đến ngã tư tiếp theo, cái ngã tư có đèn đếm ngược mà con số 3 với mỗi người một nghĩa. Với anh, 3 là sắp vàng. Với nửa còn lại của Hà Nội, 3 là còn kịp chán.
 
@@ -202,9 +212,9 @@ Anh nhìn xuống chỗ cô vừa dựng xe. Trên nền gạch có một tấm 
 
 Anh nhặt lên.
 
-*Thư mời. Vietnam Future Tech Summit 2026. Khách mời VIP.*
+_Thư mời. Vietnam Future Tech Summit 2026. Khách mời VIP._
 
-Dưới cùng là một dòng chữ nhỏ: *Nhà tài trợ kim cương.* Kèm logo một tập đoàn mà ở Hà Nội không ai không biết tên.
+Dưới cùng là một dòng chữ nhỏ: _Nhà tài trợ kim cương._ Kèm logo một tập đoàn mà ở Hà Nội không ai không biết tên.
 
 Anh mở điện thoại, vào mail. Thầy Bình forward lúc sáu giờ sáng, tiêu đề y hệt.
 
@@ -226,9 +236,10 @@ Thuyên gõ:
 
 :::chat
 ^ Vũ Béo: Nói rõ ra thằng chó 😡
+
 > 7h. im mồm đi vua hợi 😈
 > bảo mấy đứa năm nhất mang nước, idol k tự mua nước 😏
-~ Rồi anh mở tin nhắn của Đức, gõ thêm:
-^ Đức (PCN): Thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy :))
+> ~ Rồi anh mở tin nhắn của Đức, gõ thêm:
+> ^ Đức (PCN): Thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy :))
 > ok ông bảo thầy là tôi đi nhé. lần sau hỏi tôi trước đã ông ơi
-:::
+> :::

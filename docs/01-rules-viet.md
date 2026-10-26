@@ -95,6 +95,262 @@ Thuyên đọc từng người và đổi giọng theo họ. Ba lớp giọng t�
 - **Ở chỗ làm (Phần 1):** mỗi người một giọng. Ngọt với sếp, sắc và hùa theo với đồng nghiệp.
 - **Khi vụng về việc nhỏ:** tự giễu, đùa cho qua ("kệ thừa ốc là do nhà sản xuất hào phóng").
 
+## Lười có chọn lọc, tối ưu trước khi làm (chốt 19/10)
+
+Thuyên tính chi phí – lợi ích trước khi tay động. Gốc của nét này là nghịch có tính toán hồi nhỏ, và nó đi cùng chống đối ngầm (đối phó hiệu quả, học theo barem). Chi tiết ở `claude/sua-doi/M-he-gia-tri.md`, mục 3b.
+
+### Ba dạng
+1. **Lười có chọn lọc:** việc không đáng thì làm tối thiểu hoặc bỏ (học thuộc, văn theo barem, việc nhà).
+2. **Tối ưu trước khi làm:** việc gì cũng nghĩ cách nhanh nhất, ít bước nhất.
+3. **Bận nghĩ nên không làm được gì:** tính cách tối ưu đến hết giờ, việc chưa động. Người ngoài thấy một người nằm im.
+
+### Luật chăm
+- **Chăm khi có mục đích và thành quả xứng với công lớn** (lab, thực tập, thi cử có cái cân). Khi ấy anh sẵn sàng bỏ công lớn.
+- **Tối ưu không làm việc khó thành dễ; nó chỉ làm việc bất khả thi thành khả thi.** Sau tối ưu, việc vẫn nặng và anh vẫn cày.
+- Lười và chăm là **cùng một phép tính, khác đầu vào.** Không viết hai nét này như mâu thuẫn.
+
+### Cách viết
+- **Hiện qua hành vi, không gọi tên.** Không viết "anh lười" hay "anh thích tối ưu". Viết cảnh anh nghĩ cách quét nhà theo đường ngắn nhất đến lúc mẹ về, nhà vẫn chưa quét.
+- **Trớ trêu ba phía:** người ngoài thấy lười ("ăn rồi nằm"); anh tự thấy mình đang làm; người đọc thấy cả hai.
+- **Hài:** cách tối ưu có khi hỏng vì một biến số nhỏ (xếp bát theo cỡ để rửa nhanh, rồi vỡ một cái; đường tắt nhanh ba phút, ống quần lấm bùn). Đây là nguồn chính của mảng "vụng việc nhỏ".
+- **Phân biệt với rảnh là đau:** nằm tính tối ưu vẫn là có việc trong đầu. Rảnh chỉ đau khi cái đầu không còn gì để tính.
+- **Ở lab:** lười nên tự động hóa (script, quy trình); thấy việc đáng thì cày đến sáng. Không để người đọc thấy anh lười ở việc có cái cân.
+- **Ở đáy:** không còn thành quả nào xứng đáng, nên phép tính về không, và dạng 3 quay lại thành tê liệt.
+
+## Tự thoại hiện sinh của Thuyên (chốt 18/10)
+
+Tính hiện sinh là **đặc trưng của tự thoại qua lời kể của người kể**. Người kể đi theo Thuyên, kể bằng giọng nghĩ của anh (gián tiếp tự do), và chính lời kể ấy mang chất hiện sinh: chạm vào câu hỏi về giá trị, ý nghĩa, sự tồn tại của chính anh. Ý nghĩ in nghiêng chỉ là chỗ đậm nhất của cùng một giọng, không phải nơi duy nhất.
+
+**Chỉ áp dụng cho Thuyên.** Các POV khác không dùng giọng này:
+- Nhi gọi tên được cảm giác của mình, giọng ghi chú điện thoại;
+- Diệp Anh sắc, giữ hình ảnh;
+- Phong mềm, nhìn qua ống kính;
+- Khải lạnh, gần như liệt kê.
+
+Khi một nhân vật khác chạm vào câu hỏi lớn, họ chạm theo giọng của họ, không mượn khung khuyết – sửa – đủ của Thuyên.
+
+Gốc của giọng này là hệ giá trị của Thuyên (xem `claude/sua-doi/M-he-gia-tri.md`):
+- lăng kính khách quan;
+- khuyết thì phải sửa;
+- không còn gì để sửa nghĩa là kẻ thất bại;
+- luôn cần một thứ ở phía trước để chạy.
+
+### Nguồn
+
+- Mỗi câu hiện sinh ngầm trả lời một câu hỏi: *mình đáng giá bao nhiêu khi…* (khi không còn việc, khi đã thắng, khi không ai chấm, khi không có ai hỏi).
+- Các trục:
+  - **đủ:** "đủ là bao nhiêu";
+  - **thước:** ai đặt ra cây thước;
+  - **chạy:** mình chạy tới hay đang bị đuổi;
+  - **rỗng:** sau khi thắng;
+  - **vô hình:** "không có chữ nào về mình";
+  - **thời gian:** ánh sáng của ngôi sao đã chết vẫn đang bay tới.
+
+### Hình thức
+
+- **Ngắn: một đến ba câu.** Là câu hỏi không có câu trả lời, hoặc một mệnh đề trần. Ý nghĩ trực tiếp thì in nghiêng; ý nghĩ gián tiếp tự do thì hòa vào lời kể. Không độc thoại dài, không triết luận.
+- **Dùng thẳng ngôn từ của hệ giá trị, không cần paraphrase.** Hệ giá trị là khung nghĩ của chính Thuyên, nên chữ của nó là chữ của anh. Tự thoại và lời kể nội tâm được dùng nguyên các từ: *khuyết, sửa, sửa xong, đủ, chưa đủ, không bao giờ đủ, cây thước, chấm, kẻ thất bại, phía trước, chạy, đứng yên, lỗi ở đâu, mất ở câu nào*. Ví dụ: *Lại một khuyết. Sửa.*, *Không còn gì để sửa. Thế thì mình là kẻ thất bại.*, *Phải có cái gì ở phía trước.* Nói thẳng ý của hệ giá trị là cách giọng anh vận hành, không phải "gọi tên cảm xúc" hay giải thích động cơ.
+- **Vẫn cấm thuật ngữ tâm lý và triết học** (không phải chữ của anh): "hiện sinh", "vô nghĩa", "trống rỗng hiện sinh", "trầm cảm", "giá trị bản thân", "cầu toàn", "tự ti". Không trích triết gia. Tên bệnh để đến cuối Phần 1.
+- **Từ vựng là thứ anh sống cùng:**
+  - **thiên văn:** quỹ đạo, ngôi sao đã chết, vũ trụ to ra vào cái gì, Sao Hôm không phải sao;
+  - **lập trình:** vòng lặp không có điều kiện dừng, hàm không trả về gì, bài chạy quá một giây là không điểm, báo lỗi rồi đợi sửa;
+  - **đồ vật của quá khứ:** tủ kính, vỏ gối, bể nước, cái Casio dây rộng.
+
+  Câu hiện sinh của Thuyên nghe như một kỹ sư nhìn lên trời, không như một triết gia.
+- **Vênh với lời kể:** lời kể khô ("Không buồn. Chỉ là thêm một dòng"), tự thoại để lộ chỗ đau. Không bao giờ ngược lại.
+- **Không tự thương thân, không được an ủi:** tới gần chỗ thương thân thì lý lẽ "chắc ai cũng thế" cắt ngang. Lời kể không trả lời câu hỏi thay anh.
+
+### Thời điểm
+
+- **Đặt ở:** cảnh rảnh (hết việc, cuối tuần, sau deadline); ngay sau mỗi lần thắng; đêm muộn; lúc vừa rời đám đông về phòng (ch.7: cả ngày nói, "không có chữ nào về mình"); lúc nghe tiếng dép, tiếng bát, cuộc gọi tám giờ.
+- **Không đặt giữa cảnh đấu trí, cảnh hài hay cảnh thân mật**, trừ một dòng lạnh ở cuối cảnh.
+- **Mật độ:**
+  - chương mạch hiện tại: tối đa một đến hai câu;
+  - chương quá khứ (2–7): ba đến năm câu, rải theo mảnh.
+
+  Cộng cả câu tự soi về đọc người: không vượt trần đã ghi ở bản rà soát ch.8–38.
+
+### Đường đi theo giai đoạn
+
+| Giai đoạn | Giọng tự thoại | Ví dụ hướng (không dùng nguyên văn) |
+| --- | --- | --- |
+| Lớp 3–7 | Hỏi ngây thơ về vũ trụ, câu hỏi bị gạt quay vào trong | Có những thứ đã mất rồi mà người ta vẫn còn nhìn thấy |
+| Lớp 8–9 | Khóc không biết vì sao; trốn vào câu hỏi lớn | Nếu vũ trụ đang to ra thì nó to ra vào cái gì |
+| Lớp 11 | Lần đầu hỏi về cây thước | *Đủ là bao nhiêu. Ai đếm.* |
+| Lớp 12 | Lời thề lạnh | *Lần sau không hỏi ai nữa.* |
+| Đại học | Vô hình giữa đám đông | Mấy nghìn chữ một ngày, không chữ nào về mình |
+| Lab, giai đoạn 1 | Cảnh rảnh, tự đẻ việc | *Nếu mai không có ô đỏ nào, mình làm gì ở tầng mười bảy.* |
+| Giai đoạn 2 | **Thưa dần.** Mục tiêu và tầm nhìn dài hạn lấp chỗ trống. Câu hiện sinh bị thay bằng danh sách | Sự vắng mặt của câu hỏi là triệu chứng |
+| Đổ vỡ | Quay lại dồn dập, không còn mục tiêu nào chặn | Vòng lặp không có điều kiện dừng |
+| Phần 2 | Được trả lời lần đầu, bằng hành động (ngồi yên), không bằng lý lẽ | — |
+
+### Ranh với các luật khác
+
+- **Không phá "phần cần giấu":** câu hiện sinh nói về giá trị và sự tồn tại của chính anh, không gọi tên tình cảm với Nhi hay Diệp Anh.
+- **Không gắn nhãn tâm lý** (mục *Các rule khác*). Tên bệnh vẫn để đến cuối Phần 1.
+- **Không thay chi tiết bằng câu hỏi lớn:** mỗi câu hiện sinh phải đứng trên một chi tiết cụ thể vừa xảy ra trong cảnh (vòi nước, cái cốc rung, số dư hai tài khoản, ô đỏ trên màn hình).
+
+### Ví dụ
+
+| Tránh | Dùng |
+| --- | --- |
+| *Cuộc sống của mình thật vô nghĩa.* | *Ba chấm trắng vẫn quay. Không ai chấm thì nó có đang quay không.* |
+| *Mình cảm thấy trống rỗng sau chiến thắng.* | Anh tắt màn hình. Ô cuối cùng đã xanh. *Rồi sao nữa.* |
+| *Mình luôn nghĩ mình là kẻ thất bại vì bố mẹ.* (giải thích nguyên nhân) | *Chín điểm. Một điểm kia mất ở câu nào.* Anh nghe câu ấy bằng giọng mình |
+| *Anh cảm thấy bất an khi không có việc gì làm.* | Chủ nhật. Không còn ô đỏ nào. *Không còn gì để sửa. Thế thì mình là kẻ thất bại.* Anh mở laptop |
+| Lời kể vòng vo để tránh chữ "khuyết" | *Khuyết: không có giải quốc gia. Sửa: thi.* |
+| Một đoạn dài tự phân tích vì sao mình chạy | Anh mở file mới, gõ tiêu đề cho việc của tuần sau, dù tuần này chưa hết |
+
+## Lời kể biểu cảm có chủ đích (chốt 18/10)
+
+Người kể đi theo giọng nghĩ của Thuyên được phép **ngập ngừng như người nói**: dò, tự sửa, bỏ lửng, rồi nhận ra. Nhưng **mỗi lần ngập ngừng phải dẫn cảm xúc người đọc đi đâu đó**. Người kể dẫn người đọc bằng phương thức biểu cảm (nhịp câu, câu hỏi, chỗ ngắt, chỗ nhận ra), không bằng lời bình. Đây vẫn là giọng của Thuyên (gián tiếp tự do), không phải người kể đứng ngoài thương hại: những câu kiểu "tội nghiệp cậu bé" là cấm.
+
+Chi tiết và cơ sở: `claude/sua-doi/M-dien-bien-cam-xuc.md`, mục 2.3.
+
+### Sáu thao tác
+
+| Thao tác | Dạng | Việc với người đọc |
+| --- | --- | --- |
+| **Dò** | *Liệu…? / Hay là…? / Có phải…?* | Mở một câu hỏi, kéo người đọc đoán cùng anh |
+| **Lật** | *À. / À đúng rồi. / Hóa ra…* | Khoảnh khắc nhận ra. Thường là nhận ra **sai**, để người đọc thấy rõ hơn anh và đau thay anh |
+| **Tự sửa** | *Không. Không phải thế. Mà là…* | Đi đến sát sự thật rồi lùi lại, hoặc vượt qua nó |
+| **Bỏ lửng** | *Nhất huyện thì chắc…* | Chỗ anh không dám nghĩ hết; người đọc tự điền vế còn thiếu |
+| **Dồn** | Liệt kê ngắn, nhịp nhanh dần | Tăng áp: đếm roi, đếm F5, đếm trang |
+| **Rơi** | Một câu hai, ba chữ sau một câu dài | Đập; chốt cảm xúc mà không gọi tên |
+
+### Luật
+
+1. **Dò thì phải lật hoặc bỏ lửng có chủ đích**, trong vòng vài câu. Không có câu hỏi treo vô cớ.
+2. **Cú lật đắt nhất là cú lật sai:** anh rút ra một bài học méo, người đọc thấy chỗ méo. Hệ giá trị của anh được dựng ngay trên trang bằng những cú lật sai.
+3. **Mỗi mảnh đỉnh có một cụm dò → lật.** Không quá hai dấu chấm lửng trong một đoạn.
+4. **Không ngập ngừng ở chỗ không có cảm xúc để dẫn** (tả cảnh, chuyển thời gian, kể việc vặt).
+
+### Hình thức theo giai đoạn
+
+| Giai đoạn | Dò | Lật | Ví dụ hướng (không dùng nguyên văn) |
+| --- | --- | --- | --- |
+| Mầm non – lớp 5 | Nhiều, ngây thơ: *Hay là…? Liệu bố có…?* | *À. Hóa ra…*, kiểu trẻ con, thường sai | *Hay là bố không thích sao. À. Hóa ra sách nào thi không ra thì là sách xấu.* |
+| Lớp 6–9 | Thành lý luận: *Nếu vì…, thì…* | Lạnh hơn, kèm kết luận thành quy tắc | *À. Không phải sai. Là chọn sai lúc.* |
+| Lớp 10–12 | Ít dò; tự sửa nhiều | Rất ngắn: *À.* | *Không. Không phải ghen. Là chưa đủ.* |
+| Đại học → lab | Gần như không dò; anh nghĩ mình đã biết hết | Cú lật biến mất. Đó là triệu chứng | — |
+| Đổ vỡ | Dò quay lại, dồn dập | Không có *Hóa ra* nào đến | *Liệu từ đầu… Hay là… Không.* |
+
+### Ví dụ (lớp 6, sau một trận đòn vì cãi)
+
+> Đêm đó anh nằm sấp vì không nằm ngửa được, và lật chuyện ban chiều như lật một bài toán không có đáp án ở cuối sách. Liệu có phải vì con chín? Không. Chín là cao nhất, cô đã đọc to trước lớp. Hay là vì câu nói. Nhưng câu ấy sai ở đâu, mẹ có làm được bài ấy thật đâu… À. Hóa ra không phải sai. Là hỗn. Đúng mà nói ra thì thành hỗn, và hỗn thì bị đánh, đúng hay sai cũng thế.
+
+Dò → tự sửa → dò → bỏ lửng → lật sai. Người đọc thấy bài học méo ("đúng mà nói ra thì thành hỗn"); anh thì mang nó đi tiếp.
+
+### Ranh với các luật khác
+
+- **Với luật vênh:** vênh nói về cách kể *sự việc* (vẫn khô). Ngập ngừng là chuyển động của *nội tâm*, nằm trong phần gián tiếp tự do. Một đoạn có thể khô ở sự việc và ngập ngừng ở chỗ nghĩ.
+- **Với mật độ tự thoại:** các thao tác này nằm trong gián tiếp tự do, không tính vào trần câu in nghiêng.
+- **Với thuật ngữ:** ngập ngừng vẫn bằng chữ của Thuyên ở đúng tuổi; không thuật ngữ tâm lý, triết học.
+- **Chỉ áp cho POV Thuyên.** Các POV khác ngập ngừng theo giọng riêng (Nhi gọi tên cảm giác, Khải không ngập ngừng).
+
+### Văn phong trần tục của tự thoại (chốt 19/10)
+
+**Gốc:** bài văn *Ước mơ của em* (lớp 9) là lần đầu giọng nội tâm của Thuyên thành hình trọn vẹn. Từ đó lời kể mượn dần cấu trúc ấy (giọng nhân vật nhuộm lời kể).
+
+**Đặc điểm:**
+- câu khẳng định, không rào, không than;
+- từ của nhà trường, phẳng, hơi trừu tượng (*công nhận, nuôi dưỡng, kết quả, hiệu quả*);
+- chuỗi ba bước: tiền đề chung → trường hợp của mình → hệ quả;
+- tự đặt mình vào như một dữ kiện;
+- kết bằng *Vì vậy* + một quyết định ngược với điều mình muốn (cú rơi);
+- không tính từ cảm xúc; nỗi đau nằm trong logic.
+
+**Ghép với sáu thao tác: chứng minh bằng loại trừ.**
+1. **Dò** đưa giả thuyết: *Liệu…? Có thể…*
+2. **Tự sửa** loại từng giả thuyết bằng dữ kiện, giọng phẳng: *Không, chắc chắn là…*
+3. **Vì vậy** chốt một quy tắc lệch tiêu cực: cú lật sai mang hình dạng logic.
+
+> *Liệu mạ muốn con mười. Có thể. Nhưng có mười thì vẫn còn một chỗ trống khác. Không, chắc chắn không phải điểm. Thứ mạ muốn là cái chỗ trống. Vì vậy, đi bao nhiêu cũng không đến.*
+
+> *Liệu khán giả muốn nghe chuyện thật. Có thể. Không, chắc chắn là không: chuyện thật không có tiếng vỗ tay. Vì vậy, anh gõ lại câu ấy.*
+
+**Lộ trình theo tuổi:**
+
+| Giai đoạn | Dạng |
+| --- | --- |
+| Tiểu học | Dò ngây thơ (*Hay là…*), lật kiểu trẻ con. Chưa có *Vì vậy* |
+| Lớp 6–7 | Lý luận kiểu bài toán: *Nếu… thì…* |
+| Lớp 9 | Bài văn: lần đầu đủ ba bước và có *Vì vậy* |
+| Lớp 10 → đại học | Dò ngắn lại, tự sửa nhanh, *Vì vậy* đến sớm |
+| Lab | Rút thành danh sách lạnh, cột *vì sao* |
+| Đáy | Gãy: dò liên tục (*Liệu… Có thể… Không…*), không đi đến *Vì vậy*; vòng lặp không có điều kiện dừng |
+
+**Luật:**
+- Chỉ dùng ở mắt xích 5 (tự hỏi, suy diễn) và 7 (câu hỏi lớn). Cảnh, cảm giác, giác quan vẫn viết như cũ.
+- Mỗi chương **nhiều nhất một chuỗi đi đủ đến *Vì vậy***. Các lần khác bỏ *Vì vậy*, kết bằng một hành động.
+- Người kể mượn từ của anh, không bình luận.
+- Trớ trêu với khung hiện tại: thầy Bình dặn "Đừng viết như báo cáo"; giọng thật của anh chính là một bản báo cáo.
+- Rủi ro: dùng dày thì thành giọng răn dạy. Giữ cú rơi hiếm để nó còn nặng.
+
+## Cảm xúc chuyển dạng, không gọi tên (chốt 18/10)
+
+**Luật:** cảm xúc của Thuyên không bao giờ biến mất khỏi trang, và không bao giờ được người kể gọi tên. Nó **chuyển dạng** theo tuổi: càng lớn càng nhiều lớp, và khoảng cách giữa cái anh cảm thấy với cái anh làm ra càng xa. Đây không phải cơ chế bớt cảm xúc, mà là cảm xúc phức tạp dần theo quá trình trưởng thành của một con người. Áp dụng xuyên suốt truyện, mọi chương và đoạn POV Thuyên, từ mầm non đến Phần 2. POV khác Thuyên dùng kỹ thuật này và được gọi tên thêm (xem *Ranh*).
+
+Người kể phải làm người đọc **cảm được** cái buồn, cái tủi trong lời kể, mà không nêu tên nó.
+
+Chi tiết và cơ sở: `claude/sua-doi/M-dien-bien-cam-xuc.md`, mục 2.2.
+
+### Chuỗi thay cho tên gọi
+
+- **Không viết:** *Anh tủi thân. Anh khóc.*
+- **Viết:** hành vi hoặc cơ thể → anh **đoán nguyên nhân**, bằng giọng anh, có thể đoán lệch → anh **xử lý** cái cảm ấy (gạt đi, gọi nó bằng tên khác, chuyển sang việc khác) → dấu vết.
+- **Anh được đoán nguyên nhân, không gọi tên cảm xúc.** Người kể không xác nhận cái đoán ấy đúng hay sai.
+
+Ví dụ:
+
+> Anh khóc. Chắc là vì không ai đứng về phía mình, anh đoán thế, rồi thấy cái đoán ấy nghe như một đứa trẻ đi mách, nên thôi không đoán nữa. Anh lật gối sang mặt khô.
+
+### Chuyển dạng theo tuổi
+
+| Giai đoạn | Cảm xúc đi ra bằng | Anh xử lý bằng | Độ phức tạp |
+| --- | --- | --- | --- |
+| Mầm non – lớp 5 | Tràn thẳng ra cơ thể: khóc, chạy, nắm chặt, trốn | Đoán nguyên nhân kiểu trẻ con, rồi ngủ thiếp đi | Một lớp |
+| Lớp 6–9 | Cơ thể và lời cãi | Lý luận hóa: biến thành bài toán để gạt đi | Hai lớp cùng lúc (vừa cay vừa sướng) |
+| Lớp 10–12 | Khinh, học, thi, chữ "khuyết" | Gọi bằng tên khác: buồn thành "mệt", ghen thành "chưa đủ", nhục thành "một khuyết" | Nhiều lớp, lẫn vào nhau (mặt cười theo câu nhục) |
+| Đại học → lab | Vai trò, kiểm soát, nhịp làm việc | Không chạm tới; chỉ lộ qua cơ thể và quyết định | Lớp chồng lớp, xa hành vi nhất |
+| Đổ vỡ | Các lớp bong ra; cái thô quay lại | Không còn cách xử lý nào chạy | Thô như hồi bé, nhưng không còn ngây thơ |
+| Hồi phục | Học nói ra bằng thoại (với bác sĩ, Vũ, bố) | — | Anh được tự nói tên trong **thoại**; lời kể vẫn không gọi tên |
+
+### Màu sắc của lời kể
+
+Lời kể được **nhuộm** bởi trạng thái của anh. Người đọc cảm được cái anh cảm qua màu của câu chữ, trước cả khi hiểu ra.
+
+1. **Nhuộm chữ:** lời kể mượn chữ và nhịp của trạng thái anh đang ở trong. Lúc co lại thì động từ nhỏ đi (co, nép, lùi, rúc); lúc mong thì câu hướng ra xa; lúc khinh thì câu chính xác, đo đếm.
+2. **Bảng màu giác quan** (bảng cho người viết, không đưa tên trạng thái vào truyện):
+
+| Trạng thái | Ánh sáng, nhiệt độ, âm thanh, vật | Nhịp câu |
+| --- | --- | --- |
+| Mong | Ánh sáng ở xa; âm thanh đang tới (tiếng xe đầu ngõ) | Câu hướng tới, có chỗ chờ |
+| Tủi | Ẩm, nhỏ, gần; tiếng khẽ (gối ẩm, nước nhỏ giọt, góc phòng) | Câu co lại, động từ nhỏ |
+| Cay | Nóng, khô, sắc cạnh (nắng gắt, mép giấy cứa tay, sạn trong cơm) | Câu cứng, cụt |
+| Nhục | Ánh sáng quá rõ, bị nhìn, phản chiếu (kính tủ, đèn trần, ô camera) | Câu dừng lâu trên một chi tiết |
+| Sợ | Âm thanh phóng to, thời gian chậm (tiếng quạt, nồi cơm tách) | Câu ngắn, đếm |
+| Rỗng | Không gian rộng, vang, đều (sân vắng, quạt trần, hành lang) | Câu đều, lặp |
+| Ấm | Mùi, vật chạm tay (dầu gió, lạc rang, chăn) | Câu mềm, dài vừa |
+| Khinh | Lạnh, chính xác, đo đếm (con số, khoảng cách, cỡ chữ) | Câu gọn, liệt kê |
+
+   Nhiều trạng thái cùng lúc thì ghép màu. Ví dụ mặt cười theo câu "cục đất": ấm cộng ánh sáng quá rõ.
+3. **Cùng một vật, đổi màu theo tâm trạng:** tủ kính lúc mong thì sáng như cửa hiệu; lúc nhục thì lạnh như quầy thuốc; lúc khinh thì chỉ còn là mấy tấm kính và một cái khóa. Vật lặp lại là thước đo cảm xúc.
+4. **Nhịp câu là nhiệt độ:** nóng thì cụt; lạnh thì đều; tràn thì một câu dài không ngắt.
+5. **Chọn chi tiết, không bẻ thế giới:** màu nằm ở việc chọn chi tiết nào để kể và kể bằng chữ nào, không phải đổi thời tiết theo tâm trạng (không cho trời mưa vì anh buồn).
+
+### Ranh với các luật khác
+
+- **Cấm gọi tên trong lời kể POV Thuyên:** tủi, buồn, vui, ghen, nhục, sợ, cô đơn, hạnh phúc, tự hào… Không thay bằng tính từ màu ("buồn bã", "u ám", "nặng nề"). Ngoại lệ duy nhất: **tiêu đề** interlude của Thuyên là tên một cảm xúc (Chương 0: *Cô tịch*); lời kể bên trong vẫn không gọi tên.
+- **Phủ định của chính anh được giữ:** câu như "Không buồn." là hành vi gạt đi của anh trong giọng gián tiếp tự do, không phải người kể gọi tên.
+- **Thoại được nói tên:** người khác nói về anh; anh nói ở phần hồi phục ("bố sợ").
+- **Với lời kể biểu cảm có chủ đích:** dò và lật dẫn tới chỗ anh đoán nguyên nhân, không dẫn tới tên cảm xúc.
+- **Vẫn cấm thuật ngữ tâm lý.**
+- **POV khác Thuyên** (Nhi, Phong, Diệp Anh, Khải và mọi interlude, chốt 18/10): dùng **cả hai**, kỹ thuật chuyển dạng và màu lời kể ở trên, **và** được gọi tên cảm xúc. Điều kiện:
+  - gọi tên vẫn đi cùng chi tiết cụ thể, không thay chi tiết bằng tính từ (mục *Nguyên tắc chung*);
+  - màu lời kể theo giọng riêng của POV đó: Nhi gọi tên thẳng, giọng ghi chú điện thoại; Phong nhìn qua ống kính, màu là ánh sáng và hạt phim; Diệp Anh giữ hình ảnh, gọi tên rồi tự sửa cho đẹp; Khải gần như không gọi tên, màu lạnh, liệt kê;
+  - phần cần giấu vẫn giữ (cảm xúc nhân vật POV chưa tự nhận ra thì chưa gọi tên).
+
 ## Nhịp kể
 
 Hồi tưởng và nghĩ về tương lai được phép đi nhanh. Mạch kể hiện tại thì không bao giờ được rush.
