@@ -1,8 +1,10 @@
 # Đèn vàng – Rules viết
 
-Oct 5, 2026 · @aureliustran.
+Oct 5, 2026 · @aureliustran. Sửa Oct 28, 2026 (văn phong theo cây tuyến; cỗ máy trên trang; kênh giác quan theo loại ký ức).
 
 Kỹ thuật viết cho toàn truyện. Mạch truyện và nhân vật nằm ở file 02-mach-truyen.md.
+
+**Sửa 28/10:** truyện không có văn phong mặc định chung. Register (văn phong) được chọn theo node × giai đoạn × nhịp qua cây tuyến, xem mục *Văn phong theo cây tuyến* ngay trước mục *Giọng của Thuyên theo đối tượng*, và `docs/rules/registers.md`. Các luật câu chữ trong file này (không gọi tên cảm xúc, chuyển dạng, màu lời kể, tự thoại) áp cho mọi register, trừ chỗ ghi ngoại lệ.
 
 ## Nguyên tắc chung
 
@@ -11,12 +13,31 @@ Cho thấy là mặc định: người đọc tự cảm nhận qua chi tiết. 
 - **Không gọi tên cảm xúc, không giải thích động cơ ở phần cần giấu, và giấu phải đi kèm mục đích** (chốt 15/10). Phần cần giấu là:
   - nhân vật truyện cần người đọc đi sau một bước: Khải (đến *Quân trắng*), ngài Morpheus (đến *Quân đen* và cảnh quán bia hơi), Diệp Anh ở phía bên kia (đến *Quân đen*). Mục đích: giữ bất ngờ cho lần lật bài, mọi manh mối đọc được theo hai nghĩa;
   - cảm xúc nhân vật POV chưa tự nhận ra hoặc chưa chịu nhận (Nhi với Thuyên trước khi cô gọi tên được; Thuyên với Nhi). Mục đích: người đọc nhận ra trước nhân vật.
-  Ở các chỗ ấy, để hành động, chi tiết, phản ứng cơ thể tự nói.
-- **Ngoài phần cần giấu, được gọi tên cảm xúc và nói động cơ** khi nói thẳng giúp người đọc thấy đường đi của cảm xúc: nhân vật đi từ đâu đến đâu qua một cảnh. Ví dụ interlude POV Phong: người kể nói thẳng Phong thích Nhi từ bao giờ, vì sao, và buổi sáng ấy làm gì với cái thích đó. Gọi tên vẫn phải đi cùng chi tiết cụ thể, không thay chi tiết bằng tính từ.
+  Ở các chỗ ấy, để hành động, chi tiết, phản ứng cơ thể tự nói. **Giấu là hoãn, không phải bỏ** (chốt 18/10): mọi điều đã giấu phải được nói ra ở nhịp lật của nó (xem mục *Ý định tác giả phải lên trang*).
+- **Ngoài phần cần giấu, được gọi tên cảm xúc và nói động cơ** (không áp cho POV Thuyên: lời kể POV Thuyên không bao giờ gọi tên cảm xúc, xem mục *Cảm xúc chuyển dạng, không gọi tên*) khi nói thẳng giúp người đọc thấy đường đi của cảm xúc: nhân vật đi từ đâu đến đâu qua một cảnh. Ví dụ interlude POV Phong: người kể nói thẳng Phong thích Nhi từ bao giờ, vì sao, và buổi sáng ấy làm gì với cái thích đó. Gọi tên vẫn phải đi cùng chi tiết cụ thể, không thay chi tiết bằng tính từ.
 - **Kiểm tra:** trước mỗi chỗ giấu hoặc nói, trả lời được câu *giấu để làm gì* hoặc *nói để làm gì*. Không trả lời được thì đang giấu theo thói quen.
 - **Ngoại cảnh sống động:** thời tiết, mùi, âm thanh, đồ vật cụ thể (hoa sữa, đèn đếm ngược, vòi nước rỉ, lá bàng, đêm trắng Phần Lan…).
 - **Suy nghĩ vu vơ có chủ đích:** ý lan man phải cài cắm điều gì đó về nhân vật hoặc cốt truyện.
 - **Không viết quá chuẩn xác:** người thật không nói và nghĩ gọn gàng, logic tuyệt đối.
+
+### Ý định tác giả phải lên trang (chốt 18/10)
+
+**Luật:** toàn bộ ý định của tác giả viết trong tài liệu phải được kể lại trong truyện, ở một nhịp hợp lý, với độ chi tiết **từ nguyên văn trở lên**.
+
+- **Ý định là gì:** mọi thứ tài liệu nói về *vì sao* và *nghĩa là gì*: động cơ, lý luận, cơ chế, nhân quả, hệ giá trị, gương giữa các nhân vật, mỉa mai, tầng nghĩa của một vật hay một câu, lý do một kế hoạch thành công hay thất bại. Nguồn: bible, rules, dàn ý, brief, plan, các module sửa đổi (`claude/sua-doi/`), thẻ nhân vật.
+- **Không có ý định nào chỉ nằm trong tài liệu.** Người đọc chỉ đọc truyện. Ý nào không lên trang thì với người đọc là không tồn tại. Một ý không tìm được nhịp hợp lý thì hoặc thêm nhịp (cảnh, đoạn, dòng), hoặc cắt ý khỏi tài liệu.
+- **Độ chi tiết từ nguyên văn trở lên:**
+  - **Mức sàn là nguyên văn:** câu, lý lẽ, con số, phép tính trong tài liệu được đưa thẳng vào lời kể, tự thoại, thoại, tin nhắn, bảng (`:::sheet`, `:::note`), không cần paraphrase và không được tóm nhỏ hơn.
+  - **Từ đó trở lên:** dựng thành cảnh, thoại, vật, hành động, tự thoại. Cho thấy được thì cho thấy, nhưng cho thấy phải đủ để người đọc ráp ra đúng ý; không đủ thì nói thêm bằng nguyên văn.
+- **Nhịp hợp lý:**
+  - **Phần cần giấu:** kể ở nhịp lật (*Quân trắng*, *Màu xám*, *Đen*, *Quân đen*, *Áo cử nhân*, chương lật bài…), không kể trước.
+  - **Đúng POV:** người kể chỉ nói điều nhân vật POV biết hoặc nghĩ được. Điều chỉ Khải biết thì nằm trong interlude của Khải; điều Thuyên không biết thì để người đọc biết qua POV khác hoặc qua một nhịp sau.
+  - **Đúng giọng:** nguyên văn được dùng khi khớp giọng người kể. Không khớp thì giữ ý, đổi chữ ít nhất có thể sang chữ của nhân vật (Thuyên: chữ của hệ giá trị; Nhi: câu ngắn thấu cảm, không rẽ nhánh; Khải: liệt kê lạnh, ngôi tôi; Diệp Anh: giọng biên bản).
+  - **Đúng mật độ:** nhiều ý cùng chương thì rải ra theo nhịp; không dồn thành một đoạn giải thích.
+- **Ranh với các luật khác:** vẫn cấm thuật ngữ tâm lý, triết học, MBTI, tên hình mẫu tham chiếu trong lời kể (mục *Tự thoại hiện sinh*, *Các rule khác*). Ý định được nói bằng chữ của nhân vật, không bằng chữ của tài liệu thiết kế.
+- **Ngoại lệ:** các dòng ghi *"Ghi chú thiết kế, không đưa vào truyện"* (MBTI, chức năng bóng, hình mẫu tham chiếu, tham khảo ngoại hình) và ghi chú kỹ thuật (quy ước tên file, định dạng, site). Những thứ này chỉ hiện qua hành vi.
+- **Khi lập plan hoặc brief:** mỗi ý định trong tài liệu liên quan đến khoảng chương phải được ánh xạ thành một dòng *ý định → chỗ (chương, nhịp, POV) → câu gài (nguyên văn hoặc hơn)*, như bảng G1–G11 ở module Hệ giá trị Diệp Anh (mục 8.4).
+- **Khi đánh giá thành phẩm:** soát xem ý định nào của khoảng chương chưa lên trang, hoặc lên trang ở mức thấp hơn nguyên văn. Mỗi ý thiếu là một lỗi phải sửa.
 
 ### Lời thoại
 
@@ -57,6 +78,51 @@ Cho thấy là mặc định: người đọc tự cảm nhận qua chi tiết. 
 - Nhân vật trong trường thật vẫn là hư cấu. Không dùng tên người thật.
 - Chi tiết về địa điểm thật phải đúng. Kiểm tra lại hoặc hỏi người đang học, sống ở đó.
 
+## Văn phong theo cây tuyến (chốt 28/10)
+
+**Luật:** truyện không có một văn phong mặc định. Mềm, ấm, ngôn tình là register của những node cụ thể (RM.TN là chính; chốt v2 19/10 "văn phong ngôn tình Việt Nam" áp cho tuyến tình cảm), không phải giọng nền. Mỗi cảnh, mỗi nhịp lấy register từ ma trận node × giai đoạn ở `docs/rules/registers.md` §3. Khi lập plan, cây quyết định chọn register ở lối vào A bước 7 (`tuyen/README.md` §5).
+
+**Vì sao (tác giả, 28/10):** độ cực đoan của một vấn đề phải nằm trong cách viết, không chỉ trong nội dung, vì nếu không người đọc không hình dung được mức nghiêm trọng. Một tuổi thơ chỉ có đòn roi, lời quát mắng và sự vô dụng của bản thân không kể được bằng giọng của một bản tự sự đã nguôi.
+
+**Hai register lạnh, cực đoan:**
+- **R8 Sổ cái:** chỉ ghi sự việc, đếm, kiểm kê; bạo lực kể cùng giọng với việc vặt; khoảng cách sụp vào thân thể ở cú đánh; kết bằng một dòng sổ sách.
+- **R9 Đắng:** giọng Thuyên hằn học, điệp khúc chữ của người khác, một khối không xuống dòng, được chửi tục (viết tắt); kết bằng câu lễ phép hoặc một hành động.
+
+**Chỗ được dùng [chốt 28/10]:** QK.T (đòn roi, mắng, sự vô dụng ở tuổi thơ); TH.LAB ở GĐ2; toàn bộ thời điểm đổ vỡ. Ngoài các ô ấy cần tác giả duyệt. Luật chi tiết, liều và luật chuyển: `registers.md` §2, §4, §5.
+
+**Ranh với các luật trong file này:**
+- R8 và R9 **vẫn không gọi tên cảm xúc** của Thuyên. Gắt đến từ việc giấu, không từ tính từ.
+- R9 luôn là giọng Thuyên, không phải người kể; người kể vẫn không phán xét. Ở quãng 1 (ch.2–6), R9 chỉ nằm ở khung hiện tại, dưới dạng bản nháp bài phát biểu anh gõ rồi xóa.
+- Luật "không tự thương thân" giữ nguyên: R9 là hằn học, không là than.
+- Vẫn cấm thuật ngữ tâm lý, triết học, tên hình mẫu tham chiếu.
+
+## Cỗ máy trên trang (chốt 28/10)
+
+Nội tâm của Thuyên là một cỗ máy: thiếu thương → phương trình "giỏi thì được thương" → cái tôi → nhu cầu được ôm vẫn còn (cái gối) → phủ nhận → giấu con người thật → thiếu sâu thêm. Sơ đồ, trục H và mười sáu thiết bị trên trang (TB-1 đến TB-16): `docs/tuyen/qua-khu/thuyen-co-may.md`. Thiết bị bắt buộc theo node × giai đoạn: `docs/rules/registers.md` §2.4. Người kể không bao giờ nối các bộ phận giùm người đọc; họ tự ráp nhờ các thiết bị dưới đây.
+
+### Hai bộ từ vựng và luật khóa (TB-1)
+
+- **Bộ kết quả:** giỏi, mười, giải, đứng thứ mấy, thông minh, khuyết, sửa, đủ, chấm, kết quả, hiệu quả. Là tiếng của thế giới và của cái tôi. Gồm cả ngôn từ hệ giá trị ở mục *Tự thoại hiện sinh*.
+- **Bộ chịu đựng:** cố, chịu, mấy cái (roi), mấy ngày, đau không, con nói thật mà. **Chỉ cái gối được dùng** với Thuyên.
+- **Luật khóa:** trước giai đoạn hồi phục, không nhân vật nào (bố mẹ, Vũ, Nhi, Diệp Anh, bất kỳ ai) nói với Thuyên một câu thuộc bộ chịu đựng. Câu ấy để dành cho cảnh sửa (TB-15). Một câu "mày cố rồi" lọt ra sớm là lỗi CHẶN.
+- **Phủ nhận** luôn là bộ kết quả trả lời một nhu cầu thuộc bộ chịu đựng. Người kể không chỉ ra chỗ lệch.
+- Hai bộ không trộn trong cùng một câu, trừ cú cắt ở interlude quãng 2 (TB-12): câu mở bằng bộ chịu đựng, bị cắt, nối bằng bộ kết quả.
+
+### Dấu phân biệt hai cái tôi (TB-3)
+
+- **Cảnh thành công:** cái tôi lành nhìn vào bài, vào vật trước, thân thể phản ứng như hồi đọc tinh vân. Cái tôi độc ngẩng lên xem ai đang nhìn trước khi nhìn bài.
+- **Kể thất bại:** cái tôi lành kể như một lỗi kỹ thuật, không phòng thủ. Cái tôi độc kể kèm một danh sách bào chữa.
+
+### Cái gối (TB-14, TB-15)
+
+- Giọng gối giống mạ mà nhỏ hơn, chậm hơn; in nghiêng; chỉ bộ chịu đựng; luôn có một con số đã đếm được. Không bao giờ khen cái giỏi.
+- Cái gối chịu cả thương lẫn hận (ôm, cắn, ném, kéo về) và sống sót. Việc ôm gối giữ suốt đời anh.
+- Câu gối là tài sản để dành: payoff cuối ở hồi phục, do một người thật nói, và nghĩa phải đổi. Ở đó cái gối được đặt sang một bên, không vứt.
+
+### Lòng tốt kích hoạt đe dọa (TB-7)
+
+Khi một người tiến gần câu của cái gối, phản ứng đầu tiên của Thuyên là tếu, lùi hoặc lạnh đi. Không nhận. Áp cho mọi tuyến có Thuyên, đến hết GÃY.
+
 ## Giọng của Thuyên theo đối tượng
 
 ### Nền chung: tinh ý thì không lạnh
@@ -68,7 +134,7 @@ Thuyên tinh ý, nên anh không bao giờ lạnh lùng hay cộc. Cái "ngầu 
 - **Né không phải là cộc:** khi né, anh né bằng câu đùa, trả lời một nửa, đổi chủ đề mềm, hoặc trả lời đúng mà lệch trọng tâm. Người nghe vẫn thấy dễ chịu, chỉ người tinh (Nhi, Vũ, Diệp Anh) mới thấy là né.
 - **Tin nhắn:** vẫn viết tắt, không dấu câu chuẩn, nhưng không trả lời như bot. Với Vũ: lầy, bóc phốt, khoe. Với Nhi: chọc như chọc trẻ con, hỏi lại. Với Diệp Anh: đùa ngang tốc độ. Với người lạ, người lớn: lịch sự, đủ ý.
 - **Kiểm tra nhanh mỗi lượt thoại:** nếu bỏ câu này đi, người đối diện có thấy anh lạnh không? Nếu có, thêm lớp người. Nếu câu đã dài quá ba câu mà không phải đang giảng bài hay đang cãi, cắt.
-- **Ngoại lệ có chủ đích:** giai đoạn biến chất (cụt dần với người thân, là triệu chứng), giai đoạn trầm cảm (nói ít vì cạn), và những khoảnh khắc anh cố tình làm đau (đêm ghế đá). Khi đó cụt lủn là tín hiệu, người kể phải cho thấy.
+- **Ngoại lệ có chủ đích:** giai đoạn biến chất (cụt dần với người thân, là triệu chứng), giai đoạn trầm cảm (nói ít vì cạn), những khoảnh khắc anh cố tình làm đau (đêm ghế đá), và **cảnh áp chế ở TH.LAB GĐ2** (R8, chốt 28/10): thoại của anh với người dưới lặp nguyên khuôn câu của người lớn thời anh còn nhỏ ("Sướng thế mà còn sai à?"), không lớp người. Khi đó cụt lủn là tín hiệu, người kể phải cho thấy.
 
 Ví dụ:
 
@@ -91,6 +157,7 @@ Thuyên đọc từng người và đổi giọng theo họ. Ba lớp giọng t�
 - **Meme trẻ con:** Thuyên hay tự làm mấy trò meme của học sinh cấp hai (giơ tay "six seven", trùm mũ hoodie rồi nhận mình đang "aura farming"), xong quay sang gọi người khác là "kid". Thêm: chọc ngoáy ai đó xong lấy ngón tay vuốt dọc xương hàm, tự nhận mình là "sigma"; solo bóng rổ thắng Vũ thì "gg fvcking ez"; ghép đôi người khác (ghép Nhi với một bạn nào đó dai đến mức cô khóc). Tóm lại, với người thân Thuyên thích rage bait. Một kiểu tự giễu, dùng với Vũ, Nhi, đàn em. Không dùng ở chỗ làm, không dùng với người lớn: đây là dấu hiệu anh đang thoải mái. Ở giai đoạn biến chất, trò này thưa dần.
 - **Con trai chưa thân:** thẳng nhưng nhẹ hơn một nấc.
 - **Người lạ làm anh không vừa ý:** mỉa mai, cay ngầm, đủ để chích nhưng không đủ để đối phương nổi khùng.
+- **Gốc của giọng mỉa và ragebait (chốt 19/10):** phần lớn sự mỉa mai và trò ragebait của Thuyên mọc từ những trận cãi với bố mẹ thời cấp 2 (ch.3 mới). Năng lực quan sát người bẩm sinh gặp tư duy logic thành phản xạ ngôn ngữ: nghe một câu là thấy chỗ hỏng, câu vặn bật ra, "Dạ" ở vỏ, lưỡi dao ở ruột. Khi viết một câu mỉa ở mạch chính, có thể gọi lại nhịp ấy, nhưng không giải thích.
 - **Người lớn:** lễ phép, kiên nhẫn, chịu nghe chuyện.
 - **Ở chỗ làm (Phần 1):** mỗi người một giọng. Ngọt với sếp, sắc và hùa theo với đồng nghiệp.
 - **Khi vụng về việc nhỏ:** tự giễu, đùa cho qua ("kệ thừa ốc là do nhà sản xuất hào phóng").
@@ -148,7 +215,7 @@ Gốc của giọng này là hệ giá trị của Thuyên (xem `claude/sua-doi/
 
 ### Hình thức
 
-- **Ngắn: một đến ba câu.** Là câu hỏi không có câu trả lời, hoặc một mệnh đề trần. Ý nghĩ trực tiếp thì in nghiêng; ý nghĩ gián tiếp tự do thì hòa vào lời kể. Không độc thoại dài, không triết luận.
+- **Ngắn: một đến ba câu.** Là câu hỏi không có câu trả lời, hoặc một mệnh đề trần. Ý nghĩ trực tiếp thì in nghiêng; ý nghĩ gián tiếp tự do thì hòa vào lời kể. Không độc thoại dài, không triết luận. **Ngoại lệ (chốt 28/10):** khối R9 Đắng (`registers.md` §2.2) được là một khối dài, không xuống dòng. Nó không phải tự thoại hiện sinh: nó hằn học về người khác và về chính mình, không hỏi về giá trị, và chỉ đứng ở ô ma trận cho phép.
 - **Dùng thẳng ngôn từ của hệ giá trị, không cần paraphrase.** Hệ giá trị là khung nghĩ của chính Thuyên, nên chữ của nó là chữ của anh. Tự thoại và lời kể nội tâm được dùng nguyên các từ: *khuyết, sửa, sửa xong, đủ, chưa đủ, không bao giờ đủ, cây thước, chấm, kẻ thất bại, phía trước, chạy, đứng yên, lỗi ở đâu, mất ở câu nào*. Ví dụ: *Lại một khuyết. Sửa.*, *Không còn gì để sửa. Thế thì mình là kẻ thất bại.*, *Phải có cái gì ở phía trước.* Nói thẳng ý của hệ giá trị là cách giọng anh vận hành, không phải "gọi tên cảm xúc" hay giải thích động cơ.
 - **Vẫn cấm thuật ngữ tâm lý và triết học** (không phải chữ của anh): "hiện sinh", "vô nghĩa", "trống rỗng hiện sinh", "trầm cảm", "giá trị bản thân", "cầu toàn", "tự ti". Không trích triết gia. Tên bệnh để đến cuối Phần 1.
 - **Từ vựng là thứ anh sống cùng:**
@@ -168,7 +235,7 @@ Gốc của giọng này là hệ giá trị của Thuyên (xem `claude/sua-doi/
   - chương mạch hiện tại: tối đa một đến hai câu;
   - chương quá khứ (2–7): ba đến năm câu, rải theo mảnh.
 
-  Cộng cả câu tự soi về đọc người: không vượt trần đã ghi ở bản rà soát ch.8–38.
+  Cộng cả câu tự soi về đọc người: không vượt trần đã ghi ở bản rà soát ch.8–38. Khối R9 không tính vào trần này; nó có liều riêng (`registers.md` §2.2, §5).
 
 ### Đường đi theo giai đoạn
 
@@ -224,6 +291,7 @@ Chi tiết và cơ sở: `claude/sua-doi/M-dien-bien-cam-xuc.md`, mục 2.3.
 2. **Cú lật đắt nhất là cú lật sai:** anh rút ra một bài học méo, người đọc thấy chỗ méo. Hệ giá trị của anh được dựng ngay trên trang bằng những cú lật sai.
 3. **Mỗi mảnh đỉnh có một cụm dò → lật.** Không quá hai dấu chấm lửng trong một đoạn.
 4. **Không ngập ngừng ở chỗ không có cảm xúc để dẫn** (tả cảnh, chuyển thời gian, kể việc vặt).
+5. **Trong mảnh R8 không ngập ngừng** (chốt 28/10). Sổ cái không dò, không lật: chỉ đếm và ghi. Cụm dò → lật để sau mảnh R8, ở đêm hoặc ở khung.
 
 ### Hình thức theo giai đoạn
 
@@ -289,6 +357,8 @@ Dò → tự sửa → dò → bỏ lửng → lật sai. Người đọc thấy
 
 ## Cảm xúc chuyển dạng, không gọi tên (chốt 18/10)
 
+**Sửa 26–28/10:** ở POV Thuyên, luật gọi tên cảm xúc nay theo `docs/rules/goi-ten-cam-xuc.md` (thay câu luật đầu mục này; QK.T quãng 1 xem §4a của file ấy).
+
 **Luật:** cảm xúc của Thuyên không bao giờ biến mất khỏi trang, và không bao giờ được người kể gọi tên. Nó **chuyển dạng** theo tuổi: càng lớn càng nhiều lớp, và khoảng cách giữa cái anh cảm thấy với cái anh làm ra càng xa. Đây không phải cơ chế bớt cảm xúc, mà là cảm xúc phức tạp dần theo quá trình trưởng thành của một con người. Áp dụng xuyên suốt truyện, mọi chương và đoạn POV Thuyên, từ mầm non đến Phần 2. POV khác Thuyên dùng kỹ thuật này và được gọi tên thêm (xem *Ranh*).
 
 Người kể phải làm người đọc **cảm được** cái buồn, cái tủi trong lời kể, mà không nêu tên nó.
@@ -313,7 +383,7 @@ Ví dụ:
 | Lớp 6–9 | Cơ thể và lời cãi | Lý luận hóa: biến thành bài toán để gạt đi | Hai lớp cùng lúc (vừa cay vừa sướng) |
 | Lớp 10–12 | Khinh, học, thi, chữ "khuyết" | Gọi bằng tên khác: buồn thành "mệt", ghen thành "chưa đủ", nhục thành "một khuyết" | Nhiều lớp, lẫn vào nhau (mặt cười theo câu nhục) |
 | Đại học → lab | Vai trò, kiểm soát, nhịp làm việc | Không chạm tới; chỉ lộ qua cơ thể và quyết định | Lớp chồng lớp, xa hành vi nhất |
-| Đổ vỡ | Các lớp bong ra; cái thô quay lại | Không còn cách xử lý nào chạy | Thô như hồi bé, nhưng không còn ngây thơ |
+| Đổ vỡ | Các lớp bong ra; cái thô quay lại | Không còn cách xử lý nào chạy | Thô như hồi bé, nhưng không còn ngây thơ. Register R8, R7 (`registers.md`) |
 | Hồi phục | Học nói ra bằng thoại (với bác sĩ, Vũ, bố) | — | Anh được tự nói tên trong **thoại**; lời kể vẫn không gọi tên |
 
 ### Màu sắc của lời kể
@@ -333,6 +403,14 @@ Lời kể được **nhuộm** bởi trạng thái của anh. Người đọc c
 | Rỗng | Không gian rộng, vang, đều (sân vắng, quạt trần, hành lang) | Câu đều, lặp |
 | Ấm | Mùi, vật chạm tay (dầu gió, lạc rang, chăn) | Câu mềm, dài vừa |
 | Khinh | Lạnh, chính xác, đo đếm (con số, khoảng cách, cỡ chữ) | Câu gọn, liệt kê |
+| Hằn (thêm 28/10) | Đồ tiện nghi đặt ngang hàng với vật gây đau (ti vi, tủ lạnh, cái roi trên cái đinh); chữ của người khác lặp lại | Liệt kê sổ cái (R8), hoặc một khối dồn không xuống dòng (R9) |
+
+   **Kênh theo loại ký ức (thêm 28/10, `registers.md` §2.5):**
+
+   | Loại ký ức | Kênh mở cửa | Cách kể |
+   | --- | --- | --- |
+   | Đau (đòn, mắng, bị phủ nhận) | Âm thanh, xúc giác: tiếng rút thắt lưng, tiếng roi rời cái đinh, tiếng kẻng xe rác, tiếng *tách*, vỏ gối | Bật vào hiện tại qua một tác nhân; mảnh vụn, không mốc thời gian, như đang xảy ra |
+   | Ấm, mong (Sao Hôm, đĩa lạc, đêm quê) | Mùi, ánh sáng ở xa: lạc rang, dầu gió, khói đèn dầu, một chấm sáng | Kể có thời gian, nơi chốn, thành chuyện |
 
    Nhiều trạng thái cùng lúc thì ghép màu. Ví dụ mặt cười theo câu "cục đất": ấm cộng ánh sáng quá rõ.
 3. **Cùng một vật, đổi màu theo tâm trạng:** tủ kính lúc mong thì sáng như cửa hiệu; lúc nhục thì lạnh như quầy thuốc; lúc khinh thì chỉ còn là mấy tấm kính và một cái khóa. Vật lặp lại là thước đo cảm xúc.
@@ -341,7 +419,7 @@ Lời kể được **nhuộm** bởi trạng thái của anh. Người đọc c
 
 ### Ranh với các luật khác
 
-- **Cấm gọi tên trong lời kể POV Thuyên:** tủi, buồn, vui, ghen, nhục, sợ, cô đơn, hạnh phúc, tự hào… Không thay bằng tính từ màu ("buồn bã", "u ám", "nặng nề"). Ngoại lệ duy nhất: **tiêu đề** interlude của Thuyên là tên một cảm xúc (Chương 0: *Cô tịch*); lời kể bên trong vẫn không gọi tên.
+- **Cấm gọi tên trong lời kể POV Thuyên:** tủi, buồn, vui, ghen, nhục, sợ, cô đơn, hạnh phúc, tự hào… Không thay bằng tính từ màu ("buồn bã", "u ám", "nặng nề"). Ngoại lệ duy nhất: **tiêu đề** interlude của Thuyên là tên một cảm xúc (Chương 0: *Cô tịch*); lời kể bên trong vẫn không gọi tên. Luật này áp cả cho R8 và R9.
 - **Phủ định của chính anh được giữ:** câu như "Không buồn." là hành vi gạt đi của anh trong giọng gián tiếp tự do, không phải người kể gọi tên.
 - **Thoại được nói tên:** người khác nói về anh; anh nói ở phần hồi phục ("bố sợ").
 - **Với lời kể biểu cảm có chủ đích:** dò và lật dẫn tới chỗ anh đoán nguyên nhân, không dẫn tới tên cảm xúc.
@@ -401,6 +479,13 @@ Một sự kiện ở hiện tại mà chỉ được kể qua một câu tóm t
 
 **Quy ước tên và mốc:** chương mạch chính đánh số, tên đồ vật hoặc âm thanh. Interlude không đánh số, tên là một màu (POV Nhi), mở bằng một dòng trích ghi chú trong điện thoại cô; interlude POV Diệp Anh mang tên một món trang phục cô mặc trong interlude (Măng tô, Váy cổ thuyền, Áo cử nhân, Áo dài); interlude POV anh trai mang tên một sắc độ trắng – đen (*Màu xám*, *Đen*). Màu sắc có sắc độ (hồng, xanh, vàng…) là của Nhi; trắng, xám, đen là của Khải; tên Nhi không dùng trắng, xám, đen. Không gắn tên nhân vật lên đầu chương. Mỗi chương và interlude có một dòng ngày ở đầu.
 
+**Chương 0, interlude của Thuyên** (chốt 19/10): vừa là chương vừa là interlude.
+- **Tên là một cảm xúc** (chương 0: *Cô tịch*). Đây là chỗ duy nhất tên một cảm xúc của Thuyên được nói thẳng, và nó chỉ nằm ở tiêu đề. Lời kể bên trong vẫn không gọi tên, như mọi chương POV Thuyên. Một người sống bằng lý trí: cái tên chỉ được đặt ở ngoài, trên đầu trang.
+- **Là chương:** POV Thuyên. Tiêu đề `# Chương 0: Cô tịch`. Số 0 không chiếm thứ tự; site hiện như chương đặc biệt (cách đã làm cho 3107), nhãn "Chương 0".
+- **Là interlude:** đứng ngoài dòng thời gian của mạch chính (25/7/2027), và mở bằng một dòng trích như interlude của Nhi. Của Thuyên là câu anh viết dở, trong khối `:::note`: *Từ nhỏ em đã…*.
+- **Vòng khép:** cảnh ở chương 0 lặp lại với đủ ngữ cảnh ở chương *Nước lạnh* của phần đổ vỡ (chương mạch chính, tên đồ vật như thường).
+- Hiện chỉ có một interlude Thuyên. Thêm cái nào nữa thì theo đúng ba điều trên: tên là một cảm xúc, đứng ngoài dòng thời gian, mở bằng một câu anh viết dở.
+
 **Interlude POV Phong** (chốt 15/10): tên một loại phim chụp ảnh (ví dụ *Portra 400*), vì cậu và Nhi cùng chụp phim.
 
 **Interlude nhiều góc nhìn** (chốt 15/10): một interlude kể bằng hai góc nhìn trở lên của các nhân vật ngoài Thuyên thì **gộp quy ước đặt tên của từng người** thành một tên, mỗi người góp một phần, đọc lên vẫn tự nhiên như một cụm người trong nghề vẫn nói; không đặt hai tên cạnh nhau một cách thô. Ví dụ Phong (phim) + Nhi (màu theo cách chỉnh màu ảnh, color grading): *Quầng cam Cinestill*: phim CineStill 800T làm mỗi ngọn đèn có một quầng sáng, quầng ấy màu cam trên nền đêm xanh lam. Tên phải là một hình ảnh có thật trong cảnh, như mọi interlude khác. Màu ghép vẫn theo luật của Nhi (có sắc độ, không trắng, xám, đen) và nên tránh màu đã dùng nhiều (hồng). Trong interlude, đổi góc nhìn bằng ngắt đoạn `---`; mỗi đoạn giữ trọn một góc nhìn, không trộn trong cùng đoạn. Chương mạch chính vẫn một góc nhìn (Thuyên); đêm cần cả Thuyên cùng kể thì dùng chương chỉ có số (như *3107*).
@@ -422,11 +507,11 @@ Quá khứ của Thuyên được kể trọn một lần ở chương 2–7. C�
 
 ### Cách kể
 
-- **Khung nhẹ ở hiện tại:** tuần soạn bài phát biểu cho summit. Một hai đoạn đầu và cuối mỗi chương, mỗi bản nháp kéo ra một mảng ký ức.
+- **Khung nhẹ ở hiện tại:** tuần soạn bài phát biểu cho summit. Một hai đoạn đầu và cuối mỗi chương, mỗi bản nháp kéo ra một mảng ký ức. Khung cũng là chỗ duy nhất của khối R9 ở quãng 1: bản nháp anh gõ rồi xóa (chốt 28/10, `registers.md` §2.2).
 - **Kể đầy đủ:** tuổi thơ, thích nghi, cấp 3, Vy, đêm ghế đá, câu nói, cú tát, đáy kép, chọn ngành.
 - **Chỉ giữ lại hai thứ:** ẩn ý câu nói với Vy (không giải thích, để người đọc tự thấy) và tên bệnh (chỉ tả hành vi, chẩn đoán ở cuối Phần 1).
 - **Cài chi tiết để gọi lại:** cụ thể, giác quan, dễ nhớ. Kho chi tiết nằm trong tài liệu mạch truyện.
-- **Cách gọi lại:** một dòng là đủ. Ví dụ ở lab nghe tiếng giày sếp ngoài hành lang: *"Nhanh. Giống tiếng dép của bố."*
+- **Cách gọi lại:** một dòng là đủ. Ví dụ ở lab nghe sếp nói một câu thiếu một bước: *"Câu này có lỗ. Như câu của bố."*
 
 ### Các rule khác
 
@@ -489,7 +574,7 @@ Tham khảo: Columbo (trinh thám đảo ngược, "howcatchem"), nguyên tắc 
 - **Suy luận của Thuyên là giả thuyết:** "có khi nào…", có xác suất, có lúc sai. Không độc thoại dài giải thích kế hoạch.
 - **Trí tuệ của anh trai thể hiện qua kết quả,** không qua lời giải thích, cho đến interlude cái bẫy. Trước đó, người đọc chỉ thấy anh ta hỏi đúng chỗ, im đúng lúc.
 - **Cảnh đấu trí ngắn câu khi căng, dài câu khi đang ru:** chuyện phiếm thì thoải mái, lan man; khoảnh khắc chạm vào chỗ lệch thì câu cụt, một dòng một ý.
-- **Chương lật bài:** nhịp nhanh, cắt cảnh gọn, không cho Thuyên thời gian vá. Giọng không bình luận, để sự việc tự nặng.
+- **Chương lật bài:** nhịp nhanh, cắt cảnh gọn, không cho Thuyên thời gian vá. Giọng không bình luận, để sự việc tự nặng. Từ chương lật bài trở đi, lời kể được xuống R8 (`registers.md`, ô GÃY).
 - **Interlude cái bẫy (Màu xám: phát hiện; Đen: hành động):** giọng lạnh, gần như liệt kê, câu ngắn. Mỗi manh mối một đoạn, gọi lại đúng chi tiết người đọc đã thấy, không thêm chi tiết mới (không gian lận).
 - **Mỗi lần lật bài trả lời một câu hỏi và mở một câu hỏi mới** (lật bài Phần 1 mở câu hỏi: vì sao anh trai đổ lên Nhi?).
 
@@ -520,7 +605,7 @@ Truyện có cảnh thân mật và fan service, gắn nhãn 18+ khi đăng. M�
 - **Mật độ:** mạch hiện tại có một khoảnh khắc fan service mỗi hai, ba chương, kể cả trong giai đoạn lab căng thẳng (thường đặt ở cảnh thở).
 - **Fan service phải mang chất nhân vật,** không lấy trope rời rạc. Lấy từ chính kho chi tiết của truyện: Thuyên hay quên ô; vụng việc nhỏ; ngoại hình hơi bad (sẹo lông mày, khuyên tai, tóc rơi một lọn); bóng rổ buổi sáng mồ hôi ướt áo; Nhi tone hồng, bướng, nói thẳng.
 - **Căng thẳng trước, thỏa mãn sau:** slow burn với Nhi. Những lần suýt chạm, bị cắt ngang, rồi mới đến lúc chạm.
-- **Fan service không phá tông:** ngay sau một cảnh đau có thể là một khoảnh khắc dễ thương, nhưng không biến cảnh đau thành trò đùa.
+- **Fan service không phá tông:** ngay sau một cảnh đau có thể là một khoảnh khắc dễ thương, nhưng không biến cảnh đau thành trò đùa. Ngay sau cảnh R8 ở TH.LAB GĐ2 thì không đặt fan service trong cùng chương nếu không có `---` và mốc giờ ngăn cách (`registers.md` §4.2).
 
 ### Miêu tả ngoại hình gợi cảm
 
@@ -552,8 +637,8 @@ Không ai tốt hoàn toàn, và không ai được chữa lành bằng một c�
 
 - Phần quá khứ phải để lại dấu căm hận lặng lẽ: cắn gối mà không khóc, một ý nghĩ lạnh trong đầu khi đang mỉm cười với người lớn, lần đầu đổi thành tích lấy tự do bằng một lời nói dối vô hại.
 - Đây là ngòi nổ cho nửa tà về sau: Thuyên có khả năng cân nhắc những lựa chọn không quang minh chính đại, mâu thuẫn về đạo đức nhưng không đủ để bị gọi là trái đạo đức.
-- Không gọi tên căm hận, không giải thích. Chỉ để lại dấu.
-- Đau nhưng kiềm chế: không than vãn, luôn có niềm vui thật xen vào, để khi niềm vui bị lấy đi thì cú đau mới rõ.
+- Không gọi tên căm hận, không giải thích. Chỉ để lại dấu. Ở lớp đứa trẻ (R8), dấu là thân thể và con số. Căm hận được lên tiếng, không bằng tên, ở khối R9 của khung (bản nháp bị xóa) và ở cái tôi độc GĐ2 (chốt 28/10).
+- **Đau nhưng kiềm chế** ở register R6 thường: không than vãn, luôn có niềm vui thật xen vào, để khi niềm vui bị lấy đi thì cú đau mới rõ. **Sửa 28/10:** ở mảnh R8 và khối R9, không bắt buộc niềm vui xen vào trong mảnh; niềm vui thật vẫn phải có ở chương (ít nhất một mảnh ấm mỗi chương quãng 1, `registers.md` §5), để tương phản chứ không để xoa. "Không than vãn" giữ nguyên: R8 không than, R9 hằn học chứ không than.
 
 ### Khắc họa trầm cảm
 

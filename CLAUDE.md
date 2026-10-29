@@ -34,3 +34,33 @@ Hard rules:
 
 Use the `crosspost-site` skill (`.claude/skills/crosspost-site/SKILL.md`): file map,
 checklist for a new site, adapter contract, and the anti-duplicate layers that must stay.
+
+## Story docs (canon, plans, rules)
+
+- Start at `docs/README.md`. The repo is the source of truth; the claude.ai Project
+  "Đèn Vàng" is a selective mirror at the same paths (`docs/kien-truc.md` §3).
+- After changing any doc the Project mirrors (`docs/README.md`, `kien-truc.md`,
+  `quy-trinh.md`, `docs/canon/*`, `docs/tuyen/*`, `docs/rules/*`, `docs/de-xuat/*`),
+  upload the changed files to the Project at the same path.
+- Chat-only sessions write to `claude/inbox/` on the Project; the next session with the
+  repo merges the inbox into `docs/` and deletes it.
+- Legacy notes that only lived on the Project are archived in
+  `docs/kho/legacy/project/` (same paths as on the Project). Do not re-upload them.
+- Draft chapters still being worked on: `docs/ke-hoach/ban-nhap/`. Published v2
+  chapters: `content/v2/`. Legacy chapters: `content/import/`.
+
+## Site (Astro + Supabase on Vercel)
+
+- Import chapters: `npm run import -- --overwrite --reorder` (a dry run does not
+  query the DB).
+- Chapter markup blocks: `:::phone`, `:::notifications`, `[[en: … || …]]`, `[[ht: …]]`.
+- Pages are cached for 30 s plus stale-while-revalidate 300 s.
+- Before committing: `npx astro check`, `npm test`, `npm run build`. Build in a clean
+  copy with `.env.example`; never copy `.env`.
+- On the author's Windows-mounted folder git leaves lock files; use `git commit -o`.
+- Product decisions: Google-only login, reading open to all; comments are anonymous
+  numbered readers with a default avatar and a name they can change; comments go live
+  at once and admin moderates afterwards (daily alert digest); no Hà Tĩnh footnote
+  section (the site has the translator); the Vercel site is the main version and
+  cross-posted copies carry a note; no external URLs on truyennhaong.vn until its
+  editors approve; skill names in English.
