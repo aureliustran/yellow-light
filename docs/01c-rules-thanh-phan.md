@@ -15,6 +15,7 @@ Khi trong truyện xuất hiện một tài liệu mà nhân vật nhìn thấy 
 | Soạn thảo văn bản (Notepad, Docs, file .md) | `:::editor Tên_file.md` | Cửa sổ editor, số dòng, font mono |
 | IDE, terminal, code | `:::ide Tên_file.py` hoặc `:::ide Terminal` | Cửa sổ tối, số dòng, `$` cho lệnh |
 | Bảng tính | `:::sheet Tên_file` + bảng Markdown | Bảng có cột A B C, số hàng |
+| Ghi chú gõ trong điện thoại (app Ghi chú) | `:::phone Tiêu đề` (tiêu đề có thể bỏ trống) | Thẻ ghi chú: mỗi dòng của khối là một dòng ghi chú |
 | Ghi chú viết tay, danh sách, biên bản giấy | `:::note Tiêu đề` | Giấy kẻ dòng, chữ viết tay |
 | Ghi chú lề (viết bên lề giáo trình) | `:::note ink Tiêu đề` | Giấy kẻ dòng, mực tím |
 | Tiếng Anh, giọng Hà Tĩnh | `[[en: gốc \|\| dịch]]`, `[[ht: gốc \|\| dịch]]` | Gạch chân, chạm để đổi |
@@ -22,6 +23,7 @@ Khi trong truyện xuất hiện một tài liệu mà nhân vật nhìn thấy 
 ## Quy ước từng loại
 
 - **Bảng tính:** bảng là bảng. Danh sách việc cần làm, đồ cần mua, biên bản không phải bảng tính: dùng `:::note`. Đầu dòng `[x]` tô xanh (xong), `[~]` tô vàng (chờ), `[!]` tô đỏ (có vấn đề). Ô trống viết `(trống)`. Cột số căn phải bằng `---:`.
+- **Ghi chú điện thoại:** dùng cho ghi chú Nhi gõ trong máy (mỗi interlude của Nhi mở bằng một ghi chú). Khi ghi chú được thêm dòng, hiện lại cả các dòng cũ trong cùng một khối. Tin nhắn gõ rồi xóa vẫn để là văn xuôi, không làm khối.
 - **Ghi chú tay:** mỗi dòng danh sách là một gạch đầu dòng. Tiêu đề bỏ trống thì giấy không có tiêu đề.
 - **Email:** các dòng đầu dạng `Từ:`, `Đến:`, `Cc:`, `Chủ đề:`, hết phần đầu bằng một dòng trống. Thân thư viết như văn bản thường. Email chỉ nhắc tới hay trích một câu thì không cần khối.
 - **Editor:** mỗi dòng của file là một dòng trong khối. Tên file thêm ` @20` nếu đoạn này bắt đầu ở dòng 20 của file. Dòng tiếng Anh vẫn dùng được `[[en: … || …]]`.
