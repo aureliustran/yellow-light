@@ -96,7 +96,7 @@ content/
 
 **Inbox cho session chỉ có chat:** session không link máy và không có repo thì không ghi canon. Nó ghi `claude/inbox/<yyyy-mm-dd>-<chủ-đề>.md` trên Project (chốt tác giả vừa nói, nguyên văn, kèm ngày). Session có repo kế tiếp gộp inbox vào repo, rồi xóa file inbox.
 
-**Dọn Project (làm 29/10):** Project chạm 98% dung lượng (1,97 / 2 MB). Mọi file chỉ có trên Project đã chép về repo (bảng mục 2), rồi gỡ khỏi Project: `den-vang/` legacy (chương cũ có ở `content/import/`), `claude/v2/*` (bản repo ở `docs/`), `claude/ban-nhap/` cũ, plan, brief, ghi chú, rà soát cũ. Project giữ: `docs/README.md`, `kien-truc.md`, `quy-trinh.md`, `docs/canon/*`, `docs/tuyen/*`, `docs/rules/*`, `docs/de-xuat/*`, bản nháp đang làm `claude/ban-nhap/thu-v4/`, `thu-v5/`, và `claude/inbox/`. Session chỉ có chat cần file legacy thì xin tác giả mở repo, không đưa lại lên Project.
+**Dọn Project (làm 29/10):** Project chạm 98% dung lượng (1,97 / 2 MB). Mọi file chỉ có trên Project đã chép về repo (bảng mục 2), rồi gỡ khỏi Project: `den-vang/` legacy (chương cũ có ở `content/import/`), `claude/v2/*` (bản repo ở `docs/`), `claude/ban-nhap/` cũ, plan, brief, ghi chú, rà soát cũ. Project giữ: `docs/README.md`, `kien-truc.md`, `quy-trinh.md`, `docs/canon/*`, `docs/tuyen/*`, `docs/rules/*`, `docs/de-xuat/*`, luật và canon v2 còn nằm phẳng (`docs/01-rules-viet.md`, `01c`, `01d`, `00`–`05`, `brief-tinh-cam-thuyen-nhi.md`), `content/v2/*`, bản nháp đang làm `claude/ban-nhap/thu-v4/`, `thu-v5/`, và `claude/inbox/`. Session chỉ có chat cần file legacy thì xin tác giả mở repo, không đưa lại lên Project.
 
 ## 4. Tầng nội dung
 
