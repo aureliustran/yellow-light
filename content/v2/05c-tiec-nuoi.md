@@ -28,11 +28,11 @@ Anh mở file mới. Gõ.
 
 ---
 
-Tết năm lớp ba, tiền mừng tuổi mạ cất hộ gần hết. Mạ để lại cho anh một phong bao đỏ, bảo "[[ht: để tập tiêu || để tập tiêu]]".
+Tết năm lớp ba, tiền mừng tuổi mẹ cất hộ gần hết. Mẹ để lại cho anh một phong bao đỏ, bảo "[[ht: để tập tiêu || để tập tiêu]]".
 
 Hiệu sách đầu chợ huyện bày một cuốn sách về vũ trụ trong tủ kính. Bìa xanh thẫm, giữa bìa là một vòng xoáy tím rực như ai vừa đổ mực vào nước. Bốn mươi lăm nghìn, đúng một tờ trong phong bao.
 
-Anh đứng trước tủ kính ba buổi chiều liền. Buổi thứ tư anh đã tính xong. Chiều thứ Tư mạ họp tổ dân phố đến năm giờ. Bố về lúc sáu giờ. Phong bao tập tiêu thì mạ không kiểm. Mua sách xong thì mua thêm một que kem, ăn hết trên đường về, để nếu ai hỏi đi đâu thì bảo đi mua kem, và trên môi có vị kem thật.
+Anh đứng trước tủ kính ba buổi chiều liền. Buổi thứ tư anh đã tính xong. Chiều thứ Tư mẹ họp tổ dân phố đến năm giờ. Bố về lúc sáu giờ. Phong bao tập tiêu thì mẹ không kiểm. Mua sách xong thì mua thêm một que kem, ăn hết trên đường về, để nếu ai hỏi đi đâu thì bảo đi mua kem, và trên môi có vị kem thật.
 
 Lúc bà bán sách đưa cuốn sách qua quầy, tay anh run. Anh ôm nó vào ngực, đi ra, đi nhanh, rồi chạy. Anh sướng đến mức muốn hét, muốn đứng giữa chợ giơ nó lên cho cả chợ nhìn. Que kem anh ăn trên đường về chảy xuống tận cổ tay, anh không thấy.
 
@@ -50,11 +50,11 @@ Tối nào trước khi ngủ anh cũng lật ra sau xem còn bao nhiêu trang. 
 
 Anh muốn kể cho ai đó. Chuyện ngôi sao đã chết mà vẫn còn sáng. Nó to quá, anh không giữ một mình được.
 
-Chiều thứ năm của cuốn sách, mạ ngồi nhặt rau cải ở hiên. Anh ngồi xuống cạnh rổ rau.
+Chiều thứ năm của cuốn sách, mẹ ngồi nhặt rau cải ở hiên. Anh ngồi xuống cạnh rổ rau.
 
-"[[ht: Mạ ơi, có những ngôi sao chết rồi tề mình vẫn còn nhìn chộ. || Mẹ ơi, có những ngôi sao chết rồi mà mình vẫn còn nhìn thấy.]]"
+"[[ht: Mẹ ơi, có những ngôi sao chết rồi tề mình vẫn còn nhìn chộ. || Mẹ ơi, có những ngôi sao chết rồi mà mình vẫn còn nhìn thấy.]]"
 
-Mạ ngắt một cọng cải, bỏ vào rổ.
+Mẹ ngắt một cọng cải, bỏ vào rổ.
 
 "[[ht: Học bài chưa? || Học bài chưa?]]"
 
@@ -94,7 +94,7 @@ Bố đứng ở cửa phòng. Anh ngẩng lên, và cả người anh lạnh đ
 
 Bố cầm cuốn sách lên, lật vài trang, lật nhanh, như lật một tờ quảng cáo.
 
-"[[ht: Đọc cấy ni để mần chi? Thi có ra nỏ? Tiền mạ cho để tập tiêu, chơ mạ có cho mi tiêu vô ba cấy thứ vớ vẩn ni mô. || Đọc cái này để làm gì? Thi có ra không? Tiền mẹ cho để tập tiêu, chứ mẹ có cho mày tiêu vào mấy thứ vớ vẩn này đâu.]]"
+"[[ht: Đọc cấy ni để mần chi? Thi có ra nỏ? Tiền mẹ cho để tập tiêu, chơ mẹ có cho mi tiêu vô ba cấy thứ vớ vẩn ni mô. || Đọc cái này để làm gì? Thi có ra không? Tiền mẹ cho để tập tiêu, chứ mẹ có cho mày tiêu vào mấy thứ vớ vẩn này đâu.]]"
 
 Anh đứng im. Anh có cả một câu ở trong miệng, về ngôi sao đã chết, về hàng nghìn năm. Anh để câu ấy ở yên trong miệng.
 
@@ -148,13 +148,13 @@ Anh nghĩ đến cuốn sách. Giờ này xe rác đã đổ ra bãi ở cuối 
 
 Cổ họng anh có một thứ gì chẹn ngang. Anh nuốt. Nó không xuống. Rồi nó vỡ ra, và nước mắt chảy xuống gối trước khi anh kịp biết mình đang khóc.
 
-*Giá mà bọ hỏi trong đó có chi.*
+*Giá mà bố hỏi trong đó có chi.*
 
 Chỉ cần hỏi một câu thôi. Anh sẽ kể chuyện ngôi sao. Anh đã để dành câu ấy cả tuần.
 
 Một tiếng nấc lọt ra, nhỏ, vang trong căn phòng tối. Anh nín thở. Đếm. Một, hai, ba. Bên kia tường không có tiếng gì. Chỉ có đồng hồ. Tích. Tắc. Cả nhà ngủ. Anh vừa sợ có người nghe thấy, vừa muốn có người nghe thấy, và cả hai cái ấy cùng không xảy ra.
 
-Anh kéo cái gối dưới ngực lên, áp mặt vào chỗ còn khô. Cái gối nói, giọng giống mạ, mà nhỏ hơn, chậm hơn:
+Anh kéo cái gối dưới ngực lên, áp mặt vào chỗ còn khô. Cái gối nói, giọng giống mẹ, mà nhỏ hơn, chậm hơn:
 
 *Mười hai ngày. Con đọc được mười hai ngày.*
 

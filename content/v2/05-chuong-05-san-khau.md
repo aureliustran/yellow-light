@@ -26,7 +26,7 @@ Cái sẹo nhỏ cắt ngang đuôi lông mày trái vẫn ở đó. Cái khuyê
 
 "Sơ mi trắng thì cả hội trường mặc rồi." Thuyên cầm cái blazer lên, phủi một sợi chỉ không tồn tại. "[[ht: Lên sân khấu thì nỏ ai nhớ cấy áo giống mọi người hết. || Lên sân khấu thì không ai nhớ cái áo giống mọi người cả.]]"
 
-Ở góc phòng, cái áo sơ mi trắng vẫn vắt trên lưng ghế từ tối Chủ nhật tuần trước, bọc nilon đã gỡ, nếp gấp ngang ngực còn nguyên. Anh đã nhắn *Dạ*, đã nhắn *Con cảm ơn mạ*. Anh không mặc nó. Anh không nhìn về phía cái ghế khi nói câu vừa rồi.
+Ở góc phòng, cái áo sơ mi trắng vẫn vắt trên lưng ghế từ tối Chủ nhật tuần trước, bọc nilon đã gỡ, nếp gấp ngang ngực còn nguyên. Anh đã nhắn *Dạ*, đã nhắn *Con cảm ơn mẹ*. Anh không mặc nó. Anh không nhìn về phía cái ghế khi nói câu vừa rồi.
 
 Vũ đi vòng quanh anh một vòng như đi xem xe cũ. Dừng lại ở ngực áo, nheo mắt.
 
@@ -110,7 +110,7 @@ Hàng thứ hai là một khối riêng, bảng tên dây xanh, không phải d�
 
 Phía sau hai hàng ấy là các công ty, đại diện quỹ đầu tư, rồi đến sinh viên. Sinh viên ngồi kín các hàng cuối, có đứa mặc áo đồng phục khoa, có đứa giơ điện thoại quay sẵn. Anh nhận ra mấy cái áo CLB tin học. Ngọc Anh ngồi hàng thứ mười hai, tay cầm một tấm bìa cứng tự làm, chưa giơ lên.
 
-Năm phút trước giờ, anh đã đọc xong cả khán phòng. Biết chỗ nào sẽ cười, chỗ nào sẽ chán, chỗ nào cần nói chậm lại. Biết hàng VIP sẽ không cười ở câu đùa thứ nhất, nên câu đùa thứ nhất phải dành cho hàng sinh viên. Biết ông tóc bạc sẽ ngẩng lên nếu anh nhắc đến một con số. Biết hai bà sẽ im lặng nếu anh kể chuyện về mạ.
+Năm phút trước giờ, anh đã đọc xong cả khán phòng. Biết chỗ nào sẽ cười, chỗ nào sẽ chán, chỗ nào cần nói chậm lại. Biết hàng VIP sẽ không cười ở câu đùa thứ nhất, nên câu đùa thứ nhất phải dành cho hàng sinh viên. Biết ông tóc bạc sẽ ngẩng lên nếu anh nhắc đến một con số. Biết hai bà sẽ im lặng nếu anh kể chuyện về mẹ.
 
 Rồi ánh mắt anh dừng lại ở hàng thứ hai, ngay cạnh người đeo khẩu trang.
 
@@ -254,7 +254,7 @@ Rồi anh nghe giọng mình, trước khi anh quyết định nói:
 
 Giọng anh hạ xuống nửa tông, nhưng không phải nửa tông anh đã tập.
 
-"Bố em trải chiếu ra bờ ruộng trước nhà, hai bố con nằm. Ếch kêu từ dưới ruộng lên từng đợt. Bố giơ tay chỉ về phía chân trời đằng tây và nói…" Anh để giọng quê chạy ra, vì không còn kịp giấu: "[[ht: Sao Hôm tề. Hồi bé bọ đi chăn tru, chộ hấn lên là biết phải lùa tru về. || Sao Hôm kìa. Hồi bé bố đi chăn trâu, thấy nó lên là biết phải lùa trâu về.]]"
+"Bố em trải chiếu ra bờ ruộng trước nhà, hai bố con nằm. Ếch kêu từ dưới ruộng lên từng đợt. Bố giơ tay chỉ về phía chân trời đằng tây và nói…" Anh để giọng quê chạy ra, vì không còn kịp giấu: "[[ht: Sao Hôm tề. Hồi bé bố đi chăn tru, chộ hấn lên là biết phải lùa tru về. || Sao Hôm kìa. Hồi bé bố đi chăn trâu, thấy nó lên là biết phải lùa trâu về.]]"
 
 Ở hàng sinh viên có tiếng cười khẽ, ấm. Không ai cười chế.
 
@@ -340,7 +340,7 @@ Anh cười. Cùng một nụ cười, đúng góc, đúng lúc, hai mươi lầ
 
 Giữa sảnh, tấm băng rôn của sự kiện treo từ trần xuống. Trên màn hình lịch trình bên cạnh, tên anh vẫn còn chạy, chữ trắng trên nền xanh đậm.
 
-Anh lấy điện thoại ra, gửi đường link livestream cho mạ.
+Anh lấy điện thoại ra, gửi đường link livestream cho mẹ.
 
 Rồi tắt màn hình.
 

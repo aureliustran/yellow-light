@@ -206,11 +206,11 @@ Câu hỏi đã được hỏi. Câu trả lời đã được nhận. Anh khôn
 
 ---
 
-Về phòng, anh gọi điện về nhà. Không phải tối Chủ nhật. Mạ bắt máy sau hồi chuông thứ ba.
+Về phòng, anh gọi điện về nhà. Không phải tối Chủ nhật. Mẹ bắt máy sau hồi chuông thứ ba.
 
 "[[ht: Răng gọi giờ ni? || Sao gọi giờ này?]]"
 
-"Dạ, không có chuyện gì đâu mạ. Con được giải Nhì một cuộc thi lập trình ạ."
+"Dạ, không có chuyện gì đâu mẹ. Con được giải Nhì một cuộc thi lập trình ạ."
 
 "[[ht: Giải chi? || Giải gì?]]"
 

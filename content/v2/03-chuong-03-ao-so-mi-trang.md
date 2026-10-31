@@ -71,9 +71,9 @@ Anh ăn hết bát bún. Gắp từng miếng, nhai kỹ. Trả tiền ở quầ
 
 Tám giờ kém, điện thoại rung giữa đường về.
 
-Chữ *Mạ* hiện lên trên màn hình. Anh nhìn nó qua hai hồi chuông, rồi bắt máy.
+Chữ *Mẹ* hiện lên trên màn hình. Anh nhìn nó qua hai hồi chuông, rồi bắt máy.
 
-"Dạ, mạ."
+"Dạ, mẹ."
 
 "[[ht: Ăn cơm chưa con rứa? || Ăn cơm chưa con thế?]]"
 
@@ -85,9 +85,9 @@ Chữ *Mạ* hiện lên trên màn hình. Anh nhìn nó qua hai hồi chuông, 
 
 "[[ht: Ừ. Hà Nội mô cũng có bún. || Ừ. Hà Nội đâu cũng có bún.]]"
 
-Rồi mạ nói. Nói về trời mưa một trận hôm qua, đổ cả cái mương đầu xóm. Nói bà Hoa nhà bên đang rao bán cái nhà. Nói giá thịt lợn tăng, nói đi chợ phải mang theo tiền lẻ. Giọng mạ đều đều, ở đầu dây bên kia có tiếng tivi, một giọng đọc thời sự chìm dưới giọng mạ.
+Rồi mẹ nói. Nói về trời mưa một trận hôm qua, đổ cả cái mương đầu xóm. Nói bà Hoa nhà bên đang rao bán cái nhà. Nói giá thịt lợn tăng, nói đi chợ phải mang theo tiền lẻ. Giọng mẹ đều đều, ở đầu dây bên kia có tiếng tivi, một giọng đọc thời sự chìm dưới giọng mẹ.
 
-Anh đứng bên lề đường, dưới một cột đèn, đi qua đi lại một mét. "Dạ." "Vâng." "Dạ." "Dạ, thế ạ." Mỗi chữ anh nói ra là một cái gật đầu mà mạ không thấy.
+Anh đứng bên lề đường, dưới một cột đèn, đi qua đi lại một mét. "Dạ." "Vâng." "Dạ." "Dạ, thế ạ." Mỗi chữ anh nói ra là một cái gật đầu mà mẹ không thấy.
 
 "[[ht: Tuần ni có chi nỏ? || Tuần này có gì không?]]"
 
@@ -97,15 +97,15 @@ Anh nghĩ nửa giây. "Dạ thứ Bảy tuần sau con có đi nói chuyện �
 
 Rồi tiếng tivi to lên một chút.
 
-"[[ht: Thôi, mạ tắt máy. Học đi nghe. || Thôi, mẹ tắt máy. Học đi nhé.]]"
+"[[ht: Thôi, mẹ tắt máy. Học đi nghe. || Thôi, mẹ tắt máy. Học đi nhé.]]"
 
-"Dạ. Mạ ngủ sớm ạ."
+"Dạ. Mẹ ngủ sớm ạ."
 
 Màn hình hiện: *4 phút 12 giây.*
 
 Anh đứng đó thêm một lúc dưới cột đèn.
 
-Cúp máy xong, anh muốn khóc. Mạ chỉ hỏi ăn cơm chưa.
+Cúp máy xong, anh muốn khóc. Mẹ chỉ hỏi ăn cơm chưa.
 
 Mũi anh cay, hai mắt nóng, cổ họng nghẹn lại một chỗ rất nhỏ. Anh hít vào. Bốn. Thở ra. Sáu. Rồi anh không nhớ có phải bốn và sáu hay không.
 
@@ -119,15 +119,15 @@ Vũ Béo: Thấy m im từ chiều
 :::
 
 :::chat
-> mạ t gọi
+> mẹ t gọi
 :::
 
 :::chat
-Vũ Béo: Mạ m khỏe k
+Vũ Béo: Mẹ m khỏe k
 :::
 
 :::chat
-> khỏe. mạ t khỏe
+> khỏe. mẹ t khỏe
 :::
 
 :::chat
@@ -139,10 +139,10 @@ Vũ Béo: Ờ. Thế thì thôi
 Tin nhắn đến lúc tám giờ mười.
 
 :::chat
-Mạ: Mac ao so mi trang nghe. Ui cho phang
+Mẹ: Mac ao so mi trang nghe. Ui cho phang
 :::
 
-Không dấu chấm, không dấu hỏi, như mọi tin mạ nhắn.
+Không dấu chấm, không dấu hỏi, như mọi tin mẹ nhắn.
 
 Anh đọc nó một lần.
 
@@ -150,9 +150,9 @@ Anh đọc nó một lần.
 
 Mảnh ấy rơi vào đầu anh như một viên sỏi rơi xuống nền gạch: gọn, khô. Anh chưa kịp nhìn rõ thì nó đã mất.
 
-Anh gõ: *Dạ.* Rồi thêm: *Con cảm ơn mạ.* Gửi.
+Anh gõ: *Dạ.* Rồi thêm: *Con cảm ơn mẹ.* Gửi.
 
-Mạ đã xem.
+Mẹ đã xem.
 
 Anh mở tủ. Cái áo sơ mi trắng nằm trong cùng, bọc nilon của tiệm giặt, đúng cái áo anh mặc ở buổi bảo vệ đề cương hồi năm ngoái. Anh lấy ra, chưa bóc nilon. Qua lớp nhựa, nếp gấp ngang ngực vẫn còn, một đường thẳng.
 

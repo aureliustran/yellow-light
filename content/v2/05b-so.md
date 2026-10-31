@@ -44,7 +44,7 @@ Anh mất gần trọn năm lớp một mới thuộc dòng cuối.
 
 ---
 
-Một tối cuối tháng mười một, gió mùa về sớm. Mạ ngồi ở bàn uống nước, lật vở tập viết của anh dưới bóng đèn tuýp. Anh đứng cạnh, hai tay vò vạt áo.
+Một tối cuối tháng mười một, gió mùa về sớm. Mẹ ngồi ở bàn uống nước, lật vở tập viết của anh dưới bóng đèn tuýp. Anh đứng cạnh, hai tay vò vạt áo.
 
 "[[ht: Chữ ni là chữ chi? || Chữ này là chữ gì?]]"
 
@@ -64,11 +64,11 @@ Anh sợ. Không phải sợ cái roi, cái roi còn treo trên đinh. Anh sợ 
 
 "[[ht: Nằm xuống. || Nằm xuống.]]"
 
-Mạ đứng dậy, đi ra sau cửa bếp. Tiếng cái móc mây rời khỏi cái đinh, khô, ngắn.
+Mẹ đứng dậy, đi ra sau cửa bếp. Tiếng cái móc mây rời khỏi cái đinh, khô, ngắn.
 
 Chiếu có mùi cói. Anh nằm sấp, mặt áp xuống chiếu, và cái sợ đi xuống bụng, lạnh như nuốt phải nước đá, rồi lan ra cả hai bàn tay. Roi thứ nhất, anh cắn môi. Roi thứ hai, một tiếng bật ra, nhỏ, như con mèo bị kẹt chân ở khe cửa. Nó ra trước khi anh kịp giữ.
 
-Tay mạ dừng trên cao.
+Tay mẹ dừng trên cao.
 
 "[[ht: Khóc à? || Khóc à?]]"
 
@@ -76,13 +76,13 @@ Anh lắc đầu, mặt vẫn úp xuống chiếu. Nước mắt chảy ngang s�
 
 "[[ht: Đếm lại. || Đếm lại.]]"
 
-Mạ đếm lại từ một.
+Mẹ đếm lại từ một.
 
 Đến ba thì anh không giữ được nữa. Tiếng khóc bật ra to, cả người anh run theo nó, và anh nghe thấy chính mình nói, giọng vỡ ra từng mảnh:
 
-"[[ht: Con sợ. Mạ ơi con sợ. Mạ ôm con. || Con sợ. Mẹ ơi con sợ. Mẹ ôm con.]]"
+"[[ht: Con sợ. Mẹ ơi con sợ. Mẹ ôm con. || Con sợ. Mẹ ơi con sợ. Mẹ ôm con.]]"
 
-Mạ đặt cây roi xuống bàn. Mạ cầm cổ tay anh, dắt ra sân, qua cái sân gạch, ra đến cổng. Mạ mở then, đẩy anh ra ngoài.
+Mẹ đặt cây roi xuống bàn. Mẹ cầm cổ tay anh, dắt ra sân, qua cái sân gạch, ra đến cổng. Mẹ mở then, đẩy anh ra ngoài.
 
 "[[ht: Nín thì vô. || Nín thì vào.]]"
 
@@ -94,7 +94,7 @@ Ngoài cổng tối. Đèn đường ở đầu ngõ hỏng từ tháng trước
 
 Nhà bên đang hát karaoke. Tối thứ Bảy nào nhà ông Tài cũng hát. Tiếng loa dội qua bức tường rào, tiếng trống dồn, tiếng một người đàn ông hát lạc ở câu cuối.
 
-Anh đứng sát cánh cổng, lưng áp vào sắt. Anh sợ. Sợ cái gốc mít đầu ngõ, vì trong bóng tối nó to hơn ban ngày gấp mấy lần. Sợ con chó nhà ai sủa ở cuối xóm. Sợ nhất là cánh cổng sau lưng không bao giờ mở ra nữa, sợ đến mức hai đầu gối anh rung lên, rung không dừng được. Anh muốn mạ ra. Chỉ cần mạ ra, ôm anh một cái thôi, một cái thôi, rồi anh nín liền, anh hứa. Anh muốn đập cổng, muốn gào lên, mà không dám, vì gào là khóc, mà khóc thì cổng không mở.
+Anh đứng sát cánh cổng, lưng áp vào sắt. Anh sợ. Sợ cái gốc mít đầu ngõ, vì trong bóng tối nó to hơn ban ngày gấp mấy lần. Sợ con chó nhà ai sủa ở cuối xóm. Sợ nhất là cánh cổng sau lưng không bao giờ mở ra nữa, sợ đến mức hai đầu gối anh rung lên, rung không dừng được. Anh muốn mẹ ra. Chỉ cần mẹ ra, ôm anh một cái thôi, một cái thôi, rồi anh nín liền, anh hứa. Anh muốn đập cổng, muốn gào lên, mà không dám, vì gào là khóc, mà khóc thì cổng không mở.
 
 Anh ghét cái miệng mình. Cái miệng cứ bật ra tiếng khi anh không cho phép. Anh ghét nó đến mức muốn lấy tay bịt nó lại mãi mãi.
 
@@ -110,23 +110,23 @@ Hết bài thứ tư, anh quay lại, gõ cổng. Ba cái.
 
 Tiếng dép. Tiếng then sắt.
 
-Mạ đứng trong cổng, nhìn anh một cái, rồi quay vào, không nói gì. Trên bàn uống nước, quyển vở tập viết vẫn mở ở trang chữ "bà". Cây roi đã về lại trên cái đinh.
+Mẹ đứng trong cổng, nhìn anh một cái, rồi quay vào, không nói gì. Trên bàn uống nước, quyển vở tập viết vẫn mở ở trang chữ "bà". Cây roi đã về lại trên cái đinh.
 
-Đêm ấy anh hiểu ra một điều, rõ như một cộng một là hai. Khóc thì mạ đếm lại. Khóc nữa thì ở ngoài. Vậy thì nín. Nín thì được vô nhà.
+Đêm ấy anh hiểu ra một điều, rõ như một cộng một là hai. Khóc thì mẹ đếm lại. Khóc nữa thì ở ngoài. Vậy thì nín. Nín thì được vô nhà.
 
 Lớp một, cái roi rời cái đinh mười một lần. Bốn lần vì chữ. Một lần vì khóc.
 
 ---
 
-Đêm, anh nằm nghiêng, quay mặt vào tường. Mạ đã tắt đèn phòng ngoài.
+Đêm, anh nằm nghiêng, quay mặt vào tường. Mẹ đã tắt đèn phòng ngoài.
 
 Nước mắt lại đến. Lần này anh không để nó thành tiếng, vì anh vừa học xong. Anh kéo cái gối lên, cắn vào góc gối, và khóc mà miệng ngậm. Ngực co lại từng đợt, như có một nắm tay bóp vào rồi thả ra. Mũi tắc, anh phải thở bằng miệng qua lớp vải gối, hơi thở nóng, ẩm, có mùi xà phòng.
 
-*Giá mà mạ ra ôm con một cái thôi.*
+*Giá mà mẹ ra ôm con một cái thôi.*
 
 Một cái thôi. Rồi con nín liền.
 
-Cửa phòng ngoài không mở. Anh ôm cái gối vào ngực, ôm chặt, áp mặt vào chỗ còn khô. Và trong đầu anh, cái gối nói. Giọng giống giọng mạ, mà nhỏ hơn, chậm hơn, như mạ lúc mạ không giận ai cả.
+Cửa phòng ngoài không mở. Anh ôm cái gối vào ngực, ôm chặt, áp mặt vào chỗ còn khô. Và trong đầu anh, cái gối nói. Giọng giống giọng mẹ, mà nhỏ hơn, chậm hơn, như mẹ lúc mẹ không giận ai cả.
 
 *Bốn bài. Con đứng hết bốn bài mà.*
 
@@ -160,7 +160,7 @@ Muốn biết đi thì tự đi. Không ai giữ yên cho mình đâu.
 
 Tết năm lớp hai, nhà gói bánh chưng.
 
-Anh được giao rửa lá dong. Anh rửa theo một đường anh tự nghĩ ra, lá này chồng lên lá kia, xả một lần cho cả chồng, nhanh gấp đôi. Mạ nhìn, bắt rửa lại từng lá một.
+Anh được giao rửa lá dong. Anh rửa theo một đường anh tự nghĩ ra, lá này chồng lên lá kia, xả một lần cho cả chồng, nhanh gấp đôi. Mẹ nhìn, bắt rửa lại từng lá một.
 
 Đêm luộc bánh, anh ngồi đếm bánh trong nồi. Sáng ra, bánh vớt lên xếp trên chiếu ở nhà ngoài, cả họ ngồi quanh. Bác Hùng hỏi nhà gói được bao nhiêu cái. Bố bảo mười hai.
 
@@ -168,7 +168,7 @@ Anh được giao rửa lá dong. Anh rửa theo một đường anh tự nghĩ 
 
 "[[ht: Người lớn nói thì nghe! || Người lớn nói thì nghe!]]"
 
-Cả phòng cười. Cô Hoa cười to nhất, rồi xoay sang nói với mạ, giọng như khen:
+Cả phòng cười. Cô Hoa cười to nhất, rồi xoay sang nói với mẹ, giọng như khen:
 
 "[[ht: Thằng ni sướng, Tết nhất bánh trái đủ cả. || Thằng này sướng, Tết nhất bánh trái đủ cả.]]"
 
@@ -186,15 +186,15 @@ Lớp hai: mười chín.
 
 ---
 
-Cuối năm lớp một, anh được giấy khen học sinh tiên tiến. Mạ đặt nó vào tủ kính dưới bàn thờ, hàng ngoài cùng, cạnh bộ ấm chén.
+Cuối năm lớp một, anh được giấy khen học sinh tiên tiến. Mẹ đặt nó vào tủ kính dưới bàn thờ, hàng ngoài cùng, cạnh bộ ấm chén.
 
-Tết, chị họ được giấy khen học sinh giỏi. Mạ đặt tờ của chị vào hàng ngoài cùng. Tờ của anh lùi vào trong, chỉ còn thấy chữ *tiên* và nửa cái hoa văn vàng.
+Tết, chị họ được giấy khen học sinh giỏi. Mẹ đặt tờ của chị vào hàng ngoài cùng. Tờ của anh lùi vào trong, chỉ còn thấy chữ *tiên* và nửa cái hoa văn vàng.
 
-"[[ht: Mạ ơi, khi mô thì tờ của con được ra ngoài lại? || Mẹ ơi, bao giờ thì tờ của con được ra ngoài lại?]]"
+"[[ht: Mẹ ơi, khi mô thì tờ của con được ra ngoài lại? || Mẹ ơi, bao giờ thì tờ của con được ra ngoài lại?]]"
 
 "[[ht: Có tờ mới thì ra. || Có tờ mới thì ra.]]"
 
-Anh đứng trước tủ kính rất lâu, nhìn chữ *tiên*. Anh thèm, thèm như thèm một thứ đồ ăn nhìn thấy mà không với tới: thèm cái tờ của mình được đứng ở ngoài, ở chỗ mạ đi qua là thấy.
+Anh đứng trước tủ kính rất lâu, nhìn chữ *tiên*. Anh thèm, thèm như thèm một thứ đồ ăn nhìn thấy mà không với tới: thèm cái tờ của mình được đứng ở ngoài, ở chỗ mẹ đi qua là thấy.
 
 ---
 
@@ -206,7 +206,7 @@ Bốn mươi cây số đường đất đỏ. Nhà bà nội lợp ngói, sân 
 
 Bố giơ tay chỉ về phía chân trời đằng tây.
 
-"[[ht: Sao Hôm tề. Hồi bé bọ đi chăn tru, chộ hấn lên là biết phải lùa tru về. Về muộn là ông nội đánh cho. || Sao Hôm kìa. Hồi bé bố đi chăn trâu, thấy nó lên là biết phải lùa trâu về. Về muộn là ông nội đánh cho.]]"
+"[[ht: Sao Hôm tề. Hồi bé bố đi chăn tru, chộ hấn lên là biết phải lùa tru về. Về muộn là ông nội đánh cho. || Sao Hôm kìa. Hồi bé bố đi chăn trâu, thấy nó lên là biết phải lùa trâu về. Về muộn là ông nội đánh cho.]]"
 
 Rồi bố không nói gì nữa. Một lúc sau, tiếng ngáy.
 
