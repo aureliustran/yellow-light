@@ -15,7 +15,7 @@ Nov 1, 2026 · @aureliustran. Nguồn: tác giả bổ sung 01/11 `[stated]`; c�
 | nỏ | không | |
 | cấy | cái | |
 | năng | sao, thế nào | thay "răng" (chốt 01/11); đã đổi trên trang |
-| hấn | nó | thay "hắn" (chốt 01/11); đã đổi trên trang |
+| hấn | nó, hắn | thay "hắn" và "nó" (chốt 01/11); đã đổi trên trang |
 | cân | con (con vật, hoặc chỉ một ai đó) | cân bò, cân tru, cân chó, cân gấy, cân trai, cân nớ bị ngu à? **Không** dùng khi "con" là đứa con (tự xưng với bố mẹ, hoặc bố mẹ gọi con): giữ "con" |
 | gấy | gái | chốt 01/11 |
 | nớ | nào | chốt 01/11 ("cân nớ") |
@@ -32,7 +32,7 @@ Nov 1, 2026 · @aureliustran. Nguồn: tác giả bổ sung 01/11 `[stated]`; c�
 | mô | đâu, nào |
 | ni | này |
 | tê | kìa |
-| chớ | chứ |
+| chơ | chứ | thay "chớ" (chốt 01/11) |
 | vô | vào |
 
 ## 3. Luật dùng

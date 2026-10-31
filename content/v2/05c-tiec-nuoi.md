@@ -94,7 +94,7 @@ Bố đứng ở cửa phòng. Anh ngẩng lên, và cả người anh lạnh đ
 
 Bố cầm cuốn sách lên, lật vài trang, lật nhanh, như lật một tờ quảng cáo.
 
-"[[ht: Đọc cấy ni để mần chi? Thi có ra nỏ? Tiền mạ cho để tập tiêu, chớ mạ có cho mi tiêu vô ba cấy thứ vớ vẩn ni mô. || Đọc cái này để làm gì? Thi có ra không? Tiền mẹ cho để tập tiêu, chứ mẹ có cho mày tiêu vào mấy thứ vớ vẩn này đâu.]]"
+"[[ht: Đọc cấy ni để mần chi? Thi có ra nỏ? Tiền mạ cho để tập tiêu, chơ mạ có cho mi tiêu vô ba cấy thứ vớ vẩn ni mô. || Đọc cái này để làm gì? Thi có ra không? Tiền mẹ cho để tập tiêu, chứ mẹ có cho mày tiêu vào mấy thứ vớ vẩn này đâu.]]"
 
 Anh đứng im. Anh có cả một câu ở trong miệng, về ngôi sao đã chết, về hàng nghìn năm. Anh để câu ấy ở yên trong miệng.
 

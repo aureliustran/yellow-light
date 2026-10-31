@@ -22,7 +22,7 @@ Cái sẹo nhỏ cắt ngang đuôi lông mày trái vẫn ở đó. Cái khuyê
 
 "[[ht: Ai bảo mi mang. Tau là áo từ tối qua rồi. Nhưng cảm ơn bác mi hộ tau. || Ai bảo mày mang. Tao là áo từ tối qua rồi. Nhưng cảm ơn bác mày hộ tao.]]"
 
-"[[ht: Tau tưởng mi mặc sơ mi trắng. Sinh viên lên phát biểu thì phải sơ mi trắng chớ. || Tao tưởng mày mặc sơ mi trắng. Sinh viên lên phát biểu thì phải sơ mi trắng chứ.]]"
+"[[ht: Tau tưởng mi mặc sơ mi trắng. Sinh viên lên phát biểu thì phải sơ mi trắng chơ. || Tao tưởng mày mặc sơ mi trắng. Sinh viên lên phát biểu thì phải sơ mi trắng chứ.]]"
 
 "Sơ mi trắng thì cả hội trường mặc rồi." Thuyên cầm cái blazer lên, phủi một sợi chỉ không tồn tại. "[[ht: Lên sân khấu thì nỏ ai nhớ cấy áo giống mọi người hết. || Lên sân khấu thì không ai nhớ cái áo giống mọi người cả.]]"
 
@@ -34,7 +34,7 @@ Vũ đi vòng quanh anh một vòng như đi xem xe cũ. Dừng lại ở ngực
 
 "Quảng Châu. Đứng xa ba mét là xịn."
 
-"[[ht: Cân ngựa nó thêu lệch tê. || Con ngựa nó thêu lệch kìa.]]"
+"[[ht: Cân ngựa hấn thêu lệch tê. || Con ngựa nó thêu lệch kìa.]]"
 
 "Ngựa đang phi thì lệch là đúng."
 
@@ -70,7 +70,7 @@ Vũ chở anh bằng chiếc Wave đời cũ, đi đường Phạm Hùng. Gió t
 
 "[[ht: Mi nói dối như hạch. || Mày nói dối như hạch.]]"
 
-"[[ht: Nỏ run thật tề. Tay tau đang giữ cấy blazer ni, run thì nó bay mất lâu rồi. || Không run thật mà. Tay tao đang giữ cái blazer đây này, run thì nó bay mất lâu rồi.]]"
+"[[ht: Nỏ run thật tề. Tay tau đang giữ cấy blazer ni, run thì hấn bay mất lâu rồi. || Không run thật mà. Tay tao đang giữ cái blazer đây này, run thì nó bay mất lâu rồi.]]"
 
 Vũ quay đầu lại nhìn anh một giây. Rồi quay đi.
 
