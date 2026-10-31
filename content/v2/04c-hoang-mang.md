@@ -178,7 +178,7 @@ Cao gầy và râu cười.
 
 Anh chuyền cho cậu gầy. Cậu ném, bóng không chạm vành.
 
-"Ném như cứt," râu nói.
+"Ném thế cũng đòi ném, thằng em. Bóng nó có làm gì mày đâu mà mày ghét nó thế?" râu nói.
 
 Pha sau, cậu mập có bóng. Áo đen áp sát, không chọc, chỉ đưa tay quạt qua quạt lại trước mắt kính cậu. Cậu đập bóng một nhịp rồi ôm bóng vào bụng. Áo đen gạt quả bóng khỏi tay cậu như gạt cái cốc khỏi bàn.
 
@@ -202,7 +202,11 @@ Anh lao về phía rổ. Áo đen bỏ cậu mập, bước sang chặn. Lần �
 
 Anh nhún vai giả lao. Hắn không cắn, vì chậm quá để cắn. Anh bật lên ném, và đầu ngón tay hắn quệt vào bóng. Bóng đi ngắn, đập mép vành, rơi vào tay râu.
 
-"À." Áo đen cười. "Thằng ranh này biết chơi cơ à. Lên đây bố mày dạy cho."
+"À." Áo đen cười. "Thằng ranh chân dài biết chơi cơ đấy. Lên đây, bố mày dạy cho."
+
+"Dạ, anh dạy kỹ cho em nhé," anh nói. "Em học chậm lắm."
+
+Áo đen cười không nổi nữa. Hắn nghiến hàm, quay đi.
 
 Râu ném ngoài vạch. Hai – chín.
 
@@ -230,9 +234,9 @@ Anh không đi qua hắn. Anh lùi. Một bước dài về phía sau, chân ph�
 
 Năm – chín.
 
-"Vãi cặc," cậu gầy ở góc sân buột ra, rồi đưa tay bịt miệng.
+"Ôi vãi…" cậu gầy ở góc sân buột ra, rồi đưa tay bịt miệng.
 
-Áo đen đập lòng bàn tay xuống sàn. "Mày ngáng chân tao!"
+Áo đen đập lòng bàn tay xuống sàn. "Con tuất mày ngáng chân tao à?"
 
 Không ai trả lời. Hắn đứng dậy.
 
@@ -250,11 +254,13 @@ Sáu – chín.
 
 Bóng của bên kia. Áo đen gọi bóng, quay lưng tì vào anh, ủi. Một bước. Anh không lùi. Hắn ủi lần nữa, dồn cả chín mươi ký vào lưng. Gót chân anh vẫn ở chỗ cũ. Lần đầu tiên trong buổi sáng, cái lưng ấy dừng lại.
 
-Áo đen quay phắt lại. "Đẩy cái gì mà đẩy! Phạm lỗi!"
-
-Cả sân im. Cao gầy và râu nhìn sang chỗ khác. Hai cậu sinh viên nhìn xuống sàn.
+Áo đen quay phắt lại. "Đẩy cái đéo gì thế? Biết luật không thằng em, lỗi tấn công con cụ mày rồi."
 
 Anh giơ hai tay lên ngang vai, lòng bàn tay mở, và đứng nguyên chỗ cũ.
+
+"Dạ em xin lỗi," anh nói. "Em không biết luật rừng."
+
+Cả sân im. Cao gầy và râu nhìn sang chỗ khác. Hai cậu sinh viên nhìn xuống sàn. Cái đỏ chạy từ cổ áo đen lên tận tai. Hắn mở miệng, và không tìm được câu nào để đáp.
 
 Hắn nhận lại bóng, quay lưng, nhưng lần này không ủi nữa. Hắn xoay người móc bóng, vội. Bóng đập bảng, rơi ra. Anh bắt.
 
@@ -288,9 +294,9 @@ Cả tấm bảng rung. Cột rổ kêu lên một tiếng như bị đánh bằ
 
 Cả sân im. Tiếng vành còn rung.
 
-"Ôi… thật là vãi lồn."
+"Địt mẹ, có người vừa úp rổ??"
 
-Không biết ai nói. Có thể là cậu gầy. Có thể là râu.
+Không biết ai nói. Có thể là râu. Có thể là cao gầy.
 
 Áo đen nằm ngửa, hai tay ôm đầu, khuỷu tay khép lại che mặt.
 
