@@ -342,6 +342,30 @@ Anh ngồi ở bậc trên cùng. Thở. Hai đầu gối run. Lòng bàn tay ph
 
 Một chai nước lăn đến chân anh. Vũ đứng ở mép sân, áo ba lỗ ướt đẫm, băng đô buộc kiểu đô vật. Nó chạy vòng hồ, chắc thế. Không biết nó đứng đó từ lúc nào.
 
+Nó không nói gì. Hai tay ôm đầu, băng đô tụt xuống tận mắt, miệng mở. Rồi nó bật khỏi mặt đất, thật, cả cái bụng tròn nảy theo, và hú:
+
+"[[ht: Mi bật! Mi bật cái chi rứa! || Mày bật! Mày bật cái gì thế!]]"
+
+Anh chưa kịp đáp thì nó đã chạy vào sân. Một tay giương ra sau gáy như người cầm rìu, tay kia chém xuống, miệng nhại: "Phựt!" Rồi nó đóng vai cái vành. "Sắt!" Nó đập cả hai bàn tay vào cột rổ.
+
+"[[ht: Tau đứng ngoài hàng rào mà tau tưởng cấy xe máy nổ. Cột rổ nó rung tê! || Tao đứng ngoài hàng rào mà tao tưởng cái xe máy nổ. Cột rổ nó rung kìa!]]"
+
+"Hụt thôi," anh nói.
+
+"[[ht: Hụt! Mét tám ba! Tay mi chưa lần mô chạm được cấy vành nớ, mà mi dám đập tomahawk! || Hụt! Mét tám ba! Tay mày chưa lần nào chạm được cái vành đó, mà mày dám đập tomahawk!]]"
+
+Nó nhảy tại chỗ, hai lần, ba lần, như đứa trẻ vừa được thả khỏi lớp. Không có chỗ nào trên người nó đứng yên.
+
+"[[ht: Cách mặt hấn một gang tay! Mi thấy mặt hấn không? Hấn nằm ngửa che mặt như bị công an bắt! || Cách mặt nó một gang tay! Mày thấy mặt nó không? Nó nằm ngửa che mặt như bị công an bắt!]]"
+
+Anh thấy. Anh không nói.
+
+"[[ht: Địt cụ nó. Tau mà quay được thì tối nay cả nhóm chat phát điên. || Địt cụ nó. Tao mà quay được thì tối nay cả nhóm chat phát điên.]]"
+
+Nó đấm vào vai anh. Ba cái. Rồi lùi lại một bước, để nhìn anh cho đủ. Tiếng cười nhỏ dần, như có ai vặn volume.
+
+Anh không cười.
+
 "[[ht: Mặt mi lúc nãy nớ. || Mặt mày lúc nãy ấy.]]"
 
 "Tập thể dục," anh nói.
