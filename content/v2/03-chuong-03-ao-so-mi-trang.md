@@ -89,7 +89,7 @@ Rồi mẹ nói. Nói về trời mưa một trận hôm qua, đổ cả cái m�
 
 Anh đứng bên lề đường, dưới một cột đèn, đi qua đi lại một mét. "Dạ." "Vâng." "Dạ." "Dạ, thế ạ." Mỗi chữ anh nói ra là một cái gật đầu mà mẹ không thấy.
 
-"[[ht: Tuần ni có chi nỏ? || Tuần này có gì không?]]"
+"[[ht: Tuần ni có chi không? || Tuần này có gì không?]]"
 
 Anh nghĩ nửa giây. "Dạ thứ Bảy tuần sau con có đi nói chuyện ở một hội nghị công nghệ ạ. Mười phút thôi."
 

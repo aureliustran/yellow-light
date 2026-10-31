@@ -94,7 +94,7 @@ Bố đứng ở cửa phòng. Anh ngẩng lên, và cả người anh lạnh đ
 
 Bố cầm cuốn sách lên, lật vài trang, lật nhanh, như lật một tờ quảng cáo.
 
-"[[ht: Đọc cấy ni để mần chi? Thi có ra nỏ? Tiền mẹ cho để tập tiêu, chơ mẹ có cho mi tiêu vô ba cấy thứ vớ vẩn ni mô. || Đọc cái này để làm gì? Thi có ra không? Tiền mẹ cho để tập tiêu, chứ mẹ có cho mày tiêu vào mấy thứ vớ vẩn này đâu.]]"
+"[[ht: Đọc cấy ni để mần chi? Thi có ra không? Tiền mẹ cho để tập tiêu, chơ mẹ có cho mi tiêu vô ba cấy thứ vớ vẩn ni mô. || Đọc cái này để làm gì? Thi có ra không? Tiền mẹ cho để tập tiêu, chứ mẹ có cho mày tiêu vào mấy thứ vớ vẩn này đâu.]]"
 
 Anh đứng im. Anh có cả một câu ở trong miệng, về ngôi sao đã chết, về hàng nghìn năm. Anh để câu ấy ở yên trong miệng.
 
@@ -168,7 +168,7 @@ Giờ thể dục, cả lớp tập bài vươn thở. Anh đứng ở hàng cu�
 
 Anh sợ. Sợ cô biết, sợ cô vén áo lên xem, sợ cả lớp quay lại nhìn.
 
-"[[ht: Dạ, con ngã xe. || Dạ, con ngã xe.]]"
+"[[ht: Dạ, con bổ xe. || Dạ, con ngã xe.]]"
 
 Cô gật đầu, thổi còi, đi lên đầu hàng.
 

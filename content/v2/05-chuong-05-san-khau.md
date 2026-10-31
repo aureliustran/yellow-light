@@ -24,7 +24,7 @@ Cái sẹo nhỏ cắt ngang đuôi lông mày trái vẫn ở đó. Cái khuyê
 
 "[[ht: Tau tưởng mi mặc sơ mi trắng. Sinh viên lên phát biểu thì phải sơ mi trắng chơ. || Tao tưởng mày mặc sơ mi trắng. Sinh viên lên phát biểu thì phải sơ mi trắng chứ.]]"
 
-"Sơ mi trắng thì cả hội trường mặc rồi." Thuyên cầm cái blazer lên, phủi một sợi chỉ không tồn tại. "[[ht: Lên sân khấu thì nỏ ai nhớ cấy áo giống mọi người hết. || Lên sân khấu thì không ai nhớ cái áo giống mọi người cả.]]"
+"Sơ mi trắng thì cả hội trường mặc rồi." Thuyên cầm cái blazer lên, phủi một sợi chỉ không tồn tại. "[[ht: Lên sân khấu thì nỏ ai nhớ cấy áo giống mọi ngài hết. || Lên sân khấu thì không ai nhớ cái áo giống mọi người cả.]]"
 
 Ở góc phòng, cái áo sơ mi trắng vẫn vắt trên lưng ghế từ tối Chủ nhật tuần trước, bọc nilon đã gỡ, nếp gấp ngang ngực còn nguyên. Anh đã nhắn *Dạ*, đã nhắn *Con cảm ơn mẹ*. Anh không mặc nó. Anh không nhìn về phía cái ghế khi nói câu vừa rồi.
 
@@ -48,7 +48,7 @@ Im lặng ba giây.
 
 "Đm."
 
-"Đấy," Thuyên nói, rút một tờ giấy ăn đưa cho nó. "[[ht: Dừ thì mi mới là người cần cấy bàn là. || Giờ thì mày mới là người cần cái bàn là.]]"
+"Đấy," Thuyên nói, rút một tờ giấy ăn đưa cho nó. "[[ht: Dừ thì mi mới là ngài cần cấy bàn là. || Giờ thì mày mới là người cần cái bàn là.]]"
 
 "[[ht: Bàn là thì mần chi được sữa đậu nành. || Bàn là thì làm gì được sữa đậu nành.]]" Vũ lau, vệt sữa loang ra to gấp đôi. Nó nhìn xuống ngực mình, rồi nhìn sang Thuyên từ đầu đến chân, rồi thở dài như một ông bố có con trai hư. "[[ht: Thôi. Idol. Đi đê, tau chở. || Thôi. Idol. Đi thôi, tao chở.]]"
 

@@ -84,7 +84,7 @@ Mẹ đếm lại từ một.
 
 Mẹ đặt cây roi xuống bàn. Mẹ cầm cổ tay anh, dắt ra sân, qua cái sân gạch, ra đến cổng. Mẹ mở then, đẩy anh ra ngoài.
 
-"[[ht: Nín thì vô. || Nín thì vào.]]"
+"[[ht: Im thì vô. || Nín thì vào.]]"
 
 Cánh cổng khép lại. Tiếng then sắt cài, một tiếng.
 
@@ -166,7 +166,7 @@ Anh được giao rửa lá dong. Anh rửa theo một đường anh tự nghĩ 
 
 "[[ht: Mười một ạ. Con đếm hai lần, mười một. || Mười một ạ. Con đếm hai lần, mười một.]]"
 
-"[[ht: Người lớn nói thì nghe! || Người lớn nói thì nghe!]]"
+"[[ht: Ngài lớn nói thì nghe! || Người lớn nói thì nghe!]]"
 
 Cả phòng cười. Cô Hoa cười to nhất, rồi xoay sang nói với mẹ, giọng như khen:
 
