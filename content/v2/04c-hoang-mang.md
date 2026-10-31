@@ -204,9 +204,7 @@ Anh nhún vai giả lao. Hắn không cắn, vì chậm quá để cắn. Anh b�
 
 "À." Áo đen cười. "Thằng ranh chân dài biết chơi cơ đấy. Lên đây, bố mày dạy cho."
 
-"Dạ, anh dạy kỹ cho em nhé," anh nói. "Em học chậm lắm."
-
-Áo đen cười không nổi nữa. Hắn nghiến hàm, quay đi.
+Anh cười nhếch mép, không đáp.
 
 Râu ném ngoài vạch. Hai – chín.
 
@@ -260,7 +258,7 @@ Anh giơ hai tay lên ngang vai, lòng bàn tay mở, và đứng nguyên chỗ 
 
 "Dạ em xin lỗi," anh nói. "Em không biết luật rừng."
 
-Cái đỏ chạy từ cổ áo đen lên tận tai.
+Áo đen nghiến răng. Chữ *rừng* chọc đúng vào cái cổ chân hắn vừa bị bẻ lúc nãy, cái chỗ vẫn còn nhói mỗi lần hắn chuyển trọng tâm. Cái đỏ chạy từ cổ lên tận tai.
 
 "Rừng cái địt con cụ mày. Bốn chân mày dài phết đấy, muốn tao đốn gãy cả bốn không?"
 
