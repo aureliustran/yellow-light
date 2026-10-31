@@ -146,7 +146,7 @@ Lần thứ mười hai, xe đổ nghiêng vào bờ tường, tay lái cọ m�
 
 Bố ra. Bố cúi xuống nhìn vệt trầy, đưa ngón cái lên xoa, xoa đi xoa lại, như muốn xoa cho nó liền.
 
-"[[ht: Tám trăm nghìn đó. Mới mua chưa được một ngày. || Tám trăm nghìn đấy. Mới mua chưa được một ngày.]]"
+"[[ht: Tám trăm nghìn nớ. Mới mua chưa được một ngày. || Tám trăm nghìn đấy. Mới mua chưa được một ngày.]]"
 
 Bố dựng xe lên, đi vào.
 
@@ -206,7 +206,7 @@ Bốn mươi cây số đường đất đỏ. Nhà bà nội lợp ngói, sân 
 
 Bố giơ tay chỉ về phía chân trời đằng tây.
 
-"[[ht: Sao Hôm tề. Hồi bé bố đi chăn tru, chộ hấn lên là biết phải lùa tru về. Về muộn là ông nội đánh cho. || Sao Hôm kìa. Hồi bé bố đi chăn trâu, thấy nó lên là biết phải lùa trâu về. Về muộn là ông nội đánh cho.]]"
+"[[ht: Sao Hôm tề. Hồi nhỏ bố đi chăn tru, chộ hấn lên là biết phải lùa tru về. Về muộn là ông nội đánh cho. || Sao Hôm kìa. Hồi bé bố đi chăn trâu, thấy nó lên là biết phải lùa trâu về. Về muộn là ông nội đánh cho.]]"
 
 Rồi bố không nói gì nữa. Một lúc sau, tiếng ngáy.
 

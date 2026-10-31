@@ -342,7 +342,7 @@ Anh ngồi ở bậc trên cùng. Thở. Hai đầu gối run. Lòng bàn tay ph
 
 Một chai nước lăn đến chân anh. Vũ đứng ở mép sân, áo ba lỗ ướt đẫm, băng đô buộc kiểu đô vật. Nó chạy vòng hồ, chắc thế. Không biết nó đứng đó từ lúc nào.
 
-"[[ht: Mặt mi lúc nãy đó. || Mặt mày lúc nãy ấy.]]"
+"[[ht: Mặt mi lúc nãy nớ. || Mặt mày lúc nãy ấy.]]"
 
 "Tập thể dục," anh nói.
 

@@ -11,14 +11,18 @@ Nov 1, 2026 · @aureliustran. Nguồn: tác giả bổ sung 01/11 `[stated]`; c�
 | chộ | thấy | |
 | dừ thì | giờ thì | |
 | đê | thôi (trong "đi thôi") | cuối câu rủ: "Đi đê." |
-| tề | mà (chỉ trong biểu cảm, cuối câu) | "Đừng tề", "Không run thật tề". **Không** dùng cho "mà" nối trong cấu trúc câu ("làm gì mà ăn", "câu gì mà mặt…"): giữ "mà" (chốt 01/11) |
+| tề | (bỏ) | "mà" giữ nguyên, kể cả trong biểu cảm (chốt 01/11, đổi ý). "Sao Hôm tề" là chữ "kìa" có từ trước |
 | nỏ | không | |
 | cấy | cái | |
 | năng | sao, thế nào | thay "răng" (chốt 01/11); đã đổi trên trang |
 | hấn | nó, hắn | thay "hắn" và "nó" (chốt 01/11); đã đổi trên trang |
 | cân | con (con vật, hoặc chỉ một ai đó) | cân bò, cân tru, cân chó, cân gấy, cân trai, cân nớ bị ngu à? **Không** dùng khi "con" là đứa con (tự xưng với bố mẹ, hoặc bố mẹ gọi con): giữ "con" |
 | gấy | gái | chốt 01/11 |
-| nớ | nào | chốt 01/11 ("cân nớ") |
+| nớ | nào, đó | "cân nớ" (nào); "đó" thành "nớ" (chốt 01/11) |
+| bựa | hôm, bữa (nói về ngày) | "tối bựa qua" (tối qua), "bựa qua" (hôm qua); không đổi "Sao Hôm" |
+| nói | bảo | chốt 01/11 |
+| nhỏ | bé | chốt 01/11 |
+| ni | này | chốt 01/11 |
 | nhác | lười | chốt 01/11 |
 | tru | trâu | chốt 01/11 |
 
@@ -30,7 +34,6 @@ Nov 1, 2026 · @aureliustran. Nguồn: tác giả bổ sung 01/11 `[stated]`; c�
 | rứa | thế |
 | chi | gì |
 | mô | đâu, nào |
-| ni | này |
 | tê | kìa |
 | chơ | chứ | thay "chớ" (chốt 01/11) |
 | vô | vào |

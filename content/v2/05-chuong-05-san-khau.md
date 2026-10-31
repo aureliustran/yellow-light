@@ -20,7 +20,7 @@ Cái sẹo nhỏ cắt ngang đuôi lông mày trái vẫn ở đó. Cái khuyê
 
 "[[ht: Rứa bàn là tau mang sang mần chi? || Thế bàn là tao mang sang làm gì?]]"
 
-"[[ht: Ai bảo mi mang. Tau là áo từ tối qua rồi. Nhưng cảm ơn bác mi hộ tau. || Ai bảo mày mang. Tao là áo từ tối qua rồi. Nhưng cảm ơn bác mày hộ tao.]]"
+"[[ht: Ai nói mi mang. Tau là áo từ tối bựa qua rồi. Nhưng cảm ơn bác mi hộ tau. || Ai bảo mày mang. Tao là áo từ tối qua rồi. Nhưng cảm ơn bác mày hộ tao.]]"
 
 "[[ht: Tau tưởng mi mặc sơ mi trắng. Sinh viên lên phát biểu thì phải sơ mi trắng chơ. || Tao tưởng mày mặc sơ mi trắng. Sinh viên lên phát biểu thì phải sơ mi trắng chứ.]]"
 
@@ -70,7 +70,7 @@ Vũ chở anh bằng chiếc Wave đời cũ, đi đường Phạm Hùng. Gió t
 
 "[[ht: Mi nói dối như hạch. || Mày nói dối như hạch.]]"
 
-"[[ht: Nỏ run thật tề. Tay tau đang giữ cấy blazer ni, run thì hấn bay mất lâu rồi. || Không run thật mà. Tay tao đang giữ cái blazer đây này, run thì nó bay mất lâu rồi.]]"
+"[[ht: Nỏ run thật mà. Tay tau đang giữ cấy blazer ni, run thì hấn bay mất lâu rồi. || Không run thật mà. Tay tao đang giữ cái blazer đây này, run thì nó bay mất lâu rồi.]]"
 
 Vũ quay đầu lại nhìn anh một giây. Rồi quay đi.
 
@@ -254,7 +254,7 @@ Rồi anh nghe giọng mình, trước khi anh quyết định nói:
 
 Giọng anh hạ xuống nửa tông, nhưng không phải nửa tông anh đã tập.
 
-"Bố em trải chiếu ra bờ ruộng trước nhà, hai bố con nằm. Ếch kêu từ dưới ruộng lên từng đợt. Bố giơ tay chỉ về phía chân trời đằng tây và nói…" Anh để giọng quê chạy ra, vì không còn kịp giấu: "[[ht: Sao Hôm tề. Hồi bé bố đi chăn tru, chộ hấn lên là biết phải lùa tru về. || Sao Hôm kìa. Hồi bé bố đi chăn trâu, thấy nó lên là biết phải lùa trâu về.]]"
+"Bố em trải chiếu ra bờ ruộng trước nhà, hai bố con nằm. Ếch kêu từ dưới ruộng lên từng đợt. Bố giơ tay chỉ về phía chân trời đằng tây và nói…" Anh để giọng quê chạy ra, vì không còn kịp giấu: "[[ht: Sao Hôm tề. Hồi nhỏ bố đi chăn tru, chộ hấn lên là biết phải lùa tru về. || Sao Hôm kìa. Hồi bé bố đi chăn trâu, thấy nó lên là biết phải lùa trâu về.]]"
 
 Ở hàng sinh viên có tiếng cười khẽ, ấm. Không ai cười chế.
 
@@ -298,7 +298,7 @@ Vũ Béo: Nhưng mà đỉnh thật đm 😅
 :::
 
 :::chat
-Vũ Béo: [[ht: mà cân bé áo hồng hỏi câu chi mà mặt mi như ăn phải ớt rứa || mà con bé áo hồng hỏi câu gì mà mặt m như ăn phải ớt thế]]
+Vũ Béo: [[ht: mà cân nhỏ áo hồng hỏi câu chi mà mặt mi như ăn phải ớt rứa || mà con bé áo hồng hỏi câu gì mà mặt m như ăn phải ớt thế]]
 :::
 
 Anh nhìn dòng tin cuối cùng, rồi gõ:
@@ -317,7 +317,7 @@ Anh bật cười. Điện thoại rung thêm một lần.
 
 :::chat
 Vũ Béo: Cái đoạn sao hôm
-Vũ Béo: [[ht: T biết mi từ cấp 2 mà chưa nghe mi kể cấy đó || T biết m từ cấp 2 mà chưa nghe m kể cái đó]]
+Vũ Béo: [[ht: T biết mi từ cấp 2 mà chưa nghe mi kể cấy nớ || T biết m từ cấp 2 mà chưa nghe m kể cái đó]]
 :::
 
 Anh gõ lại:
