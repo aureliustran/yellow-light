@@ -2,7 +2,7 @@
 
 Oct 31, 2026 · @aureliustran.
 
-*Đêm thứ 16*
+*Thứ Sáu, 11/10/2024*
 
 :::note
 Ngày cuối cùng ở tòa nhà kính, em…
@@ -206,10 +206,10 @@ Anh biết tên của thứ vừa xảy ra. Ở đâu đó trong đầu, anh bi�
 
 ---
 
-Hai giờ sáng, đêm thứ mười sáu. Anh lưu file, gõ tên: *re-trai-hay-phai.*
+Hai giờ sáng. Anh lưu file, gõ tên: *re-trai-hay-phai.*
 
-Rồi kéo ba file mới, *ba-cot*, *tai-sao*, *re-trai-hay-phai*, vào thư mục *nhap*, cạnh mười ba file kia.
+Rồi kéo ba file của ba đêm, *ba-cot*, *tai-sao*, *re-trai-hay-phai*, vào thư mục *summit*, cạnh file bài nói.
 
-Mười sáu. Anh đếm lại một lần cho chắc.
+Ba. Anh đếm lại một lần cho chắc.
 
 Anh đặt cái thẻ chết vào ngăn trước ba lô, cạnh tấm thiệp, sợi dây xanh cuộn lại bên dưới. Kéo khóa ngăn trước kêu một tiếng khô.

@@ -2,7 +2,7 @@
 
 Oct 31, 2026 · @aureliustran.
 
-*Đêm thứ 14*
+*Thứ Tư, 9/10/2024*
 
 :::note
 Hackathon đầu tiên, em…
@@ -239,7 +239,7 @@ Anh vặn vòi nước. Vốc lên mặt. Đứng đó, lâu hơn mức cần th
 
 ---
 
-Hai giờ sáng, đêm thứ mười bốn, điện thoại sáng trên bàn.
+Hai giờ sáng, điện thoại sáng trên bàn.
 
 :::chat
 Vũ Béo: Ngủ chưa idol

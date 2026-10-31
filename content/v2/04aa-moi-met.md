@@ -2,7 +2,7 @@
 
 Oct 31, 2026 · @aureliustran.
 
-*Đêm thứ 15*
+*Thứ Năm, 10/10/2024*
 
 :::note
 Thầy hỏi tại sao là em. Em…
