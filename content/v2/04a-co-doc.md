@@ -36,7 +36,9 @@ Mười tám tiếng đầu, anh làm đúng như thế. Cạnh laptop anh, lon 
 
 ---
 
-Ba giờ sáng Chủ nhật, toàn bộ hệ thống sập.
+Ba giờ sáng Chủ nhật. Điều hòa hội trường để mười tám độ, thổi thẳng xuống dãy bàn số mười bảy. Anh trùm mũ áo khoác lên đầu, rút hai tay vào ống tay áo, chừa mười đầu ngón trên bàn phím. Đầu ngón lạnh, gõ chậm hơn ý nghĩ nửa nhịp.
+
+Toàn bộ hệ thống sập.
 
 Màn hình đỏ lòm. Không phải một dòng. Ba chục dòng lỗi nối đuôi nhau cuộn lên, rồi lại cuộn lên, như có ai đứng đâu đó bấm mãi một cái nút.
 
@@ -66,6 +68,14 @@ Cả ba quay sang nhìn anh.
 
 Khang mở file. Tìm. Thấy. Sửa. Mất bốn phút. Hệ thống chạy lại.
 
+Bốn phút.
+
+*Mày nhìn cái màn hình đỏ ấy hai mươi phút. Hắn sửa trong bốn. [[ht: Ngu rứa thì mai lớn lên mần chi mà ăn || Ngu thế thì mai lớn lên làm gì mà ăn]], nhớ không, cái câu ấy, cái giọng ấy, bốn lần một tuần.*
+
+Hàm anh nghiến lại đến mức nghe tiếng răng trong tai.
+
+"Đỉnh vãi ông." Anh vỗ vai Khang hai cái, đúng lực, đúng lúc.
+
 Im lặng một lúc. Rồi Phúc, lần đầu tiên trong mười tám tiếng, không nói câu nào dài. Phúc chỉ hỏi:
 
 "Thế giờ làm gì tiếp hả Thuyên?"
@@ -86,7 +96,11 @@ Anh không đọc cái nhìn ấy. Bốn giờ sáng, còn ba chỗ đang kẹt,
 
 Anh nói nhiều hơn bất kỳ đêm nào trong đời. Không phải vì muốn. Mà vì đến bốn giờ sáng, cả đội nhìn anh như nhìn cái đèn duy nhất trong phòng còn sáng.
 
-Gần năm giờ, Mai gục xuống tập giấy vẽ. Mười phút. Màn hình thứ ba của cô còn trống một nửa, và cái đồng hồ trên màn chiếu của ban tổ chức đang đếm ngược. Anh tranh thủ làm hộ màn hình ấy cho kịp tiến độ. Không khó. Căn cái nút cho thẳng mất của anh hai mươi phút, nhưng nó thẳng.
+Gần năm giờ, Mai gục xuống tập giấy vẽ. Mười phút. Màn hình thứ ba của cô còn trống một nửa, và cái đồng hồ trên màn chiếu của ban tổ chức đang đếm ngược.
+
+*Nó gục rồi. Cuộc thi ba mươi sáu tiếng mà nó gục, giữa chừng, như cái thằng ngã xe ngoài ngõ năm ấy, chỉ khác là thằng ấy tự đứng dậy, lần thứ năm, lần thứ chín, lần thứ mười hai, không kêu một tiếng, vì không ai đỡ, vì chưa bao giờ có ai đỡ. Không ai đỡ nó đâu. Mày làm.*
+
+Anh làm hộ màn hình ấy. Không khó. Căn cái nút cho thẳng mất của anh hai mươi phút, nhưng nó thẳng.
 
 Mai tỉnh dậy. Nhìn cái màn hình ấy rất lâu.
 
@@ -95,6 +109,8 @@ Rồi cô lặng lẽ bôi đen, xóa, và làm lại từ đầu trong hai mư�
 Cái nhìn rất lâu lúc chia việc, đến lúc ấy anh mới đọc ra.
 
 Anh không xin lỗi. Anh không biết câu xin lỗi cho chuyện này bắt đầu bằng chữ gì. Anh chỉ đẩy lon nước ngọt chưa mở của mình sang phía cô, và cô không uống.
+
+Đến hết cuộc thi, Mai không hỏi anh câu nào.
 
 ---
 

@@ -100,7 +100,7 @@ Anh không nói với ai. Anh cũng không nói với chính mình thành lời.
 
 ---
 
-Một giờ sáng, phòng lab chỉ còn hai người. Lan ngồi ở cuối bàn. Lẽ ra cô đã về từ mười một giờ.
+Một giờ sáng, phòng lab tầng bốn chỉ còn hai người. Gió bấc lùa qua cái cửa sổ đóng không khít, mang theo mùi mưa phùn. Áo khoác của anh vắt ở đâu đó từ chiều. Lan ngồi ở cuối bàn. Lẽ ra cô đã về từ mười một giờ.
 
 "Em chưa về à?"
 
@@ -110,7 +110,11 @@ Một giờ sáng, phòng lab chỉ còn hai người. Lan ngồi ở cuối bà
 
 "Anh ơi." Cô xoắn quai ba lô. "Em làm cho anh cái gì được không ạ? Em làm được thật. Chỉ là anh làm nhanh quá nên em… không biết chen vào chỗ nào."
 
-Anh nhìn cô. Một cô bé năm nhất, nói nhỏ, mắt tròn. Câu trả lời đã nằm sẵn trên lưỡi: *không sao đâu, để anh.*
+Anh nhìn cô. Một cô bé năm nhất, nói nhỏ, mắt tròn.
+
+*Nó thấy rồi. Nó thấy mày run tay, thấy mày uống cà phê như uống nước lã, thấy cái cốc mì nở từ tối qua, và nó thương mày, một con bé năm nhất nói không ra hơi mà thương mày, thế là thế nào, thế là mày yếu đến mức đứa yếu hơn mày cũng nhìn ra, như cái thằng đứng ngoài cổng đêm ấy, gió bấc lùa vào cổ áo, đèn đầu ngõ hỏng, nhà ông Tài hát hết bài này sang bài khác, nó đứng đấy cắn tay áo, đếm, một, hai, ba, bốn, rồi giơ tay lên gõ, ba cái, xin vào, mày nhớ tiếng then sắt không, tao nhớ, và bây giờ mày định gật đầu à, đưa cái bảng cho nó à, để nó thấy thêm à.*
+
+*Không gõ.*
 
 "Không cần đâu em. Anh quen rồi."
 
@@ -152,6 +156,8 @@ Anh có sẵn cả một kho: *vì em chịu trách nhiệm với đề tài. V�
 
 Không câu nào lên.
 
+Dưới cả cái kho ấy có một câu nữa, nằm im như cái đinh dưới lớp vôi. *Để không ai đánh được mình nữa.* Câu ấy không đem vào phòng này được.
+
 Phòng yên đến mức anh nghe được tiếng nước sôi lách tách trong cái ấm giữ nhiệt. Thầy không giục. Thầy rót trà vào hai cái chén, đẩy một chén sang phía anh, rồi nhìn ra cửa sổ, nơi sân trường đã tối đen.
 
 Hai phút. Anh đếm.
@@ -177,6 +183,10 @@ Anh tải lại. Lỗi. Tải lại. Lỗi. Cổng nộp hồ sơ chạy chậm 
 Lần thứ năm. Lần thứ sáu. Mười một giờ bốn mươi hai, tim anh đập nhanh đến mức trong tai anh nghe thấy tiếng nó, lẫn trong tiếng quạt. Tay anh run trên chuột. Thầy Bình nhắn một dòng: *Thầy vẫn thức.*
 
 Lần thứ chín: tiến trình chạy tới tám mươi phần trăm rồi đứng.
+
+Mắt anh khép lại một lần, lâu hơn một cái chớp.
+
+*Mệt là của thằng gõ cổng.*
 
 Lần thứ mười: lỗi.
 
@@ -235,6 +245,8 @@ Ngoài cửa sổ, sân trường bắt đầu có người.
 Cùng tháng đó, anh qua vòng phỏng vấn thực tập ở một công ty công nghệ đa quốc gia. Sáu tháng.
 
 Anh đọc mail mời nhận việc một lần. Rồi thấy nhẹ, như vừa được kê thêm một cái bàn ở bên kia phòng, có việc đang chờ trên đó.
+
+Học kỳ hai, Lan gửi bảng kết quả cho Đức. Đức chuyển cho anh. Trên báo cáo cấp quốc gia, tên Lan nằm ở dòng thứ ba, dưới tên Đức. Cả năm, cô không ngồi lại lab sau mười một giờ lần nào nữa.
 
 ---
 

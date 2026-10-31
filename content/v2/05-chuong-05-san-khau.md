@@ -172,6 +172,8 @@ Nó bắt đầu từ hàng sinh viên, lan lên giữa, rồi đến hàng VIP.
 
 Thuyên cúi đầu chào. Đèn sân khấu vẫn trắng và nóng. Anh để tràng vỗ tay kéo dài thêm hai giây, đúng như đã tính, trước khi ngẩng lên.
 
+*Mấy trăm người vỗ tay cho thằng gõ cổng.*
+
 Khi ngẩng lên, anh nhìn thẳng về hàng thứ hai.
 
 Cô gái áo hồng ngồi yên. Hai tay đặt trên đùi. Không vỗ.

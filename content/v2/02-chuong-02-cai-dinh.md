@@ -34,6 +34,12 @@ Vũ đi thẳng đến chỗ một bạn nữ ngồi ở bậc thang, đặt m�
 
 "[[ht: Tại tau có mi. || Tại tao có mày.]]" Vũ đáp mà không nhìn anh. "Chơi đi. Hết đêm tao mới trả công bằng bánh mì."
 
+Họ chơi. Đến pha thứ ba, bóng lăn qua chân đứa nhỏ con nhất đám. Nó đứng giữa sân, hai tay buông thõng, chân không nhấc lên được. Cả đám cười.
+
+Hàm anh siết lại. Một nhịp.
+
+Anh nhặt bóng, đặt vào tay nó, chỉ xuống chân nó. "Chân trái lên trước. Đừng nhìn bóng, nhìn anh." Nó làm theo, lần thứ hai thì được. Anh vỗ tay to nhất sân.
+
 ---
 
 Chín giờ bốn mươi, anh đi bộ về. Vũ không chở, vì nó còn ở lại "dọn sân", tức là ngồi ăn nốt chỗ bánh tráng trộn bọn năm nhất mang đến. Anh đi qua ba con ngõ, qua hàng chè, qua tiệm sửa xe đã hạ nửa cánh cửa cuốn.
