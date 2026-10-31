@@ -49,5 +49,6 @@ Nov 1, 2026 · @aureliustran. Nguồn: tác giả bổ sung 01/11 `[stated]`; c�
 - **Bố, mẹ không đổi sang bọ, mạ** (chốt 01/11). Toàn bộ "bọ", "mạ" đã có trên trang được đưa về "bố", "mẹ" (01/11).
 - Thuyên và Vũ nói với nhau bằng giọng Hà Tĩnh (ch.2, ch.5); Thuyên với người Hà Nội dùng giọng Hà Nội (bộ dịch).
 - Chữ tục và viết tắt (đm, vcl, cc) giữ nguyên, không đổi.
+- "Rứa" chỉ thay "thế" (không thay "à"): giữ nguyên "à" (chốt 01/11).
 - Câu giống hệt giữa hai giọng thì để nguyên, không bọc `[[ht]]`.
 - Tin nhắn chat giữ lối viết tắt: "mi" thay "m", "tau" viết tắt "t".
