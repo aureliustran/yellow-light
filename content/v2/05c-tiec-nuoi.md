@@ -164,7 +164,7 @@ Sáng, nước bể tháng hai lạnh buốt đến tận chân răng. Anh vốc
 
 Giờ thể dục, cả lớp tập bài vươn thở. Anh đứng ở hàng cuối, lưng không thẳng lên được. Cô đi dọc hàng, dừng lại.
 
-"[[ht: Lưng răng rứa? || Lưng sao thế?]]"
+"[[ht: Lưng năng rứa? || Lưng sao thế?]]"
 
 Anh sợ. Sợ cô biết, sợ cô vén áo lên xem, sợ cả lớp quay lại nhìn.
 

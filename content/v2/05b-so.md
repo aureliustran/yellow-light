@@ -206,7 +206,7 @@ Bốn mươi cây số đường đất đỏ. Nhà bà nội lợp ngói, sân 
 
 Bố giơ tay chỉ về phía chân trời đằng tây.
 
-"[[ht: Sao Hôm tề. Hồi bé bọ đi chăn trâu, thấy hắn lên là biết phải lùa trâu về. Về muộn là ông nội đánh cho. || Sao Hôm kìa. Hồi bé bố đi chăn trâu, thấy nó lên là biết phải lùa trâu về. Về muộn là ông nội đánh cho.]]"
+"[[ht: Sao Hôm tề. Hồi bé bọ đi chăn trâu, thấy hấn lên là biết phải lùa trâu về. Về muộn là ông nội đánh cho. || Sao Hôm kìa. Hồi bé bố đi chăn trâu, thấy nó lên là biết phải lùa trâu về. Về muộn là ông nội đánh cho.]]"
 
 Rồi bố không nói gì nữa. Một lúc sau, tiếng ngáy.
 

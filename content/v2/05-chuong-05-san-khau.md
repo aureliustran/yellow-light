@@ -38,7 +38,7 @@ Vũ đi vòng quanh anh một vòng như đi xem xe cũ. Dừng lại ở ngực
 
 "Ngựa đang phi thì lệch là đúng."
 
-"[[ht: Mi nói chi cũng có lý vcl. || Mày nói gì cũng có lý vcl.]]" Vũ chỉ vào tai anh. "[[ht: Rứa cái khuyên tai thì răng? Không tháo ra à? Thầy Bình nhìn thấy lại lên cơn. || Thế cái khuyên tai thì sao? Không tháo ra à? Thầy Bình nhìn thấy lại lên cơn.]]"
+"[[ht: Mi nói chi cũng có lý vcl. || Mày nói gì cũng có lý vcl.]]" Vũ chỉ vào tai anh. "[[ht: Rứa cái khuyên tai thì năng? Không tháo ra à? Thầy Bình nhìn thấy lại lên cơn. || Thế cái khuyên tai thì sao? Không tháo ra à? Thầy Bình nhìn thấy lại lên cơn.]]"
 
 "Thầy nhìn hai năm rồi. Lên cơn mãi cũng phải quen, giờ thầy chỉ thở dài thôi."
 
@@ -254,7 +254,7 @@ Rồi anh nghe giọng mình, trước khi anh quyết định nói:
 
 Giọng anh hạ xuống nửa tông, nhưng không phải nửa tông anh đã tập.
 
-"Bố em trải chiếu ra bờ ruộng trước nhà, hai bố con nằm. Ếch kêu từ dưới ruộng lên từng đợt. Bố giơ tay chỉ về phía chân trời đằng tây và nói…" Anh để giọng quê chạy ra, vì không còn kịp giấu: "[[ht: Sao Hôm tề. Hồi bé bọ đi chăn trâu, thấy hắn lên là biết phải lùa trâu về. || Sao Hôm kìa. Hồi bé bố đi chăn trâu, thấy nó lên là biết phải lùa trâu về.]]"
+"Bố em trải chiếu ra bờ ruộng trước nhà, hai bố con nằm. Ếch kêu từ dưới ruộng lên từng đợt. Bố giơ tay chỉ về phía chân trời đằng tây và nói…" Anh để giọng quê chạy ra, vì không còn kịp giấu: "[[ht: Sao Hôm tề. Hồi bé bọ đi chăn trâu, thấy hấn lên là biết phải lùa trâu về. || Sao Hôm kìa. Hồi bé bố đi chăn trâu, thấy nó lên là biết phải lùa trâu về.]]"
 
 Ở hàng sinh viên có tiếng cười khẽ, ấm. Không ai cười chế.
 

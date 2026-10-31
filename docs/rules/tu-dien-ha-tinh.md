@@ -14,14 +14,17 @@ Nov 1, 2026 · @aureliustran. Nguồn: tác giả bổ sung 01/11 `[stated]`; c�
 | tề | mà | |
 | nỏ | không | |
 | cấy | cái | |
-| năng | tác giả ghi "Răng = Năng" | `[cần xác nhận nghĩa]`: chưa đổi "răng" sang "năng" ở chỗ nào |
+| năng | sao, thế nào | thay "răng" (chốt 01/11); đã đổi trên trang |
+| hấn | nó | thay "hắn" (chốt 01/11); đã đổi trên trang |
+| cân | con | chốt 01/11; chưa áp lên trang |
+| nhác | lười | chốt 01/11 |
+| tru | trâu | chốt 01/11 |
 
 ## 2. Từ đã dùng trên trang
 
 | Hà Tĩnh | Phổ thông |
 | --- | --- |
 | tau / mi | tao / mày |
-| răng | sao, thế nào |
 | rứa | thế |
 | chi | gì |
 | mô | đâu, nào |
@@ -29,8 +32,7 @@ Nov 1, 2026 · @aureliustran. Nguồn: tác giả bổ sung 01/11 `[stated]`; c�
 | tê | kìa |
 | chớ | chứ |
 | vô | vào |
-| hắn | nó |
-| mạ / bọ | mẹ / bố |
+| mạ / bọ | mẹ / bố (giữ nguyên, chốt 01/11) |
 
 ## 3. Luật dùng
 
