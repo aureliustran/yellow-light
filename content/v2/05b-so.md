@@ -50,15 +50,15 @@ Một tối cuối tháng mười một, gió mùa về sớm. Mạ ngồi ở b
 
 Chữ "bà". Cái móc của chữ a chọc lên tận dòng trên.
 
-"[[ht: Chữ bà mà mi viết như con giun bò. || Chữ bà mà mày viết như con giun bò.]]"
+"[[ht: Chữ bà tề mi viết như con giun bò. || Chữ bà mà mày viết như con giun bò.]]"
 
 Anh nghĩ đến mấy con giun ở gốc chuối sau nhà, đỏ hồng, quằn lên khi bị lật đất. Mặt anh nóng.
 
-"[[ht: Cô dạy nét móc thì mi móc lên tận trời. Học cả tháng rồi mà cầm cây bút cũng nỏ nên. || Cô dạy nét móc thì mày móc lên tận trời. Học cả tháng rồi mà cầm cây bút cũng không nên.]]"
+"[[ht: Cô dạy nét móc thì mi móc lên tận trời. Học cả tháng rồi tề cầm cây bút cũng nỏ nên. || Cô dạy nét móc thì mày móc lên tận trời. Học cả tháng rồi mà cầm cây bút cũng không nên.]]"
 
 Bàn tay phải anh co lại trong vạt áo, như muốn giấu nó đi. Cái tay ấy không nghe lời anh. Anh bảo nó đi thẳng, nó đi cong.
 
-"[[ht: Ngu rứa thì mai lớn lên mần chi mà ăn? || Ngu thế thì mai lớn lên làm gì mà ăn?]]"
+"[[ht: Ngu rứa thì mai lớn lên mần chi tề ăn? || Ngu thế thì mai lớn lên làm gì mà ăn?]]"
 
 Anh sợ. Không phải sợ cái roi, cái roi còn treo trên đinh. Anh sợ cái "mai lớn lên". Anh thấy một người đàn ông cầm bút không nên, đứng giữa chợ huyện, không ai thuê, không ai cho ăn, và người đàn ông ấy là anh. Cái sợ ấy to hơn cả căn nhà.
 
@@ -80,7 +80,7 @@ Mạ đếm lại từ một.
 
 Đến ba thì anh không giữ được nữa. Tiếng khóc bật ra to, cả người anh run theo nó, và anh nghe thấy chính mình nói, giọng vỡ ra từng mảnh:
 
-"[[ht: Con sợ. Mạ ơi con sợ. Mạ ôm con. || Con sợ. Mẹ ơi con sợ. Mẹ ôm con.]]"
+"[[ht: Cân sợ. Mạ ơi cân sợ. Mạ ôm cân. || Con sợ. Mẹ ơi con sợ. Mẹ ôm con.]]"
 
 Mạ đặt cây roi xuống bàn. Mạ cầm cổ tay anh, dắt ra sân, qua cái sân gạch, ra đến cổng. Mạ mở then, đẩy anh ra ngoài.
 
@@ -164,7 +164,7 @@ Anh được giao rửa lá dong. Anh rửa theo một đường anh tự nghĩ 
 
 Đêm luộc bánh, anh ngồi đếm bánh trong nồi. Sáng ra, bánh vớt lên xếp trên chiếu ở nhà ngoài, cả họ ngồi quanh. Bác Hùng hỏi nhà gói được bao nhiêu cái. Bố bảo mười hai.
 
-"[[ht: Mười một ạ. Con đếm hai lần, mười một. || Mười một ạ. Con đếm hai lần, mười một.]]"
+"[[ht: Mười một ạ. Cân đếm hai lần, mười một. || Mười một ạ. Con đếm hai lần, mười một.]]"
 
 "[[ht: Người lớn nói thì nghe! || Người lớn nói thì nghe!]]"
 
@@ -190,7 +190,7 @@ Cuối năm lớp một, anh được giấy khen học sinh tiên tiến. Mạ 
 
 Tết, chị họ được giấy khen học sinh giỏi. Mạ đặt tờ của chị vào hàng ngoài cùng. Tờ của anh lùi vào trong, chỉ còn thấy chữ *tiên* và nửa cái hoa văn vàng.
 
-"[[ht: Mạ ơi, khi mô thì tờ của con được ra ngoài lại? || Mẹ ơi, bao giờ thì tờ của con được ra ngoài lại?]]"
+"[[ht: Mạ ơi, khi mô thì tờ của cân được ra ngoài lại? || Mẹ ơi, bao giờ thì tờ của con được ra ngoài lại?]]"
 
 "[[ht: Có tờ mới thì ra. || Có tờ mới thì ra.]]"
 
@@ -206,7 +206,7 @@ Bốn mươi cây số đường đất đỏ. Nhà bà nội lợp ngói, sân 
 
 Bố giơ tay chỉ về phía chân trời đằng tây.
 
-"[[ht: Sao Hôm tề. Hồi bé bọ đi chăn trâu, thấy hấn lên là biết phải lùa trâu về. Về muộn là ông nội đánh cho. || Sao Hôm kìa. Hồi bé bố đi chăn trâu, thấy nó lên là biết phải lùa trâu về. Về muộn là ông nội đánh cho.]]"
+"[[ht: Sao Hôm tề. Hồi bé bọ đi chăn tru, chộ hấn lên là biết phải lùa tru về. Về muộn là ông nội đánh cho. || Sao Hôm kìa. Hồi bé bố đi chăn trâu, thấy nó lên là biết phải lùa trâu về. Về muộn là ông nội đánh cho.]]"
 
 Rồi bố không nói gì nữa. Một lúc sau, tiếng ngáy.
 

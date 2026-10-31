@@ -30,7 +30,7 @@ Cả đám cười ồ. Thuyên cười theo, một nhịp, rồi nhặt quả b
 
 Vũ đi thẳng đến chỗ một bạn nữ ngồi ở bậc thang, đặt một cốc trà sữa xuống cạnh chân bạn ấy. Không nói gì. Bạn ấy ngẩng lên: "Anh Vũ lại mua ạ?" Vũ đã quay lưng, tay giơ lên ngang vai, vẫy vẫy như đuổi ruồi. Cốc còn lại nó cầm cho mình, hút một hơi to, và mặt nó nhăn lại vì ngọt.
 
-"Ê," anh hạ giọng khi Vũ đi ngang. "[[ht: Răng cái áo ni mi mặc vô mô cũng được khen rứa? || Sao cái áo này mày mặc vào đâu cũng được khen vậy?]]"
+"Ê," anh hạ giọng khi Vũ đi ngang. "[[ht: Răng cấy áo ni mi mặc vô mô cũng được khen rứa? || Sao cái áo này mày mặc vào đâu cũng được khen vậy?]]"
 
 "[[ht: Tại tau có mi. || Tại tao có mày.]]" Vũ đáp mà không nhìn anh. "Chơi đi. Hết đêm tao mới trả công bằng bánh mì."
 

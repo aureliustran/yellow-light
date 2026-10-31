@@ -70,7 +70,7 @@ Khang mở file. Tìm. Thấy. Sửa. Mất bốn phút. Hệ thống chạy l�
 
 Bốn phút.
 
-*Mày nhìn cái màn hình đỏ ấy hai mươi phút. Hắn sửa trong bốn. [[ht: Ngu rứa thì mai lớn lên mần chi mà ăn || Ngu thế thì mai lớn lên làm gì mà ăn]], nhớ không, cái câu ấy, cái giọng ấy, bốn lần một tuần.*
+*Mày nhìn cái màn hình đỏ ấy hai mươi phút. Hắn sửa trong bốn. [[ht: Ngu rứa thì mai lớn lên mần chi tề ăn || Ngu thế thì mai lớn lên làm gì mà ăn]], nhớ không, cái câu ấy, cái giọng ấy, bốn lần một tuần.*
 
 Hàm anh nghiến lại đến mức nghe tiếng răng trong tai.
 
@@ -136,13 +136,13 @@ Vũ Béo: Ra cổng
 
 Vũ đứng dựa xe máy của bác nó, ngay dưới bóng cây ngoài cổng, hai tay xách hai thứ. Anh không nhớ đã nhắn nó. Hóa ra có, hôm thứ Năm, một dòng: *thứ Bảy hackathon, ba mươi sáu tiếng.* Nó tính giờ ăn sáng.
 
-"[[ht: Tau không biết mi đang thắng hay thua. Nên tau mua hai loại. || Tao không biết mày đang thắng hay thua. Nên tao mua hai loại.]]" Nó giơ hai ổ bánh mì lên. "Ổ ni đầy đủ. Ổ ni chỉ có dưa chuột."
+"[[ht: Tau nỏ biết mi đang thắng hay thua. Nên tau mua hai loại. || Tao không biết mày đang thắng hay thua. Nên tao mua hai loại.]]" Nó giơ hai ổ bánh mì lên. "Ổ ni đầy đủ. Ổ ni chỉ có dưa chuột."
 
 "Chưa biết."
 
 Vũ nghĩ ba giây. "Thì ăn cả hai." Nó dúi vào tay anh, rồi dúi thêm một cốc. "Cold brew. Không đường. Tao hỏi quán, nó bảo cái này nhìn như nước cống. Tao bảo thằng bạn tao thích."
 
-Nó không hỏi gì. Nó nhìn mặt anh một lúc rồi bảo: "[[ht: Ăn đi. Mặt mi như cái bánh bao nguội. || Ăn đi. Mặt mày như cái bánh bao nguội.]]"
+Nó không hỏi gì. Nó nhìn mặt anh một lúc rồi bảo: "[[ht: Ăn đi. Mặt mi như cấy bánh bao nguội. || Ăn đi. Mặt mày như cái bánh bao nguội.]]"
 
 Hai đứa ngồi ngay mép vỉa hè. Anh ăn. Vũ kể con mèo của bác nó lại ăn trộm mất cái chân giò, kể bằng giọng của người đang tường thuật một vụ trọng án. Anh cười, một tiếng thật, to hơn dự kiến. Cười xong thấy cổ họng mình lạ.
 

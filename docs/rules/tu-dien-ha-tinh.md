@@ -16,7 +16,7 @@ Nov 1, 2026 · @aureliustran. Nguồn: tác giả bổ sung 01/11 `[stated]`; c�
 | cấy | cái | |
 | năng | sao, thế nào | thay "răng" (chốt 01/11); đã đổi trên trang |
 | hấn | nó | thay "hắn" (chốt 01/11); đã đổi trên trang |
-| cân | con | chốt 01/11; chưa áp lên trang |
+| cân | con (chỉ khi là người: tự xưng, hoặc gọi con) | chốt 01/11; đã áp lên trang, trừ "con bé", "con ngựa", "con giun" |
 | nhác | lười | chốt 01/11 |
 | tru | trâu | chốt 01/11 |
 

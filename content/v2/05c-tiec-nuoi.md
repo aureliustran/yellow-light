@@ -52,7 +52,7 @@ Anh muốn kể cho ai đó. Chuyện ngôi sao đã chết mà vẫn còn sáng
 
 Chiều thứ năm của cuốn sách, mạ ngồi nhặt rau cải ở hiên. Anh ngồi xuống cạnh rổ rau.
 
-"[[ht: Mạ ơi, có những ngôi sao chết rồi mà mình vẫn còn nhìn thấy. || Mẹ ơi, có những ngôi sao chết rồi mà mình vẫn còn nhìn thấy.]]"
+"[[ht: Mạ ơi, có những ngôi sao chết rồi tề mình vẫn còn nhìn chộ. || Mẹ ơi, có những ngôi sao chết rồi mà mình vẫn còn nhìn thấy.]]"
 
 Mạ ngắt một cọng cải, bỏ vào rổ.
 
@@ -84,7 +84,7 @@ Cuốn sách nằm mở trên bàn, đúng trang tinh vân con cua.
 
 Bố đứng ở cửa phòng. Anh ngẩng lên, và cả người anh lạnh đi trước khi anh kịp nghĩ gì.
 
-"[[ht: Mi mua cái ni à? || Mày mua cái này à?]]"
+"[[ht: Mi mua cấy ni à? || Mày mua cái này à?]]"
 
 "Dạ."
 
@@ -94,7 +94,7 @@ Bố đứng ở cửa phòng. Anh ngẩng lên, và cả người anh lạnh đ
 
 Bố cầm cuốn sách lên, lật vài trang, lật nhanh, như lật một tờ quảng cáo.
 
-"[[ht: Đọc cái ni để mần chi? Thi có ra không? Tiền mạ cho để tập tiêu, chớ mạ có cho mi tiêu vô ba cái thứ vớ vẩn ni mô. || Đọc cái này để làm gì? Thi có ra không? Tiền mẹ cho để tập tiêu, chứ mẹ có cho mày tiêu vào mấy thứ vớ vẩn này đâu.]]"
+"[[ht: Đọc cấy ni để mần chi? Thi có ra nỏ? Tiền mạ cho để tập tiêu, chớ mạ có cho mi tiêu vô ba cấy thứ vớ vẩn ni mô. || Đọc cái này để làm gì? Thi có ra không? Tiền mẹ cho để tập tiêu, chứ mẹ có cho mày tiêu vào mấy thứ vớ vẩn này đâu.]]"
 
 Anh đứng im. Anh có cả một câu ở trong miệng, về ngôi sao đã chết, về hàng nghìn năm. Anh để câu ấy ở yên trong miệng.
 
@@ -168,7 +168,7 @@ Giờ thể dục, cả lớp tập bài vươn thở. Anh đứng ở hàng cu�
 
 Anh sợ. Sợ cô biết, sợ cô vén áo lên xem, sợ cả lớp quay lại nhìn.
 
-"[[ht: Dạ, con ngã xe. || Dạ, con ngã xe.]]"
+"[[ht: Dạ, cân ngã xe. || Dạ, con ngã xe.]]"
 
 Cô gật đầu, thổi còi, đi lên đầu hàng.
 
