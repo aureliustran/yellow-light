@@ -172,7 +172,7 @@ Anh chơi như vẫn chơi: đọc, chuyền.
 
 Hắn quay lưng ủi cậu mập vào sát rổ, một bước, hai bước, cho đến khi gót chân cậu chạm vạch cuối sân. Hắn móc bóng ngay trên đầu cậu, vào, rồi quay lại vỗ hai cái vào bụng cậu.
 
-"Béo thế này mà cũng đòi chơi bóng. Ra chợ mà đứng, em ạ."
+"Thằng em khác đéo gì một cục thịt ba chỉ muốn chơi bóng không?" Hắn cười. "Tầm này ra chợ là thấy mấy cục thịt tương tự cũng đang treo yên như thằng em."
 
 Cao gầy và râu cười.
 
@@ -182,13 +182,13 @@ Anh chuyền cho cậu gầy. Cậu ném, bóng không chạm vành.
 
 Pha sau, cậu mập có bóng. Áo đen áp sát, không chọc, chỉ đưa tay quạt qua quạt lại trước mắt kính cậu. Cậu đập bóng một nhịp rồi ôm bóng vào bụng. Áo đen gạt quả bóng khỏi tay cậu như gạt cái cốc khỏi bàn.
 
-"Cầm bóng như cầm bát cơm. Óc chó à?"
+"Nhìn thằng em cầm bóng như một quả bóng cầm một quả bóng khác."
 
 Bảy – hai.
 
 Lượt sau, cậu mập đứng giữa khu vực dưới rổ, hai tay buông thõng, để hắn đi qua.
 
-"Đứng như trồng cây thế." Áo đen quay sang cao gầy. "Cho thằng này ra, gọi đứa khác vào. Bố mày chơi sân này mười năm, chưa thấy đứa nào ăn hại như này."
+"Béo quá đéo chạy được à?" Áo đen chỉ tay ra ngoài vạch. "Cút con mẹ mày đi thằng em. Bố mày chơi sân này mười năm, chưa thấy thằng nào ăn hại như này."
 
 Cậu mập đứng im. Không đi ra. Không kèm. Đứng.
 
