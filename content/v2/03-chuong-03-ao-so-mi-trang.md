@@ -75,7 +75,7 @@ Chữ *Mạ* hiện lên trên màn hình. Anh nhìn nó qua hai hồi chuông, 
 
 "Dạ, mạ."
 
-"[[ht: Ăn cơm chưa cân rứa? || Ăn cơm chưa con thế?]]"
+"[[ht: Ăn cơm chưa con rứa? || Ăn cơm chưa con thế?]]"
 
 "Dạ con ăn rồi ạ."
 

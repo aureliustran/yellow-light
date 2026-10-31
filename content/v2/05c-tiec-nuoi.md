@@ -168,7 +168,7 @@ Giờ thể dục, cả lớp tập bài vươn thở. Anh đứng ở hàng cu�
 
 Anh sợ. Sợ cô biết, sợ cô vén áo lên xem, sợ cả lớp quay lại nhìn.
 
-"[[ht: Dạ, cân ngã xe. || Dạ, con ngã xe.]]"
+"[[ht: Dạ, con ngã xe. || Dạ, con ngã xe.]]"
 
 Cô gật đầu, thổi còi, đi lên đầu hàng.
 

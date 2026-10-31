@@ -6,7 +6,7 @@ Oct 31, 2026 · @aureliustran.
 
 Sáu rưỡi sáng, Vũ đập cửa phòng trọ như công an khu vực.
 
-"[[ht: Dậy chưa? Tau mang bàn là sang rồi đây. Bàn là của bác gái tau, mần cháy là mi đền. || Dậy chưa? Tao mang bàn là sang rồi đây. Bàn là của bác gái tao, làm cháy là mày đền.]]"
+"[[ht: Dậy chưa? Tau mang bàn là sang rồi đây. Bàn là của bác gấy tau, mần cháy là mi đền. || Dậy chưa? Tao mang bàn là sang rồi đây. Bàn là của bác gái tao, làm cháy là mày đền.]]"
 
 Thuyên mở cửa. Vũ khựng lại, tay vẫn giơ cái bàn là lên như giơ cúp.
 
@@ -34,7 +34,7 @@ Vũ đi vòng quanh anh một vòng như đi xem xe cũ. Dừng lại ở ngực
 
 "Quảng Châu. Đứng xa ba mét là xịn."
 
-"[[ht: Con ngựa nó thêu lệch tê. || Con ngựa nó thêu lệch kìa.]]"
+"[[ht: Cân ngựa nó thêu lệch tê. || Con ngựa nó thêu lệch kìa.]]"
 
 "Ngựa đang phi thì lệch là đúng."
 
@@ -298,7 +298,7 @@ Vũ Béo: Nhưng mà đỉnh thật đm 😅
 :::
 
 :::chat
-Vũ Béo: [[ht: tề con bé áo hồng hỏi câu chi tề mặt mi như ăn phải ớt rứa || mà con bé áo hồng hỏi câu gì mà mặt m như ăn phải ớt thế]]
+Vũ Béo: [[ht: tề cân bé áo hồng hỏi câu chi tề mặt mi như ăn phải ớt rứa || mà con bé áo hồng hỏi câu gì mà mặt m như ăn phải ớt thế]]
 :::
 
 Anh nhìn dòng tin cuối cùng, rồi gõ:
