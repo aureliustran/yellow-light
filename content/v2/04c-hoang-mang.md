@@ -352,7 +352,7 @@ Anh chưa kịp đáp thì nó đã chạy vào sân. Một tay giương ra sau 
 
 "Hụt thôi," anh nói.
 
-"[[ht: Hụt! Mét tám ba! Tay mi chưa lần mô chạm được cấy vành nớ, mà mi dám đập tomahawk! || Hụt! Mét tám ba! Tay mày chưa lần nào chạm được cái vành đó, mà mày dám đập tomahawk!]]"
+"[[ht: Tay mi chưa lần mô chạm được cấy vành nớ, mà mi dám làm một quả tomahawk dunk?? Mi điên con cụ mi rồi, mi nghĩ mi là ai, LeBron à? Tau đéo muốn gọi mi là LeThuyên || Tay mày chưa lần nào chạm được cái vành đó, mà mày dám làm một quả tomahawk dunk?? Mày điên con cụ mày rồi, mày nghĩ mày là ai, LeBron à? Tao đéo muốn gọi mày là LeThuyên]]"
 
 Nó nhảy tại chỗ, hai lần, ba lần, như đứa trẻ vừa được thả khỏi lớp. Không có chỗ nào trên người nó đứng yên.
 
