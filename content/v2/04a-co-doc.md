@@ -70,7 +70,7 @@ Khang mở file. Tìm. Thấy. Sửa. Mất bốn phút. Hệ thống chạy l�
 
 Bốn phút.
 
-*Mày nhìn cái màn hình đỏ ấy hai mươi phút. Hắn sửa trong bốn. [[ht: Ngu rứa thì mai lớn lên mần chi tề ăn || Ngu thế thì mai lớn lên làm gì mà ăn]], nhớ không, cái câu ấy, cái giọng ấy, bốn lần một tuần.*
+*Mày nhìn cái màn hình đỏ ấy hai mươi phút. Hắn sửa trong bốn. [[ht: Ngu rứa thì mai lớn lên mần chi mà ăn || Ngu thế thì mai lớn lên làm gì mà ăn]], nhớ không, cái câu ấy, cái giọng ấy, bốn lần một tuần.*
 
 Hàm anh nghiến lại đến mức nghe tiếng răng trong tai.
 

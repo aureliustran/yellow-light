@@ -298,7 +298,7 @@ Vũ Béo: Nhưng mà đỉnh thật đm 😅
 :::
 
 :::chat
-Vũ Béo: [[ht: tề cân bé áo hồng hỏi câu chi tề mặt mi như ăn phải ớt rứa || mà con bé áo hồng hỏi câu gì mà mặt m như ăn phải ớt thế]]
+Vũ Béo: [[ht: mà cân bé áo hồng hỏi câu chi mà mặt mi như ăn phải ớt rứa || mà con bé áo hồng hỏi câu gì mà mặt m như ăn phải ớt thế]]
 :::
 
 Anh nhìn dòng tin cuối cùng, rồi gõ:
@@ -317,7 +317,7 @@ Anh bật cười. Điện thoại rung thêm một lần.
 
 :::chat
 Vũ Béo: Cái đoạn sao hôm
-Vũ Béo: [[ht: T biết mi từ cấp 2 tề chưa nghe mi kể cấy đó || T biết m từ cấp 2 mà chưa nghe m kể cái đó]]
+Vũ Béo: [[ht: T biết mi từ cấp 2 mà chưa nghe mi kể cấy đó || T biết m từ cấp 2 mà chưa nghe m kể cái đó]]
 :::
 
 Anh gõ lại:

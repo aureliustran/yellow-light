@@ -52,7 +52,7 @@ Anh muốn kể cho ai đó. Chuyện ngôi sao đã chết mà vẫn còn sáng
 
 Chiều thứ năm của cuốn sách, mẹ ngồi nhặt rau cải ở hiên. Anh ngồi xuống cạnh rổ rau.
 
-"[[ht: Mẹ ơi, có những ngôi sao chết rồi tề mình vẫn còn nhìn chộ. || Mẹ ơi, có những ngôi sao chết rồi mà mình vẫn còn nhìn thấy.]]"
+"[[ht: Mẹ ơi, có những ngôi sao chết rồi mà mình vẫn còn nhìn chộ. || Mẹ ơi, có những ngôi sao chết rồi mà mình vẫn còn nhìn thấy.]]"
 
 Mẹ ngắt một cọng cải, bỏ vào rổ.
 

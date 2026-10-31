@@ -50,15 +50,15 @@ Một tối cuối tháng mười một, gió mùa về sớm. Mẹ ngồi ở b
 
 Chữ "bà". Cái móc của chữ a chọc lên tận dòng trên.
 
-"[[ht: Chữ bà tề mi viết như cân giun bò. || Chữ bà mà mày viết như con giun bò.]]"
+"[[ht: Chữ bà mà mi viết như cân giun bò. || Chữ bà mà mày viết như con giun bò.]]"
 
 Anh nghĩ đến mấy con giun ở gốc chuối sau nhà, đỏ hồng, quằn lên khi bị lật đất. Mặt anh nóng.
 
-"[[ht: Cô dạy nét móc thì mi móc lên tận trời. Học cả tháng rồi tề cầm cây bút cũng nỏ nên. || Cô dạy nét móc thì mày móc lên tận trời. Học cả tháng rồi mà cầm cây bút cũng không nên.]]"
+"[[ht: Cô dạy nét móc thì mi móc lên tận trời. Học cả tháng rồi mà cầm cây bút cũng nỏ nên. || Cô dạy nét móc thì mày móc lên tận trời. Học cả tháng rồi mà cầm cây bút cũng không nên.]]"
 
 Bàn tay phải anh co lại trong vạt áo, như muốn giấu nó đi. Cái tay ấy không nghe lời anh. Anh bảo nó đi thẳng, nó đi cong.
 
-"[[ht: Ngu rứa thì mai lớn lên mần chi tề ăn? || Ngu thế thì mai lớn lên làm gì mà ăn?]]"
+"[[ht: Ngu rứa thì mai lớn lên mần chi mà ăn? || Ngu thế thì mai lớn lên làm gì mà ăn?]]"
 
 Anh sợ. Không phải sợ cái roi, cái roi còn treo trên đinh. Anh sợ cái "mai lớn lên". Anh thấy một người đàn ông cầm bút không nên, đứng giữa chợ huyện, không ai thuê, không ai cho ăn, và người đàn ông ấy là anh. Cái sợ ấy to hơn cả căn nhà.
 

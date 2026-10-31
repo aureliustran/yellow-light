@@ -11,7 +11,7 @@ Nov 1, 2026 · @aureliustran. Nguồn: tác giả bổ sung 01/11 `[stated]`; c�
 | chộ | thấy | |
 | dừ thì | giờ thì | |
 | đê | thôi (trong "đi thôi") | cuối câu rủ: "Đi đê." |
-| tề | mà | |
+| tề | mà (chỉ trong biểu cảm, cuối câu) | "Đừng tề", "Không run thật tề". **Không** dùng cho "mà" nối trong cấu trúc câu ("làm gì mà ăn", "câu gì mà mặt…"): giữ "mà" (chốt 01/11) |
 | nỏ | không | |
 | cấy | cái | |
 | năng | sao, thế nào | thay "răng" (chốt 01/11); đã đổi trên trang |
