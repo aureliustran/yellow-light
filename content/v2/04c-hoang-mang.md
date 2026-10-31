@@ -360,7 +360,7 @@ Nó nhảy tại chỗ, hai lần, ba lần, như đứa trẻ vừa được th
 
 Anh thấy. Anh không nói.
 
-"[[ht: Địt cụ nó. Tau mà quay được thì tối nay cả nhóm chat phát điên. || Địt cụ nó. Tao mà quay được thì tối nay cả nhóm chat phát điên.]]"
+"[[ht: Địt con mẹ. Tau mà quay được mi làm tomahawk dunk thì rồi gửi vô nhóm chat thì bọn nớ bị điên con mẹ hấn luôn. || Địt con mẹ. Tao mà quay được mày làm tomahawk dunk thì rồi gửi vào nhóm chat thì bọn đó bị điên con mẹ nó luôn.]]"
 
 Nó đấm vào vai anh. Ba cái. Rồi lùi lại một bước, để nhìn anh cho đủ. Tiếng cười nhỏ dần, như có ai vặn volume.
 
