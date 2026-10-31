@@ -344,7 +344,7 @@ Một chai nước lăn đến chân anh. Vũ đứng ở mép sân, áo ba lỗ
 
 Nó không nói gì. Hai tay ôm đầu, băng đô tụt xuống tận mắt, miệng mở. Rồi nó bật khỏi mặt đất, thật, cả cái bụng tròn nảy theo, và hú:
 
-"[[ht: Mi bật! Mi bật cái chi rứa! || Mày bật! Mày bật cái gì thế!]]"
+"[[ht: Vãi cả lồn? Mi vừa làm cái thứ điên rồ chi rứa?? || Vãi cả lồn? Mày vừa làm cái thứ điên rồ gì thế??]]"
 
 Anh chưa kịp đáp thì nó đã chạy vào sân. Một tay giương ra sau gáy như người cầm rìu, tay kia chém xuống, miệng nhại: "Phựt!" Rồi nó đóng vai cái vành. "Sắt!" Nó đập cả hai bàn tay vào cột rổ.
 
@@ -356,7 +356,7 @@ Anh chưa kịp đáp thì nó đã chạy vào sân. Một tay giương ra sau 
 
 Nó nhảy tại chỗ, hai lần, ba lần, như đứa trẻ vừa được thả khỏi lớp. Không có chỗ nào trên người nó đứng yên.
 
-"[[ht: Cách mặt hấn một gang tay! Mi thấy mặt hấn không? Hấn nằm ngửa che mặt như bị công an bắt! || Cách mặt nó một gang tay! Mày thấy mặt nó không? Nó nằm ngửa che mặt như bị công an bắt!]]"
+"[[ht: Hấn còn một gang tay trước khi hửi chim mi? Cấy lúc hấn bổ xoài xuống, mặt hấn nhìn ngáo con mẹ hấn luôn? Xong rồi hấn che mặt? Mi vừa biến một con titan thành một nữ sinh Nhật Bản ngại ngùng, vãi cả cứt thật. || Nó còn một gang tay trước khi ngửi chim mày? Cái lúc nó ngã xoài xuống, mặt nó nhìn ngáo con mẹ nó luôn? Xong rồi nó che mặt? Mày vừa biến một con titan thành một nữ sinh Nhật Bản ngại ngùng, vãi cả cứt thật.]]"
 
 Anh thấy. Anh không nói.
 
