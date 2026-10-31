@@ -32,10 +32,10 @@ Nov 1, 2026 · @aureliustran. Nguồn: tác giả bổ sung 01/11 `[stated]`; c�
 | tê | kìa |
 | chớ | chứ |
 | vô | vào |
-| mạ / bọ | mẹ / bố (giữ nguyên, chốt 01/11) |
 
 ## 3. Luật dùng
 
+- **Bố, mẹ không đổi sang bọ, mạ** khi viết `[[ht]]` mới (chốt 01/11). Hai chữ này chỉ còn ở chỗ đã có sẵn trên trang.
 - Thuyên và Vũ nói với nhau bằng giọng Hà Tĩnh (ch.2, ch.5); Thuyên với người Hà Nội dùng giọng Hà Nội (bộ dịch).
 - Chữ tục và viết tắt (đm, vcl, cc) giữ nguyên, không đổi.
 - Câu giống hệt giữa hai giọng thì để nguyên, không bọc `[[ht]]`.
