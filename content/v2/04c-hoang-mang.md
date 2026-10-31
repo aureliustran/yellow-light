@@ -260,9 +260,19 @@ Anh giơ hai tay lên ngang vai, lòng bàn tay mở, và đứng nguyên chỗ 
 
 "Dạ em xin lỗi," anh nói. "Em không biết luật rừng."
 
-Cả sân im. Cao gầy và râu nhìn sang chỗ khác. Hai cậu sinh viên nhìn xuống sàn. Cái đỏ chạy từ cổ áo đen lên tận tai. Hắn mở miệng, và không tìm được câu nào để đáp.
+Cái đỏ chạy từ cổ áo đen lên tận tai.
 
-Hắn nhận lại bóng, quay lưng, nhưng lần này không ủi nữa. Hắn xoay người móc bóng, vội. Bóng đập bảng, rơi ra. Anh bắt.
+"Rừng cái địt con cụ mày. Bốn chân mày dài phết đấy, muốn tao đốn gãy cả bốn không?"
+
+Hắn còn đang há miệng chửi thì anh đã bước sang ngang, lách qua vai hắn, không chạm. Lúc hắn quay đầu theo thì anh đã đứng giữa hắn và rổ.
+
+"À, đốn như hồi nãy em bẻ cổ chân anh thì được," anh nói, giọng nhẹ. "Nhưng đốn nghĩa đen thì tốn kha khá tiền và thời gian đó anh."
+
+Tiền bồi thường. Tù. Anh nói như đang tính học phí.
+
+Cả sân im. Cao gầy và râu nhìn sang chỗ khác. Hai cậu sinh viên nhìn xuống sàn. Áo đen mở miệng, và không tìm được câu nào để đáp.
+
+Hắn quay lưng, nhưng lần này không ủi nữa. Hắn xoay người móc bóng, vội. Bóng đập bảng, rơi ra. Anh bắt.
 
 "Thằng này ở đâu ra thế," râu nói, nhỏ, như nói với chính mình.
 
