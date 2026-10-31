@@ -6,7 +6,7 @@ Oct 31, 2026 · @aureliustran.
 
 Sáu rưỡi sáng, Vũ đập cửa phòng trọ như công an khu vực.
 
-"[[ht: Dậy chưa? Tau mang bàn là sang rồi đây. Bàn là của bác gấy tau, mần cháy là mi đền. || Dậy chưa? Tao mang bàn là sang rồi đây. Bàn là của bác gái tao, làm cháy là mày đền.]]"
+"[[ht: Dậy chưa? Tau cầm bàn là sang rồi nạ. Bàn là của bác gấy tau, mần cháy là mi đền. || Dậy chưa? Tao mang bàn là sang rồi đây. Bàn là của bác gái tao, làm cháy là mày đền.]]"
 
 Thuyên mở cửa. Vũ khựng lại, tay vẫn giơ cái bàn là lên như giơ cúp.
 
@@ -18,9 +18,9 @@ Cái sẹo nhỏ cắt ngang đuôi lông mày trái vẫn ở đó. Cái khuyê
 
 "Đi phát biểu."
 
-"[[ht: Rứa bàn là tau mang sang mần chi? || Thế bàn là tao mang sang làm gì?]]"
+"[[ht: Rứa bàn là tau cầm sang mần chi? || Thế bàn là tao mang sang làm gì?]]"
 
-"[[ht: Ai nói mi mang. Tau là áo từ tối bựa qua rồi. Nhưng cảm ơn bác mi hộ tau. || Ai bảo mày mang. Tao là áo từ tối qua rồi. Nhưng cảm ơn bác mày hộ tao.]]"
+"[[ht: Ai nói mi cầm. Tau là áo từ tối bựa qua rồi. Nhưng cảm ơn bác mi hộ tau. || Ai bảo mày mang. Tao là áo từ tối qua rồi. Nhưng cảm ơn bác mày hộ tao.]]"
 
 "[[ht: Tau tưởng mi mặc sơ mi trắng. Sinh viên lên phát biểu thì phải sơ mi trắng chơ. || Tao tưởng mày mặc sơ mi trắng. Sinh viên lên phát biểu thì phải sơ mi trắng chứ.]]"
 
@@ -70,7 +70,7 @@ Vũ chở anh bằng chiếc Wave đời cũ, đi đường Phạm Hùng. Gió t
 
 "[[ht: Mi nói dối như hạch. || Mày nói dối như hạch.]]"
 
-"[[ht: Nỏ run thật mà. Tay tau đang giữ cấy blazer ni, run thì hấn bay mất lâu rồi. || Không run thật mà. Tay tao đang giữ cái blazer đây này, run thì nó bay mất lâu rồi.]]"
+"[[ht: Nỏ run thật mà. Tay tau đang cầm cấy blazer ni, run thì hấn bay mất lâu rồi. || Không run thật mà. Tay tao đang giữ cái blazer đây này, run thì nó bay mất lâu rồi.]]"
 
 Vũ quay đầu lại nhìn anh một giây. Rồi quay đi.
 

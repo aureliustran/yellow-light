@@ -21,6 +21,8 @@ Nov 1, 2026 · @aureliustran. Nguồn: tác giả bổ sung 01/11 `[stated]`; c�
 | nớ | nào, đó | "cân nớ" (nào); "đó" thành "nớ" (chốt 01/11) |
 | bựa | hôm, bữa (nói về ngày) | "tối bựa qua" (tối qua), "bựa qua" (hôm qua); không đổi "Sao Hôm" |
 | nói | bảo | chốt 01/11 |
+| nạ | đây (biểu cảm, cuối câu) | "rồi đây" thành "rồi nạ" (chốt 01/11) |
+| cầm | mang, giữ | chốt 01/11 |
 | nhỏ | bé | chốt 01/11 |
 | ni | này | chốt 01/11 |
 | nhác | lười | chốt 01/11 |
