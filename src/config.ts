@@ -90,4 +90,15 @@ export const interludeColors: { name: string; hex: string }[] = [
   { name: 'Nâu cà phê', hex: '#7B5539' },
   { name: 'Mực tím', hex: '#6A4FB3' },
   { name: 'Váy cổ thuyền', hex: '#26232B' },
+  // Thuyên's interludes are named after a feeling, not a colour: plain black dots.
+  ...['Cô độc', 'Mỏi mệt', 'Hoang mang', 'Sợ', 'Tiếc nuối'].map((name) => ({ name, hex: '#141318' })),
 ];
+
+export const DEFAULT_INTERLUDE_COLOR = '#D9C8B0';
+
+// Dot colour of an interlude: the one saved on the chapter, unless it was never
+// picked (empty or the default beige) and the title has a colour in the list above.
+export function interludeDotColor(title: string, saved: string | null): string {
+  if (saved && saved.toLowerCase() !== DEFAULT_INTERLUDE_COLOR.toLowerCase()) return saved;
+  return interludeColors.find((c) => c.name.toLowerCase() === title.toLowerCase())?.hex ?? saved ?? DEFAULT_INTERLUDE_COLOR;
+}

@@ -1,6 +1,7 @@
 ---
 // Table of contents for one edition: a dashed lane of chapters, the newest lit.
 import { chapterLabel, isSpecialChapter, type NumberedChapter } from '../lib/chapters-shared';
+import { interludeDotColor } from '../config';
 
 interface Props {
   chapters: NumberedChapter[];
@@ -17,7 +18,7 @@ const latest = chapters.at(-1);
         <span class:list={['node', { interlude: c.kind === 'interlude', latest: writing && c === latest, special: isSpecialChapter(c) }]} aria-hidden="true">
           {isSpecialChapter(c)
             ? <span class="domino"></span>
-            : <span style={c.kind === 'interlude' && !(writing && c === latest) ? `background:${c.color ?? '#D9C8B0'}` : undefined}></span>}
+            : <span style={c.kind === 'interlude' && !(writing && c === latest) ? `background:${interludeDotColor(c.title, c.color)}` : undefined}></span>}
         </span>
         <span class="toc-text">
           <span class:list={['eyebrow', { amber: isSpecialChapter(c) }]}>{chapterLabel(c)}</span>
