@@ -2,7 +2,7 @@
 
 Oct 19, 2026 · @aureliustran.
 
-*Chủ nhật, 25/7/2027*
+*Chủ nhật, 27/7/2025*
 
 :::note
 Từ nhỏ em đã…
@@ -107,6 +107,14 @@ Anh gõ: *Em tên là Thuyên.* Xóa.
 *Từ nhỏ em đã…* Ngón tay dừng lại ở dấu ba chấm. Từ nhỏ em đã làm sao. Đã muốn gì. Đã sai ở câu nào.
 
 Liệu từ đầu đã… Hay là từ hôm… Hay là từ trước nữa, từ cái bể nước, từ cái tủ kính, từ một tờ nháp có mấy đường gạch chéo…
+
+Ngón tay anh gõ tiếp một thứ khác. Anh không bảo nó gõ.
+
+*Mi nói đi.*
+
+*Bốn bài.*
+
+Anh nhìn hai dòng ấy, rồi xóa từng dòng, từ dưới lên, như gỡ một thứ không phải của mình ra khỏi màn hình.
 
 Không.
 

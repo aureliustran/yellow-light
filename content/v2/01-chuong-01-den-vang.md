@@ -2,7 +2,7 @@
 
 Oct 4, 2026 · @aureliustran.
 
-_Thứ Bảy, 3/10/2026_
+_Thứ Bảy, 5/10/2024_
 
 Sáu giờ năm mươi. Sân bóng rổ khu tập thể vẫn còn ướt sương, mấy chiếc lá bàng dính bẹp trên vạch ba điểm.
 
@@ -28,7 +28,7 @@ Bác gật gù như hiểu lắm, rồi chuyển sang chuyện rau muống dạo
 
 ---
 
-Tháng mười, Hà Nội vào mùa hoa sữa. Đầu ngõ có hai cây, mùi nồng như ai lỡ tay đổ nguyên lọ nước hoa rẻ tiền ra đường. Năm nào cũng có người viết status khen mùi này lãng mạn. Thuyên chưa bao giờ hiểu nổi. Chiếc Wave đời cũ là của Vũ, bạn thân từ năm nhất, người Hà Nội gốc, nhà ở chính cái khu tập thể có sân bóng này, chửi bậy như hát và ngủ nướng như làm nghĩa vụ. Hai tuần nay, từ hôm hết hạn thực tập, sáng nào ném xong anh cũng lấy chìa khóa treo ở chòi bảo vệ, chạy ra đầu phố mua hai ổ bánh mì: một cho mình, một trả công cho chủ xe đang ngủ nướng. Anh đội mũ, cài quai, phóng qua thật nhanh.
+Tháng mười, Hà Nội vào mùa hoa sữa. Đầu ngõ có hai cây, mùi nồng như ai lỡ tay đổ nguyên lọ nước hoa rẻ tiền ra đường. Năm nào cũng có người viết status khen mùi này lãng mạn. Thuyên chưa bao giờ hiểu nổi. Chiếc Wave đời cũ là của Vũ, bạn từ hồi cấp hai ở quê, nhà chuyển lên thành phố từ năm cấp ba, giờ ở nhờ nhà bác ngay trong cái khu tập thể có sân bóng này, chửi bậy như hát và ngủ nướng như làm nghĩa vụ. Hai tuần nay, từ hôm hết hạn thực tập, sáng nào ném xong anh cũng lấy chìa khóa treo ở chòi bảo vệ, chạy ra đầu phố mua hai ổ bánh mì: một cho mình, một trả công cho chủ xe đang ngủ nướng. Anh đội mũ, cài quai, phóng qua thật nhanh.
 
 Ba lô nhẹ hơn mọi khi. Không có laptop công ty. Ngăn trước vẫn còn sợi dây đeo thẻ màu xanh. Thẻ thì trả rồi, dây thì quên. Hai tuần nay sáng nào anh cũng sờ thấy nó lúc lấy ví, và sáng nào cũng tự nhủ để mai vứt.
 
@@ -37,9 +37,9 @@ Nếu có ai hỏi, anh có sẵn một phiên bản ba mươi giây về mình,
 Điện thoại rung. Anh đợi đến đèn đỏ mới rút ra xem.
 
 :::chat CLB Tin học – Ban điều hành
-Ngọc Anh (K71): Anh Thuyên ơii
-Ngọc Anh (K71): Slide workshop tuần sau anh duyệt giúp em với ạ, em sửa theo góp ý của anh rồi á
-Ngọc Anh (K71): Nhưng phần demo em vẫn sợ sợ 🥲
+Ngọc Anh (K68): Anh Thuyên ơii
+Ngọc Anh (K68): Slide workshop tuần sau anh duyệt giúp em với ạ, em sửa theo góp ý của anh rồi á
+Ngọc Anh (K68): Nhưng phần demo em vẫn sợ sợ 🥲
 Đức (PCN): À Thuyên ơi
 Đức (PCN): Thầy Bình bảo cuối tuần sau ông lên phát biểu ở cái summit gì gì của bên tài trợ nhé, thầy forward mail cho ông rồi đấy :))
 :::
@@ -54,7 +54,7 @@ Vũ Béo: M mà k ra t bảo m bận đi Mỹ 🤡
 Thuyên trả lời Ngọc Anh:
 
 :::chat
-^ Ngọc Anh (K71): Nhưng phần demo em vẫn sợ sợ 🥲
+^ Ngọc Anh (K68): Nhưng phần demo em vẫn sợ sợ 🥲
 
 > ok trưa a xem, demo cứ chạy thử trước 1 lần với máy chiếu phòng 302 nhé, máy đấy hay lag lắm
 > :::
@@ -212,7 +212,7 @@ Anh nhìn xuống chỗ cô vừa dựng xe. Trên nền gạch có một tấm 
 
 Anh nhặt lên.
 
-_Thư mời. Vietnam Future Tech Summit 2026. Khách mời VIP._
+_Thư mời. Vietnam Future Tech Summit 2024. Khách mời VIP._
 
 Dưới cùng là một dòng chữ nhỏ: _Nhà tài trợ kim cương._ Kèm logo một tập đoàn mà ở Hà Nội không ai không biết tên.
 
