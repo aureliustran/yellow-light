@@ -284,17 +284,43 @@ Bóng ở đỉnh vòng. Áo đen lùi về đứng dưới rổ, hai chân dang
 
 Anh không chuyền.
 
-Anh lao. Một bước. Bước thứ hai dài như bước qua một con mương.
+Cao gầy lên kèm, hai tay dang rộng, mắt dán vào bụng anh.
+
+Anh dậm chân phải một nhịp sang phải, vai đổ theo. Cao gầy cắn, dồn hết trọng tâm sang theo. Lúc ấy bóng đã đổi tay, đi qua trước mặt hắn sát sàn, thấp hơn đầu gối, và anh đi theo nó sang trái. Cao gầy còn đang quay người thì anh đã ở sau lưng hắn.
+
+Râu bước ra lấp đường, chân dang ngang vạch ném phạt.
+
+Anh ôm bóng ở bước thứ nhất. Chân phải xuống, hông lắc sang phải, cả người nghiêng theo như sắp đổ vào râu. Râu nhích sang chặn chỗ ấy. Hông anh bẻ ngược. Chân trái bước chéo sang trái, dài, và vai anh lướt qua tay râu trong một khe hở chừng một gang. Râu chụp vào chỗ anh vừa ở.
+
+Còn lại áo đen.
+
+Hắn đứng dưới rổ, chín mươi ký, hai tay giơ lên như hai cái cột chống trần.
+
+Anh không giảm tốc. Từ bước luồn, cả người anh đổ về phía trước, nặng như một chiếc xe máy mất phanh xuống dốc. Chân trái rướn ra, đóng xuống sàn, gót trước rồi cả bàn, gối gập lại như lò xo bị nén hết cỡ. Chân phải theo sau nửa nhịp, đặt xuống cạnh chân trái. Giày rít một tiếng.
+
+Hai chân.
 
 Bật.
 
-Quả bóng trong tay phải anh vòng ra sau gáy, cánh tay gập lại như người giương rìu. Ở đỉnh cú bật, anh bổ xuống.
+Cái đà của cả một đường lao dồn xuống hai bàn chân rồi bật ngược lên, qua đầu gối, qua hông, qua lưng. Anh lên. Lên quá cái tầm anh vẫn với mỗi sáng ở sân khu tập thể, quá luôn cái chỗ anh vẫn nghĩ là trần của mình.
+
+Ở dưới, áo đen nhìn lên.
+
+Hai cánh tay vừa giơ cao để chặn khựng lại giữa chừng. Rồi chúng không chặn nữa. Chúng gập về, khép trước mặt hắn, như người đứng dưới một cái cây đang đổ. Hai bàn chân dính xuống sàn. Hắn muốn lùi mà chân không đi.
+
+"Né—" râu hét ở sau lưng anh. Chữ thứ hai không ra.
+
+Cao gầy đứng sững ở vạch ném phạt, miệng mở, một tay còn giơ ra phía trước như định với lại cái gì đó.
+
+Ở đỉnh, mặt áo đen ở ngang bụng anh. Tay trái anh đặt lên vai hắn. Không cần ấn, chỉ đặt, như đặt tay lên cái cột mốc để biết mình đang ở đâu. Cái vai dưới bàn tay run lên.
+
+Quả bóng trong tay phải vòng ra sau gáy, cánh tay gập lại như người giương rìu. Anh bổ xuống.
 
 Một mét tám ba. Giơ tay với tới hai mét bốn. Vành rổ ba mét lẻ năm. Tay anh chưa từng chạm được nó.
 
 Lần này quả bóng bổ trúng mép trước của vành.
 
-Sắt.
+*Bùm.*
 
 Cả tấm bảng rung. Cột rổ kêu lên một tiếng như bị đánh bằng búa. Quả bóng bật ngược, vọt qua đầu ba người, qua hàng rào, rơi xuống mặt đường bên ngoài, nảy hai cái, lăn vào gầm một chiếc xe máy.
 
@@ -360,7 +386,7 @@ Nó không nói gì. Hai tay ôm đầu, băng đô tụt xuống tận mắt, m
 
 "[[ht: Vãi cả lồn? Mi vừa làm cái thứ điên rồ chi rứa?? || Vãi cả lồn? Mày vừa làm cái thứ điên rồ gì thế??]]"
 
-Anh chưa kịp đáp thì nó đã chạy vào sân. Một tay giương ra sau gáy như người cầm rìu, tay kia chém xuống, miệng nhại: "Phựt!" Rồi nó đóng vai cái vành. "Sắt!" Nó đập cả hai bàn tay vào cột rổ.
+Anh chưa kịp đáp thì nó đã chạy vào sân. Một tay giương ra sau gáy như người cầm rìu, tay kia chém xuống, miệng nhại: "Phựt!" Rồi nó đóng vai cái vành. "Bùm!" Nó đập cả hai bàn tay vào cột rổ.
 
 "[[ht: Tau đứng ngoài hàng rào mà tau tưởng cấy xe máy nổ. Cột rổ nó rung tê! || Tao đứng ngoài hàng rào mà tao tưởng cái xe máy nổ. Cột rổ nó rung kìa!]]"
 
