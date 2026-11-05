@@ -12,3 +12,6 @@ crosspost/node_modules/
 crosspost/.profile/
 crosspost/work/
 crosspost/logs/
+
+# Obsidian vault settings, if a vault is ever opened inside the repo
+.obsidian/
