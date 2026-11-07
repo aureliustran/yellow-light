@@ -4,7 +4,7 @@
 // Words used here:
 //   source     the chapter as stored in Supabase (what the Vercel site shows)
 //   converted  the site's version of the body, written by Claude following
-//              crosspost/sites/<site>/convert.md, without title or footer
+//              content/posts/<domain>/convert.md, without title or footer
 //   final      what is actually sent: the story date, the converted body, and
 //              the footer with links back to the Vercel site
 

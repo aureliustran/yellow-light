@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
     inputs:
       edition:
-        description: 'Edition to import into: v1 (Legacy, content/import) or v2 (content/v2). Empty = the current one in src/config.ts'
+        description: 'Edition to import into: v1 (Legacy, content/posts/legacy) or v2 (content/posts/vercel). Empty = the current one in src/config.ts'
         type: choice
         options: ['', 'v1', 'v2']
         default: ''

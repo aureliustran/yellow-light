@@ -4,7 +4,7 @@
 
 When asked to convert chapters for another site ("chuyển chương 1–5 cho rookies",
 "convert chapter 12 for rookies", "làm bản đăng chéo"), follow
-`crosspost/sites/<site>/convert.md` exactly. That file is the only source of the
+`content/posts/<domain>/convert.md` exactly (rookies → `rookies.vn`, truyennhaong → `truyennhaong.vn`). That file is the only source of the
 conversion rules; do not rely on memory of it, read it every time.
 
 Workflow (run from the repo root; needs `.env` with the Supabase service key):
@@ -13,7 +13,7 @@ Workflow (run from the repo root; needs `.env` with the Supabase service key):
    It writes `crosspost/work/<site>/<file>.source.md` for each chapter that needs a
    new conversion, and prints the output path for each.
 2. For each source file: read the whole file, then write the converted body to
-   `crosspost/out/<site>/<same name>.txt`. One chapter at a time; never from a summary.
+   `content/posts/<domain>/<same name>.txt`. One chapter at a time; never from a summary.
 3. `npm run crosspost -- check <site>`. Fix every reported problem in the `.txt`
    (never by editing the source), and re-run until every chapter shows ✓.
 4. `npm run crosspost -- check <site> --save` to store them in Supabase.

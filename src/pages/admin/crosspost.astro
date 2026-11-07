@@ -139,7 +139,7 @@ export const prerender = true;
         <summary><h2>Cách có bản chuyển</h2></summary>
         <ol>
           <li>Trong chat với Claude (đã kết nối thư mục dự án): <em>"chuyển chương 1–5 cho <span data-site-slug>rookies</span>"</em>.</li>
-          <li>Claude chạy <code>npm run crosspost -- pull <span data-site-slug>rookies</span> --range 1-5</code>, viết bản chuyển vào <code>crosspost/out/<span data-site-slug>rookies</span>/</code>, rồi <code>npm run crosspost -- check <span data-site-slug>rookies</span> --save</code>. Bản nào làm sai chữ của truyện sẽ bị máy kiểm tra từ chối.</li>
+          <li>Claude chạy <code>npm run crosspost -- pull <span data-site-slug>rookies</span> --range 1-5</code>, viết bản chuyển vào thư mục của trang đó trong <code>content/posts/</code>, rồi <code>npm run crosspost -- check <span data-site-slug>rookies</span> --save</code>. Bản nào làm sai chữ của truyện sẽ bị máy kiểm tra từ chối.</li>
           <li>Tải lại trang này: chương chuyển xong hiện <strong>Sẵn sàng</strong>. Chọn, rồi Đồng bộ.</li>
           <li>Sửa chương trên Vercel thì bản chuyển thành <strong>Cần chuyển lại</strong>; chỉ đổi chân trang (vd. có chương mới) thì thành <strong>Cần cập nhật</strong> và đồng bộ được ngay.</li>
         </ol>

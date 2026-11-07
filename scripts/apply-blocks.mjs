@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 // Turns the documents that appear inside the story into their own blocks
-// (spreadsheet, handwritten note, text editor, terminal) in content/import.
+// (spreadsheet, handwritten note, text editor, terminal) in content/posts/legacy.
 //
 //   npm run blocks -- --dry-run   # show what would change
-//   npm run blocks                # edit content/import/*.md
+//   npm run blocks                # edit content/posts/legacy/*.md
 //   npm run import -- --overwrite
 //
 // In the chapter files these documents are plain italic lines, which look like
@@ -28,7 +28,9 @@
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 
-const folder = 'content/import';
+import { EDITION_DIRS } from './paths.mjs';
+
+const folder = EDITION_DIRS.v1;
 const dryRun = process.argv.includes('--dry-run');
 
 const SHEET_HEAD = ['Giờ', 'Hạng mục', 'Địa điểm', 'Trang phục', 'Ghi chú'];

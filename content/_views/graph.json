@@ -1,0 +1,3695 @@
+{
+ "generated": "2026-11-07",
+ "phases": [
+  "OPEN",
+  "P1",
+  "P2",
+  "BREAK",
+  "AFTER",
+  "POST"
+ ],
+ "nodes": [
+  {
+   "id": "00-quyet-dinh-v2",
+   "path": "00-quyet-dinh-v2.md",
+   "title": "Đèn vàng v2 – Sổ quyết định",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "01-mach-truyen-v2",
+   "path": "01-mach-truyen-v2.md",
+   "title": "Đèn vàng v2 – Mạch truyện",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "01-rules-viet",
+   "path": "01-rules-viet.md",
+   "title": "Đèn vàng – Rules viết",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "01c-rules-thanh-phan",
+   "path": "01c-rules-thanh-phan.md",
+   "title": "Đèn vàng – Rules thành phần hiển thị",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "01d-rules-thoai-than-mat",
+   "path": "01d-rules-thoai-than-mat.md",
+   "title": "Đèn vàng – Rules thoại và cảnh thân mật (bổ sung)",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "02-hoi-dong-nhi",
+   "path": "02-hoi-dong-nhi.md",
+   "title": "Đèn vàng v2 – Hội đồng quản trị của Nhi",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "02-mach-truyen",
+   "path": "02-mach-truyen.md",
+   "title": "Đèn vàng – Mạch truyện",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "03-kho-nhi-thich-thuyen",
+   "path": "03-kho-nhi-thich-thuyen.md",
+   "title": "Đèn vàng v2 – Nhi thích Thuyên: flow và kho chất liệu",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "04-rui-ro-tuyen-thuyen-nhi",
+   "path": "04-rui-ro-tuyen-thuyen-nhi.md",
+   "title": "Đèn vàng v2 – Tuyến Thuyên – Nhi: rủi ro và phương pháp xử lý",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "05-gala-va-quan-su-bi-mat",
+   "path": "05-gala-va-quan-su-bi-mat.md",
+   "title": "Đèn vàng v2 – Gala tất niên, Morpheus và quân sư bí mật",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "11-dan-y-phan-1",
+   "path": "11-dan-y-phan-1.md",
+   "title": "Đèn vàng – Dàn ý Phần 1: từ sau summit đến đổ vỡ",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "Kho bối cảnh và hoàn cảnh romance cho Đèn vàng v2",
+   "path": "Kho bối cảnh và hoàn cảnh romance cho Đèn vàng v2.md",
+   "title": "Kho bối cảnh và hoàn cảnh romance cho Đèn vàng v2",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "M-cai-nhau-bo-me",
+   "path": "M-cai-nhau-bo-me.md",
+   "title": "Module: Mạch cãi nhau giữa Thuyên và bố mẹ",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "M-cam-xuc-giac-quan",
+   "path": "M-cam-xuc-giac-quan.md",
+   "title": "Module: Viết cảm xúc mạnh bằng giác quan (màu, nhiệt, độ ẩm, vị…)",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "M-dien-bien-cam-xuc",
+   "path": "M-dien-bien-cam-xuc.md",
+   "title": "Module: Diễn biến cảm xúc và thang hiện sinh của Thuyên (phần mở đầu)",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "M-he-gia-tri",
+   "path": "M-he-gia-tri.md",
+   "title": "Module: Hệ giá trị của Thuyên",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "M-moi-tinh-vy",
+   "path": "M-moi-tinh-vy.md",
+   "title": "Module: Mối tình Thuyên – Vy (hè lớp 10 → tháng hai lớp 11)",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "M-tu-suy-dien",
+   "path": "M-tu-suy-dien.md",
+   "title": "Module: Tự suy diễn để tạo kịch tính",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "README",
+   "path": "README.md",
+   "title": "Đèn vàng – tài liệu",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "ban-dich-de-xuat",
+   "path": "ban-dich-de-xuat.md",
+   "title": "Đèn Vàng – Bản dịch đề xuất (chương 1–13, 28–29 và các interlude)",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "brief-giai-doan-2",
+   "path": "brief-giai-doan-2.md",
+   "title": "Brief: Lab giai đoạn 2 – Tranh công và biến chất (chương 25–42)",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "brief-nhi-truong-quoc-te",
+   "path": "brief-nhi-truong-quoc-te.md",
+   "title": "Brief: Nhi học trường quốc tế của tập đoàn, chuyện du học và danh sách mai mối",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "brief-tinh-cam-thuyen-nhi",
+   "path": "brief-tinh-cam-thuyen-nhi.md",
+   "title": "Brief v2: Mạch tình cảm chính Thuyên – Nhi (Phần 1)",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "bible-v2",
+   "path": "canon/bible-v2.md",
+   "title": "Đèn vàng v2 – Bible hợp nhất",
+   "layer": "canon",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "cau-hoi",
+   "path": "canon/cau-hoi.md",
+   "title": "Đèn vàng v2 – Sổ câu hỏi",
+   "layer": "canon",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "chuc-nang-ban-le",
+   "path": "chuc-nang-ban-le.md",
+   "title": "Chức năng tình tiết: phần bản lề (mầm non → hết lớp 9)",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "config.calendar",
+   "path": "config/calendar.md",
+   "title": "calendar · Lịch",
+   "layer": "foundation",
+   "kind": "config",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "config.ids",
+   "path": "config/ids.md",
+   "title": "ids · Sổ mã, cũ → mới",
+   "layer": "foundation",
+   "kind": "config",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "config.levels",
+   "path": "config/levels.md",
+   "title": "levels · Thang mức và vai",
+   "layer": "foundation",
+   "kind": "config",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "config.phases",
+   "path": "config/phases.md",
+   "title": "phases · Giai đoạn",
+   "layer": "foundation",
+   "kind": "config",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "config.statuses",
+   "path": "config/statuses.md",
+   "title": "statuses · Trạng thái",
+   "layer": "foundation",
+   "kind": "config",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "danh-sach-chuong-mo-dau",
+   "path": "danh-sach-chuong-mo-dau.md",
+   "title": "Danh sách chương phần mở đầu (bản 3)",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "cay-tuyen",
+   "path": "de-xuat/cay-tuyen.md",
+   "title": "Đèn vàng – Cây tuyến: nguồn sự thật cho tình tiết",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "handoff-kien-truc-cay-tuyen",
+   "path": "de-xuat/handoff-kien-truc-cay-tuyen.md",
+   "title": "Handoff – Kiến trúc cây tuyến",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "hop-nhat-cay-tuyen",
+   "path": "de-xuat/hop-nhat-cay-tuyen.md",
+   "title": "Đèn vàng – Cây tuyến làm cây quyết định, hợp nhất với kiến trúc hiện hành",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "hop-nhat-loi-cu",
+   "path": "de-xuat/hop-nhat-loi-cu.md",
+   "title": "Đèn vàng – Hợp nhất lõi cũ vào cây tuyến",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "kien-truc-framework",
+   "path": "de-xuat/kien-truc-framework.md",
+   "title": "Đèn vàng – Framework: docs và content như một codebase",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "ngan-sach-tuyen",
+   "path": "de-xuat/ngan-sach-tuyen.md",
+   "title": "Đèn vàng – Ngân sách theo tuyến",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "q-001-thuyen-biet-than-phan-nhi",
+   "path": "de-xuat/q-001-thuyen-biet-than-phan-nhi.md",
+   "title": "Q-001 – Thuyên biết Nhi là em gái Khải từ lúc nào",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "qk-t-cap-3-motif-lop-10",
+   "path": "de-xuat/qk-t-cap-3-motif-lop-10.md",
+   "title": "Đèn vàng – QK.T cấp 3: motif thất bại, hội chuyên Anh, lớp 10 và MMO",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "qk-t-plan-ch1-het-cap-2",
+   "path": "de-xuat/qk-t-plan-ch1-het-cap-2.md",
+   "title": "Plan phần mở đầu: từ ch.1 đến hết chuỗi hồi tưởng (cấp 2 → hết cấp 3)",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "qk-t-plan-viet-lai-quang-1-v2",
+   "path": "de-xuat/qk-t-plan-viet-lai-quang-1-v2.md",
+   "title": "Plan viết lại QK.T quãng 1 (mầm non → hết cấp 2) và ch.0 · bản 2",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "qk-t-plan-viet-lai-quang-1-v3",
+   "path": "de-xuat/qk-t-plan-viet-lai-quang-1-v3.md",
+   "title": "Plan viết lại QK.T quãng 1 (mầm non → hết cấp 2) và ch.0 · bản 3 (cấu trúc bản 4)",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "qk-t-ra-soat-thu-v6",
+   "path": "de-xuat/qk-t-ra-soat-thu-v6.md",
+   "title": "Rà soát bản nháp thu-v6 (ch.0–5) và quyết định 31/10",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "rm-handoff",
+   "path": "de-xuat/rm-handoff.md",
+   "title": "Handoff – Tuyến RM (Romance)",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "rm-x11-dem-say",
+   "path": "de-xuat/rm-x11-dem-say.md",
+   "title": "X-11 Đêm say: chốt và bản cảnh",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "th-co-cau-nhan-su",
+   "path": "de-xuat/th-co-cau-nhan-su.md",
+   "title": "Đèn vàng – TH: tái cơ cấu nhân sự lab Thiên Nhãn",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "th-handoff-x11-dem-say",
+   "path": "de-xuat/th-handoff-x11-dem-say.md",
+   "title": "Handoff – X-11 Đêm say, giao điểm RM.TN × TH.LAB",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "th-mach-he-phan-tan-v2",
+   "path": "de-xuat/th-mach-he-phan-tan-v2.md",
+   "title": "Đèn vàng – TH: mạch hệ phân tán, Java → Go, chỉnh cho v2",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "th-mang-luoi-loi-ich",
+   "path": "de-xuat/th-mang-luoi-loi-ich.md",
+   "title": "Đèn vàng – TH: mạng lưới lợi ích, phe phái như mắt xích, thiết kế nhân sự lab",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "th-nguyen-lieu-trien-khai-production",
+   "path": "de-xuat/th-nguyen-lieu-trien-khai-production.md",
+   "title": "Đèn vàng – Nguyên liệu TH: thiết kế hệ phân tán đưa model lên production (bản cũ)",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "th-nguyen-lieu-tu-canon",
+   "path": "de-xuat/th-nguyen-lieu-tu-canon.md",
+   "title": "Đèn vàng – Nguyên liệu TH: những gì canon v2 lấy từ bản cũ",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "th-tai-cau-truc-lab",
+   "path": "de-xuat/th-tai-cau-truc-lab.md",
+   "title": "Đèn vàng – Tái cấu trúc tuyến Thriller: kế hoạch",
+   "layer": "proposals",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "ghi-chu-nhan-vat-theo-chuong",
+   "path": "ghi-chu-nhan-vat-theo-chuong.md",
+   "title": "Ghi chú nhân vật theo chương (cho các bản đăng phụ)",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "handoff",
+   "path": "handoff.md",
+   "title": "Đèn vàng – Bàn giao cho session mới",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "hai-ky-thuat",
+   "path": "kho/hai-ky-thuat.md",
+   "title": "Kho hài · Kỹ thuật (tầng 2–3)",
+   "layer": "assets",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "hai",
+   "path": "kho/hai.md",
+   "title": "Kho hài",
+   "layer": "assets",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "kien-truc",
+   "path": "kien-truc.md",
+   "title": "Đèn vàng – Kiến trúc tài liệu và sinh nội dung",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "lich-su-hoi-thoai",
+   "path": "lich-su-hoi-thoai.md",
+   "title": "Đèn vàng – Lịch sử hội thoại (session 66fc65cb)",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "mau-cuon-sach-tinh-van",
+   "path": "mau-cuon-sach-tinh-van.md",
+   "title": "Mẫu: cuốn sách, tinh vân trong xe rác",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "mau-lop7-cai-den-cung",
+   "path": "mau-lop7-cai-den-cung.md",
+   "title": "Mẫu: trận cãi đến cùng, cuối lớp 7",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "phac-thao-cap-3",
+   "path": "phac-thao-cap-3.md",
+   "title": "Phác thảo phần cấp 3 (lớp 10 → 12, 2021–2024)",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/03-chuong-01-den-vang",
+   "path": "posts/legacy/03-chuong-01-den-vang.md",
+   "title": "Chương 1: Đèn vàng",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/04-chuong-02-bao-giay-vun",
+   "path": "posts/legacy/04-chuong-02-bao-giay-vun.md",
+   "title": "Chương 2: Bao giấy vụn",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/05-chuong-03-tieng-dep",
+   "path": "posts/legacy/05-chuong-03-tieng-dep.md",
+   "title": "Chương 3: Tiếng dép",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/05b-hong-phan",
+   "path": "posts/legacy/05b-hong-phan.md",
+   "title": "Hồng phấn",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/06-chuong-04-san-tro",
+   "path": "posts/legacy/06-chuong-04-san-tro.md",
+   "title": "Chương 4: Sân trọ",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/06b-mau-giay-can",
+   "path": "posts/legacy/06b-mau-giay-can.md",
+   "title": "Màu giấy can",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/07-chuong-05-bang-ron",
+   "path": "posts/legacy/07-chuong-05-bang-ron.md",
+   "title": "Chương 5: Băng rôn",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/08-chuong-06-ghe-da",
+   "path": "posts/legacy/08-chuong-06-ghe-da.md",
+   "title": "Chương 6: Ghế đá",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/09-chuong-07-nguoi-duoc-hoi",
+   "path": "posts/legacy/09-chuong-07-nguoi-duoc-hoi.md",
+   "title": "Chương 7: Người được hỏi",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/09b-kem-vien-nhu-vang",
+   "path": "posts/legacy/09b-kem-vien-nhu-vang.md",
+   "title": "Kem viền nhũ vàng",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/10-chuong-08-san-khau",
+   "path": "posts/legacy/10-chuong-08-san-khau.md",
+   "title": "Chương 8: Sân khấu",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/10b-hong-dat",
+   "path": "posts/legacy/10b-hong-dat.md",
+   "title": "Hồng đất",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/12-chuong-09-den-san-khong-tat",
+   "path": "posts/legacy/12-chuong-09-den-san-khong-tat.md",
+   "title": "Chương 9: Đèn sân không tắt",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/13-chuong-10-nguoi-duoc-moi",
+   "path": "posts/legacy/13-chuong-10-nguoi-duoc-moi.md",
+   "title": "Chương 10: Người được mời",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/14-chuong-11-tam-thiep",
+   "path": "posts/legacy/14-chuong-11-tam-thiep.md",
+   "title": "Chương 11: Tấm thiệp",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/15-chuong-12-chu-toa",
+   "path": "posts/legacy/15-chuong-12-chu-toa.md",
+   "title": "Chương 12: Chủ tọa",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/16-chuong-13-buoi-hoc-dau",
+   "path": "posts/legacy/16-chuong-13-buoi-hoc-dau.md",
+   "title": "Chương 13: Buổi học đầu",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/17-chuong-14-ngay-dau",
+   "path": "posts/legacy/17-chuong-14-ngay-dau.md",
+   "title": "Chương 14: Ngày đầu",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/17b-hong-canh-sen",
+   "path": "posts/legacy/17b-hong-canh-sen.md",
+   "title": "Hồng cánh sen",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/18-chuong-15-du-thinh",
+   "path": "posts/legacy/18-chuong-15-du-thinh.md",
+   "title": "Chương 15: Dự thính",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/18b-xanh-cham",
+   "path": "posts/legacy/18b-xanh-cham.md",
+   "title": "Xanh chàm",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/19-chuong-16-ban-do",
+   "path": "posts/legacy/19-chuong-16-ban-do.md",
+   "title": "Chương 16: Bản đồ",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/20-chuong-17-viec-cua-thao",
+   "path": "posts/legacy/20-chuong-17-viec-cua-thao.md",
+   "title": "Chương 17: Việc của Thảo",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/20b-xanh-co-vit",
+   "path": "posts/legacy/20b-xanh-co-vit.md",
+   "title": "Xanh cổ vịt",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/21-chuong-18-o-hong",
+   "path": "posts/legacy/21-chuong-18-o-hong.md",
+   "title": "Chương 18: Ô hồng",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/21b-anh-xanh-man-hinh",
+   "path": "posts/legacy/21b-anh-xanh-man-hinh.md",
+   "title": "Ánh xanh màn hình",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/21c-mau-be",
+   "path": "posts/legacy/21c-mau-be.md",
+   "title": "Màu be",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/22-chuong-19-hiep-hai",
+   "path": "posts/legacy/22-chuong-19-hiep-hai.md",
+   "title": "Chương 19: Hiệp hai",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/23-chuong-20-san-bong",
+   "path": "posts/legacy/23-chuong-20-san-bong.md",
+   "title": "Chương 20: Sân bóng",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/24-chuong-21-dem-nguoc",
+   "path": "posts/legacy/24-chuong-21-dem-nguoc.md",
+   "title": "Chương 21: Đếm ngược",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/24b-do-sam",
+   "path": "posts/legacy/24b-do-sam.md",
+   "title": "Đỏ sẫm",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/25-chuong-22-nguoi-yeu",
+   "path": "posts/legacy/25-chuong-22-nguoi-yeu.md",
+   "title": "Chương 22: Người yêu",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/26-chuong-23-san-sang",
+   "path": "posts/legacy/26-chuong-23-san-sang.md",
+   "title": "Chương 23: Sân sáng",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/26b-vang-kim",
+   "path": "posts/legacy/26b-vang-kim.md",
+   "title": "Vàng kim",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/27-chuong-24-mieng-banh",
+   "path": "posts/legacy/27-chuong-24-mieng-banh.md",
+   "title": "Chương 24: Miếng bánh",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/27b-hong",
+   "path": "posts/legacy/27b-hong.md",
+   "title": "Hồng",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/27c-nau-ca-phe",
+   "path": "posts/legacy/27c-nau-ca-phe.md",
+   "title": "Nâu cà phê",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/28-chuong-25-hai-phien-ban",
+   "path": "posts/legacy/28-chuong-25-hai-phien-ban.md",
+   "title": "Chương 25: Hai phiên bản",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/29-chuong-26-bang-tinh",
+   "path": "posts/legacy/29-chuong-26-bang-tinh.md",
+   "title": "Chương 26: Bảng tính",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/30-chuong-27-nhiet-ke",
+   "path": "posts/legacy/30-chuong-27-nhiet-ke.md",
+   "title": "Chương 27: Nhiệt kế",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/30b-hong-dao",
+   "path": "posts/legacy/30b-hong-dao.md",
+   "title": "Hồng đào",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/31-chuong-28-giao-trinh",
+   "path": "posts/legacy/31-chuong-28-giao-trinh.md",
+   "title": "Chương 28: Giáo trình",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/31b-muc-tim",
+   "path": "posts/legacy/31b-muc-tim.md",
+   "title": "Mực tím",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/32-chuong-29-cham-xanh",
+   "path": "posts/legacy/32-chuong-29-cham-xanh.md",
+   "title": "Chương 29: Chấm xanh",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/33-chuong-30-phi-thuyen",
+   "path": "posts/legacy/33-chuong-30-phi-thuyen.md",
+   "title": "Chương 30: Phi thuyền",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/33a-chuong-31-muoi-hai-ghe",
+   "path": "posts/legacy/33a-chuong-31-muoi-hai-ghe.md",
+   "title": "Chương 31: Mười hai ghế",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/33aa-3107",
+   "path": "posts/legacy/33aa-3107.md",
+   "title": "Chương 3107",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/33b-vay-co-thuyen",
+   "path": "posts/legacy/33b-vay-co-thuyen.md",
+   "title": "Váy cổ thuyền",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/33c-cam-chay",
+   "path": "posts/legacy/33c-cam-chay.md",
+   "title": "Cam cháy",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/34-chuong-31-bieu-do",
+   "path": "posts/legacy/34-chuong-31-bieu-do.md",
+   "title": "Chương 32: Biểu đồ",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/34b-xanh-bac-ha",
+   "path": "posts/legacy/34b-xanh-bac-ha.md",
+   "title": "Xanh bạc hà",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/35a-chuong-33-mixue",
+   "path": "posts/legacy/35a-chuong-33-mixue.md",
+   "title": "Chương 33: Mixue",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/35b-chuong-34-guong-chieu-hau",
+   "path": "posts/legacy/35b-chuong-34-guong-chieu-hau.md",
+   "title": "Chương 34: Gương chiếu hậu",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/35c-portra-400",
+   "path": "posts/legacy/35c-portra-400.md",
+   "title": "Portra 400",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/36-chuong-35-hai-muoi-tam-quan",
+   "path": "posts/legacy/36-chuong-35-hai-muoi-tam-quan.md",
+   "title": "Chương 35: Hai mươi tám quân",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/37-chuong-36-ban-nhap",
+   "path": "posts/legacy/37-chuong-36-ban-nhap.md",
+   "title": "Chương 36: Bản nháp",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/38-chuong-37-muc-2-4",
+   "path": "posts/legacy/38-chuong-37-muc-2-4.md",
+   "title": "Chương 37: Mục 2.4",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/39-chuong-38-danh-sach",
+   "path": "posts/legacy/39-chuong-38-danh-sach.md",
+   "title": "Chương 38: Danh sách",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/legacy/40-chuong-39-cau-hoi-cua-em",
+   "path": "posts/legacy/40-chuong-39-cau-hoi-cua-em.md",
+   "title": "Chương 39: Câu hỏi của em",
+   "layer": "posts-legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/rookies.vn/convert",
+   "path": "posts/rookies.vn/convert.md",
+   "title": "Converting a chapter for rookies.vn",
+   "layer": "crosspost",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/truyennhaong.vn/convert",
+   "path": "posts/truyennhaong.vn/convert.md",
+   "title": "Converting a chapter for truyennhaong.vn (Truyện nhà Ong, TNO)",
+   "layer": "crosspost",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/vercel/00-chuong-00-co-tich",
+   "path": "posts/vercel/00-chuong-00-co-tich.md",
+   "title": "Chương 0: Cô tịch",
+   "layer": "posts-vercel",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/vercel/01-chuong-01-den-vang",
+   "path": "posts/vercel/01-chuong-01-den-vang.md",
+   "title": "Chương 1: Đèn vàng",
+   "layer": "posts-vercel",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/vercel/01b-hong-phan",
+   "path": "posts/vercel/01b-hong-phan.md",
+   "title": "Hồng phấn",
+   "layer": "posts-vercel",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/vercel/02-chuong-02-cai-dinh",
+   "path": "posts/vercel/02-chuong-02-cai-dinh.md",
+   "title": "Chương 2: Cái đinh",
+   "layer": "posts-vercel",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/vercel/02b-xanh-matcha",
+   "path": "posts/vercel/02b-xanh-matcha.md",
+   "title": "Xanh matcha",
+   "layer": "posts-vercel",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/vercel/03-chuong-03-ao-so-mi-trang",
+   "path": "posts/vercel/03-chuong-03-ao-so-mi-trang.md",
+   "title": "Chương 3: Áo sơ mi trắng",
+   "layer": "posts-vercel",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/vercel/03b-mau-giay-can",
+   "path": "posts/vercel/03b-mau-giay-can.md",
+   "title": "Màu giấy can",
+   "layer": "posts-vercel",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/vercel/04-chuong-04-soi-day-the",
+   "path": "posts/vercel/04-chuong-04-soi-day-the.md",
+   "title": "Chương 4: Sợi dây thẻ",
+   "layer": "posts-vercel",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/vercel/04a-co-doc",
+   "path": "posts/vercel/04a-co-doc.md",
+   "title": "Cô độc",
+   "layer": "posts-vercel",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/vercel/04aa-moi-met",
+   "path": "posts/vercel/04aa-moi-met.md",
+   "title": "Mỏi mệt",
+   "layer": "posts-vercel",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/vercel/04b-kem-vien-nhu-vang",
+   "path": "posts/vercel/04b-kem-vien-nhu-vang.md",
+   "title": "Kem viền nhũ vàng",
+   "layer": "posts-vercel",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/vercel/04c-hoang-mang",
+   "path": "posts/vercel/04c-hoang-mang.md",
+   "title": "Hoang mang",
+   "layer": "posts-vercel",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/vercel/05-chuong-05-san-khau",
+   "path": "posts/vercel/05-chuong-05-san-khau.md",
+   "title": "Chương 5: Sân khấu",
+   "layer": "posts-vercel",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/vercel/05b-hong-dat",
+   "path": "posts/vercel/05b-hong-dat.md",
+   "title": "Hồng đất",
+   "layer": "posts-vercel",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/vercel/05b-so",
+   "path": "posts/vercel/05b-so.md",
+   "title": "Sợ",
+   "layer": "posts-vercel",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "posts/vercel/05c-tiec-nuoi",
+   "path": "posts/vercel/05c-tiec-nuoi.md",
+   "title": "Tiếc nuối",
+   "layer": "posts-vercel",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "quy-trinh",
+   "path": "quy-trinh.md",
+   "title": "Đèn vàng – Quy trình tác giả + Claude",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "chui-bay-thiet-ke",
+   "path": "rules/chui-bay-thiet-ke.md",
+   "title": "Đèn vàng – thiết kế chửi bậy (SL.Vũ, SL sân bóng, QK.T sân bóng)",
+   "layer": "rules",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "goi-ten-cam-xuc",
+   "path": "rules/goi-ten-cam-xuc.md",
+   "title": "Đèn vàng – Gọi tên cảm xúc ở POV Thuyên",
+   "layer": "rules",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "registers",
+   "path": "rules/registers.md",
+   "title": "Đèn vàng – Register (văn phong)",
+   "layer": "rules",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "tu-dien-ha-tinh",
+   "path": "rules/tu-dien-ha-tinh.md",
+   "title": "Đèn vàng – từ điển giọng Hà Tĩnh (`[[ht: gốc || chuẩn]]`)",
+   "layer": "rules",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "schema.article",
+   "path": "schemas/article.md",
+   "title": "schema · article",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "schema.belief",
+   "path": "schemas/belief.md",
+   "title": "schema · belief",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "schema.chapter",
+   "path": "schemas/chapter.md",
+   "title": "schema · chapter",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "schema.character",
+   "path": "schemas/character.md",
+   "title": "schema · character",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "schema.event",
+   "path": "schemas/event.md",
+   "title": "schema · event",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "schema.function",
+   "path": "schemas/function.md",
+   "title": "schema · function",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "schema.group",
+   "path": "schemas/group.md",
+   "title": "schema · group",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "schema.intersection",
+   "path": "schemas/intersection.md",
+   "title": "schema · intersection",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "schema.law",
+   "path": "schemas/law.md",
+   "title": "schema · law",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "schema.node",
+   "path": "schemas/node.md",
+   "title": "schema · node",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "schema.object",
+   "path": "schemas/object.md",
+   "title": "schema · object",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "schema.plan",
+   "path": "schemas/plan.md",
+   "title": "schema · plan",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "schema.proposal",
+   "path": "schemas/proposal.md",
+   "title": "schema · proposal",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "schema.secret",
+   "path": "schemas/secret.md",
+   "title": "schema · secret",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "schema.setting",
+   "path": "schemas/setting.md",
+   "title": "schema · setting",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "tinh-tiet-moi-ban-le",
+   "path": "tinh-tiet-moi-ban-le.md",
+   "title": "Tình tiết mới cho phần bản lề (đề xuất 1)",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "tuyen/README",
+   "path": "tuyen/README.md",
+   "title": "Đèn vàng – Cây tuyến",
+   "layer": "storylines",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "goc",
+   "path": "tuyen/goc.md",
+   "title": "Đèn vàng – Gốc",
+   "layer": "storylines",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "tuyen/qua-khu/README",
+   "path": "tuyen/qua-khu/README.md",
+   "title": "Đèn vàng – Tuyến Quá khứ (QK)",
+   "layer": "storylines",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "nhi",
+   "path": "tuyen/qua-khu/nhi.md",
+   "title": "Đèn vàng – QK.N: bảng neo của Nhi",
+   "layer": "storylines",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "thuyen-adhd",
+   "path": "tuyen/qua-khu/thuyen-adhd.md",
+   "title": "Đèn vàng – QK.T: ADHD của Thuyên",
+   "layer": "storylines",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "thuyen-cai-toi-doc-co-che",
+   "path": "tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md",
+   "title": "Đèn vàng – QK.T: cơ chế gọi cái tôi độc trong lúc hòa khí",
+   "layer": "storylines",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "thuyen-co-may",
+   "path": "tuyen/qua-khu/thuyen-co-may.md",
+   "title": "Đèn vàng – QK.T: cỗ máy hiện sinh của Thuyên",
+   "layer": "storylines",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "thuyen-da-nhan-cach",
+   "path": "tuyen/qua-khu/thuyen-da-nhan-cach.md",
+   "title": "Đèn vàng – QK.T: đa nhân cách của Thuyên và gốc của tếu",
+   "layer": "storylines",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "thuyen-hai-cai-toi",
+   "path": "tuyen/qua-khu/thuyen-hai-cai-toi.md",
+   "title": "Đèn vàng – QK.T: hai cái tôi của Thuyên (cấp 2 → hết cấp 3)",
+   "layer": "storylines",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "thuyen-lang-kinh",
+   "path": "tuyen/qua-khu/thuyen-lang-kinh.md",
+   "title": "Đèn vàng – QK.T: lăng kính dùng để làm gì, tên lửa, khí thải, răn",
+   "layer": "storylines",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "thuyen",
+   "path": "tuyen/qua-khu/thuyen.md",
+   "title": "Đèn vàng – QK.T: bảng neo của Thuyên",
+   "layer": "storylines",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "thuyen-nhi",
+   "path": "tuyen/romance/thuyen-nhi.md",
+   "title": "RM.TN · Thuyên – Nhi",
+   "layer": "storylines",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "vu",
+   "path": "tuyen/sl/vu.md",
+   "title": "SL.VU · Vũ (thẻ node)",
+   "layer": "storylines",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  }
+ ],
+ "edges": [
+  {
+   "s": "00-quyet-dinh-v2",
+   "t": "02-hoi-dong-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "00-quyet-dinh-v2",
+   "t": "brief-tinh-cam-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "01-mach-truyen-v2",
+   "t": "danh-sach-chuong-mo-dau",
+   "type": "ref"
+  },
+  {
+   "s": "01-mach-truyen-v2",
+   "t": "00-quyet-dinh-v2",
+   "type": "ref"
+  },
+  {
+   "s": "01-mach-truyen-v2",
+   "t": "brief-tinh-cam-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "01-rules-viet",
+   "t": "goi-ten-cam-xuc",
+   "type": "ref"
+  },
+  {
+   "s": "01-rules-viet",
+   "t": "brief-tinh-cam-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "01d-rules-thoai-than-mat",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "03-kho-nhi-thich-thuyen",
+   "t": "00-quyet-dinh-v2",
+   "type": "ref"
+  },
+  {
+   "s": "05-gala-va-quan-su-bi-mat",
+   "t": "brief-tinh-cam-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "05-gala-va-quan-su-bi-mat",
+   "t": "04-rui-ro-tuyen-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "M-cai-nhau-bo-me",
+   "t": "M-he-gia-tri",
+   "type": "ref"
+  },
+  {
+   "s": "M-he-gia-tri",
+   "t": "thuyen-lang-kinh",
+   "type": "ref"
+  },
+  {
+   "s": "M-moi-tinh-vy",
+   "t": "M-cai-nhau-bo-me",
+   "type": "ref"
+  },
+  {
+   "s": "README",
+   "t": "kien-truc",
+   "type": "ref"
+  },
+  {
+   "s": "README",
+   "t": "cau-hoi",
+   "type": "ref"
+  },
+  {
+   "s": "README",
+   "t": "quy-trinh",
+   "type": "ref"
+  },
+  {
+   "s": "README",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "brief-giai-doan-2",
+   "t": "posts/legacy/28-chuong-25-hai-phien-ban",
+   "type": "ref"
+  },
+  {
+   "s": "brief-nhi-truong-quoc-te",
+   "t": "posts/legacy/24b-do-sam",
+   "type": "ref"
+  },
+  {
+   "s": "brief-nhi-truong-quoc-te",
+   "t": "posts/legacy/21c-mau-be",
+   "type": "ref"
+  },
+  {
+   "s": "brief-nhi-truong-quoc-te",
+   "t": "posts/legacy/26b-vang-kim",
+   "type": "ref"
+  },
+  {
+   "s": "brief-nhi-truong-quoc-te",
+   "t": "posts/legacy/27b-hong",
+   "type": "ref"
+  },
+  {
+   "s": "brief-nhi-truong-quoc-te",
+   "t": "02-mach-truyen",
+   "type": "ref"
+  },
+  {
+   "s": "brief-nhi-truong-quoc-te",
+   "t": "11-dan-y-phan-1",
+   "type": "ref"
+  },
+  {
+   "s": "brief-nhi-truong-quoc-te",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "brief-nhi-truong-quoc-te",
+   "t": "posts/legacy/16-chuong-13-buoi-hoc-dau",
+   "type": "ref"
+  },
+  {
+   "s": "brief-tinh-cam-thuyen-nhi",
+   "t": "02-hoi-dong-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "brief-tinh-cam-thuyen-nhi",
+   "t": "posts/legacy/35c-portra-400",
+   "type": "ref"
+  },
+  {
+   "s": "bible-v2",
+   "t": "00-quyet-dinh-v2",
+   "type": "ref"
+  },
+  {
+   "s": "bible-v2",
+   "t": "01-mach-truyen-v2",
+   "type": "ref"
+  },
+  {
+   "s": "bible-v2",
+   "t": "02-hoi-dong-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "bible-v2",
+   "t": "03-kho-nhi-thich-thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "bible-v2",
+   "t": "04-rui-ro-tuyen-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "bible-v2",
+   "t": "05-gala-va-quan-su-bi-mat",
+   "type": "ref"
+  },
+  {
+   "s": "bible-v2",
+   "t": "brief-tinh-cam-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "bible-v2",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "bible-v2",
+   "t": "q-001-thuyen-biet-than-phan-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "bible-v2",
+   "t": "danh-sach-chuong-mo-dau",
+   "type": "ref"
+  },
+  {
+   "s": "cau-hoi",
+   "t": "bible-v2",
+   "type": "ref"
+  },
+  {
+   "s": "cau-hoi",
+   "t": "00-quyet-dinh-v2",
+   "type": "ref"
+  },
+  {
+   "s": "cau-hoi",
+   "t": "01-mach-truyen-v2",
+   "type": "ref"
+  },
+  {
+   "s": "cau-hoi",
+   "t": "02-hoi-dong-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "cau-hoi",
+   "t": "03-kho-nhi-thich-thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "cau-hoi",
+   "t": "04-rui-ro-tuyen-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "cau-hoi",
+   "t": "05-gala-va-quan-su-bi-mat",
+   "type": "ref"
+  },
+  {
+   "s": "cau-hoi",
+   "t": "brief-tinh-cam-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "cau-hoi",
+   "t": "q-001-thuyen-biet-than-phan-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "cau-hoi",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "cau-hoi",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "cau-hoi",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "cau-hoi",
+   "t": "thuyen-co-may",
+   "type": "ref"
+  },
+  {
+   "s": "cau-hoi",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "cau-hoi",
+   "t": "qk-t-plan-ch1-het-cap-2",
+   "type": "ref"
+  },
+  {
+   "s": "cau-hoi",
+   "t": "quy-trinh",
+   "type": "ref"
+  },
+  {
+   "s": "config.calendar",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "config.calendar",
+   "t": "nhi",
+   "type": "ref"
+  },
+  {
+   "s": "config.ids",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "config.levels",
+   "t": "schema.node",
+   "type": "ref"
+  },
+  {
+   "s": "config.levels",
+   "t": "tuyen/README",
+   "type": "ref"
+  },
+  {
+   "s": "config.phases",
+   "t": "config.calendar",
+   "type": "ref"
+  },
+  {
+   "s": "config.statuses",
+   "t": "config.ids",
+   "type": "ref"
+  },
+  {
+   "s": "cay-tuyen",
+   "t": "ngan-sach-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "cay-tuyen",
+   "t": "cau-hoi",
+   "type": "ref"
+  },
+  {
+   "s": "cay-tuyen",
+   "t": "kien-truc",
+   "type": "ref"
+  },
+  {
+   "s": "cay-tuyen",
+   "t": "danh-sach-chuong-mo-dau",
+   "type": "ref"
+  },
+  {
+   "s": "cay-tuyen",
+   "t": "hop-nhat-cay-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "cay-tuyen",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "cay-tuyen",
+   "t": "tuyen/README",
+   "type": "ref"
+  },
+  {
+   "s": "cay-tuyen",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "cay-tuyen",
+   "t": "nhi",
+   "type": "ref"
+  },
+  {
+   "s": "cay-tuyen",
+   "t": "brief-tinh-cam-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "cay-tuyen",
+   "t": "02-hoi-dong-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "cay-tuyen",
+   "t": "quy-trinh",
+   "type": "ref"
+  },
+  {
+   "s": "handoff-kien-truc-cay-tuyen",
+   "t": "kien-truc",
+   "type": "ref"
+  },
+  {
+   "s": "handoff-kien-truc-cay-tuyen",
+   "t": "quy-trinh",
+   "type": "ref"
+  },
+  {
+   "s": "handoff-kien-truc-cay-tuyen",
+   "t": "hop-nhat-cay-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "handoff-kien-truc-cay-tuyen",
+   "t": "tuyen/README",
+   "type": "ref"
+  },
+  {
+   "s": "handoff-kien-truc-cay-tuyen",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "handoff-kien-truc-cay-tuyen",
+   "t": "cay-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "handoff-kien-truc-cay-tuyen",
+   "t": "ngan-sach-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "handoff-kien-truc-cay-tuyen",
+   "t": "cau-hoi",
+   "type": "ref"
+  },
+  {
+   "s": "handoff-kien-truc-cay-tuyen",
+   "t": "brief-tinh-cam-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "handoff-kien-truc-cay-tuyen",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "handoff-kien-truc-cay-tuyen",
+   "t": "02-hoi-dong-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "handoff-kien-truc-cay-tuyen",
+   "t": "th-tai-cau-truc-lab",
+   "type": "ref"
+  },
+  {
+   "s": "handoff-kien-truc-cay-tuyen",
+   "t": "th-handoff-x11-dem-say",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-cay-tuyen",
+   "t": "kien-truc",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-cay-tuyen",
+   "t": "quy-trinh",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-cay-tuyen",
+   "t": "cau-hoi",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-cay-tuyen",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-cay-tuyen",
+   "t": "tuyen/README",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-loi-cu",
+   "t": "cau-hoi",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-loi-cu",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-loi-cu",
+   "t": "tuyen/README",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-loi-cu",
+   "t": "tuyen/qua-khu/README",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-loi-cu",
+   "t": "kien-truc",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-loi-cu",
+   "t": "quy-trinh",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-loi-cu",
+   "t": "cay-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-loi-cu",
+   "t": "hop-nhat-cay-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-loi-cu",
+   "t": "ngan-sach-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-loi-cu",
+   "t": "rm-handoff",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-loi-cu",
+   "t": "th-tai-cau-truc-lab",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-loi-cu",
+   "t": "th-nguyen-lieu-tu-canon",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-loi-cu",
+   "t": "02-mach-truyen",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-loi-cu",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "hop-nhat-loi-cu",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "vu",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "config.ids",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "schema.article",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "M-he-gia-tri",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "thuyen-co-may",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "thuyen-da-nhan-cach",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "thuyen-lang-kinh",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "thuyen-adhd",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "thuyen-cai-toi-doc-co-che",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "M-cai-nhau-bo-me",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "nhi",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "05-gala-va-quan-su-bi-mat",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "tuyen/README",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "04-rui-ro-tuyen-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "config.levels",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "config.phases",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "config.calendar",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "config.statuses",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "kien-truc",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "tuyen/qua-khu/README",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "M-dien-bien-cam-xuc",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "goi-ten-cam-xuc",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "chui-bay-thiet-ke",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "tu-dien-ha-tinh",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "hai-ky-thuat",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "M-cam-xuc-giac-quan",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "M-tu-suy-dien",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "00-quyet-dinh-v2",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "bible-v2",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "01-mach-truyen-v2",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "cau-hoi",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "danh-sach-chuong-mo-dau",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "hai",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "ghi-chu-nhan-vat-theo-chuong",
+   "type": "ref"
+  },
+  {
+   "s": "ngan-sach-tuyen",
+   "t": "cau-hoi",
+   "type": "ref"
+  },
+  {
+   "s": "ngan-sach-tuyen",
+   "t": "hop-nhat-cay-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "q-001-thuyen-biet-than-phan-nhi",
+   "t": "02-mach-truyen",
+   "type": "ref"
+  },
+  {
+   "s": "q-001-thuyen-biet-than-phan-nhi",
+   "t": "11-dan-y-phan-1",
+   "type": "ref"
+  },
+  {
+   "s": "q-001-thuyen-biet-than-phan-nhi",
+   "t": "nhi",
+   "type": "ref"
+  },
+  {
+   "s": "q-001-thuyen-biet-than-phan-nhi",
+   "t": "rm-handoff",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-cap-3-motif-lop-10",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-cap-3-motif-lop-10",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-cap-3-motif-lop-10",
+   "t": "thuyen-adhd",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-cap-3-motif-lop-10",
+   "t": "nhi",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-cap-3-motif-lop-10",
+   "t": "thuyen-co-may",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-cap-3-motif-lop-10",
+   "t": "cau-hoi",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-cap-3-motif-lop-10",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-cap-3-motif-lop-10",
+   "t": "danh-sach-chuong-mo-dau",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-ch1-het-cap-2",
+   "t": "qk-t-plan-viet-lai-quang-1-v3",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-ch1-het-cap-2",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-ch1-het-cap-2",
+   "t": "tuyen/qua-khu/README",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-ch1-het-cap-2",
+   "t": "goi-ten-cam-xuc",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-ch1-het-cap-2",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-viet-lai-quang-1-v2",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-viet-lai-quang-1-v2",
+   "t": "thuyen-co-may",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-viet-lai-quang-1-v2",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-viet-lai-quang-1-v2",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-viet-lai-quang-1-v2",
+   "t": "quy-trinh",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-viet-lai-quang-1-v2",
+   "t": "tuyen/qua-khu/README",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-viet-lai-quang-1-v2",
+   "t": "danh-sach-chuong-mo-dau",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-viet-lai-quang-1-v3",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-viet-lai-quang-1-v3",
+   "t": "goi-ten-cam-xuc",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-viet-lai-quang-1-v3",
+   "t": "tuyen/qua-khu/README",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-viet-lai-quang-1-v3",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-viet-lai-quang-1-v3",
+   "t": "thuyen-co-may",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-viet-lai-quang-1-v3",
+   "t": "qk-t-plan-viet-lai-quang-1-v2",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-viet-lai-quang-1-v3",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-plan-viet-lai-quang-1-v3",
+   "t": "quy-trinh",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-ra-soat-thu-v6",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "qk-t-ra-soat-thu-v6",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "rm-handoff",
+   "t": "cay-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "rm-handoff",
+   "t": "quy-trinh",
+   "type": "ref"
+  },
+  {
+   "s": "rm-handoff",
+   "t": "kien-truc",
+   "type": "ref"
+  },
+  {
+   "s": "rm-handoff",
+   "t": "cau-hoi",
+   "type": "ref"
+  },
+  {
+   "s": "rm-handoff",
+   "t": "brief-tinh-cam-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "rm-handoff",
+   "t": "03-kho-nhi-thich-thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "rm-handoff",
+   "t": "02-hoi-dong-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "rm-handoff",
+   "t": "00-quyet-dinh-v2",
+   "type": "ref"
+  },
+  {
+   "s": "rm-handoff",
+   "t": "01-mach-truyen-v2",
+   "type": "ref"
+  },
+  {
+   "s": "rm-handoff",
+   "t": "th-handoff-x11-dem-say",
+   "type": "ref"
+  },
+  {
+   "s": "rm-handoff",
+   "t": "nhi",
+   "type": "ref"
+  },
+  {
+   "s": "rm-handoff",
+   "t": "hop-nhat-cay-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "rm-handoff",
+   "t": "ngan-sach-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "rm-handoff",
+   "t": "handoff-kien-truc-cay-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "rm-handoff",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "rm-x11-dem-say",
+   "t": "th-handoff-x11-dem-say",
+   "type": "ref"
+  },
+  {
+   "s": "rm-x11-dem-say",
+   "t": "brief-tinh-cam-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "rm-x11-dem-say",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "rm-x11-dem-say",
+   "t": "00-quyet-dinh-v2",
+   "type": "ref"
+  },
+  {
+   "s": "rm-x11-dem-say",
+   "t": "rm-handoff",
+   "type": "ref"
+  },
+  {
+   "s": "rm-x11-dem-say",
+   "t": "02-hoi-dong-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "rm-x11-dem-say",
+   "t": "cay-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "th-co-cau-nhan-su",
+   "t": "th-mang-luoi-loi-ich",
+   "type": "ref"
+  },
+  {
+   "s": "th-handoff-x11-dem-say",
+   "t": "bible-v2",
+   "type": "ref"
+  },
+  {
+   "s": "th-handoff-x11-dem-say",
+   "t": "q-001-thuyen-biet-than-phan-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "th-handoff-x11-dem-say",
+   "t": "cay-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "th-mach-he-phan-tan-v2",
+   "t": "th-nguyen-lieu-trien-khai-production",
+   "type": "ref"
+  },
+  {
+   "s": "th-mach-he-phan-tan-v2",
+   "t": "th-tai-cau-truc-lab",
+   "type": "ref"
+  },
+  {
+   "s": "th-mang-luoi-loi-ich",
+   "t": "th-tai-cau-truc-lab",
+   "type": "ref"
+  },
+  {
+   "s": "th-mang-luoi-loi-ich",
+   "t": "th-mach-he-phan-tan-v2",
+   "type": "ref"
+  },
+  {
+   "s": "th-mang-luoi-loi-ich",
+   "t": "th-nguyen-lieu-tu-canon",
+   "type": "ref"
+  },
+  {
+   "s": "th-nguyen-lieu-trien-khai-production",
+   "t": "th-tai-cau-truc-lab",
+   "type": "ref"
+  },
+  {
+   "s": "th-nguyen-lieu-trien-khai-production",
+   "t": "posts/legacy/09-chuong-07-nguoi-duoc-hoi",
+   "type": "ref"
+  },
+  {
+   "s": "th-nguyen-lieu-trien-khai-production",
+   "t": "posts/legacy/13-chuong-10-nguoi-duoc-moi",
+   "type": "ref"
+  },
+  {
+   "s": "th-nguyen-lieu-trien-khai-production",
+   "t": "posts/legacy/21b-anh-xanh-man-hinh",
+   "type": "ref"
+  },
+  {
+   "s": "th-nguyen-lieu-trien-khai-production",
+   "t": "posts/legacy/31-chuong-28-giao-trinh",
+   "type": "ref"
+  },
+  {
+   "s": "th-nguyen-lieu-trien-khai-production",
+   "t": "posts/legacy/34-chuong-31-bieu-do",
+   "type": "ref"
+  },
+  {
+   "s": "th-nguyen-lieu-trien-khai-production",
+   "t": "posts/legacy/36-chuong-35-hai-muoi-tam-quan",
+   "type": "ref"
+  },
+  {
+   "s": "th-nguyen-lieu-trien-khai-production",
+   "t": "posts/legacy/37-chuong-36-ban-nhap",
+   "type": "ref"
+  },
+  {
+   "s": "th-nguyen-lieu-trien-khai-production",
+   "t": "posts/legacy/38-chuong-37-muc-2-4",
+   "type": "ref"
+  },
+  {
+   "s": "th-nguyen-lieu-trien-khai-production",
+   "t": "posts/legacy/39-chuong-38-danh-sach",
+   "type": "ref"
+  },
+  {
+   "s": "th-nguyen-lieu-trien-khai-production",
+   "t": "posts/legacy/40-chuong-39-cau-hoi-cua-em",
+   "type": "ref"
+  },
+  {
+   "s": "th-nguyen-lieu-tu-canon",
+   "t": "00-quyet-dinh-v2",
+   "type": "ref"
+  },
+  {
+   "s": "th-nguyen-lieu-tu-canon",
+   "t": "01-mach-truyen-v2",
+   "type": "ref"
+  },
+  {
+   "s": "th-nguyen-lieu-tu-canon",
+   "t": "brief-tinh-cam-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "th-nguyen-lieu-tu-canon",
+   "t": "th-tai-cau-truc-lab",
+   "type": "ref"
+  },
+  {
+   "s": "th-tai-cau-truc-lab",
+   "t": "cay-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "th-tai-cau-truc-lab",
+   "t": "posts/legacy/17-chuong-14-ngay-dau",
+   "type": "ref"
+  },
+  {
+   "s": "th-tai-cau-truc-lab",
+   "t": "posts/legacy/19-chuong-16-ban-do",
+   "type": "ref"
+  },
+  {
+   "s": "th-tai-cau-truc-lab",
+   "t": "11-dan-y-phan-1",
+   "type": "ref"
+  },
+  {
+   "s": "th-tai-cau-truc-lab",
+   "t": "th-co-cau-nhan-su",
+   "type": "ref"
+  },
+  {
+   "s": "th-tai-cau-truc-lab",
+   "t": "th-handoff-x11-dem-say",
+   "type": "ref"
+  },
+  {
+   "s": "th-tai-cau-truc-lab",
+   "t": "02-mach-truyen",
+   "type": "ref"
+  },
+  {
+   "s": "handoff",
+   "t": "posts/legacy/28-chuong-25-hai-phien-ban",
+   "type": "ref"
+  },
+  {
+   "s": "handoff",
+   "t": "posts/legacy/27c-nau-ca-phe",
+   "type": "ref"
+  },
+  {
+   "s": "hai-ky-thuat",
+   "t": "hai",
+   "type": "ref"
+  },
+  {
+   "s": "hai-ky-thuat",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "hai-ky-thuat",
+   "t": "chui-bay-thiet-ke",
+   "type": "ref"
+  },
+  {
+   "s": "hai-ky-thuat",
+   "t": "rm-x11-dem-say",
+   "type": "ref"
+  },
+  {
+   "s": "hai-ky-thuat",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "hai-ky-thuat",
+   "t": "tu-dien-ha-tinh",
+   "type": "ref"
+  },
+  {
+   "s": "hai-ky-thuat",
+   "t": "thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "hai",
+   "t": "kien-truc",
+   "type": "ref"
+  },
+  {
+   "s": "hai",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "hai",
+   "t": "rm-handoff",
+   "type": "ref"
+  },
+  {
+   "s": "hai",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "hai",
+   "t": "posts/legacy/12-chuong-09-den-san-khong-tat",
+   "type": "ref"
+  },
+  {
+   "s": "hai",
+   "t": "posts/legacy/23-chuong-20-san-bong",
+   "type": "ref"
+  },
+  {
+   "s": "hai",
+   "t": "posts/legacy/26-chuong-23-san-sang",
+   "type": "ref"
+  },
+  {
+   "s": "hai",
+   "t": "posts/legacy/35b-chuong-34-guong-chieu-hau",
+   "type": "ref"
+  },
+  {
+   "s": "hai",
+   "t": "posts/legacy/16-chuong-13-buoi-hoc-dau",
+   "type": "ref"
+  },
+  {
+   "s": "hai",
+   "t": "posts/legacy/03-chuong-01-den-vang",
+   "type": "ref"
+  },
+  {
+   "s": "hai",
+   "t": "posts/legacy/06-chuong-04-san-tro",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc",
+   "t": "cau-hoi",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc",
+   "t": "00-quyet-dinh-v2",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc",
+   "t": "01-mach-truyen-v2",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc",
+   "t": "02-hoi-dong-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc",
+   "t": "03-kho-nhi-thich-thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc",
+   "t": "brief-tinh-cam-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc",
+   "t": "01c-rules-thanh-phan",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc",
+   "t": "danh-sach-chuong-mo-dau",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc",
+   "t": "02-mach-truyen",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc",
+   "t": "11-dan-y-phan-1",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc",
+   "t": "brief-giai-doan-2",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc",
+   "t": "handoff",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc",
+   "t": "lich-su-hoi-thoai",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc",
+   "t": "quy-trinh",
+   "type": "ref"
+  },
+  {
+   "s": "lich-su-hoi-thoai",
+   "t": "01c-rules-thanh-phan",
+   "type": "ref"
+  },
+  {
+   "s": "lich-su-hoi-thoai",
+   "t": "posts/legacy/17b-hong-canh-sen",
+   "type": "ref"
+  },
+  {
+   "s": "lich-su-hoi-thoai",
+   "t": "posts/legacy/20b-xanh-co-vit",
+   "type": "ref"
+  },
+  {
+   "s": "lich-su-hoi-thoai",
+   "t": "posts/legacy/21b-anh-xanh-man-hinh",
+   "type": "ref"
+  },
+  {
+   "s": "lich-su-hoi-thoai",
+   "t": "posts/legacy/21c-mau-be",
+   "type": "ref"
+  },
+  {
+   "s": "lich-su-hoi-thoai",
+   "t": "posts/legacy/24b-do-sam",
+   "type": "ref"
+  },
+  {
+   "s": "lich-su-hoi-thoai",
+   "t": "posts/legacy/26b-vang-kim",
+   "type": "ref"
+  },
+  {
+   "s": "lich-su-hoi-thoai",
+   "t": "posts/legacy/27b-hong",
+   "type": "ref"
+  },
+  {
+   "s": "lich-su-hoi-thoai",
+   "t": "posts/legacy/27c-nau-ca-phe",
+   "type": "ref"
+  },
+  {
+   "s": "posts/truyennhaong.vn/convert",
+   "t": "posts/rookies.vn/convert",
+   "type": "ref"
+  },
+  {
+   "s": "chui-bay-thiet-ke",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "chui-bay-thiet-ke",
+   "t": "thuyen-cai-toi-doc-co-che",
+   "type": "ref"
+  },
+  {
+   "s": "goi-ten-cam-xuc",
+   "t": "rm-x11-dem-say",
+   "type": "ref"
+  },
+  {
+   "s": "goi-ten-cam-xuc",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "goi-ten-cam-xuc",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "goi-ten-cam-xuc",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "goi-ten-cam-xuc",
+   "t": "thuyen-co-may",
+   "type": "ref"
+  },
+  {
+   "s": "goi-ten-cam-xuc",
+   "t": "qk-t-plan-viet-lai-quang-1-v2",
+   "type": "ref"
+  },
+  {
+   "s": "goi-ten-cam-xuc",
+   "t": "rm-handoff",
+   "type": "ref"
+  },
+  {
+   "s": "registers",
+   "t": "kien-truc",
+   "type": "ref"
+  },
+  {
+   "s": "registers",
+   "t": "tuyen/README",
+   "type": "ref"
+  },
+  {
+   "s": "registers",
+   "t": "thuyen-co-may",
+   "type": "ref"
+  },
+  {
+   "s": "registers",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "schema.article",
+   "t": "schema.law",
+   "type": "ref"
+  },
+  {
+   "s": "schema.article",
+   "t": "config.statuses",
+   "type": "ref"
+  },
+  {
+   "s": "schema.article",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "schema.chapter",
+   "t": "config.statuses",
+   "type": "ref"
+  },
+  {
+   "s": "schema.event",
+   "t": "config.calendar",
+   "type": "ref"
+  },
+  {
+   "s": "schema.event",
+   "t": "config.statuses",
+   "type": "ref"
+  },
+  {
+   "s": "schema.group",
+   "t": "config.ids",
+   "type": "ref"
+  },
+  {
+   "s": "schema.node",
+   "t": "config.ids",
+   "type": "ref"
+  },
+  {
+   "s": "schema.node",
+   "t": "schema.law",
+   "type": "ref"
+  },
+  {
+   "s": "schema.node",
+   "t": "schema.event",
+   "type": "ref"
+  },
+  {
+   "s": "schema.plan",
+   "t": "tuyen/README",
+   "type": "ref"
+  },
+  {
+   "s": "tuyen/README",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "tuyen/README",
+   "t": "cau-hoi",
+   "type": "ref"
+  },
+  {
+   "s": "tuyen/README",
+   "t": "tuyen/qua-khu/README",
+   "type": "ref"
+  },
+  {
+   "s": "tuyen/README",
+   "t": "th-handoff-x11-dem-say",
+   "type": "ref"
+  },
+  {
+   "s": "tuyen/README",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "tuyen/README",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "tuyen/README",
+   "t": "thuyen-da-nhan-cach",
+   "type": "ref"
+  },
+  {
+   "s": "tuyen/README",
+   "t": "ngan-sach-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "goc",
+   "t": "thuyen-co-may",
+   "type": "ref"
+  },
+  {
+   "s": "goc",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "tuyen/qua-khu/README",
+   "t": "cay-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "tuyen/qua-khu/README",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "tuyen/qua-khu/README",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "tuyen/qua-khu/README",
+   "t": "thuyen-da-nhan-cach",
+   "type": "ref"
+  },
+  {
+   "s": "tuyen/qua-khu/README",
+   "t": "nhi",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "bible-v2",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "01-mach-truyen-v2",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "03-kho-nhi-thich-thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "posts/legacy/21c-mau-be",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "posts/legacy/27b-hong",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "posts/legacy/24b-do-sam",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "posts/legacy/26b-vang-kim",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "02-hoi-dong-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "qk-t-plan-ch1-het-cap-2",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "posts/legacy/05b-hong-phan",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "posts/legacy/06b-mau-giay-can",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "posts/legacy/09b-kem-vien-nhu-vang",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "posts/legacy/10b-hong-dat",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "posts/vercel/02b-xanh-matcha",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "posts/vercel/03b-mau-giay-can",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "posts/vercel/04b-kem-vien-nhu-vang",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "posts/vercel/05b-hong-dat",
+   "type": "ref"
+  },
+  {
+   "s": "nhi",
+   "t": "qk-t-ra-soat-thu-v6",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-adhd",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-adhd",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-adhd",
+   "t": "thuyen-cai-toi-doc-co-che",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-adhd",
+   "t": "goi-ten-cam-xuc",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-adhd",
+   "t": "qk-t-plan-viet-lai-quang-1-v3",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-cai-toi-doc-co-che",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-cai-toi-doc-co-che",
+   "t": "thuyen-da-nhan-cach",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-cai-toi-doc-co-che",
+   "t": "qk-t-plan-ch1-het-cap-2",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-cai-toi-doc-co-che",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-cai-toi-doc-co-che",
+   "t": "posts/legacy/12-chuong-09-den-san-khong-tat",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-cai-toi-doc-co-che",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-cai-toi-doc-co-che",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-cai-toi-doc-co-che",
+   "t": "qk-t-plan-viet-lai-quang-1-v3",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-co-may",
+   "t": "thuyen-lang-kinh",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-co-may",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-co-may",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-co-may",
+   "t": "thuyen-da-nhan-cach",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-da-nhan-cach",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-da-nhan-cach",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-da-nhan-cach",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-da-nhan-cach",
+   "t": "01d-rules-thoai-than-mat",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-da-nhan-cach",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-hai-cai-toi",
+   "t": "thuyen-lang-kinh",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-hai-cai-toi",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-hai-cai-toi",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-lang-kinh",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-lang-kinh",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-lang-kinh",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-lang-kinh",
+   "t": "M-tu-suy-dien",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-lang-kinh",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-lang-kinh",
+   "t": "goi-ten-cam-xuc",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-lang-kinh",
+   "t": "th-mang-luoi-loi-ich",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-nhi",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-nhi",
+   "t": "nhi",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-nhi",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-nhi",
+   "t": "brief-tinh-cam-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-nhi",
+   "t": "03-kho-nhi-thich-thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-nhi",
+   "t": "rm-handoff",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-nhi",
+   "t": "thuyen-lang-kinh",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-nhi",
+   "t": "rm-x11-dem-say",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-nhi",
+   "t": "qk-t-plan-ch1-het-cap-2",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-nhi",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "vu",
+   "t": "qk-t-plan-ch1-het-cap-2",
+   "type": "ref"
+  },
+  {
+   "s": "vu",
+   "t": "bible-v2",
+   "type": "ref"
+  },
+  {
+   "s": "vu",
+   "t": "01-mach-truyen-v2",
+   "type": "ref"
+  },
+  {
+   "s": "vu",
+   "t": "posts/vercel/01-chuong-01-den-vang",
+   "type": "ref"
+  },
+  {
+   "s": "vu",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  }
+ ]
+}

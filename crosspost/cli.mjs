@@ -23,6 +23,7 @@ import { join } from 'node:path';
 import { selectByRange, canSync, STATE_LABEL } from './core/crosspost.ts';
 import { checkConversion } from './core/checks.ts';
 import { CROSS, db, loadRows, must, siteConfig } from './core/data.mjs';
+import { ROOT, siteDir } from '../scripts/paths.mjs';
 
 const [cmd, site, ...rest] = process.argv.slice(2);
 const flags = new Map();
@@ -53,7 +54,7 @@ try {
 }
 
 const workDir = join(CROSS, 'work', site);
-const outDir = join(CROSS, 'out', site);
+const outDir = join(ROOT, siteDir(site));
 const manifestPath = join(workDir, 'manifest.json');
 const fileBase = (r) => `${String(r.chapter.position).padStart(3, '0')}-${r.chapter.slug}`;
 const label = (r) => r.title;
@@ -121,8 +122,8 @@ async function cmdPull() {
       `<!-- crosspost source · ${site}`,
       `chapter: ${r.title}   (title and date are added by code: do not write them)`,
       `slug: ${r.chapter.slug}`,
-      `rules: crosspost/sites/${site}/convert.md`,
-      `write the converted body to: crosspost/out/${site}/${base}.txt`,
+      `rules: ${siteDir(site)}/convert.md`,
+      `write the converted body to: ${siteDir(site)}/${base}.txt`,
       `-->`,
     ].join('\n');
     await writeFile(join(workDir, `${base}.source.md`), header + '\n' + (r.chapter.body ?? '').replace(/\r\n?/g, '\n'), 'utf8');
@@ -133,7 +134,7 @@ async function cmdPull() {
   await writeFile(manifestPath, JSON.stringify(manifest, null, 2) + '\n', 'utf8');
   const skipped = picked.length - todo.length;
   console.log(`Đã ghi ${todo.length} chương cần chuyển vào crosspost/work/${site}/${skipped ? ` (${skipped} chương đã có bản chuyển mới nhất: thêm --force để làm lại)` : ''}`);
-  for (const r of todo) console.log(`  ${fileBase(r)}.source.md  →  crosspost/out/${site}/${fileBase(r)}.txt`);
+  for (const r of todo) console.log(`  ${fileBase(r)}.source.md  →  ${siteDir(site)}/${fileBase(r)}.txt`);
   const outside = pick(rows).filter((r) => r.live && !r.eligible && !anyChapter).length;
   if (outside) console.log(`(${outside} chương nằm ngoài giới hạn đăng của trang này nên không lấy: thêm --any nếu vẫn muốn chuyển)`);
 }
@@ -149,7 +150,7 @@ async function cmdCheck() {
   for (const [, m] of entries) {
     const outPath = join(outDir, `${m.file}.txt`);
     if (!existsSync(outPath)) {
-      console.log(`  …  ${m.title}: chưa có bản chuyển (crosspost/out/${site}/${m.file}.txt)`);
+      console.log(`  …  ${m.title}: chưa có bản chuyển (${siteDir(site)}/${m.file}.txt)`);
       continue;
     }
     const source = stripHeader(await readFile(join(workDir, `${m.file}.source.md`), 'utf8'));

@@ -1,9 +1,9 @@
 #!/usr/bin/env node
-// Adds the translation markers from docs/ban-dich-de-xuat.md to the chapter
-// files in content/import, so English and Hà Tĩnh lines become tappable.
+// Adds the translation markers from content/ban-dich-de-xuat.md to the chapter
+// files in content/posts/legacy, so English and Hà Tĩnh lines become tappable.
 //
 //   npm run translations -- --dry-run   # show what would change
-//   npm run translations                # edit content/import/*.md
+//   npm run translations                # edit content/posts/legacy/*.md
 //   npm run import -- --overwrite       # then push the edited files to the site
 //
 // How it works:
@@ -20,8 +20,10 @@ import { parseChapter } from './parse-chapter.mjs';
 
 const args = process.argv.slice(2);
 const dryRun = args.includes('--dry-run');
-const listPath = 'docs/ban-dich-de-xuat.md';
-const folder = 'content/import';
+import { EDITION_DIRS, TRANSLATION_LIST } from './paths.mjs';
+
+const listPath = TRANSLATION_LIST;
+const folder = EDITION_DIRS.v1;
 
 const MARKER_RE = /\[\[(en|ht):[ \t]*((?:(?!\|\||\]\])[\s\S])+?)[ \t]*\|\|[ \t]*((?:(?!\]\])[\s\S])+?)[ \t]*\]\]/g;
 const NOTES_RE = /^\*\*Chú thích giọng Hà Tĩnh\*\*/m;

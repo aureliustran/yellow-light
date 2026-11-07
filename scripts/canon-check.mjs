@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-// canon:check v1 — bộ chạy luật cho docs/ (xem docs/de-xuat/kien-truc-framework.md §12).
-// Không phụ thuộc gói ngoài. Quét docs/**/*.md, chạy luật, sinh view.
+// canon:check v1 — bộ chạy luật cho content/ (xem content/de-xuat/kien-truc-framework.md §12).
+// Không phụ thuộc gói ngoài. Quét content/**/*.md, chạy luật, sinh view.
 //
 //   node scripts/canon-check.mjs                    chạy mọi luật + sinh view
 //   node scripts/canon-check.mjs --law resolve      chỉ một luật (khớp theo đuôi id)
@@ -8,20 +8,20 @@
 //   node scripts/canon-check.mjs --no-write         không ghi view
 //   node scripts/canon-check.mjs --strict           cảnh báo cũng làm lệnh thất bại
 //
-// Luật cấu trúc ở đây là mã; B3+ chuyển thành file LAW.check.*.md trong docs/rules/check/.
+// Luật cấu trúc ở đây là mã; B3+ chuyển thành file LAW.check.*.md trong content/rules/check/.
 
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const DOCS = path.join(ROOT, 'docs');
+const CONTENT = path.join(ROOT, 'content');
 
 // ---------- cấu hình ----------
 // Thư mục đã chuyển sang khuôn mới: lỗi là error. Ngoài danh sách này (legacy) chỉ là warn.
 const MIGRATED = ['config', 'schemas'];
 // Không quét, hoặc không sinh cạnh.
-const SKIP_DIRS = new Set(['.obsidian', '_views', 'node_modules', '.git']);
+const SKIP_DIRS = new Set(['.obsidian', '_views', '_archive', 'node_modules', '.git']);
 const GENERATED = new Set(['symbols.md']);
 // Thư mục mà liên kết treo không bị báo (tư liệu cũ).
 const RESOLVE_EXEMPT = ['assets', 'kho'];
@@ -95,15 +95,15 @@ function stripCode(body) {
     .replace(/`[^`\n]*`/g, (m) => ' '.repeat(m.length));
 }
 
-const files = walk(DOCS).filter((p) => !GENERATED.has(path.relative(DOCS, p).replace(/\\/g, '/')));
+const files = walk(CONTENT).filter((p) => !GENERATED.has(path.relative(CONTENT, p).replace(/\\/g, '/')));
 const items = files.map((abs) => {
-  const rel = path.relative(DOCS, abs).replace(/\\/g, '/');
+  const rel = path.relative(CONTENT, abs).replace(/\\/g, '/');
   const text = fs.readFileSync(abs, 'utf8');
   const { fm, body, bodyStart } = splitFrontmatter(text);
   const props = parseFm(fm);
   const base = path.basename(rel, '.md');
   const top = rel.includes('/') ? rel.split('/')[0] : '(root)';
-  const id = props.id || (base === 'README' ? rel.replace(/\.md$/, '') : base);
+  const id = props.id || (base === 'README' || top === 'posts' ? rel.replace(/\.md$/, '') : base);
   const title = (body.match(/^#\s+(.+)$/m) || [null, base])[1].trim();
   return { abs, rel, text, fm, body, bodyStart, props, base, top, id, title, hasFm: fm !== null };
 });
@@ -119,7 +119,7 @@ for (const it of items) {
 function resolve(target) {
   const direct = byKey.get(target);
   if (direct) return [...new Set(direct)];
-  // khớp theo đuôi đường dẫn: lib/style/x ↔ docs/lib/style/x.md
+  // khớp theo đuôi đường dẫn: lib/style/x ↔ content/lib/style/x.md
   const hits = items.filter((it) => it.rel.replace(/\.md$/, '').endsWith('/' + target) || it.rel.replace(/\.md$/, '') === target);
   return hits;
 }
@@ -158,7 +158,7 @@ for (const it of items) {
   it.refs = new Set();
   const text = it.body;
   for (const re of REF_RES) for (const m of text.matchAll(re)) {
-    const t = m[1].replace(/^(\.\.?\/)+/, '').replace(/^docs\//, '').replace(/\.md$/, '');
+    const t = m[1].replace(/^(\.\.?\/)+/, '').replace(/^(docs|content)\//, '').replace(/\.md$/, '');
     const hits = resolve(t);
     if (hits.length === 1 && hits[0] !== it) it.refs.add(hits[0]);
   }
@@ -178,7 +178,7 @@ law('LAW.check.unique-id', () => {
   }
   for (const [id, list] of ids) if (list.length > 1) for (const it of list) add('LAW.check.unique-id', sev(it), it, 1, `id "${id}" trùng với ${list.filter((x) => x !== it).map((x) => x.rel).join(', ')}`);
   const bases = new Map();
-  for (const it of items) { if (it.base === 'README') continue; (bases.get(it.base) || bases.set(it.base, []).get(it.base)).push(it); }
+  for (const it of items) { if (it.base === 'README' || it.base === 'convert') continue; (bases.get(it.base) || bases.set(it.base, []).get(it.base)).push(it); }
   for (const [b, list] of bases) if (list.length > 1) for (const it of list) add('LAW.check.unique-id', 'warn', it, 1, `tên file "${b}" trùng với ${list.filter((x) => x !== it).map((x) => x.rel).join(', ')}`);
 });
 
@@ -290,7 +290,7 @@ function writeSymbols() {
     `Có phần đầu (frontmatter): ${rows.length} file. Chưa chuyển sang khuôn mới (legacy): ${legacy} file.`, '',
     '| Mã | Loại | Trạng thái | File | Tóm tắt |', '| --- | --- | --- | --- | --- |', ...rows, '',
   ].join('\n');
-  fs.writeFileSync(path.join(DOCS, 'symbols.md'), out);
+  fs.writeFileSync(path.join(CONTENT, 'symbols.md'), out);
 }
 
 // ---------- view: graph.json + graph.html ----------
@@ -299,9 +299,10 @@ const LAYERS = {
   storylines: 'storylines', plans: 'plans', canon: 'canon', proposals: 'proposals', 'de-xuat': 'proposals',
   audits: 'audits', assets: 'assets', kho: 'assets', tuyen: 'storylines',
 };
+const LAYERS_POSTS = { vercel: 'posts-vercel', legacy: 'posts-legacy' };
 function buildGraph() {
   const nodes = items.map((it) => ({
-    id: it.id, path: it.rel, title: it.title, layer: LAYERS[it.top] || 'legacy', kind: it.props.kind || '',
+    id: it.id, path: it.rel, title: it.title, layer: it.top === 'posts' ? (LAYERS_POSTS[it.rel.split('/')[1]] || 'crosspost') : (LAYERS[it.top] || 'legacy'), kind: it.props.kind || '',
     status: it.props.status || '', weight: parseWeight(it.props.weight), effective: it.props.effective || '',
   }));
   const idOf = new Map(items.map((it) => [it, it.id]));
@@ -326,10 +327,10 @@ function buildGraph() {
 }
 function writeGraph() {
   const g = buildGraph();
-  fs.mkdirSync(path.join(DOCS, '_views'), { recursive: true });
-  fs.writeFileSync(path.join(DOCS, '_views', 'graph.json'), JSON.stringify(g, null, 1));
+  fs.mkdirSync(path.join(CONTENT, '_views'), { recursive: true });
+  fs.writeFileSync(path.join(CONTENT, '_views', 'graph.json'), JSON.stringify(g, null, 1));
   const tpl = fs.readFileSync(path.join(path.dirname(fileURLToPath(import.meta.url)), 'graph-template.html'), 'utf8');
-  fs.writeFileSync(path.join(DOCS, '_views', 'graph.html'), tpl.replace('/*__GRAPH_DATA__*/null', JSON.stringify(g).replace(/</g, '\\u003c')));
+  fs.writeFileSync(path.join(CONTENT, '_views', 'graph.html'), tpl.replace('/*__GRAPH_DATA__*/null', JSON.stringify(g).replace(/</g, '\\u003c')));
   return g;
 }
 
@@ -348,7 +349,7 @@ const LIMIT = FLAG('--all') ? Infinity : Number(opt('--limit') || 40);
 let printed = 0;
 for (const f of shown) {
   if (printed >= LIMIT) break;
-  console.log(`${f.severity.toUpperCase().padEnd(5)} ${f.law}  docs/${f.file}:${f.line}  ${f.msg}`);
+  console.log(`${f.severity.toUpperCase().padEnd(5)} ${f.law}  content/${f.file}:${f.line}  ${f.msg}`);
   printed++;
 }
 if (shown.length > printed) console.log(`… còn ${shown.length - printed} mục (dùng --all hoặc --limit N)`);

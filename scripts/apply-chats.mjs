@@ -1,8 +1,8 @@
 #!/usr/bin/env node
-// Turns the text-message passages in content/import into chat bubbles.
+// Turns the text-message passages in content/posts/legacy into chat bubbles.
 //
 //   npm run chats -- --dry-run   # show what would change
-//   npm run chats                # edit content/import/*.md
+//   npm run chats                # edit content/posts/legacy/*.md
 //   npm run import -- --overwrite
 //
 // In the chapter files a text message is a whole line in italics:
@@ -19,7 +19,9 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 
-const folder = 'content/import';
+import { EDITION_DIRS } from './paths.mjs';
+
+const folder = EDITION_DIRS.v1;
 const dryRun = process.argv.includes('--dry-run');
 
 const PASSAGES = {

@@ -2,7 +2,7 @@
 // One-time import of chapter files into the database.
 //
 //   npm run import                      # current edition's folder, published now
-//   npm run import -- --edition v2      # one edition: v1 = content/import, v2 = content/v2
+//   npm run import -- --edition v2      # one edition: v1 = content/posts/legacy, v2 = content/posts/vercel
 //   npm run import -- --draft           # import as drafts instead
 //   npm run import -- --dry-run         # show what would happen, change nothing
 //   npm run import -- --overwrite       # also replace chapters that already exist
@@ -23,7 +23,7 @@ import { adminClient } from './env.mjs';
 import { parseChapter } from './parse-chapter.mjs';
 import { interludeColors, editions, isEdition } from '../src/config.ts';
 
-const FOLDERS = { v1: 'content/import', v2: 'content/v2' };
+import { EDITION_DIRS as FOLDERS } from './paths.mjs';
 
 const args = process.argv.slice(2);
 const at = args.indexOf('--edition');

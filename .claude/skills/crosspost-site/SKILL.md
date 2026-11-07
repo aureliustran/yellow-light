@@ -22,7 +22,7 @@ anything.
 | `crosspost/cli.mjs`, `crosspost/worker.mjs` | Commands and the posting loop; load `sites/<site>/adapter.mjs` dynamically | no |
 | `crosspost/sites/<site>/config.json` | Name, footer templates, foreword, site options | **yes** |
 | `crosspost/sites/<site>/adapter.mjs` | Everything that depends on the site's pages | **yes** |
-| `crosspost/sites/<site>/convert.md` | Conversion rules Claude follows | **yes** |
+| `content/posts/<domain>/convert.md` | Conversion rules Claude follows | **yes** |
 | `supabase/migrations/0005_*.sql`, `0006_*.sql` | Tables, RLS, enqueue/claim/cancel functions | row per site |
 | `src/pages/admin/crosspost.astro`, `src/scripts/crosspost-admin.ts` | Admin UI | currently hard-coded to rookies |
 | `tests/crosspost.test.ts` | `npm test` | add cases |
@@ -55,7 +55,7 @@ in core. Never put site quirks in core.
    - `remoteViewUrl`, and a key named after the site for adapter options
      (story id/slug, delays, menu labels, proxy)
 3. **`sites/<site>/adapter.mjs`** — implement the contract below.
-4. **`sites/<site>/convert.md`** — start from rookies' file; rewrite "What the
+4. **`content/posts/<domain>/convert.md`** — start from rookies' file; rewrite "What the
    site can show" from step 1, and the per-block rules accordingly. Keep the
    workflow and "change markup only" sections word for word.
 5. **Database** — a new migration (never edit applied ones) inserting the

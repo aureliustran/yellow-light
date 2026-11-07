@@ -24,7 +24,7 @@ after . ! ?). Đèn Vàng's chapters measure at most ~4 / 1000.
    (`linksAllowed: false` in config.json → no footer, worker and checker refuse links,
    story intro sync refuses links). Turn on only after the BTV agrees, then fill
    `footer.next/last/home` as wanted.
-2. Presentation rules: `convert.md`.
+2. Presentation rules: `content/posts/truyennhaong.vn/convert.md`.
 3. The tool never presses "Gửi duyệt", "Gửi duyệt độc quyền", "Yêu cầu xóa",
    "Khóa chương" or "Xóa". Submitting the work for review is the author's.
 

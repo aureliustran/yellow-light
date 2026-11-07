@@ -15,7 +15,7 @@
 #
 # Typical flow for a site:
 #   make rookies-pull-range-1-5       # writes files in crosspost/work/rookies/
-#   (Claude converts them following crosspost/sites/rookies/convert.md)
+#   (Claude converts them following content/posts/rookies.vn/convert.md)
 #   make rookies-check                # check the conversions and save them
 #   make rookies-queue-range-1-5      # or queue from /admin/crosspost
 #   make rookies-worker               # leave running; it posts the queue
@@ -77,16 +77,16 @@ import-reorder: ## Import and put chapters in file-name order
 import-overwrite-reorder: ## Import and replace chapters that already exist and put them in file-name order
 	npm run import -- --overwrite --reorder
 
-import-v2-dry: ## Show what importing content/v2 (edition v2) would do
+import-v2-dry: ## Show what importing content/posts/vercel (edition v2) would do
 	npm run import -- --edition v2 --dry-run
 
-import-v2-draft: ## Import content/v2 into edition v2 as drafts, in file-name order
+import-v2-draft: ## Import content/posts/vercel into edition v2 as drafts, in file-name order
 	npm run import -- --edition v2 --draft --reorder
 
 export: ## Export all chapters to backup/chapters/<edition>
 	npm run export
 
-translations: ## Mark translations in content/import
+translations: ## Mark translations in content/posts/legacy
 	npm run translations
 
 translations-dry: ## Show what translations would change
