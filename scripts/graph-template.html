@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Đèn vàng – đồ thị framework</title>
+<style>
+  :root { --bg:#fafaf7; --fg:#1d1d1b; --mut:#6b6a63; --panel:#ffffffcc; --line:#d9d7cc; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#17171a; --fg:#ecebe4; --mut:#9a988e; --panel:#202024cc; --line:#34343a; } }
+  html,body { margin:0; height:100%; background:var(--bg); color:var(--fg); font:14px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif; }
+  canvas { display:block; width:100vw; height:100vh; cursor:grab; }
+  .panel { position:fixed; background:var(--panel); backdrop-filter:blur(6px); border:1px solid var(--line); border-radius:10px; padding:10px 12px; }
+  #top { top:12px; left:12px; right:12px; display:flex; gap:14px; align-items:center; flex-wrap:wrap; }
+  #top b { font-weight:600; }
+  #phases { display:flex; gap:6px; flex-wrap:wrap; }
+  #phases button { border:1px solid var(--line); background:transparent; color:var(--fg); border-radius:999px; padding:3px 11px; cursor:pointer; font:inherit; }
+  #phases button[aria-pressed="true"] { background:var(--fg); color:var(--bg); }
+  #legend { left:12px; bottom:12px; max-width:240px; }
+  #legend div { display:flex; align-items:center; gap:8px; margin:2px 0; color:var(--mut); }
+  #legend i { width:10px; height:10px; border-radius:50%; display:inline-block; }
+  #legend s { width:18px; height:0; border-top:2px solid; display:inline-block; }
+  #info { right:12px; bottom:12px; width:min(340px, calc(100vw - 24px)); display:none; }
+  #info h3 { margin:0 0 4px; font-size:15px; }
+  #info code { font-size:12px; color:var(--mut); word-break:break-all; }
+  #info ul { margin:6px 0 0; padding-left:18px; max-height:30vh; overflow:auto; }
+  #info li { cursor:pointer; } #info li:hover { text-decoration:underline; }
+  #stat { color:var(--mut); }
+  #hint { color:var(--mut); margin-left:auto; }
+  @media (max-width:640px) { #legend { display:none; } #hint { display:none; } }
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<div id="top" class="panel">
+  <b>Đèn vàng · framework</b>
+  <div id="phases" role="group" aria-label="Giai đoạn"></div>
+  <span id="stat"></span>
+  <span id="hint">Kéo để di chuyển · cuộn để thu phóng · bấm một nút để xem hàng xóm</span>
+</div>
+<div id="legend" class="panel"></div>
+<div id="info" class="panel"></div>
+<script>
+const DATA = /*__GRAPH_DATA__*/null;
+const LAYER = {
+  foundation:['#8a8f98','Nền (config, schemas)'], core:['#d1495b','Lõi (axes, hiến pháp)'], rules:['#ed8a2b','Luật'],
+  lib:['#d9b92a','Thư viện kỹ thuật'], world:['#3f9d5b','Thế giới (tĩnh)'], storylines:['#3b78d8','Storylines (động)'],
+  plans:['#7a5cc7','Plans'], canon:['#2a9d9d','Canon'], proposals:['#d86aa8','Đề xuất'], audits:['#8b6f47','Rà soát'],
+  assets:['#a89f8a','Tư liệu'], legacy:['#b9b6ab','Chưa chuyển (legacy)'],
+};
+const EDGE = { ref:['#b9b6ab','ref (đường dẫn)'], link:['#9a988e','link'], parent:['#3b78d8','parent'], participants:['#3f9d5b','participants'], uses:['#ed8a2b','uses'], basis:['#d1495b','basis'], exports:['#7a5cc7','exports'], calls:['#2a9d9d','calls'], causes:['#d86aa8','causes'] };
+const RANK = { D:1, C:2, B:3, A:4, S:5, SS:6, 'SS+':7, SSS:8 };
+const PH = DATA.phases;
+let phase = 'all';
+
+const cv = document.getElementById('c'), ctx = cv.getContext('2d');
+let W, H, dpr = Math.max(1, window.devicePixelRatio || 1);
+function resize() { W = innerWidth; H = innerHeight; cv.width = W*dpr; cv.height = H*dpr; }
+addEventListener('resize', resize); resize();
+
+const nodes = DATA.nodes.map((n, i) => ({ ...n, i, x:(Math.random()-.5)*600, y:(Math.random()-.5)*600, vx:0, vy:0, deg:0 }));
+const byId = new Map(nodes.map(n => [n.id, n]));
+const edges = DATA.edges.map(e => ({ ...e, a: byId.get(e.s), b: byId.get(e.t) })).filter(e => e.a && e.b);
+for (const e of edges) { e.a.deg++; e.b.deg++; }
+const nbr = new Map(nodes.map(n => [n.id, new Set()]));
+for (const e of edges) { nbr.get(e.s).add(e.t); nbr.get(e.t).add(e.s); }
+
+// trạng thái theo giai đoạn
+function parseEff(s) {
+  if (!s) return null;
+  const f = s.match(/(OPEN|P1|P2|BREAK|AFTER|POST)/g);
+  if (!f) return null;
+  const a = PH.indexOf(f[0]), b = PH.indexOf(f[f.length-1]);
+  return [a, b];
+}
+function stateAt(n) {
+  if (phase === 'all') return { active:true, size:1 };
+  const pi = PH.indexOf(phase);
+  const eff = parseEff(n.effective);
+  if (eff && (pi < eff[0] || pi > eff[1])) return { active:false, size:1 };
+  const w = n.weight && n.weight[phase];
+  if (w === 'none') return { active:false, size:1 };
+  if (w && RANK[w]) return { active:true, size:0.8 + RANK[w]*0.18 };
+  return { active:true, size:1 };
+}
+
+// bố cục lực
+function step() {
+  const N = nodes.length;
+  for (let i = 0; i < N; i++) for (let j = i+1; j < N; j++) {
+    const a = nodes[i], b = nodes[j]; let dx = a.x-b.x, dy = a.y-b.y; let d2 = dx*dx+dy*dy+0.01;
+    if (d2 > 90000) continue;
+    const f = 2600/d2, d = Math.sqrt(d2); dx/=d; dy/=d;
+    a.vx += dx*f; a.vy += dy*f; b.vx -= dx*f; b.vy -= dy*f;
+  }
+  for (const e of edges) {
+    let dx = e.b.x-e.a.x, dy = e.b.y-e.a.y; const d = Math.sqrt(dx*dx+dy*dy)+0.01;
+    const f = (d-90)*0.012; dx/=d; dy/=d;
+    e.a.vx += dx*f; e.a.vy += dy*f; e.b.vx -= dx*f; e.b.vy -= dy*f;
+  }
+  for (const n of nodes) { n.vx -= n.x*0.006; n.vy -= n.y*0.006; n.vx*=0.82; n.vy*=0.82; if (n !== drag) { n.x += n.vx; n.y += n.vy; } }
+}
+
+// camera
+let cam = { x:0, y:0, k:1 };
+const toS = (x,y) => [(x-cam.x)*cam.k + W/2, (y-cam.y)*cam.k + H/2];
+const toW = (x,y) => [(x-W/2)/cam.k + cam.x, (y-H/2)/cam.k + cam.y];
+let sel = null, drag = null, pan = null, hover = null;
+function radius(n) { return (4 + Math.min(10, Math.sqrt(n.deg)*2.2)) * stateAt(n).size; }
+
+function draw() {
+  ctx.setTransform(dpr,0,0,dpr,0,0); ctx.clearRect(0,0,W,H);
+  const focus = sel ? new Set([sel.id, ...nbr.get(sel.id)]) : null;
+  ctx.lineWidth = 1;
+  for (const e of edges) {
+    const sa = stateAt(e.a), sb = stateAt(e.b);
+    const on = sa.active && sb.active && (!focus || (focus.has(e.s) && focus.has(e.t)));
+    ctx.globalAlpha = on ? 0.55 : 0.07; ctx.strokeStyle = (EDGE[e.type] || EDGE.link)[0];
+    const [x1,y1] = toS(e.a.x,e.a.y), [x2,y2] = toS(e.b.x,e.b.y);
+    ctx.beginPath(); ctx.moveTo(x1,y1); ctx.lineTo(x2,y2); ctx.stroke();
+  }
+  for (const n of nodes) {
+    const st = stateAt(n); const on = st.active && (!focus || focus.has(n.id));
+    const [x,y] = toS(n.x,n.y); const r = radius(n)*Math.max(.6,Math.min(1.6,cam.k));
+    ctx.globalAlpha = on ? 1 : 0.14; ctx.fillStyle = (LAYER[n.layer]||LAYER.legacy)[0];
+    ctx.beginPath(); ctx.arc(x,y,r,0,7); ctx.fill();
+    if (n === sel || n === hover) { ctx.lineWidth = 2; ctx.strokeStyle = getComputedStyle(document.body).color; ctx.stroke(); }
+    if (on && (n === sel || n === hover || (cam.k > 1.15 && n.deg > 1) || (cam.k > 1.8))) {
+      ctx.globalAlpha = 1; ctx.fillStyle = getComputedStyle(document.body).color; ctx.font = '12px system-ui,sans-serif'; ctx.fillText(n.id.length > 30 ? n.id.slice(0,29)+'…' : n.id, x+r+4, y+4);
+    }
+  }
+  ctx.globalAlpha = 1;
+}
+let ticks = 0;
+function fit() {
+  let x0=1e9,x1=-1e9,y0=1e9,y1=-1e9; for (const n of nodes) { x0=Math.min(x0,n.x); x1=Math.max(x1,n.x); y0=Math.min(y0,n.y); y1=Math.max(y1,n.y); }
+  cam.x=(x0+x1)/2; cam.y=(y0+y1)/2; cam.k=Math.max(.3, Math.min(2, 0.9*Math.min(W/(x1-x0+80), (H-120)/(y1-y0+80))));
+}
+(function loop() { if (ticks < 500 || drag) { step(); ticks++; if (ticks === 500) fit(); } draw(); requestAnimationFrame(loop); })();
+
+function pick(mx, my) {
+  let best = null, bd = 1e9;
+  for (const n of nodes) { const [x,y] = toS(n.x,n.y); const d = Math.hypot(x-mx,y-my); if (d < radius(n)*Math.max(.6,cam.k)+4 && d < bd) { best = n; bd = d; } }
+  return best;
+}
+cv.addEventListener('pointerdown', e => { const n = pick(e.clientX,e.clientY); if (n) { drag = n; ticks = 0; } else pan = { x:e.clientX, y:e.clientY, cx:cam.x, cy:cam.y }; cv.setPointerCapture(e.pointerId); cv.style.cursor = 'grabbing'; moved = false; });
+let moved = false;
+cv.addEventListener('pointermove', e => {
+  if (drag) { [drag.x, drag.y] = toW(e.clientX,e.clientY); moved = true; }
+  else if (pan) { cam.x = pan.cx - (e.clientX-pan.x)/cam.k; cam.y = pan.cy - (e.clientY-pan.y)/cam.k; moved = true; }
+  else hover = pick(e.clientX,e.clientY);
+});
+cv.addEventListener('pointerup', e => { if (!moved) select(pick(e.clientX,e.clientY)); drag = null; pan = null; cv.style.cursor = 'grab'; });
+cv.addEventListener('wheel', e => { e.preventDefault(); const k = Math.exp(-e.deltaY*0.0012); const [wx,wy] = toW(e.clientX,e.clientY); cam.k = Math.max(.25, Math.min(5, cam.k*k)); const [nx,ny] = toW(e.clientX,e.clientY); cam.x += wx-nx; cam.y += wy-ny; }, { passive:false });
+
+function select(n) {
+  sel = n; const el = document.getElementById('info');
+  if (!n) { el.style.display = 'none'; return; }
+  const st = stateAt(n);
+  const nb = [...nbr.get(n.id)].map(id => byId.get(id)).sort((a,b) => a.id.localeCompare(b.id));
+  const w = Object.entries(n.weight || {}).map(([k,v]) => k+' '+v).join(' · ');
+  el.style.display = 'block';
+  el.innerHTML = `<h3></h3><code></code><div style="margin-top:6px;color:var(--mut)"></div><ul></ul>`;
+  el.querySelector('h3').textContent = n.id;
+  el.querySelector('code').textContent = 'docs/' + n.path;
+  el.children[2].textContent = [n.kind, n.status, n.effective && ('hiệu lực ' + n.effective), w && ('mức ' + w), !st.active && '(không hoạt động ở giai đoạn này)'].filter(Boolean).join(' · ');
+  const ul = el.querySelector('ul');
+  for (const m of nb) { const li = document.createElement('li'); li.textContent = m.id; li.onclick = () => { select(m); [cam.x, cam.y] = [m.x, m.y]; }; ul.appendChild(li); }
+  if (!nb.length) { const li = document.createElement('li'); li.style.cursor='default'; li.textContent = 'chưa nối với ai'; ul.appendChild(li); }
+}
+
+// giao diện
+const phBox = document.getElementById('phases');
+['all', ...PH].forEach(p => { const b = document.createElement('button'); b.textContent = p === 'all' ? 'Tất cả' : p; b.setAttribute('aria-pressed', p === phase); b.onclick = () => { phase = p; [...phBox.children].forEach(x => x.setAttribute('aria-pressed', x === b)); stat(); if (sel) select(sel); }; phBox.appendChild(b); });
+function stat() { const act = nodes.filter(n => stateAt(n).active).length; document.getElementById('stat').textContent = `${act}/${nodes.length} nút · ${edges.length} cạnh · sinh ${DATA.generated}`; }
+stat();
+const lg = document.getElementById('legend');
+const used = new Set(nodes.map(n => n.layer));
+lg.innerHTML = Object.entries(LAYER).filter(([k]) => used.has(k)).map(([k,[c,t]]) => `<div><i style="background:${c}"></i>${t}</div>`).join('')
+  + '<div style="margin-top:6px"></div>' + Object.entries(EDGE).filter(([k]) => edges.some(e => e.type === k)).map(([k,[c,t]]) => `<div><s style="border-color:${c}"></s>${t}</div>`).join('');
+</script>
+</body>
+</html>

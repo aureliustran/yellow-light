@@ -15,6 +15,7 @@
     "translations": "node scripts/apply-translations.mjs",
     "chats": "node scripts/apply-chats.mjs",
     "blocks": "node scripts/apply-blocks.mjs",
+    "canon:check": "node scripts/canon-check.mjs",
     "crosspost": "node crosspost/cli.mjs",
     "crosspost:worker": "node crosspost/cli.mjs worker rookies",
     "crosspost:worker:truyennhaong": "node crosspost/cli.mjs worker truyennhaong",
