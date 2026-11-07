@@ -12,3 +12,7 @@ crosspost/node_modules/
 crosspost/.profile/
 crosspost/work/
 crosspost/logs/
+# Obsidian: shared config kept; personal state and downloaded plugin code ignored
+docs/.obsidian/workspace.json
+docs/.obsidian/workspaces.json
+docs/.obsidian/plugins/
