@@ -152,25 +152,249 @@ Anh kéo cái gối vào ngực. Nó cũng không đủ.
 
 ---
 
-Sáng ngày thứ mười hai, Vũ xuất hiện ở cổng sân lúc sáu giờ rưỡi, áo ba lỗ, băng đô buộc kiểu đô vật, mắt còn díp.
+Sáng ngày thứ mười một, sáu giờ, anh đứng trước bồn rửa, chưa vặn vòi. Trong gương là một người hai mươi tuổi, vai rộng, tóc chưa chải, quầng mắt đã nhạt sau mười ngày ngủ đủ.
 
-"[[ht: Bác tau bảo có thằng ngày mô cũng ra sân từ sáu giờ, ném một mình như thằng điên. Tau đoán là mi. || Bác tao bảo có thằng ngày nào cũng ra sân từ sáu giờ, ném một mình như thằng điên. Tao đoán là mày.]]"
+Ngủ đủ.
 
-"Tập thể dục."
+*Nghỉ thì nợ.*
 
-"[[ht: Trông như con cá bị bỏ lên bờ thì có. || Trông như con cá bị bỏ lên bờ thì có.]]"
+Anh không vặn vòi. Anh lấy giày, và không ra sân khu tập thể. Anh đạp xe sang sân sau nhà văn hóa phường bên kia hồ, chỗ không ai biết anh.
 
-"Cá hồi," anh nói. "Hết mùa đẻ trứng."
+Hội chơi sáng ở đó là mấy anh ba mươi tuổi, đi xe số, giày mòn đế. Họ thiếu người, gọi anh và hai cậu sinh viên ở rổ bên vào. Một cậu mập, đeo kính. Một cậu gầy, áo đồng phục còn in số báo danh.
 
-"Ngáo chó." Vũ ném chai nước cho anh, cầm lấy quả bóng. Nó không hỏi vì sao anh ở đây lúc sáu giờ sáng. Không hỏi thực tập thế nào. Nó đập bóng ba cái, giữ yên, nhìn rổ, rồi chuyền cho anh. "Ném đi. Đừng nghĩ."
+Ba đấu ba, nửa sân, đến mười một. Trong vạch một điểm, ngoài vạch hai điểm.
 
-Anh ném. Trượt. Ném. Trượt. Bảy lần.
+Áo đen to nhất sân, và cả sân biết thế. Đầu đinh, một mét tám lăm, chín mươi ký, ngực dày như cái thùng phuy, bắp chân to như hai cái cột. Hắn chơi chậm, tù, chỉ một kiểu: quay lưng, tì, ủi, để người kèm tự lùi. Kiểu ấy lần nào cũng được việc, vì không ai dám va vào hắn. Ai lỡ chạm, hắn hét lên như bị đánh, chửi cả người va lẫn người đứng gần. Giữa hai cậu sinh viên, hắn là người to nhất sân. Bóng vào tay hắn là không ra nữa. Cao gầy và râu đứng ngoài vạch chờ hắn ghi xong rồi vỗ tay.
+
+Anh chơi như vẫn chơi: đọc, chuyền.
+
+Áo đen không kèm anh. Hắn chọn kèm cậu mập.
+
+Hắn quay lưng ủi cậu mập vào sát rổ, một bước, hai bước, cho đến khi gót chân cậu chạm vạch cuối sân. Hắn móc bóng ngay trên đầu cậu, vào, rồi quay lại vỗ hai cái vào bụng cậu.
+
+"Thằng em khác đéo gì một cục thịt ba chỉ muốn chơi bóng không?" Hắn cười. "Tầm này ra chợ là thấy mấy cục thịt tương tự cũng đang treo yên như thằng em."
+
+Cao gầy và râu cười.
+
+Anh chuyền cho cậu gầy. Cậu ném, bóng không chạm vành.
+
+"Ném thế cũng đòi ném, thằng em. Bóng nó có làm gì mày đâu mà mày ghét nó thế?" râu nói.
+
+Pha sau, cậu mập có bóng. Áo đen áp sát, không chọc, chỉ đưa tay quạt qua quạt lại trước mắt kính cậu. Cậu đập bóng một nhịp rồi ôm bóng vào bụng. Áo đen gạt quả bóng khỏi tay cậu như gạt cái cốc khỏi bàn.
+
+"Nhìn thằng em cầm bóng như một quả bóng cầm một quả bóng khác."
+
+Bảy – hai.
+
+Lượt sau, cậu mập đứng giữa khu vực dưới rổ, hai tay buông thõng, để hắn đi qua.
+
+"Béo quá đéo chạy được à?" Áo đen chỉ tay ra ngoài vạch. "Cút con mẹ mày đi thằng em. Bố mày chơi sân này mười năm, chưa thấy thằng nào ăn hại như này."
+
+Cậu mập đứng im. Không đi ra. Không kèm. Đứng.
+
+*Nhìn nó đi. Nhìn cái dáng nó đứng, hai tay buông thõng, mắt nhìn xuống sàn, mày biết cái dáng ấy mà, tụi trong xóm bảo thế, đá bóng thì đứng như cột điện, đứng như cột điện, và nó đứng thật, đứng giữa sân đến lúc tan, như đứng ngoài cánh cổng hết bốn bài hát nhà bên, rồi gõ, ba cái, xin vào, mày ghét nó, mày ghét cái thằng ấy đến tận xương, nó chẳng có cái đéo gì để người ta sợ, nên người ta đánh, nên người ta cười, và bây giờ nó lại đứng đấy, mặc áo khác, đeo kính, mà vẫn là nó, và đứng trên đầu nó là một thằng tưởng cái sân này là của nó, một thằng tự xưng bố, một thằng chỉ dám đè lên đứa đứng như cột điện, một thằng ngồi ở chỗ mọi người vỗ tay cho nó, và mày định làm gì, mày định chuyền nữa à, cho cái thằng cột điện kia ném trượt nữa à, mày định đứng nhìn à, không, đéo bao giờ, trên một cái sân chỉ có một đứa mạnh nhất, và đứa ấy không phải nó.*
+
+*Hủy diệt.*
+
+Anh gọi bóng. Không chuyền nữa.
+
+Anh lao về phía rổ. Áo đen bỏ cậu mập, bước sang chặn. Lần đầu tiên trong buổi sáng, hắn nhìn anh. Hai người đứng gần ngang tầm mắt.
+
+Anh nhún vai giả lao. Hắn không cắn, vì chậm quá để cắn. Anh bật lên ném, và đầu ngón tay hắn quệt vào bóng. Bóng đi ngắn, đập mép vành, rơi vào tay râu.
+
+"À." Áo đen cười. "Thằng ranh chân dài biết chơi cơ đấy. Lên đây, bố mày dạy cho."
+
+Anh cười nhếch mép, không đáp.
+
+Râu ném ngoài vạch. Hai – chín.
+
+Anh lại gọi bóng. Áo đen kèm sát, tay trái tì lên hông anh, ngực tì vào vai anh.
+
+Anh lao.
+
+Ba bước đầu nhanh đến mức cái ngực đang tì vào vai anh đổ về phía trước, bàn tay trên hông chụp vào không khí. Rồi anh dừng. Không giảm tốc, mà dừng: hai bàn chân đóng xuống mặt sân cùng lúc, giày rít một tiếng dài, cả một mét tám ba đang lao tới bị bẻ thẳng lên trời. Áo đen vẫn còn chạy, trôi qua mặt anh nửa bước. Lúc hắn quay lại thì anh đã ở trên cao, cổ tay gập, bóng rời đầu ngón.
+
+Ba – chín.
+
+"Địt mẹ." Áo đen nhổ một bãi ra ngoài vạch.
+
+Hắn lùi nửa bước, hạ thấp người. Không đặt tay lên hông anh nữa.
+
+Bóng nảy dưới đầu gối anh, thấp đến mức tiếng bộp dồn thành một tràng. Anh đưa bóng sang trái. Vai đi theo, hông đi theo, mắt đi theo, cả người nói rằng anh sẽ đi trái.
+
+Bàn tay áo đen phóng tới.
+
+Quả bóng không đến tay trái. Nó dừng giữa không trung một khoảnh rồi giật ngược về tay phải, như bị kéo bằng dây chun.
+
+Chín mươi ký của áo đen đã dồn sang trái. Chân phải hắn đạp xuống để đổi hướng, mắt cá chân gập vào trong, và hắn ngồi phịch xuống sàn.
+
+Anh không đi qua hắn. Anh lùi. Một bước dài về phía sau, chân phải đạp, cả người trôi ra ngoài vạch, rồi bật. Hắn còn chưa chống tay dậy thì lưới đã kêu.
+
+Năm – chín.
+
+"Ôi vãi…" cậu gầy ở góc sân buột ra, rồi đưa tay bịt miệng.
+
+Áo đen đập lòng bàn tay xuống sàn. "Con tuất mày ngáng chân tao à?"
+
+Không ai trả lời. Hắn đứng dậy.
+
+"Đứng dậy đi mày," cao gầy nói, không cười nữa.
+
+Đột. Anh đâm thẳng vào cao gầy. Cao gầy cao ngang anh, nhưng mỏng hơn anh một vòng. Vai chạm ngực, một tiếng thịch, cao gầy lùi nửa bước. Hắn ép lại, ngực tì vào lưng anh, tay túm vạt áo. Anh dồn cả trọng lượng ra sau, để hắn gánh, rồi xoay quanh chính cái trục ấy một vòng, nhẹ như cánh cửa quay. Cao gầy đổ người về phía trước theo lực vừa mất, tay túm một nắm vải không còn ai bên trong.
+
+Áo đen lao đến từ phía bên kia. Hai người, bốn cánh tay vươn lên.
+
+Anh ngả về sau. Lưng ngả, chân trái đá ra phía trước giữ thăng bằng, quả bóng giơ cao hơn mọi bàn tay. Anh ném qua khe hở chừng một gang giữa hai bàn tay ấy.
+
+Lưới kêu soạt. Anh tiếp đất bằng một chân, lùi hai bước mới đứng vững.
+
+Sáu – chín.
+
+Bóng của bên kia. Áo đen gọi bóng, quay lưng tì vào anh, ủi. Một bước. Anh không lùi. Hắn ủi lần nữa, dồn cả chín mươi ký vào lưng. Gót chân anh vẫn ở chỗ cũ. Lần đầu tiên trong buổi sáng, cái lưng ấy dừng lại.
+
+Áo đen quay phắt lại. "Đẩy cái đéo gì thế? Biết luật không thằng em, lỗi tấn công con cụ mày rồi."
+
+Anh giơ hai tay lên ngang vai, lòng bàn tay mở, và đứng nguyên chỗ cũ.
+
+"Dạ em xin lỗi," anh nói. "Em không biết luật rừng."
+
+Áo đen nghiến răng. Chữ *rừng* chọc đúng vào cái cổ chân hắn vừa bị bẻ lúc nãy, cái chỗ vẫn còn nhói mỗi lần hắn chuyển trọng tâm. Cái đỏ chạy từ cổ lên tận tai.
+
+"Rừng cái địt con cụ mày. Bốn chân mày dài phết đấy, muốn tao đốn gãy cả bốn không?"
+
+Hắn còn đang há miệng chửi thì anh đã bước sang ngang, lách qua vai hắn, không chạm. Lúc hắn quay đầu theo thì anh đã đứng giữa hắn và rổ.
+
+"À, đốn như hồi nãy em bẻ cổ chân anh thì được," anh nói, giọng nhẹ. "Nhưng đốn nghĩa đen thì tốn kha khá tiền và thời gian đó anh."
+
+Tiền bồi thường. Tù. Anh nói như đang tính học phí.
+
+Cả sân im. Cao gầy và râu nhìn sang chỗ khác. Hai cậu sinh viên nhìn xuống sàn. Áo đen mở miệng, và không tìm được câu nào để đáp.
+
+Hắn quay lưng, nhưng lần này không ủi nữa. Hắn xoay người móc bóng, vội. Bóng đập bảng, rơi ra. Anh bắt.
+
+"Thằng này ở đâu ra thế," râu nói, nhỏ, như nói với chính mình.
+
+Rồi nhanh dần. Đổi tay qua háng hai lần, bóng đi qua giữa hai chân như qua một cái khe cửa, đặt vào bảng nhẹ như đặt cốc trà xuống bàn. Bảy. Nhặt bóng từ sát mắt cá chân lên, sớm hơn nhịp cao gầy chờ, tay hắn quét qua chỗ trống. Tám. Hesi ở khuỷu tay phải. Râu nhảy lên chặn một cú ném chưa có. Lúc hắn rơi xuống, anh mới ném. Chín – chín.
+
+Không ai ở bên kia chửi nữa.
+
+Anh đọc được đường chuyền trước khi nó rời tay râu. Cướp. Mười – chín.
+
+Bóng ở đỉnh vòng. Áo đen lùi về đứng dưới rổ, hai chân dang, chờ.
+
+Anh không chuyền.
+
+Anh lao. Một bước. Bước thứ hai dài như bước qua một con mương.
+
+Bật.
+
+Quả bóng trong tay phải anh vòng ra sau gáy, cánh tay gập lại như người giương rìu. Ở đỉnh cú bật, anh bổ xuống.
+
+Một mét tám ba. Giơ tay với tới hai mét bốn. Vành rổ ba mét lẻ năm. Tay anh chưa từng chạm được nó.
+
+Lần này quả bóng bổ trúng mép trước của vành.
+
+Sắt.
+
+Cả tấm bảng rung. Cột rổ kêu lên một tiếng như bị đánh bằng búa. Quả bóng bật ngược, vọt qua đầu ba người, qua hàng rào, rơi xuống mặt đường bên ngoài, nảy hai cái, lăn vào gầm một chiếc xe máy.
+
+Đầu gối anh lướt qua vai áo đen, cách mặt hắn một gang tay. Anh đáp xuống bằng hai chân, đứng ngay trên chỗ hắn nằm.
+
+Cả sân im. Tiếng vành còn rung.
+
+"Địt mẹ, có người vừa úp rổ??"
+
+Không biết ai nói. Có thể là râu. Có thể là cao gầy.
+
+Áo đen nằm ngửa, hai tay ôm đầu, khuỷu tay khép lại che mặt.
+
+Một giây. Hai giây. Ba giây. Bốn giây.
+
+Hắn hạ tay xuống. Mắt mở to, nhìn lên từ dưới sàn. Miệng mở, không ra chữ. Ngực lên xuống nhanh, nông.
+
+Anh nhìn xuống hắn.
+
+Hắn chống khuỷu tay, lùi người về sau trên mặt sân. Một gang. Hai gang. Đến khi lưng chạm cột rổ mới đứng lên.
+
+Không ai chìa tay. Cao gầy đứng cách hai bước, nhìn anh, không nhìn bạn mình.
+
+Lòng bàn tay phải anh tê, chỗ cổ tay đập vào sắt. Anh tự đi nhặt bóng ở gầm xe máy.
+
+Bóng của bên kia. Áo đen nhận bóng rồi chuyền đi ngay, không nhìn rổ. Khi anh lao qua khu vực dưới rổ, hắn bước ra khỏi đường chạy của anh, sang ngang, hai bàn tay mở ra trước ngực, như người tránh một chiếc xe máy.
+
+Râu ném. Trượt. Anh bắt bóng bật bảng, dẫn lên khuỷu tay phải.
+
+Hesi, cùng chỗ, cùng tay. Áo đen đứng cách anh ba bước. Hắn không lên. Không giơ tay lên nữa.
+
+Mười một – chín.
+
+Anh nhặt bóng, không nhìn ai.
+
+"Anh đi trái nhiều quá. Sửa cái đấy là lên trình." Anh nói thật lòng.
+
+Áo đen nhìn anh một lúc.
+
+"Ừ."
+
+Sáu giờ năm mươi hai. Chín điểm trong mười điểm cuối. Một hesi, một lùi ném, một xoay người ngả ném, ba lần đột, một cướp, một quả úp trượt, hai hesi cuối.
+
+Cậu mập và cậu gầy chạm bóng ba lần trong chín điểm ấy. Cả ba lần là để trả bóng cho anh.
+
+Áo đen ngồi ở bậc dưới cùng, tháo dây giày. Tháo xong một chiếc thì ngồi im, không tháo chiếc kia. Cao gầy và râu đứng gần đó, không ai nói gì. Bảy giờ, hội chơi sáng về sớm hơn mọi hôm. Không ai rủ ai đi uống trà đá.
+
+Cậu mập đi ngang chỗ anh ngồi, ôm quả bóng của mình. Cậu dừng lại, mở miệng như định nói gì, rồi thôi.
+
+"Anh ơi, bọn em về trước ạ."
+
+Cậu không nhìn anh. Hai cậu đi sát vào nhau ra cổng, nhanh hơn lúc đến.
+
+Không ai cảm ơn ai.
+
+Anh ngồi ở bậc trên cùng. Thở. Hai đầu gối run. Lòng bàn tay phải vẫn tê. Ngực nhẹ.
+
+
+
+Một chai nước lăn đến chân anh. Vũ đứng ở mép sân, áo ba lỗ ướt đẫm, băng đô buộc kiểu đô vật. Nó chạy vòng hồ, chắc thế. Không biết nó đứng đó từ lúc nào.
+
+Nó không nói gì. Hai tay ôm đầu, băng đô tụt xuống tận mắt, miệng mở. Rồi nó bật khỏi mặt đất, thật, cả cái bụng tròn nảy theo, và hú:
+
+"[[ht: Vãi cả lồn? Mi vừa làm cái thứ điên rồ chi rứa?? || Vãi cả lồn? Mày vừa làm cái thứ điên rồ gì thế??]]"
+
+Anh chưa kịp đáp thì nó đã chạy vào sân. Một tay giương ra sau gáy như người cầm rìu, tay kia chém xuống, miệng nhại: "Phựt!" Rồi nó đóng vai cái vành. "Sắt!" Nó đập cả hai bàn tay vào cột rổ.
+
+"[[ht: Tau đứng ngoài hàng rào mà tau tưởng cấy xe máy nổ. Cột rổ nó rung tê! || Tao đứng ngoài hàng rào mà tao tưởng cái xe máy nổ. Cột rổ nó rung kìa!]]"
+
+"Hụt thôi," anh nói.
+
+"[[ht: Tay mi chưa lần mô chạm được cấy vành nớ, mà mi dám làm một quả tomahawk dunk?? Mà còn đéo phải úp rổ không người, mi tính úp con mẹ rổ trên đầu thằng áo đen nớ?? Posterizing tomahawk dunk??? Mi điên con cụ mi rồi, mi nghĩ mi là ai, LeBron à? || Tay mày chưa lần nào chạm được cái vành đó, mà mày dám làm một quả tomahawk dunk?? Mà còn đéo phải úp rổ không người, mày tính úp con mẹ rổ trên đầu thằng áo đen đó?? Posterizing tomahawk dunk??? Mày điên con cụ mày rồi, mày nghĩ mày là ai, LeBron à?]]"
+
+Nó nhảy tại chỗ, hai lần, ba lần, như đứa trẻ vừa được thả khỏi lớp. Không có chỗ nào trên người nó đứng yên.
+
+"[[ht: Hấn còn một gang tay trước khi hửi chim mi? Cấy lúc hấn bổ xoài xuống, mặt hấn nhìn ngáo con mẹ hấn luôn? Xong rồi hấn che mặt? Mi vừa biến một con titan thành một nữ sinh Nhật Bản ngại ngùng, vãi cả cứt thật. || Nó còn một gang tay trước khi ngửi chim mày? Cái lúc nó ngã xoài xuống, mặt nó nhìn ngáo con mẹ nó luôn? Xong rồi nó che mặt? Mày vừa biến một con titan thành một nữ sinh Nhật Bản ngại ngùng, vãi cả cứt thật.]]"
+
+Anh thấy. Anh không nói.
+
+"[[ht: Địt con mẹ. Tau mà quay được mi làm tomahawk dunk rồi gửi vô nhóm chat thì bọn nớ bị điên con mẹ hấn luôn. || Địt con mẹ. Tao mà quay được mày làm tomahawk dunk rồi gửi vào nhóm chat thì bọn đó bị điên con mẹ nó luôn.]]"
+
+Nó đấm vào vai anh. Ba cái. Rồi lùi lại một bước, để nhìn anh cho đủ. Tiếng cười nhỏ dần, như có ai vặn volume.
+
+Anh không cười.
+
+"[[ht: Mặt mi lúc nãy nớ. || Mặt mày lúc nãy ấy.]]"
+
+"Tập thể dục," anh nói.
+
+Vũ không cười. Nó nhìn anh thêm một lúc, rồi nhặt quả bóng, đập ba cái, giữ yên, nhìn rổ, rồi chuyền cho anh.
+
+"Ném đi. Đừng nghĩ."
+
+Anh ném. Trượt. Ném. Trượt. Bảy lần. Hai bàn tay vừa ghi chín điểm liền giờ không đưa nổi quả bóng vào vành.
 
 Lần thứ tám, bóng chạm vành, xoay một vòng, rồi rơi xuống.
 
 Vũ hú lên như trúng xổ số.
 
-Anh đứng dưới rổ, thở gấp. Tay anh mỏi, cái nặng ở giữa ngực vẫn còn đó. Nhưng khi anh ngẩng đầu, nó chỉ là cái nặng, không phải cái nặng chặn ở cổ họng.
+Anh đứng dưới rổ, thở gấp. Cái nhẹ lúc nãy đã đi đâu mất. Cái nặng ở giữa ngực vẫn còn đó. Nhưng khi anh ngẩng đầu, nó chỉ là cái nặng, không phải cái nặng chặn ở cổ họng.
 
 Anh chưa từng nghe ai nói *đừng nghĩ* mà không đòi thêm gì.
 

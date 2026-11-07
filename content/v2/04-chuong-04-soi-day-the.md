@@ -28,6 +28,8 @@ Mười lăm phút. Bảy câu hỏi. Anh trả lời hết, nhanh, đúng, khô
 
 Rồi không ai hỏi gì nữa. Kỹ thuật viên đi thử đèn. MC đi thay áo. Thầy Bình ra ngoài nghe điện thoại. Anh đứng một mình giữa sân khấu trống, đèn thử chiếu xuống trắng và nóng, hàng nghìn cái ghế xanh phía dưới vẫn im.
 
+*Nghìn cái ghế. Không đứa nào ở đây biết cái cổng—*
+
 "Anh Thuyên phải không ạ? Thẻ diễn giả của anh."
 
 Một bạn tình nguyện viên đeo tai nghe chạy lên, hai tay đưa ra một tấm thẻ nhựa treo trên sợi dây. Dây dệt, bản rộng, màu xanh.

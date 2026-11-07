@@ -1,10 +1,12 @@
 # Đèn vàng v2 – Sổ câu hỏi
 
-Oct 25, 2026 · @aureliustran. Một nơi duy nhất cho mọi câu hỏi chờ tác giả. Dựng từ `bible-v2.md` mục 11–12 (Project `claude/v2/`), các danh sách "cần chốt" ở cuối `00`, `01`, `04`, `05` và brief Thuyên – Nhi.
+Oct 25, 2026 · @aureliustran. Sửa Oct 26, 2026 (tác giả chốt theo khuyến nghị Q-022 đến Q-033 và thêm, chốt Q-037 đến Q-046). Sửa Oct 28, 2026 (thêm Q-048, Q-049 từ session QK). Sửa Oct 30, 2026 (thêm Q-050 đến Q-056 từ session QK). Một nơi duy nhất cho mọi câu hỏi chờ tác giả. Dựng từ `bible-v2.md` mục 11–12 (`docs/canon/bible-v2.md`), các danh sách "cần chốt" ở cuối `00`, `01`, `04`, `05` và brief Thuyên – Nhi.
 
 **Trạng thái:** `xung đột` hai nguồn nói khác nhau · `mở` chưa có câu trả lời · `đã trả lời → D-xxx` (mã D- có sau khi chuyển sổ quyết định; trước đó ghi nguồn và ngày).
 
 **Nguồn viết tắt:** [00] `00-quyet-dinh-v2.md` · [01] `01-mach-truyen-v2.md` · [HĐ] `02-hoi-dong-nhi.md` · [KHO] `03-kho-nhi-thich-thuyen.md` · [RR] `04-rui-ro-tuyen-thuyen-nhi.md` · [GALA] `05-gala-va-quan-su-bi-mat.md` · [BRIEF] `brief-tinh-cam-thuyen-nhi.md`.
+
+**Lưu ý đồng bộ (26/10, sửa 29/10):** bản này ghi trên Project và đã chép về repo ngày 29/10. Phiên RM và TH cũng thêm Q-; khi sync về repo, merge tay các dòng Q- mới của hai phiên, đánh lại số nếu trùng Q-037 trở đi. Q-047 đến Q-056 là mã tạm.
 
 ## Xung đột (chờ tác giả, 25/10)
 
@@ -32,7 +34,16 @@ Lịch sử của câu hỏi:
 ### Q-004 · xung đột · Ngày gãy là ngày nào?
 - Luật dời mốc "+2 ngày, giữ thứ" [BRIEF]: 16/7/2027 (T6) thành **T6 18/7/2025**.
 - Mọi doc vẫn gọi "16/7". 16/7/2025 là T4.
-- Chọn: theo luật (18/7, giữ thứ Sáu), hay giữ nhãn "16/7"? Các mốc khác (rạn nứt với Vũ, tiệc R&D, giỗ ông, 15/7, lễ tốt nghiệp) đi theo cùng lựa chọn.
+- Chọn: theo luật (18/7, giữ thứ Sáu), hay giữ nhãn "16/7"? Các mốc khác (rạn nứt với Vũ, tiệc R&D, giỗ ông, 15/7, lễ tốt nghiệp) đi theo cùng lựa chọn. Q-045 (26/10) đã chốt riêng 15/7 theo luật; áp khi Q-004 chốt.
+
+### Q-049 · ~~xung đột~~ **[chốt 31/10: phương án (b)]** · Năm của phần quá khứ Thuyên
+- **Chốt 31/10:** Thuyên sinh **17h, 8/5/2004**. Lịch toàn truyện về 2024–2025 (summit T7 12/10/2024; ch.0 CN 27/7/2025). Quá khứ neo theo năm thật: lớp 1 năm học 2010–11; lớp 3 (sách vũ trụ, 8 tuổi) 2012–13; lớp 6 2015–16; thi chuyên 6/2019; lớp 10 2019–20, lớp 11 2020–21 (dịch rơi vào đây, không còn ở lớp 8); lớp 12 2021–22; đại học 2022.
+- **Chỗ cần rà (chưa sửa, cần tác giả quyết cách đặt lại dịch):** `thuyen.md` dòng 1.8 (giấy khen "7/2020, lớp 8": lớp 8 giờ là 2017–18, nên là 7/2018 và không còn trùng dịch); `thuyen-hai-cai-toi.md` hàng "8 (ch.5) nghỉ dịch" và "Lớp 8, nghỉ dịch" (liều tự kê đầu tiên); `qk-t-plan-v3.md` ch.7 *Tủ kính* (lớp 8).
+- **Việc phải làm ở interlude/bản nháp quá khứ:** mọi chỗ ghi dịch ở lớp 8 phải đổi sang lớp 10–11 hoặc bỏ; rà các mốc lớp 8–9 của quãng 1 và quãng 2 theo bảng trên.
+- Ghi chú cũ (trước chốt):
+- Hiện tại đã dời về 2024–2025 (summit 12/10/2024, Thuyên năm ba), nhưng quá khứ vẫn theo lịch cũ: Thuyên sinh 2006, nghỉ dịch lớp 8 (2020), thi chuyên 6/2021, quốc gia 2/2023 (`tong-ket-ban-le-ch02-05` §4.5, `thuyen.md`, bản nháp ch.2–6). Năm ba ở 2024 nghĩa là lớp 12 năm 2021–22.
+- Chọn: (a) dời cả quá khứ hai năm; nghỉ dịch rơi vào lớp 10, ch.5 phải bỏ dịch hoặc thay biến cố; (b) đổi năm sinh, neo sự kiện thật theo năm thật, sửa tuổi và lớp cho khớp.
+- Phải chốt trước khi viết lại ch.2–6. Nguồn: session QK, 28/10.
 
 ## Mở
 
@@ -55,26 +66,46 @@ Lịch sử của câu hỏi:
 | Q-019 | Tất niên: khách sạn ở Hà Nội hay resort? Giữ chi tiết máy ảnh, cuộn phim chưa tráng của Phong? | GALA §2, §4 |
 | Q-020 | Gói xử lý rủi ro tuyến Thuyên – Nhi: A hay B (sau Q-001, Q-003) | RR §8 |
 | Q-021 | Áp nguyên tắc "Thuyên sai do dàn xếp khách quan, không do lơ đãng" cho mọi lần anh đọc sai trong truyện (Morpheus thành *khách*, mặt Phong thành *đang chờ*, Diệp Anh)? | de-xuat Q-001 §7 |
-| Q-022 | Cây tuyến: duyệt năm tuyến cấp 1 QK, RM, TH, SL, GD (GD do Claude thêm; hiện sinh đã chuyển vào gốc theo ý tác giả 25/10) | de-xuat/cay-tuyen §10 |
-| Q-023 | Cây tuyến: bible mỏng (A) hay bible đầy đủ (B)? | de-xuat/cay-tuyen §9 (gộp vào Q-031) |
-| Q-024 | Cây tuyến: HĐQT 🎀 đặt ở SL hay dưới RM.TN? | de-xuat/cay-tuyen §4 |
-| Q-025 | Cây tuyến: QK chỉ dày cho Thuyên, hay cho mọi nhân vật chính? | de-xuat/cay-tuyen §3 |
-| Q-026 | Cây tuyến: khuôn mã node `RM.TN`, tình tiết `TN-014`, niềm tin `NT-05`, giao điểm `X-09`, trục `H3` | de-xuat/cay-tuyen §6 |
-| Q-027 | Cây tuyến: mỗi node một cha, quan hệ đa chiều đi qua giao điểm | de-xuat/cay-tuyen §5 |
-| Q-028 | Cây tuyến: duyệt thang mức D → SSS (có SS+) theo năm giai đoạn và các ô Claude gán; MĐ có gồm quá khứ lớp 10 → đại học không? | de-xuat/cay-tuyen §1a |
-| Q-029 | Cây tuyến: tình tiết hiện sinh không có cảnh riêng (*Nước lạnh*, chẩn đoán) thuộc node nào? Đề xuất SL.DT | de-xuat/cay-tuyen §2 |
-| Q-030 | Chọn cây tuyến làm kiến trúc chính của T1 và làm cây quyết định ở cửa vào T2? | de-xuat/hop-nhat-cay-tuyen §1, §4 |
-| Q-031 | Tình tiết đã chốt nằm ở đâu: M1 node là canon, M2 bible giữ chốt, M3 tách file trong node? (gộp Q-023) | de-xuat/hop-nhat-cay-tuyen §3 |
-| Q-032 | Bốn vai theo mức (trục, chính, nền, phụ), mục "Không đụng", luật va chạm theo nhịp | de-xuat/hop-nhat-cay-tuyen §4 |
-| Q-033 | Mức của node chủ quyết định độ nặng quy trình? | de-xuat/hop-nhat-cay-tuyen §4.3 |
-| Q-034 | Ngân sách: hai quỹ (chữ, effort), chia hai tầng có sàn 50% cho node trục, dự phòng 10%, quỹ là trần và sàn | de-xuat/ngan-sach-tuyen §2 |
+| Q-034 | Ngân sách: hai quỹ (chữ, effort), chia hai tầng có sàn 50% cho node trục, dự phòng 10%, quỹ là trần và sàn. **Còn bốn sửa treo từ 21:25** (quỹ effort thành "100% mỗi giai đoạn, phần trăm là độ sâu đầu tư"; bỏ dự phòng effort; Q-036 đổi; thêm dòng "thứ có hạn là chú ý người đọc và thời gian duyệt") | de-xuat/ngan-sach-tuyen §2; handoff §3 |
 | Q-035 | Ngân sách: thang trọng số D 0 → SSS 10, và ba cờ đảo ngược | de-xuat/ngan-sach-tuyen §2, §4 |
 | Q-036 | Ngân sách: quỹ chữ từng giai đoạn (tác giả đặt hay neo từ node trục; GĐ1 khoảng 275.000–370.000 chữ); độ dài đích một chương v2 | de-xuat/ngan-sach-tuyen §5 |
+| Q-047 | Giai đoạn MĐ có gồm quá khứ lớp 10 đến đại học không? (Câu con tách ra từ Q-028; ch.7 trở đi chưa xây. Khuyến nghị: có, vì QK.T đang ở SSS ở MĐ) | de-xuat/cay-tuyen §1a |
+| Q-048 | **Cho session RM:** H7 đã mở rộng thành trục gương (chốt 28/10): *Được đồng ý mà không được nghe; được khen mà không được ôm*. Câu gốc dạng đoạn ở `goc.md` §2; nửa về Thuyên đã chốt. Nửa về Nhi ("được đồng ý mà không được nghe, nên tin rằng ngoan thì được ngồi đúng chỗ người ta xếp") lấy từ nhãn H7 cũ: session RM xác nhận hoặc sửa, rồi điền trường `Cần → H` của Nhi. Thiết bị kéo theo: TB-10 câu gương (`qua-khu/thuyen-co-may.md` §5; `rules/registers.md` §2.4) | session QK, 28/10 |
+| Q-050 | **Kiến trúc (session QK, 30/10):** QK.N lên S ở MĐ và GĐ1 (mở lại Q-025 "Nhi chỉ những mảnh sinh NT"). Lý do: QK.T kể liền một chuỗi mười ba interlude ở MĐ, cần một tuyến quá khứ song song để người đọc không chỉ ở trong đầu Thuyên; QK.N trải được cả MĐ lẫn GĐ1. Cách đề xuất: mảnh ngắn POV Nhi xen ở hiện tại, kiểu *Normal People*. Chưa quyết: mức chính xác (S hay S+), nội dung, ai viết | de-xuat/qk-t-plan-ch1-het-cap-2 §0 |
+| Q-051 | **Kiến trúc (session QK, 30/10):** Mức của SL.VU, SL.DT ở MĐ và GĐ1 sau khi SL lồng vào QK (SL mang hiện tại của phần né ch.2–6 và khung của chuỗi). SL.VU mới **[chốt 30/10]**: thẻ Vũ, `bible-v2.md`, `01-mach-truyen-v2.md` §2.5 ("ghen tị khi gái nhắn Thuyên" đổi thành không ghen, cười nhạo) cần cập nhật theo `qk-t-plan-ch1-het-cap-2.md` §4 | de-xuat/qk-t-plan-ch1-het-cap-2 §4 |
+| Q-052 | **Cho tác giả (sửa chương đã đăng):** (1) ch.1 `content/v2/01`: Vũ "người Hà Nội gốc, nhà ở chính cái khu tập thể có sân bóng này", "bạn thân từ năm nhất" trái SL.VU mới (cùng quê, quen từ cấp 2, nhà chuyển lên thành phố Hà Tĩnh khi vào cấp 3). Đề xuất: Vũ ở nhờ nhà bác trong khu tập thể; "bạn thân từ cấp hai". (2) ch.0: thêm mật mã *Mi nói đi. Bốn bài.* (chốt 31/10: hai dòng; "Mười hai ngày" đã có sẵn trong văn ch.0, "Bảy cái" chưa neo) (3) Chương 2–6 v2 đã đăng rút khỏi site khi bản mới xong | de-xuat/qk-t-plan-ch1-het-cap-2 §1, §4 |
+| Q-053 | **Cho session RM và TH:** Thư mục *nhap* (mười ba file interlude anh gom lại ở cuối chuỗi) làm "tờ thứ hai" ở GĐ1: ai thấy, lúc nào, có ai đọc không. Ràng buộc: TB-1, TB-7 giữ; chưa ai được đọc trước HP | de-xuat/qk-t-plan-ch1-het-cap-2 §3 đêm 13 |
+| Q-054 | **Cho session RM:** (1) Chỗ trống một interlude Nhi giữa ch.2 và ch.3 (dùng hay không). (2) Câu hỏi "Kỷ niệm tuổi thơ đáng nhớ nhất của anh là gì?" ở summit: plan để một sinh viên hỏi; RM muốn Nhi hỏi thì báo. (3) Vũ ở GĐ1: lật cớ "môn đăng hộ đối"; *"Nó bật đèn xanh, mày lại đứng chờ đèn vàng."* (H1); câu tim đen *"Mày thấy mày không đủ với chính mày, hay mày sợ mày không đủ với người ta?"* (ứng viên câu trên trang H3). (4) Gu quần áo của Thuyên (trả ở *Hoan hỉ*, *Trống rỗng*) nối với cảnh anh giúp Nhi ở cửa hàng quần áo | de-xuat/qk-t-plan-ch1-het-cap-2 §1, §4, §5 |
+| Q-055 | **Kiến trúc:** Ngân sách QK ở MĐ: chuỗi mười ba interlude khoảng 40.000 chữ cộng phần né khoảng 13.000 chữ, vượt mức của rules cũ. Gộp vào Q-034 đến Q-036 | de-xuat/qk-t-plan-ch1-het-cap-2 §7 |
+| Q-056 | **Cho session GD, RM, TH (session QK, 30/10 đêm):** Thuyên có em trai (con cả; quậy, "nghịch mà khôn", ích kỉ vô tư; kém 4–5 tuổi, đề xuất), chi tiết `qua-khu/thuyen.md` §6.9. Cần xử ở hiện tại: (1) em hiện khoảng 15–16 tuổi, có mặt không ở cuộc gọi 4 phút 12 giây, Tết của Nhi, trị liệu gia đình (GD.T, mức SS); (2) cảnh GĐ1 hoặc HP: có người vượt cái thước của anh, anh định nói "nó khác" rồi nhận ra câu đó là của ai (hết vai người dịch thước); (3) mạ khen Vũ là đứa "biết hỏi han" hay đứa riêng; (4) tên em, Lâm | de-xuat/qk-t-plan-ch1-het-cap-2 §9 |
+| Q-057 | **Cho tác giả (session QK, 02/11):** Cụm cấp 3 lớp 10: (1) tiền MMO thành vốn shop giày, quần áo hay bỏ shop; (2) tool chết hoặc Thuyên rời hội chuyên Anh lúc nào, vì sao; (3) cô bạn mập mờ có thuộc hội chuyên Anh; (4) nghề của bố mẹ Thuyên; (5) ngôn ngữ cảm xúc trong những thứ anh không hiểu; (6) bốn mươi bảy lượt thích 7/2018 hay 7/2020 | de-xuat/qk-t-cap-3-motif-lop-10 §8 |
 
 ## Đã đóng (đáp án đã có trong doc; đánh mã D- khi chuyển sổ)
 
 | Mã | Câu hỏi | Đáp án | Nguồn |
 | --- | --- | --- | --- |
+| Q-022 | Duyệt năm tuyến cấp 1 QK, RM, TH, SL, GD | **[chốt 26/10]** Duyệt (GD do Claude thêm, giữ) | de-xuat/cay-tuyen §10 |
+| Q-023 | Bible mỏng hay đầy đủ? | **[chốt 26/10]** Mỏng (gộp vào Q-031) | de-xuat/cay-tuyen §9 |
+| Q-024 | HĐQT 🎀 ở SL hay dưới RM.TN? | **[chốt 26/10]** SL (`SL.HD`) | de-xuat/cay-tuyen §4 |
+| Q-025 | QK dày cho ai? | **[chốt 26/10]** Thuyên dày; Nhi, Diệp Anh, Khải chỉ những mảnh sinh NT dùng ở hiện tại | de-xuat/cay-tuyen §3 |
+| Q-026 | Khuôn mã node, tình tiết, NT, giao điểm, trục | **[chốt 26/10]** `RM.TN`, `TN-014`, `NT-05`, `X-09`, `H3` | de-xuat/cay-tuyen §6 |
+| Q-027 | Mỗi node một cha | **[chốt 26/10]** Duyệt; quan hệ đa chiều đi qua giao điểm | de-xuat/cay-tuyen §5 |
+| Q-028 | Thang mức D → SSS theo năm giai đoạn | **[chốt 26/10]** Duyệt thang, SS+, ba luật, ô Claude gán (sửa từng ô nếu lệch). Câu con về MĐ tách thành Q-047 | de-xuat/cay-tuyen §1a |
+| Q-029 | Chủ của *Nước lạnh* và chẩn đoán | **[chốt 26/10]** SL.DT | de-xuat/cay-tuyen §2 |
+| Q-030 | Cây tuyến làm kiến trúc chính T1 và cây quyết định ở cửa vào T2 | **[chốt 26/10]** Có | de-xuat/hop-nhat-cay-tuyen §1, §4 |
+| Q-031 | Tình tiết đã chốt nằm ở đâu | **[chốt 26/10]** M1: node là canon, luật tầng theo nhãn | de-xuat/hop-nhat-cay-tuyen §3 |
+| Q-032 | Bốn vai theo mức, mục "Không đụng", luật va chạm theo nhịp | **[chốt 26/10]** Duyệt. Vai trục đổi tên thành DẪN (Q-046) | de-xuat/hop-nhat-cay-tuyen §4 |
+| Q-033 | Mức của node chủ quyết định độ nặng quy trình | **[chốt 26/10]** Duyệt (bảng ở `quy-trinh.md` 4.3) | de-xuat/hop-nhat-cay-tuyen §4.3 |
+| Q-037 | Khuôn trục H và chữ H2 | **[chốt 26/10]** Khuôn (Câu gốc, Câu trên trang, Nguồn của tác giả, Họ ý, Trạng thái); H2 dùng "sống tốt". Câu gốc của H1, H3 do Claude dựng, chờ câu thô của tác giả; H6, H7 chưa có câu. **[28/10]** H3, H7, H9 đã có câu gốc dạng đoạn từ câu thô của tác giả (`goc.md` §2) | de-xuat/hop-nhat-loi-cu §4 |
+| Q-038 | Dùng nguyên văn câu ngoài truyện | **[chốt 26/10]** Nguồn công cộng, nhân vật quen câu từ chỗ khác, không trích thẳng; ghi nguồn | de-xuat/hop-nhat-loi-cu §4.4 |
+| Q-039 | Đổi tên các thang nấc | **[chốt 26/10]** Nấc-HS, Nấc-TT, Nấc-RM. Hai thang của Nhi: cần đọc lại rồi gộp hoặc giữ, chưa làm | de-xuat/hop-nhat-loi-cu §2 dòng 1 |
+| Q-040 | "Cần" của Nhi, Diệp Anh, Khải | **[chốt 26/10]** Ánh xạ vào H có sẵn bằng trường `Cần → H` trong thẻ; thêm trục chỉ khi không vào H nào. **[28/10]** Thêm: linh kiện đủ xúc tích, đủ tầng nghĩa cũng được lên trục (`goc.md` §2 luật 4) | de-xuat/hop-nhat-loi-cu §2 dòng 4 |
+| Q-041 | Thẻ nhân vật tách sự kiện về node | **[chốt 26/10]** Thêm `Gốc`, `NT`, `Node chủ`; "ai biết gì" vào giao điểm | de-xuat/hop-nhat-loi-cu §2 dòng 2, 3 |
+| Q-042 | Cột Nhiên liệu, Giá, Register; register về rules | **[chốt 26/10]** Ba cột tùy chọn; cơ chế biến chất vào `goc.md`; `rules/registers.md` (dựng 28/10) | de-xuat/hop-nhat-loi-cu §2 dòng 5, 6 |
+| Q-043 | Ô hậu sân bay; ánh xạ bible §2, §4, §9 | **[chốt 26/10]** Ô `[chờ]` cho TH.DR, GD.N, QK.K; bible §9 (Phần 2 đến 4) là nguồn của ô ấy | de-xuat/hop-nhat-loi-cu §2 dòng 7, 8 |
+| Q-044 | Morpheus: plan GĐ2 giấu hay gặp ở tất niên | **[chốt 26/10]** Gặp ở tất niên (đúng chốt 24/10). Phần giấu Morpheus của `plan-giai-doan-2-hop-nhat.md` coi là `[thay bởi chốt 24/10]`; chưa đánh dấu trong file nào | de-xuat/hop-nhat-loi-cu §2 dòng 10 |
+| Q-045 | Nhãn 15/7 (Khải lật) | **[chốt 26/10]** Theo luật dời mốc thành T5 17/7/2025; áp khi Q-004 chốt | de-xuat/hop-nhat-loi-cu §2 dòng 12 |
+| Q-046 | Đổi vai TRỤC thành DẪN | **[chốt 26/10]** Duyệt | de-xuat/hop-nhat-loi-cu §5 |
 | Q-101 | Phong có nằm trong danh sách mai mối? | Có: hai gia đình xếp prom date, "lần đầu danh sách mai mối lộ ra trước mắt mọi người". Phong có biết hay không: Q-006 | GALA §C.1, chốt 24/10 |
 | Q-102 | Nhi nhận ra giọng Thuyên trong lời Phong? | Bỏ. Phong nói thẳng với Nhi; Nhi vẫn hỏi lại ở đêm say | GALA, chốt 24/10 |
 | Q-103 | Khung chương giai đoạn 1 | Có khung theo ngày, đề xuất, cần duyệt từng mục | BRIEF §7, GALA |

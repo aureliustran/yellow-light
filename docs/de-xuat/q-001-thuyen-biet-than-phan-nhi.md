@@ -1,6 +1,6 @@
 # Q-001 – Thuyên biết Nhi là em gái Khải từ lúc nào
 
-Oct 25, 2026 · @aureliustran. Cập nhật 25/10 chiều.
+Oct 25, 2026 · @aureliustran. Cập nhật 25/10 chiều; 29/10 thêm K17 (session QK.N).
 
 **Trạng thái:**
 - **[chốt 25/10] Định hướng P1 + P4.** Thuyên không biết Nhi là em gái Khải cho đến sát ngày gãy; đúng một lần anh đứng ở mép sự thật rồi gạt đi.
@@ -63,6 +63,7 @@ Mỗi kênh có thể làm lộ phải qua **ba phép thử**. Một kênh chỉ
 Vì sao Khải giữ (đề xuất):
 - Từ ngày chị Hạnh báo Nhi lên tầng 17 (*Ánh xanh màn hình*, bản cũ), Khải biết Thuyên không biết. Một người không biết mình đang nói với em gái Tổng giám đốc sẽ kể phiên bản thật nhất của mình. Đó là nguồn dữ liệu sạch nhất Khải có.
 - Khải đã dùng em gái làm màn khói từ bản cũ [nguyên liệu]: không lại gần em nơi đông người.
+- `[chốt 30/10, session QK.N]` Khải biết kế hoạch mai mối ngầm của bố mẹ (lượt 2: tạo điều kiện cho Phong và Nhi). Vì thế anh ta càng đề phòng Thuyên, người có thể phá kế hoạch ấy. Chi tiết: `tuyen/qua-khu/nhi.md` §1.7.
 - **Luật của Khải:** trước ngày lật bài, anh ta không bao giờ dùng trước mặt Thuyên một chi tiết chỉ Nhi biết. Nguyên tắc khóa của module Diệp Anh, nguyên văn: "Khải tiêu công khai bằng đồng của Nhi, tiêu ngầm bằng đồng của Diệp Anh." Ở đây thêm: trước ngày lật, anh ta không tiêu đồng nào của Nhi.
 
 ## 4. Sổ kênh: từng kênh và khóa của nó
@@ -87,6 +88,9 @@ Mốc theo lịch 2024–2025; ngày gãy theo Q-004.
 | K14 | **Gala** (18/1/2025) | Nhi ở bàn nhà Phong; ánh đèn theo ba cặp; Khải gật đầu với bàn đối tác | Chạm một phần | **Diệp Anh quyết giờ anh vào hội trường:** cô kéo anh vào sau màn nhảy mở màn và sau lời Chủ tịch, những lúc gia đình được xướng tên. Ánh đèn dừng ở ba cặp đều nhảy đẹp, nên "đèn theo người nhảy đẹp" khớp với dữ liệu ngang "đèn theo danh sách khách" (anh không có danh sách khách). **Khải đi chào mọi bàn** trong đêm, nên cái gật đầu với bàn nhà Phong không mang tín hiệu nào. Dàn nhạc át tiếng thì thầm (chốt 24/10) | Diệp Anh (giờ vào), Khải (giữ khoảng cách), Nhi (tránh bàn đầu), lão Tuấn (có mặt, giữ như lá bài) | L3, L4 |
 | K15 | **Sau gala ở lab** | Lão Tuấn dè chừng; chị Hạnh: "Có người ở trên đang để ý." | Chạm | Anh vừa thắng các phiên khách ở hội nghị và vừa được Morpheus hỏi chuyện. "Người ở trên để ý năng lực của mình" là giải thích có bằng chứng nhất anh có | Lão Tuấn, chị Hạnh: lá bài riêng | L3 |
 | K16 | **"Bố em bảo thế thì giỏi thật"** (bản cũ ch.35) | Bố Nhi đã nghe về anh | Chạm | Anh đứng trên bục summit trước cả khối đối tác; bố một nhà đối tác biết anh là hợp lý | — | L2 |
+| K17 `[chốt 29/10]` | **Instagram, TikTok, shop handmade của Nhi** | Ảnh cô tự làm mẫu, chụp ở nhiều nơi, chỉnh màu vintage, retro; máy compact, phim, máy chụp lấy ngay; du lịch, đồ đẹp; lượng follow lớn | Chạm | "Con nhà có điều kiện, hot mạng" giải thích được mọi thứ anh thấy, khớp K3. Không ảnh nào phân biệt con nhà đối tác với con Chủ tịch | Nhi: không bao giờ đăng gia đình, nhà riêng, sự kiện của Astrea, vì đây là chỗ cô muốn được thích vì chính mình (cùng vết thương với K2). Handle không dùng "Sóc" | L2, L3 |
+
+`[đề xuất 29/10]` Nếu RM.TN dùng hợp tác shop (`rm-handoff.md` §9.3): mọi giấy tờ, tài khoản, thanh toán của shop đứng tên Nhi; Thuyên làm website và làm mẫu nhưng không chạm giấy tờ của gia đình. Ảnh anh trên kênh của cô là dữ liệu cho Khải (L4), không cho anh.
 
 ## 5. Nhịp P4: lần duy nhất đủ dữ liệu
 

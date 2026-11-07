@@ -1,0 +1,219 @@
+# Hồng đất
+
+Oct 31, 2026 · @aureliustran.
+
+*Thứ Bảy, 12/10/2024*
+
+:::phone
+Speaking Part 2, "[[en: Describe a person you admire || Tả một người bạn ngưỡng mộ]]": anh. (Viết lại. Giám khảo sẽ hỏi anh nào.)
+:::
+
+Hàng thứ hai lạnh hơn mọi chỗ khác trong hội trường, vì cửa gió điều hòa thổi thẳng xuống. Nhi kéo tay áo len hồng xuống che kín mu bàn tay, cảm thấy may vì đã không mặc bộ vest be.
+
+Đáng lẽ cô ngồi hàng đầu. Sáng nay chị Trang mang thiệp sang, và đưa nó cho cô bằng cả hai tay, kèm ba lần xin lỗi. Hủy mã thiệp cũ thì cái ghế gắn với mã ấy cũng bị hệ thống nhả ra; thiệp cấp lại chạy theo danh sách duy nhất còn chỗ. Tấm cũ ghi *Khách mời VIP – Nhà tài trợ*, ghế số ba, cạnh bố. Tấm mới ghi *Khách mời – Khối sinh viên đối tác*, hàng thứ hai, dây đeo xanh. Danh sách chốt từ chiều qua, sửa trong một đêm không kịp.
+
+Anh trai đọc tấm thiệp, bảo: "Thôi. Ngồi đâu chả được."
+
+Bố ngồi ghế giữa hàng đầu, ngay trước bục. Bên phải bố là một ông tóc bạc của một quỹ đầu tư nước ngoài, cười rất to và rất hay vỗ vào vai bố. Bên trái bố là một ghế trống, tấm bảng tên úp mặt xuống. Ghế ấy của anh trai. Anh ngồi đó lúc khách còn chưa vào hết, rồi đứng dậy, đi vòng ra sau, ngồi xuống cạnh cô, ngay sau lưng bố. Anh đeo khẩu trang y tế, vest xám, không cà vạt, điện thoại úp trên đùi. Từ thứ Năm anh đã ho; anh bảo không muốn ho vào ông tóc bạc. Bố ngoái lại nhìn hai anh em, anh trai nói ban tổ chức xếp nhầm chỗ em, con ngồi với em cho đỡ lạc. Bố gật, không hỏi thêm. Nhi biết cái ho chỉ là một nửa lý do. Mẹ không đi. Mẹ bảo mẹ đau đầu.
+
+Hàng thứ hai là của khối sinh viên đối tác. Nửa hàng bên trái là con trai, vest may đo, ngồi thẳng như đã được dạy ngồi từ bé. Nửa bên phải là con gái: đầm tweed cài khuy ngọc trai, áo dài cách tân màu ngà, đầm lụa màu rượu vang, blazer trắng khoác ngoài chân váy xếp ly. Anh trai ngồi đúng chỗ hai nửa giáp nhau; cô ngồi bên phải anh, đầu nửa con gái, trong cái áo len hồng. Không ai ở hàng này biết cô là ai. Họ chỉ biết cô qua cái dây đeo, như cô biết họ.
+
+Cô thấy dễ thở hơn hẳn.
+
+Bố đã phát biểu xong ở phần khai mạc. Năm phút, đọc từ giấy, chữ to, có ba lần nhắc đến tên tập đoàn và một lần nhắc đến "thế hệ trẻ". Mọi người vỗ tay đúng lúc. Bố ngồi xuống, ngoái lại nói nhỏ với anh trai là ánh đèn sân khấu chói quá.
+
+Rồi hai công ty trình bày. Nhi nghe được mười phút đầu của mỗi bài, rồi lén mở điện thoại xem lại cái ảnh thẻ trên trang lịch trình, rồi cất điện thoại đi, rồi lại mở.
+
+Giải lao. Cà phê, bánh ngọt. Bố đứng nói chuyện với ông tóc bạc. Anh trai đứng nói chuyện với ba người mặc vest, ai cũng cúi người về phía anh một chút khi nói. Nhi đứng một mình cạnh bàn bánh, cầm một cái bánh su kem, không ăn.
+
+Cô liếc về phía cánh gà. Không thấy ai.
+
+---
+
+"Tiếp theo, xin mời đại diện sinh viên…"
+
+Anh ta bước ra.
+
+Không phải cái áo phông ướt mồ hôi với cái quần ống rộng hôm ở ngã tư. Polo xanh navy sơ vin vào quần âu xám, blazer đen, giày da nâu bóng lên dưới ánh đèn. Tóc vuốt ra sau, một lọn rơi xuống trán, đúng như trong ảnh. Từ hàng thứ hai, Nhi thấy rõ cả vết sẹo ở đuôi lông mày và cái chấm bạc ở tai trái.
+
+Cả hội trường, nửa số con trai ở mấy hàng sinh viên mặc sơ mi trắng, cổ cài kín, như một bộ đồng phục không ai phát. Anh ta thì không. Cô thấy thế, và thấy hơi buồn cười, vì sáng nay trong tủ nhà cô cũng có một bộ vest be mẹ may đang treo, đẩy vào sâu tận trong cùng.
+
+Cô nhìn xuống nữa mà không định thế. Blazer đen cắt gọn ở hai vai, một đường thẳng như vạch bằng thước; dưới đường ấy, anh ta đặt hai tay lên bục, và vải polo căng ra theo ngực khi anh ta hít vào. Mắt cô trượt theo hàng cúc xuống được ba cái thì dừng.
+
+Hai giây. Cô nhận ra mình đang đếm cúc áo của một người đang đứng giữa hội trường có bố cô ngồi ngay hàng trước, và ngồi thẳng lưng lên như bị ai gõ vào gáy.
+
+Cửa gió vẫn thổi thẳng xuống đầu cô. Tai cô vẫn nóng.
+
+Anh ta đứng sau bục, nhìn xuống khán phòng. Không nói ngay. Mắt anh ta đi một vòng, từ hàng sinh viên ở cuối lên đến hàng công ty ở giữa, rồi đến hai hàng ghế đầu, chậm, đều, như người ta đếm số khách trong một bữa tiệc. Đến chỗ cô, mắt anh ta dừng lại một nhịp. Rất ngắn. Rồi đi tiếp.
+
+Anh ta biết cô ở đây.
+
+"Em xin chào mọi người. Em là Thuyên, sinh viên năm ba Đại học Công nghệ."
+
+Giọng anh ta qua micro trầm hơn ngoài đời. Không run.
+
+Nhi nghe.
+
+Bài nói hay. Cô phải công nhận là hay. Có đoạn xe buýt số ba mươi tư và đi nhầm phòng thi làm cả hàng sinh viên cười. Có đoạn về cuốn sách vũ trụ bốn mươi lăm nghìn đồng và những ngôi sao đã chết từ hàng nghìn năm trước, làm ông tóc bạc ngẩng lên khỏi điện thoại. Có đoạn về ba chấm trắng trên màn hình, mấy người ở hàng giữa im phăng phắc, và Nhi nghe thấy tiếng ai đó sụt sịt ở phía sau.
+
+Nhưng cô đếm.
+
+Cô không định đếm. Nó tự đếm, như cái cách cô vẫn đếm từ bé, ở những bữa tiệc của bố, mỗi khi có ai cười với cô quá lâu hay khen cô quá đúng lúc, rồi quay sang hỏi bố cô chuyện ký hợp đồng. Ba chỗ anh ta dừng lại để người ta cười. Người ta cười đúng ba chỗ. Một chỗ anh ta dừng lâu hơn, hạ giọng xuống, để người ta lặng. Người ta lặng. Nụ cười của anh ta ở câu mở đầu và nụ cười ở câu kết thúc giống hệt nhau, cùng một góc, cùng một độ rộng, như hai tấm ảnh in từ một bản gốc.
+
+Cô đếm được, vì cô biết làm. Ở bữa tiệc của bố, cô cũng dừng đúng chỗ cho bác gái kịp cười, cũng hạ giọng đúng chỗ cho ông bác kịp gật. Năm mười sáu tuổi, cô từng kết thúc một chuyện bằng đúng một câu ai nghe cũng nhận được, không ai mất mặt, và đêm ấy cô còn thấy mình giỏi. Cô biết một câu chuyện được dựng để người ta cười ở đâu, lặng ở đâu, vì tuần nào cô cũng dựng: cho mỗi tấm ảnh, mỗi dòng chú thích, mỗi bữa cơm có khách. Người trên bục đang dựng đúng như cô.
+
+Nó không giống cái cười ở ngã tư. Cái cười phải tì tay vào yên xe.
+
+Cả hội trường vỗ tay khi anh ta nói xong câu cuối. Bố vỗ tay. Ông tóc bạc vỗ tay to nhất. Anh trai vỗ tay ba cái, đều, rồi đặt tay lại lên đùi.
+
+Nhi không vỗ tay.
+
+Không phải vì cô ghét bài nói. Cô ngồi đó, hai tay giấu trong ống tay áo len, và cảm thấy một cái gì đó gần giống như bực. Bực như khi xem một bộ phim mà biết trước đoạn nào diễn viên sẽ khóc. Cô quyết định là tại điều hòa lạnh quá.
+
+---
+
+"Chúng ta còn thời gian cho một câu hỏi."
+
+Cô giơ tay trước khi kịp nghĩ.
+
+MC nhìn danh sách trên máy tính bảng, nhìn thấy tên cô, nhìn thấy cái ghế cô ngồi, và mỉm cười cái kiểu người ta vẫn mỉm cười với cô cả đời. Một bạn tình nguyện viên chạy xuống đưa micro.
+
+Cô đứng dậy. Đế giày dày năm phân. Cô thấy anh ta khẽ nhướng mày.
+
+"Em chào anh." Rồi, vì đến lúc này cô mới chợt nhớ ra, và vì thấy buồn cười: "À. Anh phanh gấp."
+
+Cô thấy gáy anh ta đỏ lên. Từ hàng thứ hai nhìn rõ. Rồi cổ họng anh ta chuyển động, một cái nuốt khan ngay trên cổ áo polo.
+
+Người này nuốt khan trông cũng đẹp, cô nghĩ.
+
+Ở ngã tư, phanh gấp, cũng đẹp. Lúc cười mỉa cô, cũng đẹp. Đứng trên bục nói mười lăm phút toàn câu in từ bản gốc, cũng đẹp. Giờ đỏ gáy với nuốt khan, vẫn đẹp. Người này làm cái gì cũng thấy đẹp trai.
+
+Câu ấy đã lên đến đầu lưỡi. Với người ngoài, cô cân từng câu, từ bé đã thế: câu nào nói trước, câu nào để dành, câu nào không bao giờ nói. Nhưng câu này lên nhanh hơn cái cân. Cô suýt nữa nói luôn vào micro, trước cả hội trường, trước mặt bố và ông tóc bạc: *anh đẹp trai thế.*
+
+Cô ngậm miệng lại đúng lúc.
+
+Và cô thấy, lần đầu tiên, sự khéo của mình chạy sau cái miệng. Bình thường nó luôn đứng trước, chặn cửa. Hôm nay nó đến muộn, và cô phải tự tay chặn lấy câu kia. Cái việc ấy lạ đến mức cô thấy lưỡi mình cứng lại, như vừa ăn phải một miếng kem quá lạnh.
+
+Đẹp trai thì đẹp trai, cô tự nhủ. Thấy đẹp trai không phải là thích. Giàn hoa giấy trước quán cà phê quen cũng đẹp, cô có thích giàn hoa giấy đâu. Cô thấy đẹp thì cô công nhận, thế thôi. Cô thấy đẹp trai, chứ cô không thích.
+
+Chỉ là, nếu không thích, thì sao vừa rồi lại phải nghĩ trước khi nói. Cô gạt câu hỏi ấy sang một bên, như gạt một sợi tóc vướng vào son.
+
+Rồi cô mới nhớ ra mình đang cầm micro, và cả hội trường đang chờ.
+
+"Em có một câu thôi. Bài nói rất hay. Anh có tin câu nào trong đó không?"
+
+Cô hỏi vì cô muốn biết. Chỉ thế thôi. Cô thật sự muốn biết người cười ở ngã tư với người đứng trên bục, cái nào mới là anh ta.
+
+Anh ta nhìn cô. Nhìn lâu. Cô thấy mắt anh ta đi từ tay cô cầm micro, lên vai, lên mặt, rồi sang bên cạnh, sang anh trai cô, sang cái ghế cô ngồi, sang cái áo len hồng. Anh ta đang đọc. Cô biết người ta đọc mình trông như thế nào. Nhưng cô không biết anh ta đọc ra cái gì.
+
+Có mấy thứ anh ta không đọc được, vì không ai đọc được chúng từ trên một cái sân khấu.
+
+Anh ta không biết tấm thiệp màu kem trong túi áo anh ta đã chết từ tối hôm qua, sau một cuộc gọi chưa đến hai mươi giây. Không biết cái ghế số ba ghi trên nó là ghế bên cạnh người đàn ông ngồi giữa hàng đầu, người vừa phát biểu khai mạc, và cái ghế trống úp bảng tên kia là của người đang ngồi cạnh cô. Không biết người đeo khẩu trang không phải trưởng đoàn của ai cả. Không biết cái dây xanh trên cổ cô là một lỗi dữ liệu.
+
+Anh ta nhìn hàng thứ hai và thấy cái ai nhìn cũng thấy: một dãy con nhà đối tác, được mời vì bố mẹ họ ký với ai đó, mỗi người một bộ đồ đắt. Anh ta tưởng cô là một trong số họ.
+
+Hôm nay, lần đầu tiên, cô đúng là một trong số họ.
+
+Một giây, mặt anh ta có cái gì đó hẫng đi. Rồi nó biến mất. Anh ta mỉm cười, cái nụ cười in từ bản gốc.
+
+"Có ạ. Câu *em xin chào mọi người* thì em tin tuyệt đối."
+
+Cả khán phòng cười ồ.
+
+Nhi không cười.
+
+"Thế còn những câu khác?"
+
+MC chen vào. Pháo tay. Hết giờ.
+
+Cô đưa trả micro, ngồi xuống. Tay vẫn còn hơi run, không phải vì sợ. Cô nghiêng sang phía anh trai, ghé sát tai anh.
+
+"Người đèn vàng đấy anh," cô nói nhỏ. "Người nhận lỗi."
+
+Anh trai không quay sang. Anh nhìn lên sân khấu. Nhìn thẳng vào anh ta, đang cúi chào. Rồi anh gật đầu, rất nhẹ, một cái.
+
+---
+
+Chị MC đưa tay lên tai, nghe gì đó, rồi báo hội trường được tặng thêm đúng một phút. Một cậu áo câu lạc bộ ở hàng thứ mười hai đứng dậy, hai tay ôm micro như ôm một con chim, hỏi kỷ niệm tuổi thơ đáng nhớ nhất của anh là gì.
+
+Nhi nhìn anh ta. Lần này cô không đếm, vì không có gì để đếm. Mắt anh ta không đi một vòng khán phòng như lúc nãy. Anh ta đứng im hai giây, và từ hàng thứ hai cô thấy rõ: không có bản nào cho câu này.
+
+"Có một đêm hè ở quê nội, mất điện."
+
+Giọng anh ta khác. Thấp hơn, chậm hơn, cuối chữ tròn đi một chút. Rồi có một câu nói hẳn bằng tiếng quê, *Sao Hôm tề*, cô không biết là giọng vùng nào, chỉ biết là không phải giọng của người đứng trên bục từ nãy đến giờ. Hàng sinh viên cười khẽ, ấm, không ai cười chế.
+
+Anh ta kể về một cái chiếu trải ngoài bờ ruộng, tiếng ếch, một ông bố chỉ tay về phía tây rồi ngáy. Một chấm sáng rất to đứng một mình giữa trời. Đến chữ *vỡ*, cô thấy anh ta chớp mắt, một lần, rất chậm, như người cúi xuống đọc bài.
+
+Anh ta không cầm tờ giấy nào. Từ đầu buổi anh ta đã không cầm.
+
+Cô biết cái chớp mắt ấy. Cô từng quay đi chỉnh lại cái kẹp tóc, từng cúi xuống tìm cái gì đó trong túi, ở những bữa tiệc có một câu của bố rơi trúng chỗ không nên trúng. Người ta không đọc bài. Người ta chỉ cần một chỗ để mắt đi qua.
+
+"Em nhớ mỗi thế thôi ạ. Cảm ơn bạn đã hỏi."
+
+Không phải nụ cười in từ bản gốc. Không phải nụ cười gì cả.
+
+Hội trường im lâu. Rồi có tiếng vỗ tay từ đâu đó giữa phòng, thưa, rồi dày dần.
+
+Nhi vỗ tay. Hai tay vẫn giấu trong ống tay áo len, nên tiếng vỗ chỉ là len chạm len, bông bông, không ai nghe thấy, kể cả anh ta. Bên cạnh, anh trai không vỗ. Anh đặt một tay lên ngực, chỉ nhìn. Cô nghĩ, chắc anh lại sắp ho.
+
+---
+
+Bố ngoái lại qua lưng ghế, nghiêng về phía anh trai, hạ giọng, nhưng Nhi ngồi đủ gần để nghe.
+
+"Thằng bé nói được đấy." Bố gật gù, mắt vẫn nhìn theo cánh gà. "Sinh viên bây giờ ít đứa đứng trên sân khấu được như thế. Trường nào?"
+
+"Đại học Công nghệ, bố."
+
+"Để ý nó."
+
+"Vâng."
+
+Bố quay lại phía ông tóc bạc, cười, nói gì đó về thế hệ trẻ.
+
+Anh trai vẫn ngồi im. Ngón cái của anh gõ nhẹ lên mặt sau cái điện thoại úp trên đùi, hai cái, rồi dừng. Mép khẩu trang kéo căng ra một chút, vì quai hàm bên dưới vừa siết lại, như người đang cắn một cái gì đó rất cứng mà không muốn ai biết.
+
+Nhi nhìn thấy. Cô nghĩ, chắc anh mệt. Tuần này anh về nhà lúc nào cũng gần mười giờ.
+
+Cô lấy ra một gói kẹo bạc hà trong túi, chìa sang. Anh trai nhìn gói kẹo, rồi nhìn cô, rồi kéo khẩu trang xuống cằm, bóc một viên, bỏ vào miệng, kéo khẩu trang lên.
+
+"Áo len hồng," anh nói. "Không mặc bộ be mẹ may à?"
+
+"Không."
+
+Anh khẽ cười qua mũi. "Ừ. Đúng là em."
+
+---
+
+Trên xe về, bố ngồi ghế trước, gọi điện. Anh trai ngồi cạnh cô ở ghế sau, mở laptop, gõ email. Nhi tựa đầu vào cửa kính, nhìn đường Phạm Hùng chạy ngược về phía sau, những tòa nhà kính phản chiếu nắng tháng mười chói đến mức không nhìn thẳng được.
+
+Cô mở điện thoại. Mở ghi chú.
+
+*Những lần mình đúng mà không ai nhường.*
+
+Ba dòng. Dòng cuối: *Đèn vàng, sáng 5/10 – anh ta nhận lỗi.*
+
+Cô bấm xuống dòng thứ tư. Gõ: *Summit, 12/10 –*
+
+Rồi dừng.
+
+Hôm nay cô đúng. Cô chắc chắn là mình đúng. Anh ta không tin câu nào trong bài, hoặc không tin đủ để trả lời. Nhưng hôm nay anh ta không nhường. Anh ta né. Né bằng một câu đùa làm cả hội trường cười, và cả hội trường nhường anh ta.
+
+Rồi ở câu hỏi sau, câu không phải của cô, anh ta không né. Cô không biết ghi cái đó vào đâu.
+
+Cái này không thuộc về ghi chú này.
+
+Nhưng ngón tay cô vẫn đặt trên bàn phím, và nó gõ tiếp, không hỏi ý ai, sau dấu gạch ngang: *đẹp trai.*
+
+Hai chữ nằm ở dòng thứ tư của một danh sách về những lần cô đúng. Không đúng chỗ. Đúng sự thật. Cô nghiêng màn hình về phía cửa kính, tay trái kéo tóc xuống che tai bên anh trai, và thấy tai mình nóng đến mức luồng gió lạnh thổi vào cũng không nguội nổi.
+
+*Ghi nhận không phải là thích.* Cô nhắc mình lần thứ hai trong ngày. *Ghi nhận không phải là thích. Còn hàng cúc thì…*
+
+Cô không nhắc đến hàng cúc nữa.
+
+Cô xóa *trai* trước, vì chữ ấy ngượng hơn. *Đẹp* ở lại thêm hai giây, một mình, con trỏ nhấp nháy sau nó như đang chờ cô đổi ý. Cô không đổi ý. Cô xóa nốt, rồi xóa *Summit, 12/10 –*, từng chữ một, cho đến khi con trỏ nhấp nháy lại ở cuối dòng thứ ba.
+
+Bên cạnh, anh trai vẫn gõ email. Nhi liếc sang màn hình. Một cái email ngắn, gửi cho ai đó ở phòng nhân sự. Cô chỉ kịp đọc được ba chữ trong dòng tiêu đề, *Đại học Công nghệ*, thì anh đã nghiêng màn hình đi một chút, không phải cố ý, chỉ là đổi tư thế ngồi.
+
+Cô quay lại nhìn ra cửa kính.
+
+Nắng vẫn chói. Cô không nheo mắt, nhưng cũng không nhìn thẳng.

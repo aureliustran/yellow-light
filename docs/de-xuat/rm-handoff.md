@@ -29,6 +29,7 @@ Tác giả chốt, Claude ghi sổ. Claude chỉ đề xuất.
 | 10 | `docs/00-quyet-dinh-v2.md` mục 2, 4, 5, 8; `docs/01-mach-truyen-v2.md` mục 2, 4 | Nền chốt 19/10; nhớ đọc cùng mục 4 dưới đây (chỗ đã bị thay) |
 | 11 | `docs/de-xuat/th-handoff-x11-dem-say.md` | X-11 đêm say đã được session TH đặt lại ở bản lề GĐ1 → GĐ2 |
 | 12 | Project `claude/v2/bible-v2.md` | Bible hợp nhất tạm (chưa chuyển về `canon/bible.md`) |
+| 13 | Project `docs/tuyen/qua-khu/nhi.md` (QK.N) | **Mọi chất liệu về Nhi** do session QK.N giữ: tuổi, chiều cao, KOC và shop, khéo và đanh đá, màu hồng, gu tự khai, hai lượt mai mối, Phong, NT. Đọc thẳng, không chép lại (mục 9) |
 
 Thẻ nhân vật cũ ở Project (`the-nhan-vat-nhi.md`, `M-he-gia-tri-nhi.md`, `M-he-gia-tri-diep-anh.md`) là nguyên liệu, không phải canon v2.
 
@@ -134,3 +135,72 @@ Session cũ đề xuất (23/10), tác giả mới chốt **một điểm** (g�
 - Lời kể POV Thuyên không gọi tên cảm xúc; POV khác được gọi tên kèm chi tiết (`01-rules-viet.md`).
 - Kiểm thứ trong tuần bằng code; lịch 2024–2025 theo luật dời mốc "+2 ngày, giữ thứ".
 - Cuối mỗi lượt có thay đổi: đồng bộ file đã đổi lên Project, cùng đường dẫn.
+
+## 9. Ghi chú từ session QK.N (29–30/10)
+
+Session QK.N ghi, không sửa node RM. **Mọi chất liệu về Nhi nằm ở `tuyen/qua-khu/nhi.md` (Project `docs/tuyen/qua-khu/nhi.md`; thư mục `docs/tuyen/` hiện chưa có trong repo). Session RM đọc thẳng file ấy;** mục này không chép lại, chỉ giữ bản đồ và việc riêng của RM.
+
+### 9.1 Bản đồ chốt chạm RM
+
+| Chốt | Ngày | `nhi.md` |
+| --- | --- | --- |
+| Nhi 19 tuổi, sinh 2005, hiện tại 2024; Nhi 1m62, Thuyên 1m83 | 29–30/10 | §0 |
+| KOC, shop handmade; không áp lực doanh thu | 29/10 | §1.1 |
+| Tiểu thư nổi loạn: khéo là công cụ, đanh đá là bản tính; với Thuyên bị chọc tới mức đanh đá; ba ranh | 30/10 | §1.2 |
+| Kênh K17 | 29/10 | §1.3 |
+| Lớp nghi ngờ: tiểu thư nhà giàu, hot mạng mà thích mình thì vô lý | 29/10 | §1.4 |
+| Màu hồng; "tone hồng" là slang bánh bèo, giữ | 30/10 | §1.5 |
+| Gu tự khai; môn đăng hộ đối ba tầng; Thuyên trượt cái thước gia thế, đạt nhu cầu thật | 30/10 | §1.6 |
+| Hai lượt mai mối; lượt 2 là Phong; Phong biết; Khải biết; lộ ra ở timeline Thuyên chữa lành | 30/10 | §1.7, N.4, N.4b |
+| Cân nhắc bỏ Thảo và người yêu cũ (chưa quyết) | 30/10 | §5 |
+
+### 9.2 Lớp nghi ngờ của Thuyên: việc của RM `[đề xuất]`
+
+- Hai lần đọc ngược: cô khéo với mọi người, anh đọc sự dịu dàng với mình là mức nền; cô chỉ đanh đá với anh, anh đọc thành không thích. Lập luận lên trang bằng một dòng (luật minh bạch, Q-001 §2).
+- Cơ chế GĐ2: anh đủ tự tin xác nhận Nhi thích mình không vì có thêm bằng chứng về cô, mà vì con số của chính anh tăng (lab, kim bài, ghế 50 triệu).
+- Lớp mỉa: anh nghe gu tự khai (X-05) theo nghĩa đen là tiền, gia thế, và ở GĐ2 đuổi theo đúng cái thước Nhi không thật sự cần; thứ cô cần là bộ óc của anh, anh có từ đầu (`nhi.md` §1.6).
+- Gốc ở QK.T: NT-14, NT-24, *Tủi hổ*; trục H5.
+
+### 9.3 Nhi kéo Thuyên hợp tác shop từ GĐ1 `[đề xuất, tác giả 29/10]`
+
+**Nội dung:** Nhi đòi anh hợp tác: làm website, làm mẫu nam, chọn đồ nam từ nguồn hàng vì anh có gu. Cô bán vì đam mê, và vì thích anh, thấy thuận mắt nên đòi anh support.
+
+**Lý do của tác giả:** (1) giảm sức nặng của RM.TN (SS+) dồn lên các buổi học IELTS; (2) kinh doanh cùng nhau từ GĐ1 làm nền cho startup sau thạc sĩ (Phần 3), vì cả hai biết điểm mạnh, yếu của người kia từ đầu.
+
+**Session QK.N đánh giá: dùng được.** Thêm:
+- Khớp canon: Thuyên có gu, "ảnh aesthetic", Crocs, Casio (bible §4.1); ngoại hình đủ làm mẫu; website là nghề của anh. Trả lời một phần Q-013 (tài năng của Nhi, vai đồng sáng lập ở Phần 3) và phương án 7b.2 của doc 04.
+- Fan service đảo vai: buổi chụp là chỗ cô nhìn anh, chỉnh tư thế anh; E2, E3 chạy ngược chiều.
+- Đọc ngược thêm một lần: anh đọc lời mời thành "cô cần mẫu nam miễn phí, cần người làm web", không phải thích.
+- Nền Phần 3: anh làm sản phẩm, đo, tối ưu, tham; cô cảm người mua, làm hình ảnh, không kỷ luật doanh thu. Mâu thuẫn của startup có sẵn từ GĐ1.
+- Mốc biến chất GĐ2 (gợi ý): anh bắt đầu gắn số liệu, mục tiêu vào shop của cô; đam mê không áp lực của cô bị thước của anh chạm vào. Cô nhận ra trước ai hết (nối "Dạo này anh nói chuyện như người đang thắng").
+
+**Ranh phải xử trước khi viết:**
+1. **Tiền.** Canon: Thuyên là người đầu tiên từ chối tiền của Nhi; hội đồng đổi ý vì tiền (02 §1). Hợp tác phải có cách trả công không phá chốt này. Chờ tác giả.
+2. **Q-001.** Website, tên miền, thanh toán, đăng ký kinh doanh đứng tên Nhi, không qua công ty của mẹ hay Astrea. Ảnh anh làm mẫu trên kênh hot: chị Hạnh và Khải (đã biết Nhi là ai) thấy; với Khải đây là dữ liệu về độ gần của hai người (L4), còn Thuyên không biết thêm gì. Soát với session TH (TH.LAB, TH.T18).
+3. **Thời gian GĐ1.** Anh đã có lab, buổi học, pickup, Diệp Anh. Hợp tác thay một phần buổi ngoại khóa, không cộng thêm (đúng mục đích giảm tải). Nối Q-034 đến Q-036.
+4. **Diệp Anh:** anh làm mẫu cho Nhi là tín hiệu cô đọc được (RM.TD).
+5. **Gãy (gợi ý):** quyền quản trị shop và website anh giữ thành vật cầu: ai rút quyền, ai đổi mật khẩu.
+6. **Dưới 18 tuổi:** mảnh quá khứ về shop chỉ nói đồ, màu, cảnh.
+
+### 9.4 Tuyến Phong: việc của RM
+
+- Phong biết mình được tạo điều kiện (trả lời Q-006, chốt 30/10). Luật "Phong không bao giờ làm điều xấu để giữ chỗ" cần cân lại: Phong không làm gì xấu nhưng có im lặng.
+- `[đề xuất]` Phong nói thật với Nhi chuyện Thuyên làm quân sư (chốt 24/10) một phần vì cậu đang giữ cho mình một điều không nói.
+- `[đề xuất]` Đóng Q-006 trong `canon/cau-hoi.md` (session kiến trúc ghi).
+
+### 9.5 Gương ở hiện tại `[đề xuất]`
+
+- Ch.1 đèn vàng: lần đầu có người không nói "ừ" với cô (gương nhịp 3 của lượt 1 mai mối).
+- Thuyên làm mẫu cho shop, cãi từng chỉ đạo, ảnh sống, cô không xóa tấm nào (gương nhịp 4: ảnh chết, xóa cả thư mục).
+- POV Thuyên nhấn chi tiết hồng; POV Nhi kể bộ đồ như cô chọn (`nhi.md` §1.5).
+
+### 9.6 Canon RM cần sửa theo `nhi.md` (không sửa hộ)
+
+- BRIEF §3 "cãi là mặc định": đọc là đanh đá khi giành quyền lợi hoặc bị chọc cay quá.
+- `03-kho-nhi-thich-thuyen.md` §0: gốc của gu mắt và gu lòng (đang ghi từ người yêu cũ) đổi thành lời cô tự khai năm 16 tuổi, gia đình dạy; thêm môn đăng hộ đối là hình dạng vẽ sai của gu ẩn.
+- Thẻ Nhi: nếu bỏ Thảo, thang nấc cần chiếc thang khác (ứng viên: Thuyên, Khải, hội đồng, shop).
+
+### 9.7 Bổ trợ cảm xúc và lý trí: động lực của RM.TN
+
+- `[chốt 30/10]` Ngoài sự tương xứng, Nhi và Thuyên là sự bổ trợ: cô sống bằng cảm xúc, anh dựa vào lý trí; anh chọc, cô cãi; cô có vấn đề, anh càu nhàu rồi vẫn giải quyết.
+- `[đề xuất]` Cơ chế, mặt tối ở GĐ2 và ngày gãy, và nguồn nghiên cứu: `tuyen/qua-khu/nhi.md` §1.6. Tóm: giống nhau về giá trị, bổ trợ về cách xử lý; Nhi gọi tên cảm xúc cho Thuyên, Thuyên giải quyết vấn đề cho Nhi; bổ trợ vỡ khi anh thôi nghe và chỉ còn giải quyết (H7 của Nhi quay lại qua người cô yêu).

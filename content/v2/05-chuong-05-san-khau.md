@@ -6,7 +6,7 @@ Oct 31, 2026 · @aureliustran.
 
 Sáu rưỡi sáng, Vũ đập cửa phòng trọ như công an khu vực.
 
-"Dậy chưa? Tao mang bàn là sang rồi đây. Bàn là của bác gái tao, làm cháy là mày đền."
+"[[ht: Dậy chưa? Tau cầm bàn là sang rồi nạ. Bàn là của bác gấy tau, mần cháy là mi đền. || Dậy chưa? Tao mang bàn là sang rồi đây. Bàn là của bác gái tao, làm cháy là mày đền.]]"
 
 Thuyên mở cửa. Vũ khựng lại, tay vẫn giơ cái bàn là lên như giơ cúp.
 
@@ -14,31 +14,31 @@ Thuyên đã mặc xong. Áo polo xanh navy, có con ngựa nhỏ thêu trên ng
 
 Cái sẹo nhỏ cắt ngang đuôi lông mày trái vẫn ở đó. Cái khuyên bạc nhỏ ở tai trái cũng vẫn ở đó.
 
-"Ơ đm," Vũ nói. "Mày đi phát biểu hay đi chụp ảnh tạp chí?"
+"Ơ đm," Vũ nói. "[[ht: Mi đi phát biểu hay đi chụp ảnh tạp chí? || Mày đi phát biểu hay đi chụp ảnh tạp chí?]]"
 
 "Đi phát biểu."
 
-"Thế bàn là tao mang sang làm gì?"
+"[[ht: Rứa bàn là tau cầm sang mần chi? || Thế bàn là tao mang sang làm gì?]]"
 
-"Ai bảo mày mang. Tao là áo từ tối qua rồi. Nhưng cảm ơn bác mày hộ tao."
+"[[ht: Ai nói mi cầm. Tau là áo từ tối bựa qua rồi. Nhưng cảm ơn bác mi hộ tau. || Ai bảo mày mang. Tao là áo từ tối qua rồi. Nhưng cảm ơn bác mày hộ tao.]]"
 
-"Tao tưởng mày mặc sơ mi trắng. Sinh viên lên phát biểu thì phải sơ mi trắng chứ."
+"[[ht: Tau tưởng mi mặc sơ mi trắng. Sinh viên lên phát biểu thì phải sơ mi trắng chơ. || Tao tưởng mày mặc sơ mi trắng. Sinh viên lên phát biểu thì phải sơ mi trắng chứ.]]"
 
-"Sơ mi trắng thì cả hội trường mặc rồi." Thuyên cầm cái blazer lên, phủi một sợi chỉ không tồn tại. "Lên sân khấu thì không ai nhớ cái áo giống mọi người cả."
+"Sơ mi trắng thì cả hội trường mặc rồi." Thuyên cầm cái blazer lên, phủi một sợi chỉ không tồn tại. "[[ht: Lên sân khấu thì nỏ ai nhớ cấy áo giống mọi ngài hết. || Lên sân khấu thì không ai nhớ cái áo giống mọi người cả.]]"
 
-Ở góc phòng, cái áo sơ mi trắng vẫn vắt trên lưng ghế từ tối Chủ nhật tuần trước, bọc nilon đã gỡ, nếp gấp ngang ngực còn nguyên. Anh đã nhắn *Dạ*, đã nhắn *Con cảm ơn mạ*. Anh không mặc nó. Anh không nhìn về phía cái ghế khi nói câu vừa rồi.
+Ở góc phòng, cái áo sơ mi trắng vẫn vắt trên lưng ghế từ tối Chủ nhật tuần trước, bọc nilon đã gỡ, nếp gấp ngang ngực còn nguyên. Anh đã nhắn *Dạ*, đã nhắn *Con cảm ơn mẹ*. Anh không mặc nó. Anh không nhìn về phía cái ghế khi nói câu vừa rồi.
 
 Vũ đi vòng quanh anh một vòng như đi xem xe cũ. Dừng lại ở ngực áo, nheo mắt.
 
-"Polo Ralph xịn à?"
+"[[ht: Polo Ralph xịn rứa? || Polo Ralph xịn à?]]"
 
 "Quảng Châu. Đứng xa ba mét là xịn."
 
-"Con ngựa nó thêu lệch kìa."
+"[[ht: Cân ngựa hấn thêu lệch tê. || Con ngựa nó thêu lệch kìa.]]"
 
 "Ngựa đang phi thì lệch là đúng."
 
-"Mày nói gì cũng có lý vcl." Vũ chỉ vào tai anh. "Thế cái khuyên tai thì sao? Không tháo ra à? Thầy Bình nhìn thấy lại lên cơn."
+"[[ht: Mi nói chi cũng có lý vcl. || Mày nói gì cũng có lý vcl.]]" Vũ chỉ vào tai anh. "[[ht: Rứa cấy khuyên tai thì năng? Nỏ tháo ra à? Thầy Bình nhìn chộ lại lên cơn. || Thế cái khuyên tai thì sao? Không tháo ra à? Thầy Bình nhìn thấy lại lên cơn.]]"
 
 "Thầy nhìn hai năm rồi. Lên cơn mãi cũng phải quen, giờ thầy chỉ thở dài thôi."
 
@@ -48,9 +48,9 @@ Im lặng ba giây.
 
 "Đm."
 
-"Đấy," Thuyên nói, rút một tờ giấy ăn đưa cho nó. "Giờ thì mày mới là người cần cái bàn là."
+"Đấy," Thuyên nói, rút một tờ giấy ăn đưa cho nó. "[[ht: Dừ thì mi mới là ngài cần cấy bàn là. || Giờ thì mày mới là người cần cái bàn là.]]"
 
-"Bàn là thì làm gì được sữa đậu nành." Vũ lau, vệt sữa loang ra to gấp đôi. Nó nhìn xuống ngực mình, rồi nhìn sang Thuyên từ đầu đến chân, rồi thở dài như một ông bố có con trai hư. "Thôi. Idol. Đi thôi, tao chở."
+"[[ht: Bàn là thì mần chi được sữa đậu nành. || Bàn là thì làm gì được sữa đậu nành.]]" Vũ lau, vệt sữa loang ra to gấp đôi. Nó nhìn xuống ngực mình, rồi nhìn sang Thuyên từ đầu đến chân, rồi thở dài như một ông bố có con trai hư. "[[ht: Thôi. Idol. Đi đê, tau chở. || Thôi. Idol. Đi thôi, tao chở.]]"
 
 Trước khi ra cửa, Thuyên mở ngăn trước ba lô, lấy tấm thiệp màu kem, nhét vào túi trong của chiếc blazer. Vũ nhìn theo, không hỏi.
 
@@ -68,13 +68,13 @@ Vũ chở anh bằng chiếc Wave đời cũ, đi đường Phạm Hùng. Gió t
 
 "Không."
 
-"Mày nói dối như hạch."
+"[[ht: Mi nói dối như hạch. || Mày nói dối như hạch.]]"
 
-"Không run thật mà. Tay tao đang giữ cái blazer đây này, run thì nó bay mất lâu rồi."
+"[[ht: Nỏ run thật mà. Tay tau đang cầm cấy blazer ni, run thì hấn bay mất lâu rồi. || Không run thật mà. Tay tao đang giữ cái blazer đây này, run thì nó bay mất lâu rồi.]]"
 
 Vũ quay đầu lại nhìn anh một giây. Rồi quay đi.
 
-"Ừ," nó nói. "Thế mới đáng sợ."
+"Ừ," nó nói. "[[ht: Rứa mới đáng sợ. || Thế mới đáng sợ.]]"
 
 Đèn xanh. Vũ vặn ga. Thuyên định hỏi lại nó nói thế là ý gì, nhưng gió to quá, và Vũ đã kịp lách qua hai cái xe buýt.
 
@@ -110,7 +110,7 @@ Hàng thứ hai là một khối riêng, bảng tên dây xanh, không phải d�
 
 Phía sau hai hàng ấy là các công ty, đại diện quỹ đầu tư, rồi đến sinh viên. Sinh viên ngồi kín các hàng cuối, có đứa mặc áo đồng phục khoa, có đứa giơ điện thoại quay sẵn. Anh nhận ra mấy cái áo CLB tin học. Ngọc Anh ngồi hàng thứ mười hai, tay cầm một tấm bìa cứng tự làm, chưa giơ lên.
 
-Năm phút trước giờ, anh đã đọc xong cả khán phòng. Biết chỗ nào sẽ cười, chỗ nào sẽ chán, chỗ nào cần nói chậm lại. Biết hàng VIP sẽ không cười ở câu đùa thứ nhất, nên câu đùa thứ nhất phải dành cho hàng sinh viên. Biết ông tóc bạc sẽ ngẩng lên nếu anh nhắc đến một con số. Biết hai bà sẽ im lặng nếu anh kể chuyện về mạ.
+Năm phút trước giờ, anh đã đọc xong cả khán phòng. Biết chỗ nào sẽ cười, chỗ nào sẽ chán, chỗ nào cần nói chậm lại. Biết hàng VIP sẽ không cười ở câu đùa thứ nhất, nên câu đùa thứ nhất phải dành cho hàng sinh viên. Biết ông tóc bạc sẽ ngẩng lên nếu anh nhắc đến một con số. Biết hai bà sẽ im lặng nếu anh kể chuyện về mẹ.
 
 Rồi ánh mắt anh dừng lại ở hàng thứ hai, ngay cạnh người đeo khẩu trang.
 
@@ -171,6 +171,8 @@ Nó bắt đầu từ hàng sinh viên, lan lên giữa, rồi đến hàng VIP.
 Ở cuối khán phòng, chỗ cửa ra vào, có một bóng người tròn tròn đứng khoanh tay dựa vào tường. Anh không biết Vũ đã vào từ lúc nào. Vũ không vỗ tay ngay. Nó đứng nhìn anh một lúc, rồi mới vỗ, chậm, ba cái.
 
 Thuyên cúi đầu chào. Đèn sân khấu vẫn trắng và nóng. Anh để tràng vỗ tay kéo dài thêm hai giây, đúng như đã tính, trước khi ngẩng lên.
+
+*Mấy trăm người vỗ tay cho thằng gõ cổng.*
 
 Khi ngẩng lên, anh nhìn thẳng về hàng thứ hai.
 
@@ -252,7 +254,7 @@ Rồi anh nghe giọng mình, trước khi anh quyết định nói:
 
 Giọng anh hạ xuống nửa tông, nhưng không phải nửa tông anh đã tập.
 
-"Bố em trải chiếu ra bờ ruộng trước nhà, hai bố con nằm. Ếch kêu từ dưới ruộng lên từng đợt. Bố giơ tay chỉ về phía chân trời đằng tây và nói…" Anh để giọng quê chạy ra, vì không còn kịp giấu: "[[ht: Sao Hôm tề. Hồi bé bọ đi chăn trâu, thấy hắn lên là biết phải lùa trâu về. || Sao Hôm kìa. Hồi bé bố đi chăn trâu, thấy nó lên là biết phải lùa trâu về.]]"
+"Bố em trải chiếu ra bờ ruộng trước nhà, hai bố con nằm. Ếch kêu từ dưới ruộng lên từng đợt. Bố giơ tay chỉ về phía chân trời đằng tây và nói…" Anh để giọng quê chạy ra, vì không còn kịp giấu: "[[ht: Sao Hôm tề. Hồi nhỏ bố đi chăn tru, chộ hấn lên là biết phải lùa tru về. || Sao Hôm kìa. Hồi bé bố đi chăn trâu, thấy nó lên là biết phải lùa trâu về.]]"
 
 Ở hàng sinh viên có tiếng cười khẽ, ấm. Không ai cười chế.
 
@@ -296,7 +298,7 @@ Vũ Béo: Nhưng mà đỉnh thật đm 😅
 :::
 
 :::chat
-Vũ Béo: mà con bé áo hồng hỏi câu gì mà mặt m như ăn phải ớt thế
+Vũ Béo: [[ht: mà cân nhỏ áo hồng hỏi câu chi mà mặt mi như ăn phải ớt rứa || mà con bé áo hồng hỏi câu gì mà mặt m như ăn phải ớt thế]]
 :::
 
 Anh nhìn dòng tin cuối cùng, rồi gõ:
@@ -308,14 +310,14 @@ Anh nhìn dòng tin cuối cùng, rồi gõ:
 Vũ trả lời gần như ngay lập tức:
 
 :::chat
-Vũ Béo: 1-0 cái đầu m 🖕
+Vũ Béo: [[ht: 1-0 cấy đầu mi 🖕 || 1-0 cái đầu m 🖕]]
 :::
 
 Anh bật cười. Điện thoại rung thêm một lần.
 
 :::chat
 Vũ Béo: Cái đoạn sao hôm
-Vũ Béo: T biết m từ cấp 2 mà chưa nghe m kể cái đó
+Vũ Béo: [[ht: T biết mi từ cấp 2 mà chưa nghe mi kể cấy nớ || T biết m từ cấp 2 mà chưa nghe m kể cái đó]]
 :::
 
 Anh gõ lại:
@@ -338,7 +340,7 @@ Anh cười. Cùng một nụ cười, đúng góc, đúng lúc, hai mươi lầ
 
 Giữa sảnh, tấm băng rôn của sự kiện treo từ trần xuống. Trên màn hình lịch trình bên cạnh, tên anh vẫn còn chạy, chữ trắng trên nền xanh đậm.
 
-Anh lấy điện thoại ra, gửi đường link livestream cho mạ.
+Anh lấy điện thoại ra, gửi đường link livestream cho mẹ.
 
 Rồi tắt màn hình.
 

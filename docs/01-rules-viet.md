@@ -289,6 +289,8 @@ Dò → tự sửa → dò → bỏ lửng → lật sai. Người đọc thấy
 
 ## Cảm xúc chuyển dạng, không gọi tên (chốt 18/10)
 
+> **Sửa 28/10:** luật gọi tên cảm xúc ở POV Thuyên đã đổi (chốt 26/10). Xem `rules/goi-ten-cam-xuc.md`. Mục này còn hiệu lực cho các ngoại lệ ở §4 của file ấy (R8, R9, lớp quá khứ QK.T).
+
 **Luật:** cảm xúc của Thuyên không bao giờ biến mất khỏi trang, và không bao giờ được người kể gọi tên. Nó **chuyển dạng** theo tuổi: càng lớn càng nhiều lớp, và khoảng cách giữa cái anh cảm thấy với cái anh làm ra càng xa. Đây không phải cơ chế bớt cảm xúc, mà là cảm xúc phức tạp dần theo quá trình trưởng thành của một con người. Áp dụng xuyên suốt truyện, mọi chương và đoạn POV Thuyên, từ mầm non đến Phần 2. POV khác Thuyên dùng kỹ thuật này và được gọi tên thêm (xem *Ranh*).
 
 Người kể phải làm người đọc **cảm được** cái buồn, cái tủi trong lời kể, mà không nêu tên nó.
@@ -341,7 +343,7 @@ Lời kể được **nhuộm** bởi trạng thái của anh. Người đọc c
 
 ### Ranh với các luật khác
 
-- **Cấm gọi tên trong lời kể POV Thuyên:** tủi, buồn, vui, ghen, nhục, sợ, cô đơn, hạnh phúc, tự hào… Không thay bằng tính từ màu ("buồn bã", "u ám", "nặng nề"). Ngoại lệ duy nhất: **tiêu đề** interlude của Thuyên là tên một cảm xúc (Chương 0: *Cô tịch*); lời kể bên trong vẫn không gọi tên.
+- *(Thay bởi `rules/goi-ten-cam-xuc.md`, chốt 26/10, trừ các ngoại lệ ở §4 của file ấy.)* **Cấm gọi tên trong lời kể POV Thuyên:** tủi, buồn, vui, ghen, nhục, sợ, cô đơn, hạnh phúc, tự hào… Không thay bằng tính từ màu ("buồn bã", "u ám", "nặng nề"). Ngoại lệ duy nhất: **tiêu đề** interlude của Thuyên là tên một cảm xúc (Chương 0: *Cô tịch*); lời kể bên trong vẫn không gọi tên.
 - **Phủ định của chính anh được giữ:** câu như "Không buồn." là hành vi gạt đi của anh trong giọng gián tiếp tự do, không phải người kể gọi tên.
 - **Thoại được nói tên:** người khác nói về anh; anh nói ở phần hồi phục ("bố sợ").
 - **Với lời kể biểu cảm có chủ đích:** dò và lật dẫn tới chỗ anh đoán nguyên nhân, không dẫn tới tên cảm xúc.

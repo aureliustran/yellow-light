@@ -1,6 +1,6 @@
 # Module: Hệ giá trị của Thuyên
 
-Oct 18, 2026 · @aureliustran. Trạng thái: **khung đã chốt với tác giả (18/10), chưa sửa chương.** Cập nhật 19/10: định nghĩa lại lăng kính và năng lực đọc người theo plan sửa ch.2–5; bỏ hẳn việc đọc nét mặt, tiếng dép, tiếng bát, vai bố.
+Oct 18, 2026 · @aureliustran. Trạng thái: **khung đã chốt với tác giả (18/10), chưa sửa chương.** Cập nhật 19/10: định nghĩa lại lăng kính và năng lực đọc người theo plan sửa ch.2–5; bỏ hẳn việc đọc nét mặt, tiếng dép, tiếng bát, vai bố. Cập nhật 04/11: §3c lăng kính dùng để làm gì (`tuyen/qua-khu/thuyen-lang-kinh.md`).
 
 Phạm vi: toàn Phần 1 (ch.2–56). Đây là module gốc: tẩm độc, được gì – ai mất gì, motif báo thù đều là hệ quả của nó.
 
@@ -77,6 +77,18 @@ Mỗi giai đoạn lăng kính sắc thêm một nấc, và hệ giá trị dự
 **Đối trọng hài:** vụng việc nhỏ (khâu cúc, cơm khê) là vì mải tối ưu. Ở lab, lười nên tự động hóa (tài liệu *terminal_to_cluster* có thể mọc từ đây).
 
 **Ở đáy:** không còn thành quả nào xứng đáng, nên phép tính trả về không. Dạng 3 quay lại thành tê liệt.
+
+### 3c. Lăng kính dùng để làm gì (chốt 04/11)
+
+Định nghĩa ở §1 giữ nguyên: lăng kính thu nạp thông tin và đưa ra phân tích khách quan; lệch tiêu cực, mù với lòng người, không hỏi cây thước. Trục mới là **dùng nó vào việc gì**:
+
+- **Cấp 1:** không dùng được. Dám nhìn, dám nghĩ, quá sợ để thừa nhận suy nghĩ của mình (*Hay là mình nhìn sai*).
+- **Cấp 2:** phản kháng. Sự khách quan không thắng được sự chủ quan của người có quyền, nên thứ nhận lại là nỗi đau.
+- **Cấp 3:** lợi ích cá nhân và trả thù bằng sự siêu việt: hình dạng hoàn thiện. Chuỗi: siêu việt → quyền lực → bệ phóng → tên lửa (lập luận khách quan có lợi) → kéo đối tượng xuống thành người yếu hơn → đàn áp. Đối tượng: người từng làm anh khổ, có thể làm anh khổ, có sức chống lại lợi ích của anh. Người yếu sẵn không phải đối tượng.
+
+Lớp 11 và GĐ2 → GÃY là cùng một chuỗi, khác độ tinh vi. Khí thải là phản ứng khi kế hoạch đại bại; răn là áp chế người yếu sẵn có điểm dừng. Chi tiết: `tuyen/qua-khu/thuyen-lang-kinh.md`.
+
+**Ghi chú:** dòng "Lớp 12 (ch.6): lăng kính thành vũ khí: đọc Vy…" ở bảng §3 là canon cũ (Vy đã bỏ, 27/10); thay bằng §3c.
 
 ## 4. Hai lớp động cơ
 

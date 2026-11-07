@@ -33,7 +33,7 @@ Tám giờ, điện thoại rung.
 Không cần nhìn màn hình. Anh nhìn nó rung trên mặt bàn, xoay một vòng nhỏ quanh chính nó như con cánh cam bị lật ngửa, rồi dừng. Một phút sau, một tin nhắn.
 
 :::chat
-Mạ: Rang khong nghe may
+Mẹ: Rang khong nghe may
 :::
 
 Không có dấu hỏi. Mẹ không bao giờ dùng dấu hỏi trong tin nhắn.
