@@ -30,7 +30,7 @@ Cái sẹo nhỏ cắt ngang đuôi lông mày trái vẫn ở đó. Cái khuyê
 
 Vũ đi vòng quanh anh một vòng như đi xem xe cũ. Dừng lại ở ngực áo, nheo mắt.
 
-"[[ht: Polo Ralph xịn rứa? || Polo Ralph xịn à?]]"
+"[[ht: Polo Ralph xịn à? || Polo Ralph xịn à?]]"
 
 "Quảng Châu. Đứng xa ba mét là xịn."
 

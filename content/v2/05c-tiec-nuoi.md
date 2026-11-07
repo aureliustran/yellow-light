@@ -40,6 +40,20 @@ Cuốn sách sống được mười hai ngày.
 
 Anh đọc nó dưới gầm bàn học, kẹp giữa sách Toán và sách Tự nhiên và Xã hội. Nghe tiếng xe máy ở đầu ngõ là gập lại.
 
+Cuốn sách thì anh đọc được. Một trang, mười trang, không nghe tiếng quạt, không biết trời đã tối, đến khi tiếng xe máy ở đầu ngõ kéo anh về. Quyển Tiếng Việt nằm ngay bên dưới thì không.
+
+Bài tập đọc có sáu dòng. Dòng thứ nhất có con mèo. Ngoài cửa sổ có con thạch sùng đang bò ngang qua cái đèn tuýp, bò được nửa thì dừng, như nó cũng quên mình định đi đâu. Nó có đuôi không nhỉ. Con hôm trước bị đứt đuôi. Đuôi đứt rồi có mọc lại không—
+
+"[[ht: Đọc tới mô rồi? || Đọc đến đâu rồi?]]" Mẹ hỏi vọng từ dưới bếp.
+
+Anh nhìn xuống. Vẫn dòng thứ nhất. Vẫn con mèo.
+
+"Dạ."
+
+"[[ht: Ngồi cả buổi mà một dòng nỏ xong. Đầu óc mi để mô? || Ngồi cả buổi mà một dòng không xong. Đầu óc mày để đâu?]]"
+
+Anh không biết đầu óc mình để đâu. Anh sợ, vì đúng là anh không biết. Có một lúc anh đã ở trên cái đèn tuýp với con thạch sùng, rồi bây giờ lại ở đây, và ở giữa hai chỗ ấy không có gì cả.
+
 Có một trang nói về một ngôi sao đã chết từ lâu mà ánh sáng của nó vẫn còn đang trên đường bay tới, hàng nghìn năm nữa mới đến nơi. Đọc đến đó anh ngồi im, hai cánh tay nổi da gà. Anh thấy mình bé lắm, bé như hạt cát, mà cái bé ấy không làm anh sợ. Nó làm anh nhẹ. Trên đời có những thứ to đến mức điểm dưới bảy, chữ "bà" móc lên dòng trên, cái roi trên cái đinh, tất cả chẳng là gì.
 
 Có một trang in một tinh vân hình con cua, đỏ và tím, những sợi sáng tỏa ra như chân cua. Anh lấy bút chì đồ lại lên giấy pơ-luya. Đồ ba lần. Lần nào cũng lệch một cái càng. Anh gấp cả ba tờ làm tư, cất vào hộp bút.
