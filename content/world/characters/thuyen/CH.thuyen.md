@@ -5,13 +5,13 @@ status: agreed
 updated: 2026-11-10
 aliases: [NV.thuyen, thuyen, Thuyên]
 exports: [cai-toi-doc, exl, lang-kinh, cai-goi, CH.thuyen.mechanics, CH.thuyen.beliefs, CH.thuyen.voice]
-sources: [tuyen/qua-khu/thuyen.md (mốc, §6.9), tuyen/qua-khu/thuyen-co-may.md §2–4, tuyen/qua-khu/thuyen-adhd.md §4, §7, tuyen/qua-khu/nhi.md §1, canon/bible-v2.md §3, §4.1, M-he-gia-tri.md §5, tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md]
+sources: [posts/vercel ch.02, ch.03, 04a, 04aa, 04c, ch.05 (page), characters.yaml (v1), de-xuat/qk-t-cap-3-motif-lop-10.md §1, tuyen/qua-khu/thuyen.md (mốc, §1–3, §6.9), tuyen/qua-khu/thuyen-co-may.md §2–4, tuyen/qua-khu/thuyen-adhd.md §4, §7, tuyen/qua-khu/nhi.md §1, canon/bible-v2.md §3, §4.1, M-he-gia-tri.md §5, tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md]
 ---
 # CH.thuyen · Thuyên
 
 Nam chính, POV chính. Một chàng trai giỏi đọc người, mù với chính mình, chạy bằng một cỗ máy hiện sinh mà nhiên liệu là sự công nhận.
 
-**Mục:** `identity` · `purpose` · `rules` · `attributes` · `exports` · `moved` (thứ không thuộc file này). Cơ chế: [[CH.thuyen.mechanics]]. Niềm tin, giọng nền: B3b.
+**Mục:** `identity` · `record` · `purpose` · `rules` · `attributes` · `exports` · `moved` (thứ không thuộc file này). Cơ chế: [[CH.thuyen.mechanics]]. Niềm tin, giọng nền: B3b.
 
 ## identity
 
@@ -20,13 +20,36 @@ Nam chính, POV chính. Một chàng trai giỏi đọc người, mù với chí
 | sinh | 17h, 8/5/2004 | `locked 31/10` |
 | tuổi | 20 ở summit (T7 12/10/2024), 21 ở ch.0 (CN 27/7/2025); bảng lớp ↔ năm ↔ tuổi: `config/calendar.md` | `locked 31/10` |
 | học | lớp 1 năm 2010–11; chuyên Toán tỉnh (thi chuyên 6/2019); lớp 10–11 trong dịch (2019–21); lớp 12 năm 2021–22; đại học 2022, K67; năm ba ở summit | `locked 31/10` |
-| trường, ngành đại học | chưa có trong nguồn v2 | `needs-decision` |
-| quê | Hà Tĩnh (theo thẻ nhân vật v1; giọng mạ trên trang là giọng Hà Tĩnh) | `raw` |
+| trường, ngành | Khoa học Máy tính, Trường Đại học Công nghệ, ĐHQGHN (UET); năm ba ở summit | `page` (ch.02, ch.05) |
+| quê | Hà Tĩnh: thẻ nhân vật v1; trên trang v2, mạ nói giọng Hà Tĩnh (04a) | `raw` (v1) · giọng nhà `page` |
 | thân thể | cao 1m83; đánh bóng rổ rất hay nhưng có người hay hơn, top 2–7 tùy tối; lối chơi Kyrie, isolate, makeplay, bait; ít nói lúc đánh | `locked 30/10` (chiều cao) · `locked 20/10` (sân) |
 | thần kinh | ADHD dạng kết hợp; bố mẹ không biết; không người lớn nào nghi. Tầng dưới cùng mà mọi thứ khác đắp lên | `locked 01/11` (dạng, bố mẹ không biết) · `proposed` (phần còn lại) |
 | gia đình | con cả, có một em trai (quậy, "nghịch mà khôn", ích kỉ vô tư); mạ, bố; bác Hùng và anh họ Nam (đối chứng) | `locked 30/10` · tuổi và tên em: `needs-decision` |
 | vẻ ngoài, gu | Casio, Crocs, ảnh aesthetic; tự làm tự ăn, biết trân trọng thứ mình có | `raw` (bible §4.1 "lõi") |
 | nơi làm ở hiện tại | lab ở Astrea Technology (tầng 17–18), từ T2 28/10/2024 | `proposed` (ngày suy ra) |
+
+## record
+
+Thành tích và thời điểm nhận. Cảnh của từng dòng thuộc node (`PAST.T`, hoặc node hiện tại); cột "Cảnh" trỏ tới đó khi node đã chuyển. Năm theo lịch `locked 31/10` (`config/calendar.md`).
+
+| Thời điểm | Thành tích | Mức, kết quả | Trạng thái | Cảnh (nguồn) |
+| --- | --- | --- | --- | --- |
+| lớp 6, 2015–16 | bài giải ngắn nhất lớp, cô Toán cho cả lớp xem | khen trước lớp | `proposed` | QK.T 1.6 |
+| lớp 8, cuối năm 2017–18 (7/2018) | giấy khen; giải huyện "học ít vẫn có" | cấp huyện | giấy khen `locked`; giải huyện `proposed` (vị trí) | QK.T 1.8 (năm sửa theo lịch mới) |
+| 6/2019 | đỗ chuyên Toán tỉnh | đỗ thứ tư | `locked` · `page` ("Đỗ chuyên Toán", ch.03) | QK.T 1.11 |
+| lớp 10–11, 2019–21 | giải tỉnh | mức và môn **chưa chốt** (tạm theo plan cũ: giải tỉnh Toán lớp 10, giải Nhất tỉnh Tin lớp 11; hướng 02/11: viết phẳng một dòng) | `page` ("Giải tỉnh", ch.03) · mức `needs-decision` | QK.T §2 *Kiêu hãnh* |
+| thu lớp 11, 2020 | đứng đầu kỳ chọn đội tuyển Tin, vào đội tuyển quốc gia | đội tuyển | `page` ("Đội tuyển", ch.03) | QK.T §2 *Kiêu hãnh* |
+| 24–25/2/2021 (kết quả 13/3/2021) | thi học sinh giỏi quốc gia môn Tin | **không giải** | `locked 27/10` | QK.T §2 *Hụt hẫng* |
+| lớp 12, 2021–22 | thư nhận du học Mỹ; bị gạt (không đi) | "một thành công bị từ chối" | `agreed 02/11` (hướng) | QK.T §2 *Phẫn uất* |
+| 2022 | vào Đại học Công nghệ, ĐHQGHN, ngành Khoa học Máy tính (K67) | | `page` · `locked 31/10` (năm) | QK.T §2 |
+| học kỳ hai năm nhất (xuân 2023) | hackathon ba mươi sáu tiếng, đội ghép ngẫu nhiên | giải Nhì (đội) | `page` (04a) | 04a *Cô độc* |
+| đầu năm hai (thu 2023) | phó ban Ban điều hành CLB Tin học, phụ trách đào tạo và hỗ trợ đề tài | | `page` (04a, ch.02, ch.03) | 04a |
+| 2/2024 | đề tài nghiên cứu khoa học sinh viên (chủ nhiệm; thầy Bình hướng dẫn; nhóm anh, Đức, Lan) được chọn lên cấp quốc gia | cấp quốc gia | `page` (04aa, ch.02) | 04aa *Mỏi mệt* |
+| qua phỏng vấn 2/2024; khoảng 3/2024 → 9/2024 | thực tập sáu tháng ở một công ty công nghệ đa quốc gia (tòa nhà kính, đường Phạm Hùng); hệ phân tán, Go | hết thực tập tháng 9/2024 (tháng bắt đầu suy ra) | `page` (04aa, 04c, ch.03) | 04c *Hoang mang* |
+| T7 12/10/2024 | diễn giả sinh viên ở summit | bài nói 10 phút | `page` (ch.05) | ch.05 |
+| chưa rõ | IELTS 8.0 | 8.0 | `raw` (v1) | — |
+
+**Thay thế:** thẻ v1 ghi "giải Nhì quốc gia môn Tin"; v2 chốt 27/10 là **không giải** (thẻ v1 `superseded`). Giải Nhì ở v2 là giải hackathon năm nhất.
 
 ## purpose
 

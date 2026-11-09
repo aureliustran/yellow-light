@@ -38,6 +38,7 @@ Empty sections are written `none`, never omitted.
 | `purpose` | why the character is in the story; which axes it serves (`Need → AX`) |
 | `rules` | the character's own hard limits. Link to `rules/` only for laws that apply to several people |
 | `attributes` | dynamic attributes, each with its value set, e.g. `cai-toi-doc ∈ {ngu, thuc-co-dieu-kien, phong-kin-hong, chiem-cho}`, and its `owner` node. Names and value sets only |
+| `record` | credentials with the date each was obtained: schools, awards, positions, jobs, certificates. Each row: what, when, level or result, status, and the event that shows it (a link once the event exists). The scene belongs to the event; the credential is part of who the character is |
 | `exports` | ids other files may import: functions, beliefs, attributes |
 
 Every file in the package opens with a head of about 20 lines: header, one-sentence summary, key index.
@@ -47,4 +48,4 @@ Every file in the package opens with a head of about 20 lines: header, one-sente
 1. Identity lives in the main file only.
 2. Each dynamic attribute has **exactly one owner node** (`LAW.check.owner`), named in the attribute's `owner`.
 3. Every character package has the **same** file names and section order.
-4. No dated events. Events belong to their node.
+4. No dated events except the dates of credentials in `record`. Scenes and changes over time belong to their node.
