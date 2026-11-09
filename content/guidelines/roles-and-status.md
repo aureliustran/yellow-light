@@ -46,5 +46,5 @@ Values, meaning and stability: `content/config/statuses.md`. In short:
 
 The repo is the source. The claude.ai Project "Đèn Vàng" is a selected copy for chat; when they differ, the repo wins.
 
-- **End of a session with changes:** commit (author's identity as configured, never push); copy changed files the Project also holds to the same Project path; report what changed (ids of decisions, closed questions), what waits for the author.
+- **End of a session with changes:** commit (author's identity as configured, never push); when the session has access to the claude.ai Project, copy changed files the Project also holds to the same Project path (otherwise say the Project still needs syncing); report what changed (ids of decisions, closed questions), what waits for the author.
 - **Chat without the repo:** answer from the Project copy. Write any decision verbatim to `claude/inbox/<yyyy-mm-dd>-<topic>.md` in the Project; never edit the Project's canon copy. Tell the author it will enter the repo in the next session with the repo; that session merges the inbox first.

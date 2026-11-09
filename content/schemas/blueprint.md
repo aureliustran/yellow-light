@@ -13,7 +13,7 @@ The plan of one chapter: how events combine into it. See [blueprints](../../docs
 
 **Location:** `plans/chapters/BP.<edition>.<nn>.md`. **Id:** `BP.v2.05`; scenes inline `BP.v2.05.S<n>`.
 
-Header: `edition` (`[[ED.v2]]`), `output` (`POST.v2.05`), `pov`, `span`, `status` (decision status, `config/statuses.md`), `stage` (`planned` → `written` → `synced`), `synced-hash` (set on sync).
+Header: `edition` (`[[ED.v2]]`), `output` (`POST.v2.05`), `pov`, `span`, `status` (decision status, `config/statuses.md`), `stage` (`planned` → `written` → `synced`), `synced-hash` (set on sync): `sha256:` + the first 16 hex digits of the SHA-256 of the chapter file with line endings normalised to LF (`node -e` or `sha256sum` after `tr -d "\r"`).
 
 ## Sections
 
@@ -22,6 +22,7 @@ Header: `edition` (`[[ED.v2]]`), `output` (`POST.v2.05`), `pov`, `span`, `status
 | `scenes` | one heading per scene `S<n>`: `purpose` · `register` and transitions · `pattern` · `events` (each with role `shows`, `mentions`, `recalls`) · `writer` · `anchor` (first sentence, verbatim) |
 | `in` · `out` | state at start and end (generated from `changes`) |
 | `hooks` | what opens, what is left hanging |
+| `gaps` | events on the page not yet in canon; differences from an earlier plan |
 
 Generated: `_views/write-kit/BP.<edition>.<nn>.md`.
 

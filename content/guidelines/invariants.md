@@ -22,6 +22,7 @@ Rules that always hold. Machine-checked ones name their check (`docs/framework/t
 | 9 | Every law has a basis; overlapping laws have an order; overrides have a reason | `LAW.check.basis`, `overlap`, `override-reason` |
 | 10 | Every technique serves a law or register, within its scope | `LAW.check.lib-basis`, `lib-scope` |
 | 11 | An event's goal serves a goal of its parent | `LAW.check.goal-chain` |
+| 12a | New events agree with published chapters; a clash is a `Q-` | human |
 | 12 | Published chapter text changes only in a writing task that asks for it; never to fit canon or a blueprint | human, `LAW.check.bp-drift` |
 | 13 | Chapter files get no frontmatter or markers (the importer reads them as they are) | human |
 | 14 | Story text in Vietnamese; conventions, fields and framework docs in English | human |

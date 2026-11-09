@@ -40,4 +40,4 @@ Ask the questions in order; the first "yes" decides. Ids: `docs/framework/ids.md
 
 ## Transitional
 
-If the target folder does not exist yet (not migrated), write a proposal in `de-xuat/` that names the target path and id, and tell the author.
+Follow the transitional table in `content/GUIDELINES.md`: events go to the old `tuyen/` tables; other kinds go to `content/de-xuat/` under their future file name.

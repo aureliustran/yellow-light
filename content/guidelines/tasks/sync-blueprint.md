@@ -12,8 +12,8 @@ sources: [docs/framework/blueprints.md]
 ## Steps
 1. Read the chapter and its blueprint.
 2. Update the blueprint to the chapter **as written**: scenes cut, added, reordered; events whose role changed; anchors (first sentence of each scene, verbatim).
-3. Events that reached the page but are not in canon → `add-event` as `proposed`, then ask the author.
-4. Set `stage: synced`; `canon:check` records the chapter hash.
+3. Events that reached the page but are not in canon: list them in the blueprint's `gaps` (node + one line). Run `add-event` only for the node the task is about; the rest wait for the author or for migration. This keeps the read narrow.
+4. Set `stage: synced` and `synced-hash` (format in `content/schemas/blueprint.md`).
 
 ## Output
 A blueprint that tells the truth about the chapter.
@@ -25,4 +25,7 @@ No `bp-anchor`, `bp-drift`, `bp-coverage` findings for this chapter.
 Never edit the chapter to match the blueprint. New canon on the page goes to the author.
 
 ## First sync of already written chapters
-Build the blueprint backwards from the text (scenes, events, anchors), then sync as above.
+Build the blueprint backwards from the text (scenes, events, anchors), then sync as above. If an older plan exists for the chapter (`content/de-xuat/*plan*`), read its part for this chapter and record every difference between plan and text in `gaps`; the text wins.
+
+## Transitional
+Until `content/plans/` exists, the blueprint is `content/de-xuat/BP.<edition>.<nn>.md` (see the transitional table in `content/GUIDELINES.md`).

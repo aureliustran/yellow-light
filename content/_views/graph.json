@@ -2173,7 +2173,17 @@
   },
   {
    "s": "GUIDE.main",
-   "t": "kien-truc-framework",
+   "t": "thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "CFG.statuses",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "registers",
    "type": "ref"
   },
   {
@@ -2183,7 +2193,12 @@
   },
   {
    "s": "GUIDE.main",
-   "t": "registers",
+   "t": "01c-rules-thanh-phan",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "SPEC.tooling",
    "type": "ref"
   },
   {
@@ -3573,12 +3588,22 @@
   },
   {
    "s": "GUIDE.task.add-event",
+   "t": "GUIDE.placement",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.task.add-event",
    "t": "SCH.event",
    "type": "ref"
   },
   {
    "s": "GUIDE.task.record-decision",
    "t": "bible-v2",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.task.sync-blueprint",
+   "t": "SCH.blueprint",
    "type": "ref"
   },
   {
@@ -4684,11 +4709,6 @@
   {
    "s": "SPEC.storylines",
    "t": "SPEC.blueprints",
-   "type": "ref"
-  },
-  {
-   "s": "SPEC.tooling",
-   "t": "GUIDE.main",
    "type": "ref"
   },
   {

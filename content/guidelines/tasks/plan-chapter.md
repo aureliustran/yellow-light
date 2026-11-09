@@ -15,7 +15,7 @@ The edition and chapter number; the range plan `PLAN.*` if there is one; the eve
 ## Steps
 1. List blocking `Q-` for the events in scope; ask the author to settle them first.
 2. Pick the events (`locked` or `agreed`) the chapter will carry. Missing events → `add-event` first, as `proposed`.
-3. Create `plans/chapters/BP.<edition>.<nn>.md` (schema `blueprint`), `stage: planned`: scenes in order; per scene its purpose, register and transitions, pattern, events with role (`shows`, `mentions`, `recalls`), writer, and leave `anchor` empty until written.
+3. Create `content/plans/chapters/BP.<edition>.<nn>.md` (schema `blueprint`), `stage: planned`: scenes in order; per scene its purpose, register and transitions, pattern, events with role (`shows`, `mentions`, `recalls`), writer, and leave `anchor` empty until written.
 4. Fill `hooks`. `in`/`out` and the write-kit are generated: run `canon:check` and read the write-kit.
 5. For larger ranges use the skills `den-vang-tong-hop-cot-truyen` (plot) and `den-vang-tong-hop-cach-viet` (writing synthesis).
 
@@ -29,4 +29,4 @@ Every `shows` event is `locked` or `agreed`; registers and patterns allowed by t
 The author approves the blueprint before writing starts, unless they said to go on.
 
 ## Transitional
-Before `plans/` exists, write the blueprint at `de-xuat/BP.<edition>.<nn>.md` with the same sections.
+Before `content/plans/` exists, write the blueprint at `content/de-xuat/BP.<edition>.<nn>.md` (transitional table in `content/GUIDELINES.md`).
