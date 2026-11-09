@@ -50,13 +50,13 @@ Entity definitions (fields, types, per-kind rules) live in [`content/schemas/`](
 
 | File | Covers | Status |
 | --- | --- | --- |
-| [model.md](model.md) | layers, entity kinds (one line each → schema), ownership, static/dynamic, dependency direction | planned |
-| [ids.md](ids.md) | id grammar, kind registry, case rules, inline ids, immutability, aliases | planned |
-| [layout.md](layout.md) | folder tree of `content/`, `posts/`, `crosspost/`, `scripts/paths.mjs`, Obsidian vault | planned |
-| [rules-engine.md](rules-engine.md) | constitution → law → decree → override, selectors, overlap resolution, phase effect | planned |
-| [library.md](library.md) | registers, techniques, patterns; links to laws; checks | planned |
-| [storylines.md](storylines.md) | trees, nodes, goals, event leaves, inheritance and the resolved block, intersections | planned |
-| [blueprints.md](blueprints.md) | chapter blueprints, scenes, roles, anchors, sync lifecycle, outputs | planned |
+| [model.md](model.md) | layers, entity kinds (one line each → schema), ownership, static/dynamic, dependency direction | draft |
+| [ids.md](ids.md) | id grammar, kind registry, case rules, inline ids, immutability, aliases | draft |
+| [layout.md](layout.md) | folder tree of `content/`, `posts/`, `crosspost/`, `scripts/paths.mjs`, Obsidian vault | draft |
+| [rules-engine.md](rules-engine.md) | constitution → law → decree → override, selectors, overlap resolution, phase effect | draft |
+| [library.md](library.md) | registers, techniques, patterns; links to laws; checks | draft |
+| [storylines.md](storylines.md) | trees, nodes, goals, event leaves, inheritance and the resolved block, intersections | draft |
+| [blueprints.md](blueprints.md) | chapter blueprints, scenes, roles, anchors, sync lifecycle, outputs | draft |
 | [tooling.md](tooling.md) | `canon:check` and its laws, generated views, graph page, Obsidian setup | planned |
 | [adr/ADR-001-story-framework.md](adr/ADR-001-story-framework.md) | why, rejected options, effect on earlier decisions | planned |
 

@@ -11,47 +11,9 @@ Dùng cho (1) script đổi mã ở B7, (2) `aliases` trong Obsidian để tìm 
 
 **Tên file = mã, duy nhất trong cả vault.** Wikilink `[[mã]]` dùng ở mọi nơi.
 
-## 0. Ngữ pháp `proposed 10/11`
+## 0. Ngữ pháp
 
-Mọi thực thể có thể bị trỏ tới đều có id, kể cả thực thể nội tuyến (mục tiêu, cảnh, điều khoản, nhịp, bước).
-
-| Dạng | Khi nào | Ví dụ |
-| --- | --- | --- |
-| `KIND.ten` | thực thể có tên | `CH.thuyen`, `REG.so-cai` |
-| `KIND-NNN` | sổ đánh số toàn cục | `BL-024`, `SEC-003`, `X-009`, `D-031` |
-| `cha.local` | con sống trong cha | `ROM.TN.G2`, `BP.v2.05.S2`, `PAST.N.HD` |
-| `cha-NNN` | con có thứ tự | `ROM.TN-014` |
-
-**Đoạn.** id là các đoạn nối bằng `.`; `.` nghĩa là "nằm trong", `-NNN` nghĩa là "phần tử thứ n". Mỗi đoạn là **mã** (`[A-Z][A-Z0-9]*`) hoặc **tên** (`[a-z0-9][a-z0-9-]*`), không trộn hoa thường trong một đoạn. Đoạn đầu là mã loại. Các đoạn sau là mã hay tên ở **bất kỳ cấp nào**: `ROM.TN`, `PAST.N.HD`, `FN.thuyen.phong-kin` đều hợp lệ; không ép chỉ cấp cao nhất viết hoa.
-
-**Hoa thường.** id so khớp chính xác: `ROM.TN` khác `rom.tn`. Nhưng Windows, macOS và Obsidian không phân biệt hoa thường ở tên file, nên hai id **không được chỉ khác nhau ở hoa thường** (`LAW.check.unique-id` so cả dạng hạ chữ).
-
-**Hai cách tồn tại.** Thực thể file: tên file = id, frontmatter có `id:`. Thực thể nội tuyến: sống trong file cha, block id Obsidian là phần đuôi (`^G2`); sổ mã ghi id đầy đủ (`ROM.TN.G2`); link `[[ROM.TN#^G2]]`. Con được thăng thành file thì giữ nguyên id.
-
-**Bất biến.** id không đổi. Muốn đổi: tạo id mới, id cũ vào `aliases` (`LAW.check.id-immutable`).
-
-**Số.** Phần `-NNN` luôn ba chữ số. Mã cũ ít chữ số hơn (`BL-24`, `X-09`, `DV-7`) giữ làm alias.
-
-```
-SEG = [A-Z][A-Z0-9]* | [a-z0-9][a-z0-9-]*
-ID  = [A-Z][A-Z0-9]* (\.SEG)* (-[0-9]{3})? (\.SEG)*        (LAW.check.id-grammar)
-```
-
-Giá trị liệt kê không phải thực thể, không có id: giai đoạn (`P1`), mức (`SS+`), trạng thái (`locked`), kênh (`narration`).
-
-### Sổ loại
-
-| Tầng | Loại | id | Dạng |
-| --- | --- | --- | --- |
-| Nền | trục · điều hiến pháp · thang | `AX3` · `ART.AX3.1`, `ART.0.4` · `SCALE.exl`, `SCALE.pride`, `SCALE.rom` | file · nội tuyến · file |
-| Luật | luật · điều khoản · decree của node | `LAW.naming.pov-thuyen` · `LAW.naming.pov-thuyen.C2` · `ROM.TN.R2` | file · nội tuyến · nội tuyến |
-| Thư viện | register · kỹ thuật · khuôn · nhịp của khuôn | `REG.so-cai` · `TEC.humor.escalation` · `PAT.anchor-5-step` · `PAT.anchor-5-step.B3` | file · file · file · nội tuyến |
-| Thế giới | nhân vật · nhóm · bối cảnh · vật · bí mật · niềm tin · hàm · bộ chịu đựng | `CH.thuyen` · `GRP.hoi-dong-nhi` · `SET.phong-kin` · `OBJ-012` · `SEC-003` · `BL-024` · `FN.thuyen.phong-kin` · `DV-007` | file |
-| Tuyến | tuyến · node · node con · SELF · mục tiêu · tình tiết · giao điểm · nhịp dịp | `ROM` · `ROM.TN` · `PAST.N.HD` · `SELF.thuyen` · `ROM.TN.G2` · `ROM.TN-014` · `X-009` · `X-009.B3` | file, trừ mục tiêu và nhịp (nội tuyến) |
-| Kế hoạch | edition · bản vẽ chương · cảnh | `ED.v2` · `BP.v2.05` · `BP.v2.05.S2` | file · file · nội tuyến |
-| Đầu ra | chương đã đăng · site · bản chuyển | `POST.v2.05` · `SITE.rookies` · `XP.rookies.012` | chương giữ tên file cũ; id ghi trong sổ ánh xạ |
-| Ngang | quyết định · câu hỏi · đề xuất · rà soát · mẫu · tư liệu | `D-031` · `Q-045` · `PROP-012` · `AUD-003` · `SMP-007` · `AST.<ten>` | file hoặc nội tuyến |
-| Meta | cấu hình · schema · đặc tả app | `CFG.ids` · `SCH.event` · `SPEC.editions` | file |
+Chuyển sang spec: [`docs/framework/ids.md`](../../docs/framework/ids.md) (ngữ pháp, sổ loại, hoa thường, id nội tuyến, bất biến). File này chỉ giữ dữ liệu đổi mã cũ → mới.
 
 ## 1. Tiền tố
 
