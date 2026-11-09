@@ -10,7 +10,7 @@ sources: [tuyen/qua-khu/thuyen-co-may.md §2 (locked 28/10), de-xuat/kien-truc-f
 ---
 # CH.thuyen.mechanics · Cỗ máy hiện sinh của Thuyên
 
-Sơ đồ và chữ ký mọi hàm, mỗi hàm một dòng. Thân từng hàm ở `FN.thuyen.<tên>.md` (B3b; id ghi dạng code cho tới khi file có).
+Sơ đồ và chữ ký mọi hàm, mỗi hàm một dòng. Thân từng hàm ở `FN.thuyen.<tên>.md` trong thư mục này.
 
 ## Sơ đồ `locked 28/10`
 
@@ -35,20 +35,41 @@ Bản đầy đủ: `tuyen/qua-khu/thuyen-co-may.md` §2 (nguồn cho tới khi 
 
 | Hàm | Một dòng | Nguồn |
 | --- | --- | --- |
-| `FN.thuyen.thieu` | cái thiếu bị chối hai lần; thước di động | `co-may` §3 |
-| `FN.thuyen.phuong-trinh` | giỏi = được thương; hệ giá trị bốn tầng, tiên đề, điểm mù | `M-he-gia-tri` §1–2, §4 |
-| `FN.thuyen.lang-kinh` | lăng kính sáng đều, đổi hướng quay; tên lửa, khí thải, răn | `thuyen-lang-kinh` §1, §3; `M-he-gia-tri` §3a |
-| `FN.thuyen.cai-toi` | cái tôi lành, cái tôi độc, cái cân | `thuyen-hai-cai-toi` §2 |
-| `FN.thuyen.phong-kin` | phòng kín: ba lớp, bốn cò K1–K4, cổng ra, giọng, giáo lý kẻ mạnh | `thuyen-cai-toi-doc-co-che` §4.1–4.4, §4.6, §6 |
-| `FN.thuyen.teu` | van xả: Ngạo, Trào, Song | `thuyen-da-nhan-cach` §3–5, §8 |
-| `FN.thuyen.nhien-lieu` | công nhận là thuốc giảm đau; nhờn; tăng liều | `thuyen-hai-cai-toi` §7 |
-| `FN.thuyen.cai-goi` | bộ phận bị khóa, ba khóa | `co-may` §2; `thuyen.md` §6.3 |
-| `FN.thuyen.adhd` | hệ thần kinh chạy bằng hứng thú; dạng kết hợp theo tuổi; luật viết | `thuyen-adhd` §4, §5, §5b |
-| `FN.thuyen.nang-khieu` | nhìn ra lõi, học bằng liên kết | `thuyen-hai-cai-toi` §15 |
-| `FN.thuyen.luoi-co-chon-loc` | lười có chọn lọc, chăm có mục đích | `M-he-gia-tri` §3b; `01-rules-viet` |
-| `FN.thuyen.quan-su` | giỏi việc người, mù việc mình | BL-015 (NT-15); `tuyen/sl/vu.md` §2 |
+| [[FN.thuyen.thieu]] | cái thiếu bị chối hai lần; thước di động | `co-may` §3 |
+| [[FN.thuyen.phuong-trinh]] | giỏi = được thương; hệ giá trị bốn tầng, tiên đề, điểm mù | `M-he-gia-tri` §1–2, §4 |
+| [[FN.thuyen.lang-kinh]] | lăng kính sáng đều, đổi hướng quay; tên lửa, khí thải, răn | `thuyen-lang-kinh` §1, §3; `M-he-gia-tri` §3a |
+| [[FN.thuyen.cai-toi]] | cái tôi lành, cái tôi độc, cái cân | `thuyen-hai-cai-toi` §2 |
+| [[FN.thuyen.phong-kin]] | phòng kín: ba lớp, bốn cò K1–K4, cổng ra, giọng, giáo lý kẻ mạnh | `thuyen-cai-toi-doc-co-che` §4.1–4.4, §4.6, §6 |
+| [[FN.thuyen.teu]] | van xả: Ngạo, Trào, Song | `thuyen-da-nhan-cach` §3–5, §8 |
+| [[FN.thuyen.nhien-lieu]] | công nhận là thuốc giảm đau; nhờn; tăng liều | `thuyen-hai-cai-toi` §7 |
+| [[FN.thuyen.cai-goi]] | bộ phận bị khóa, ba khóa | `co-may` §2; `thuyen.md` §6.3 |
+| [[FN.thuyen.adhd]] | hệ thần kinh chạy bằng hứng thú; dạng kết hợp theo tuổi; luật viết | `thuyen-adhd` §4, §5, §5b |
+| [[FN.thuyen.nang-khieu]] | nhìn ra lõi, học bằng liên kết | `thuyen-hai-cai-toi` §15 |
+| [[FN.thuyen.luoi-co-chon-loc]] | lười có chọn lọc, chăm có mục đích | `M-he-gia-tri` §3b; `01-rules-viet` |
+| [[FN.thuyen.quan-su]] | giỏi việc người, mù việc mình | BL-015 (NT-15); `tuyen/sl/vu.md` §2 |
 
-Thiết bị trên trang (TB-1 … TB-16, nay `DV-001` … `DV-016`) vào mục `render` của hàm dùng nó (B3b).
+## Thiết bị trên trang (DV-, cũ TB-) `locked 28/10`
+
+Mỗi thiết bị nằm ở `render` của hàm dùng nó. Bảng đầy đủ (luật, mô hình): `thuyen-co-may.md` §5.
+
+| Mã | Thiết bị | Hàm |
+| --- | --- | --- |
+| DV-001 | Hai bộ từ vựng, luật khóa | [[FN.thuyen.thieu]], [[FN.thuyen.phuong-trinh]], [[FN.thuyen.adhd]] |
+| DV-002 | Đồng hồ đếm | `SELF.thuyen` (đếm = sống sót; thôi đếm vì cạn hay vì không cần) |
+| DV-003 | Nhìn bài hay nhìn người | [[FN.thuyen.cai-toi]] |
+| DV-004 | Câu chiến thắng sát cái gối | [[FN.thuyen.cai-goi]] |
+| DV-005 | Sổ cái tự phản; thân vênh lời | [[FN.thuyen.cai-goi]] |
+| DV-006 | Liều theo tốc độ kể | [[FN.thuyen.nhien-lieu]] |
+| DV-007 | Lòng tốt kích hoạt đe dọa | [[FN.thuyen.cai-goi]] (khóa 3) |
+| DV-008 | Tếu sau cú chạm; bóc vỏ | [[FN.thuyen.teu]], [[FN.thuyen.phong-kin]] |
+| DV-009 | Lọc qua phương trình | [[FN.thuyen.phuong-trinh]] |
+| DV-010 | Câu gương `proposed` | trục AX7 (nửa Nhi chờ) |
+| DV-011 | Đồng lõa rồi mắt người ngoài | [[FN.thuyen.lang-kinh]] (khí thải) |
+| DV-012 | Cắt bằng đổi bộ từ vựng | interlude quãng 2 (`PAST.T`) |
+| DV-013 | Cảnh 0 và cảnh 1 | [[FN.thuyen.cai-toi]] |
+| DV-014 | Quy cách cái gối | [[FN.thuyen.cai-goi]] |
+| DV-015 | Câu gối để dành | [[FN.thuyen.cai-goi]] |
+| DV-016 | Nhịp lật ba bậc của phương trình | [[FN.thuyen.phuong-trinh]] |
 
 ## Theo nấc
 

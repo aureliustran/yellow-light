@@ -1990,6 +1990,16 @@
    "effective": ""
   },
   {
+   "id": "CH.thuyen.beliefs",
+   "path": "world/characters/thuyen/CH.thuyen.beliefs.md",
+   "title": "CH.thuyen.beliefs · Niềm tin của Thuyên",
+   "layer": "world",
+   "kind": "character",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "CH.thuyen",
    "path": "world/characters/thuyen/CH.thuyen.md",
    "title": "CH.thuyen · Thuyên",
@@ -2000,11 +2010,141 @@
    "effective": ""
   },
   {
+   "id": "CH.thuyen.voice",
+   "path": "world/characters/thuyen/CH.thuyen.voice.md",
+   "title": "CH.thuyen.voice · Giọng nền của Thuyên",
+   "layer": "world",
+   "kind": "character",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "CH.thuyen.mechanics",
    "path": "world/characters/thuyen/mechanics/CH.thuyen.mechanics.md",
    "title": "CH.thuyen.mechanics · Cỗ máy hiện sinh của Thuyên",
    "layer": "world",
    "kind": "character",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.thuyen.adhd",
+   "path": "world/characters/thuyen/mechanics/FN.thuyen.adhd.md",
+   "title": "FN.thuyen.adhd",
+   "layer": "world",
+   "kind": "function",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.thuyen.cai-goi",
+   "path": "world/characters/thuyen/mechanics/FN.thuyen.cai-goi.md",
+   "title": "FN.thuyen.cai-goi",
+   "layer": "world",
+   "kind": "function",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.thuyen.cai-toi",
+   "path": "world/characters/thuyen/mechanics/FN.thuyen.cai-toi.md",
+   "title": "FN.thuyen.cai-toi",
+   "layer": "world",
+   "kind": "function",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.thuyen.lang-kinh",
+   "path": "world/characters/thuyen/mechanics/FN.thuyen.lang-kinh.md",
+   "title": "FN.thuyen.lang-kinh",
+   "layer": "world",
+   "kind": "function",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.thuyen.luoi-co-chon-loc",
+   "path": "world/characters/thuyen/mechanics/FN.thuyen.luoi-co-chon-loc.md",
+   "title": "FN.thuyen.luoi-co-chon-loc",
+   "layer": "world",
+   "kind": "function",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.thuyen.nang-khieu",
+   "path": "world/characters/thuyen/mechanics/FN.thuyen.nang-khieu.md",
+   "title": "FN.thuyen.nang-khieu",
+   "layer": "world",
+   "kind": "function",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.thuyen.nhien-lieu",
+   "path": "world/characters/thuyen/mechanics/FN.thuyen.nhien-lieu.md",
+   "title": "FN.thuyen.nhien-lieu",
+   "layer": "world",
+   "kind": "function",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.thuyen.phong-kin",
+   "path": "world/characters/thuyen/mechanics/FN.thuyen.phong-kin.md",
+   "title": "FN.thuyen.phong-kin",
+   "layer": "world",
+   "kind": "function",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.thuyen.phuong-trinh",
+   "path": "world/characters/thuyen/mechanics/FN.thuyen.phuong-trinh.md",
+   "title": "FN.thuyen.phuong-trinh",
+   "layer": "world",
+   "kind": "function",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.thuyen.quan-su",
+   "path": "world/characters/thuyen/mechanics/FN.thuyen.quan-su.md",
+   "title": "FN.thuyen.quan-su",
+   "layer": "world",
+   "kind": "function",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.thuyen.teu",
+   "path": "world/characters/thuyen/mechanics/FN.thuyen.teu.md",
+   "title": "FN.thuyen.teu",
+   "layer": "world",
+   "kind": "function",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.thuyen.thieu",
+   "path": "world/characters/thuyen/mechanics/FN.thuyen.thieu.md",
+   "title": "FN.thuyen.thieu",
+   "layer": "world",
+   "kind": "function",
    "status": "agreed",
    "weight": {},
    "effective": ""
@@ -2132,13 +2272,168 @@
  ],
  "edges": [
   {
+   "s": "CH.thuyen.beliefs",
+   "t": "CH.thuyen",
+   "type": "parent"
+  },
+  {
    "s": "CH.thuyen",
    "t": "CH.thuyen.mechanics",
    "type": "link"
   },
   {
+   "s": "CH.thuyen",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "CH.thuyen",
+   "type": "parent"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "FN.thuyen.phong-kin",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "FN.thuyen.cai-goi",
+   "type": "link"
+  },
+  {
    "s": "CH.thuyen.mechanics",
    "t": "CH.thuyen",
+   "type": "parent"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "FN.thuyen.thieu",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "FN.thuyen.phuong-trinh",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "FN.thuyen.lang-kinh",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "FN.thuyen.cai-toi",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "FN.thuyen.phong-kin",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "FN.thuyen.teu",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "FN.thuyen.nhien-lieu",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "FN.thuyen.cai-goi",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "FN.thuyen.adhd",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "FN.thuyen.nang-khieu",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "FN.thuyen.luoi-co-chon-loc",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "FN.thuyen.quan-su",
+   "type": "link"
+  },
+  {
+   "s": "FN.thuyen.adhd",
+   "t": "CH.thuyen.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.cai-goi",
+   "t": "CH.thuyen.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.cai-toi",
+   "t": "CH.thuyen.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.cai-toi",
+   "t": "FN.thuyen.phong-kin",
+   "type": "link"
+  },
+  {
+   "s": "FN.thuyen.lang-kinh",
+   "t": "CH.thuyen.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.luoi-co-chon-loc",
+   "t": "CH.thuyen.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.nang-khieu",
+   "t": "CH.thuyen.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.nhien-lieu",
+   "t": "CH.thuyen.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.phong-kin",
+   "t": "CH.thuyen.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.phuong-trinh",
+   "t": "CH.thuyen.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.quan-su",
+   "t": "CH.thuyen.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.teu",
+   "t": "CH.thuyen.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.thieu",
+   "t": "CH.thuyen.mechanics",
    "type": "parent"
   },
   {
@@ -2984,6 +3279,16 @@
   {
    "s": "kien-truc-framework",
    "t": "vu",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "CH.thuyen.beliefs",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "CH.thuyen.voice",
    "type": "ref"
   },
   {
@@ -4484,6 +4789,101 @@
   {
    "s": "CH.thuyen.mechanics",
    "t": "vu",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.adhd",
+   "t": "thuyen-adhd",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.cai-goi",
+   "t": "thuyen-co-may",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.cai-toi",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.cai-toi",
+   "t": "thuyen-cai-toi-doc-co-che",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.lang-kinh",
+   "t": "thuyen-lang-kinh",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.lang-kinh",
+   "t": "M-he-gia-tri",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.luoi-co-chon-loc",
+   "t": "M-he-gia-tri",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.luoi-co-chon-loc",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.nang-khieu",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.nhien-lieu",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.nhien-lieu",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.phong-kin",
+   "t": "chui-bay-thiet-ke",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.phong-kin",
+   "t": "thuyen-cai-toi-doc-co-che",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.phuong-trinh",
+   "t": "M-he-gia-tri",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.phuong-trinh",
+   "t": "thuyen-co-may",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.quan-su",
+   "t": "vu",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.quan-su",
+   "t": "thuyen-co-may",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.teu",
+   "t": "thuyen-da-nhan-cach",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.thieu",
+   "t": "thuyen-co-may",
    "type": "ref"
   },
   {

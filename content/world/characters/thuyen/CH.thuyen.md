@@ -11,7 +11,7 @@ sources: [posts/vercel ch.02, ch.03, 04a, 04aa, 04c, ch.05 (page), characters.ya
 
 Nam chính, POV chính. Một chàng trai giỏi đọc người, mù với chính mình, chạy bằng một cỗ máy hiện sinh mà nhiên liệu là sự công nhận.
 
-**Mục:** `identity` · `record` · `purpose` · `rules` · `attributes` · `exports` · `moved` (thứ không thuộc file này). Cơ chế: [[CH.thuyen.mechanics]]. Niềm tin, giọng nền: B3b.
+**Mục:** `identity` · `record` · `purpose` · `rules` · `attributes` · `exports` · `moved` (thứ không thuộc file này). Cơ chế: [[CH.thuyen.mechanics]] · niềm tin: [[CH.thuyen.beliefs]] · giọng nền: [[CH.thuyen.voice]].
 
 ## identity
 
@@ -92,7 +92,7 @@ Chỉ khai tên, tập giá trị và node chủ. Giá trị theo giai đoạn d
 
 ## exports
 
-Thuộc tính ở trên; cơ chế: [[CH.thuyen.mechanics]] (danh sách hàm). Niềm tin `BL-NNN` và giọng nền: B3b.
+Thuộc tính ở trên; cơ chế: [[CH.thuyen.mechanics]] (12 hàm, 16 thiết bị); niềm tin `BL-001` … `BL-033`: [[CH.thuyen.beliefs]]; giọng nền: [[CH.thuyen.voice]].
 
 ## moved
 

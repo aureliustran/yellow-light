@@ -1,0 +1,33 @@
+---
+id: FN.thuyen.quan-su
+kind: function
+status: agreed
+updated: 2026-11-10
+parent: "[[CH.thuyen.mechanics]]"
+aliases: [fn.thuyen.quan-su, quân sư, giỏi việc người, mù việc mình]
+sources: [tuyen/sl/vu.md §2, tuyen/qua-khu/thuyen-co-may.md §3 (khóa 2), tuyen/qua-khu/thuyen.md §6.9 B]
+---
+# FN.thuyen.quan-su
+
+Quân sư giỏi cho người khác, mù cho chính mình.
+
+```
+in        một người đang thích ai, đang kẹt, đang cần một câu để nói
+when      luôn; với chính anh thì không chạy (khóa 2)
+body      đọc người kia thiếu gì (anh thuộc hình dạng cái thiếu của mình) → soạn câu, chỉ cách tiếp cận (cách hỏi han do Vũ dạy)
+          → người kia thành công
+out       câu soạn sẵn; một cặp được ghép
+effects   anh đứng ngoài; áp cho mình là thừa nhận cái thiếu (BL-025), nên không áp
+uses      BL-015 (giỏi việc người, mù việc mình), BL-009 "Để người ta tin đó là ý của họ", BL-031; [[FN.thuyen.lang-kinh]]
+render    none
+```
+
+## notes
+
+- Ba lẽ (`vu.md` §2): hòa khí; thuộc hình dạng cái thiếu của mình nên thấy người khác thiếu ở đâu; cách hỏi han do Vũ dạy.
+- Nguồn thứ hai: thao túng em trai Khánh từ nhỏ (biết người ta thiếu gì) `locked 30/10`.
+- Dùng trong quan hệ: quân sư cho Phong (tình địch), quân sư bí mật ở gala; cho Tùng thời cấp 3. Những dòng ấy thuộc node quan hệ (`ROM.PN`, `ROM.TN`, `PAST.T`), không thuộc hàm.
+
+## detail
+
+`tuyen/sl/vu.md` §2 (và plan §4 ở đó); `thuyen.md` §6.9 B; `thuyen-co-may.md` §3 (dòng "Khóa 2").

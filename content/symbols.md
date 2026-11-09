@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 61 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
+Có phần đầu (frontmatter): 75 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -12,7 +12,21 @@ Có phần đầu (frontmatter): 61 file. Chưa chuyển sang khuôn mới (lega
 | `CFG.phases` | `config` | `proposed` | `config/phases.md` | Chiều thời gian của star schema. Mọi giá trị động (weight, relation, state, voice, hiệu lực luật) được ghi **theo giai đoạn**. Thứ tự cố … |
 | `CFG.statuses` | `config` | `proposed` | `config/statuses.md` | Mỗi dòng, mỗi file mang một trạng thái. Trạng thái là mức ổn định: tầng nào dựa vào tầng nào thì không được ổn định hơn nó. |
 | `CH.thuyen` | `character` | `agreed` | `world/characters/thuyen/CH.thuyen.md` | Nam chính, POV chính. Một chàng trai giỏi đọc người, mù với chính mình, chạy bằng một cỗ máy hiện sinh mà nhiên liệu là sự công nhận. |
-| `CH.thuyen.mechanics` | `character` | `agreed` | `world/characters/thuyen/mechanics/CH.thuyen.mechanics.md` | Sơ đồ và chữ ký mọi hàm, mỗi hàm một dòng. Thân từng hàm ở `FN.thuyen.<tên>.md` (B3b; id ghi dạng code cho tới khi file có). |
+| `CH.thuyen.beliefs` | `character` | `agreed` | `world/characters/thuyen/CH.thuyen.beliefs.md` | Mỗi niềm tin là một mục `### BL-NNN`. Mã cũ `NT-nn` là alias (`NT-24` = `BL-024`). `consumed-by` sẽ sinh từ trường `beliefs` của tình tiế… |
+| `CH.thuyen.mechanics` | `character` | `agreed` | `world/characters/thuyen/mechanics/CH.thuyen.mechanics.md` | Sơ đồ và chữ ký mọi hàm, mỗi hàm một dòng. Thân từng hàm ở `FN.thuyen.<tên>.md` trong thư mục này. |
+| `CH.thuyen.voice` | `character` | `locked` | `world/characters/thuyen/CH.thuyen.voice.md` | Tầng thấp nhất của chuỗi giọng: tình tiết > node × giai đoạn > `SELF.thuyen` × giai đoạn > **giọng nền (file này)**. Giọng với từng người… |
+| `FN.thuyen.adhd` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.adhd.md` | Tầng dưới cùng: hệ thần kinh chạy bằng hứng thú, dạng kết hợp. Không thay hai cái tôi, không thay đòn roi; mọi thứ khác đắp lên nó. |
+| `FN.thuyen.cai-goi` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.cai-goi.md` | Bộ phận bị khóa: cái gối, người duy nhất ở lại với con người thật nhất của anh. Cần được ôm, được nghe khóc, được ghi nhận cái cố. |
+| `FN.thuyen.cai-toi` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.cai-toi.md` | Hai cái tôi trên cùng một động cơ áp suất chênh lệch: cái tôi lành (cái cân, cố vì mình) và cái tôi độc (tiền mua tình thương, thuốc giảm… |
+| `FN.thuyen.lang-kinh` | `function` | `locked` | `world/characters/thuyen/mechanics/FN.thuyen.lang-kinh.md` | Lăng kính: thu nạp thông tin và phân tích khách quan, kể cả về chính anh. Mặt hành động là đọc người. Dùng vào đâu thì đổi theo cấp. |
+| `FN.thuyen.luoi-co-chon-loc` | `function` | `locked` | `world/characters/thuyen/mechanics/FN.thuyen.luoi-co-chon-loc.md` | Cùng một phép tính chi phí – lợi ích, khác đầu vào: thành quả nhỏ thì lười, thành quả lớn thì cày. |
+| `FN.thuyen.nang-khieu` | `function` | `proposed` | `world/characters/thuyen/mechanics/FN.thuyen.nang-khieu.md` | Năng khiếu: nhìn ra cấu trúc giấu dưới bề mặt, học bằng liên kết. Lăng kính ở dạng sạch. |
+| `FN.thuyen.nhien-lieu` | `function` | `proposed` | `world/characters/thuyen/mechanics/FN.thuyen.nhien-lieu.md` | Nhiên liệu là sự công nhận; cái tôi độc là thuốc giảm đau. Liều đầu ngấm sâu, liều lặp nhạt, phải tăng liều. |
+| `FN.thuyen.phong-kin` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.phong-kin.md` | Cái tôi độc ở đại học và GĐ1: sống trong phòng kín. Giọng trong đầu, bộ dịch ở miệng, kênh luật chơi ở tay. |
+| `FN.thuyen.phuong-trinh` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.phuong-trinh.md` | Bộ chuyển đổi: giỏi = được thương, thiếu = chưa đủ giỏi. Trên nó dựng hệ giá trị tự sửa bốn tầng. |
+| `FN.thuyen.quan-su` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.quan-su.md` | Quân sư giỏi cho người khác, mù cho chính mình. |
+| `FN.thuyen.teu` | `function` | `proposed` | `world/characters/thuyen/mechanics/FN.thuyen.teu.md` | Van xả: tếu. Xả áp cạnh người thân mà không mở khóa. Ba số: Ngạo, Trào, Song. |
+| `FN.thuyen.thieu` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.thieu.md` | Đầu vào của cỗ máy: cái thiếu bị chối hai lần, trong nhà không ai thấy, ngoài nhà bảo là sướng. |
 | `GUIDE.invariants` | `guide` | `draft` | `guidelines/invariants.md` | Rules that always hold. Machine-checked ones name their check (`docs/framework/tooling.md`); the rest are checked by you before saying "d… |
 | `GUIDE.main` | `guide` | `draft` | `GUIDELINES.md` | Read this first in every session. It says how to work on the story. For what the system *is* (entities, ids, inheritance, tooling), look … |
 | `GUIDE.old-workflow` | `guide` | `superseded` | `quy-trinh.md` | Oct 25, 2026 · @aureliustran. Cách tác giả và Claude làm việc với nhau, theo từng loại việc. Kiến trúc nền: `kien-truc.md`. |
