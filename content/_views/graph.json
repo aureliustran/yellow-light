@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07",
+ "generated": "2026-11-09",
  "phases": [
   "OPEN",
   "P1",
@@ -2303,6 +2303,36 @@
   },
   {
    "s": "kien-truc-framework",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "hai-ky-thuat",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "M-cam-xuc-giac-quan",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "M-tu-suy-dien",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "M-dien-bien-cam-xuc",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "goi-ten-cam-xuc",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
    "t": "M-he-gia-tri",
    "type": "ref"
   },
@@ -2403,42 +2433,12 @@
   },
   {
    "s": "kien-truc-framework",
-   "t": "M-dien-bien-cam-xuc",
-   "type": "ref"
-  },
-  {
-   "s": "kien-truc-framework",
-   "t": "goi-ten-cam-xuc",
-   "type": "ref"
-  },
-  {
-   "s": "kien-truc-framework",
    "t": "chui-bay-thiet-ke",
    "type": "ref"
   },
   {
    "s": "kien-truc-framework",
    "t": "tu-dien-ha-tinh",
-   "type": "ref"
-  },
-  {
-   "s": "kien-truc-framework",
-   "t": "registers",
-   "type": "ref"
-  },
-  {
-   "s": "kien-truc-framework",
-   "t": "hai-ky-thuat",
-   "type": "ref"
-  },
-  {
-   "s": "kien-truc-framework",
-   "t": "M-cam-xuc-giac-quan",
-   "type": "ref"
-  },
-  {
-   "s": "kien-truc-framework",
-   "t": "M-tu-suy-dien",
    "type": "ref"
   },
   {

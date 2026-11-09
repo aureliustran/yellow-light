@@ -79,6 +79,8 @@ Nov 6, 2026 · @aureliustran. **Bản 3** (06/11, 12:41), thay bản 2 (05/11, 2
 
 Bảng mã cũ → mới đầy đủ ở `config/ids.md`, dùng cho script đổi mã và làm `aliases` trong Obsidian.
 
+**Ngữ pháp id** `proposed 10/11`: `config/ids.md` §0 là nguồn. Bốn dạng `KIND.ten` · `KIND-NNN` · `cha.local` · `cha-NNN`; mọi thực thể có id, kể cả thực thể nội tuyến (mục tiêu, cảnh, điều khoản, nhịp). Đoạn viết hoa được ở mọi cấp (`ROM.TN`, `PAST.N.HD`); id phân biệt hoa thường nhưng hai id không được chỉ khác nhau ở hoa thường. Bảng tiền tố trên là bản 06/11; chỗ lệch (`fn.` → `FN.`, `ART-` → `ART.`, đệm `-NNN`, `R1`–`R9` → `REG.*`) theo `config/ids.md`.
+
 ## 4. Cây thư mục
 
 ```
@@ -208,6 +210,29 @@ severity    error
 
 **Phần nối** nằm trong file luật (luật làm chủ phạm vi của mình). Mỗi thành tố thấy luật của mình qua view "rules for me" và backlinks.
 
+## 7b. Thư viện cách viết: register, kỹ thuật, khuôn `proposed 10/11`
+
+`lib/` soi gương `rules/`: cùng khía cạnh, cùng cú pháp bộ chọn (`applies-to`, `effective`, `except`), để một bộ máy tính được "cái gì áp vào chỗ này". Ranh giới: **luật** nói *cái gì phải đúng* (qua hoặc trượt); **register, kỹ thuật, khuôn** nói *làm thế nào* (lựa chọn, có liều, có mẫu). Cách làm nào thành bắt buộc thì lên làm luật, và luật trỏ xuống kỹ thuật.
+
+| Loại | id | Là gì | Trường riêng |
+| --- | --- | --- | --- |
+| Register (văn phong) | `REG.<ten>` (R1–R9 làm alias) | bộ giọng | `markers`, `dose` theo giai đoạn, `uses`/`forbids` kỹ thuật, `transitions` sang register khác, `samples` |
+| Kỹ thuật | `TEC.<khía cạnh>.<ten>` | cách viết ở mức câu, đoạn | `serves` (≥1 luật hoặc register), `steps`, `dials`, `fails`, `check`, `samples` |
+| Khuôn | `PAT.<ten>` | khuôn nhịp, cảnh | `beats` (nhịp, id nội tuyến `.B<n>`), `slots` (nhịp gọi register hay kỹ thuật nào) |
+
+```
+lib/registers/REG.*.md
+lib/<aspect>/TEC.<aspect>.*.md      cùng tên khía cạnh với rules/; thêm humor/ senses/ inference/ interiority/
+lib/patterns/PAT.*.md
+assets/samples/SMP-*.md             mẫu; kho chất liệu hài → assets/humor/
+```
+
+**Nối:** luật có `technique: [[TEC…]]`, kỹ thuật có `serves: [[LAW…]]`; hai chiều phải khớp. Thứ bậc: `ART → LAW → REG/TEC/PAT → decree ở node (voice, chọn kỹ thuật) → override ở tình tiết`. Thiết bị TB- của cỗ máy hiện sinh thuộc gói Thuyên (`FN.thuyen.*`), không vào `lib/`.
+
+**Luật kiểm:** `LAW.check.lib-basis` (kỹ thuật, khuôn phải phục vụ ≥1 luật hoặc register) · `LAW.check.lib-scope` (phạm vi kỹ thuật không vượt luật nó phục vụ) · `LAW.check.reg-conflict` (register cấm một kỹ thuật mà tình tiết dùng) · `LAW.check.technique-gap` (info: luật `check: human` chưa có kỹ thuật).
+
+**Nguồn chuyển:** `rules/registers.md` → `REG.*` (§3 → `voice` của node; §2.4 → `FN.thuyen.*`; §6 → mẫu); `kho/hai-ky-thuat.md` → `TEC.humor.*`, `PAT.twist-5-step`; `M-cam-xuc-giac-quan.md` → `TEC.senses.*`; `M-tu-suy-dien.md` → `TEC.inference.*`, `PAT.inference-beat`; `M-dien-bien-cam-xuc.md`, `goi-ten-cam-xuc.md` → `TEC.naming.*`, `PAT.emotion-chain-8`; phần cách viết trong `01-rules-viet.md` → `TEC.*` theo khía cạnh; `mau-*.md` → `assets/samples/`. Mỗi khía cạnh chuyển cùng lúc với luật của nó (từ B4), không đợi B7.
+
 ## 8. Node, tình tiết, giao điểm (động)
 
 ### 8.1 Node `agreed 05/11`
@@ -228,18 +253,48 @@ storylines/<tuyến>/<NODE>.md
 
 **Giọng theo tầng:** tình tiết > node × giai đoạn > SELF × giai đoạn > giọng nền.
 
-### 8.2 Tình tiết
+### 8.2 Tình tiết: lá của cây tuyến `proposed 10/11`
 
-Giữ các cột hiện có; tên cột: `id`, `date`, `event`, `status`, `axis`, `level`, `beliefs`, `chapter`, `fuel`, `cost`, `register`. Thêm:
+Tình tiết là **node con cuối cùng** của cây tuyến: mỗi tình tiết một file `storylines/<tuyến>/<NODE>/<NODE>-NNN.md`, đúng một cha. Bảng `events` của node thành view sinh từ các lá. Tình tiết là chi tiết quyết định *nội dung*: phải viết cái gì, ở thời điểm nào, nhằm mục tiêu gì, theo luật nào, viết thế nào.
 
-| Cột | Ý |
-| --- | --- |
-| `calls` | hàm được gọi: `[[fn.thuyen.phong-kin]](K1+K2+K4)`, `[[fn.nhi.thich]](nấc 3)` |
-| `x` · `beat` | dịp và thứ tự: `[[X-09]]` · 3 |
-| `changes` | thuộc tính, quan hệ, bí mật đổi giá trị |
-| `causes` | tình tiết ở node khác mà nó gây ra |
+**Lưu ít, giải đủ.** File có hai phần. Phần khai báo chỉ chứa cái riêng của tình tiết và chỗ ghi đè. Phần đã giải do script sinh, nằm cuối chính file trong khối `SINH`, không sửa tay; agent đọc một file là đủ.
 
-Trong ô bảng, wikilink không dùng bí danh `[[a\|b]]` để khỏi vỡ bảng.
+```
+---
+id           ROM.TN-014
+kind         event
+parent       [[ROM.TN]]
+status       proposed
+date         2024-12-08            (span cho quãng)
+goal         serves [[ROM.TN.G2]] · "…"     done-when "…"
+participants [[CH.thuyen]] · [[CH.nhi]]     place [[SET.…]]
+event        một-hai câu
+calls        [[FN.thuyen.lui]](nấc 2)
+must-show    … · must-hide [[SEC-003]]
+axis · level AX1 · EXL 5     beliefs BL-006     fuel · cost (bắt buộc từ mức S)
+x · beat     [[X-005]] · 2    causes [[ROM.PN-0yy]]    changes thuyen→nhi: +kid
+register     (chỉ khi khác cha)    uses [[PAT.…]] · [[TEC.…]] (chỉ khi khác cha)
+override     [[LAW.…]]: lý do
+---
+ghi chú tự do (vài dòng)
+
+<!-- SINH: không sửa tay -->
+path · phase và tuổi · goal-chain · state-in (ai biết gì, quan hệ ở nấc nào) · laws · register · voices · how · appears (bản vẽ, cảnh, vai)
+```
+
+Cột `chapter` bỏ: quan hệ tình tiết ↔ chương do bản vẽ làm chủ (§8.4).
+
+**Ba cách kế thừa:**
+
+| Loại | Cách tính | Ghi đè |
+| --- | --- | --- |
+| Ưu tiên (register, giọng, khuôn) | gần nhất thắng: tình tiết > node × giai đoạn > SELF × giai đoạn > giọng nền | ghi giá trị mới vào trường |
+| Luật | cộng dồn: mọi luật có `applies-to` khớp, cộng decree của mọi node tổ tiên; chồng nhau giải bằng `except`, `supersedes`, độ cụ thể | chỉ qua `override` kèm lý do; ART không ghi đè được |
+| Mục tiêu | phân rã: node có `goals` (`<node>.G<n>`), mục tiêu con `serves` mục tiêu cha, gốc là trục AX | không ghi đè; đổi ở cha |
+
+**Luật kiểm:** `LAW.check.goal-chain` · `LAW.check.goal-coverage` (mục tiêu node không có tình tiết phục vụ → `gap`) · `LAW.check.override-reason` · `LAW.check.resolved-fresh` (khối SINH bị sửa tay hoặc cũ hơn nguồn).
+
+Trong ô bảng (view sinh), wikilink không dùng bí danh `[[a\|b]]` để khỏi vỡ bảng.
 
 ### 8.3 Giao điểm `agreed 05/11`
 
@@ -247,6 +302,26 @@ Dịp nhiều node cùng ghi vào; không nằm trong cây node; có cây riêng
 
 **Lưu:** `id`, `kind` ∈ {`event`, `span`, `info`}, `parent`, `time`, `place`, `override`, `open`.
 **Sinh:** node tham gia; bảng nhịp (sắp theo `beat`); người giữ nhịp (node có tình tiết trong nhịp và mức cao nhất; bằng mức thì node chủ); POV; register; mức của dịp; sổ ai biết gì trước và sau (từ `changes` về `SEC-`); kết quả.
+
+### 8.4 Bản vẽ chương `proposed 10/11`
+
+Kế hoạch chia chương là **bản vẽ kết hợp các tình tiết** thành chương để viết. Ba tầng: `storylines/` (chuyện gì xảy ra) → `plans/chapters/` (gộp, sắp, nối, viết thế nào) → `content/posts/` (chương đã viết). Truy vết ngược: chương → bản vẽ → tình tiết → node → luật, không cần đọc chương.
+
+```
+id       BP.v2.05            output [[posts/vercel/05-chuong-05-san-khau]] (POST.v2.05)
+edition  [[ED.v2]] · pov [[CH.thuyen]] · span … · status planned | written | synced
+scenes
+  S1  purpose …   register [[REG.so-cai]] → [[REG.dang]]   pattern [[PAT.anchor-5-step]]
+      events  shows [[ROM.TN-014]] · mentions [[PAST.T-031]] · recalls [[SELF.thuyen-007]]
+      writer  agent-A      anchor "câu mở cảnh, trích nguyên văn"
+in · out  trạng thái đầu, cuối chương (sinh từ `changes`)
+hooks     mở, treo
+laws      → _views/write-kit/BP.v2.05.md (sinh: gộp khối SINH của các tình tiết + lựa chọn ở cảnh)
+```
+
+**Giao việc theo cảnh** (`writer`); tình tiết quyết định nội dung phần được giao. **Vai** của tình tiết trong cảnh: `shows`, `mentions`, `recalls`; một tình tiết có thể ở nhiều chương.
+
+**Bản vẽ phải khớp chương thì truy vết mới đúng.** Trạng thái `planned` trước khi viết; `written`/`synced` sau khi cập nhật theo bản thực viết. Luật kiểm: `LAW.check.bp-anchor` (anchor không còn trong chương) · `LAW.check.bp-drift` (chương đổi sau lần `synced`, so hash) · `LAW.check.bp-coverage` (tình tiết `locked` lên trang mà không bản vẽ nào `shows`). Thân chương không bị đụng. Chương v2 00–05 đã viết: dựng ngược bản vẽ, coi là lần sync đầu. Legacy v1: không làm trừ khi cần.
 
 ## 9. Obsidian `agreed 06/11`
 
@@ -417,7 +492,7 @@ Không giữ luật riêng. Nó đọc mọi luật `check: machine`, khớp b�
 | B1 | `config/` (gồm `ids.md` mã cũ → mới), `schemas/` (mọi khuôn, gồm `article`, `law`) | |
 | B2 | `canon:check` bản 1: sổ mã, trích treo, luật `check/` cơ bản, `symbols.md`, `graph.json`; trang đồ thị | |
 | B2.5 | Dời tài liệu truyện `docs/` → `content/`; chương → `content/posts/{vercel,legacy,<domain>}`; `scripts/paths.mjs`; vault ở gốc repo; `docs/` chỉ còn đặc tả app | `agreed 08/11` |
-| B3 | **Mẫu, điểm dừng duyệt:** gói Thuyên (§13.1), `SELF.thuyen`; hiến pháp chương AX3 và chương 0 bản nháp | |
+| B3 | **Mẫu, điểm dừng duyệt:** gói Thuyên (§13.1), `SELF.thuyen`; hiến pháp chương AX3 và chương 0 bản nháp; thêm schema `register`, `technique`, `pattern`, `blueprint`, sửa `event` (lá có kế thừa) và `law` (`technique → TEC`); áp ngữ pháp id (`config/ids.md` §0) cho file mới | |
 | B4 | Gói Nhi, Vũ; ROM.TN; X-09; tách luật `naming/`, `swearing/` | |
 | B5 | Hiến pháp đủ chín chương; sinh luật P1 làm mẫu | duyệt từng điều |
 | B6 | Thành tố còn lại; node còn lại (`thriller/` khi session TH đồng ý) | |
