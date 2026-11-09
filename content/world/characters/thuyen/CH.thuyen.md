@@ -24,7 +24,8 @@ Nam chính, POV chính. Một chàng trai giỏi đọc người, mù với chí
 | quê | Hà Tĩnh: thẻ nhân vật v1; trên trang v2, mạ nói giọng Hà Tĩnh (04a) | `raw` (v1) · giọng nhà `page` |
 | thân thể | cao 1m83; đánh bóng rổ rất hay nhưng có người hay hơn, top 2–7 tùy tối; lối chơi Kyrie, isolate, makeplay, bait; ít nói lúc đánh | `locked 30/10` (chiều cao) · `locked 20/10` (sân) |
 | thần kinh | ADHD dạng kết hợp; bố mẹ không biết; không người lớn nào nghi. Tầng dưới cùng mà mọi thứ khác đắp lên | `locked 01/11` (dạng, bố mẹ không biết) · `proposed` (phần còn lại) |
-| gia đình | con cả, có một em trai (quậy, "nghịch mà khôn", ích kỉ vô tư); mạ, bố; bác Hùng và anh họ Nam (đối chứng) | `locked 30/10` · tuổi và tên em: `needs-decision` |
+| gia đình | con cả, có một em trai là **Khánh** (quậy, "nghịch mà khôn", ích kỉ vô tư); mạ, bố; bác Hùng và anh họ Nam (đối chứng) | `locked 30/10` · tên Khánh `locked 10/11` |
+| em trai Khánh | sinh 2009, kém Thuyên 5 tuổi (ra đời khi anh học mầm non lớn); 15 tuổi, lớp 10 ở summit; dưới 18 suốt Phần 1 (`LAW.under-18` áp cho mọi cảnh có em) | `proposed 10/11` (theo khoảng 4–5 tuổi đã đề xuất ở `thuyen.md` §6.9) |
 | vẻ ngoài, gu | Casio, Crocs, ảnh aesthetic; tự làm tự ăn, biết trân trọng thứ mình có | `raw` (bible §4.1 "lõi") |
 | nơi làm ở hiện tại | lab ở Astrea Technology (tầng 17–18), từ T2 28/10/2024 | `proposed` (ngày suy ra) |
 
@@ -37,7 +38,8 @@ Thành tích và thời điểm nhận. Cảnh của từng dòng thuộc node (
 | lớp 6, 2015–16 | bài giải ngắn nhất lớp, cô Toán cho cả lớp xem | khen trước lớp | `proposed` | QK.T 1.6 |
 | lớp 8, cuối năm 2017–18 (7/2018) | giấy khen; giải huyện "học ít vẫn có" | cấp huyện | giấy khen `locked`; giải huyện `proposed` (vị trí) | QK.T 1.8 (năm sửa theo lịch mới) |
 | 6/2019 | đỗ chuyên Toán tỉnh | đỗ thứ tư | `locked` · `page` ("Đỗ chuyên Toán", ch.03) | QK.T 1.11 |
-| lớp 10–11, 2019–21 | giải tỉnh | mức và môn **chưa chốt** (tạm theo plan cũ: giải tỉnh Toán lớp 10, giải Nhất tỉnh Tin lớp 11; hướng 02/11: viết phẳng một dòng) | `page` ("Giải tỉnh", ch.03) · mức `needs-decision` | QK.T §2 *Kiêu hãnh* |
+| lớp 10, 2019–20 | giải tỉnh môn Toán | cấp tỉnh | `locked 10/11` (theo plan cũ) · `page` ("Giải tỉnh", ch.03) | QK.T §2; trên trang viết phẳng một dòng (hướng 02/11) |
+| lớp 11, thu 2020 | giải Nhất tỉnh môn Tin | Nhất, cấp tỉnh | `locked 10/11` (theo plan cũ) | QK.T §2 *Kiêu hãnh* |
 | thu lớp 11, 2020 | đứng đầu kỳ chọn đội tuyển Tin, vào đội tuyển quốc gia | đội tuyển | `page` ("Đội tuyển", ch.03) | QK.T §2 *Kiêu hãnh* |
 | 24–25/2/2021 (kết quả 13/3/2021) | thi học sinh giỏi quốc gia môn Tin | **không giải** | `locked 27/10` | QK.T §2 *Hụt hẫng* |
 | lớp 12, 2021–22 | thư nhận du học Mỹ; bị gạt (không đi) | "một thành công bị từ chối" | `agreed 02/11` (hướng) | QK.T §2 *Phẫn uất* |
@@ -47,7 +49,7 @@ Thành tích và thời điểm nhận. Cảnh của từng dòng thuộc node (
 | 2/2024 | đề tài nghiên cứu khoa học sinh viên (chủ nhiệm; thầy Bình hướng dẫn; nhóm anh, Đức, Lan) được chọn lên cấp quốc gia | cấp quốc gia | `page` (04aa, ch.02) | 04aa *Mỏi mệt* |
 | qua phỏng vấn 2/2024; khoảng 3/2024 → 9/2024 | thực tập sáu tháng ở một công ty công nghệ đa quốc gia (tòa nhà kính, đường Phạm Hùng); hệ phân tán, Go | hết thực tập tháng 9/2024 (tháng bắt đầu suy ra) | `page` (04aa, 04c, ch.03) | 04c *Hoang mang* |
 | T7 12/10/2024 | diễn giả sinh viên ở summit | bài nói 10 phút | `page` (ch.05) | ch.05 |
-| chưa rõ | IELTS 8.0 | 8.0 | `raw` (v1) | — |
+| lớp 12: ôn từ hè 2021, thi trong lớp 12 (2021–22), trước hồ sơ du học | IELTS | 8.0 | lớp 12, ôn từ hè `locked 10/11` · điểm 8.0 `raw` (v1) · tháng thi `proposed` (thu 2021, kịp hồ sơ du học Mỹ) | QK.T §2 *Hy vọng*, *Phẫn uất* |
 
 **Thay thế:** thẻ v1 ghi "giải Nhì quốc gia môn Tin"; v2 chốt 27/10 là **không giải** (thẻ v1 `superseded`). Giải Nhì ở v2 là giải hackathon năm nhất.
 
