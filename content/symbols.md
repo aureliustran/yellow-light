@@ -2,10 +2,12 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 75 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
+Có phần đầu (frontmatter): 109 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
+| `ART.0` | `constitution` | `proposed` | `core/constitution/ART.0.md` | Căn cứ cho các luật không sinh từ một trục: hình thức, khối hiển thị, xưng hô, giọng địa phương, ranh dưới 18 tuổi, cấu trúc. **Bản nháp … |
+| `ART.AX3` | `constitution` | `proposed` | `core/constitution/ART.AX3.md` | **Bản nháp của Claude, chờ tác giả duyệt từng điều.** Điều nào chưa duyệt là `proposed`. Luật giai đoạn lấy căn cứ ở đây (`basis`). |
 | `CFG.calendar` | `config` | `proposed` | `config/calendar.md` | Một nguồn duy nhất cho ngày tháng. Luật `LAW.check.weekday` kiểm mọi ngày trong tài liệu theo file này. |
 | `CFG.ids` | `config` | `proposed` | `config/ids.md` | Dùng cho (1) script đổi mã ở B7, (2) `aliases` trong Obsidian để tìm bằng mã cũ vẫn ra, (3) `LAW.check.unique-id`. Chưa đổi mã nào ở B1; … |
 | `CFG.levels` | `config` | `proposed` | `config/levels.md` | Mức đo **độ cần thiết** của một tuyến, node hoặc giao điểm đối với truyện **trong một giai đoạn**. Không đo độ hay của chất liệu. |
@@ -43,11 +45,41 @@ Có phần đầu (frontmatter): 75 file. Chưa chuyển sang khuôn mới (lega
 | `GUIDE.task.revise-chapter` | `guide` | `draft` | `guidelines/tasks/revise-chapter.md` | **Trigger:** "sửa đoạn …", "chương N đọc chưa ổn". |
 | `GUIDE.task.sync-blueprint` | `guide` | `draft` | `guidelines/tasks/sync-blueprint.md` | **Trigger:** after writing; after the author edits a chapter; `LAW.check.bp-drift` or `bp-anchor` reports. |
 | `GUIDE.task.write-scene` | `guide` | `draft` | `guidelines/tasks/write-scene.md` | The blueprint scene(s) assigned to you; its write-kit. |
+| `PAST` | `node` | `agreed` | `storylines/past/PAST.md` | Gốc của các node quá khứ: mỗi node là một bảng neo sinh niềm tin mà hiện tại tiêu thụ. Luật kể quá khứ (bốn luật QK): `tuyen/qua-khu/READ… |
+| `PAST.T` | `node` | `agreed` | `storylines/past/PAST.T.md` | Bảng neo: những gì đã xảy ra với Thuyên từ mầm non tới hết thực tập, mỗi neo sinh một hoặc vài niềm tin ([[CH.thuyen.beliefs]]) mà hiện t… |
+| `PAST.T-001` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-001.md` | Đếm bánh chưng; đếm đúng mà không ai tin. |
+| `PAST.T-002` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-002.md` | Tủ kính: tờ của chị họ đẩy tờ *tiên tiến* của anh vào trong. "Có tờ mới thì ra." |
+| `PAST.T-003` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-003.md` | Cuốn sách vũ trụ, tinh vân trong xe rác; đêm ấy cắn gối khóc. Sau cơn khóc ôm gối, tưởng tượng cái gối an ủi mình (phần gối: proposed). |
+| `PAST.T-004` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-004.md` | Cái phích vỡ; roi, nằm sấp. Ôm gối dưới ngực, cái gối "nói" (phần gối: proposed). |
+| `PAST.T-005` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-005.md` | Mạ gỡ xương cá. |
+| `PAST.T-006` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-006.md` | Mạ khen Nam. Đêm ấy anh hỏi gối "nếu con giỏi như anh Nam thì…", gối không trả lời (DV-016 bậc 1). |
+| `PAST.T-007` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-007.md` | Tờ nháp, lớp 6: hai tờ, một tờ cho người chấm, một tờ của mình. |
+| `PAST.T-008` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-008.md` | Khai sinh cái tôi lành: cô Toán cầm bài ngắn nhất lớp lên, "Cả lớp xem bạn Thuyên giải." Tai nóng, tay run, đêm ấy nhớ từng chữ. Cùng năm… |
+| `PAST.T-009` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-009.md` | Bài chín điểm, cãi đến cùng, bẻ roi, lớp 7. Đêm ấy: sổ hai cột, ghét thằng bé cột điện. |
+| `PAST.T-010` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-010.md` | Giấy khen, 47 lượt thích, lớp 8; giải huyện học ít vẫn có (vị trí: proposed); bác Hùng bình luận "con bác năm ngoái giải tỉnh rồi đó"; vỏ… |
+| `PAST.T-011` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-011.md` | Bài văn *Ước mơ của em*, 6,5; họp phụ huynh, "cục đất". |
+| `PAST.T-012` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-012.md` | Phiếu khảo sát tâm lý: trả lời thật thì không ai gọi. |
+| `PAST.T-013` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-013.md` | Phiếu thi chuyên ("Có rứa mới bằng con nhà người ta"), đỗ chuyên Toán thứ tư, mạ gọi sang nhà bác Hùng, Casio dây rộng. |
+| `PAST.T-014` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-014.md` | Sân trọ: gà (ném vào chậu cây), anh Long, Kyrie, đổi tay qua người anh Long; tếu sinh (Ngạo + Trào vô hại). |
+| `PAST.T-015` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-015.md` | Ám ảnh luyện tập: 5 giờ, chạy, hít đất, hít xà; vở giáo án; cày sâu không cày rộng; học kỹ thuật nặng bằng ghép kỹ thuật nhỏ. |
+| `PAST.T-016` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-016.md` | Giải Nhất tỉnh môn Tin; đứng đầu kỳ chọn đội tuyển Tin; cày lén; giữ giáo án riêng. |
+| `PAST.T-017` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-017.md` | Bố mẹ gạt "Tin thì được cái chi"; *Không bao giờ đủ*; cô bạn mập mờ thấy anh buồn, anh dập bằng "Tao số một tỉnh" (Ngạo lần đầu mất vỏ); … |
+| `PAST.T-018` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-018.md` | Thi học sinh giỏi quốc gia môn Tin: khinh bài dễ, dồn giờ cho bài khó. 13/3/2021, giữa tiết Hóa: không giải. Đáy: phẳng, tếu tắt. Ôm gối … |
+| `PAST.T-019` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-019.md` | Hiếu không an ủi: "Ông chỉ tôi bài ni."; "Chơi không? Thiếu một."; trận anh ghi nhiều điểm nhất mà đội thua, không ai bỏ đi. |
+| `PAST.T-020` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-020.md` | Anh Long: "Giữ bóng giỏi rồi. Giờ học chuyền."; xem lại video trận thua; chọn du học; cố vì mình; bắt đầu ôn IELTS. |
+| `PAST.T-021` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-021.md` | Không thi lại quốc gia; chia giáo án Tin, dòng đầu *bài dễ cũng tối ưu*; giải bóng năm sau: chuyền, đội thắng; thi IELTS 8.0; thư nhận từ… |
+| `PAST.T-022` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-022.md` | Hà Nội tự do mà yên tĩnh; sách vũ trụ đắt nhất vẫn bọc nilon. |
+| `PAST.T-023` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-023.md` | "Chơi không? Thiếu một." Vũ, sân khu tập thể. |
+| `PAST.T-024` | `event` | `page` | `storylines/past/PAST.T/PAST.T-024.md` | Hackathon ba mươi sáu tiếng: đọc ba người trong mười phút, chia việc; đội giải Nhì; về sau vào CLB Tin học, đầu năm hai thành phó ban. |
+| `PAST.T-025` | `event` | `page` | `storylines/past/PAST.T/PAST.T-025.md` | Đề tài nghiên cứu: nhận cả phần của Đức và Lan, tay bận thì cái đau ngủ; thầy Bình hỏi *Tại sao là em?* chưa trả lời được; đề tài lên cấp… |
+| `PAST.T-026` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-026.md` | Thư mục *sau-nay*, *Congratulations.*, đọc một lần rồi không mở. |
+| `PAST.T-027` | `event` | `page` | `storylines/past/PAST.T/PAST.T-027.md` | Sáu tháng thực tập ở tòa nhà kính; hết thực tập tháng 9, "không biết dậy sớm để làm gì"; mail summit đến thì nhẹ. |
 | `SCH.article` | `schema` | `proposed` | `schemas/article.md` | A constitution article: an invariant split from an axis; phase laws take their basis from it. See [rules-engine](../../docs/framework/rul… |
 | `SCH.belief` | `schema` | `proposed` | `schemas/belief.md` | A belief (old `NT-`): a product of a past anchor, consumed by present events. |
 | `SCH.blueprint` | `schema` | `proposed` | `schemas/blueprint.md` | The plan of one chapter: how events combine into it. See [blueprints](../../docs/framework/blueprints.md). |
 | `SCH.character` | `schema` | `proposed` | `schemas/character.md` | A **static** entity (dimension table). Values over time live in nodes (`storylines/`), not here. |
 | `SCH.config` | `schema` | `proposed` | `schemas/config.md` | A constant of the story (calendar, phases, levels, statuses, old→new id map). **Location:** `content/config/<name>.md`. **Id:** `CFG.<nam… |
+| `SCH.constitution` | `schema` | `proposed` | `schemas/constitution.md` | One chapter of the constitution: the articles split from one axis (`ART.AX<n>.md`) or the foundations (`ART.0.md`). **Location:** `core/c… |
 | `SCH.edition` | `schema` | `proposed` | `schemas/edition.md` | One edition of the story (`v1` Legacy, `v2` the main site). **Location:** `plans/ED.<edition>.md`. **Id:** `ED.v2`. |
 | `SCH.event` | `schema` | `proposed` | `schemas/event.md` | The **leaf** of a storyline tree: the unit that decides content (what must be written, when, for which goal, under which laws, how). See … |
 | `SCH.function` | `schema` | `proposed` | `schemas/function.md` | A **mechanism** of one character, written like a function with a signature. An agent reads `in` and `when` to know when to call it, witho… |
@@ -68,6 +100,8 @@ Có phần đầu (frontmatter): 75 file. Chưa chuyển sang khuôn mới (lega
 | `SCH.setting` | `schema` | `proposed` | `schemas/setting.md` | A place, a recurring space. **Location:** `world/settings/SET.<name>.md`. **Id:** `SET.<name>`. Header: `parent` (larger setting, if any). |
 | `SCH.spec` | `schema` | `proposed` | `schemas/spec.md` | A specification page of the framework or the app. **Location:** `docs/**`. **Id:** `SPEC.<name>`. |
 | `SCH.technique` | `schema` | `proposed` | `schemas/technique.md` | A sentence- or paragraph-level method that achieves a law or a register. See [library](../../docs/framework/library.md). |
+| `SELF` | `node` | `agreed` | `storylines/self/SELF.md` | Gốc của các node `SELF.<id>`: mỗi nhân vật có hiện sinh một node, làm chủ thuộc tính nội tâm của người ấy theo giai đoạn. |
+| `SELF.thuyen` | `node` | `agreed` | `storylines/self/SELF.thuyen.md` | Làm chủ các thuộc tính nội tâm của [[CH.thuyen]] theo giai đoạn: `exl`, `cai-toi-doc`, `lang-kinh`, `cai-goi`, và giọng lời kể theo giai … |
 | `SPEC.adr-001` | `spec` | `agreed` | `docs/framework/adr/ADR-001-story-framework.md` | Before the framework (state of early November 2026): |
 | `SPEC.blueprints` | `spec` | `draft` | `docs/framework/blueprints.md` | Fields: `content/schemas/blueprint.md`, `edition.md`, `chapter.md`. |
 | `SPEC.editions` | `spec` | `locked` | `docs/plan-legacy.md` | Oct 20, 2026. Development plan. **Rollout steps 1 and 2 are built** (Oct 21, see "Status"). |

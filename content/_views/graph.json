@@ -330,6 +330,26 @@
    "effective": ""
   },
   {
+   "id": "ART.0",
+   "path": "core/constitution/ART.0.md",
+   "title": "ART.0 · Chương 0: Nền",
+   "layer": "core",
+   "kind": "constitution",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "ART.AX3",
+   "path": "core/constitution/ART.AX3.md",
+   "title": "ART.AX3 · Chương AX3: Cây thước",
+   "layer": "core",
+   "kind": "constitution",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "danh-sach-chuong-mo-dau",
    "path": "danh-sach-chuong-mo-dau.md",
    "title": "Danh sách chương phần mở đầu (bản 3)",
@@ -1660,6 +1680,16 @@
    "effective": ""
   },
   {
+   "id": "SCH.constitution",
+   "path": "schemas/constitution.md",
+   "title": "schema · constitution (chapter)",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "SCH.edition",
    "path": "schemas/edition.md",
    "title": "schema · edition",
@@ -1846,6 +1876,316 @@
    "layer": "foundation",
    "kind": "schema",
    "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-001",
+   "path": "storylines/past/PAST.T/PAST.T-001.md",
+   "title": "PAST.T-001 · 1.1",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-002",
+   "path": "storylines/past/PAST.T/PAST.T-002.md",
+   "title": "PAST.T-002 · 1.1b",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-003",
+   "path": "storylines/past/PAST.T/PAST.T-003.md",
+   "title": "PAST.T-003 · 1.2",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-004",
+   "path": "storylines/past/PAST.T/PAST.T-004.md",
+   "title": "PAST.T-004 · 1.3",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-005",
+   "path": "storylines/past/PAST.T/PAST.T-005.md",
+   "title": "PAST.T-005 · 1.4",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-006",
+   "path": "storylines/past/PAST.T/PAST.T-006.md",
+   "title": "PAST.T-006 · 1.4b",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-007",
+   "path": "storylines/past/PAST.T/PAST.T-007.md",
+   "title": "PAST.T-007 · 1.5",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-008",
+   "path": "storylines/past/PAST.T/PAST.T-008.md",
+   "title": "PAST.T-008 · 1.6",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-009",
+   "path": "storylines/past/PAST.T/PAST.T-009.md",
+   "title": "PAST.T-009 · 1.7",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-010",
+   "path": "storylines/past/PAST.T/PAST.T-010.md",
+   "title": "PAST.T-010 · 1.8",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-011",
+   "path": "storylines/past/PAST.T/PAST.T-011.md",
+   "title": "PAST.T-011 · 1.9",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-012",
+   "path": "storylines/past/PAST.T/PAST.T-012.md",
+   "title": "PAST.T-012 · 1.10",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-013",
+   "path": "storylines/past/PAST.T/PAST.T-013.md",
+   "title": "PAST.T-013 · 1.11",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-014",
+   "path": "storylines/past/PAST.T/PAST.T-014.md",
+   "title": "PAST.T-014 · Hoan hỉ",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-015",
+   "path": "storylines/past/PAST.T/PAST.T-015.md",
+   "title": "PAST.T-015 · Hiếu thắng",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-016",
+   "path": "storylines/past/PAST.T/PAST.T-016.md",
+   "title": "PAST.T-016 · Kiêu hãnh",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-017",
+   "path": "storylines/past/PAST.T/PAST.T-017.md",
+   "title": "PAST.T-017 · Tủi hổ",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-018",
+   "path": "storylines/past/PAST.T/PAST.T-018.md",
+   "title": "PAST.T-018 · Hụt hẫng",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-019",
+   "path": "storylines/past/PAST.T/PAST.T-019.md",
+   "title": "PAST.T-019 · Biết ơn",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-020",
+   "path": "storylines/past/PAST.T/PAST.T-020.md",
+   "title": "PAST.T-020 · Hy vọng",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-021",
+   "path": "storylines/past/PAST.T/PAST.T-021.md",
+   "title": "PAST.T-021 · Phẫn uất",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-022",
+   "path": "storylines/past/PAST.T/PAST.T-022.md",
+   "title": "PAST.T-022 · 3.1",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-023",
+   "path": "storylines/past/PAST.T/PAST.T-023.md",
+   "title": "PAST.T-023 · 3.2",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-024",
+   "path": "storylines/past/PAST.T/PAST.T-024.md",
+   "title": "PAST.T-024 · 3.3",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "page",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-025",
+   "path": "storylines/past/PAST.T/PAST.T-025.md",
+   "title": "PAST.T-025 · 3.3b",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "page",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-026",
+   "path": "storylines/past/PAST.T/PAST.T-026.md",
+   "title": "PAST.T-026 · 3.4",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T-027",
+   "path": "storylines/past/PAST.T/PAST.T-027.md",
+   "title": "PAST.T-027 · 3.5",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "page",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST.T",
+   "path": "storylines/past/PAST.T.md",
+   "title": "PAST.T · Quá khứ của Thuyên",
+   "layer": "storylines",
+   "kind": "node",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "PAST",
+   "path": "storylines/past/PAST.md",
+   "title": "PAST · Tuyến quá khứ",
+   "layer": "storylines",
+   "kind": "node",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SELF",
+   "path": "storylines/self/SELF.md",
+   "title": "SELF · Tuyến nội tâm",
+   "layer": "storylines",
+   "kind": "node",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SELF.thuyen",
+   "path": "storylines/self/SELF.thuyen.md",
+   "title": "SELF.thuyen · Nội tâm của Thuyên",
+   "layer": "storylines",
+   "kind": "node",
+   "status": "agreed",
    "weight": {},
    "effective": ""
   },
@@ -2271,6 +2611,476 @@
   }
  ],
  "edges": [
+  {
+   "s": "PAST.T-001",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-001",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-002",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-002",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-003",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-003",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-004",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-004",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-005",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-005",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-006",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-006",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-007",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-007",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-008",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-008",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-009",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-009",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-010",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-010",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-011",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-011",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-012",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-012",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-013",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-013",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-014",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-014",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-015",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-015",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-016",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-016",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-017",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-017",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-018",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-018",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-019",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-019",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-020",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-020",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-021",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-021",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-022",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-022",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-023",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-023",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-024",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-024",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-025",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-025",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-026",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-026",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T-027",
+   "t": "PAST.T",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T-027",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST",
+   "type": "parent"
+  },
+  {
+   "s": "PAST.T",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "PAST.T",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-001",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-002",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-003",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-004",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-005",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-006",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-007",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-008",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-009",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-010",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-011",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-012",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-013",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-014",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-015",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-016",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-017",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-018",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-019",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-020",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-021",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-022",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-023",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-024",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-025",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-026",
+   "type": "link"
+  },
+  {
+   "s": "PAST.T",
+   "t": "PAST.T-027",
+   "type": "link"
+  },
+  {
+   "s": "PAST",
+   "t": "PAST.T",
+   "type": "link"
+  },
+  {
+   "s": "SELF",
+   "t": "SELF.thuyen",
+   "type": "link"
+  },
+  {
+   "s": "SELF.thuyen",
+   "t": "SELF",
+   "type": "parent"
+  },
+  {
+   "s": "SELF.thuyen",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "SELF.thuyen",
+   "t": "CH.thuyen",
+   "type": "link"
+  },
+  {
+   "s": "SELF.thuyen",
+   "t": "PAST.T",
+   "type": "link"
+  },
+  {
+   "s": "SELF.thuyen",
+   "t": "SELF",
+   "type": "link"
+  },
+  {
+   "s": "SELF.thuyen",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
   {
    "s": "CH.thuyen.beliefs",
    "t": "CH.thuyen",
@@ -2872,6 +3682,31 @@
    "type": "ref"
   },
   {
+   "s": "ART.0",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "ART.0",
+   "t": "01c-rules-thanh-phan",
+   "type": "ref"
+  },
+  {
+   "s": "ART.0",
+   "t": "CFG.calendar",
+   "type": "ref"
+  },
+  {
+   "s": "ART.0",
+   "t": "nhi",
+   "type": "ref"
+  },
+  {
+   "s": "ART.AX3",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
    "s": "cay-tuyen",
    "t": "ngan-sach-tuyen",
    "type": "ref"
@@ -3289,6 +4124,16 @@
   {
    "s": "kien-truc-framework",
    "t": "CH.thuyen.voice",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "SELF.thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "PAST.T",
    "type": "ref"
   },
   {
@@ -4248,6 +5093,11 @@
   },
   {
    "s": "SCH.article",
+   "t": "ART.0",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.article",
    "t": "CFG.statuses",
    "type": "ref"
   },
@@ -4279,6 +5129,16 @@
   {
    "s": "SCH.post",
    "t": "CFG.statuses",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.constitution",
+   "t": "ART.0",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.constitution",
+   "t": "SCH.article",
    "type": "ref"
   },
   {
@@ -4334,6 +5194,66 @@
   {
    "s": "SCH.technique",
    "t": "SPEC.library",
+   "type": "ref"
+  },
+  {
+   "s": "PAST.T",
+   "t": "goi-ten-cam-xuc",
+   "type": "ref"
+  },
+  {
+   "s": "PAST.T",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "PAST.T",
+   "t": "qk-t-cap-3-motif-lop-10",
+   "type": "ref"
+  },
+  {
+   "s": "PAST.T",
+   "t": "qk-t-plan-viet-lai-quang-1-v3",
+   "type": "ref"
+  },
+  {
+   "s": "PAST",
+   "t": "tuyen/qua-khu/README",
+   "type": "ref"
+  },
+  {
+   "s": "PAST",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "SELF.thuyen",
+   "t": "thuyen-co-may",
+   "type": "ref"
+  },
+  {
+   "s": "SELF.thuyen",
+   "t": "thuyen-da-nhan-cach",
+   "type": "ref"
+  },
+  {
+   "s": "SELF.thuyen",
+   "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "SELF.thuyen",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "SELF.thuyen",
+   "t": "thuyen-cai-toi-doc-co-che",
+   "type": "ref"
+  },
+  {
+   "s": "SELF.thuyen",
+   "t": "CFG.calendar",
    "type": "ref"
   },
   {
@@ -5004,6 +5924,11 @@
   {
    "s": "SPEC.layout",
    "t": "SPEC.editions",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "ART.AX3",
    "type": "ref"
   },
   {
