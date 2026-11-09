@@ -1990,6 +1990,26 @@
    "effective": ""
   },
   {
+   "id": "CH.thuyen",
+   "path": "world/characters/thuyen/CH.thuyen.md",
+   "title": "CH.thuyen · Thuyên",
+   "layer": "world",
+   "kind": "character",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "CH.thuyen.mechanics",
+   "path": "world/characters/thuyen/mechanics/CH.thuyen.mechanics.md",
+   "title": "CH.thuyen.mechanics · Cỗ máy hiện sinh của Thuyên",
+   "layer": "world",
+   "kind": "character",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "SPEC.index",
    "path": "docs/README.md",
    "title": "docs/: specifications",
@@ -2111,6 +2131,16 @@
   }
  ],
  "edges": [
+  {
+   "s": "CH.thuyen",
+   "t": "CH.thuyen.mechanics",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "CH.thuyen",
+   "type": "parent"
+  },
   {
    "s": "00-quyet-dinh-v2",
    "t": "02-hoi-dong-nhi",
@@ -2473,11 +2503,6 @@
   },
   {
    "s": "cau-hoi",
-   "t": "thuyen",
-   "type": "ref"
-  },
-  {
-   "s": "cau-hoi",
    "t": "thuyen-hai-cai-toi",
    "type": "ref"
   },
@@ -2499,6 +2524,11 @@
   {
    "s": "cau-hoi",
    "t": "qk-t-plan-ch1-het-cap-2",
+   "type": "ref"
+  },
+  {
+   "s": "cau-hoi",
+   "t": "thuyen",
    "type": "ref"
   },
   {
@@ -2943,6 +2973,16 @@
   },
   {
    "s": "kien-truc-framework",
+   "t": "CH.thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "CH.thuyen.mechanics",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
    "t": "vu",
    "type": "ref"
   },
@@ -3118,12 +3158,12 @@
   },
   {
    "s": "qk-t-cap-3-motif-lop-10",
-   "t": "thuyen",
+   "t": "thuyen-hai-cai-toi",
    "type": "ref"
   },
   {
    "s": "qk-t-cap-3-motif-lop-10",
-   "t": "thuyen-hai-cai-toi",
+   "t": "thuyen",
    "type": "ref"
   },
   {
@@ -3183,11 +3223,6 @@
   },
   {
    "s": "qk-t-plan-viet-lai-quang-1-v2",
-   "t": "thuyen",
-   "type": "ref"
-  },
-  {
-   "s": "qk-t-plan-viet-lai-quang-1-v2",
    "t": "thuyen-co-may",
    "type": "ref"
   },
@@ -3233,11 +3268,6 @@
   },
   {
    "s": "qk-t-plan-viet-lai-quang-1-v3",
-   "t": "thuyen",
-   "type": "ref"
-  },
-  {
-   "s": "qk-t-plan-viet-lai-quang-1-v3",
    "t": "thuyen-co-may",
    "type": "ref"
   },
@@ -3254,11 +3284,6 @@
   {
    "s": "qk-t-plan-viet-lai-quang-1-v3",
    "t": "GUIDE.old-workflow",
-   "type": "ref"
-  },
-  {
-   "s": "qk-t-ra-soat-thu-v6",
-   "t": "thuyen",
    "type": "ref"
   },
   {
@@ -4063,17 +4088,17 @@
   },
   {
    "s": "tuyen/qua-khu/README",
-   "t": "thuyen",
-   "type": "ref"
-  },
-  {
-   "s": "tuyen/qua-khu/README",
    "t": "thuyen-hai-cai-toi",
    "type": "ref"
   },
   {
    "s": "tuyen/qua-khu/README",
    "t": "thuyen-da-nhan-cach",
+   "type": "ref"
+  },
+  {
+   "s": "tuyen/qua-khu/README",
+   "t": "thuyen",
    "type": "ref"
   },
   {
@@ -4109,11 +4134,6 @@
   {
    "s": "nhi",
    "t": "posts/legacy/27b-hong",
-   "type": "ref"
-  },
-  {
-   "s": "nhi",
-   "t": "thuyen",
    "type": "ref"
   },
   {
@@ -4258,11 +4278,6 @@
   },
   {
    "s": "thuyen-co-may",
-   "t": "thuyen",
-   "type": "ref"
-  },
-  {
-   "s": "thuyen-co-may",
    "t": "thuyen-hai-cai-toi",
    "type": "ref"
   },
@@ -4313,11 +4328,6 @@
   },
   {
    "s": "thuyen-lang-kinh",
-   "t": "thuyen",
-   "type": "ref"
-  },
-  {
-   "s": "thuyen-lang-kinh",
    "t": "registers",
    "type": "ref"
   },
@@ -4343,7 +4353,17 @@
   },
   {
    "s": "thuyen-lang-kinh",
+   "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen-lang-kinh",
    "t": "th-mang-luoi-loi-ich",
+   "type": "ref"
+  },
+  {
+   "s": "thuyen",
+   "t": "thuyen-co-may",
    "type": "ref"
   },
   {
@@ -4429,6 +4449,41 @@
   {
    "s": "vu",
    "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "CH.thuyen",
+   "t": "CFG.calendar",
+   "type": "ref"
+  },
+  {
+   "s": "CH.thuyen",
+   "t": "thuyen-co-may",
+   "type": "ref"
+  },
+  {
+   "s": "CH.thuyen",
+   "t": "thuyen-lang-kinh",
+   "type": "ref"
+  },
+  {
+   "s": "CH.thuyen",
+   "t": "thuyen-cai-toi-doc-co-che",
+   "type": "ref"
+  },
+  {
+   "s": "CH.thuyen",
+   "t": "M-he-gia-tri",
+   "type": "ref"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "thuyen-co-may",
+   "type": "ref"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "vu",
    "type": "ref"
   },
   {

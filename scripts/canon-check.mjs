@@ -19,7 +19,7 @@ const CONTENT = path.join(ROOT, 'content');
 
 // ---------- cấu hình ----------
 // Thư mục đã chuyển sang khuôn mới: lỗi là error. Ngoài danh sách này (legacy) chỉ là warn.
-const MIGRATED = ['config', 'schemas', 'guidelines', 'docs'];
+const MIGRATED = ['config', 'schemas', 'guidelines', 'docs', 'world'];
 const MIGRATED_FILES = ['GUIDELINES.md'];
 // Không quét, hoặc không sinh cạnh.
 const SKIP_DIRS = new Set(['.obsidian', '_views', '_archive', 'node_modules', '.git']);
