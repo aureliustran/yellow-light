@@ -1,24 +1,32 @@
 ---
-id: schema.chapter
+id: SCH.post
 kind: schema
+entity: post
 status: proposed
-updated: 2026-11-08
-sources: [kien-truc-framework.md §4]
+updated: 2026-11-10
+required: [id, file, edition, status]
+aliases: [schema.post]
+sources: [docs/framework/blueprints.md]
 ---
-# schema · chapter
+# schema · post (published chapter)
 
-Chương đã viết hoặc đang viết, nằm ở `content/posts/vercel/` (không đổi tên, không chuyển). Schema này mô tả **hồ sơ chương** ghi bên ngoài chương, để chương không bị nhồi metadata.
+A chapter as published, in `content/posts/<edition-dir>/`. The chapter file is never renamed or given metadata (the import parser and the site read it as is), so its record lives **outside** the chapter.
 
-**Vị trí hồ sơ:** hàng trong `plans/` hoặc `_views/chapters.md` (sinh). **Mã:** `ch-<số>` theo tên file trong `content/posts/vercel/`.
+**Location:** a row in the edition file `plans/ED.<edition>.md`. **Id:** `POST.<edition>.<nn>` (number = order in the edition, two digits; interludes take the number of the chapter they follow plus a letter: `POST.v2.04b`).
 
-| Trường | Ý |
+## Fields
+
+| Field | Meaning |
 | --- | --- |
-| `file` | `content/posts/vercel/NN-….md` |
-| `status` | `page` (đã đăng) / `draft` / `needs-decision` |
-| `phase` | giai đoạn |
-| `pov` | `CH.…` |
-| `register` | `R1`–`R9` theo nhịp |
-| `events` | tình tiết lên trang (`[[ROM.TN-014]]`…) |
-| `x` | giao điểm |
+| `id` | `POST.v2.05` |
+| `file` | `posts/vercel/05-chuong-05-san-khau.md` |
+| `edition` | `[[ED.v2]]` |
+| `status` | `page` (published) · `draft` · `needs-decision` |
+| `blueprint` | `[[BP.v2.05]]` when one exists |
 
-Luật: chương `page` đứng đầu thứ tự ưu tiên (`config/statuses.md`): khi canon trong `content/` trái chương đã đăng, sửa canon hoặc mở `Q-`, không sửa chương ngầm.
+Which events, register and POV a chapter carries is owned by its blueprint, not repeated here.
+
+## Rules
+
+1. A `page` chapter is first in the priority order (`config/statuses.md`): when canon contradicts it, fix canon or open a `Q-`; never edit the chapter silently.
+2. Cross-posts (`XP.<site>.<nnn>`) are files in `posts/<domain>/`; their rules are in that folder's `convert.md`.

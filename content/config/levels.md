@@ -1,5 +1,6 @@
 ---
-id: config.levels
+id: CFG.levels
+aliases: [config.levels]
 kind: config
 status: proposed
 updated: 2026-11-08

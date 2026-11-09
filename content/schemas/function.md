@@ -1,45 +1,47 @@
 ---
-id: schema.function
+id: SCH.function
 kind: schema
+entity: function
 status: proposed
-updated: 2026-11-08
+updated: 2026-11-10
+required: [id, kind, status, updated, parent]
+aliases: [schema.function]
 sources: [kien-truc-framework.md §5]
 ---
 # schema · function
 
-Hàm là **cơ chế** của một nhân vật, viết như hàm có chữ ký. Agent đọc `in`, `when` để biết khi nào gọi; không phải đọc cả cỗ máy. **Vị trí:** `world/characters/<id>/mechanics/fn.<id>.<ten>.md`. **Mã:** `fn.<id>.<ten>`.
+A **mechanism** of one character, written like a function with a signature. An agent reads `in` and `when` to know when to call it, without reading the whole machine.
 
-## Khuôn
+**Location:** `world/characters/<id>/mechanics/FN.<id>.<name>.md`. **Id:** `FN.<id>.<name>`. Header `parent: [[CH.<id>.mechanics]]`.
+
+## Shape
 
 ```
-fn        fn.thuyen.phong-kin
-in        trigger ∈ {K1 sân vô hại, K2 kẻ xứng tầm có dấu khinh, K3 cần lực, K4 cái đau trồi lên}, license?
+in        trigger ∈ {K1 harmless court, K2 worthy opponent showing contempt, K3 force needed, K4 the pain surfaces}, license?
 when      attribute cai-toi-doc ≠ ngu
-body      giọng (khối R9, gọi thằng bé là "mày") → bộ dịch → kênh luật chơi → nghi thức tắt
-out       câu nói đã dịch + hành động quá đà trong luật
-effects   hệ quả viết bằng R8; người bên cạnh bất an mà không rõ vì sao
-uses      [[BL-14]], [[BL-29]], [[R8]], [[R9]], [[LAW.swearing.density]]
-render    DV-…; luật viết của hàm
+body      voice (REG.dang block, calls the boy "mày") → translator → rule-of-the-game channel → shutdown ritual
+out       translated line + overreaching action within the rules
+effects   consequences written in REG.so-cai; people nearby uneasy without knowing why
+uses      [[BL-014]], [[BL-029]], [[REG.so-cai]], [[REG.dang]], [[LAW.swearing.density]]
+render    DV-…; writing laws of the function
 ```
 
-## Trường
+## Fields
 
-| Trường | Ý | Bắt buộc |
-| --- | --- | --- |
-| `fn` | mã | có |
-| `in` | tham số, điều kiện gọi (kèm tập giá trị) | có |
-| `when` | điều kiện thuộc tính để hàm hoạt động (đọc từ `attributes` của nhân vật) | có |
-| `body` | các bước, một dòng một bước | có |
-| `out` | thứ hàm sinh ra trên trang | có |
-| `effects` | hệ quả; thay đổi thuộc tính | có |
-| `uses` | import: niềm tin, register, luật, hàm khác | có |
-| `render` | cách lên trang: `DV-`, luật viết, trỏ `lib/` | có (ghi `none` nếu không) |
+| Field | Meaning |
+| --- | --- |
+| `in` | parameters and calling conditions, with value sets |
+| `when` | attribute conditions under which it works (from the character's `attributes`) |
+| `body` | steps, one per line |
+| `out` | what it produces on the page |
+| `effects` | consequences; attribute changes |
+| `uses` | imports: beliefs, registers, laws, other functions |
+| `render` | how it reaches the page: devices `DV-`, writing laws, links to `lib/` (`none` if nothing) |
 
-Property đầu file: `id`, `kind: function`, `status`, `updated`, `parent: [[CH.<id>.mechanics]]`.
+## Rules
 
-## Luật
-
-1. **Một hàm một file**; chữ ký của mọi hàm cũng có một dòng ở `CH.<id>.mechanics.md`.
-2. Hàm **không có ngày**. Ai gọi nó, ở thời điểm nào là việc của tình tiết (cột `calls`).
-3. Hàm không chứa kỹ thuật viết chung (→ `lib/`) và không chứa luật chung (→ `rules/`); chỉ `uses` chúng.
-4. `uses` là import: mọi mã trong `uses` phải tồn tại (`LAW.check.resolve`).
+1. **One function per file**; its signature also has one line in `CH.<id>.mechanics.md`.
+2. A function has **no date**. Who calls it and when is the event's `calls`.
+3. A function holds no general technique (→ `lib/`) and no general law (→ `rules/`); it only `uses` them.
+4. Everything in `uses` must exist (`LAW.check.resolve`).
+5. Devices of the character's inner machinery (old `TB-`, now `DV-NNN`) are functions or parts of functions here, not library entries.

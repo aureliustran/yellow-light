@@ -1,27 +1,33 @@
 ---
-id: schema.article
+id: SCH.article
 kind: schema
+entity: article
 status: proposed
-updated: 2026-11-08
-sources: [kien-truc-framework.md §6]
+updated: 2026-11-10
+required: [id, kind, status, updated, statement, source]
+aliases: [schema.article]
+sources: [docs/framework/rules-engine.md, kien-truc-framework.md §6]
 ---
 # schema · article
 
-Điều hiến pháp: bất biến chia từ trục AX; luật giai đoạn lấy căn cứ từ đây. **Vị trí:** `core/constitution/ART-AX<n>.md` (một chương một trục) và `ART-0.md` (chương nền). **Mã:** `ART-AX<n>.<số>`, `ART-0.<số>`.
+A constitution article: an invariant split from an axis; phase laws take their basis from it. See [rules-engine](../../docs/framework/rules-engine.md).
 
-| Trường | Ý |
+**Location:** inline in `core/constitution/ART.AX<n>.md` (one chapter per axis) or `ART.0.md` (chapter 0, foundations). **Id:** `ART.AX<n>.<k>`, `ART.0.<k>`; block id `^<k>`.
+
+## Fields
+
+| Field | Meaning |
 | --- | --- |
-| `id` | `ART-AX3.1` |
-| `statement` | **Một câu**, tiếng Việt |
-| `source` | Đoạn nào của câu gốc AX (`core/axes.md`) sinh ra điều này |
-| `forbids` | Truyện không được làm gì (kiểm được bằng mắt hoặc máy) |
-| `applies-to` | bộ chọn (xem `schemas/law.md`) |
+| `statement` | **One sentence**, in Vietnamese |
+| `source` | which passage of the axis's root sentence (`core/axes.md`) produces it |
+| `forbids` | what the story must never do (checkable by eye or machine) |
+| `applies-to` | selector (syntax: [rules-engine](../../docs/framework/rules-engine.md#selectors)) |
 | `status` | `config/statuses.md` |
 
-**Chương 0 (nền)**: căn cứ cho các luật không sinh từ trục — hình thức, khối hiển thị, xưng hô, giọng địa phương, ranh 18, cấu trúc.
+Chapter 0 is the basis for laws not derived from an axis: form, display blocks, address, dialect, under-18, structure.
 
-## Luật
+## Rules
 
-1. Điều do Claude dựng nháp từ **câu gốc của tác giả**; tác giả duyệt từng điều (luật dùng câu gốc, `tuyen/goc.md` §2). Điều chưa duyệt là `proposed`.
-2. Tầng dưới (luật, decree, override) chỉ cụ thể hóa, **không trái** tầng trên. Làm trái một điều thì phải sửa chính điều ấy bằng quyết định `D-` mức cao nhất.
-3. Mỗi điều có ít nhất một `source`.
+1. Claude drafts articles from the **author's root sentences**; the author approves each one. Unapproved articles are `proposed`.
+2. Lower tiers (law, decree, override) only make an article concrete; they never contradict it. Going against an article means changing it through a top-level decision `D-`.
+3. Every article has at least one `source`.

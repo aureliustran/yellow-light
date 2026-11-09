@@ -1,22 +1,23 @@
 ---
-id: schema.secret
+id: SCH.secret
 kind: schema
+entity: secret
 status: proposed
-updated: 2026-11-08
+updated: 2026-11-10
+required: [id, kind, status, updated, aliases]
+aliases: [schema.secret]
 sources: [kien-truc-framework.md §8.3]
 ---
 # schema · secret
 
-Bí mật là thực thể riêng để theo dõi **ai biết gì lúc nào**. **Vị trí:** `world/secrets/<id>.md`. **Mã:** `SEC-<n>`.
+A secret, tracked as an entity to know **who knows what, when**. **Location:** `world/secrets/SEC-NNN.md`. **Id:** `SEC-NNN`.
 
-Property: `id`, `kind: secret`, `status`, `updated`, `aliases`.
+Sections:
+- `truth`: what is true (one sentence).
+- `initial-holders`: who knows when the story starts.
+- `guard`: conditions for it to stay hidden (e.g. an arranged objective event, Q-001).
+- `reveal`: event expected to expose it (`[[<node>-NNN]]`), optional.
 
-Mục:
-- `truth`: sự thật là gì (một câu).
-- `initial-holders`: ai biết khi truyện bắt đầu.
-- `guard`: điều kiện để bí mật còn giữ (ví dụ: sự kiện khách quan dàn xếp, Q-001).
-- `reveal`: tình tiết dự kiến làm lộ (`[[node-nn]]`) — tùy chọn.
+The knowledge ledger is **never written by hand** here. Events declare `changes: SEC-NNN: +[[CH.…]]`; the tooling builds the ledger over time into intersection views. `LAW.check.secret-leak` catches a scene using the secret when someone present does not know it yet.
 
-Quy ước: sổ ai biết gì **không viết tay** ở đây. Tình tiết khai `changes: SEC-n: +[[CH.…]]`; script sinh sổ theo thời gian vào view của giao điểm. `LAW.check.secret-leak` bắt cảnh dùng điều bí mật khi người trong cảnh chưa biết.
-
-Ví dụ nên thành secret: thân phận Nhi (Q-001), quân sư bí mật (X-06), kênh K17.
+Candidates: Nhi's identity (Q-001), the secret adviser (X-006), channel K17.

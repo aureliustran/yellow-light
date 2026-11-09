@@ -1,5 +1,6 @@
 ---
-id: config.phases
+id: CFG.phases
+aliases: [config.phases]
 kind: config
 status: proposed
 updated: 2026-11-08

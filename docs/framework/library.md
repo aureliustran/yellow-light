@@ -7,7 +7,7 @@ sources: [content/de-xuat/kien-truc-framework.md §7b (10/11)]
 ---
 # Library: registers, techniques, patterns `proposed 10/11`
 
-`lib/` mirrors `rules/`: same aspects, same selector syntax (`applies-to`, `effective`, `except`), so one engine answers "what applies here". Fields: the schemas `register`, `technique`, `pattern` (planned, B3).
+`lib/` mirrors `rules/`: same aspects, same selector syntax (`applies-to`, `effective`, `except`), so one engine answers "what applies here". Fields: `content/schemas/register.md`, `technique.md`, `pattern.md`.
 
 **Boundary.** A **law** says *what must hold* (pass or fail). A **register**, **technique** or **pattern** says *how to get there* (a choice, with a dose and samples). When a practice becomes mandatory it is promoted to a law, and the law links down to the technique.
 

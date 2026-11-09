@@ -280,7 +280,7 @@
    "effective": ""
   },
   {
-   "id": "config.calendar",
+   "id": "CFG.calendar",
    "path": "config/calendar.md",
    "title": "calendar · Lịch",
    "layer": "foundation",
@@ -290,7 +290,7 @@
    "effective": ""
   },
   {
-   "id": "config.ids",
+   "id": "CFG.ids",
    "path": "config/ids.md",
    "title": "ids · Sổ mã, cũ → mới",
    "layer": "foundation",
@@ -300,7 +300,7 @@
    "effective": ""
   },
   {
-   "id": "config.levels",
+   "id": "CFG.levels",
    "path": "config/levels.md",
    "title": "levels · Thang mức và vai",
    "layer": "foundation",
@@ -310,7 +310,7 @@
    "effective": ""
   },
   {
-   "id": "config.phases",
+   "id": "CFG.phases",
    "path": "config/phases.md",
    "title": "phases · Giai đoạn",
    "layer": "foundation",
@@ -320,7 +320,7 @@
    "effective": ""
   },
   {
-   "id": "config.statuses",
+   "id": "CFG.statuses",
    "path": "config/statuses.md",
    "title": "statuses · Trạng thái",
    "layer": "foundation",
@@ -1460,7 +1460,7 @@
    "effective": ""
   },
   {
-   "id": "schema.article",
+   "id": "SCH.article",
    "path": "schemas/article.md",
    "title": "schema · article",
    "layer": "foundation",
@@ -1470,7 +1470,7 @@
    "effective": ""
   },
   {
-   "id": "schema.belief",
+   "id": "SCH.belief",
    "path": "schemas/belief.md",
    "title": "schema · belief",
    "layer": "foundation",
@@ -1480,9 +1480,9 @@
    "effective": ""
   },
   {
-   "id": "schema.chapter",
-   "path": "schemas/chapter.md",
-   "title": "schema · chapter",
+   "id": "SCH.blueprint",
+   "path": "schemas/blueprint.md",
+   "title": "schema · blueprint",
    "layer": "foundation",
    "kind": "schema",
    "status": "proposed",
@@ -1490,7 +1490,17 @@
    "effective": ""
   },
   {
-   "id": "schema.character",
+   "id": "SCH.post",
+   "path": "schemas/chapter.md",
+   "title": "schema · post (published chapter)",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SCH.character",
    "path": "schemas/character.md",
    "title": "schema · character",
    "layer": "foundation",
@@ -1500,7 +1510,27 @@
    "effective": ""
   },
   {
-   "id": "schema.event",
+   "id": "SCH.config",
+   "path": "schemas/config.md",
+   "title": "schema · config",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SCH.edition",
+   "path": "schemas/edition.md",
+   "title": "schema · edition",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SCH.event",
    "path": "schemas/event.md",
    "title": "schema · event",
    "layer": "foundation",
@@ -1510,7 +1540,7 @@
    "effective": ""
   },
   {
-   "id": "schema.function",
+   "id": "SCH.function",
    "path": "schemas/function.md",
    "title": "schema · function",
    "layer": "foundation",
@@ -1520,7 +1550,17 @@
    "effective": ""
   },
   {
-   "id": "schema.group",
+   "id": "SCH.goal",
+   "path": "schemas/goal.md",
+   "title": "schema · goal",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SCH.group",
    "path": "schemas/group.md",
    "title": "schema · group",
    "layer": "foundation",
@@ -1530,7 +1570,17 @@
    "effective": ""
   },
   {
-   "id": "schema.intersection",
+   "id": "SCH.guide",
+   "path": "schemas/guide.md",
+   "title": "schema · guide",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SCH.intersection",
    "path": "schemas/intersection.md",
    "title": "schema · intersection",
    "layer": "foundation",
@@ -1540,7 +1590,7 @@
    "effective": ""
   },
   {
-   "id": "schema.law",
+   "id": "SCH.law",
    "path": "schemas/law.md",
    "title": "schema · law",
    "layer": "foundation",
@@ -1550,7 +1600,7 @@
    "effective": ""
   },
   {
-   "id": "schema.node",
+   "id": "SCH.node",
    "path": "schemas/node.md",
    "title": "schema · node",
    "layer": "foundation",
@@ -1560,7 +1610,7 @@
    "effective": ""
   },
   {
-   "id": "schema.object",
+   "id": "SCH.object",
    "path": "schemas/object.md",
    "title": "schema · object",
    "layer": "foundation",
@@ -1570,9 +1620,9 @@
    "effective": ""
   },
   {
-   "id": "schema.plan",
-   "path": "schemas/plan.md",
-   "title": "schema · plan",
+   "id": "SCH.pattern",
+   "path": "schemas/pattern.md",
+   "title": "schema · pattern",
    "layer": "foundation",
    "kind": "schema",
    "status": "proposed",
@@ -1580,7 +1630,17 @@
    "effective": ""
   },
   {
-   "id": "schema.proposal",
+   "id": "SCH.plan",
+   "path": "schemas/plan.md",
+   "title": "schema · plan (range plan)",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SCH.proposal",
    "path": "schemas/proposal.md",
    "title": "schema · proposal",
    "layer": "foundation",
@@ -1590,7 +1650,27 @@
    "effective": ""
   },
   {
-   "id": "schema.secret",
+   "id": "SCH.register",
+   "path": "schemas/register.md",
+   "title": "schema · register",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SCH.schema",
+   "path": "schemas/schema.md",
+   "title": "schema · schema",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SCH.secret",
    "path": "schemas/secret.md",
    "title": "schema · secret",
    "layer": "foundation",
@@ -1600,9 +1680,29 @@
    "effective": ""
   },
   {
-   "id": "schema.setting",
+   "id": "SCH.setting",
    "path": "schemas/setting.md",
    "title": "schema · setting",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SCH.spec",
+   "path": "schemas/spec.md",
+   "title": "schema · spec",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SCH.technique",
+   "path": "schemas/technique.md",
+   "title": "schema · technique",
    "layer": "foundation",
    "kind": "schema",
    "status": "proposed",
@@ -2042,38 +2142,38 @@
    "type": "ref"
   },
   {
-   "s": "config.calendar",
+   "s": "CFG.calendar",
    "t": "thuyen",
    "type": "ref"
   },
   {
-   "s": "config.calendar",
+   "s": "CFG.calendar",
    "t": "nhi",
    "type": "ref"
   },
   {
-   "s": "config.ids",
+   "s": "CFG.ids",
    "t": "goc",
    "type": "ref"
   },
   {
-   "s": "config.levels",
-   "t": "schema.node",
+   "s": "CFG.levels",
+   "t": "SCH.node",
    "type": "ref"
   },
   {
-   "s": "config.levels",
+   "s": "CFG.levels",
    "t": "tuyen/README",
    "type": "ref"
   },
   {
-   "s": "config.phases",
-   "t": "config.calendar",
+   "s": "CFG.phases",
+   "t": "CFG.calendar",
    "type": "ref"
   },
   {
-   "s": "config.statuses",
-   "t": "config.ids",
+   "s": "CFG.statuses",
+   "t": "CFG.ids",
    "type": "ref"
   },
   {
@@ -2313,12 +2413,12 @@
   },
   {
    "s": "kien-truc-framework",
-   "t": "config.ids",
+   "t": "CFG.ids",
    "type": "ref"
   },
   {
    "s": "kien-truc-framework",
-   "t": "schema.article",
+   "t": "SCH.article",
    "type": "ref"
   },
   {
@@ -2428,22 +2528,22 @@
   },
   {
    "s": "kien-truc-framework",
-   "t": "config.levels",
+   "t": "CFG.levels",
    "type": "ref"
   },
   {
    "s": "kien-truc-framework",
-   "t": "config.phases",
+   "t": "CFG.phases",
    "type": "ref"
   },
   {
    "s": "kien-truc-framework",
-   "t": "config.calendar",
+   "t": "CFG.calendar",
    "type": "ref"
   },
   {
    "s": "kien-truc-framework",
-   "t": "config.statuses",
+   "t": "CFG.statuses",
    "type": "ref"
   },
   {
@@ -3237,58 +3337,38 @@
    "type": "ref"
   },
   {
-   "s": "schema.article",
-   "t": "schema.law",
+   "s": "SCH.article",
+   "t": "CFG.statuses",
    "type": "ref"
   },
   {
-   "s": "schema.article",
-   "t": "config.statuses",
+   "s": "SCH.belief",
+   "t": "CFG.statuses",
    "type": "ref"
   },
   {
-   "s": "schema.article",
-   "t": "goc",
+   "s": "SCH.blueprint",
+   "t": "CFG.statuses",
    "type": "ref"
   },
   {
-   "s": "schema.chapter",
-   "t": "config.statuses",
+   "s": "SCH.post",
+   "t": "posts/vercel/05-chuong-05-san-khau",
    "type": "ref"
   },
   {
-   "s": "schema.event",
-   "t": "config.calendar",
+   "s": "SCH.post",
+   "t": "CFG.statuses",
    "type": "ref"
   },
   {
-   "s": "schema.event",
-   "t": "config.statuses",
+   "s": "SCH.event",
+   "t": "CFG.calendar",
    "type": "ref"
   },
   {
-   "s": "schema.group",
-   "t": "config.ids",
-   "type": "ref"
-  },
-  {
-   "s": "schema.node",
-   "t": "config.ids",
-   "type": "ref"
-  },
-  {
-   "s": "schema.node",
-   "t": "schema.law",
-   "type": "ref"
-  },
-  {
-   "s": "schema.node",
-   "t": "schema.event",
-   "type": "ref"
-  },
-  {
-   "s": "schema.plan",
-   "t": "tuyen/README",
+   "s": "SCH.guide",
+   "t": "GUIDE.main",
    "type": "ref"
   },
   {

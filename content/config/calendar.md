@@ -1,5 +1,6 @@
 ---
-id: config.calendar
+id: CFG.calendar
+aliases: [config.calendar]
 kind: config
 status: proposed
 updated: 2026-11-08

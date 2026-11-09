@@ -1,51 +1,50 @@
 ---
-id: schema.character
+id: SCH.character
 kind: schema
+entity: character
 status: proposed
-updated: 2026-11-08
+updated: 2026-11-10
+required: [id, kind, status, updated, aliases, exports]
+aliases: [schema.character]
 sources: [kien-truc-framework.md §5]
 ---
 # schema · character
 
-Nhân vật là thực thể **tĩnh** (bảng chiều). Giá trị theo thời điểm nằm ở node (`storylines/`), không ở đây.
+A **static** entity (dimension table). Values over time live in nodes (`storylines/`), not here.
 
-**Vị trí:** `world/characters/<id>/` (gói nhiều file). **Mã:** `CH.<id>`. **Nhân vật quần chúng** là một hàng trong `world/groups/<nhóm>.md`, không có gói.
+**Location:** `world/characters/<id>/` (a package). **Id:** `CH.<id>`. Crowd characters are rows in `world/groups/<group>.md` and have no package.
 
-## Gói
+## Package
 
 ```
 world/characters/<id>/
-├── CH.<id>.md                 file chính
-├── CH.<id>.beliefs.md         BL-: schemas/belief.md
-├── CH.<id>.voice.md           giọng nền
+├── CH.<id>.md                 main file
+├── CH.<id>.beliefs.md         BL-NNN (schemas/belief.md)
+├── CH.<id>.voice.md           base voice: dialogue · narration (when POV) · lexicon · forbidden
 └── mechanics/
-    ├── CH.<id>.mechanics.md   chữ ký mọi hàm, mỗi hàm một dòng
-    └── fn.<id>.<ten>.md       một hàm một file (schemas/function.md)
+    ├── CH.<id>.mechanics.md   signature of every function, one line each
+    └── FN.<id>.<name>.md      one function per file (schemas/function.md)
 ```
 
-View sinh: `_views/CH.<id>.view.md` (mặt cắt theo giai đoạn).
+Generated: `_views/CH.<id>.view.md` (cross-section per phase, from all nodes).
 
-## File chính `CH.<id>.md`
+## Main file sections
 
-Property bắt buộc: `id`, `kind: character`, `status`, `updated`, `aliases`, `exports`.
+Empty sections are written `none`, never omitted.
 
-Mục (mục trống ghi `none`, không bỏ):
-
-| Mục | Nội dung |
+| Section | Content |
 | --- | --- |
-| `identity` | Là ai, ở đâu, lúc nào: sinh, quê, nghề, ngoại hình, thân thể. **Trực tiếp định nghĩa nhân vật.** |
-| `purpose` | Vì sao nhân vật có trong truyện; phục vụ trục AX nào (`Cần → AX`) |
-| `rules` | Quy tắc của nhân vật: điều nhân vật không bao giờ làm, ranh cứng. Chỉ trỏ luật ở `rules/` khi nó áp cho nhiều người |
-| `attributes` | Thuộc tính động, mỗi thuộc tính một tập giá trị. Ví dụ `cai-toi-doc ∈ {ngu, thuc-co-dieu-kien, phong-kin-hong, chiem-cho}`. Chỉ khai **tên và tập giá trị**; giá trị theo giai đoạn do node làm chủ |
-| `exports` | Mã mà file khác được import: hàm, niềm tin, thuộc tính |
+| `identity` | who, where, when: birth, hometown, job, appearance, body. **Defines the character directly.** |
+| `purpose` | why the character is in the story; which axes it serves (`Need → AX`) |
+| `rules` | the character's own hard limits. Link to `rules/` only for laws that apply to several people |
+| `attributes` | dynamic attributes, each with its value set, e.g. `cai-toi-doc ∈ {ngu, thuc-co-dieu-kien, phong-kin-hong, chiem-cho}`, and its `owner` node. Names and value sets only |
+| `exports` | ids other files may import: functions, beliefs, attributes |
 
-## Khuôn phần đầu (20 dòng)
+Every file in the package opens with a head of about 20 lines: header, one-sentence summary, key index.
 
-Mọi file trong gói mở bằng: property · một câu tóm tắt · mục lục khóa. Agent đọc 20 dòng đầu là biết có đọc tiếp hay không.
+## Rules
 
-## Luật
-
-1. Định danh nằm ở file chính; không lặp ở file khác trong gói.
-2. Mỗi thuộc tính động có **đúng một node chủ** (`LAW.check.owner`); node chủ ghi ở property `owner` của thuộc tính.
-3. Hai nhân vật bất kỳ có **cùng** tên file, cùng thứ tự mục. Đó là mục đích của khuôn.
-4. Không chứa sự kiện theo ngày. Sự kiện về node chủ.
+1. Identity lives in the main file only.
+2. Each dynamic attribute has **exactly one owner node** (`LAW.check.owner`), named in the attribute's `owner`.
+3. Every character package has the **same** file names and section order.
+4. No dated events. Events belong to their node.

@@ -1,16 +1,19 @@
 ---
-id: schema.plan
+id: SCH.plan
 kind: schema
+entity: plan
 status: proposed
-updated: 2026-11-08
+updated: 2026-11-10
+required: [id, kind, status, updated, range, phase]
+aliases: [schema.plan]
 sources: [kien-truc-framework.md §13.6]
 ---
-# schema · plan
+# schema · plan (range plan)
 
-Plan cho một khoảng chương. **Vị trí:** `plans/<khoảng>/…`. Đầu ra của lối vào A (cây quyết định, `tuyen/README.md` §5).
+A plan for a range of chapters: which nodes are in scope and what is due. It groups blueprints; each chapter's detail is its blueprint (schemas/blueprint.md).
 
-Property: `id`, `kind: plan`, `status`, `updated`, `range` (chương đầu–cuối), `phase`.
+**Location:** `plans/PLAN.<edition>.<from>-<to>.md`. **Id:** `PLAN.v2.06-10`.
 
-Mục: `scope` (bảng: node, mức · vai, tình tiết đến hạn, giao điểm, khoảng trống, `BL`, register) · `not-touched` (node ngoài phạm vi; writer và reviewer không kéo vào nếu chưa hỏi) · `beats` (khung chương) · `notes`.
+Sections: `scope` (table: node, level · role, events due, intersections, gaps, beliefs, register) · `not-touched` (nodes out of scope; writers and reviewers do not pull them in without asking) · `blueprints` (links `[[BP.…]]`, in order) · `notes`.
 
-Luật: plan chỉ **đọc** `world/`, `storylines/`, `rules/`; không ghi giá trị mới vào chúng. Quyết định phát sinh đi qua `proposals/` rồi mới vào node.
+Rule: a plan only **reads** `world/`, `storylines/`, `rules/`; it never writes new values into them. Decisions that arise go through `proposals/` first.

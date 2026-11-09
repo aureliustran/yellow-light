@@ -1,33 +1,37 @@
 ---
-id: schema.intersection
+id: SCH.intersection
 kind: schema
+entity: intersection
 status: proposed
-updated: 2026-11-08
+updated: 2026-11-10
+required: [id, kind, status, updated, parent, time]
+aliases: [schema.intersection]
 sources: [kien-truc-framework.md §8.3]
 ---
 # schema · intersection
 
-Giao điểm là **một dịp** (order), không phải một node: nhiều node cùng ghi vào, không nằm trong cây node, có **cây riêng** (quãng chứa sự kiện). Nó là siêu cạnh nối nhiều node qua tình tiết. **Vị trí:** `storylines/intersections/X-<nn>.md`. **Mã:** `X-<nn>`.
+An **occasion** several nodes write into: a hyperedge, not a node. It sits outside the node tree and has its own tree (spans contain occasions). See [storylines](../../docs/framework/storylines.md#intersections).
 
-## Chỉ lưu phần đầu
+**Location:** `storylines/intersections/X-NNN.md`. **Id:** `X-NNN`. Beats are inline ids `X-NNN.B<n>` (generated).
 
-| Trường | Ý |
+## Stored: the head only
+
+| Field | Meaning |
 | --- | --- |
-| `id` | `X-nn` |
-| `kind` | `event` (một sự kiện) · `span` (một quãng, chứa sự kiện) · `info` (giao điểm thông tin: sổ ai biết gì) |
-| `parent` | giao điểm cha (cây riêng) hoặc `none` |
-| `time` | ngày hoặc khoảng ngày |
+| `type` | `event` (one happening) · `span` (a stretch containing events) · `info` (a knowledge occasion: who learns what) |
+| `parent` | parent intersection or `none` |
+| `time` | date or date range |
 | `place` | `[[SET.…]]` |
-| `override` | luật/register chỉ riêng dịp này (có lý do) |
-| `open` | câu hỏi mở (`Q-`) |
+| `override` | laws or register for this occasion only, with a reason |
+| `open` | open questions (`Q-`) |
 
-## Mọi thứ khác đều sinh (`_views/X-<nn>.view.md`)
+## Everything else is generated (`_views/X-NNN.view.md`)
 
-Node tham gia · bảng nhịp (sắp theo `beat` của các tình tiết có `x: X-nn`) · **người giữ nhịp** (node có tình tiết trong nhịp và mức cao nhất; bằng mức thì node chủ) · POV · register · mức của dịp · sổ ai biết gì trước và sau (từ `changes` về `SEC-`) · kết quả.
+Participating nodes · beat table (events with `x: X-NNN`, sorted by `beat`) · **beat holder** (node with an event in the beat and the highest level; on a tie, the owning node) · POV · register · level of the occasion · who knows what before and after (from `changes` on `SEC-`) · outcome.
 
-## Luật
+## Rules
 
-1. Giao điểm **không giữ tình tiết**; tình tiết nằm ở node chủ của nó và trỏ vào giao điểm bằng cột `x`, `beat`. (`LAW.check.x-consistency`)
-2. Nhân quả xuyên node là cột `causes`, không phải giao điểm.
-3. Node không trỏ nhau trực tiếp; chạm nhau chỉ ở giao điểm.
-4. Mức giao điểm không thấp hơn mức cao nhất của tình tiết thành phần trong giai đoạn đó — hoặc ghi `override`.
+1. An intersection **holds no events**; events live in their own node and point to it with `x` and `beat` (`LAW.check.x-consistency`).
+2. Causality across nodes is the event's `causes`, not an intersection.
+3. Nodes never point at each other directly; they meet only at intersections.
+4. An occasion's level is not below the highest level of its events in that phase, unless `override` says why.

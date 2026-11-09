@@ -36,9 +36,9 @@ One line per kind; the schema is the source of truth. Ids follow [ids.md](ids.md
 | scale | `SCALE.exl` | file in `core/` | (planned) |
 | article | `ART.AX3.1` | inline in `core/constitution/ART.AX3.md` | `schemas/article.md` |
 | law | `LAW.<aspect>.<scope>` | file | `schemas/law.md` |
-| register | `REG.<name>` | file | (planned, B3) |
-| technique | `TEC.<aspect>.<name>` | file | (planned, B3) |
-| pattern | `PAT.<name>` | file | (planned, B3) |
+| register | `REG.<name>` | file | `schemas/register.md` |
+| technique | `TEC.<aspect>.<name>` | file | `schemas/technique.md` |
+| pattern | `PAT.<name>` | file | `schemas/pattern.md` |
 | character | `CH.<name>` | package folder | `schemas/character.md` |
 | group | `GRP.<name>` | file | `schemas/group.md` |
 | setting | `SET.<name>` | file | `schemas/setting.md` |
@@ -48,17 +48,17 @@ One line per kind; the schema is the source of truth. Ids follow [ids.md](ids.md
 | function | `FN.<character>.<name>` | file in the character package | `schemas/function.md` |
 | storyline | `ROM`, `PAST`, … | file | `schemas/node.md` |
 | node | `ROM.TN`, `PAST.N.HD`, `SELF.thuyen` | file | `schemas/node.md` |
-| goal | `ROM.TN.G2` | inline in its node | (planned, B3) |
+| goal | `ROM.TN.G2` | inline in its node | `schemas/goal.md` |
 | event | `ROM.TN-014` | file (leaf of the node) | `schemas/event.md` |
 | intersection | `X-009` | file | `schemas/intersection.md` |
-| edition | `ED.v2` | file in `plans/` | (planned) |
-| blueprint | `BP.v2.05` | file in `plans/chapters/` | (planned, B3) |
+| edition | `ED.v2` | file in `plans/` | `schemas/edition.md` |
+| blueprint | `BP.v2.05` | file in `plans/chapters/` | `schemas/blueprint.md` |
 | scene | `BP.v2.05.S2` | inline in its blueprint | (with blueprint) |
-| chapter (post) | `POST.v2.05` | chapter file in `posts/`, id kept in a map | `schemas/chapter.md` |
+| chapter (post) | `POST.v2.05` | chapter file in `posts/`; record is a row in the edition file | `schemas/chapter.md` |
 | decision · question | `D-031` · `Q-045` | inline in `canon/` | (planned) |
 | proposal · audit | `PROP-012` · `AUD-003` | file | `schemas/proposal.md` |
-| plan (work plan) | per schema | file | `schemas/plan.md` |
-| config · schema · spec · guide | `CFG.*` · `SCH.*` · `SPEC.*` · `GUIDE.*` | file | — |
+| range plan | `PLAN.v2.06-10` | file in `plans/` | `schemas/plan.md` |
+| config · schema · spec · guide | `CFG.*` · `SCH.*` · `SPEC.*` · `GUIDE.*` | file | `schemas/config.md` · `schema.md` · `spec.md` · `guide.md` |
 
 ## Ownership `agreed 05/11`
 

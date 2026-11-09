@@ -26,16 +26,11 @@ const GENERATED = new Set(['symbols.md']);
 // Thư mục mà liên kết treo không bị báo (tư liệu cũ).
 const RESOLVE_EXEMPT = ['assets', 'kho'];
 const PHASES = ['OPEN', 'P1', 'P2', 'BREAK', 'AFTER', 'POST'];
-const REQUIRED_BY_KIND = {
-  config: ['id', 'kind', 'status', 'updated'],
-  schema: ['id', 'kind', 'status', 'updated'],
-  character: ['id', 'kind', 'status', 'updated', 'aliases', 'exports'],
-  node: ['id', 'kind', 'parent', 'status', 'updated', 'participants'],
-  law: ['id', 'kind', 'status', 'updated', 'basis', 'effective'],
-  article: ['id', 'kind', 'status', 'updated'],
-  function: ['id', 'kind', 'status', 'updated', 'parent'],
-  intersection: ['id', 'kind', 'status', 'updated', 'parent'],
-};
+// Trường bắt buộc theo kind: đọc từ content/schemas/*.md (`entity`, `required`, `required-one-of`).
+// Chỉ `schema` được khai sẵn ở đây để tự kiểm chính các file schema.
+const REQUIRED_BY_KIND = { schema: ['id', 'kind', 'entity', 'status', 'updated', 'required'] };
+const REQUIRED_ONE_OF = {};
+const listProp = (v) => (v ? v.replace(/^\[|\]$/g, '').split(',').map((x) => x.trim()).filter(Boolean) : []);
 const STATUSES = new Set(['page', 'locked', 'delegated', 'agreed', 'proposed', 'draft', 'raw', 'superseded', 'conflict', 'needs-decision']);
 const STABILITY = { page: 6, locked: 5, delegated: 5, agreed: 4, proposed: 3, draft: 2, raw: 1, superseded: 0 };
 
@@ -107,6 +102,13 @@ const items = files.map((abs) => {
   const title = (body.match(/^#\s+(.+)$/m) || [null, base])[1].trim();
   return { abs, rel, text, fm, body, bodyStart, props, base, top, id, title, hasFm: fm !== null };
 });
+
+for (const it of items) {
+  if (it.props.kind !== 'schema' || !it.props.entity) continue;
+  REQUIRED_BY_KIND[it.props.entity] = listProp(it.props.required);
+  const one = listProp(it.props['required-one-of']);
+  if (one.length) REQUIRED_ONE_OF[it.props.entity] = one;
+}
 
 // ---------- bảng tra ----------
 const byKey = new Map(); // khóa → [item]
@@ -202,8 +204,10 @@ law('LAW.check.schema', () => {
     const kind = it.props.kind;
     if (!kind) { add('LAW.check.schema', sev(it), it, 1, 'frontmatter thiếu `kind`'); continue; }
     const req = REQUIRED_BY_KIND[kind];
-    if (!req) { add('LAW.check.schema', 'warn', it, 1, `kind "${kind}" chưa có khuôn trong REQUIRED_BY_KIND`); continue; }
+    if (!req) { add('LAW.check.schema', 'warn', it, 1, `kind "${kind}" chưa có schema (content/schemas/, trường entity)`); continue; }
     for (const k of req) if (!(k in it.props)) add('LAW.check.schema', sev(it), it, 1, `kind=${kind} thiếu trường \`${k}\``);
+    const one = REQUIRED_ONE_OF[kind];
+    if (one && !one.some((k) => k in it.props)) add('LAW.check.schema', sev(it), it, 1, `kind=${kind} cần một trong: ${one.join(', ')}`);
     const st = it.props.status;
     if (st && !STATUSES.has(st)) add('LAW.check.status', sev(it), it, 1, `status "${st}" không thuộc config/statuses.md`);
   }

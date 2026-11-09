@@ -1,16 +1,19 @@
 ---
-id: schema.proposal
+id: SCH.proposal
 kind: schema
+entity: proposal
 status: proposed
-updated: 2026-11-08
+updated: 2026-11-10
+required: [id, kind, status, updated, touches]
+aliases: [schema.proposal]
 sources: [kien-truc-framework.md §13.6]
 ---
 # schema · proposal
 
-Đề xuất chưa duyệt (cũ: `de-xuat/`). **Vị trí:** `proposals/<tên>.md`; đã gộp vào canon thì chuyển `proposals/_merged/`. **Mã:** tên file; câu hỏi sinh ra là `Q-nnn`.
+An unapproved proposal (old `de-xuat/`). **Location:** `proposals/PROP-NNN.md`; once merged, `proposals/_merged/`. **Id:** `PROP-NNN`; old file names are aliases. Questions it raises are `Q-NNN`.
 
-Property: `id`, `kind: proposal`, `status` (`proposed` / `agreed` / `superseded`), `updated`, `touches` (danh sách thành tố bị ảnh hưởng), `by` (phiên: arch / ROM / THR / QK).
+Header: `status` (`proposed` · `agreed` · `superseded`), `touches` (entities affected), `by` (session: arch, ROM, THR, PAST…).
 
-Mục: `summary` (3 dòng) · `options` (bảng phương án: mức can thiệp, được, mất) · `recommendation` · `impact` (chốt cũ đổi gì) · `questions` (Q- mới).
+Sections: `summary` (3 lines) · `options` (table: intervention level, gains, losses) · `recommendation` · `impact` (which earlier decisions change) · `questions` (new `Q-`).
 
-Luật: đề xuất **không** là nguồn canon. Khi tác giả chốt, nội dung đi vào thành tố đích (kèm `D-`), file chuyển `_merged/` và ghi `merged-into`.
+Rule: a proposal is **never** a source of canon. When the author decides, the content goes into the target entities (with a `D-`), the file moves to `_merged/` and records `merged-into`.

@@ -1,36 +1,40 @@
 ---
-id: schema.node
+id: SCH.node
 kind: schema
+entity: node
 status: proposed
-updated: 2026-11-08
-sources: [kien-truc-framework.md §8.1]
+updated: 2026-11-10
+required: [id, kind, parent, status, updated, participants, axes]
+aliases: [schema.node]
+sources: [docs/framework/storylines.md, kien-truc-framework.md §8.1]
 ---
 # schema · node
 
-Node là thực thể **động** (bảng sự kiện): một mạch có người, có sự kiện trên trục thời gian, phục vụ ít nhất một trục AX. **Vị trí:** `storylines/<tuyến>/<NODE>.md`. **Mã:** `ROM.TN`, `PAST.T`, `SELF.thuyen`… (xem `config/ids.md`).
+A **dynamic** entity: a thread with people and events in time, serving at least one axis. Storylines (`ROM`, `PAST`, …) and `SELF.<id>` are nodes too. See [storylines](../../docs/framework/storylines.md).
 
-## Property
+**Location:** `storylines/<storyline>/<NODE>.md`; its events in `storylines/<storyline>/<NODE>/`. **Id:** `ROM.TN`, `PAST.N.HD`, `SELF.thuyen` (registry: [ids](../../docs/framework/ids.md)).
 
-`id`, `kind: node`, `parent` (đúng **một** cha), `status`, `updated`, `participants` (link tới `CH.`, `GRP.`, `SET.`), `axes` (`AX…`).
+Header: `parent` (exactly **one**), `participants` (links to `CH.`, `GRP.`, `SET.`), `axes`.
 
-## Mục
+## Sections
 
-| Mục | Nội dung |
+| Section | Content |
 | --- | --- |
-| `arc` | Một đoạn: bắt đầu ở đâu, kết thúc ở đâu, đổi gì trong nhân vật |
-| `weight` | Mức theo giai đoạn (`config/levels.md`): `OPEN`, `P1`, `P2`, `BREAK`, `AFTER`, `POST`. **Node làm chủ giá trị này** |
-| `relation` | Theo giai đoạn × chiều: là gì của nhau, ai biết gì, `STEP.rom` / `EXL` |
-| `state` | Thuộc tính node làm chủ, theo người × giai đoạn |
-| `voice` | Theo người × giai đoạn: register lời kể (`R1`–`R9`), giọng thoại → `lib/`, `rules/` |
-| `rules` | Decree: luật riêng của node (khuôn `schemas/law.md`, phạm vi chỉ trong node) |
-| `events` | Bảng tình tiết (`schemas/event.md`) |
-| `transitions` | Giá trị nào đổi ở tình tiết nào |
-| `gaps` | Khoảng trống: chỗ chưa có tình tiết |
+| `arc` | one paragraph: where it starts, where it ends, what changes in the people |
+| `goals` | inline goals `<node>.G<n>` (schemas/goal.md), each `serves` a goal of the parent |
+| `weight` | level per phase (`config/levels.md`): `OPEN`, `P1`, `P2`, `BREAK`, `AFTER`, `POST`. **The node owns this value** |
+| `relation` | per phase × direction: what they are to each other, who knows what, step on `SCALE.rom` / `SCALE.exl` |
+| `state` | attributes this node owns, per person × phase |
+| `voice` | per person × phase: narration register (`REG.*`), dialogue voice |
+| `rules` | decrees: the node's own laws, inline `<node>.R<n>` (law shape, scope limited to the node) |
+| `events` | **generated** table of the event leaves |
+| `transitions` | generated: which value changes at which event |
+| `gaps` | goals or phases with no event yet |
 
-## Luật
+## Rules
 
-1. **Một chủ cho mỗi thuộc tính.** Quan hệ → node của quan hệ. Nội tâm → `SELF.<id>`. (`LAW.check.owner`)
-2. **Node con không vượt mức cha** trong cùng giai đoạn; mức tuyến cha = mức cao nhất của node con.
-3. **Giọng theo tầng:** tình tiết > node × giai đoạn > `SELF` × giai đoạn > giọng nền (`CH.<id>.voice`).
-4. Node **không trỏ node khác trực tiếp** để lấy giá trị; chỉ qua `world/` (tĩnh) hoặc giao điểm `X-` (động).
-5. Mỗi node một cha; quan hệ nhiều chiều đi qua giao điểm.
+1. **One owner per attribute.** Relations → the relation's node; inner state → `SELF.<id>` (`LAW.check.owner`).
+2. A child node never outweighs its parent in the same phase; a storyline's level is the highest of its children (`LAW.check.level-parent`).
+3. Voice cascade: event > node × phase > `SELF` × phase > base voice (`CH.<id>.voice`).
+4. A node never reads another node directly; only through `world/` or an intersection.
+5. One parent per node; many-to-many goes through intersections.

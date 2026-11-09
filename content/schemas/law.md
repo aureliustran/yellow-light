@@ -1,59 +1,54 @@
 ---
-id: schema.law
+id: SCH.law
 kind: schema
+entity: law
 status: proposed
-updated: 2026-11-08
-sources: [kien-truc-framework.md §7]
+updated: 2026-11-10
+required: [id, kind, status, updated, aspect, basis, effective, applies-to, check, severity]
+aliases: [schema.law]
+sources: [docs/framework/rules-engine.md, kien-truc-framework.md §7]
 ---
 # schema · law
 
-Luật là **thực thể riêng**, không phải một khối. Một luật áp cho một vài thành tố; một thành tố chịu một vài luật. **Vị trí:** `rules/<aspect>/LAW.<aspect>.<scope>.md` (và `rules/check/` cho luật cấu trúc). **Mã:** `LAW.<khía cạnh>.<phạm vi>`.
+A law is an **entity of its own**, not a block of text. One law applies to some targets; a target is under several laws. Semantics (hierarchy, selectors, how laws combine): [rules-engine](../../docs/framework/rules-engine.md).
 
-## Khuôn
+**Location:** `rules/<aspect>/LAW.<aspect>.<scope>.md`; structural laws in `rules/check/`. **Id:** `LAW.<aspect>.<scope>`; clauses inline `LAW.<aspect>.<scope>.C<n>`.
+
+## Shape
 
 ```
 id          LAW.naming.pov-thuyen
-aspect      naming (gọi tên cảm xúc trong lời kể)
-basis       [[ART-AX7.1]] hoặc [[ART-0.2]]
+aspect      naming
+basis       [[ART.AX7.1]]
 effective   OPEN → AFTER
 applies-to  pov = CH.thuyen · channel = narration
-except      PAST.T × span-1 → [[LAW.naming.past-t-span1]] · phần cần giấu → [[LAW.conceal]]
+except      PAST.T × span-1 → [[LAW.naming.past-t-span1]] · concealed part → [[LAW.conceal]]
 supersedes  [[LAW.naming.legacy]]
-content     (điều khoản, tiếng Việt)
-technique   → [[lib/style/…]]
-check       human | machine
-severity    error | warn | info
+technique   [[TEC.naming.transform]]
+check       human
+severity    error
 ```
 
-## Trường
+Body: the clauses (Vietnamese), one heading per clause with block id `^C<n>`.
 
-| Trường | Ý |
+## Fields
+
+| Field | Meaning |
 | --- | --- |
-| `aspect` | **Một** khía cạnh |
-| `basis` | Điều hiến pháp làm căn cứ (bắt buộc) |
-| `effective` | Giai đoạn hiệu lực: một giai đoạn hoặc `P1 → P2`. Luật giai đoạn hết hiệu lực khi sang giai đoạn sau, trừ khi ghi kéo dài |
-| `applies-to` | Bộ chọn |
-| `except` | Ngoại lệ: bộ chọn → luật cụ thể hơn |
-| `supersedes` | Luật bị thay (thay thế lời "file này thay dòng … của …") |
-| `content` | Điều khoản |
-| `technique` | Trỏ `lib/`; luật **không chứa** kỹ thuật |
-| `check` | `machine` thì `canon:check` chạy được |
-| `severity` | mức báo |
+| `aspect` | **one** aspect |
+| `basis` | the article it rests on (mandatory) |
+| `effective` | one phase, or a range `P1 → P2`; a phase law expires when the next phase starts unless marked extended |
+| `applies-to` | selector |
+| `except` | selector → the more specific law that applies instead |
+| `supersedes` | the law it replaces |
+| `technique` | techniques in `lib/` that achieve it; a law never contains technique |
+| `check` | `machine` (run by `canon:check`) or `human` |
+| `severity` | `error` · `warn` · `info` |
 
-## Bộ chọn (`applies-to`, `except`)
+## Rules
 
-Theo `kind`, `id`, tuyến, giai đoạn, `pov`, `channel` (`dialogue`, `narration`, `chat`), `register`, người có mặt, thuộc tính. Ví dụ `LAW.under-18`: áp mọi tình tiết có người dưới 18 tuổi, tính từ `identity` trong `world/` và `config/calendar`.
-
-## Ranh giới
-
-1. Một luật, một khía cạnh.
-2. Cùng khía cạnh, phạm vi chồng nhau thì phải có `except`, `supersedes`, hoặc luật cụ thể hơn. Chồng mà không có là lỗi (`LAW.check.overlap`).
-3. Luật không chứa kỹ thuật; trỏ sang `lib/`.
-4. Luật không chứa sự thật của truyện; đọc thuộc tính ở `world/`.
-5. Mọi luật có `basis` (`LAW.check.basis`).
-
-## Thứ bậc
-
-`ART` (hiến pháp) → `LAW` (luật giai đoạn) → decree (mục `rules` của node/giao điểm) → override (tình tiết, kèm lý do). Tầng dưới không trái tầng trên.
-
-Phần nối luật ↔ thành tố nằm **trong file luật** (luật làm chủ phạm vi của mình). Mỗi thành tố thấy luật của mình qua `_views/rules-for/<id>.md` và backlinks.
+1. One law, one aspect.
+2. Same aspect with overlapping scope needs `except`, `supersedes` or a more specific scope; otherwise error (`LAW.check.overlap`).
+3. No technique inside a law; link to `lib/`. Every `technique` link must be answered by the technique's `serves` (`LAW.check.lib-basis`).
+4. No story facts inside a law; read attributes from `world/`.
+5. Every law has a `basis` (`LAW.check.basis`).

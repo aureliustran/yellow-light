@@ -1,16 +1,17 @@
 ---
-id: schema.setting
+id: SCH.setting
 kind: schema
+entity: setting
 status: proposed
-updated: 2026-11-08
+updated: 2026-11-10
+required: [id, kind, status, updated, aliases]
+aliases: [schema.setting]
 sources: [kien-truc-framework.md §4]
 ---
 # schema · setting
 
-Bối cảnh (nơi, không gian lặp lại). **Vị trí:** `world/settings/<id>.md`. **Mã:** `SET.<id>`.
+A place, a recurring space. **Location:** `world/settings/SET.<name>.md`. **Id:** `SET.<name>`. Header: `parent` (larger setting, if any).
 
-Property: `id`, `kind: setting`, `status`, `updated`, `aliases`, `parent` (bối cảnh lớn hơn, nếu có).
+Sections: `identity` (which place, where, what it is like) · `features` (sensory details reused) · `rules` (e.g. only two football pitches) · `exports`.
 
-Mục: `identity` (là nơi nào, ở đâu, ra sao) · `features` (đặc điểm giác quan dùng đi dùng lại) · `rules` (ví dụ: chỉ có hai sân bóng) · `exports`.
-
-`appears-in` (những node, giao điểm dùng nơi này) **sinh tự động** từ backlinks, không viết tay.
+`appears-in` (nodes and intersections using it) is **generated** from backlinks.

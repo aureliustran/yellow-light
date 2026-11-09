@@ -1,45 +1,55 @@
 ---
-id: schema.event
+id: SCH.event
 kind: schema
+entity: event
 status: proposed
-updated: 2026-11-08
-sources: [kien-truc-framework.md §8.2]
+updated: 2026-11-10
+required: [id, kind, parent, status, updated, goal, event]
+required-one-of: [date, span]
+aliases: [schema.event]
+sources: [docs/framework/storylines.md (10/11)]
 ---
 # schema · event
 
-Tình tiết là đơn vị nhỏ nhất của chuyện xảy ra: **dòng nối** (như `order_product`) giữa nhân vật, hàm, bí mật và thời điểm. **Vị trí:** một hàng trong bảng `events` của đúng **một node chủ**. **Mã:** `<node>-<số>`, ví dụ `ROM.TN-014`.
+The **leaf** of a storyline tree: the unit that decides content (what must be written, when, for which goal, under which laws, how). See [storylines](../../docs/framework/storylines.md#event-the-leaf).
 
-## Cột
+**Location:** `storylines/<storyline>/<NODE>/<NODE>-NNN.md`. **Id:** `<node>-NNN` (`ROM.TN-014`). Old event rows are migrated into leaves; the node's events table becomes a generated view.
 
-| Cột | Ý | Bắt buộc |
+## Declared part (frontmatter)
+
+Only what is the event's own, plus explicit deviations from what it inherits.
+
+| Field | Meaning | Required |
 | --- | --- | --- |
-| `id` | `<node>-<số>` | có |
-| `date` | ngày, đúng `config/calendar.md` | có (hoặc `span` cho quãng) |
-| `event` | chuyện xảy ra, một-hai câu | có |
-| `status` | `config/statuses.md` | có |
-| `axis` | trục `AX` (cũ: H) | khi nằm trong dải hiện sinh |
-| `level` | nấc, ghi tên thang: `EXL 5`, `STEP.pride 3`. Mặc định `EXL` | khi có |
-| `beliefs` | `BL-` mà tình tiết tiêu thụ hoặc sinh ra | khi có |
-| `chapter` | chương lên trang (`[[chapter]]`) | khi có |
-| `fuel` | nhiên liệu (7 loại, `core/shared-mechanics`) | bắt buộc với node từ mức `S` |
-| `cost` | giá phải trả | bắt buộc với node từ mức `S` |
-| `register` | chỉ điền khi lệch register mặc định của node | tùy chọn |
-| `calls` | hàm được gọi: `[[fn.thuyen.phong-kin]](K1+K2+K4)`, `[[fn.nhi.thich]](nấc 3)` | khi có |
-| `x` · `beat` | dịp và thứ tự trong dịp: `[[X-09]]` · `3` | khi thuộc một dịp |
-| `changes` | thuộc tính, quan hệ, bí mật đổi giá trị: `cai-toi-doc: ngu→thuc-co-dieu-kien`, `SEC-03: +[[CH.thuyen]]` | khi có |
-| `causes` | tình tiết ở node khác mà nó gây ra (nhân quả xuyên node; **không** dùng giao điểm cho việc này) | khi có |
+| `parent` | the node | yes |
+| `date` · `span` | day (`config/calendar.md`), or a stretch | one of them |
+| `goal` | `serves [[<parent>.G<n>]]` + the event's own goal in one sentence | yes |
+| `done-when` | observable end condition | when useful |
+| `event` | what happens, one or two sentences | yes |
+| `participants` · `place` | `[[CH.…]]`, `[[GRP.…]]` · `[[SET.…]]` | when not all of the node's |
+| `calls` | functions called: `[[FN.thuyen.phong-kin]](K1+K2+K4)` | when any |
+| `must-show` · `must-hide` | what has to reach the page · what must not (`[[SEC-003]]`) | when any |
+| `axis` · `level` | `AX1` · step with its scale: `EXL 5`, `SCALE.pride 3` (default scale EXL) | inside an existential band |
+| `beliefs` | `BL-` consumed or produced | when any |
+| `fuel` · `cost` | fuel (7 kinds, `core/shared-mechanics`) · price paid | from node level `S` up |
+| `x` · `beat` | occasion and order in it: `[[X-005]]` · `2` | when part of one |
+| `changes` | attributes, relations, secrets that change: `SEC-003: +[[CH.thuyen]]` | when any |
+| `causes` | events in other nodes it causes | when any |
+| `register` · `uses` | only when different from the inherited one: `[[REG.…]]` · `[[PAT.…]]`, `[[TEC.…]]` | optional |
+| `override` | `[[LAW.…]]: reason` | optional |
 
-## Dạng một hàng
+No `chapter` field: the blueprint owns event ↔ chapter.
 
-```
-| ROM.TN-0xx | 2024-12-08 | Đề boyfriend: anh lùi | locked | AX1 | EXL 5 | BL-06 | [[ch-xx]] | … | … | | [[fn.thuyen.lui]] | [[X-05]] | 2 | thuyen→nhi: +kid | [[ROM.PN-0yy]] |
-```
+Body: a few lines of free notes. Then the resolved block.
 
-(Hàng minh họa, mã `0xx` không phải tình tiết thật.)
+## Resolved part (generated)
 
-## Luật
+At the end of the file, between `<!-- SINH -->` and `<!-- /SINH -->`, written by `canon:check`: `path`, `phase` and ages, `goal-chain`, `state-in`, `laws`, `register` (with where it came from), `voices`, `how` (patterns and techniques in force), `appears` (blueprint, scene, role). Never edited by hand (`LAW.check.resolved-fresh`).
 
-1. Đúng một node chủ. Tình tiết ở node khác chỉ được **trích mã**.
-2. Trong ô bảng, wikilink **không dùng bí danh** `[[a|b]]` (dấu `|` vỡ bảng). (`LAW.check.table-pipe`)
-3. Dòng `locked` có ngày và `status`; dòng không trạng thái là lỗi.
-4. Bảng quá rộng: chia thành hai bảng cùng `id` (cột lõi / cột phụ); `id` là khóa nối.
+## Rules
+
+1. Exactly one parent node; other nodes refer to the event by id only.
+2. Goal serves a goal of its own parent (`LAW.check.goal-chain`).
+3. Every event has a `status`; a `locked` event has a date or span.
+4. An override without a reason, or of an article, is an error (`LAW.check.override-reason`).
+5. In generated tables, wikilinks never use aliases `[[a|b]]` (`LAW.check.table-pipe`).

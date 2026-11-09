@@ -1,24 +1,29 @@
 ---
-id: schema.belief
+id: SCH.belief
 kind: schema
+entity: belief
 status: proposed
-updated: 2026-11-08
+updated: 2026-11-10
+required: [id, statement, axis, status]
+aliases: [schema.belief]
 sources: [kien-truc-framework.md §5]
 ---
 # schema · belief
 
-Niềm tin (cũ: NT-) là sản phẩm của một neo quá khứ, được tình tiết hiện tại tiêu thụ. **Vị trí:** `world/characters/<id>/CH.<id>.beliefs.md` (một file, nhiều BL). **Mã:** `BL-<nn>` (số duy nhất toàn vault).
+A belief (old `NT-`): a product of a past anchor, consumed by present events.
 
-Mỗi niềm tin là một mục `### BL-nn`:
+**Location:** inline in `world/characters/<id>/CH.<id>.beliefs.md` (one file, many beliefs). **Id:** `BL-NNN`, unique across the vault; heading `### BL-024` with block id `^BL-024`.
 
-| Trường | Ý |
+## Fields
+
+| Field | Meaning |
 | --- | --- |
-| `statement` | Phát biểu một câu, bằng giọng nhân vật tin |
-| `other-face` | Mặt kia: điều gì làm nó sai hoặc mất hiệu lực |
-| `axis` | Trục `AX` mà nó vận hành |
-| `origin` | Neo quá khứ sinh ra nó (`[[PAST.…-nn]]`) |
-| `status` | `locked` / `proposed` / … |
+| `statement` | one sentence, in the voice of the character who holds it |
+| `other-face` | what makes it false or void |
+| `axis` | the axis `AX` it runs on |
+| `origin` | the past event that produced it (`[[PAST.T-031]]`) |
+| `status` | `config/statuses.md` |
 
-`consumed-by` (tình tiết nào tiêu thụ niềm tin) **sinh tự động** từ cột `beliefs` của tình tiết; `[chờ tiêu thụ]` là niềm tin chưa có tình tiết nào gọi nó — ứng viên cho plan.
+`consumed-by` is generated from events' `beliefs` field. A belief no event consumes is listed as *waiting*: a candidate for planning.
 
-Niềm tin dùng chung nhiều nhân vật thì vẫn thuộc **một** nhân vật gốc; người khác `uses` nó.
+A belief shared by several characters still has **one** owning character; others `uses` it.

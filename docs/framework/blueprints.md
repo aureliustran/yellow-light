@@ -7,7 +7,7 @@ sources: [content/de-xuat/kien-truc-framework.md §8.4 (10/11)]
 ---
 # Blueprints and outputs `proposed 10/11`
 
-Fields: schema `blueprint` (planned, B3), `content/schemas/chapter.md`.
+Fields: `content/schemas/blueprint.md`, `edition.md`, `chapter.md`.
 
 ## Three tiers
 
@@ -23,7 +23,7 @@ Tracing back goes chapter → blueprint → events → nodes → laws, without r
 
 One per chapter: `plans/chapters/BP.<edition>.<nn>.md`, linked to its output `POST.<edition>.<nn>` (the chapter file in `posts/<edition-dir>/`). It holds:
 
-- **header:** edition, POV, time span, status, output;
+- **header:** edition, POV, time span, decision `status`, lifecycle `stage`, output;
 - **scenes** (inline `BP.<edition>.<nn>.S<n>`): purpose; register and transitions; pattern; the events it uses, each with a **role**; the assigned writer; the **anchor** (the scene's first sentence, quoted verbatim);
 - **in / out:** state at chapter start and end (generated from events' `changes`);
 - **hooks:** what opens and what is left hanging;
@@ -35,13 +35,13 @@ One per chapter: `plans/chapters/BP.<edition>.<nn>.md`, linked to its output `PO
 
 ## Lifecycle
 
-| Status | Means |
+| `stage` | Means |
 | --- | --- |
 | `planned` | written before the chapter |
 | `written` | the chapter exists; blueprint not yet checked against it |
 | `synced` | blueprint matches the chapter as written (cuts and additions included); chapter hash recorded |
 
-Tracing is only true when the blueprint matches the chapter. Checks: `LAW.check.bp-anchor` (an anchor is no longer in the chapter), `LAW.check.bp-drift` (the chapter changed after `synced`), `LAW.check.bp-coverage` (a `locked` event that should be on the page is shown by no blueprint). Chapter text is never modified to fit a blueprint.
+Tracing is only true when the blueprint matches the chapter. Checks: `LAW.check.bp-anchor` (an anchor is no longer in the chapter), `LAW.check.bp-drift` (the chapter changed after the blueprint reached `synced`), `LAW.check.bp-coverage` (a `locked` event that should be on the page is shown by no blueprint). Chapter text is never modified to fit a blueprint.
 
 Already written v2 chapters get blueprints built backwards from the text (first sync). Legacy v1 chapters get none unless needed.
 

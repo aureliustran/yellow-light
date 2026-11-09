@@ -1,5 +1,6 @@
 ---
-id: config.statuses
+id: CFG.statuses
+aliases: [config.statuses]
 kind: config
 status: proposed
 updated: 2026-11-08

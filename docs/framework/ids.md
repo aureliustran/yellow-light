@@ -58,7 +58,7 @@ Enumerated values have no id: phases (`P1`), levels (`SS+`), statuses (`locked`)
 | library | register · technique · pattern · beat | `REG.so-cai` (alias `R8`) · `TEC.humor.escalation` · `PAT.anchor-5-step` · `PAT.anchor-5-step.B3` |
 | world | character · group · setting · object · secret · belief · function · device | `CH.thuyen` · `GRP.hoi-dong-nhi` · `SET.phong-kin` · `OBJ-012` · `SEC-003` · `BL-024` · `FN.thuyen.phong-kin` · `DV-007` |
 | storylines | storyline · node · self · goal · event · intersection · occasion beat | `ROM` · `ROM.TN` · `SELF.thuyen` · `ROM.TN.G2` · `ROM.TN-014` · `X-009` · `X-009.B3` |
-| plans | edition · blueprint · scene | `ED.v2` · `BP.v2.05` · `BP.v2.05.S2` |
+| plans | edition · range plan · blueprint · scene | `ED.v2` · `PLAN.v2.06-10` · `BP.v2.05` · `BP.v2.05.S2` |
 | output | post · site · cross-post | `POST.v2.05` · `SITE.rookies` · `XP.rookies.012` |
 | cross-cutting | decision · question · proposal · audit · sample · asset | `D-031` · `Q-045` · `PROP-012` · `AUD-003` · `SMP-007` · `AST.<name>` |
 | meta | config · schema · spec · guide | `CFG.ids` · `SCH.event` · `SPEC.model` · `GUIDE.main` |

@@ -1,16 +1,17 @@
 ---
-id: schema.object
+id: SCH.object
 kind: schema
+entity: object
 status: proposed
-updated: 2026-11-08
+updated: 2026-11-10
+required: [id, kind, status, updated, aliases]
+aliases: [schema.object]
 sources: [kien-truc-framework.md §4]
 ---
 # schema · object
 
-Vật mang nghĩa (lặp lại, có ý nghĩa tượng trưng hoặc là vật chứng). **Vị trí:** `world/objects/<id>.md`. **Mã:** `OBJ-<n>`.
+A meaningful object (recurring, symbolic, or evidence). **Location:** `world/objects/OBJ-NNN.md`, or inline in a setting when minor. **Id:** `OBJ-NNN`.
 
-Property: `id`, `kind: object`, `status`, `updated`, `aliases`.
+Sections: `identity` (what it is, whose at first) · `meaning` (what it carries; related axis or belief) · `exports`.
 
-Mục: `identity` (là gì, thuộc về ai lúc đầu) · `meaning` (nó mang gì; trục AX hoặc niềm tin liên quan) · `exports`.
-
-Chỗ vật xuất hiện, đổi chủ, đổi nghĩa là **tình tiết** ở node (cột `changes`), không ghi ở đây.
+Where it appears, changes hands or changes meaning is an **event** (`changes`), not written here.

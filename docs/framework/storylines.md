@@ -7,7 +7,7 @@ sources: [content/de-xuat/kien-truc-framework.md §8.1–§8.3; decisions 10/11]
 ---
 # Storylines
 
-Fields: `content/schemas/node.md`, `event.md`, `intersection.md` (goal: planned, B3).
+Fields: `content/schemas/node.md`, `goal.md`, `event.md`, `intersection.md`.
 
 ## Tree `agreed 05/11 · leaves proposed 10/11`
 
