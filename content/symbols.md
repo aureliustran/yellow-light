@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 20 file. Chưa chuyển sang khuôn mới (legacy): 153 file.
+Có phần đầu (frontmatter): 21 file. Chưa chuyển sang khuôn mới (legacy): 153 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -11,6 +11,7 @@ Có phần đầu (frontmatter): 20 file. Chưa chuyển sang khuôn mới (lega
 | `config.levels` | `config` | `proposed` | `config/levels.md` | Mức đo **độ cần thiết** của một tuyến, node hoặc giao điểm đối với truyện **trong một giai đoạn**. Không đo độ hay của chất liệu. |
 | `config.phases` | `config` | `proposed` | `config/phases.md` | Chiều thời gian của star schema. Mọi giá trị động (weight, relation, state, voice, hiệu lực luật) được ghi **theo giai đoạn**. Thứ tự cố … |
 | `config.statuses` | `config` | `proposed` | `config/statuses.md` | Mỗi dòng, mỗi file mang một trạng thái. Trạng thái là mức ổn định: tầng nào dựa vào tầng nào thì không được ổn định hơn nó. |
+| `GUIDE.main` | `guide` | `draft` | `GUIDELINES.md` | Read this first in every session. It says how to work on the story. For what the system *is* (entities, ids, inheritance, tooling), look … |
 | `schema.article` | `schema` | `proposed` | `schemas/article.md` | Điều hiến pháp: bất biến chia từ trục AX; luật giai đoạn lấy căn cứ từ đây. **Vị trí:** `core/constitution/ART-AX<n>.md` (một chương một … |
 | `schema.belief` | `schema` | `proposed` | `schemas/belief.md` | Niềm tin (cũ: NT-) là sản phẩm của một neo quá khứ, được tình tiết hiện tại tiêu thụ. **Vị trí:** `world/characters/<id>/CH.<id>.beliefs.… |
 | `schema.chapter` | `schema` | `proposed` | `schemas/chapter.md` | Chương đã viết hoặc đang viết, nằm ở `content/posts/vercel/` (không đổi tên, không chuyển). Schema này mô tả **hồ sơ chương** ghi bên ngo… |

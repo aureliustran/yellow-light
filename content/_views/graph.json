@@ -120,6 +120,16 @@
    "effective": ""
   },
   {
+   "id": "GUIDE.main",
+   "path": "GUIDELINES.md",
+   "title": "Đèn Vàng: guidelines for agents",
+   "layer": "legacy",
+   "kind": "guide",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "Kho bối cảnh và hoàn cảnh romance cho Đèn vàng v2",
    "path": "Kho bối cảnh và hoàn cảnh romance cho Đèn vàng v2.md",
    "title": "Kho bối cảnh và hoàn cảnh romance cho Đèn vàng v2",
@@ -1794,6 +1804,21 @@
   {
    "s": "05-gala-va-quan-su-bi-mat",
    "t": "04-rui-ro-tuyen-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "kien-truc-framework",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "registers",
    "type": "ref"
   },
   {
