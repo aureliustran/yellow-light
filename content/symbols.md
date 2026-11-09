@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 31 file. Chưa chuyển sang khuôn mới (legacy): 153 file.
+Có phần đầu (frontmatter): 45 file. Chưa chuyển sang khuôn mới (legacy): 153 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -11,7 +11,21 @@ Có phần đầu (frontmatter): 31 file. Chưa chuyển sang khuôn mới (lega
 | `CFG.levels` | `config` | `proposed` | `config/levels.md` | Mức đo **độ cần thiết** của một tuyến, node hoặc giao điểm đối với truyện **trong một giai đoạn**. Không đo độ hay của chất liệu. |
 | `CFG.phases` | `config` | `proposed` | `config/phases.md` | Chiều thời gian của star schema. Mọi giá trị động (weight, relation, state, voice, hiệu lực luật) được ghi **theo giai đoạn**. Thứ tự cố … |
 | `CFG.statuses` | `config` | `proposed` | `config/statuses.md` | Mỗi dòng, mỗi file mang một trạng thái. Trạng thái là mức ổn định: tầng nào dựa vào tầng nào thì không được ổn định hơn nó. |
+| `GUIDE.invariants` | `guide` | `draft` | `guidelines/invariants.md` | Rules that always hold. Machine-checked ones name their check (`docs/framework/tooling.md`); the rest are checked by you before saying "d… |
 | `GUIDE.main` | `guide` | `draft` | `GUIDELINES.md` | Read this first in every session. It says how to work on the story. For what the system *is* (entities, ids, inheritance, tooling), look … |
+| `GUIDE.placement` | `guide` | `draft` | `guidelines/placement.md` | Ask the questions in order; the first "yes" decides. Ids: `docs/framework/ids.md`. Fields: the kind's schema. |
+| `GUIDE.reading` | `guide` | `draft` | `guidelines/reading.md` | Tokens are the budget. Every task starts from one entry and follows links; nothing is loaded "to be safe". |
+| `GUIDE.roles-and-status` | `guide` | `draft` | `guidelines/roles-and-status.md` | **When to ask.** Anything that touches canon: ask first (at most four questions at once, each with a recommendation). Anything inside an … |
+| `GUIDE.task.add-event` | `guide` | `draft` | `guidelines/tasks/add-event.md` | What happens; the node it belongs to; the goal it serves. |
+| `GUIDE.task.add-law-or-technique` | `guide` | `draft` | `guidelines/tasks/add-law-or-technique.md` | Must hold (pass/fail) → **law**. A voice bundle → **register**. A method → **technique**. The shape of a beat or scene → **pattern**. A m… |
+| `GUIDE.task.audit` | `guide` | `draft` | `guidelines/tasks/audit.md` | **Trigger:** "rà soát ch.N–M", or before a new phase. |
+| `GUIDE.task.crosspost-convert` | `guide` | `draft` | `guidelines/tasks/crosspost-convert.md` | **Trigger:** "chuyển chương 1–5 cho rookies", "convert chapter 12 for rookies", "làm bản đăng chéo". |
+| `GUIDE.task.plan-chapter` | `guide` | `draft` | `guidelines/tasks/plan-chapter.md` | **Trigger:** "lên plan ch.N", step 1–2 of "viết ch.N–M". |
+| `GUIDE.task.propose-options` | `guide` | `draft` | `guidelines/tasks/propose-options.md` | **Trigger:** "nghĩ cách xử lý …", "có những hướng nào cho …", "dựng kho cho …", "thiết kế sự kiện …". |
+| `GUIDE.task.record-decision` | `guide` | `draft` | `guidelines/tasks/record-decision.md` | **Trigger:** "chốt …", "ok cái này", "chọn phương án 2", an answer to a `Q-`. |
+| `GUIDE.task.revise-chapter` | `guide` | `draft` | `guidelines/tasks/revise-chapter.md` | **Trigger:** "sửa đoạn …", "chương N đọc chưa ổn". |
+| `GUIDE.task.sync-blueprint` | `guide` | `draft` | `guidelines/tasks/sync-blueprint.md` | **Trigger:** after writing; after the author edits a chapter; `LAW.check.bp-drift` or `bp-anchor` reports. |
+| `GUIDE.task.write-scene` | `guide` | `draft` | `guidelines/tasks/write-scene.md` | The blueprint scene(s) assigned to you; its write-kit. |
 | `SCH.article` | `schema` | `proposed` | `schemas/article.md` | A constitution article: an invariant split from an axis; phase laws take their basis from it. See [rules-engine](../../docs/framework/rul… |
 | `SCH.belief` | `schema` | `proposed` | `schemas/belief.md` | A belief (old `NT-`): a product of a past anchor, consumed by present events. |
 | `SCH.blueprint` | `schema` | `proposed` | `schemas/blueprint.md` | The plan of one chapter: how events combine into it. See [blueprints](../../docs/framework/blueprints.md). |

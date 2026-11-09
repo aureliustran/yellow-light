@@ -24,23 +24,26 @@ Read this first in every session. It says how to work on the story. For what the
 
 | File | Covers | Status |
 | --- | --- | --- |
-| [guidelines/reading.md](guidelines/reading.md) | what to read for each kind of task, write-kits, Obsidian, token budget | planned |
-| [guidelines/roles-and-status.md](guidelines/roles-and-status.md) | author vs agent, decision lifecycle, statuses, priority when sources disagree | planned |
-| [guidelines/placement.md](guidelines/placement.md) | decision tree: where a new thing goes and which id it gets | planned |
-| [guidelines/invariants.md](guidelines/invariants.md) | full list of rules that must always hold, with the check that enforces each | planned |
-| [guidelines/tasks/](guidelines/tasks/) | one playbook per task: input, steps, output, checks, when to stop and ask | planned |
+| [guidelines/reading.md](guidelines/reading.md) | what to read for each kind of task, write-kits, Obsidian, token budget | draft |
+| [guidelines/roles-and-status.md](guidelines/roles-and-status.md) | author vs agent, decision lifecycle, statuses, priority when sources disagree | draft |
+| [guidelines/placement.md](guidelines/placement.md) | decision tree: where a new thing goes and which id it gets | draft |
+| [guidelines/invariants.md](guidelines/invariants.md) | full list of rules that must always hold, with the check that enforces each | draft |
+| [guidelines/tasks/](guidelines/tasks/) | one playbook per task: input, steps, output, checks, when to stop and ask | draft |
 
-### Task playbooks (planned)
+### Task playbooks
 
 | Task | Playbook |
 | --- | --- |
-| Plan a chapter (create its blueprint) | `tasks/plan-chapter.md` |
-| Write a scene from a blueprint | `tasks/write-scene.md` |
-| Sync a blueprint after the chapter changed | `tasks/sync-blueprint.md` |
-| Add or change an event | `tasks/add-event.md` |
-| Add a law or a technique | `tasks/add-law-or-technique.md` |
-| Record an author decision | `tasks/record-decision.md` |
-| Convert chapters for a cross-posting site | `tasks/crosspost-convert.md` |
+| Record an author decision | [tasks/record-decision.md](guidelines/tasks/record-decision.md) |
+| Propose options, design material | [tasks/propose-options.md](guidelines/tasks/propose-options.md) |
+| Add or change an event | [tasks/add-event.md](guidelines/tasks/add-event.md) |
+| Add a law, register, technique or pattern | [tasks/add-law-or-technique.md](guidelines/tasks/add-law-or-technique.md) |
+| Plan a chapter (create its blueprint) | [tasks/plan-chapter.md](guidelines/tasks/plan-chapter.md) |
+| Write a scene or a chapter from a blueprint | [tasks/write-scene.md](guidelines/tasks/write-scene.md) |
+| Sync a blueprint after the chapter changed | [tasks/sync-blueprint.md](guidelines/tasks/sync-blueprint.md) |
+| Revise a written chapter | [tasks/revise-chapter.md](guidelines/tasks/revise-chapter.md) |
+| Audit a range of chapters | [tasks/audit.md](guidelines/tasks/audit.md) |
+| Convert chapters for a cross-posting site | [tasks/crosspost-convert.md](guidelines/tasks/crosspost-convert.md) |
 
 ## Transitional note
 

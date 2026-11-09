@@ -560,6 +560,146 @@
    "effective": ""
   },
   {
+   "id": "GUIDE.invariants",
+   "path": "guidelines/invariants.md",
+   "title": "Invariants",
+   "layer": "legacy",
+   "kind": "guide",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "GUIDE.placement",
+   "path": "guidelines/placement.md",
+   "title": "Placement: where a new thing goes, and its id",
+   "layer": "legacy",
+   "kind": "guide",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "GUIDE.reading",
+   "path": "guidelines/reading.md",
+   "title": "Reading: what to load, and when to stop",
+   "layer": "legacy",
+   "kind": "guide",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "GUIDE.roles-and-status",
+   "path": "guidelines/roles-and-status.md",
+   "title": "Roles, decisions and status",
+   "layer": "legacy",
+   "kind": "guide",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "GUIDE.task.add-event",
+   "path": "guidelines/tasks/add-event.md",
+   "title": "Task: add or change an event",
+   "layer": "legacy",
+   "kind": "guide",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "GUIDE.task.add-law-or-technique",
+   "path": "guidelines/tasks/add-law-or-technique.md",
+   "title": "Task: add a law, a register, a technique or a pattern",
+   "layer": "legacy",
+   "kind": "guide",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "GUIDE.task.audit",
+   "path": "guidelines/tasks/audit.md",
+   "title": "Task: audit a range of chapters",
+   "layer": "legacy",
+   "kind": "guide",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "GUIDE.task.crosspost-convert",
+   "path": "guidelines/tasks/crosspost-convert.md",
+   "title": "Task: convert chapters for a cross-posting site",
+   "layer": "legacy",
+   "kind": "guide",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "GUIDE.task.plan-chapter",
+   "path": "guidelines/tasks/plan-chapter.md",
+   "title": "Task: plan a chapter (create its blueprint)",
+   "layer": "legacy",
+   "kind": "guide",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "GUIDE.task.propose-options",
+   "path": "guidelines/tasks/propose-options.md",
+   "title": "Task: propose options",
+   "layer": "legacy",
+   "kind": "guide",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "GUIDE.task.record-decision",
+   "path": "guidelines/tasks/record-decision.md",
+   "title": "Task: record an author decision",
+   "layer": "legacy",
+   "kind": "guide",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "GUIDE.task.revise-chapter",
+   "path": "guidelines/tasks/revise-chapter.md",
+   "title": "Task: revise a written chapter",
+   "layer": "legacy",
+   "kind": "guide",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "GUIDE.task.sync-blueprint",
+   "path": "guidelines/tasks/sync-blueprint.md",
+   "title": "Task: sync a blueprint with its chapter",
+   "layer": "legacy",
+   "kind": "guide",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "GUIDE.task.write-scene",
+   "path": "guidelines/tasks/write-scene.md",
+   "title": "Task: write a scene or a chapter from a blueprint",
+   "layer": "legacy",
+   "kind": "guide",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "handoff",
    "path": "handoff.md",
    "title": "Đèn vàng – Bàn giao cho session mới",
@@ -1922,6 +2062,76 @@
    "type": "ref"
   },
   {
+   "s": "GUIDE.main",
+   "t": "GUIDE.reading",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.roles-and-status",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.placement",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.invariants",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.record-decision",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.propose-options",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.add-event",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.add-law-or-technique",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.plan-chapter",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.write-scene",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.sync-blueprint",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.revise-chapter",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.audit",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.crosspost-convert",
+   "type": "ref"
+  },
+  {
    "s": "M-cai-nhau-bo-me",
    "t": "M-he-gia-tri",
    "type": "ref"
@@ -3109,6 +3319,61 @@
   {
    "s": "th-tai-cau-truc-lab",
    "t": "02-mach-truyen",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.reading",
+   "t": "cau-hoi",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.reading",
+   "t": "kien-truc-framework",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.reading",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.reading",
+   "t": "01c-rules-thanh-phan",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.reading",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.reading",
+   "t": "bible-v2",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.roles-and-status",
+   "t": "GUIDE.task.record-decision",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.roles-and-status",
+   "t": "CFG.statuses",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.task.add-event",
+   "t": "SCH.event",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.task.record-decision",
+   "t": "bible-v2",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.task.write-scene",
+   "t": "01c-rules-thanh-phan",
    "type": "ref"
   },
   {
