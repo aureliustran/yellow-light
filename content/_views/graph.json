@@ -2403,17 +2403,17 @@
   },
   {
    "s": "kien-truc-framework",
-   "t": "vu",
-   "type": "ref"
-  },
-  {
-   "s": "kien-truc-framework",
-   "t": "01-rules-viet",
-   "type": "ref"
-  },
-  {
-   "s": "kien-truc-framework",
    "t": "CFG.ids",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "SCH.character",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "SCH.function",
    "type": "ref"
   },
   {
@@ -2423,37 +2423,57 @@
   },
   {
    "s": "kien-truc-framework",
-   "t": "goc",
+   "t": "SCH.law",
    "type": "ref"
   },
   {
    "s": "kien-truc-framework",
-   "t": "registers",
+   "t": "SCH.register",
    "type": "ref"
   },
   {
    "s": "kien-truc-framework",
-   "t": "hai-ky-thuat",
+   "t": "SCH.technique",
    "type": "ref"
   },
   {
    "s": "kien-truc-framework",
-   "t": "M-cam-xuc-giac-quan",
+   "t": "SCH.pattern",
    "type": "ref"
   },
   {
    "s": "kien-truc-framework",
-   "t": "M-tu-suy-dien",
+   "t": "SCH.node",
    "type": "ref"
   },
   {
    "s": "kien-truc-framework",
-   "t": "M-dien-bien-cam-xuc",
+   "t": "SCH.goal",
    "type": "ref"
   },
   {
    "s": "kien-truc-framework",
-   "t": "goi-ten-cam-xuc",
+   "t": "SCH.event",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "SCH.intersection",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "SCH.blueprint",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "SCH.edition",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "SCH.post",
    "type": "ref"
   },
   {
@@ -2494,6 +2514,16 @@
   {
    "s": "kien-truc-framework",
    "t": "thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "vu",
    "type": "ref"
   },
   {
@@ -2558,12 +2588,47 @@
   },
   {
    "s": "kien-truc-framework",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "M-dien-bien-cam-xuc",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "goi-ten-cam-xuc",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
    "t": "chui-bay-thiet-ke",
    "type": "ref"
   },
   {
    "s": "kien-truc-framework",
    "t": "tu-dien-ha-tinh",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "hai-ky-thuat",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "M-cam-xuc-giac-quan",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "M-tu-suy-dien",
    "type": "ref"
   },
   {

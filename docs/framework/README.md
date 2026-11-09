@@ -57,8 +57,8 @@ Entity definitions (fields, types, per-kind rules) live in [`content/schemas/`](
 | [library.md](library.md) | registers, techniques, patterns; links to laws; checks | draft |
 | [storylines.md](storylines.md) | trees, nodes, goals, event leaves, inheritance and the resolved block, intersections | draft |
 | [blueprints.md](blueprints.md) | chapter blueprints, scenes, roles, anchors, sync lifecycle, outputs | draft |
-| [tooling.md](tooling.md) | `canon:check` and its laws, generated views, graph page, Obsidian setup | planned |
-| [adr/ADR-001-story-framework.md](adr/ADR-001-story-framework.md) | why, rejected options, effect on earlier decisions | planned |
+| [tooling.md](tooling.md) | `canon:check` and its laws, generated views, graph page, Obsidian setup | draft |
+| [adr/ADR-001-story-framework.md](adr/ADR-001-story-framework.md) | why, rejected options, effect on earlier decisions | draft |
 
 Migration (moving old files into this structure, steps B0–B8, open questions) is not spec. It is tracked in `content/de-xuat/kien-truc-framework.md`.
 
