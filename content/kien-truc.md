@@ -1,4 +1,13 @@
+---
+id: SPEC.old-architecture
+kind: spec
+status: superseded
+by: SPEC.framework
+updated: 2026-11-10
+---
 # Đèn vàng – Kiến trúc tài liệu và sinh nội dung
+
+> **Superseded 10/11.** Thay bởi `docs/framework/` (spec) và `GUIDELINES.md`. Giữ để lần ngược; không dùng làm nguồn.
 
 Oct 25, 2026 · @aureliustran. **[chốt 25/10]** repo là kho gốc. Phần còn lại là thiết kế đang áp dụng; chỗ nào chưa triển khai có ghi rõ.
 

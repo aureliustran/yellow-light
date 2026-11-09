@@ -9,7 +9,7 @@ sources: [content/de-xuat/kien-truc-framework.md §9–§12; scripts/canon-check
 
 ## `canon:check` `agreed 06/11`
 
-`npm run canon:check` (`scripts/canon-check.mjs`, no dependencies) is the rule runner. It reads every entity under `content/`, builds the symbol table, runs the checks, then writes the generated views. It exits non-zero on errors (`--strict`: also on warnings).
+`npm run canon:check` (`scripts/canon-check.mjs`, no dependencies) is the rule runner. It reads every entity under `content/` and every page under `docs/`, builds the symbol table, runs the checks, then writes the generated views. It exits non-zero on errors (`--strict`: also on warnings).
 
 | Option | Effect | State |
 | --- | --- | --- |
@@ -21,7 +21,7 @@ sources: [content/de-xuat/kien-truc-framework.md §9–§12; scripts/canon-check
 
 **Target design.** The runner keeps no rules of its own: it reads every law with `check: machine`, matches its selector, runs it on its scope, reports by law. Until structural laws are files in `rules/check/`, they are code in the script with the same ids.
 
-**Severity.** Findings in migrated folders (now: `config/`, `schemas/`) are errors; elsewhere (legacy, not yet migrated) they are warnings. Each migration step adds its folders to the migrated list.
+**Severity.** Findings in migrated parts (now: `config/`, `schemas/`, `guidelines/`, `GUIDELINES.md`, `docs/`) are errors; elsewhere (legacy, not yet migrated) they are warnings. Each migration step adds its folders to the migrated list.
 
 **Schemas drive the schema check.** Required header fields per kind come from each schema's `entity`, `required` and `required-one-of` (see `content/schemas/schema.md`); only the `schema` kind is bootstrapped in code.
 
@@ -30,7 +30,8 @@ sources: [content/de-xuat/kien-truc-framework.md §9–§12; scripts/canon-check
 | Check | Fails when | Scope | State |
 | --- | --- | --- | --- |
 | `LAW.check.unique-id` | two entities share an id, or differ only by case; duplicate file names | all | built (case rule planned) |
-| `LAW.check.resolve` | a link points nowhere | all except `assets/`, `kho/` | built |
+| `LAW.check.resolve` | a wikilink points nowhere | all except `assets/`, `kho/` | built |
+| `LAW.check.md-link` | a relative markdown link `[x](path)` points to no file | migrated parts | built |
 | `LAW.check.schema` | a header misses a required field of its kind | entities with `kind` | built |
 | `LAW.check.status` | a status is not in the vocabulary; `locked` depends on `proposed` | all | built |
 | `LAW.check.table-pipe` | a wikilink alias `[[a\|b]]` inside a table row | all | built |

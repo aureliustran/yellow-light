@@ -1,4 +1,13 @@
+---
+id: GUIDE.old-workflow
+kind: guide
+status: superseded
+by: GUIDE.main
+updated: 2026-11-10
+---
 # Đèn vàng – Quy trình tác giả + Claude
+
+> **Superseded 10/11.** Thay bởi `GUIDELINES.md`, `guidelines/roles-and-status.md` và `guidelines/tasks/`. Giữ để lần ngược; không dùng làm nguồn.
 
 Oct 25, 2026 · @aureliustran. Cách tác giả và Claude làm việc với nhau, theo từng loại việc. Kiến trúc nền: `kien-truc.md`.
 

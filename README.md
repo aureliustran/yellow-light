@@ -55,7 +55,7 @@ npm run dev               # http://localhost:4321
 
 ### 5. Import your chapters
 
-The 17 existing chapter and interlude files are already in `content/import/`.
+The 17 existing chapter and interlude files are already in `content/posts/legacy/`.
 
 ```bash
 npm run import -- --dry-run   # shows what would be imported, changes nothing
@@ -70,7 +70,7 @@ The import:
 - Keeps file-name order and sets interlude colours from `src/config.ts`.
 - Skips chapters that already exist (same web address), so running it twice is safe. Use `--overwrite` to replace them, or `--draft` to import as drafts.
 
-The originals in `content/import/` were copied from the Claude project files. Skim each chapter in `/admin` once.
+The originals in `content/posts/legacy/` were copied from the Claude project files. Skim each chapter in `/admin` once.
 
 ### 6. Put it on GitHub (private)
 
@@ -134,7 +134,7 @@ Mạ hỏi: "[[ht: Học hành răng rồi? || Học hành thế nào rồi?]]"
 
 **Rule for new chapters:** whenever the story shows a document in full, use its block instead of italics or plain paragraphs: a text conversation → `:::chat`, an email with its full content → `:::email`, an IDE, terminal or text editor → `:::ide` / `:::editor`, a spreadsheet → `:::sheet`, a handwritten note or list → `:::note`, a note typed in a phone's notes app → `:::phone`. Only a short quoted line inside a sentence stays inline.
 
-**`docs/ban-dich-de-xuat.md`** lists every English and Hà Tĩnh line in chapters 1–13 and 28–29 with the marker ready to paste. Hà Tĩnh translations come from your own footnotes; English ones are suggestions to check.
+**`content/ban-dich-de-xuat.md`** lists every English and Hà Tĩnh line in chapters 1–13 and 28–29 with the marker ready to paste. Hà Tĩnh translations come from your own footnotes; English ones are suggestions to check.
 
 **Publishing:**
 
@@ -158,13 +158,13 @@ src/scripts/                        browser code: login, comments, ratings, tran
 scripts/import-chapters.mjs         one-time import
 scripts/export-chapters.mjs         backup (used by the GitHub Action)
 scripts/apply-blocks.mjs            turns spreadsheet / note / editor / terminal passages in new chapters into blocks
-content/import/                     your chapters as of 7/10/2026
-docs/ban-dich-de-xuat.md            translation list to review
+content/posts/legacy/                     your chapters as of 7/10/2026
+content/ban-dich-de-xuat.md            translation list to review
 tests/                              npm test
 crosspost/                          cross-posting: core, worker, CLI (never deployed to Vercel)
-crosspost/sites/rookies/convert.md  conversion rules Claude follows  ← edit to change conversions
+content/posts/rookies.vn/convert.md  conversion rules Claude follows  ← edit to change conversions
 crosspost/sites/rookies/adapter.mjs every rookies.vn page step (fix here if rookies.vn changes)
-crosspost/out/rookies/              the converted versions (committed)
+content/posts/rookies.vn/              the converted versions (committed)
 src/pages/admin/crosspost.astro     /admin/crosspost (logic in src/scripts/crosspost-admin.ts)
 CLAUDE.md                           rules for Claude sessions in this project
 ```
@@ -205,12 +205,12 @@ each chapter needs a site version. Claude makes it, on request:
 
 - In chat (with this folder connected) or in a coding session here, say
   *"chuyển chương 1–5 cho rookies"*.
-- Claude follows `crosspost/sites/rookies/convert.md`, the only place the rules are
+- Claude follows `content/posts/rookies.vn/convert.md`, the only place the rules are
   written (block formats, emoji table, translations). To change how chapters are
   converted, edit that file.
-- `CLAUDE.md` (repo root) tells any Claude session in this project the workflow and
-  the hard rules. The `den-vang-crosspost` personal skill does the same in chat.
-- The versions are written to `crosspost/out/rookies/` (committed, so you can review
+- `CLAUDE.md` (repo root) points every Claude session to `content/GUIDELINES.md`; the
+  workflow and the hard rules are in `content/guidelines/tasks/crosspost-convert.md`. The `den-vang-crosspost` personal skill does the same in chat.
+- The versions are written to `content/posts/rookies.vn/` (committed, so you can review
   diffs), checked, and saved. The check rejects any version that changes, drops or
   reorders the story's words, loses a chat line, or leaves emoji, `:::` blocks or links.
 
@@ -218,7 +218,7 @@ The same steps by hand:
 
 ```bash
 npm run crosspost -- pull rookies --range 1-5    # sources → crosspost/work/rookies/
-# write crosspost/out/rookies/<same name>.txt for each, following convert.md
+# write content/posts/rookies.vn/<same name>.txt for each, following convert.md
 npm run crosspost -- check rookies               # fix until every chapter shows ✓
 npm run crosspost -- check rookies --save        # store them in Supabase
 ```

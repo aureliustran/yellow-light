@@ -19,7 +19,8 @@ const CONTENT = path.join(ROOT, 'content');
 
 // ---------- cấu hình ----------
 // Thư mục đã chuyển sang khuôn mới: lỗi là error. Ngoài danh sách này (legacy) chỉ là warn.
-const MIGRATED = ['config', 'schemas'];
+const MIGRATED = ['config', 'schemas', 'guidelines', 'docs'];
+const MIGRATED_FILES = ['GUIDELINES.md'];
 // Không quét, hoặc không sinh cạnh.
 const SKIP_DIRS = new Set(['.obsidian', '_views', '_archive', 'node_modules', '.git']);
 const GENERATED = new Set(['symbols.md']);
@@ -90,14 +91,17 @@ function stripCode(body) {
     .replace(/`[^`\n]*`/g, (m) => ' '.repeat(m.length));
 }
 
-const files = walk(CONTENT).filter((p) => !GENERATED.has(path.relative(CONTENT, p).replace(/\\/g, '/')));
+const DOCS = path.join(ROOT, 'docs');
+const files = [...walk(CONTENT).filter((p) => !GENERATED.has(path.relative(CONTENT, p).replace(/\\/g, '/'))), ...walk(DOCS)];
 const items = files.map((abs) => {
-  const rel = path.relative(CONTENT, abs).replace(/\\/g, '/');
+  // content/ → đường dẫn tính từ content/; docs/ → giữ tiền tố docs/ (top = 'docs')
+  const inDocs = abs.startsWith(DOCS + path.sep);
+  const rel = (inDocs ? path.relative(ROOT, abs) : path.relative(CONTENT, abs)).replace(/\\/g, '/');
   const text = fs.readFileSync(abs, 'utf8');
   const { fm, body, bodyStart } = splitFrontmatter(text);
   const props = parseFm(fm);
   const base = path.basename(rel, '.md');
-  const top = rel.includes('/') ? rel.split('/')[0] : '(root)';
+  const top = inDocs ? 'docs' : rel.includes('/') ? rel.split('/')[0] : '(root)';
   const id = props.id || (base === 'README' || top === 'posts' ? rel.replace(/\.md$/, '') : base);
   const title = (body.match(/^#\s+(.+)$/m) || [null, base])[1].trim();
   return { abs, rel, text, fm, body, bodyStart, props, base, top, id, title, hasFm: fm !== null };
@@ -125,7 +129,7 @@ function resolve(target) {
   const hits = items.filter((it) => it.rel.replace(/\.md$/, '').endsWith('/' + target) || it.rel.replace(/\.md$/, '') === target);
   return hits;
 }
-const migrated = (it) => MIGRATED.includes(it.top);
+const migrated = (it) => MIGRATED.includes(it.top) || MIGRATED_FILES.includes(it.rel);
 const sev = (it) => (migrated(it) ? 'error' : 'warn');
 
 // ---------- trích liên kết ----------
@@ -180,7 +184,7 @@ law('LAW.check.unique-id', () => {
   }
   for (const [id, list] of ids) if (list.length > 1) for (const it of list) add('LAW.check.unique-id', sev(it), it, 1, `id "${id}" trùng với ${list.filter((x) => x !== it).map((x) => x.rel).join(', ')}`);
   const bases = new Map();
-  for (const it of items) { if (it.base === 'README' || it.base === 'convert') continue; (bases.get(it.base) || bases.set(it.base, []).get(it.base)).push(it); }
+  for (const it of items) { if (it.base === 'README' || it.base === 'convert' || it.top === 'docs') continue; (bases.get(it.base) || bases.set(it.base, []).get(it.base)).push(it); }
   for (const [b, list] of bases) if (list.length > 1) for (const it of list) add('LAW.check.unique-id', 'warn', it, 1, `tên file "${b}" trùng với ${list.filter((x) => x !== it).map((x) => x.rel).join(', ')}`);
 });
 
@@ -192,6 +196,22 @@ law('LAW.check.resolve', () => {
       if (hits.length === 0) add('LAW.check.resolve', sev(it), it, l.line, `liên kết treo [[${l.target}]]`);
       else if (hits.length > 1) add('LAW.check.resolve', 'warn', it, l.line, `liên kết mơ hồ [[${l.target}]] → ${hits.map((h) => h.rel).join(', ')}`);
     }
+  }
+});
+
+// Link markdown tương đối [x](a/b.md): chỉ kiểm ở phần đã chuyển (file cũ hay trỏ sai).
+law('LAW.check.md-link', () => {
+  const re = /\]\(([^)\s]+)\)/g;
+  for (const it of items) {
+    if (!migrated(it)) continue;
+    const lines = stripCode(it.body).split(/\r?\n/);
+    lines.forEach((line, i) => {
+      for (const m of line.matchAll(re)) {
+        const t = m[1].split('#')[0];
+        if (!t || /^[a-z]+:/i.test(t)) continue;
+        if (!fs.existsSync(path.resolve(path.dirname(it.abs), decodeURIComponent(t)))) add('LAW.check.md-link', 'error', it, it.bodyStart + i + 1, `link treo (${t})`);
+      }
+    });
   }
 });
 
@@ -299,6 +319,7 @@ function writeSymbols() {
 
 // ---------- view: graph.json + graph.html ----------
 const LAYERS = {
+  docs: 'spec', guidelines: 'spec',
   config: 'foundation', schemas: 'foundation', core: 'core', rules: 'rules', lib: 'lib', world: 'world',
   storylines: 'storylines', plans: 'plans', canon: 'canon', proposals: 'proposals', 'de-xuat': 'proposals',
   audits: 'audits', assets: 'assets', kho: 'assets', tuyen: 'storylines',
@@ -353,7 +374,7 @@ const LIMIT = FLAG('--all') ? Infinity : Number(opt('--limit') || 40);
 let printed = 0;
 for (const f of shown) {
   if (printed >= LIMIT) break;
-  console.log(`${f.severity.toUpperCase().padEnd(5)} ${f.law}  content/${f.file}:${f.line}  ${f.msg}`);
+  console.log(`${f.severity.toUpperCase().padEnd(5)} ${f.law}  ${f.file.startsWith('docs/') ? '' : 'content/'}${f.file}:${f.line}  ${f.msg}`);
   printed++;
 }
 if (shown.length > printed) console.log(`… còn ${shown.length - printed} mục (dùng --all hoặc --limit N)`);

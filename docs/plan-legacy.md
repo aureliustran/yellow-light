@@ -1,3 +1,11 @@
+---
+id: SPEC.editions
+kind: spec
+status: locked
+updated: 2026-10-21
+aliases: [plan-legacy]
+sources: [app development plan]
+---
 # Plan: old story becomes "Legacy", v2 comes first; whole-story comments
 
 Oct 20, 2026. Development plan. **Rollout steps 1 and 2 are built** (Oct 21, see "Status").
@@ -335,7 +343,7 @@ migration runs.
 Moving cross-posting to v2 is separate work that another agent can take on. Not
 started; the author said not to touch it yet. Read first:
 `.claude/skills/crosspost-site/SKILL.md` (anti-duplicate layers that must stay),
-`CLAUDE.md` (conversion rules), this file.
+`content/guidelines/tasks/crosspost-convert.md` (conversion workflow and hard rules), this file.
 
 State when handed over:
 

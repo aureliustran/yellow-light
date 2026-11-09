@@ -1,6 +1,6 @@
 ---
 name: crosspost-site
-description: Use when adding a new cross-posting site (Wattpad, etc.) to Đèn Vàng, or changing a site adapter, its config, convert.md, or the crosspost worker/core. Not for converting chapters (that is crosspost/sites/<site>/convert.md, see CLAUDE.md).
+description: Use when adding a new cross-posting site (Wattpad, etc.) to Đèn Vàng, or changing a site adapter, its config, convert.md, or the crosspost worker/core. Not for converting chapters (that is content/posts/<domain>/convert.md, workflow in content/guidelines/tasks/crosspost-convert.md).
 ---
 
 # Developing cross-posting sites

@@ -1,21 +1,17 @@
-# docs/ – đặc tả app
+---
+id: SPEC.index
+kind: spec
+status: draft
+updated: 2026-11-10
+sources: [B2.5, F6]
+---
+# docs/: specifications
 
-Chỉ chứa tài liệu về **ứng dụng** (website đọc truyện, admin, đăng chéo, hạ tầng), không chứa nội dung truyện.
-Mọi thứ về truyện (canon, nhân vật, tuyến, luật viết, chương) nằm trong [`content/`](../content/README.md).
+Specs only: how the framework and the app are built. Story material is in [`content/`](../content/GUIDELINES.md).
 
-| File | Nội dung |
+| Path | Specifies |
 | --- | --- |
-| `plan-legacy.md` | Các bản của truyện (v1 Legacy, v2), cách hiển thị, bình luận toàn truyện, bàn giao đăng chéo |
+| [`framework/`](framework/README.md) | the story framework: entities, ids, rules engine, library, storylines, blueprints, tooling, ADR |
+| [`plan-legacy.md`](plan-legacy.md) | the app's editions (v1 Legacy, v2), how they are shown, whole-story comments, cross-posting handoff |
 
-## Đường dẫn của file truyện
-
-Khai báo ở một chỗ: `scripts/paths.mjs`. Script và `crosspost/` đều lấy từ đó.
-
-| Thư mục | Là gì |
-| --- | --- |
-| `content/posts/vercel/` | Bản chính trên web (edition v2). `npm run import` đọc ở đây |
-| `content/posts/legacy/` | Edition v1, đọc ở `/legacy` |
-| `content/posts/<domain>/` | Mỗi site đăng chéo: bản chuyển `*.txt` và `convert.md` (luật chuyển của site) |
-| `crosspost/` | Chỉ còn code: CLI, worker, adapter (`sites/<khóa>/`), `work/` tạm |
-
-Khóa site (`rookies`, `truyennhaong`) là tham số CLI và cột `site` trong Supabase; tên thư mục là tên miền (`rookies.vn`, `truyennhaong.vn`).
+Where story files live is declared once in `scripts/paths.mjs` (see [framework/layout.md](framework/layout.md#published-text)).

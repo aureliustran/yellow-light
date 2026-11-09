@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 45 file. Chưa chuyển sang khuôn mới (legacy): 153 file.
+Có phần đầu (frontmatter): 59 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -13,6 +13,7 @@ Có phần đầu (frontmatter): 45 file. Chưa chuyển sang khuôn mới (lega
 | `CFG.statuses` | `config` | `proposed` | `config/statuses.md` | Mỗi dòng, mỗi file mang một trạng thái. Trạng thái là mức ổn định: tầng nào dựa vào tầng nào thì không được ổn định hơn nó. |
 | `GUIDE.invariants` | `guide` | `draft` | `guidelines/invariants.md` | Rules that always hold. Machine-checked ones name their check (`docs/framework/tooling.md`); the rest are checked by you before saying "d… |
 | `GUIDE.main` | `guide` | `draft` | `GUIDELINES.md` | Read this first in every session. It says how to work on the story. For what the system *is* (entities, ids, inheritance, tooling), look … |
+| `GUIDE.old-workflow` | `guide` | `superseded` | `quy-trinh.md` | Oct 25, 2026 · @aureliustran. Cách tác giả và Claude làm việc với nhau, theo từng loại việc. Kiến trúc nền: `kien-truc.md`. |
 | `GUIDE.placement` | `guide` | `draft` | `guidelines/placement.md` | Ask the questions in order; the first "yes" decides. Ids: `docs/framework/ids.md`. Fields: the kind's schema. |
 | `GUIDE.reading` | `guide` | `draft` | `guidelines/reading.md` | Tokens are the budget. Every task starts from one entry and follows links; nothing is loaded "to be safe". |
 | `GUIDE.roles-and-status` | `guide` | `draft` | `guidelines/roles-and-status.md` | **When to ask.** Anything that touches canon: ask first (at most four questions at once, each with a recommendation). Anything inside an … |
@@ -51,3 +52,16 @@ Có phần đầu (frontmatter): 45 file. Chưa chuyển sang khuôn mới (lega
 | `SCH.setting` | `schema` | `proposed` | `schemas/setting.md` | A place, a recurring space. **Location:** `world/settings/SET.<name>.md`. **Id:** `SET.<name>`. Header: `parent` (larger setting, if any). |
 | `SCH.spec` | `schema` | `proposed` | `schemas/spec.md` | A specification page of the framework or the app. **Location:** `docs/**`. **Id:** `SPEC.<name>`. |
 | `SCH.technique` | `schema` | `proposed` | `schemas/technique.md` | A sentence- or paragraph-level method that achieves a law or a register. See [library](../../docs/framework/library.md). |
+| `SPEC.adr-001` | `spec` | `agreed` | `docs/framework/adr/ADR-001-story-framework.md` | Before the framework (state of early November 2026): |
+| `SPEC.blueprints` | `spec` | `draft` | `docs/framework/blueprints.md` | Fields: `content/schemas/blueprint.md`, `edition.md`, `chapter.md`. |
+| `SPEC.editions` | `spec` | `locked` | `docs/plan-legacy.md` | Oct 20, 2026. Development plan. **Rollout steps 1 and 2 are built** (Oct 21, see "Status"). |
+| `SPEC.framework` | `spec` | `draft` | `docs/framework/README.md` | Entry point of the **spec**: what the system is. For *how to work in it*, read [`content/GUIDELINES.md`](../../content/GUIDELINES.md) first. |
+| `SPEC.ids` | `spec` | `draft` | `docs/framework/ids.md` | Every entity that can be pointed at has an id, including inline entities (goals, scenes, clauses, beats, steps). Old → new code mapping (… |
+| `SPEC.index` | `spec` | `draft` | `docs/README.md` | Specs only: how the framework and the app are built. Story material is in [`content/`](../content/GUIDELINES.md). |
+| `SPEC.layout` | `spec` | `draft` | `docs/framework/layout.md` | content/ |
+| `SPEC.library` | `spec` | `draft` | `docs/framework/library.md` | `lib/` mirrors `rules/`: same aspects, same selector syntax (`applies-to`, `effective`, `except`), so one engine answers "what applies he… |
+| `SPEC.model` | `spec` | `draft` | `docs/framework/model.md` | How entities fit together. Fields of each kind are defined in its schema under `content/schemas/`; this file never repeats them. |
+| `SPEC.old-architecture` | `spec` | `superseded` | `kien-truc.md` | Oct 25, 2026 · @aureliustran. **[chốt 25/10]** repo là kho gốc. Phần còn lại là thiết kế đang áp dụng; chỗ nào chưa triển khai có ghi rõ. |
+| `SPEC.rules-engine` | `spec` | `draft` | `docs/framework/rules-engine.md` | How rules are derived, scoped and combined. Fields: `content/schemas/article.md`, `content/schemas/law.md`. |
+| `SPEC.storylines` | `spec` | `draft` | `docs/framework/storylines.md` | Fields: `content/schemas/node.md`, `goal.md`, `event.md`, `intersection.md`. |
+| `SPEC.tooling` | `spec` | `draft` | `docs/framework/tooling.md` | `npm run canon:check` (`scripts/canon-check.mjs`, no dependencies) is the rule runner. It reads every entity under `content/` and every p… |

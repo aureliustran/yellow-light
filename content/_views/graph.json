@@ -563,7 +563,7 @@
    "id": "GUIDE.invariants",
    "path": "guidelines/invariants.md",
    "title": "Invariants",
-   "layer": "legacy",
+   "layer": "spec",
    "kind": "guide",
    "status": "draft",
    "weight": {},
@@ -573,7 +573,7 @@
    "id": "GUIDE.placement",
    "path": "guidelines/placement.md",
    "title": "Placement: where a new thing goes, and its id",
-   "layer": "legacy",
+   "layer": "spec",
    "kind": "guide",
    "status": "draft",
    "weight": {},
@@ -583,7 +583,7 @@
    "id": "GUIDE.reading",
    "path": "guidelines/reading.md",
    "title": "Reading: what to load, and when to stop",
-   "layer": "legacy",
+   "layer": "spec",
    "kind": "guide",
    "status": "draft",
    "weight": {},
@@ -593,7 +593,7 @@
    "id": "GUIDE.roles-and-status",
    "path": "guidelines/roles-and-status.md",
    "title": "Roles, decisions and status",
-   "layer": "legacy",
+   "layer": "spec",
    "kind": "guide",
    "status": "draft",
    "weight": {},
@@ -603,7 +603,7 @@
    "id": "GUIDE.task.add-event",
    "path": "guidelines/tasks/add-event.md",
    "title": "Task: add or change an event",
-   "layer": "legacy",
+   "layer": "spec",
    "kind": "guide",
    "status": "draft",
    "weight": {},
@@ -613,7 +613,7 @@
    "id": "GUIDE.task.add-law-or-technique",
    "path": "guidelines/tasks/add-law-or-technique.md",
    "title": "Task: add a law, a register, a technique or a pattern",
-   "layer": "legacy",
+   "layer": "spec",
    "kind": "guide",
    "status": "draft",
    "weight": {},
@@ -623,7 +623,7 @@
    "id": "GUIDE.task.audit",
    "path": "guidelines/tasks/audit.md",
    "title": "Task: audit a range of chapters",
-   "layer": "legacy",
+   "layer": "spec",
    "kind": "guide",
    "status": "draft",
    "weight": {},
@@ -633,7 +633,7 @@
    "id": "GUIDE.task.crosspost-convert",
    "path": "guidelines/tasks/crosspost-convert.md",
    "title": "Task: convert chapters for a cross-posting site",
-   "layer": "legacy",
+   "layer": "spec",
    "kind": "guide",
    "status": "draft",
    "weight": {},
@@ -643,7 +643,7 @@
    "id": "GUIDE.task.plan-chapter",
    "path": "guidelines/tasks/plan-chapter.md",
    "title": "Task: plan a chapter (create its blueprint)",
-   "layer": "legacy",
+   "layer": "spec",
    "kind": "guide",
    "status": "draft",
    "weight": {},
@@ -653,7 +653,7 @@
    "id": "GUIDE.task.propose-options",
    "path": "guidelines/tasks/propose-options.md",
    "title": "Task: propose options",
-   "layer": "legacy",
+   "layer": "spec",
    "kind": "guide",
    "status": "draft",
    "weight": {},
@@ -663,7 +663,7 @@
    "id": "GUIDE.task.record-decision",
    "path": "guidelines/tasks/record-decision.md",
    "title": "Task: record an author decision",
-   "layer": "legacy",
+   "layer": "spec",
    "kind": "guide",
    "status": "draft",
    "weight": {},
@@ -673,7 +673,7 @@
    "id": "GUIDE.task.revise-chapter",
    "path": "guidelines/tasks/revise-chapter.md",
    "title": "Task: revise a written chapter",
-   "layer": "legacy",
+   "layer": "spec",
    "kind": "guide",
    "status": "draft",
    "weight": {},
@@ -683,7 +683,7 @@
    "id": "GUIDE.task.sync-blueprint",
    "path": "guidelines/tasks/sync-blueprint.md",
    "title": "Task: sync a blueprint with its chapter",
-   "layer": "legacy",
+   "layer": "spec",
    "kind": "guide",
    "status": "draft",
    "weight": {},
@@ -693,7 +693,7 @@
    "id": "GUIDE.task.write-scene",
    "path": "guidelines/tasks/write-scene.md",
    "title": "Task: write a scene or a chapter from a blueprint",
-   "layer": "legacy",
+   "layer": "spec",
    "kind": "guide",
    "status": "draft",
    "weight": {},
@@ -730,12 +730,12 @@
    "effective": ""
   },
   {
-   "id": "kien-truc",
+   "id": "SPEC.old-architecture",
    "path": "kien-truc.md",
    "title": "Đèn vàng – Kiến trúc tài liệu và sinh nội dung",
    "layer": "legacy",
-   "kind": "",
-   "status": "",
+   "kind": "spec",
+   "status": "superseded",
    "weight": {},
    "effective": ""
   },
@@ -1550,12 +1550,12 @@
    "effective": ""
   },
   {
-   "id": "quy-trinh",
+   "id": "GUIDE.old-workflow",
    "path": "quy-trinh.md",
    "title": "Đèn vàng – Quy trình tác giả + Claude",
    "layer": "legacy",
-   "kind": "",
-   "status": "",
+   "kind": "guide",
+   "status": "superseded",
    "weight": {},
    "effective": ""
   },
@@ -1988,6 +1988,126 @@
    "status": "",
    "weight": {},
    "effective": ""
+  },
+  {
+   "id": "SPEC.index",
+   "path": "docs/README.md",
+   "title": "docs/: specifications",
+   "layer": "spec",
+   "kind": "spec",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SPEC.framework",
+   "path": "docs/framework/README.md",
+   "title": "Đèn Vàng story framework: specification",
+   "layer": "spec",
+   "kind": "spec",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SPEC.adr-001",
+   "path": "docs/framework/adr/ADR-001-story-framework.md",
+   "title": "ADR-001: the story repository as a typed codebase",
+   "layer": "spec",
+   "kind": "spec",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SPEC.blueprints",
+   "path": "docs/framework/blueprints.md",
+   "title": "Blueprints and outputs `proposed 10/11`",
+   "layer": "spec",
+   "kind": "spec",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SPEC.ids",
+   "path": "docs/framework/ids.md",
+   "title": "Ids `proposed 10/11`",
+   "layer": "spec",
+   "kind": "spec",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SPEC.layout",
+   "path": "docs/framework/layout.md",
+   "title": "Layout",
+   "layer": "spec",
+   "kind": "spec",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SPEC.library",
+   "path": "docs/framework/library.md",
+   "title": "Library: registers, techniques, patterns `proposed 10/11`",
+   "layer": "spec",
+   "kind": "spec",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SPEC.model",
+   "path": "docs/framework/model.md",
+   "title": "Model",
+   "layer": "spec",
+   "kind": "spec",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SPEC.rules-engine",
+   "path": "docs/framework/rules-engine.md",
+   "title": "Rules engine",
+   "layer": "spec",
+   "kind": "spec",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SPEC.storylines",
+   "path": "docs/framework/storylines.md",
+   "title": "Storylines",
+   "layer": "spec",
+   "kind": "spec",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SPEC.tooling",
+   "path": "docs/framework/tooling.md",
+   "title": "Tooling",
+   "layer": "spec",
+   "kind": "spec",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SPEC.editions",
+   "path": "docs/plan-legacy.md",
+   "title": "Plan: old story becomes \"Legacy\", v2 comes first; whole-story comments",
+   "layer": "spec",
+   "kind": "spec",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
   }
  ],
  "edges": [
@@ -2044,6 +2164,11 @@
   {
    "s": "05-gala-va-quan-su-bi-mat",
    "t": "04-rui-ro-tuyen-thuyen-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "SPEC.framework",
    "type": "ref"
   },
   {
@@ -2148,17 +2273,32 @@
   },
   {
    "s": "README",
-   "t": "kien-truc",
+   "t": "SPEC.old-architecture",
+   "type": "ref"
+  },
+  {
+   "s": "README",
+   "t": "GUIDE.main",
+   "type": "ref"
+  },
+  {
+   "s": "README",
+   "t": "SPEC.framework",
+   "type": "ref"
+  },
+  {
+   "s": "README",
+   "t": "CFG.statuses",
+   "type": "ref"
+  },
+  {
+   "s": "README",
+   "t": "GUIDE.old-workflow",
    "type": "ref"
   },
   {
    "s": "README",
    "t": "cau-hoi",
-   "type": "ref"
-  },
-  {
-   "s": "README",
-   "t": "quy-trinh",
    "type": "ref"
   },
   {
@@ -2348,7 +2488,7 @@
   },
   {
    "s": "cau-hoi",
-   "t": "quy-trinh",
+   "t": "GUIDE.old-workflow",
    "type": "ref"
   },
   {
@@ -2359,6 +2499,11 @@
   {
    "s": "CFG.calendar",
    "t": "nhi",
+   "type": "ref"
+  },
+  {
+   "s": "CFG.ids",
+   "t": "SPEC.ids",
    "type": "ref"
   },
   {
@@ -2398,7 +2543,7 @@
   },
   {
    "s": "cay-tuyen",
-   "t": "kien-truc",
+   "t": "SPEC.old-architecture",
    "type": "ref"
   },
   {
@@ -2443,17 +2588,17 @@
   },
   {
    "s": "cay-tuyen",
-   "t": "quy-trinh",
+   "t": "GUIDE.old-workflow",
    "type": "ref"
   },
   {
    "s": "handoff-kien-truc-cay-tuyen",
-   "t": "kien-truc",
+   "t": "SPEC.old-architecture",
    "type": "ref"
   },
   {
    "s": "handoff-kien-truc-cay-tuyen",
-   "t": "quy-trinh",
+   "t": "GUIDE.old-workflow",
    "type": "ref"
   },
   {
@@ -2513,12 +2658,12 @@
   },
   {
    "s": "hop-nhat-cay-tuyen",
-   "t": "kien-truc",
+   "t": "SPEC.old-architecture",
    "type": "ref"
   },
   {
    "s": "hop-nhat-cay-tuyen",
-   "t": "quy-trinh",
+   "t": "GUIDE.old-workflow",
    "type": "ref"
   },
   {
@@ -2558,12 +2703,12 @@
   },
   {
    "s": "hop-nhat-loi-cu",
-   "t": "kien-truc",
+   "t": "SPEC.old-architecture",
    "type": "ref"
   },
   {
    "s": "hop-nhat-loi-cu",
-   "t": "quy-trinh",
+   "t": "GUIDE.old-workflow",
    "type": "ref"
   },
   {
@@ -2613,7 +2758,32 @@
   },
   {
    "s": "kien-truc-framework",
+   "t": "SPEC.framework",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "SPEC.adr-001",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "SPEC.ids",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "SPEC.model",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
    "t": "CFG.ids",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "SPEC.layout",
    "type": "ref"
   },
   {
@@ -2628,12 +2798,22 @@
   },
   {
    "s": "kien-truc-framework",
+   "t": "SPEC.rules-engine",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
    "t": "SCH.article",
    "type": "ref"
   },
   {
    "s": "kien-truc-framework",
    "t": "SCH.law",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "SPEC.library",
    "type": "ref"
   },
   {
@@ -2649,6 +2829,11 @@
   {
    "s": "kien-truc-framework",
    "t": "SCH.pattern",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "SPEC.storylines",
    "type": "ref"
   },
   {
@@ -2673,6 +2858,11 @@
   },
   {
    "s": "kien-truc-framework",
+   "t": "SPEC.blueprints",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
    "t": "SCH.blueprint",
    "type": "ref"
   },
@@ -2684,6 +2874,11 @@
   {
    "s": "kien-truc-framework",
    "t": "SCH.post",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "SPEC.tooling",
    "type": "ref"
   },
   {
@@ -2788,7 +2983,7 @@
   },
   {
    "s": "kien-truc-framework",
-   "t": "kien-truc",
+   "t": "SPEC.old-architecture",
    "type": "ref"
   },
   {
@@ -2993,7 +3188,7 @@
   },
   {
    "s": "qk-t-plan-viet-lai-quang-1-v2",
-   "t": "quy-trinh",
+   "t": "GUIDE.old-workflow",
    "type": "ref"
   },
   {
@@ -3043,7 +3238,7 @@
   },
   {
    "s": "qk-t-plan-viet-lai-quang-1-v3",
-   "t": "quy-trinh",
+   "t": "GUIDE.old-workflow",
    "type": "ref"
   },
   {
@@ -3063,12 +3258,12 @@
   },
   {
    "s": "rm-handoff",
-   "t": "quy-trinh",
+   "t": "GUIDE.old-workflow",
    "type": "ref"
   },
   {
    "s": "rm-handoff",
-   "t": "kien-truc",
+   "t": "SPEC.old-architecture",
    "type": "ref"
   },
   {
@@ -3322,8 +3517,23 @@
    "type": "ref"
   },
   {
+   "s": "GUIDE.invariants",
+   "t": "SPEC.tooling",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.placement",
+   "t": "SPEC.ids",
+   "type": "ref"
+  },
+  {
    "s": "GUIDE.reading",
    "t": "cau-hoi",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.reading",
+   "t": "SPEC.framework",
    "type": "ref"
   },
   {
@@ -3423,7 +3633,7 @@
   },
   {
    "s": "hai",
-   "t": "kien-truc",
+   "t": "SPEC.old-architecture",
    "type": "ref"
   },
   {
@@ -3477,78 +3687,83 @@
    "type": "ref"
   },
   {
-   "s": "kien-truc",
+   "s": "SPEC.old-architecture",
+   "t": "GUIDE.main",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.old-architecture",
    "t": "cau-hoi",
    "type": "ref"
   },
   {
-   "s": "kien-truc",
+   "s": "SPEC.old-architecture",
    "t": "00-quyet-dinh-v2",
    "type": "ref"
   },
   {
-   "s": "kien-truc",
+   "s": "SPEC.old-architecture",
    "t": "01-mach-truyen-v2",
    "type": "ref"
   },
   {
-   "s": "kien-truc",
+   "s": "SPEC.old-architecture",
    "t": "02-hoi-dong-nhi",
    "type": "ref"
   },
   {
-   "s": "kien-truc",
+   "s": "SPEC.old-architecture",
    "t": "03-kho-nhi-thich-thuyen",
    "type": "ref"
   },
   {
-   "s": "kien-truc",
+   "s": "SPEC.old-architecture",
    "t": "brief-tinh-cam-thuyen-nhi",
    "type": "ref"
   },
   {
-   "s": "kien-truc",
+   "s": "SPEC.old-architecture",
    "t": "01-rules-viet",
    "type": "ref"
   },
   {
-   "s": "kien-truc",
+   "s": "SPEC.old-architecture",
    "t": "01c-rules-thanh-phan",
    "type": "ref"
   },
   {
-   "s": "kien-truc",
+   "s": "SPEC.old-architecture",
    "t": "danh-sach-chuong-mo-dau",
    "type": "ref"
   },
   {
-   "s": "kien-truc",
+   "s": "SPEC.old-architecture",
    "t": "02-mach-truyen",
    "type": "ref"
   },
   {
-   "s": "kien-truc",
+   "s": "SPEC.old-architecture",
    "t": "11-dan-y-phan-1",
    "type": "ref"
   },
   {
-   "s": "kien-truc",
+   "s": "SPEC.old-architecture",
    "t": "brief-giai-doan-2",
    "type": "ref"
   },
   {
-   "s": "kien-truc",
+   "s": "SPEC.old-architecture",
    "t": "handoff",
    "type": "ref"
   },
   {
-   "s": "kien-truc",
+   "s": "SPEC.old-architecture",
    "t": "lich-su-hoi-thoai",
    "type": "ref"
   },
   {
-   "s": "kien-truc",
-   "t": "quy-trinh",
+   "s": "SPEC.old-architecture",
+   "t": "GUIDE.old-workflow",
    "type": "ref"
   },
   {
@@ -3602,6 +3817,16 @@
    "type": "ref"
   },
   {
+   "s": "GUIDE.old-workflow",
+   "t": "GUIDE.main",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.old-workflow",
+   "t": "GUIDE.roles-and-status",
+   "type": "ref"
+  },
+  {
    "s": "chui-bay-thiet-ke",
    "t": "registers",
    "type": "ref"
@@ -3648,7 +3873,7 @@
   },
   {
    "s": "registers",
-   "t": "kien-truc",
+   "t": "SPEC.old-architecture",
    "type": "ref"
   },
   {
@@ -3672,6 +3897,11 @@
    "type": "ref"
   },
   {
+   "s": "SCH.article",
+   "t": "SPEC.rules-engine",
+   "type": "ref"
+  },
+  {
    "s": "SCH.belief",
    "t": "CFG.statuses",
    "type": "ref"
@@ -3679,6 +3909,11 @@
   {
    "s": "SCH.blueprint",
    "t": "CFG.statuses",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.blueprint",
+   "t": "SPEC.blueprints",
    "type": "ref"
   },
   {
@@ -3697,8 +3932,53 @@
    "type": "ref"
   },
   {
+   "s": "SCH.event",
+   "t": "SPEC.storylines",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.goal",
+   "t": "SPEC.storylines",
+   "type": "ref"
+  },
+  {
    "s": "SCH.guide",
    "t": "GUIDE.main",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.intersection",
+   "t": "SPEC.storylines",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.law",
+   "t": "SPEC.rules-engine",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.node",
+   "t": "SPEC.storylines",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.node",
+   "t": "SPEC.ids",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.pattern",
+   "t": "SPEC.library",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.register",
+   "t": "SPEC.library",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.technique",
+   "t": "SPEC.library",
    "type": "ref"
   },
   {
@@ -4124,6 +4404,326 @@
   {
    "s": "vu",
    "t": "thuyen-hai-cai-toi",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.index",
+   "t": "SPEC.editions",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.index",
+   "t": "GUIDE.main",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.index",
+   "t": "SPEC.framework",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.index",
+   "t": "SPEC.layout",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "CFG.statuses",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "SPEC.model",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "SPEC.layout",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "SPEC.rules-engine",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "SPEC.library",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "SPEC.storylines",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "SPEC.blueprints",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "SPEC.tooling",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "SPEC.adr-001",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.adr-001",
+   "t": "vu",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.adr-001",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.adr-001",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.adr-001",
+   "t": "SPEC.old-architecture",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.adr-001",
+   "t": "GUIDE.main",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.adr-001",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.adr-001",
+   "t": "goi-ten-cam-xuc",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.blueprints",
+   "t": "SCH.edition",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.blueprints",
+   "t": "SCH.post",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.blueprints",
+   "t": "posts/vercel/05-chuong-05-san-khau",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.layout",
+   "t": "SPEC.editions",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.article",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.law",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.register",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.technique",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.pattern",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.character",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.group",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.setting",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.object",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.secret",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.belief",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.function",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.node",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.goal",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.event",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.intersection",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.edition",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.blueprint",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.post",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.proposal",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.plan",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.config",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.schema",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.spec",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.guide",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "CFG.statuses",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.rules-engine",
+   "t": "CFG.calendar",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.rules-engine",
+   "t": "SPEC.library",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.rules-engine",
+   "t": "SPEC.storylines",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.rules-engine",
+   "t": "SPEC.blueprints",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.rules-engine",
+   "t": "SPEC.tooling",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.storylines",
+   "t": "SPEC.blueprints",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.tooling",
+   "t": "GUIDE.main",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.tooling",
+   "t": "SCH.schema",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.tooling",
+   "t": "SPEC.library",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.tooling",
+   "t": "SPEC.blueprints",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.tooling",
+   "t": "SPEC.storylines",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.tooling",
+   "t": "SPEC.layout",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.editions",
+   "t": "00-quyet-dinh-v2",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.editions",
+   "t": "GUIDE.task.crosspost-convert",
    "type": "ref"
   }
  ]
