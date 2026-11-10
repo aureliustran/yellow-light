@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 127 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
+Có phần đầu (frontmatter): 129 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -89,6 +89,8 @@ Có phần đầu (frontmatter): 127 file. Chưa chuyển sang khuôn mới (leg
 | `PAST.T-025` | `event` | `page` | `storylines/past/PAST.T/PAST.T-025.md` | Đề tài nghiên cứu: nhận cả phần của Đức và Lan, tay bận thì cái đau ngủ; thầy Bình hỏi *Tại sao là em?* chưa trả lời được; đề tài lên cấp… |
 | `PAST.T-026` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-026.md` | Thư mục *sau-nay*, *Congratulations.*, đọc một lần rồi không mở. |
 | `PAST.T-027` | `event` | `page` | `storylines/past/PAST.T/PAST.T-027.md` | Sáu tháng thực tập ở tòa nhà kính; hết thực tập tháng 9, "không biết dậy sớm để làm gì"; mail summit đến thì nhẹ. |
+| `ROM` | `node` | `proposed` | `storylines/rom/ROM.md` | Gốc của các node quan hệ tình cảm `ROM.<cặp>`. Khung tạo sớm (10/11) để chứa lõi gương của [[ROM.TN]]; phần còn lại chuyển ở B4c. |
+| `ROM.TN` | `node` | `proposed` | `storylines/rom/ROM.TN.md` | **Khung** (10/11): node chưa chuyển (B4c). Hiện chỉ có `mirror`, lõi gương của quan hệ, đặt ở đây để nó dùng được các ràng buộc (luật, re… |
 | `SCH.article` | `schema` | `proposed` | `schemas/article.md` | A constitution article: an invariant split from an axis; phase laws take their basis from it. See [rules-engine](../../docs/framework/rul… |
 | `SCH.belief` | `schema` | `agreed` | `schemas/belief.md` | A belief (old `NT-`): what a character holds about self, others or the world, produced by personality meeting a wound, consumed by presen… |
 | `SCH.blueprint` | `schema` | `proposed` | `schemas/blueprint.md` | The plan of one chapter: how events combine into it. See [blueprints](../../docs/framework/blueprints.md). |

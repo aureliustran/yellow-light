@@ -51,4 +51,6 @@ An innate psychological effect that the character holds no thought about is **no
 
 **Clusters** `agreed 10/11`: beliefs are grouped by the existential question the character answers, not by axis. Each cluster is a `## C<n> · <name>` section in the beliefs file with `question`, `root`, `axes` and a shared `definition`; members follow in age order. A cluster may be definition-only (a question the character never asks, all `seen: khong`).
 
+**Mirrors** `agreed 10/11`: a contrast between two characters' beliefs lives in the `mirror` section of their relationship node (e.g. [[ROM.TN]]), never inside either character's beliefs. A belief describes only its own side and does not link to the mirror; the mirror links to the beliefs.
+
 A belief shared by several characters still has **one** owning character; others `uses` it.

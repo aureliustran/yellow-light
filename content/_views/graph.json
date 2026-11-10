@@ -2180,6 +2180,26 @@
    "effective": ""
   },
   {
+   "id": "ROM.TN",
+   "path": "storylines/rom/ROM.TN.md",
+   "title": "ROM.TN · Thuyên – Nhi",
+   "layer": "storylines",
+   "kind": "node",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "ROM",
+   "path": "storylines/rom/ROM.md",
+   "title": "ROM · Tuyến tình cảm",
+   "layer": "storylines",
+   "kind": "node",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "SELF",
    "path": "storylines/self/SELF.md",
    "title": "SELF · Tuyến nội tâm",
@@ -2827,6 +2847,11 @@
    "type": "link"
   },
   {
+   "s": "SCH.belief",
+   "t": "ROM.TN",
+   "type": "link"
+  },
+  {
    "s": "PAST.T-001",
    "t": "PAST.T",
    "type": "parent"
@@ -3262,6 +3287,46 @@
    "type": "link"
   },
   {
+   "s": "ROM.TN",
+   "t": "ROM",
+   "type": "parent"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "CH.nhi",
+   "type": "participants"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "ART.AX3",
+   "type": "link"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "CH.nhi.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "SEC-001",
+   "type": "link"
+  },
+  {
+   "s": "ROM",
+   "t": "ROM.TN",
+   "type": "link"
+  },
+  {
    "s": "SELF",
    "t": "SELF.thuyen",
    "type": "link"
@@ -3329,11 +3394,6 @@
   {
    "s": "CH.nhi.beliefs",
    "t": "ART.AX3",
-   "type": "link"
-  },
-  {
-   "s": "CH.nhi.beliefs",
-   "t": "CH.thuyen.beliefs",
    "type": "link"
   },
   {
@@ -3489,11 +3549,6 @@
   {
    "s": "CH.thuyen.beliefs",
    "t": "FN.thuyen.luoi-co-chon-loc",
-   "type": "link"
-  },
-  {
-   "s": "CH.thuyen.beliefs",
-   "t": "CH.nhi.beliefs",
    "type": "link"
   },
   {
@@ -4723,6 +4778,11 @@
   },
   {
    "s": "kien-truc-framework",
+   "t": "ROM.TN",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
    "t": "thuyen-nhi",
    "type": "ref"
   },
@@ -5822,6 +5882,16 @@
    "type": "ref"
   },
   {
+   "s": "ROM.TN",
+   "t": "SCH.node",
+   "type": "ref"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
    "s": "SELF.thuyen",
    "t": "thuyen-co-may",
    "type": "ref"
@@ -6274,11 +6344,6 @@
   {
    "s": "CH.nhi.beliefs",
    "t": "SCH.belief",
-   "type": "ref"
-  },
-  {
-   "s": "CH.nhi.beliefs",
-   "t": "01-rules-viet",
    "type": "ref"
   },
   {

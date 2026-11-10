@@ -23,6 +23,7 @@ Header: `parent` (exactly **one**), `participants` (links to `CH.`, `GRP.`, `SET
 | `arc` | one paragraph: where it starts, where it ends, what changes in the people |
 | `goals` | inline goals `<node>.G<n>` (schemas/goal.md), each `serves` a goal of the parent |
 | `weight` | level per phase (`config/levels.md`): `OPEN`, `P1`, `P2`, `BREAK`, `AFTER`, `POST`. **The node owns this value** |
+| `mirror` | the contrast the relationship runs on (premise, `pairs`, `meeting`, `crossing`, `breaks`, `samples`). **Depends one way on the participants' beliefs and functions**: it links to them, they never link back. Edit a belief in its character package; the mirror only assembles `agreed 10/11` |
 | `relation` | per phase × direction: what they are to each other, who knows what, step on `SCALE.rom` / `SCALE.exl` |
 | `state` | attributes this node owns, per person × phase |
 | `voice` | per person × phase: narration register (`REG.*`), dialogue voice |
