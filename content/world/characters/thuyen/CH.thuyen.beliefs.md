@@ -314,7 +314,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **deviation:** Protagoras nói mọi người đều là thước; Thuyên áp câu ấy cho người khác, trừ mình ra.
 - **seen:** `thay`
 - **monologue:**
-  - `ngo-nhan` · lớp 6–7: *Mình đã hơn nó về điểm số, mà mạ vẫn khẳng định nó hơn. Vậy cái mạ dùng để so sánh không phải là điểm số. Có một tiêu chuẩn khác mà mình không nhìn thấy, và tiêu chuẩn ấy nằm trong tay mạ, không nằm trong bài làm của mình.*
+  - `ngo-nhan` · lớp 6–7: *Mình đã hơn nó về điểm số, mà mẹ vẫn khẳng định nó hơn. Vậy cái mẹ dùng để so sánh không phải là điểm số. Có một tiêu chuẩn khác mà mình không nhìn thấy, và tiêu chuẩn ấy nằm trong tay mẹ, không nằm trong bài làm của mình.*
   - `dien-giai` · lớp 11: *Thước đo của người khác là thứ chủ quan: họ cầm, họ đặt vạch, họ dời vạch theo ý muốn. Cố gắng đạt tới vạch của họ là đuổi theo một mục tiêu di động. Vì vậy tao không chạy theo thước của ai nữa. Tao dùng cân của tao, thứ chỉ đo dữ kiện.*
 - **other-face:** none
 - **axis · step:** AX3

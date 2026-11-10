@@ -270,7 +270,7 @@ Dò → tự sửa → dò → bỏ lửng → lật sai. Người đọc thấy
 2. **Tự sửa** loại từng giả thuyết bằng dữ kiện, giọng phẳng: *Không, chắc chắn là…*
 3. **Vì vậy** chốt một quy tắc lệch tiêu cực: cú lật sai mang hình dạng logic.
 
-> *Liệu mạ muốn con mười. Có thể. Nhưng có mười thì vẫn còn một chỗ trống khác. Không, chắc chắn không phải điểm. Thứ mạ muốn là cái chỗ trống. Vì vậy, đi bao nhiêu cũng không đến.*
+> *Liệu mẹ muốn con mười. Có thể. Nhưng có mười thì vẫn còn một chỗ trống khác. Không, chắc chắn không phải điểm. Thứ mẹ muốn là cái chỗ trống. Vì vậy, đi bao nhiêu cũng không đến.*
 
 > *Liệu khán giả muốn nghe chuyện thật. Có thể. Không, chắc chắn là không: chuyện thật không có tiếng vỗ tay. Vì vậy, anh gõ lại câu ấy.*
 
