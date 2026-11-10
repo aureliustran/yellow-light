@@ -2340,6 +2340,86 @@
    "effective": ""
   },
   {
+   "id": "CH.nhi.beliefs",
+   "path": "world/characters/nhi/CH.nhi.beliefs.md",
+   "title": "CH.nhi.beliefs · Niềm tin của Nhi",
+   "layer": "world",
+   "kind": "character",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "CH.nhi",
+   "path": "world/characters/nhi/CH.nhi.md",
+   "title": "CH.nhi · Nhi",
+   "layer": "world",
+   "kind": "character",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "CH.nhi.voice",
+   "path": "world/characters/nhi/CH.nhi.voice.md",
+   "title": "CH.nhi.voice · Giọng nền của Nhi",
+   "layer": "world",
+   "kind": "character",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "CH.nhi.mechanics",
+   "path": "world/characters/nhi/mechanics/CH.nhi.mechanics.md",
+   "title": "CH.nhi.mechanics · Cơ chế của Nhi",
+   "layer": "world",
+   "kind": "character",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.nhi.cam",
+   "path": "world/characters/nhi/mechanics/FN.nhi.cam.md",
+   "title": "FN.nhi.cam",
+   "layer": "world",
+   "kind": "function",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.nhi.cong-cu",
+   "path": "world/characters/nhi/mechanics/FN.nhi.cong-cu.md",
+   "title": "FN.nhi.cong-cu",
+   "layer": "world",
+   "kind": "function",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.nhi.phan-khang",
+   "path": "world/characters/nhi/mechanics/FN.nhi.phan-khang.md",
+   "title": "FN.nhi.phan-khang",
+   "layer": "world",
+   "kind": "function",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.nhi.thich",
+   "path": "world/characters/nhi/mechanics/FN.nhi.thich.md",
+   "title": "FN.nhi.thich",
+   "layer": "world",
+   "kind": "function",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "CH.thuyen.beliefs",
    "path": "world/characters/thuyen/CH.thuyen.beliefs.md",
    "title": "CH.thuyen.beliefs · Niềm tin của Thuyên",
@@ -2496,6 +2576,96 @@
    "layer": "world",
    "kind": "function",
    "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "CH.vu.beliefs",
+   "path": "world/characters/vu/CH.vu.beliefs.md",
+   "title": "CH.vu.beliefs · Niềm tin của Vũ",
+   "layer": "world",
+   "kind": "character",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "CH.vu",
+   "path": "world/characters/vu/CH.vu.md",
+   "title": "CH.vu · Vũ",
+   "layer": "world",
+   "kind": "character",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "CH.vu.voice",
+   "path": "world/characters/vu/CH.vu.voice.md",
+   "title": "CH.vu.voice · Giọng nền của Vũ",
+   "layer": "world",
+   "kind": "character",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "CH.vu.mechanics",
+   "path": "world/characters/vu/mechanics/CH.vu.mechanics.md",
+   "title": "CH.vu.mechanics · Cơ chế của Vũ",
+   "layer": "world",
+   "kind": "character",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.vu.lat",
+   "path": "world/characters/vu/mechanics/FN.vu.lat.md",
+   "title": "FN.vu.lat",
+   "layer": "world",
+   "kind": "function",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.vu.thuong-bang-hanh-dong",
+   "path": "world/characters/vu/mechanics/FN.vu.thuong-bang-hanh-dong.md",
+   "title": "FN.vu.thuong-bang-hanh-dong",
+   "layer": "world",
+   "kind": "function",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "GRP.hoi-dong-nhi",
+   "path": "world/groups/GRP.hoi-dong-nhi.md",
+   "title": "GRP.hoi-dong-nhi · Hội đồng quản trị của Nhi",
+   "layer": "world",
+   "kind": "group",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SEC-001",
+   "path": "world/secrets/SEC-001.md",
+   "title": "SEC-001 · Thân phận Nhi",
+   "layer": "world",
+   "kind": "secret",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SEC-002",
+   "path": "world/secrets/SEC-002.md",
+   "title": "SEC-002 · Lượt 2 mai mối",
+   "layer": "world",
+   "kind": "secret",
+   "status": "locked",
    "weight": {},
    "effective": ""
   },
@@ -3142,6 +3312,121 @@
    "type": "link"
   },
   {
+   "s": "CH.nhi.beliefs",
+   "t": "CH.nhi",
+   "type": "parent"
+  },
+  {
+   "s": "CH.nhi.beliefs",
+   "t": "SEC-002",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi",
+   "t": "CH.nhi.mechanics",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi",
+   "t": "CH.nhi.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi",
+   "t": "CH.nhi.voice",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi",
+   "t": "SEC-001",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi",
+   "t": "SEC-002",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi",
+   "t": "GRP.hoi-dong-nhi",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.voice",
+   "t": "CH.nhi",
+   "type": "parent"
+  },
+  {
+   "s": "CH.nhi.voice",
+   "t": "FN.nhi.cong-cu",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.voice",
+   "t": "FN.nhi.phan-khang",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.voice",
+   "t": "FN.nhi.cam",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.mechanics",
+   "t": "CH.nhi",
+   "type": "parent"
+  },
+  {
+   "s": "CH.nhi.mechanics",
+   "t": "FN.nhi.cong-cu",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.mechanics",
+   "t": "FN.nhi.cam",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.mechanics",
+   "t": "FN.nhi.thich",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.mechanics",
+   "t": "FN.nhi.phan-khang",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.mechanics",
+   "t": "CH.nhi.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "FN.nhi.cam",
+   "t": "CH.nhi.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.nhi.cong-cu",
+   "t": "CH.nhi.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.nhi.phan-khang",
+   "t": "CH.nhi.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.nhi.thich",
+   "t": "CH.nhi.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.nhi.thich",
+   "t": "ART.AX3",
+   "type": "link"
+  },
+  {
    "s": "CH.thuyen.beliefs",
    "t": "CH.thuyen",
    "type": "parent"
@@ -3320,6 +3605,106 @@
    "s": "FN.thuyen.thieu",
    "t": "CH.thuyen.mechanics",
    "type": "parent"
+  },
+  {
+   "s": "CH.vu.beliefs",
+   "t": "CH.vu",
+   "type": "parent"
+  },
+  {
+   "s": "CH.vu.beliefs",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "CH.vu",
+   "t": "CH.vu.mechanics",
+   "type": "link"
+  },
+  {
+   "s": "CH.vu",
+   "t": "CH.vu.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "CH.vu",
+   "t": "CH.vu.voice",
+   "type": "link"
+  },
+  {
+   "s": "CH.vu",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "CH.vu.voice",
+   "t": "CH.vu",
+   "type": "parent"
+  },
+  {
+   "s": "CH.vu.mechanics",
+   "t": "CH.vu",
+   "type": "parent"
+  },
+  {
+   "s": "CH.vu.mechanics",
+   "t": "FN.vu.thuong-bang-hanh-dong",
+   "type": "link"
+  },
+  {
+   "s": "CH.vu.mechanics",
+   "t": "FN.vu.lat",
+   "type": "link"
+  },
+  {
+   "s": "FN.vu.lat",
+   "t": "CH.vu.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.vu.thuong-bang-hanh-dong",
+   "t": "CH.vu.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.vu.thuong-bang-hanh-dong",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "FN.vu.thuong-bang-hanh-dong",
+   "t": "CH.thuyen.mechanics",
+   "type": "link"
+  },
+  {
+   "s": "GRP.hoi-dong-nhi",
+   "t": "CH.nhi",
+   "type": "members"
+  },
+  {
+   "s": "GRP.hoi-dong-nhi",
+   "t": "CH.nhi.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "GRP.hoi-dong-nhi",
+   "t": "SEC-001",
+   "type": "link"
+  },
+  {
+   "s": "SEC-001",
+   "t": "CH.nhi",
+   "type": "link"
+  },
+  {
+   "s": "SEC-001",
+   "t": "GRP.hoi-dong-nhi",
+   "type": "link"
+  },
+  {
+   "s": "SEC-002",
+   "t": "CH.nhi.beliefs",
+   "type": "link"
   },
   {
    "s": "00-quyet-dinh-v2",
@@ -3772,11 +4157,6 @@
    "type": "ref"
   },
   {
-   "s": "ART.0",
-   "t": "nhi",
-   "type": "ref"
-  },
-  {
    "s": "ART.AX3",
    "t": "goc",
    "type": "ref"
@@ -4218,7 +4598,22 @@
   },
   {
    "s": "kien-truc-framework",
+   "t": "CH.nhi",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
    "t": "nhi",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "CH.nhi.beliefs",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "CH.vu",
    "type": "ref"
   },
   {
@@ -5407,8 +5802,8 @@
    "type": "ref"
   },
   {
-   "s": "tuyen/qua-khu/README",
-   "t": "nhi",
+   "s": "nhi",
+   "t": "tuyen/qua-khu/README",
    "type": "ref"
   },
   {
@@ -5757,6 +6152,16 @@
    "type": "ref"
   },
   {
+   "s": "CH.nhi",
+   "t": "CFG.calendar",
+   "type": "ref"
+  },
+  {
+   "s": "CH.nhi",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
    "s": "CH.thuyen",
    "t": "CFG.calendar",
    "type": "ref"
@@ -5884,6 +6289,16 @@
   {
    "s": "FN.thuyen.thieu",
    "t": "thuyen-co-may",
+   "type": "ref"
+  },
+  {
+   "s": "GRP.hoi-dong-nhi",
+   "t": "02-hoi-dong-nhi",
+   "type": "ref"
+  },
+  {
+   "s": "SEC-001",
+   "t": "q-001-thuyen-biet-than-phan-nhi",
    "type": "ref"
   },
   {

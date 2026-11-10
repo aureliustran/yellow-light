@@ -4,7 +4,7 @@ kind: character
 status: agreed
 updated: 2026-11-10
 aliases: [niềm tin Thuyên, NT Thuyên]
-exports: [BL-001, BL-002, BL-003, BL-004, BL-005, BL-006, BL-007, BL-008, BL-009, BL-010, BL-011, BL-012, BL-013, BL-014, BL-015, BL-016, BL-017, BL-018, BL-019, BL-020, BL-021, BL-022, BL-023, BL-024, BL-025, BL-026, BL-027, BL-029, BL-030, BL-031, BL-032, BL-033]
+exports: [BL-001, BL-002, BL-003, BL-004, BL-005, BL-006, BL-007, BL-008, BL-009, BL-010, BL-011, BL-012, BL-013, BL-014, BL-015, BL-016, BL-017, BL-018, BL-019, BL-020, BL-021, BL-022, BL-023, BL-024, BL-025, BL-026, BL-027, BL-029, BL-030, BL-031, BL-032, BL-033, BL-034]
 parent: "[[CH.thuyen]]"
 sources: [tuyen/qua-khu/README.md §4, tuyen/qua-khu/thuyen.md §1, §4, §6, tuyen/qua-khu/thuyen-hai-cai-toi.md §11, tuyen/qua-khu/thuyen-da-nhan-cach.md §7, tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §4.5, de-xuat/qk-t-plan-viet-lai-quang-1-v3.md §0]
 ---

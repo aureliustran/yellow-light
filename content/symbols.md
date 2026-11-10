@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 110 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
+Có phần đầu (frontmatter): 127 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -13,10 +13,22 @@ Có phần đầu (frontmatter): 110 file. Chưa chuyển sang khuôn mới (leg
 | `CFG.levels` | `config` | `proposed` | `config/levels.md` | Mức đo **độ cần thiết** của một tuyến, node hoặc giao điểm đối với truyện **trong một giai đoạn**. Không đo độ hay của chất liệu. |
 | `CFG.phases` | `config` | `proposed` | `config/phases.md` | Chiều thời gian của star schema. Mọi giá trị động (weight, relation, state, voice, hiệu lực luật) được ghi **theo giai đoạn**. Thứ tự cố … |
 | `CFG.statuses` | `config` | `proposed` | `config/statuses.md` | Mỗi dòng, mỗi file mang một trạng thái. Trạng thái là mức ổn định: tầng nào dựa vào tầng nào thì không được ổn định hơn nó. |
+| `CH.nhi` | `character` | `agreed` | `world/characters/nhi/CH.nhi.md` | Nữ chính. Tiểu thư nổi loạn của một gia đình siêu giàu xếp chỗ cho cô; mặc định là "ranh con" (khéo cộng đanh đá), có ván riêng là shop v… |
+| `CH.nhi.beliefs` | `character` | `locked` | `world/characters/nhi/CH.nhi.beliefs.md` | Mỗi niềm tin là một mục `### BL-NNN`; mã cũ `NT-nn` là alias (`NT-40` = `BL-040`). Dải của Nhi: `BL-040` … `BL-044`; `BL-045` … `BL-049` … |
+| `CH.nhi.mechanics` | `character` | `agreed` | `world/characters/nhi/mechanics/CH.nhi.mechanics.md` | Chữ ký mọi hàm, mỗi hàm một dòng. Thân từng hàm ở `FN.nhi.<tên>.md` trong thư mục này. |
+| `CH.nhi.voice` | `character` | `agreed` | `world/characters/nhi/CH.nhi.voice.md` | Tầng thấp nhất của chuỗi giọng. Giọng với từng người (Thuyên, Phong, hội đồng, Khải) là của node quan hệ. Kỹ thuật chi tiết sẽ thành `TEC… |
 | `CH.thuyen` | `character` | `agreed` | `world/characters/thuyen/CH.thuyen.md` | Nam chính, POV chính. Một chàng trai giỏi đọc người, mù với chính mình, chạy bằng một cỗ máy hiện sinh mà nhiên liệu là sự công nhận. |
 | `CH.thuyen.beliefs` | `character` | `agreed` | `world/characters/thuyen/CH.thuyen.beliefs.md` | Mỗi niềm tin là một mục `### BL-NNN`. Mã cũ `NT-nn` là alias (`NT-24` = `BL-024`). `consumed-by` sẽ sinh từ trường `beliefs` của tình tiế… |
 | `CH.thuyen.mechanics` | `character` | `agreed` | `world/characters/thuyen/mechanics/CH.thuyen.mechanics.md` | Sơ đồ và chữ ký mọi hàm, mỗi hàm một dòng. Thân từng hàm ở `FN.thuyen.<tên>.md` trong thư mục này. |
 | `CH.thuyen.voice` | `character` | `locked` | `world/characters/thuyen/CH.thuyen.voice.md` | Tầng thấp nhất của chuỗi giọng: tình tiết > node × giai đoạn > `SELF.thuyen` × giai đoạn > **giọng nền (file này)**. Giọng với từng người… |
+| `CH.vu` | `character` | `agreed` | `world/characters/vu/CH.vu.md` | Bạn thân của Thuyên, "hội đồng một người" của anh. Yêu bằng hành động, nói thẳng, không ghen; biết mọi việc đã xảy ra với Thuyên mà không… |
+| `CH.vu.beliefs` | `character` | `agreed` | `world/characters/vu/CH.vu.beliefs.md` | Dải của Vũ bắt đầu từ `BL-050`. |
+| `CH.vu.mechanics` | `character` | `agreed` | `world/characters/vu/mechanics/CH.vu.mechanics.md` | CH.vu.mechanics · Cơ chế của Vũ |
+| `CH.vu.voice` | `character` | `agreed` | `world/characters/vu/CH.vu.voice.md` | **Mục:** `dialogue` · `narration` · `lexicon` · `forbidden`. |
+| `FN.nhi.cam` | `function` | `proposed` | `world/characters/nhi/mechanics/FN.nhi.cam.md` | Thấu cảm là tri giác chính. Cô cảm được điều người khác giấu, gọi tên được cảm xúc, nhưng hiểu sai *vì sao*. |
+| `FN.nhi.cong-cu` | `function` | `locked` | `world/characters/nhi/mechanics/FN.nhi.cong-cu.md` | Chọn công cụ theo tình huống. **Khéo + đanh đá = ranh con**: khéo một mình ra người ngoan, đanh đá một mình ra người chua; cộng lại mới r… |
+| `FN.nhi.phan-khang` | `function` | `proposed` | `world/characters/nhi/mechanics/FN.nhi.phan-khang.md` | Phản kháng làm cỗ máy với Thuyên: chê thì cãi, khen thì đẩy ra, chọc thì đấm. |
+| `FN.nhi.thich` | `function` | `proposed` | `world/characters/nhi/mechanics/FN.nhi.thich.md` | Cô thích người ta bằng ba gu, đo bằng một cái thước tự khai năm 16 tuổi. Cái thước sai; gu thật không sai, cô chỉ hình dung sai hình dạng… |
 | `FN.thuyen.adhd` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.adhd.md` | Tầng dưới cùng: hệ thần kinh chạy bằng hứng thú, dạng kết hợp. Không thay hai cái tôi, không thay đòn roi; mọi thứ khác đắp lên nó. |
 | `FN.thuyen.cai-goi` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.cai-goi.md` | Bộ phận bị khóa: cái gối, người duy nhất ở lại với con người thật nhất của anh. Cần được ôm, được nghe khóc, được ghi nhận cái cố. |
 | `FN.thuyen.cai-toi` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.cai-toi.md` | Hai cái tôi trên cùng một động cơ áp suất chênh lệch: cái tôi lành (cái cân, cố vì mình) và cái tôi độc (tiền mua tình thương, thuốc giảm… |
@@ -29,6 +41,9 @@ Có phần đầu (frontmatter): 110 file. Chưa chuyển sang khuôn mới (leg
 | `FN.thuyen.quan-su` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.quan-su.md` | Quân sư giỏi cho người khác, mù cho chính mình. |
 | `FN.thuyen.teu` | `function` | `proposed` | `world/characters/thuyen/mechanics/FN.thuyen.teu.md` | Van xả: tếu. Xả áp cạnh người thân mà không mở khóa. Ba số: Ngạo, Trào, Song. |
 | `FN.thuyen.thieu` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.thieu.md` | Đầu vào của cỗ máy: cái thiếu bị chối hai lần, trong nhà không ai thấy, ngoài nhà bảo là sướng. |
+| `FN.vu.lat` | `function` | `proposed` | `world/characters/vu/mechanics/FN.vu.lat.md` | Vũ không tính; Vũ nói thẳng. Thuyên đưa ra một cái cớ hợp lý, Vũ lật nó bằng một câu. |
+| `FN.vu.thuong-bang-hanh-dong` | `function` | `locked` | `world/characters/vu/mechanics/FN.vu.thuong-bang-hanh-dong.md` | in Vũ thích một cô gái, hoặc thương một người bạn |
+| `GRP.hoi-dong-nhi` | `group` | `agreed` | `world/groups/GRP.hoi-dong-nhi.md` | Ba người bạn thân của Nhi, nhóm chat *HĐQT 🎀*. Phản đối Thuyên vì gia thế không xứng; càng phá càng bất lực, càng có cảm tình. |
 | `GUIDE.invariants` | `guide` | `draft` | `guidelines/invariants.md` | Rules that always hold. Machine-checked ones name their check (`docs/framework/tooling.md`); the rest are checked by you before saying "d… |
 | `GUIDE.main` | `guide` | `draft` | `GUIDELINES.md` | Read this first in every session. It says how to work on the story. For what the system *is* (entities, ids, inheritance, tooling), look … |
 | `GUIDE.old-workflow` | `guide` | `superseded` | `quy-trinh.md` | Oct 25, 2026 · @aureliustran. Cách tác giả và Claude làm việc với nhau, theo từng loại việc. Kiến trúc nền: `kien-truc.md`. |
@@ -100,6 +115,8 @@ Có phần đầu (frontmatter): 110 file. Chưa chuyển sang khuôn mới (leg
 | `SCH.setting` | `schema` | `proposed` | `schemas/setting.md` | A place, a recurring space. **Location:** `world/settings/SET.<name>.md`. **Id:** `SET.<name>`. Header: `parent` (larger setting, if any). |
 | `SCH.spec` | `schema` | `proposed` | `schemas/spec.md` | A specification page of the framework or the app. **Location:** `docs/**`. **Id:** `SPEC.<name>`. |
 | `SCH.technique` | `schema` | `proposed` | `schemas/technique.md` | A sentence- or paragraph-level method that achieves a law or a register. See [library](../../docs/framework/library.md). |
+| `SEC-001` | `secret` | `agreed` | `world/secrets/SEC-001.md` | Nhi là con gái Chủ tịch tập đoàn Astrea và em gái Khải, Tổng giám đốc ([[CH.nhi]]). |
+| `SEC-002` | `secret` | `locked` | `world/secrets/SEC-002.md` | Sau khi lượt 1 thất bại (2021), bố mẹ Nhi ngầm tạo điều kiện cho Phong, người có cảm tình với Nhi và có phụ huynh là đối tác của Astrea, … |
 | `SELF` | `node` | `agreed` | `storylines/self/SELF.md` | Gốc của các node `SELF.<id>`: mỗi nhân vật có hiện sinh một node, làm chủ thuộc tính nội tâm của người ấy theo giai đoạn. |
 | `SELF.thuyen` | `node` | `agreed` | `storylines/self/SELF.thuyen.md` | Làm chủ các thuộc tính nội tâm của [[CH.thuyen]] theo giai đoạn: `exl`, `cai-toi-doc`, `lang-kinh`, `cai-goi`, `luc-keo`, `luc-day`, và g… |
 | `SPEC.adr-001` | `spec` | `agreed` | `docs/framework/adr/ADR-001-story-framework.md` | Before the framework (state of early November 2026): |
