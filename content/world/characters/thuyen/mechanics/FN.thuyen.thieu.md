@@ -9,7 +9,7 @@ sources: [tuyen/qua-khu/thuyen-co-may.md §2–3, tuyen/qua-khu/thuyen.md §6.9 
 ---
 # FN.thuyen.thieu
 
-Đầu vào của cỗ máy: cái thiếu bị chối hai lần, trong nhà không ai thấy, ngoài nhà bảo là sướng.
+Đầu vào của cỗ máy: cái thiếu bị chối hai lần: người trong gia đình không nhận ra, người ngoài cho rằng anh sung sướng.
 
 ```
 in        tuổi thơ chỉ có đòn roi, quát mắng, cảm giác vô dụng; không ai dìu dắt; không ai nói "con đã cố"

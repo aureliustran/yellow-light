@@ -37,7 +37,7 @@ Từ áp suất không (không ai nói "con đã cố") tới một chàng sinh 
 
 ### PAST.T.G3 · Quãng 3: Hòa khí (đại học → hết thực tập)
 
-- **statement:** Cho thấy kết quả (một Thuyên có hòa khí, được cần mà không được biết) trước nguyên nhân; nấc 7.
+- **statement:** Cho thấy kết quả (một Thuyên có hòa khí, được cần đến mà không được biết đến) trước nguyên nhân; nấc 7.
 - **serves:** [[PAST]] PAST.G1 · AX2, AX4
 - **status:** `agreed`
 - **lên trang:** 04a *Cô độc*, 04aa *Mỏi mệt*, 04c *Hoang mang* (`page`)

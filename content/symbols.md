@@ -40,7 +40,7 @@ Có phần đầu (frontmatter): 130 file. Chưa chuyển sang khuôn mới (leg
 | `FN.thuyen.phuong-trinh` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.phuong-trinh.md` | Bộ chuyển đổi: giỏi = được thương, thiếu = chưa đủ giỏi. Trên nó dựng hệ giá trị tự sửa bốn tầng. |
 | `FN.thuyen.quan-su` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.quan-su.md` | Quân sư giỏi cho người khác, mù cho chính mình. |
 | `FN.thuyen.teu` | `function` | `proposed` | `world/characters/thuyen/mechanics/FN.thuyen.teu.md` | Van xả: tếu. Giải tỏa áp lực bên cạnh người thân mà không phải mở khóa. Ba số: Ngạo, Trào, Song. |
-| `FN.thuyen.thieu` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.thieu.md` | Đầu vào của cỗ máy: cái thiếu bị chối hai lần, trong nhà không ai thấy, ngoài nhà bảo là sướng. |
+| `FN.thuyen.thieu` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.thieu.md` | Đầu vào của cỗ máy: cái thiếu bị chối hai lần: người trong gia đình không nhận ra, người ngoài cho rằng anh sung sướng. |
 | `FN.vu.lat` | `function` | `proposed` | `world/characters/vu/mechanics/FN.vu.lat.md` | Vũ không tính toán; Vũ nói thẳng. Thuyên đưa ra một cái cớ hợp lý, Vũ lật ngược nó bằng một câu duy nhất. |
 | `FN.vu.thuong-bang-hanh-dong` | `function` | `locked` | `world/characters/vu/mechanics/FN.vu.thuong-bang-hanh-dong.md` | in Vũ thích một cô gái, hoặc thương một người bạn |
 | `GRP.hoi-dong-nhi` | `group` | `agreed` | `world/groups/GRP.hoi-dong-nhi.md` | Ba người bạn thân của Nhi, nhóm chat *HĐQT 🎀*. Phản đối Thuyên vì gia thế không xứng; càng phá càng bất lực, càng có cảm tình. |

@@ -43,7 +43,7 @@ Các điều lấy căn cứ ở **thành tố**, không ở câu gốc. Câu g�
 
 ### ART.AX3.3
 
-- **statement:** Chỗ hỏng không nằm ở phép đo; nó nằm ở chỗ lực đẩy góp tay đặt mục tiêu.
+- **statement:** Chỗ hỏng không nằm ở phép đo; nó nằm ở việc lực đẩy tham gia vào khâu đặt mục tiêu.
 - **basis:** động cơ · mục tiêu, vạch đích
 - **forbids:** coi phép đo của Thuyên là sai số; để anh thấy lực đẩy sau phiên bản lý tưởng trước điểm gãy (G3 của [[SELF.thuyen]])
 - **applies-to:** `CH.thuyen`, `SELF.thuyen`, mọi giai đoạn có plan
@@ -51,7 +51,7 @@ Các điều lấy căn cứ ở **thành tố**, không ở câu gốc. Câu g�
 
 ### ART.AX3.4
 
-- **statement:** Kẻ bị đo về sau đo người khác; truyện không tha chỉ vì có lý do.
+- **statement:** Kẻ bị đo về sau đo người khác; câu chuyện không tha thứ chỉ vì họ có lý do.
 - **basis:** chuyển hóa
 - **forbids:** dùng quá khứ bị đo để xóa giá của việc đo người khác; lời kể bào chữa cho người cầm thước
 - **applies-to:** tình tiết có `pov = CH.thuyen` từ P2; mọi nhân vật từng bị đo

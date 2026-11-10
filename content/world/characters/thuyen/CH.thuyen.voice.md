@@ -18,9 +18,9 @@ Tầng thấp nhất của chuỗi giọng: tình tiết > node × giai đoạn 
 
 **Nền: tinh ý thì không lạnh** `locked`. Không bao giờ lạnh lùng hay cộc; nói vừa đủ.
 
-- Mỗi lượt thoại hai lớp: phần cần nói + một lớp người (đồng cảm: nói trúng cái người kia chưa nói; hoặc chọc ngoáy: một câu trêu, một cú mỉa nhẹ). Thường một đến ba câu ngắn.
+- Mỗi lượt thoại hai lớp: phần cần nói + một lớp người (đồng cảm: nói trúng điều đối phương chưa nói ra; hoặc chọc ngoáy: một câu trêu, một cú mỉa nhẹ). Thường một đến ba câu ngắn.
 - Tránh câu trơ trọi một chữ ("Ừ.", "Không.") đứng một mình, trừ khi có chủ đích (né, căng, giấu, nhịp hài) và cảnh cho thấy chủ đích ấy.
-- Né không phải là cộc: né bằng câu đùa, trả lời một nửa, đổi chủ đề mềm; chỉ người tinh mới thấy là né.
+- Né tránh không đồng nghĩa với cộc: né tránh bằng câu đùa, trả lời một nửa, chuyển hướng đề tài nhẹ nhàng; chỉ người tinh ý mới nhận ra đó là né tránh.
 - Tin nhắn: viết tắt, không dấu câu chuẩn, nhưng không trả lời như bot.
 - Kiểm nhanh: bỏ câu này đi, người đối diện có thấy anh lạnh không? Có thì thêm lớp người. Quá ba câu mà không giảng bài, không cãi thì cắt.
 - Ngoại lệ có chủ đích: giai đoạn biến chất (cụt dần với người thân), trầm cảm (nói ít vì cạn), lúc cố tình làm đau. Khi đó cụt là tín hiệu.

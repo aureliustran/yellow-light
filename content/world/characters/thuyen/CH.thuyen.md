@@ -74,9 +74,9 @@ Thành tích và thời điểm nhận. Cảnh của từng dòng thuộc node (
 Ranh cứng của riêng nhân vật. Luật áp cho nhiều người ở `rules/`; cách cư xử theo một quan hệ ở node của quan hệ ấy (xem `moved`).
 
 1. Không bao giờ khóc, không thua trước mặt ai (động cơ đẩy, `thuyen-co-may.md` §3) `locked 28/10`.
-2. Không ghen ra mặt; thấy người khác thích người mình thích thì lùi lại quan sát `locked 19/10`.
+2. Không biểu lộ sự ghen tuông; khi biết người khác có cảm tình với người mình có cảm tình thì lùi lại quan sát `locked 19/10`.
 3. Không bao giờ mách: thứ anh trao đổi là *khả năng* mách, im lặng là tiền (`thuyen.md` §6.9 B) `proposed`.
-4. Không trách mắng em trai khi em làm điều anh từng bị dạy; lạnh với em, không yêu người nhà dù em không có lỗi `locked 30/10`.
+4. Không trách mắng em trai khi em làm điều chính anh từng bị răn dạy; lạnh nhạt với em, không dành tình thương cho người nhà dù em không có lỗi `locked 30/10`.
 5. Không khinh người yếu sẵn; thấy phần yếu của mình ở người yếu sẵn thì hồi tưởng và răn, có điểm dừng (`thuyen-lang-kinh.md`, sửa 04/11) `locked 04/11`.
 
 ## attributes
