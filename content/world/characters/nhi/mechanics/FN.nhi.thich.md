@@ -9,7 +9,7 @@ sources: [tuyen/qua-khu/nhi.md §1.6 (locked 30–31/10), 03-kho-nhi-thich-thuye
 ---
 # FN.nhi.thich
 
-Cô thích người ta bằng ba gu, đo bằng một cái thước tự khai năm 16 tuổi. Cái thước sai; gu thật không sai, cô chỉ hình dung sai hình dạng của nó.
+Cô rung động theo ba gu, và thẩm định bằng một cây thước tự khai năm mười sáu tuổi. Cây thước sai lệch; gu thật thì không sai, cô chỉ hình dung sai hình dạng của nó.
 
 ```
 in        một người; hành vi của người ấy so với khuôn cô xếp

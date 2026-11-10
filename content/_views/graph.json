@@ -3318,6 +3318,26 @@
   },
   {
    "s": "CH.nhi.beliefs",
+   "t": "FN.nhi.cam",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.beliefs",
+   "t": "SEC-001",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.beliefs",
+   "t": "FN.nhi.thich",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.beliefs",
+   "t": "ART.AX3",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.beliefs",
    "t": "SEC-002",
    "type": "link"
   },
@@ -6237,6 +6257,11 @@
    "type": "ref"
   },
   {
+   "s": "CH.nhi.beliefs",
+   "t": "SCH.belief",
+   "type": "ref"
+  },
+  {
    "s": "CH.nhi",
    "t": "CFG.calendar",
    "type": "ref"
@@ -6389,6 +6414,11 @@
   {
    "s": "FN.thuyen.thieu",
    "t": "thuyen-co-may",
+   "type": "ref"
+  },
+  {
+   "s": "CH.vu.beliefs",
+   "t": "SCH.belief",
    "type": "ref"
   },
   {

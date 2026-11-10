@@ -9,7 +9,7 @@ sources: [brief-tinh-cam-thuyen-nhi.md §3 (proposed), canon/bible-v2.md §4.2, 
 ---
 # FN.nhi.phan-khang
 
-Phản kháng làm cỗ máy với Thuyên: chê thì cãi, khen thì đẩy ra, chọc thì đấm.
+Phản kháng là cơ chế mặc định của cô với Thuyên: bị chê bai thì tranh cãi, được khen ngợi thì gạt đi, bị trêu chọc thì đấm.
 
 ```
 in        câu chê, câu khen, câu chọc của Thuyên

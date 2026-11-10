@@ -9,7 +9,7 @@ sources: [03-kho-nhi-thich-thuyen.md §0 (luật cảm xúc, từ thẻ Nhi), ca
 ---
 # FN.nhi.cam
 
-Thấu cảm là tri giác chính. Cô cảm được điều người khác giấu, gọi tên được cảm xúc, nhưng hiểu sai *vì sao*.
+Thấu cảm là giác quan chủ đạo. Cô cảm nhận được điều người khác che giấu, gọi tên được cảm xúc, nhưng lý giải sai nguyên nhân.
 
 ```
 in        điều người kia giấu (quan tâm, ngượng, buồn), hoặc cảm xúc của chính cô

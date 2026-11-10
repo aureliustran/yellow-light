@@ -9,7 +9,7 @@ sources: [tuyen/qua-khu/nhi.md §1.2 (locked 30–31/10)]
 ---
 # FN.nhi.cong-cu
 
-Chọn công cụ theo tình huống. **Khéo + đanh đá = ranh con**: khéo một mình ra người ngoan, đanh đá một mình ra người chua; cộng lại mới ra một đứa tinh quái. Khéo là công cụ, đanh đá là bản tính.
+Lựa chọn công cụ theo hoàn cảnh. **Khéo léo cộng đanh đá thành ranh con**: khéo léo đơn thuần thì ra người ngoan ngoãn, đanh đá đơn thuần thì ra người chua ngoa; kết hợp lại mới thành một đứa tinh quái. Khéo léo là công cụ, đanh đá là bản tính.
 
 ```
 in        tình huống ∈ {được lợi, cần hòa nhã (không muốn mâu thuẫn), bị lấy quyền lợi, bị chọc cay quá tay}

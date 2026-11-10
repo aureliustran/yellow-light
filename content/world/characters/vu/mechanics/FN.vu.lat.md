@@ -9,7 +9,7 @@ sources: [tuyen/sl/vu.md §3 (proposed), canon/bible-v2.md §4.5]
 ---
 # FN.vu.lat
 
-Vũ không tính; Vũ nói thẳng. Thuyên đưa ra một cái cớ hợp lý, Vũ lật nó bằng một câu.
+Vũ không tính toán; Vũ nói thẳng. Thuyên đưa ra một cái cớ hợp lý, Vũ lật ngược nó bằng một câu duy nhất.
 
 ```
 in        cái cớ của Thuyên (môn đăng hộ đối, chưa đủ, cô ấy không thích mình)

@@ -9,7 +9,7 @@ sources: [tuyen/qua-khu/nhi.md §0, §1.1–1.2, §1.5–1.6, §1.8–1.9 (locke
 ---
 # CH.nhi · Nhi
 
-Nữ chính. Tiểu thư nổi loạn của một gia đình siêu giàu xếp chỗ cho cô; mặc định là "ranh con" (khéo cộng đanh đá), có ván riêng là shop và KOC, và là người gọi tên cảm xúc cho Thuyên.
+Nữ chính. Tiểu thư nổi loạn trong một gia đình siêu giàu luôn sắp đặt chỗ ngồi cho cô; trạng thái mặc định là "ranh con" (khéo léo cộng đanh đá); có một ván cờ riêng là cửa hàng và kênh KOC; và là người gọi tên cảm xúc thay cho Thuyên.
 
 **Mục:** `identity` · `record` · `purpose` · `rules` · `attributes` · `exports` · `moved`. Cơ chế: [[CH.nhi.mechanics]] · niềm tin: [[CH.nhi.beliefs]] · giọng nền: [[CH.nhi.voice]] · thân phận: [[SEC-001]].
 

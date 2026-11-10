@@ -9,7 +9,7 @@ sources: [tuyen/sl/vu.md §1–2 (locked 30/10), canon/bible-v2.md §4.5, de-xua
 ---
 # CH.vu · Vũ
 
-Bạn thân của Thuyên, "hội đồng một người" của anh. Yêu bằng hành động, nói thẳng, không ghen; biết mọi việc đã xảy ra với Thuyên mà không biết bên trong.
+Người bạn thân của Thuyên, "hội đồng một người" của anh. Yêu thương bằng hành động, nói năng thẳng thắn, không ghen tị; biết mọi biến cố đã xảy ra với Thuyên mà không biết thế giới bên trong anh.
 
 **Mục:** `identity` · `record` · `purpose` · `rules` · `attributes` · `exports` · `moved`. Cơ chế: [[CH.vu.mechanics]] · niềm tin: [[CH.vu.beliefs]] · giọng nền: [[CH.vu.voice]].
 
