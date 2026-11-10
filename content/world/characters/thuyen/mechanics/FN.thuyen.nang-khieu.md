@@ -26,7 +26,7 @@ render    none
 
 - **Cái mới nào cũng là cái cũ ghép lại** (từ BL-019, chuyển 10/11): cách tư duy học bằng liên kết, không phải niềm tin. Tiêu thụ cũ: dạy Nhi (bát bún riêu, "quay về"); lab: cầm đầu con voi. Ra đời ở PAST.T *Hiếu thắng* (lớp 10–11).
 - Xuyên truyện: tờ nháp lớp 6 · đội Tin · sân bóng (vài động tác gốc ghép thành chuỗi; đọc dấu hiệu người kèm) · dạy Nhi ("quy mọi thứ ra bát bún riêu"; bước "quay về") · lab ("người duy nhất cầm cái đầu con voi").
-- Mỉa: Toán là môn bố mẹ chọn, mà nó thành hộp đồ nghề cho môn Tin anh tự chọn.
+- Mỉa mai: Toán là môn do bố mẹ lựa chọn, vậy mà môn ấy trở thành hộp đồ nghề cho môn Tin do chính anh lựa chọn.
 
 ## detail
 

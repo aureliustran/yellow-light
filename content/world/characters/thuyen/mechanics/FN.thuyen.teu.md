@@ -9,7 +9,7 @@ sources: [tuyen/qua-khu/thuyen-da-nhan-cach.md §3–5, §8]
 ---
 # FN.thuyen.teu
 
-Van xả: tếu. Xả áp cạnh người thân mà không mở khóa. Ba số: Ngạo, Trào, Song.
+Van xả: tếu. Giải tỏa áp lực bên cạnh người thân mà không phải mở khóa. Ba số: Ngạo, Trào, Song.
 
 ```
 in        một lần suýt lộ cái gối; một lời khen nghiêm; người thân có mặt (bạn sân, Vũ, anh Long)
@@ -26,7 +26,7 @@ render    DV-008 (tếu sau cú chạm, bóc vỏ, người bắt được van x
 ## notes
 
 - **Bộ nhân cách ở QK:** Tếu (người thân) · Dạ (bố mẹ, họ hàng) · Ngoan có tính toán (thầy cô, hội đồng) · Lặng (một mình) `proposed`.
-- **Theo giai đoạn:** GĐ2 Trào-thước đóng lại, Ngạo thành kiêu ngạo im, van đóng; đáy mất cả ba số; hồi phục Trào quay lại trước, Ngạo sau; ngày anh nói được cả hai vế trong một câu là dấu khỏi.
+- **Theo giai đoạn:** GĐ2 Trào-thước đóng lại, Ngạo thành kiêu ngạo im, van đóng; đáy mất cả ba số; hồi phục Trào trở lại trước, Ngạo trở lại sau; thời điểm anh nói được cả hai vế trong một câu là dấu hiệu bình phục.
 - **Luật viết:** lời kể không cười; người nghe cười đúng chỗ Trào-thước, người đọc thì không. Dữ kiện của Ngạo phải có thật.
 - Điểm mù giữ nguyên: anh đùa *về* cây thước, không hỏi *ai* cầm thước.
 
