@@ -12,7 +12,7 @@ sources: [docs/framework/storylines.md, kien-truc-framework.md §8.1]
 
 A **dynamic** entity: a thread with people and events in time, serving at least one axis. Storylines (`ROM`, `PAST`, …) and `SELF.<id>` are nodes too. See [storylines](../../docs/framework/storylines.md).
 
-**Location:** `storylines/<storyline>/<NODE>.md`; its events in `storylines/<storyline>/<NODE>/`. **Id:** `ROM.TN`, `PAST.N.HD`, `SELF.thuyen` (registry: [ids](../../docs/framework/ids.md)).
+**Location:** every node is a **folder** named by its id, holding its definition file `<NODE>/<NODE>.md` `proposed 10/11`. A child node is a subfolder of its parent's folder (`storylines/ROM/ROM.TN/ROM.TN.md`; `PAST/PAST.N/PAST.N.HD/PAST.N.HD.md`). Events are the last level of entity: plain files inside the folder of the node that owns them (`storylines/PAST/PAST.T/PAST.T-001.md`); an event is never a folder. Intersections stay flat in `storylines/intersections/`. **No child id may differ from its parent's definition file only by letter case** (Windows folders are case-insensitive): `THR/THR.md` and a folder `THR/THR.MD/` collide; hence `THR.MD` was renamed `THR.MODEL` (10/11, old id kept as alias). The tree root `TREE` is `storylines/README.md`. **Id:** `ROM.TN`, `PAST.N.HD`, `SELF.thuyen` (registry: [ids](../../docs/framework/ids.md)).
 
 Header: `parent` (exactly **one**), `participants` (links to `CH.`, `GRP.`, `SET.`), `axes`.
 

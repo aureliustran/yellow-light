@@ -31,9 +31,10 @@ content/
 ├── rules/<aspect>/        L1.5 · LAW.<aspect>.*.md ; rules/check/ structural laws
 ├── lib/                   L1.5 · registers/ · <aspect>/TEC.* · patterns/
 ├── world/                 L2 · characters/<id>/ · groups/ · settings/ · objects/ · secrets/
-├── storylines/            L3 · self/ past/ romance/ thriller/ slice-of-life/ family/
-│   ├── <storyline>/<NODE>.md
-│   ├── <storyline>/<NODE>/<NODE>-NNN.md      event leaves
+├── storylines/            L3 · README.md (TREE) · SELF/ PAST/ ROM/ THR/ SOL/ FAM/
+│   ├── <ROOT>/<ROOT>.md                       every node is a folder named by its id
+│   ├── <ROOT>/<NODE>/<NODE>.md                child node = subfolder of its parent
+│   ├── <ROOT>/<NODE>/<NODE>-NNN.md            event leaves: files, never folders
 │   └── intersections/X-NNN.md
 ├── plans/                 L4 · editions · chapters/BP.<edition>.<nn>.md
 ├── posts/                 output

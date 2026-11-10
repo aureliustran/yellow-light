@@ -73,7 +73,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **other-face:** none
 - **axis · step:** EXL 4 · AX3, AX5
 - **origin:** PAST.T 1.8: tủ kính, giấy khen, lớp 8
-- **consumed (nguồn cũ):** THR.MD: "đủ là bao nhiêu"; ROM.TN: chờ ghế 50 triệu mới tỏ tình
+- **consumed (nguồn cũ):** THR.MODEL: "đủ là bao nhiêu"; ROM.TN: chờ ghế 50 triệu mới tỏ tình
 - **status:** `locked 10/11` · alias `NT-07`
 
 ### BL-017

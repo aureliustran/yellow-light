@@ -48,6 +48,6 @@ Files changed; sentences rewritten (count); sentences left unchanged on purpose 
 
 ## Order (first run, 10/11)
 1. `world/characters/thuyen/` (`CH.thuyen.md` opening and `purpose`, `CH.thuyen.voice.md`, `mechanics/` 12 functions and `CH.thuyen.mechanics.md`).
-2. `storylines/self/SELF.thuyen.md`, `storylines/past/PAST.T.md` and `PAST.T-*.md`.
+2. `storylines/SELF/SELF.thuyen/SELF.thuyen.md`, `storylines/PAST/PAST.T/PAST.T.md` and `PAST.T-*.md` in the same folder.
 3. `world/characters/nhi/` (`CH.nhi.md` `purpose`, `CH.nhi.voice.md`, function `notes`), `world/characters/vu/`, `world/groups/`, `world/secrets/`.
 4. `core/constitution/` (`ART.0`, `ART.AX3` articles), `lib/`.

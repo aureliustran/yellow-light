@@ -58,7 +58,7 @@ Chuyá»ƒn sang spec: [`docs/framework/ids.md`](../../docs/framework/ids.md) (ngá»
 | --- | --- | --- | --- | --- | --- |
 | `QK.T` | `PAST.T` | `RM.TN` | `ROM.TN` | `TH.MO` | `THR.MO` |
 | `QK.N` | `PAST.N` | `RM.TD` | `ROM.TD` | `TH.LAB` | `THR.LAB` |
-| `QK.DA` | `PAST.DA` | `RM.PN` | `ROM.PN` | `TH.MD` | `THR.MD` |
+| `QK.DA` | `PAST.DA` | `RM.PN` | `ROM.PN` | `TH.MD` | `THR.MODEL` |
 | `QK.K` | `PAST.K` | `RM.LT` | `ROM.LT` | `TH.LM` | `THR.LM` |
 | `SL.VU` | `SOL.VU` | `RM.VA` | `ROM.VA` | `TH.T18` | `THR.T18` |
 | `SL.SAN` | `SOL.SAN` | `GD.T` | `FAM.T` | `TH.DR` | `THR.DR` |

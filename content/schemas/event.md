@@ -13,7 +13,7 @@ sources: [docs/framework/storylines.md (10/11)]
 
 The **leaf** of a storyline tree: the unit that decides content (what must be written, when, for which goal, under which laws, how). See [storylines](../../docs/framework/storylines.md#event-the-leaf).
 
-**Location:** `storylines/<storyline>/<NODE>/<NODE>-NNN.md`. **Id:** `<node>-NNN` (`ROM.TN-014`). Old event rows are migrated into leaves; the node's events table becomes a generated view.
+**Location:** a file inside the folder of its node: `storylines/…/<NODE>/<NODE>-NNN.md` (`storylines/ROM/ROM.TN/ROM.TN-014.md`). The event is the last level of entity: a file, never a folder. **Id:** `<node>-NNN` (`ROM.TN-014`). Old event rows are migrated into leaves; the node's events table becomes a generated view.
 
 ## Declared part (frontmatter)
 

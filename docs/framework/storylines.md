@@ -28,7 +28,7 @@ A node is a dynamic entity: a thread with people and events in time, serving at 
 
 ## Event: the leaf `proposed 10/11`
 
-An event is one file under its node: `storylines/<storyline>/<NODE>/<NODE>-NNN.md`. It is the unit that decides *content*: what must be written, when, for which goal, under which laws, in which way. Who writes it is decided by the blueprint scene that shows it.
+An event is one file inside its node's folder: `storylines/…/<NODE>/<NODE>-NNN.md`. Every node is a folder named by its id, holding `<NODE>.md` and its child-node subfolders; events are the last level and are always files. It is the unit that decides *content*: what must be written, when, for which goal, under which laws, in which way. Who writes it is decided by the blueprint scene that shows it.
 
 **Declare little, resolve the rest.** The file has two parts:
 

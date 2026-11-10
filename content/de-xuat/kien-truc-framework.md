@@ -61,9 +61,9 @@ File này giờ chỉ giữ phần **chuyển đổi**: kế hoạch gộp (§13
 
 | Đích | Lấy từ |
 | --- | --- |
-| `storylines/self/SELF.thuyen.md` | `co-may` §4; `cai-toi-doc-co-che` §4.5 (năm bước hỏng ở P2); `lang-kinh` §4; `M-he-gia-tri` §8 |
-| `storylines/past/PAST.T.md` | bảng neo `thuyen.md` §0–3, §5; `M-he-gia-tri` §3; `hai-cai-toi` §3–6, §8–9, §14; `da-nhan-cach` §6; `lang-kinh` §2; `co-may` §6; `thuyen-adhd` §1, §6 |
-| `storylines/family/FAM.T.md` | `M-cai-nhau-bo-me.md`; `M-he-gia-tri` §7; `thuyen.md` §6.9 |
+| `storylines/SELF/SELF.thuyen/SELF.thuyen.md` | `co-may` §4; `cai-toi-doc-co-che` §4.5 (năm bước hỏng ở P2); `lang-kinh` §4; `M-he-gia-tri` §8 |
+| `storylines/PAST/PAST.T/PAST.T.md` | bảng neo `thuyen.md` §0–3, §5; `M-he-gia-tri` §3; `hai-cai-toi` §3–6, §8–9, §14; `da-nhan-cach` §6; `lang-kinh` §2; `co-may` §6; `thuyen-adhd` §1, §6 |
+| `storylines/FAM/FAM.T/FAM.T.md` | `M-cai-nhau-bo-me.md`; `M-he-gia-tri` §7; `thuyen.md` §6.9 |
 | mục `voice` của ROM.TN, SOL.VU, THR.LAB | giọng theo người, theo nơi |
 
 **Ra khỏi canon:** tư liệu, hình mẫu → `assets/research/thuyen/`; việc treo → `canon/questions.md`, `proposals/`; kỹ thuật cảnh thể thao → `lib/style/`; kho chửi → `rules/swearing/`; plan tái hiện → `plans/`.

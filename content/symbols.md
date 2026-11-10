@@ -35,9 +35,9 @@ Có phần đầu (frontmatter): 184 file. Chưa chuyển sang khuôn mới (leg
 | `CH.vu.mechanics` | `character` | `agreed` | `world/characters/vu/mechanics/CH.vu.mechanics.md` | CH.vu.mechanics · Cơ chế của Vũ |
 | `CH.vu.voice` | `character` | `agreed` | `world/characters/vu/CH.vu.voice.md` | **Mục:** `dialogue` · `narration` · `lexicon` · `forbidden`. |
 | `CORE` | `spec` | `locked` | `core/README.md` | Tầng tĩnh nền (L1): những thứ cả `world/` lẫn `storylines/` cùng trỏ tới. |
-| `FAM` | `node` | `proposed` | `storylines/fam/FAM.md` | Gốc của các node `FAM.*`. Khung (T2, 10/11): chỉ có `weight` và `children`; mọi mục khác chờ chuyển. |
-| `FAM.N` | `node` | `proposed` | `storylines/fam/FAM.N.md` | Chủ tịch, danh sách mai mối, prom date do hai nhà xếp, Khải là anh, Melbourne dịp Tết, Nhi rời đi để trốn danh sách, hội đồng thật của gi… |
-| `FAM.T` | `node` | `proposed` | `storylines/fam/FAM.T.md` | Cuộc gọi bốn phút mười hai giây, áo sơ mi trắng, giỗ ông và lời khoe 50 triệu, chiến tranh lạnh, trị liệu gia đình (`de-xuat/cay-tuyen.md`). |
+| `FAM` | `node` | `proposed` | `storylines/FAM/FAM.md` | Gốc của các node `FAM.*`. Khung (T2, 10/11): chỉ có `weight` và `children`; mọi mục khác chờ chuyển. |
+| `FAM.N` | `node` | `proposed` | `storylines/FAM/FAM.N/FAM.N.md` | Chủ tịch, danh sách mai mối, prom date do hai nhà xếp, Khải là anh, Melbourne dịp Tết, Nhi rời đi để trốn danh sách, hội đồng thật của gi… |
+| `FAM.T` | `node` | `proposed` | `storylines/FAM/FAM.T/FAM.T.md` | Cuộc gọi bốn phút mười hai giây, áo sơ mi trắng, giỗ ông và lời khoe 50 triệu, chiến tranh lạnh, trị liệu gia đình (`de-xuat/cay-tuyen.md`). |
 | `FN.nhi.cam` | `function` | `proposed` | `world/characters/nhi/mechanics/FN.nhi.cam.md` | Thấu cảm là giác quan chủ đạo. Cô cảm nhận được điều người khác che giấu, gọi tên được cảm xúc, nhưng lý giải sai nguyên nhân. |
 | `FN.nhi.cong-cu` | `function` | `locked` | `world/characters/nhi/mechanics/FN.nhi.cong-cu.md` | Lựa chọn công cụ theo hoàn cảnh. **Khéo léo cộng đanh đá thành ranh con**: khéo léo đơn thuần thì ra người ngoan ngoãn, đanh đá đơn thuần… |
 | `FN.nhi.phan-khang` | `function` | `proposed` | `world/characters/nhi/mechanics/FN.nhi.phan-khang.md` | Phản kháng là cơ chế mặc định của cô với Thuyên: bị chê bai thì tranh cãi, được khen ngợi thì gạt đi, bị trêu chọc thì đấm. |
@@ -74,44 +74,44 @@ Có phần đầu (frontmatter): 184 file. Chưa chuyển sang khuôn mới (leg
 | `GUIDE.task.revise-chapter` | `guide` | `draft` | `guidelines/tasks/revise-chapter.md` | **Trigger:** "sửa đoạn …", "chương N đọc chưa ổn". |
 | `GUIDE.task.sync-blueprint` | `guide` | `draft` | `guidelines/tasks/sync-blueprint.md` | **Trigger:** after writing; after the author edits a chapter; `LAW.check.bp-drift` or `bp-anchor` reports. |
 | `GUIDE.task.write-scene` | `guide` | `draft` | `guidelines/tasks/write-scene.md` | The blueprint scene(s) assigned to you; its write-kit. |
-| `PAST` | `node` | `agreed` | `storylines/past/PAST.md` | Gốc của các node quá khứ: mỗi node là một bảng neo sinh niềm tin mà hiện tại tiêu thụ. Luật kể quá khứ (bốn luật QK): `tuyen/qua-khu/READ… |
-| `PAST.DA` | `node` | `proposed` | `storylines/past/PAST.DA.md` | Nhà giàu thật, ngã năm 14 tuổi, Astrea mua lại; ghế do người khác xếp. Độ mỏng (`tuyen/qua-khu/README.md` §5). |
-| `PAST.K` | `node` | `proposed` | `storylines/past/PAST.K.md` | Động cơ người anh, dùng em gái làm màn khói. Rất mỏng, chỉ phục vụ sau sân bay (Phần 4) (`tuyen/qua-khu/README.md` §5). |
-| `PAST.N` | `node` | `proposed` | `storylines/past/PAST.N.md` | Bảng neo của Nhi, độ mỏng: chỉ những mảnh sinh niềm tin mà hiện tại dùng (Q-025). Nguồn: `tuyen/qua-khu/nhi.md` (chuyển ở T3). |
-| `PAST.T` | `node` | `agreed` | `storylines/past/PAST.T.md` | Bảng neo: những gì đã xảy ra với Thuyên từ mầm non tới hết thực tập, mỗi neo sinh một hoặc vài niềm tin ([[CH.thuyen.beliefs]]) mà hiện t… |
-| `PAST.T-001` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-001.md` | Đếm bánh chưng; đếm đúng mà không ai tin. |
-| `PAST.T-002` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-002.md` | Tủ kính: tờ của chị họ đẩy tờ *tiên tiến* của anh vào trong. "Có tờ mới thì ra." |
-| `PAST.T-003` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-003.md` | Cuốn sách vũ trụ, tinh vân trong xe rác; đêm ấy cắn gối khóc. Sau cơn khóc ôm gối, tưởng tượng cái gối an ủi mình (phần gối: proposed). |
-| `PAST.T-004` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-004.md` | Cái phích vỡ; roi, nằm sấp. Ôm gối dưới ngực, cái gối "nói" (phần gối: proposed). |
-| `PAST.T-005` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-005.md` | Mẹ gỡ xương cá. |
-| `PAST.T-006` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-006.md` | Mẹ khen Nam. Đêm ấy anh hỏi gối "nếu con giỏi như anh Nam thì…", gối không trả lời (DV-016 bậc 1). |
-| `PAST.T-007` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-007.md` | Tờ nháp, lớp 6: hai tờ, một tờ cho người chấm, một tờ của mình. |
-| `PAST.T-008` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-008.md` | Khai sinh cái tôi lành: cô Toán cầm bài ngắn nhất lớp lên, "Cả lớp xem bạn Thuyên giải." Tai nóng, tay run, đêm ấy nhớ từng chữ. Cùng năm… |
-| `PAST.T-009` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-009.md` | Bài chín điểm, cãi đến cùng, bẻ roi, lớp 7. Đêm ấy: sổ hai cột, ghét thằng bé cột điện. |
-| `PAST.T-010` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-010.md` | Giấy khen, 47 lượt thích, lớp 8; giải huyện học ít vẫn có (vị trí: proposed); bác Hùng bình luận "con bác năm ngoái giải tỉnh rồi đó"; vỏ… |
-| `PAST.T-011` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-011.md` | Bài văn *Ước mơ của em*, 6,5; họp phụ huynh, "cục đất". |
-| `PAST.T-012` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-012.md` | Phiếu khảo sát tâm lý: trả lời thật thì không ai gọi. |
-| `PAST.T-013` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-013.md` | Phiếu thi chuyên ("Có rứa mới bằng con nhà người ta"), đỗ chuyên Toán thứ tư, mẹ gọi sang nhà bác Hùng, Casio dây rộng. |
-| `PAST.T-014` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-014.md` | Sân trọ: gà (ném vào chậu cây), anh Long, Kyrie, đổi tay qua người anh Long; tếu sinh (Ngạo + Trào vô hại). |
-| `PAST.T-015` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-015.md` | Ám ảnh luyện tập: 5 giờ, chạy, hít đất, hít xà; vở giáo án; chuyên sâu thay vì dàn trải; tiếp thu kỹ thuật phức tạp bằng cách tổ hợp các … |
-| `PAST.T-016` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-016.md` | Giải Nhất tỉnh môn Tin; đứng đầu kỳ chọn đội tuyển Tin; cày lén; giữ giáo án riêng. |
-| `PAST.T-017` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-017.md` | Bố mẹ gạt "Tin thì được cái chi"; *Không bao giờ đủ*; cô bạn mập mờ thấy anh buồn, anh dập bằng "Tao số một tỉnh" (Ngạo lần đầu mất vỏ); … |
-| `PAST.T-018` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-018.md` | Thi học sinh giỏi quốc gia môn Tin: khinh bài dễ, dồn giờ cho bài khó. 13/3/2021, giữa tiết Hóa: không giải. Đáy: phẳng, tếu tắt. Ôm gối … |
-| `PAST.T-019` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-019.md` | Hiếu không an ủi: "Ông chỉ tôi bài ni."; "Chơi không? Thiếu một."; trận anh ghi nhiều điểm nhất mà đội thua, không ai bỏ đi. |
-| `PAST.T-020` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-020.md` | Anh Long: "Giữ bóng giỏi rồi. Giờ học chuyền."; xem lại video trận thua; chọn du học; cố vì mình; bắt đầu ôn IELTS. |
-| `PAST.T-021` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-021.md` | Không thi lại quốc gia; chia giáo án Tin, dòng đầu *bài dễ cũng tối ưu*; giải bóng năm sau: chuyền, đội thắng; thi IELTS 8.0; thư nhận từ… |
-| `PAST.T-022` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-022.md` | Hà Nội tự do mà yên tĩnh; sách vũ trụ đắt nhất vẫn bọc nilon. |
-| `PAST.T-023` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-023.md` | "Chơi không? Thiếu một." Vũ, sân khu tập thể. |
-| `PAST.T-024` | `event` | `page` | `storylines/past/PAST.T/PAST.T-024.md` | Hackathon ba mươi sáu tiếng: đọc ba người trong mười phút, chia việc; đội giải Nhì; về sau vào CLB Tin học, đầu năm hai thành phó ban. |
-| `PAST.T-025` | `event` | `page` | `storylines/past/PAST.T/PAST.T-025.md` | Đề tài nghiên cứu: nhận cả phần của Đức và Lan, tay bận thì cái đau ngủ; thầy Bình hỏi *Tại sao là em?* chưa trả lời được; đề tài lên cấp… |
-| `PAST.T-026` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-026.md` | Thư mục *sau-nay*, *Congratulations.*, đọc một lần rồi không mở. |
-| `PAST.T-027` | `event` | `page` | `storylines/past/PAST.T/PAST.T-027.md` | Sáu tháng thực tập ở tòa nhà kính; hết thực tập tháng 9, "không biết dậy sớm để làm gì"; mail summit đến thì nhẹ. |
-| `ROM` | `node` | `proposed` | `storylines/rom/ROM.md` | Gốc của các node quan hệ tình cảm `ROM.<cặp>`. Khung tạo sớm (10/11) để chứa lõi gương của [[ROM.TN]]; phần còn lại chuyển ở B4c. |
-| `ROM.LT` | `node` | `proposed` | `storylines/rom/ROM.LT.md` | Thuyên làm quân sư cho Tùng từ cấp 3: gương nhỏ của quân sư cho Phong; giao `PAST.T` (`de-xuat/cay-tuyen.md`). |
-| `ROM.PN` | `node` | `proposed` | `storylines/rom/ROM.PN.md` | Một chiều: thích, quân sư dạy, gala tỏ tình, nói với Nhi, câu hỏi ở tiệc aim, người ở lại. Gương: Phong hỏi, Thuyên đọc (`de-xuat/cay-tuy… |
-| `ROM.TD` | `node` | `proposed` | `storylines/rom/ROM.TD.md` | Fan service tháng 11–12, 31/12, dừng thân mật, đổi phe. Nửa romance; nửa liên minh ở `THR.LM` (`de-xuat/cay-tuyen.md`). |
-| `ROM.TN` | `node` | `proposed` | `storylines/rom/ROM.TN.md` | **Khung** (10/11): node chưa chuyển (B4c). Hiện chỉ có `mirror`, lõi gương của quan hệ, đặt ở đây để nó dùng được các ràng buộc (luật, re… |
-| `ROM.VA` | `node` | `proposed` | `storylines/rom/ROM.VA.md` | Tuyến phụ hài, tùy chọn; giao `SOL.HD` (`de-xuat/cay-tuyen.md`). |
+| `PAST` | `node` | `agreed` | `storylines/PAST/PAST.md` | Gốc của các node quá khứ: mỗi node là một bảng neo sinh niềm tin mà hiện tại tiêu thụ. Luật kể quá khứ (bốn luật QK): `tuyen/qua-khu/READ… |
+| `PAST.DA` | `node` | `proposed` | `storylines/PAST/PAST.DA/PAST.DA.md` | Nhà giàu thật, ngã năm 14 tuổi, Astrea mua lại; ghế do người khác xếp. Độ mỏng (`tuyen/qua-khu/README.md` §5). |
+| `PAST.K` | `node` | `proposed` | `storylines/PAST/PAST.K/PAST.K.md` | Động cơ người anh, dùng em gái làm màn khói. Rất mỏng, chỉ phục vụ sau sân bay (Phần 4) (`tuyen/qua-khu/README.md` §5). |
+| `PAST.N` | `node` | `proposed` | `storylines/PAST/PAST.N/PAST.N.md` | Bảng neo của Nhi, độ mỏng: chỉ những mảnh sinh niềm tin mà hiện tại dùng (Q-025). Nguồn: `tuyen/qua-khu/nhi.md` (chuyển ở T3). |
+| `PAST.T` | `node` | `agreed` | `storylines/PAST/PAST.T/PAST.T.md` | Bảng neo: những gì đã xảy ra với Thuyên từ mầm non tới hết thực tập, mỗi neo sinh một hoặc vài niềm tin ([[CH.thuyen.beliefs]]) mà hiện t… |
+| `PAST.T-001` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-001.md` | Đếm bánh chưng; đếm đúng mà không ai tin. |
+| `PAST.T-002` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-002.md` | Tủ kính: tờ của chị họ đẩy tờ *tiên tiến* của anh vào trong. "Có tờ mới thì ra." |
+| `PAST.T-003` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-003.md` | Cuốn sách vũ trụ, tinh vân trong xe rác; đêm ấy cắn gối khóc. Sau cơn khóc ôm gối, tưởng tượng cái gối an ủi mình (phần gối: proposed). |
+| `PAST.T-004` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-004.md` | Cái phích vỡ; roi, nằm sấp. Ôm gối dưới ngực, cái gối "nói" (phần gối: proposed). |
+| `PAST.T-005` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-005.md` | Mẹ gỡ xương cá. |
+| `PAST.T-006` | `event` | `proposed` | `storylines/PAST/PAST.T/PAST.T-006.md` | Mẹ khen Nam. Đêm ấy anh hỏi gối "nếu con giỏi như anh Nam thì…", gối không trả lời (DV-016 bậc 1). |
+| `PAST.T-007` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-007.md` | Tờ nháp, lớp 6: hai tờ, một tờ cho người chấm, một tờ của mình. |
+| `PAST.T-008` | `event` | `proposed` | `storylines/PAST/PAST.T/PAST.T-008.md` | Khai sinh cái tôi lành: cô Toán cầm bài ngắn nhất lớp lên, "Cả lớp xem bạn Thuyên giải." Tai nóng, tay run, đêm ấy nhớ từng chữ. Cùng năm… |
+| `PAST.T-009` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-009.md` | Bài chín điểm, cãi đến cùng, bẻ roi, lớp 7. Đêm ấy: sổ hai cột, ghét thằng bé cột điện. |
+| `PAST.T-010` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-010.md` | Giấy khen, 47 lượt thích, lớp 8; giải huyện học ít vẫn có (vị trí: proposed); bác Hùng bình luận "con bác năm ngoái giải tỉnh rồi đó"; vỏ… |
+| `PAST.T-011` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-011.md` | Bài văn *Ước mơ của em*, 6,5; họp phụ huynh, "cục đất". |
+| `PAST.T-012` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-012.md` | Phiếu khảo sát tâm lý: trả lời thật thì không ai gọi. |
+| `PAST.T-013` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-013.md` | Phiếu thi chuyên ("Có rứa mới bằng con nhà người ta"), đỗ chuyên Toán thứ tư, mẹ gọi sang nhà bác Hùng, Casio dây rộng. |
+| `PAST.T-014` | `event` | `proposed` | `storylines/PAST/PAST.T/PAST.T-014.md` | Sân trọ: gà (ném vào chậu cây), anh Long, Kyrie, đổi tay qua người anh Long; tếu sinh (Ngạo + Trào vô hại). |
+| `PAST.T-015` | `event` | `proposed` | `storylines/PAST/PAST.T/PAST.T-015.md` | Ám ảnh luyện tập: 5 giờ, chạy, hít đất, hít xà; vở giáo án; chuyên sâu thay vì dàn trải; tiếp thu kỹ thuật phức tạp bằng cách tổ hợp các … |
+| `PAST.T-016` | `event` | `proposed` | `storylines/PAST/PAST.T/PAST.T-016.md` | Giải Nhất tỉnh môn Tin; đứng đầu kỳ chọn đội tuyển Tin; cày lén; giữ giáo án riêng. |
+| `PAST.T-017` | `event` | `proposed` | `storylines/PAST/PAST.T/PAST.T-017.md` | Bố mẹ gạt "Tin thì được cái chi"; *Không bao giờ đủ*; cô bạn mập mờ thấy anh buồn, anh dập bằng "Tao số một tỉnh" (Ngạo lần đầu mất vỏ); … |
+| `PAST.T-018` | `event` | `proposed` | `storylines/PAST/PAST.T/PAST.T-018.md` | Thi học sinh giỏi quốc gia môn Tin: khinh bài dễ, dồn giờ cho bài khó. 13/3/2021, giữa tiết Hóa: không giải. Đáy: phẳng, tếu tắt. Ôm gối … |
+| `PAST.T-019` | `event` | `proposed` | `storylines/PAST/PAST.T/PAST.T-019.md` | Hiếu không an ủi: "Ông chỉ tôi bài ni."; "Chơi không? Thiếu một."; trận anh ghi nhiều điểm nhất mà đội thua, không ai bỏ đi. |
+| `PAST.T-020` | `event` | `proposed` | `storylines/PAST/PAST.T/PAST.T-020.md` | Anh Long: "Giữ bóng giỏi rồi. Giờ học chuyền."; xem lại video trận thua; chọn du học; cố vì mình; bắt đầu ôn IELTS. |
+| `PAST.T-021` | `event` | `proposed` | `storylines/PAST/PAST.T/PAST.T-021.md` | Không thi lại quốc gia; chia giáo án Tin, dòng đầu *bài dễ cũng tối ưu*; giải bóng năm sau: chuyền, đội thắng; thi IELTS 8.0; thư nhận từ… |
+| `PAST.T-022` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-022.md` | Hà Nội tự do mà yên tĩnh; sách vũ trụ đắt nhất vẫn bọc nilon. |
+| `PAST.T-023` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-023.md` | "Chơi không? Thiếu một." Vũ, sân khu tập thể. |
+| `PAST.T-024` | `event` | `page` | `storylines/PAST/PAST.T/PAST.T-024.md` | Hackathon ba mươi sáu tiếng: đọc ba người trong mười phút, chia việc; đội giải Nhì; về sau vào CLB Tin học, đầu năm hai thành phó ban. |
+| `PAST.T-025` | `event` | `page` | `storylines/PAST/PAST.T/PAST.T-025.md` | Đề tài nghiên cứu: nhận cả phần của Đức và Lan, tay bận thì cái đau ngủ; thầy Bình hỏi *Tại sao là em?* chưa trả lời được; đề tài lên cấp… |
+| `PAST.T-026` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-026.md` | Thư mục *sau-nay*, *Congratulations.*, đọc một lần rồi không mở. |
+| `PAST.T-027` | `event` | `page` | `storylines/PAST/PAST.T/PAST.T-027.md` | Sáu tháng thực tập ở tòa nhà kính; hết thực tập tháng 9, "không biết dậy sớm để làm gì"; mail summit đến thì nhẹ. |
+| `ROM` | `node` | `proposed` | `storylines/ROM/ROM.md` | Gốc của các node quan hệ tình cảm `ROM.<cặp>`. Khung tạo sớm (10/11) để chứa lõi gương của [[ROM.TN]]; phần còn lại chuyển ở B4c. |
+| `ROM.LT` | `node` | `proposed` | `storylines/ROM/ROM.LT/ROM.LT.md` | Thuyên làm quân sư cho Tùng từ cấp 3: gương nhỏ của quân sư cho Phong; giao `PAST.T` (`de-xuat/cay-tuyen.md`). |
+| `ROM.PN` | `node` | `proposed` | `storylines/ROM/ROM.PN/ROM.PN.md` | Một chiều: thích, quân sư dạy, gala tỏ tình, nói với Nhi, câu hỏi ở tiệc aim, người ở lại. Gương: Phong hỏi, Thuyên đọc (`de-xuat/cay-tuy… |
+| `ROM.TD` | `node` | `proposed` | `storylines/ROM/ROM.TD/ROM.TD.md` | Fan service tháng 11–12, 31/12, dừng thân mật, đổi phe. Nửa romance; nửa liên minh ở `THR.LM` (`de-xuat/cay-tuyen.md`). |
+| `ROM.TN` | `node` | `proposed` | `storylines/ROM/ROM.TN/ROM.TN.md` | **Khung** (10/11): node chưa chuyển (B4c). Hiện chỉ có `mirror`, lõi gương của quan hệ, đặt ở đây để nó dùng được các ràng buộc (luật, re… |
+| `ROM.VA` | `node` | `proposed` | `storylines/ROM/ROM.VA/ROM.VA.md` | Tuyến phụ hài, tùy chọn; giao `SOL.HD` (`de-xuat/cay-tuyen.md`). |
 | `SCALE.exl` | `scale` | `locked` | `core/SCALE.exl.md` | Bốn mối lo lớn theo Yalom (chết, tự do, cô đơn, vô nghĩa) là bản đồ, không dùng chữ ấy trên trang. Thang đi hai chiều: từ vật cụ thể sang… |
 | `SCH.article` | `schema` | `proposed` | `schemas/article.md` | A constitution article: an invariant split from an axis; phase laws take their basis from it. See [rules-engine](../../docs/framework/rul… |
 | `SCH.axis` | `schema` | `agreed` | `schemas/axis.md` | An existential axis of the story (old `H<n>`). The root holds axes, not mechanisms: how an axis runs lives in the node that carries it, a… |
@@ -143,13 +143,13 @@ Có phần đầu (frontmatter): 184 file. Chưa chuyển sang khuôn mới (leg
 | `SCH.technique` | `schema` | `proposed` | `schemas/technique.md` | A sentence- or paragraph-level method that achieves a law or a register. See [library](../../docs/framework/library.md). |
 | `SEC-001` | `secret` | `agreed` | `world/secrets/SEC-001.md` | Nhi là con gái Chủ tịch tập đoàn Astrea và em gái Khải, Tổng giám đốc ([[CH.nhi]]). |
 | `SEC-002` | `secret` | `locked` | `world/secrets/SEC-002.md` | Sau khi lượt 1 thất bại (2021), bố mẹ Nhi ngầm tạo điều kiện cho Phong, người có cảm tình với Nhi và có phụ huynh là đối tác của Astrea, … |
-| `SELF` | `node` | `agreed` | `storylines/self/SELF.md` | Gốc của các node `SELF.<id>`: mỗi nhân vật có hiện sinh một node, làm chủ thuộc tính nội tâm của người ấy theo giai đoạn. |
-| `SELF.thuyen` | `node` | `agreed` | `storylines/self/SELF.thuyen.md` | Làm chủ các thuộc tính nội tâm của [[CH.thuyen]] theo giai đoạn: `exl`, `cai-toi-doc`, `lang-kinh`, `cai-goi`, `luc-keo`, `luc-day`, và g… |
-| `SOL` | `node` | `proposed` | `storylines/sol/SOL.md` | Gốc của các node `SOL.*`. Khung (T2, 10/11): chỉ có `weight` và `children`; mọi mục khác chờ chuyển. |
-| `SOL.DT` | `node` | `proposed` | `storylines/sol/SOL.DT.md` | Phòng trọ, bún riêu (đơn vị tiền), Casio, Crocs, ảnh aesthetic, Locket; phần hiện tại của ch.1–6; *Nước lạnh*; câu đùa thưa dần, thôi quy… |
-| `SOL.HD` | `node` | `proposed` | `storylines/sol/SOL.HD.md` | Ba ghế, biên bản, nghị quyết, "bàn cào móng"; đời thường phía Nhi, giao `ROM.TN` gần như mọi lần xuất hiện. Nhóm: [[GRP.hoi-dong-nhi]]. |
-| `SOL.SAN` | `node` | `proposed` | `storylines/sol/SOL.SAN.md` | Pickup, Linh "mana", anh Long, Hưng, Quân; chia tiền sân → bao cả sân (biến chất) (`de-xuat/cay-tuyen.md`). |
-| `SOL.VU` | `node` | `proposed` | `storylines/sol/SOL.VU.md` | Cột rổ, "Thích thì nói mẹ nó đi", "Mày đang lùi đấy à?", rạn nứt, sáng sớm làm lành. Nguồn: `tuyen/sl/vu.md` (chuyển ở T5). |
+| `SELF` | `node` | `agreed` | `storylines/SELF/SELF.md` | Gốc của các node `SELF.<id>`: mỗi nhân vật có hiện sinh một node, làm chủ thuộc tính nội tâm của người ấy theo giai đoạn. |
+| `SELF.thuyen` | `node` | `agreed` | `storylines/SELF/SELF.thuyen/SELF.thuyen.md` | Làm chủ các thuộc tính nội tâm của [[CH.thuyen]] theo giai đoạn: `exl`, `cai-toi-doc`, `lang-kinh`, `cai-goi`, `luc-keo`, `luc-day`, và g… |
+| `SOL` | `node` | `proposed` | `storylines/SOL/SOL.md` | Gốc của các node `SOL.*`. Khung (T2, 10/11): chỉ có `weight` và `children`; mọi mục khác chờ chuyển. |
+| `SOL.DT` | `node` | `proposed` | `storylines/SOL/SOL.DT/SOL.DT.md` | Phòng trọ, bún riêu (đơn vị tiền), Casio, Crocs, ảnh aesthetic, Locket; phần hiện tại của ch.1–6; *Nước lạnh*; câu đùa thưa dần, thôi quy… |
+| `SOL.HD` | `node` | `proposed` | `storylines/SOL/SOL.HD/SOL.HD.md` | Ba ghế, biên bản, nghị quyết, "bàn cào móng"; đời thường phía Nhi, giao `ROM.TN` gần như mọi lần xuất hiện. Nhóm: [[GRP.hoi-dong-nhi]]. |
+| `SOL.SAN` | `node` | `proposed` | `storylines/SOL/SOL.SAN/SOL.SAN.md` | Pickup, Linh "mana", anh Long, Hưng, Quân; chia tiền sân → bao cả sân (biến chất) (`de-xuat/cay-tuyen.md`). |
+| `SOL.VU` | `node` | `proposed` | `storylines/SOL/SOL.VU/SOL.VU.md` | Cột rổ, "Thích thì nói mẹ nó đi", "Mày đang lùi đấy à?", rạn nứt, sáng sớm làm lành. Nguồn: `tuyen/sl/vu.md` (chuyển ở T5). |
 | `SPEC.adr-001` | `spec` | `agreed` | `docs/framework/adr/ADR-001-story-framework.md` | Before the framework (state of early November 2026): |
 | `SPEC.blueprints` | `spec` | `draft` | `docs/framework/blueprints.md` | Fields: `content/schemas/blueprint.md`, `edition.md`, `chapter.md`. |
 | `SPEC.editions` | `spec` | `locked` | `docs/plan-legacy.md` | Oct 20, 2026. Development plan. **Rollout steps 1 and 2 are built** (Oct 21, see "Status"). |
@@ -164,13 +164,13 @@ Có phần đầu (frontmatter): 184 file. Chưa chuyển sang khuôn mới (leg
 | `SPEC.storylines` | `spec` | `draft` | `docs/framework/storylines.md` | Fields: `content/schemas/node.md`, `goal.md`, `event.md`, `intersection.md`. |
 | `SPEC.tooling` | `spec` | `draft` | `docs/framework/tooling.md` | `npm run canon:check` (`scripts/canon-check.mjs`, no dependencies) is the rule runner. It reads every entity under `content/` and every p… |
 | `TEC.interiority.ideal-self` | `technique` | `proposed` | `lib/interiority/TEC.interiority.ideal-self.md` | Đưa lực kéo ([[CH.thuyen.beliefs#BL-034]]) lên trang qua lời người kể. Phục vụ register R10 (khối nội tâm, `rules/registers.md` §2.6); `s… |
-| `THR` | `node` | `proposed` | `storylines/thr/THR.md` | Gốc của các node `THR.*`. Khung (T2, 10/11): chỉ có `weight` và `children`; mọi mục khác chờ chuyển. |
-| `THR.DR` | `node` | `proposed` | `storylines/thr/THR.DR.md` | Sinh từ đồ ăn đặt cho Nhi (chốt 23/10), cắm cờ, bị gạt đúng, luận văn Phần Lan, startup Phần 3, Khải nhảy vào Phần 4 (`de-xuat/cay-tuyen.… |
-| `THR.LAB` | `node` | `proposed` | `storylines/thr/THR.LAB.md` | Lão Tuấn, phe "rắn", hội kỹ sư, Thảo; ván phòng thủ GĐ1, ván tấn công và thủ đoạn chủ động GĐ2; blacklist và bảng giá người ở đáy (`de-xu… |
-| `THR.LM` | `node` | `proposed` | `storylines/thr/THR.LM.md` | Pilot giao nhận chặng cuối, ghế hứa cho cô, ván cược của Khải (`de-xuat/cay-tuyen.md`). |
-| `THR.MD` | `node` | `proposed` | `storylines/thr/THR.MD.md` | Có pipeline không có model; quyền xếp hàng đợi; kim bài miễn tử; khảo sát → production → ghế 50 triệu (`de-xuat/cay-tuyen.md`). |
-| `THR.MO` | `node` | `proposed` | `storylines/thr/THR.MO.md` | Summit (Chủ tịch bảo Khải "để ý nó"), nhận lab, MUN, "dự thính" (`de-xuat/cay-tuyen.md`). |
-| `THR.T18` | `node` | `proposed` | `storylines/thr/THR.T18.md` | Khải truy dấu vết, Morpheus (*khách*, bay sang Mỹ), lật bài 15/7 (`de-xuat/cay-tuyen.md`). |
+| `THR` | `node` | `proposed` | `storylines/THR/THR.md` | Gốc của các node `THR.*`. Khung (T2, 10/11): chỉ có `weight` và `children`; mọi mục khác chờ chuyển. |
+| `THR.DR` | `node` | `proposed` | `storylines/THR/THR.DR/THR.DR.md` | Sinh từ đồ ăn đặt cho Nhi (chốt 23/10), cắm cờ, bị gạt đúng, luận văn Phần Lan, startup Phần 3, Khải nhảy vào Phần 4 (`de-xuat/cay-tuyen.… |
+| `THR.LAB` | `node` | `proposed` | `storylines/THR/THR.LAB/THR.LAB.md` | Lão Tuấn, phe "rắn", hội kỹ sư, Thảo; ván phòng thủ GĐ1, ván tấn công và thủ đoạn chủ động GĐ2; blacklist và bảng giá người ở đáy (`de-xu… |
+| `THR.LM` | `node` | `proposed` | `storylines/THR/THR.LM/THR.LM.md` | Pilot giao nhận chặng cuối, ghế hứa cho cô, ván cược của Khải (`de-xuat/cay-tuyen.md`). |
+| `THR.MO` | `node` | `proposed` | `storylines/THR/THR.MO/THR.MO.md` | Summit (Chủ tịch bảo Khải "để ý nó"), nhận lab, MUN, "dự thính" (`de-xuat/cay-tuyen.md`). |
+| `THR.MODEL` | `node` | `proposed` | `storylines/THR/THR.MODEL/THR.MODEL.md` | Có pipeline không có model; quyền xếp hàng đợi; kim bài miễn tử; khảo sát → production → ghế 50 triệu (`de-xuat/cay-tuyen.md`). |
+| `THR.T18` | `node` | `proposed` | `storylines/THR/THR.T18/THR.T18.md` | Khải truy dấu vết, Morpheus (*khách*, bay sang Mỹ), lật bài 15/7 (`de-xuat/cay-tuyen.md`). |
 | `TREE` | `node` | `locked` | `storylines/README.md` | Node gốc của mọi tuyến. Toàn bộ chức năng của thư mục cũ `tuyen/` ở đây (10/11); riêng định nghĩa trục và thang ở `core/` vì tầng tĩnh cũ… |
 | `X-001` | `intersection` | `proposed` | `storylines/intersections/X-001.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
 | `X-002` | `intersection` | `proposed` | `storylines/intersections/X-002.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |

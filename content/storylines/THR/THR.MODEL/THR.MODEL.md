@@ -1,5 +1,5 @@
 ---
-id: THR.MD
+id: THR.MODEL
 kind: node
 parent: "[[THR]]"
 status: proposed
@@ -7,7 +7,7 @@ updated: 2026-11-10
 participants: ["[[CH.thuyen]]"]
 axes: [AX3, AX6]
 weight: {P1: S, P2: SS, BREAK: SSS, AFTER: B}
-aliases: [TH.MD, Model và hàng đợi]
+aliases: [THR.MD, TH.MD, Model và hàng đợi]
 sources: [tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
 ---
 # THR.MD · Model và hàng đợi

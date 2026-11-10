@@ -24,7 +24,7 @@ Từ ma trận `tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/1
 
 ## children
 
-[[THR.MO]] · [[THR.LAB]] · [[THR.MD]] · [[THR.LM]] · [[THR.T18]] · [[THR.DR]]
+[[THR.MO]] · [[THR.LAB]] · [[THR.MODEL]] · [[THR.LM]] · [[THR.T18]] · [[THR.DR]]
 
 ## gaps
 
