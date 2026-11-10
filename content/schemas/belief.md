@@ -21,6 +21,8 @@ A belief (old `NT-`): what a character holds about self, others or the world, pr
 | **definition** | yes | What the belief means, from the author's side: the core proposition, why it is half true, what it protects, what it costs. May cite a reference (`ref`). No separate title or slogan line: the definition carries the meaning |
 | **monologue** | optional | The belief described **as the character thinks it**, written only when the character sees it. A design tool: it tells the writer how the belief surfaces and is narrated in the story. Copying its words onto the page is optional. Field `seen`: `thay` (has words) · `nua` (surfaces, then denied) · `khong` (shows only in behaviour; no monologue). `seen` may change by phase |
 
+The monologue keeps the **design register** (compound words, a complete chain of reasoning); it is **not** adjusted to the character's voice. Adapting it to the voice happens only when a scene is written `locked 10/11`.
+
 A monologue may have **stages**, each tagged with an age or phase:
 - `ngo-nhan` (misconception): the child's conclusion, usually an accusation, drawn straight from the wound.
 - `dien-giai` (interpretation): the same belief re-derived later through the objective lens, more general and more defensible.

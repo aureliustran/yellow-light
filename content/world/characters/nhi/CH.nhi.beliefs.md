@@ -12,7 +12,7 @@ sources: [tuyen/qua-khu/nhi.md §2, §3 (locked 31/10), §4; hội thoại 10/11
 
 Khuôn hai lớp (`schemas/belief.md`): lớp định nghĩa (bắt buộc) và tự thoại (tùy chọn, là công cụ thiết kế, chép lên trang là tùy chọn). Mã cũ `NT-nn` là alias (`NT-40` = `BL-040`). Dải của Nhi: `BL-040` … `BL-045`; `BL-046` … `BL-049` để dành cho hội đồng trong quá khứ (`PAST.N.HD`). Cột *Tiêu thụ* chép từ nguồn cũ, giữ tới khi tình tiết chuyển xong.
 
-**Giọng tự thoại của Nhi** `agreed 10/11`: xưng "mình"; từ phức là đa số (luật từ phức); tư duy đường thẳng, chuỗi suy luận ngắn, không lập luận nhiều bước (`CH.nhi` `rules` 3); gọi tên được cảm xúc nhưng gán sai nguyên nhân ([[FN.nhi.cam]]), và kiểu gán sai ấy không lặp ở mọi niềm tin.
+**Văn phong tự thoại** `locked 10/11`: tự thoại là công cụ thiết kế, viết theo văn phong thiết kế (từ phức là đa số, chuỗi suy luận đủ ý, xưng "mình"), **không** chỉnh theo giọng của Nhi. Khi viết cảnh mới chuyển sang giọng của cô ([[CH.nhi.voice]]: tư duy đường thẳng, gọi tên cảm xúc nhưng gán sai nguyên nhân, [[FN.nhi.cam]]).
 
 **Cụm** (phạm vi trong file này): niềm tin gom theo câu hỏi cô tự trả lời.
 
