@@ -1,5 +1,7 @@
 # Đèn vàng – QK.T: cỗ máy hiện sinh của Thuyên
 
+> **Đã chuyển (T3, 10/11).** Bản chính: cơ chế ở `content/world/characters/thuyen/mechanics/FN.thuyen.*`; niềm tin ở `CH.thuyen.beliefs`; cung ở `storylines/SELF/SELF.thuyen/`; bảng neo, hướng, thiết kế xuyên lá, phần lên trang, tư liệu, câu treo ở `storylines/PAST/PAST.T/` (node và mục `detail` của lá). File này giữ để lần ngược; không sửa ở đây.
+
 Oct 28, 2026 · @aureliustran. Sửa Nov 4, 2026: khí thải đổi định nghĩa (phản ứng khi kế hoạch đại bại), thêm tên lửa và răn, theo `thuyen-lang-kinh.md` §3. File trung tâm của QK.T: ghép mọi linh kiện tác giả đưa (27–28/10) thành một cỗ máy, gắn từng bộ phận vào trục H, và quy định **thiết bị trên trang** (TB-) để cỗ máy hiện ra mà người kể không phải giải thích nó (gọi tên cảm xúc theo `rules/goi-ten-cam-xuc.md`). Các file khác trỏ về đây:
 - `thuyen.md` (bảng neo; §6 NT-24, cái gối);
 - `thuyen-hai-cai-toi.md` (hai cái tôi, thang bằng chứng, thuốc giảm đau, lộ trình);

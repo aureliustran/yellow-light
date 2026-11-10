@@ -1,5 +1,7 @@
 # Đèn vàng – QK.T: ADHD của Thuyên
 
+> **Đã chuyển (T3, 10/11).** Bản chính: cơ chế ở `content/world/characters/thuyen/mechanics/FN.thuyen.*`; niềm tin ở `CH.thuyen.beliefs`; cung ở `storylines/SELF/SELF.thuyen/`; bảng neo, hướng, thiết kế xuyên lá, phần lên trang, tư liệu, câu treo ở `storylines/PAST/PAST.T/` (node và mục `detail` của lá). File này giữ để lần ngược; không sửa ở đây.
+
 Nov 1, 2026 · @aureliustran. **[chốt 01/11, tác giả]: Thuyên có ADHD, dạng kết hợp. Bố mẹ không biết.** Tác giả nhận ra dấu hiệu trong các mảnh hồi tưởng đến cấp 2 (04:10, 01/11) và chốt (04:11, 04:25). File này chỉ lo phần QK.T; HP và các node khác không thuộc file này (tác giả, 04:25: "HP chưa chốt vội, và đây không phải phần của QK.T"). Mọi thứ còn lại trong file là **đề xuất** của Claude, chưa duyệt từng dòng. Liên quan: `qua-khu/thuyen.md` (thẻ), `qua-khu/thuyen-hai-cai-toi.md`, `qua-khu/thuyen-cai-toi-doc-co-che.md`, `rules/goi-ten-cam-xuc.md`, `de-xuat/qk-t-plan-viet-lai-quang-1-v3.md`.
 
 Ghi chú: đây là thiết kế nhân vật hư cấu. Thuật ngữ lâm sàng chỉ nằm ở tài liệu, không lên trang (§5).

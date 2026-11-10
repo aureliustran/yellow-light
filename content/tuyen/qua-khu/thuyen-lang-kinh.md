@@ -1,5 +1,7 @@
 # Đèn vàng – QK.T: lăng kính dùng để làm gì, tên lửa, khí thải, răn
 
+> **Đã chuyển (T3, 10/11).** Bản chính: cơ chế ở `content/world/characters/thuyen/mechanics/FN.thuyen.*`; niềm tin ở `CH.thuyen.beliefs`; cung ở `storylines/SELF/SELF.thuyen/`; bảng neo, hướng, thiết kế xuyên lá, phần lên trang, tư liệu, câu treo ở `storylines/PAST/PAST.T/` (node và mục `detail` của lá). File này giữ để lần ngược; không sửa ở đây.
+
 Nov 4, 2026 · @aureliustran. Session QK (13:59–14:31, 04/11). **File trung tâm** cho việc Thuyên *dùng* lăng kính khách quan vào đâu, qua các cấp và các giai đoạn. Định nghĩa lăng kính giữ ở `M-he-gia-tri.md` §1 (thêm §3c trỏ về đây). Các file khác trỏ về đây: `thuyen.md` §4 (NT-29, NT mới), `thuyen-co-may.md` §2–3 (khí thải), `thuyen-hai-cai-toi.md` §9 (gốc thị uy), `rules/registers.md` §4.3, §6.2 (vang khuôn câu), `01-rules-viet.md` (*Giọng theo đối tượng*).
 
 **Nhãn:** `[chốt 04/11]` tác giả đã nói hoặc đã gật trong session; `[đề xuất]` của Claude, chưa duyệt từng dòng.

@@ -1,5 +1,7 @@
 # Đèn vàng – QK.T: đa nhân cách của Thuyên và gốc của tếu
 
+> **Đã chuyển (T3, 10/11).** Bản chính: cơ chế ở `content/world/characters/thuyen/mechanics/FN.thuyen.*`; niềm tin ở `CH.thuyen.beliefs`; cung ở `storylines/SELF/SELF.thuyen/`; bảng neo, hướng, thiết kế xuyên lá, phần lên trang, tư liệu, câu treo ở `storylines/PAST/PAST.T/` (node và mục `detail` của lá). File này giữ để lần ngược; không sửa ở đây.
+
 Oct 27, 2026 · @aureliustran. **[đề xuất · bản nháp, có thể sửa nhiều]** Chỉ phần ghi `[hướng của tác giả 27/10]` là ý tác giả đã nói; mọi thứ còn lại là đề xuất của Claude, chưa duyệt từng dòng, chưa đối chiếu với trang ch.1 và ch.2–7. Gốc tham chiếu: `qua-khu/README.md`, `goc.md`, `claude/sua-doi/M-he-gia-tri.md` (§3a, §3b, §7), `den-vang/characters.yaml`.
 
 **Cập nhật 27/10 (sau):** đọc cùng `qua-khu/thuyen-hai-cai-toi.md` (hai cái tôi, thang bằng chứng cấp 2, ám ảnh luyện tập, mặc cảm và cô bạn mập mờ, lộ trình hết cấp 3, ba quãng và interlude). Theo đó: **Vy bị bỏ** (thay bằng cô bạn mập mờ ở C6b, lớp 11); **đại học là lúc tếu đầy đủ nhất**, hài khô chỉ nằm trong độc thoại; **Ngạo sinh từ cái tôi lành** (cái cân), **Trào sinh từ cây thước**; Ngạo không vỏ đùa là cái tôi độc; **HSG quốc gia 2023: không giải** `[chốt 27/10]`. Các dòng dưới đã sửa theo.

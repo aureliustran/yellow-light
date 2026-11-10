@@ -1,5 +1,7 @@
 # Đèn vàng – QK.T: hai cái tôi của Thuyên (cấp 2 → hết cấp 3)
 
+> **Đã chuyển (T3, 10/11).** Bản chính: cơ chế ở `content/world/characters/thuyen/mechanics/FN.thuyen.*`; niềm tin ở `CH.thuyen.beliefs`; cung ở `storylines/SELF/SELF.thuyen/`; bảng neo, hướng, thiết kế xuyên lá, phần lên trang, tư liệu, câu treo ở `storylines/PAST/PAST.T/` (node và mục `detail` của lá). File này giữ để lần ngược; không sửa ở đây.
+
 Oct 27, 2026 · @aureliustran. Sửa Nov 4, 2026: §9 gốc thị uy và song song lớp 11 – GĐ2, theo `thuyen-lang-kinh.md`. **[đề xuất · bản nháp]** Ghi lại chuỗi thảo luận ngày 27/10. Quy ước: `[hướng của tác giả 27/10]` là ý tác giả đã nói; `[chốt 27/10]` là tác giả đã gật; còn lại là đề xuất của Claude, chưa duyệt từng dòng. Chưa đối chiếu toàn văn ch.2–7 và các chương đã đăng. Không sửa file nào khác, trừ ghi chú cập nhật ở `thuyen-da-nhan-cach.md`.
 
 Liên quan: `qua-khu/README.md`, `qua-khu/thuyen-da-nhan-cach.md` (tếu), `goc.md` (§3 thang, §5 nhờn thuốc), `claude/sua-doi/M-he-gia-tri.md`, `claude/phac-thao-cap-3.md`, `claude/plan-tai-cau-truc-mo-dau.md`, `claude/danh-sach-chuong-mo-dau.md`, `den-vang/01-rules-viet.md` (quy ước interlude Thuyên).

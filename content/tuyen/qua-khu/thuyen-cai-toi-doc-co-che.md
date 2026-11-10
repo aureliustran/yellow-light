@@ -1,5 +1,7 @@
 # Đèn vàng – QK.T: cơ chế gọi cái tôi độc trong lúc hòa khí
 
+> **Đã chuyển (T3, 10/11).** Bản chính: cơ chế ở `content/world/characters/thuyen/mechanics/FN.thuyen.*`; niềm tin ở `CH.thuyen.beliefs`; cung ở `storylines/SELF/SELF.thuyen/`; bảng neo, hướng, thiết kế xuyên lá, phần lên trang, tư liệu, câu treo ở `storylines/PAST/PAST.T/` (node và mục `detail` của lá). File này giữ để lần ngược; không sửa ở đây.
+
 Oct 31, 2026 · @aureliustran. **[đề xuất · tài liệu tham khảo]** Viết theo yêu cầu tác giả tối 31/10. Sửa 23:20 cùng ngày: tác giả thấy "Tao là số 1 / Tao là kẻ mạnh nhất" nông cạn, cần nối với các trục H để giọng có nhiều câu cho nhiều ngữ cảnh; câu thần chú cũ bỏ, thay bằng §4.6. Sửa 01/11: §4.6 đổi sang giọng dựng từ thằng bé ở cột lớp một và giáo lý kẻ mạnh; thêm §4.7 cảnh thể thao, §4.8 chửi bậy; §5 thành plan tái hiện cái tôi độc trong các phần đã viết. Quy ước: `[hướng của tác giả 31/10]` là ý tác giả đã nói; còn lại là đề xuất của Claude, chưa duyệt. Chưa sửa file canon nào; các chỗ phải sửa kèm ở §7.
 
 Liên quan: `qua-khu/thuyen-hai-cai-toi.md` (§2 hai cái tôi, §6 C6b, §7 thuốc giảm đau, §8.3 giáo án hòa khí), `qua-khu/thuyen-da-nhan-cach.md` (tếu), `de-xuat/qk-t-plan-ch1-het-cap-2.md` (§0 mục 9: ba interlude đại học đứng trước ch.5), bản nháp `claude/ban-nhap/thu-v6/interlude-14-co-doc.md`, `-15-moi-met.md`, `-16-hoang-mang.md`.
