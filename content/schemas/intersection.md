@@ -4,34 +4,31 @@ kind: schema
 entity: intersection
 status: proposed
 updated: 2026-11-10
-required: [id, kind, status, updated, parent, time]
+required: [id, kind, status, updated, nodes]
 aliases: [schema.intersection]
-sources: [kien-truc-framework.md §8.3]
+sources: [kien-truc-framework.md §8.3, tác giả 10/11]
 ---
 # schema · intersection
 
-An **occasion** several nodes write into: a hyperedge, not a node. It sits outside the node tree and has its own tree (spans contain occasions). See [storylines](../../docs/framework/storylines.md#intersections).
+A **meeting of nodes**: a hyperedge, not a node. It sits outside the node tree and is **defined by its foreign keys**: two or more nodes, of any depth (`ROM.TN`, or a root such as `PAST`). Its occasions are the times those nodes actually meet. See [storylines](../../docs/framework/storylines.md#intersections).
 
-**Location:** `storylines/intersections/X-NNN.md`. **Id:** `X-NNN`. Beats are inline ids `X-NNN.B<n>` (generated).
+**Location** `proposed 10/11`: every intersection is a **folder** under `storylines/intersections/`, named by its id, holding its definition file `<id>/<id>.md`. Its occasions ([schema](occasion.md)) are files in the same folder.
 
-## Stored: the head only
+**Id:** `X.<key>`, where `<key>` is the node ids of `nodes`, sorted, joined by `+` (`X.PAST.T+ROM.PN+ROM.TN`). One set of nodes has exactly one intersection: a new meeting of the same nodes is a **new occasion** in the existing folder, numbered in order of appearance (`X.PAST.T+ROM.PN+ROM.TN-001`, `-002`). A meeting with a different set of nodes is a different intersection.
+
+## Stored
 
 | Field | Meaning |
 | --- | --- |
-| `type` | `event` (one happening) · `span` (a stretch containing events) · `info` (a knowledge occasion: who learns what) |
-| `parent` | parent intersection or `none` |
-| `time` | date or date range |
-| `place` | `[[SET.…]]` |
-| `override` | laws or register for this occasion only, with a reason |
+| `nodes` | `[[node]]` links, at least two; the key of the id; never edited after creation (a new set is a new intersection) |
+| `override` | laws or register for every occasion of this intersection, with a reason |
 | `open` | open questions (`Q-`) |
 
-## Everything else is generated (`_views/X-NNN.view.md`)
-
-Participating nodes · beat table (events with `x: X-NNN`, sorted by `beat`) · **beat holder** (node with an event in the beat and the highest level; on a tie, the owning node) · POV · register · level of the occasion · who knows what before and after (from `changes` on `SEC-`) · outcome.
+The `occasions` table in the body (occasion, name, time) is a convenience index; the files in the folder are the source.
 
 ## Rules
 
-1. An intersection **holds no events**; events live in their own node and point to it with `x` and `beat` (`LAW.check.x-consistency`).
-2. Causality across nodes is the event's `causes`, not an intersection.
+1. `nodes` holds at least two nodes and matches the id key (`LAW.check.x-key`, planned).
+2. An intersection **holds no events**; events live in their own node and point to an occasion with `x` and `beat`.
 3. Nodes never point at each other directly; they meet only at intersections.
-4. An occasion's level is not below the highest level of its events in that phase, unless `override` says why.
+4. An occasion's participating nodes (generated from events) must be a subset of its intersection's `nodes`; an event from another node means the meeting belongs to a different intersection.

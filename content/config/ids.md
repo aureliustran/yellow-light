@@ -34,7 +34,8 @@ Chuyển sang spec: [`docs/framework/ids.md`](../../docs/framework/ids.md) (ng�
 | Bí mật | `BM-` | `SEC-NNN` | `SEC-003` |
 | Tuyến cấp 1 | `QK` · `RM` · `TH` · `SL` · `GD` | `PAST` · `ROM` · `THR` · `SOL` · `FAM`; thêm `SELF` | `ROM.TN` |
 | Tình tiết | `TN-014` (mã ngắn theo node) | `<node>-<số>` | `ROM.TN-014` |
-| Giao điểm | `X-nn` | `X-NNN` | `X-009` |
+| Giao điểm | `X-nn` | `X.<key>` (khóa = id node, xếp thứ tự, nối `+`) | `X.PAST.T+ROM.TN` |
+| Lần giao | `X-nn` | `X.<key>-NNN` | `X.PAST.T+ROM.PN+ROM.TN-002` (cũ `X-006`) |
 | Quyết định | `D-nnn` | giữ | `D-031` |
 | Câu hỏi | `Q-nnn` | giữ | `Q-045` |
 | Điều hiến pháp (mới) | — | `ART.<trục>.<số>` · `ART.0.<số>` | `ART.AX3.1` |

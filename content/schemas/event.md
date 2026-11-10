@@ -32,7 +32,7 @@ Only what is the event's own, plus explicit deviations from what it inherits.
 | `axis` · `level` | `AX1` · step with its scale: `EXL 5`, `SCALE.pride 3` (default scale EXL) | inside an existential band |
 | `beliefs` | `BL-` consumed or produced | when any |
 | `fuel` · `cost` | fuel (7 kinds, `core/shared-mechanics`) · price paid | from node level `S` up |
-| `x` · `beat` | occasion and order in it: `[[X-005]]` · `2` | when part of one |
+| `x` · `beat` | occasion and order in it: `[[X.PAST.T+ROM.PN+ROM.TN-001]]` · `2` (an occasion, [schema](occasion.md)) | when part of one |
 | `changes` | attributes, relations, secrets that change: `SEC-003: +[[CH.thuyen]]` | when any |
 | `causes` | events in other nodes it causes | when any |
 | `register` · `uses` | only when different from the inherited one: `[[REG.…]]` · `[[PAT.…]]`, `[[TEC.…]]` | optional |

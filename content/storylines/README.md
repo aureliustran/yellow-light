@@ -26,9 +26,9 @@ Node gốc của mọi tuyến. Toàn bộ chức năng của thư mục cũ `tu
 | [[SOL]] | Slice of life (SL) | `storylines/SOL/` |
 | [[FAM]] | Gia đình (GD) | `storylines/FAM/` |
 
-Giao điểm `X-NNN`: `storylines/intersections/` (`X-001` … `X-018`, khung từ bảng cũ; mã cũ `X-01` là alias). Mức của tuyến và node theo giai đoạn: frontmatter `weight` và mục `weight` của từng node (thang và vai: `config/levels.md`; giai đoạn: `config/phases.md`). Mỗi node một cha; quan hệ nhiều chiều đi qua giao điểm (Q-027).
+Giao điểm: `storylines/intersections/`. Mỗi giao điểm là một thư mục `X.<key>/`, định nghĩa bằng khóa ngoại tới hai node trở lên (`nodes`; khóa = id node xếp thứ tự, nối `+`); các lần giao là file `X.<key>-NNN.md` trong thư mục, đánh số tăng dần theo thứ tự xuất hiện; cùng một tập node gặp lại thì thêm lần giao, không thêm giao điểm. 18 lần giao cũ `X-001` … `X-018` đã chuyển (mã cũ là alias). Mức của tuyến và node theo giai đoạn: frontmatter `weight` và mục `weight` của từng node (thang và vai: `config/levels.md`; giai đoạn: `config/phases.md`). Mỗi node một cha; quan hệ nhiều chiều đi qua giao điểm (Q-027).
 
-**Bố cục thư mục** `proposed 10/11`: mỗi node là một thư mục mang tên id, chứa file định nghĩa `<id>.md` (`ROM/ROM.TN/ROM.TN.md`); node con là thư mục con nằm trong thư mục của node cha. Tình tiết là cấp thực thể cuối cùng: luôn là file, nằm trong thư mục của node sở hữu (`PAST/PAST.T/PAST.T-001.md`), không bao giờ là thư mục. Giao điểm để phẳng trong `intersections/`. Id node con không được trùng tên file định nghĩa của cha khi bỏ qua chữ hoa thường (Windows không phân biệt): vì vậy `THR.MD` đổi thành `THR.MODEL` (10/11, mã cũ giữ làm alias).
+**Bố cục thư mục** `proposed 10/11`: mỗi node là một thư mục mang tên id, chứa file định nghĩa `<id>.md` (`ROM/ROM.TN/ROM.TN.md`); node con là thư mục con nằm trong thư mục của node cha. Tình tiết là cấp thực thể cuối cùng: luôn là file, nằm trong thư mục của node sở hữu (`PAST/PAST.T/PAST.T-001.md`), không bao giờ là thư mục. Node có thể sinh node con và chứa node con, không giới hạn số tầng, cho tới tình tiết là thực thể đáy. Giao điểm cũng là thư mục (`intersections/X.<key>/`), lần giao là file lá của nó. Id node con không được trùng tên file định nghĩa của cha khi bỏ qua chữ hoa thường (Windows không phân biệt): vì vậy `THR.MD` đổi thành `THR.MODEL` (10/11, mã cũ giữ làm alias).
 
 ## axes
 

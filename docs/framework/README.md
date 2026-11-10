@@ -36,7 +36,7 @@ Entity definitions (fields, types, per-kind rules) live in [`content/schemas/`](
 | Library | registers, techniques, patterns | `content/lib/` |
 | Dimension tables, classes | characters, groups, settings, objects, secrets | `content/world/` |
 | Fact tables | nodes; events as leaf rows | `content/storylines/` |
-| Hyperedge, mediator | intersections (occasions) | `content/storylines/intersections/` |
+| Hyperedge, mediator | intersections (folders keyed by ≥2 nodes) and their occasions | `content/storylines/intersections/` |
 | Build plan | chapter blueprints | `content/plans/` |
 | Release artifacts | published chapters, cross-posts | `content/posts/` |
 | CHANGELOG, issues | decisions `D-`, questions `Q-` | `content/canon/` |

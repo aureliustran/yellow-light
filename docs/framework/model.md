@@ -50,7 +50,8 @@ One line per kind; the schema is the source of truth. Ids follow [ids.md](ids.md
 | node | `ROM.TN`, `PAST.N.HD`, `SELF.thuyen` | file | `schemas/node.md` |
 | goal | `ROM.TN.G2` | inline in its node | `schemas/goal.md` |
 | event | `ROM.TN-014` | file (leaf of the node) | `schemas/event.md` |
-| intersection | `X-009` | file | `schemas/intersection.md` |
+| intersection | `X.PAST.T+ROM.TN` | folder | `schemas/intersection.md` |
+| occasion | `X.PAST.T+ROM.TN-001` | file | `schemas/occasion.md` |
 | edition | `ED.v2` | file in `plans/` | `schemas/edition.md` |
 | blueprint | `BP.v2.05` | file in `plans/chapters/` | `schemas/blueprint.md` |
 | scene | `BP.v2.05.S2` | inline in its blueprint | (with blueprint) |
@@ -75,7 +76,7 @@ Every value has exactly one owner; everywhere else links to it by id. `LAW.check
 | goal of a node | the node; goals of events point up with `serves` |
 | everything inherited by an event | nobody: resolved by tooling, never stored |
 
-A node never reads another node directly. Values cross nodes only through `world/` (static) or an intersection `X-` (dynamic); causality across nodes is the event field `causes`.
+A node never reads another node directly. Values cross nodes only through `world/` (static) or an intersection `X.` (dynamic); causality across nodes is the event field `causes`.
 
 ## Static vs dynamic `agreed 05/11`
 

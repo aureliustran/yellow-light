@@ -20,4 +20,4 @@ Sections:
 
 The knowledge ledger is **never written by hand** here. Events declare `changes: SEC-NNN: +[[CH.…]]`; the tooling builds the ledger over time into intersection views. `LAW.check.secret-leak` catches a scene using the secret when someone present does not know it yet.
 
-Candidates: Nhi's identity (Q-001), the secret adviser (X-006), channel K17.
+Candidates: Nhi's identity (Q-001), the secret adviser (`X.PAST.T+ROM.PN+ROM.TN-002`, old `X-006`), channel K17.
