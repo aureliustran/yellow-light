@@ -3318,11 +3318,6 @@
   },
   {
    "s": "CH.nhi.beliefs",
-   "t": "CH.nhi.voice",
-   "type": "link"
-  },
-  {
-   "s": "CH.nhi.beliefs",
    "t": "FN.nhi.cam",
    "type": "link"
   },
@@ -3484,6 +3479,11 @@
   {
    "s": "CH.thuyen.beliefs",
    "t": "FN.thuyen.luoi-co-chon-loc",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "CH.nhi.beliefs",
    "type": "link"
   },
   {
