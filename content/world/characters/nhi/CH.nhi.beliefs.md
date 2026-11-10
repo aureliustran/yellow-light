@@ -21,7 +21,7 @@ Khuôn hai lớp (`schemas/belief.md`): lớp định nghĩa (bắt buộc) và 
 - **question:** Mình được đo bằng gì?
 - **root:** BL-045
 - **axes:** AX3, AX7, AX5
-- **definition:** Nhi sinh ra trong một lâu đài (ẩn dụ cho tập đoàn nhà cô), với sứ mệnh sống theo ý nguyện của người sở hữu lâu đài. Cây thước của lâu đài có vạch luôn nằm dưới chân cô: mọi phép đo đều trả "đủ", nên không phép đo nào nói gì về cô. Cô bỏ cây thước ấy và đo mình bằng cái cân của mình (bỏ cây thước người khác đặt lên mình, đo bằng cái cân tự làm, [[ART.AX3]]), và lớn lên thành người đủ sức mạnh để không để sự công nhận của người khác định nghĩa mình. **Lực đẩy** của cô: nỗi sợ mình chỉ có giá trị nhờ lâu đài. **Lực kéo:** phiên bản không có lâu đài (BL-045). Cái cân của cô bỏ thước rẻ (đanh đá thì người ta vẫn nể, mở cửa hàng thì không ai cấm), nên nhẹ, vui, tinh quái, nhưng **chưa từng bị thử**.
+- **definition:** Nhi sinh ra trong một lâu đài (định nghĩa sáu phần: [[CH.nhi]] `identity`, dòng *lâu đài*), với sứ mệnh sống theo ý nguyện của người sở hữu lâu đài. Cây thước của lâu đài có vạch luôn nằm dưới chân cô: mọi phép đo đều trả "đủ", nên không phép đo nào nói gì về cô. Cô bỏ cây thước ấy và đo mình bằng cái cân của mình (bỏ cây thước người khác đặt lên mình, đo bằng cái cân tự làm, [[ART.AX3]]), và lớn lên thành người đủ sức mạnh để không để sự công nhận của người khác định nghĩa mình. **Lực đẩy** của cô: nỗi sợ mình chỉ có giá trị nhờ lâu đài. **Lực kéo:** phiên bản không có lâu đài (BL-045). Cái cân của cô bỏ thước rẻ (đanh đá thì người ta vẫn nể, mở cửa hàng thì không ai cấm), nên nhẹ, vui, tinh quái, nhưng **chưa từng bị thử**.
 
 ### BL-045
 

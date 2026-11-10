@@ -3393,6 +3393,11 @@
   },
   {
    "s": "CH.nhi.beliefs",
+   "t": "CH.nhi",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.beliefs",
    "t": "ART.AX3",
    "type": "link"
   },
