@@ -25,8 +25,8 @@ render    bậc thang "tay" thuộc ROM.TN (Vy tát, anh chặn → Nhi đấm, 
 
 ## notes
 
-- Vết thương: không biết mình đúng thật hay được nể vì là con ai; anh là nguồn chê thật duy nhất cô có, nên một câu khen từ anh làm hỏng nguồn đó.
+- Vết thương: cô không biết mình đúng thật hay chỉ được nể nang vì là con ai; anh là nguồn phê bình chân thực duy nhất của cô, nên một lời khen từ anh làm hỏng nguồn ấy.
 - **Sửa theo nhi.md §1.2:** "cãi là mặc định" của brief đổi thành "đanh đá khi giành quyền lợi hoặc bị chọc cay quá"; mặc định là ranh con `locked 30/10`.
-- Giới hạn: khí chất sang; cãi và đấm là của người không sợ ai, không phải của cô ngố.
+- Giới hạn: giữ khí chất sang trọng; cãi và đấm là hành vi của người không biết sợ ai, không phải của cô ngố.
 - Chưa chốt: tối đa một cú mỗi lần gặp; không đấm trước người lạ.
 - Tát ở *Mixue*: `locked 19/10` (bible §4.2).

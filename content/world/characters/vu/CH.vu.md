@@ -29,7 +29,7 @@ none
 
 ## purpose
 
-- **Hội đồng một người của Thuyên** `locked 19/10`. Gương với hội đồng Nhi: bên Nhi hội đồng tính, Nhi nói thẳng; bên Thuyên, Thuyên tính, Vũ nói thẳng và anh không nghe `proposed`.
+- **Hội đồng một người của Thuyên** `locked 19/10`. Gương với hội đồng của Nhi: bên Nhi, hội đồng tính toán còn Nhi nói thẳng; bên Thuyên, Thuyên tính toán còn Vũ nói thẳng và anh không lắng nghe `proposed`.
 - **Phản đề sống của [[CH.thuyen.beliefs#BL-024]]** ("Giỏi thì được thương"): Vũ thương mà không đòi gì, được thương mà không cần giỏi `locked 30/10`.
 - **Người duy nhất gọi đúng tên:** "Mày đang lùi đấy à?" `proposed`.
 - **Trao đổi:** Thuyên dạy Vũ phối đồ; Vũ dạy Thuyên cách thương người bằng hành động, và là một nguồn trong cách tiếp cận con gái của Thuyên. Thuyên học thuộc mà không làm `locked 30/10`.

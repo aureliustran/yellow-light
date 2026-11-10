@@ -33,7 +33,7 @@ Tên và cá tính `proposed` (tác giả giao Claude đặt, 19/10; đang dùng
 ## rules
 
 1. Ba người, không có thành viên nam `locked 19/10`.
-2. Không ác; phản đối nói ra như lời lo cho bạn ("Bọn tao chỉ muốn mày không khổ") `proposed`.
+2. Không ác ý; sự phản đối được diễn đạt như lời lo lắng cho bạn ("Bọn tao chỉ muốn mày không khổ") `proposed`.
 3. Không approve Thuyên vì gia thế không xứng; đối đầu vô tội vạ; càng phá càng bất lực, càng có cảm tình `locked 19/10`.
 4. Mỗi người có cảm tình theo một lý do riêng, khớp với cái thước của mình; cả hội cùng chuyển, không có phiếu lệch `proposed`.
 5. Không bao giờ nói chức danh bố Nhi trước mặt Thuyên (K11, [[SEC-001]]) `proposed`.
