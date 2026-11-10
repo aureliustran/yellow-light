@@ -3137,6 +3137,11 @@
    "type": "link"
   },
   {
+   "s": "goc",
+   "t": "ART.AX3",
+   "type": "link"
+  },
+  {
    "s": "CH.thuyen.beliefs",
    "t": "CH.thuyen",
    "type": "parent"

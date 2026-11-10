@@ -59,12 +59,14 @@ Các điều lấy căn cứ ở **thành tố**, không ở câu gốc. Câu g�
 
 ## samples
 
-### Câu gốc `locked 28/10`
+### Câu gốc `locked 10/11`
 
-Lời kể; dùng được trên trang. Câu đầu và các câu nối do Claude dựng từ câu thô của tác giả (`goc.md` §2 H3).
+Lời kể; dùng được trên trang. Câu đầu và các câu nối do Claude dựng từ câu thô của tác giả (`goc.md` §2 H3); hai câu cuối viết lại 10/11 để chứa cái cân của Thuyên (phép đo, phiên bản lý tưởng, kéo/đẩy, chuyển hóa).
 
-> *Đủ không phải là một con số. Đủ là câu trả lời cho câu hỏi: ai đang cầm thước. Thế hệ đi qua đói rét cầm một cây thước chỉ có hai vạch, no và ấm, nên đặt lên lưng đứa trẻ nào cũng thấy sướng, và không thấy thứ gì nó thiếu. Cha mẹ cầm một cây thước mà vạch cuối luôn nằm ngay cạnh con số vừa đạt. Đứa trẻ lớn lên tự làm cho mình một cái cân, thứ không cần ai gật đầu, và đó là lần đầu nó được đứng thẳng. Rồi một ngày nó quên rằng mình từng bị đo, và cầm thước lên đo người khác.*
+> *Đủ không phải là một con số. Đủ là câu trả lời cho câu hỏi: ai đang cầm thước. Thế hệ đi qua đói rét cầm một cây thước chỉ có hai vạch, no và ấm, nên đặt lên lưng đứa trẻ nào cũng thấy sướng, và không thấy thứ gì nó thiếu. Cha mẹ cầm một cây thước mà vạch cuối luôn nằm ngay cạnh con số vừa đạt. Đứa trẻ lớn lên tự làm cho mình một cái cân, thứ không cần ai gật đầu, và đó là lần đầu nó được đứng thẳng. Cái cân không nói dối: nó chỉ cân thứ được đặt lên, cho đúng một việc nó định làm. Nhưng quả cân ở đĩa bên kia là một hình người mờ, chính nó ở cuối con đường, đổi dáng mỗi lần nó đổi đường; và bàn tay đặt quả cân lên không chỉ có cái muốn, mà cả nỗi sợ của những năm mỗi vạch thiếu là một trận roi. Rồi một ngày nó vẫn nhớ từng trận roi, chỉ quên rằng đứa trẻ nằm trên thước năm ấy là mình, và đặt người khác lên cái cân làm ra cho việc của mình.*
 
 ## moved
+
+Câu gốc bản 28/10, hai câu cuối: *Đứa trẻ lớn lên tự làm cho mình một cái cân, thứ không cần ai gật đầu, và đó là lần đầu nó được đứng thẳng. Rồi một ngày nó quên rằng mình từng bị đo, và cầm thước lên đo người khác.* Thay vì: "bị đo" không đủ mạnh để thành nỗi sợ; "quên" mâu thuẫn với lực đẩy (anh nhớ cái đau, quên vị trí của mình).
 
 Số điều cũ (bản nháp B3c) → mới: .1 → .1 · .2 → .4 · .3, .4 → .2 · .5 → .2, .3.
