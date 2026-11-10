@@ -277,6 +277,42 @@ Cố ý:
 
 Không có nốt ấm sau cảnh này (§4.1 luật 3). Người bị áp chế để trống tên ở mẫu; ai là người ấy chờ tác giả (đề xuất cũ: không phải Thảo).
 
+### 6.3 Từ phức ở register ngắn `[chốt 10/11]`
+
+Ngắn, phẳng, vỡ là nhịp và cấu trúc câu; từ phức giữ nhịp ấy mà mỗi chữ chở nhiều nghĩa hơn (`01-rules-viet.md`, *Từ phức là đa số*). Mẫu kỹ thuật, không phải canon.
+
+**R8 Sổ cái** (QK.T). Bản từ đơn: *Bố lấy roi. Một. Hai. Ba. Phích trên bàn. Tám. Mạ dọn cơm.*
+
+> *Bảy giờ tối. Thời sự vừa hết phần dự báo thời tiết. Bố rút cây roi mây khỏi khe tủ, đúng vị trí cất giữ hằng ngày.*
+>
+> *Một. Hai. Ba.*
+>
+> *Ruột phích trên bàn phản chiếu ánh đèn huỳnh quang.*
+>
+> *Bốn. Năm. Sáu. Bảy. Tám.*
+>
+> *Mạ dọn mâm cơm, sắp bát đũa theo thứ tự quen thuộc.*
+>
+> *Kiểm kê cuối ngày: tám roi, hai bát cơm, một phích nước còn nguyên vẹn.*
+
+"Vị trí cất giữ hằng ngày", "thứ tự quen thuộc", "kiểm kê" nói bạo lực là thói quen (luật 2); không tính từ chỉ đau; kết bằng dòng sổ sách.
+
+**R7 Đáy.** Bản từ đơn: *Anh nằm. Trần trắng. Máy rung. Anh không xem.*
+
+> *Anh nằm nguyên tư thế từ buổi chiều. Trần nhà là một mặt phẳng không có chi tiết. Điện thoại rung; màn hình hiển thị một cái tên. Anh nhìn cái tên như nhìn một dãy ký tự. Thông báo tự động biến mất. Căn phòng trở lại trạng thái ban đầu.*
+
+Phẳng, gần như không tính từ; "một dãy ký tự" làm việc "thấy mà không đọc": cái tên người thân bị hạ xuống thành dữ liệu.
+
+**R3 Thân mật** (Thuyên – Nhi, đêm say). Bản từ đơn: *Cô dựa vào vai anh. Tóc thơm. Anh không thở.*
+
+> *Cô ngả đầu vào bờ vai anh, chậm rãi, như một quyết định đã được cân nhắc từ lâu. Hơi thở ấm áp chạm vào cổ áo. Anh giữ nguyên tư thế. Nhịp tim lệch khỏi quỹ đạo, rồi…*
+>
+> *"Ừm."*
+>
+> *Mùi hương dịu nhẹ, quen thuộc đến mức…*
+
+Vỡ hai lần; thoại là một âm thanh; "như một quyết định đã được cân nhắc từ lâu" cho thấy Nhi chủ động mà không gọi tên cảm xúc; nhịp tim là thân thể (luật POV Thuyên).
+
 ## 7. Soát nhanh trước khi nộp
 
 - Mỗi cảnh ở register nào? Ô ma trận của node chủ, giai đoạn ấy có cho phép không?

@@ -73,14 +73,14 @@ Mã con của `QK.N` như `PAST.N.HD` giữ đuôi.
 
 | Mới | Cũ | Tên trục | Trạng thái nguồn (`goc.md` §2) |
 | --- | --- | --- | --- |
-| `AX1` | H1 | Đèn vàng | proposed |
+| `AX1` | H1 | Đèn vàng | locked 10/11 |
 | `AX2` | H2 | Sống hay sống sót | locked 26/10 |
 | `AX3` | H3 | Cây thước | locked 28/10 |
-| `AX4` | H4 | Đọc người, mù với mình | proposed |
-| `AX5` | H5 | Định giá | proposed |
-| `AX6` | H6 | Thị trường là thứ người có quyền tạo ra | proposed |
+| `AX4` | H4 | Đọc người, mù với mình | locked 10/11 |
+| `AX5` | H5 | Định giá | locked 10/11 |
+| `AX6` | H6 | Thị trường là thứ người có quyền tạo ra | locked 10/11 |
 | `AX7` | H7 | Được đồng ý mà không được nghe; được khen mà không được ôm | locked 28/10 (nửa Thuyên; nửa Nhi chờ session ROM) |
-| `AX8` | H8 | Điều trị bắt đầu từ chính mình | proposed |
+| `AX8` | H8 | Điều trị bắt đầu từ chính mình | locked 10/11 |
 | `AX9` | H9 | Kẻ mạnh | locked 28/10 |
 
 ## 5. Quy tắc đổi bằng script (B7)

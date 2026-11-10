@@ -36,7 +36,7 @@ Chép từ bible §3 (nguồn [01]):
 4. **Linh kiện lên thành trục (chốt 28/10)** khi nó đủ xúc tích và đủ các tầng ý nghĩa. Nhiều linh kiện được ghép vào một trục khi hợp lý, kể cả ghép vào một trục có sẵn. Linh kiện chưa đủ tầng nghĩa thì ở lại node như bộ phận vận hành.
 5. **Câu gốc dạng đoạn hoặc bài (chốt 28/10)** dệt từ câu thô của tác giả; phần Claude nối thêm được đánh dấu trong "Nguồn của tác giả" để tác giả biết chỗ nào là chữ của mình.
 
-### H1. Đèn vàng `[đề xuất]`
+### H1. Đèn vàng `[chốt 10/11]`
 - Câu gốc: *Người dừng lại để hiểu thì chậm một nhịp. Người chạy qua thì hiểu muộn một đời.*
 - Câu trên trang: chưa có.
 - Nguồn của tác giả: hình ảnh "Thuyên dừng, Nhi vượt"; ở v2 là cách anh yêu (chỉ tiến khi đã đọc trước kết quả). Câu gốc do Claude dựng, chờ lời của tác giả.
@@ -83,10 +83,10 @@ Chép từ bible §3 (nguồn [01]):
 
 | Mã | Trục | Câu có sẵn | Họ ý | Trạng thái |
 | --- | --- | --- | --- | --- |
-| H4 | **Đọc người, mù với mình:** lăng kính thấy khuyết của mọi thứ; cảm xúc không kêu thành tiếng rơi vào điểm mù | "một cái nhìn không kêu thành tiếng thì chưa phải là chỗ kẹt" (ch.7). Câu tác giả 25/10 22:27: *Một nửa sự thật không biến một lời nói dối thành sự thật, nhưng nó biến một lời nói dối thành một lời nói dối đáng tin.* (cung GĐ2, nấc 8, H5 và H4) | Socrates (biết chính mình), Johari window | `[đề xuất]` câu gốc chưa trau |
-| H5 | **Định giá:** tiền, danh tiếng, con người là lời hứa nhiều người cùng tin; mỏ neo; ai có quyền đặt giá | "Tiền là một lời hứa mà rất nhiều người cùng đồng ý tin vào… cần một thứ nặng để buộc vào" (ch.29) | Searle, Harari (ý, không chép câu) | `[đề xuất]` |
-| H6 | **Thị trường là thứ người có quyền tạo ra:** cờ và bài, bàn cờ hay lá bài, ai là người chơi | "thị trường là thứ người có quyền tạo ra" (bible §6) | Polanyi (ý) | `[đề xuất]`, chưa có câu của tác giả |
-| H8 | **Điều trị bắt đầu từ chính mình;** tình yêu giúp duy trì, không chữa | "điều trị bắt đầu từ chính mình, tình yêu giúp duy trì chứ không chữa" (bible §3) | Luca 4:23 (chưa tra văn bản) | `[đề xuất]` |
+| H4 | **Đọc người, mù với mình:** lăng kính thấy khuyết của mọi thứ; cảm xúc không kêu thành tiếng rơi vào điểm mù | "một cái nhìn không kêu thành tiếng thì chưa phải là chỗ kẹt" (ch.7). Câu tác giả 25/10 22:27: *Một nửa sự thật không biến một lời nói dối thành sự thật, nhưng nó biến một lời nói dối thành một lời nói dối đáng tin.* (cung GĐ2, nấc 8, H5 và H4) | Socrates (biết chính mình), Johari window | `[chốt 10/11]` (tác giả duyệt nguyên trạng; câu gốc chưa trau) |
+| H5 | **Định giá:** tiền, danh tiếng, con người là lời hứa nhiều người cùng tin; mỏ neo; ai có quyền đặt giá | "Tiền là một lời hứa mà rất nhiều người cùng đồng ý tin vào… cần một thứ nặng để buộc vào" (ch.29) | Searle, Harari (ý, không chép câu) | `[chốt 10/11]` (tác giả duyệt nguyên trạng; câu gốc chưa trau) |
+| H6 | **Thị trường là thứ người có quyền tạo ra:** cờ và bài, bàn cờ hay lá bài, ai là người chơi | "thị trường là thứ người có quyền tạo ra" (bible §6) | Polanyi (ý) | `[chốt 10/11]` (tác giả duyệt nguyên trạng; câu gốc chưa trau) |
+| H8 | **Điều trị bắt đầu từ chính mình;** tình yêu giúp duy trì, không chữa | "điều trị bắt đầu từ chính mình, tình yêu giúp duy trì chứ không chữa" (bible §3) | Luca 4:23 (chưa tra văn bản) | `[chốt 10/11]` (tác giả duyệt nguyên trạng; câu gốc chưa trau) |
 
 Tác giả gửi câu thô cho H1, H6 để trau (Q-037). H3, H7 đã có câu thô từ 27–28/10.
 
