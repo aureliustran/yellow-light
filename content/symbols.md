@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 203 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
+Có phần đầu (frontmatter): 210 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -74,10 +74,17 @@ Có phần đầu (frontmatter): 203 file. Chưa chuyển sang khuôn mới (leg
 | `GUIDE.task.revise-chapter` | `guide` | `draft` | `guidelines/tasks/revise-chapter.md` | **Trigger:** "sửa đoạn …", "chương N đọc chưa ổn". |
 | `GUIDE.task.sync-blueprint` | `guide` | `draft` | `guidelines/tasks/sync-blueprint.md` | **Trigger:** after writing; after the author edits a chapter; `LAW.check.bp-drift` or `bp-anchor` reports. |
 | `GUIDE.task.write-scene` | `guide` | `draft` | `guidelines/tasks/write-scene.md` | The blueprint scene(s) assigned to you; its write-kit. |
-| `PAST` | `node` | `agreed` | `storylines/PAST/PAST.md` | Gốc của các node quá khứ: mỗi node là một bảng neo sinh niềm tin mà hiện tại tiêu thụ. Luật kể quá khứ (bốn luật QK): `tuyen/qua-khu/READ… |
+| `PAST` | `node` | `agreed` | `storylines/PAST/PAST.md` | Gốc của các node quá khứ. QK phát triển nhân vật qua hồi tưởng. QK không chạy song song với hiện tại; nó là **nhà sản xuất** cho các tuyế… |
 | `PAST.DA` | `node` | `proposed` | `storylines/PAST/PAST.DA/PAST.DA.md` | Nhà giàu thật, ngã năm 14 tuổi, Astrea mua lại; ghế do người khác xếp. Độ mỏng (`tuyen/qua-khu/README.md` §5). |
 | `PAST.K` | `node` | `proposed` | `storylines/PAST/PAST.K/PAST.K.md` | Động cơ người anh, dùng em gái làm màn khói. Rất mỏng, chỉ phục vụ sau sân bay (Phần 4) (`tuyen/qua-khu/README.md` §5). |
-| `PAST.N` | `node` | `proposed` | `storylines/PAST/PAST.N/PAST.N.md` | Bảng neo của Nhi, độ mỏng: chỉ những mảnh sinh niềm tin mà hiện tại dùng (Q-025). Nguồn: `tuyen/qua-khu/nhi.md` (chuyển ở T3). |
+| `PAST.N` | `node` | `agreed` | `storylines/PAST/PAST.N/PAST.N.md` | Bảng neo của Nhi, độ **mỏng**: chỉ những mảnh sinh niềm tin mà hiện tại dùng, kể bằng POV Nhi hoặc interlude (`locked 26/10`, Q-025). Khu… |
+| `PAST.N-001` | `event` | `page` | `storylines/PAST/PAST.N/PAST.N-001.md` | *Màu be*: váy hồng đổi sang be; Khải 19 tuổi bóc bảy con tôm, 'Váy hồng đẹp hơn'; bố: 'Thằng lớn thì theo tôi. Còn con bé thì sau này lấy… |
+| `PAST.N-002` | `event` | `agreed` | `storylines/PAST/PAST.N/PAST.N-002.md` | Lần đầu cô đanh đá trước người lớn: cãi lại câu 'con bé thì lấy chồng'. Kể ở một interlude GĐ1 |
+| `PAST.N-003` | `event` | `agreed` | `storylines/PAST/PAST.N/PAST.N-003.md` | Năm 16 tuổi, bố mẹ mai mối công khai theo đúng gu Nhi tự khai: Misha, 1m85, đạt mọi ô. Cô thấy nhạt, xóa thư mục ảnh của buổi chụp, kết t… |
+| `PAST.N-004` | `event` | `agreed` | `storylines/PAST/PAST.N/PAST.N-004.md` | Lượt 2, ngầm: bố mẹ chọn người có thể yêu Nhi một cách tự nhiên (Phong, con nhà đối tác của Astrea) và tạo điều kiện; Phong được xếp cạnh… |
+| `PAST.N-005` | `event` | `page` | `storylines/PAST/PAST.N/PAST.N-005.md` | *Hồng*: tự học; IELTS 5.5 → 6.0 → 6.5; tự để dành tiền mua máy ảnh phim cũ 2,4 triệu (cũ: 3/2025, nay 3/2023); cuộn đầu có tấm mẹ gỡ xươn… |
+| `PAST.N-006` | `event` | `agreed` | `storylines/PAST/PAST.N/PAST.N-006.md` | Shop và KOC lớn lên: bắt đầu từ lớp 10 bằng pass đồ, rồi nhập hàng, rồi handmade; tự làm mẫu. Một dòng (cũ N.5): món đồ đầu tiên cô bán, … |
+| `PAST.N.HD` | `node` | `agreed` | `storylines/PAST/PAST.N/PAST.N.HD/PAST.N.HD.md` | Phần hội đồng ([[GRP.hoi-dong-nhi]]) trong quá khứ của Nhi. Dừng ở 10/2024; từ đó trở đi là [[SOL.HD]] `locked 30/10`. Không có mức riêng… |
 | `PAST.T` | `node` | `agreed` | `storylines/PAST/PAST.T/PAST.T.md` | Bảng neo: những gì đã xảy ra với Thuyên từ mầm non tới hết thực tập, mỗi neo sinh một hoặc vài niềm tin ([[CH.thuyen.beliefs]]) mà hiện t… |
 | `PAST.T-001` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-001.md` | Đếm bánh chưng; đếm đúng mà không ai tin. |
 | `PAST.T-002` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-002.md` | Tủ kính: tờ của chị họ đẩy tờ *tiên tiến* của anh vào trong. "Có tờ mới thì ra." |

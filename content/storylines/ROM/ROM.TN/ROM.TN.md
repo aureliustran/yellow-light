@@ -49,6 +49,21 @@ Phiên bản lý tưởng của Thuyên nằm **bên trong lâu đài** của Nh
 
 Ở điểm gãy cả hai quay về đo nhau bằng cây thước cũ mình tưởng đã bỏ: anh đo cô bằng lâu đài ("em giấu anh chín tháng", đêm 15/7), cô đo anh bằng hình bóng bố và Khải. Cái cân của Thuyên vẫn đúng mà hết nhiên liệu; cái cân của Nhi lần đầu bị thử khi không có ai dọn.
 
+### past `locked 31/10`
+
+Gương quá khứ có sẵn trên trang Thuyên (thu-v6) và ở [[PAST.N]] (chuyển từ `tuyen/qua-khu/nhi.md` §1.8, T3 10/11). Cột giữa đọc từ lá của [[PAST.N]]; không lá nào trỏ ngược lại.
+
+| PAST.T (thu-v6, plan phần mở đầu) | PAST.N | Dùng ở |
+| --- | --- | --- |
+| "Đến năm mười lăm tuổi, anh chưa từng mặc một thứ gì do mình chọn" (ch.4); anh chọn đồ cho cả thiên hạ (Vũ, Hưng); ở summit anh mặc polo, không mặc sơ mi trắng mạ gửi (ch.5) | Váy be bị đổi (N.1); váy be còn nguyên mác cuối tủ, bộ vest be mẹ may cô cất đi, mặc áo len hồng (v1 *Hồng phấn*, *Kem viền nhũ vàng*); cô dựng shop để tự chọn | Ở summit có hai người không mặc thứ người ta chọn cho mình, chưa ai biết điều đó về người kia. Hợp tác shop: anh chọn đồ nam (plan PAST.T §5 đã giao RM cảnh "anh giúp Nhi ở cửa hàng quần áo") |
+| Luôn đứng sau máy, ít ảnh có mặt mình, tấm nào cũng tự dựng khung; tấm ảnh chào cờ là "tấm duy nhất một người khác nhìn anh" (*Tủi hổ*) | Cô đứng trước máy, tự làm mẫu, có con mắt chụp; anh 1m85 tạo dáng đúng từng chữ nên ảnh chết (N.4 nhịp 4) | Thuyên làm mẫu cho shop: tấm thứ hai có người khác nhìn anh, và ảnh sống. Payoff RM `[giao RM]` |
+| Mở IG cô bạn cũ, không follow, không xem story vì "story để lại tên" (ch.2, *Tủi hổ*) | Cô là KOC, đọc được danh sách người xem story | Lần đầu anh xem story của Nhi là lần đầu anh để lại tên `[giao RM]` |
+| Mạ gỡ xương cá (1.4) | Mẹ Nhi gỡ xương cá (v1 *Hồng phấn*; tấm ảnh trong cuộn phim đầu, *Hồng*) | `locked 31/10` giữ làm gương có chủ ý: hai bà mẹ thương bằng vật |
+| Vũ lật cớ "môn đăng hộ đối" (plan PAST.T §4, GĐ1) | Gu tự khai §1.6, Nhi nói ra ở X-05 | Vũ chỉ đánh trúng được nếu Nhi đã nói câu ấy trước mặt Thuyên |
+| Bài phát biểu là "phiên bản ba mươi giây", nụ cười tập trước gương | Khéo là công cụ của cô (§1.2), cô từng kết thúc lượt 1 bằng một màn khéo (N.4 nhịp 5) | Khéo nhận ra khéo: vì sao cô đếm được chỗ anh dừng cho người ta cười (§8, 5b) |
+
+- **Cầu nối có sẵn trên trang:** máy ảnh phim và ảnh daily (*Hồng*); tên interlude là tên phim (*Portra 400*, *Quầng cam Cinestill*); nơ là motif của cô; Thuyên có "ảnh aesthetic" (bible §4.1); Phong có máy ảnh, cuộn phim chưa tráng (Q-019).
+
 ### samples
 
 - Thuyên, câu mẫu tự thoại (`01-rules-viet.md`): *"Liệu khán giả muốn nghe chuyện thật. Có thể. Không, chắc chắn là không: chuyện thật không có tiếng vỗ tay. Vì vậy, anh gõ lại câu ấy."*

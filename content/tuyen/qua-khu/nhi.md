@@ -1,5 +1,7 @@
 # Đèn vàng – QK.N: bảng neo của Nhi
 
+> **Đã chuyển (T3, 10/11).** Bản chính: `content/storylines/PAST/PAST.N/` (node, lá PAST.N-001 … 006, node con PAST.N.HD); lõi nhân vật ở `content/world/characters/nhi/`; gương QK.T – QK.N ở mục `mirror` (`past`) của `ROM.TN`. File này giữ để lần ngược; không sửa ở đây.
+
 Oct 29, 2026 · @aureliustran. Cập nhật 30/10: luật màu hồng (§1.5); tính cách tiểu thư nổi loạn và "ranh con" (§1.2); node con QK.N.HD (§4); Thảo và người yêu cũ bỏ (31/10), Misha thay vai người yêu cũ (§5); gu tự khai (§1.6); hai lượt mai mối (§1.7, N.4, N.4b). Cập nhật 31/10: tác giả chốt toàn bộ đề xuất; đối chiếu thu-v6 QK.T và interlude Nhi v1; gương QK.T – QK.N (§1.8); gu đồ uống (§1.9); plan interlude Nhi ở phần mở đầu (§8). Node `QK.N` (đỉnh A), độ **mỏng**: chỉ giữ những mảnh sinh niềm tin mà hiện tại dùng, kể bằng POV Nhi hoặc interlude (chốt 26/10, Q-025). Khuôn neo năm trường theo `qua-khu/README.md` §2.
 
 **Nhãn:**

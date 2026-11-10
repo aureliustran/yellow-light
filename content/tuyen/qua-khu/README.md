@@ -1,5 +1,7 @@
 # Đèn vàng – Tuyến Quá khứ (QK)
 
+> **Đã chuyển (T3, 10/11).** Bản chính: `content/storylines/PAST/PAST.md` (vai, khuôn neo, bốn luật, node con); bảng niềm tin cũ ở `world/characters/*/CH.*.beliefs.md`. File này giữ để lần ngược; không sửa ở đây.
+
 Oct 26, 2026 · @aureliustran. **[chốt 26/10]** luật QK và khuôn neo. Bảng niềm tin là `[đề xuất]`: cột "Tiêu thụ ở hiện tại" do Claude đặt, chưa duyệt từng dòng. Nguồn: `de-xuat/cay-tuyen.md` §3. **Sửa 30/10:** luật 4 thêm *chuỗi hồi tưởng* (quãng 1 và 2 là một chuỗi mười ba interlude) và *luật khung*. **Cập nhật 27–28/10:** QK.T có bảng neo riêng (`thuyen.md`), chia ba quãng; bỏ Vy; HSG quốc gia 2023 không giải; thêm NT-24 "Giỏi thì được thương" làm niềm tin gốc của QK.T, và NT-25 "Mình không thiếu" (cuộc cãi với cái gối). Các dòng mới ghi `[27/10]`, `[28/10]`.
 
 ## 1. Vai trò
