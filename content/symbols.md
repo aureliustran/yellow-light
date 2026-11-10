@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 129 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
+Có phần đầu (frontmatter): 130 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -53,6 +53,7 @@ Có phần đầu (frontmatter): 129 file. Chưa chuyển sang khuôn mới (leg
 | `GUIDE.task.add-event` | `guide` | `draft` | `guidelines/tasks/add-event.md` | What happens; the node it belongs to; the goal it serves. |
 | `GUIDE.task.add-law-or-technique` | `guide` | `draft` | `guidelines/tasks/add-law-or-technique.md` | Must hold (pass/fail) → **law**. A voice bundle → **register**. A method → **technique**. The shape of a beat or scene → **pattern**. A m… |
 | `GUIDE.task.audit` | `guide` | `draft` | `guidelines/tasks/audit.md` | **Trigger:** "rà soát ch.N–M", or before a new phase. |
+| `GUIDE.task.compound-words-sweep` | `guide` | `draft` | `guidelines/tasks/compound-words-sweep.md` | **Trigger:** "rà luật từ phức", "scan and fix từ phức", or after a batch of new design files. |
 | `GUIDE.task.crosspost-convert` | `guide` | `draft` | `guidelines/tasks/crosspost-convert.md` | **Trigger:** "chuyển chương 1–5 cho rookies", "convert chapter 12 for rookies", "làm bản đăng chéo". |
 | `GUIDE.task.plan-chapter` | `guide` | `draft` | `guidelines/tasks/plan-chapter.md` | **Trigger:** "lên plan ch.N", step 1–2 of "viết ch.N–M". |
 | `GUIDE.task.propose-options` | `guide` | `draft` | `guidelines/tasks/propose-options.md` | **Trigger:** "nghĩ cách xử lý …", "có những hướng nào cho …", "dựng kho cho …", "thiết kế sự kiện …". |

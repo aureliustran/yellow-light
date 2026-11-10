@@ -650,6 +650,16 @@
    "effective": ""
   },
   {
+   "id": "GUIDE.task.compound-words-sweep",
+   "path": "guidelines/tasks/compound-words-sweep.md",
+   "title": "Task: compound-words sweep (scan and fix)",
+   "layer": "spec",
+   "kind": "guide",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "GUIDE.task.crosspost-convert",
    "path": "guidelines/tasks/crosspost-convert.md",
    "title": "Task: convert chapters for a cross-posting site",
@@ -4032,6 +4042,11 @@
    "type": "ref"
   },
   {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.compound-words-sweep",
+   "type": "ref"
+  },
+  {
    "s": "M-cai-nhau-bo-me",
    "t": "M-he-gia-tri",
    "type": "ref"
@@ -5409,6 +5424,51 @@
   {
    "s": "GUIDE.task.add-event",
    "t": "SCH.event",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.task.compound-words-sweep",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.task.compound-words-sweep",
+   "t": "SCH.belief",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.task.compound-words-sweep",
+   "t": "CH.thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.task.compound-words-sweep",
+   "t": "CH.thuyen.voice",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.task.compound-words-sweep",
+   "t": "CH.thuyen.mechanics",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.task.compound-words-sweep",
+   "t": "SELF.thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.task.compound-words-sweep",
+   "t": "PAST.T",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.task.compound-words-sweep",
+   "t": "CH.nhi",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.task.compound-words-sweep",
+   "t": "CH.nhi.voice",
    "type": "ref"
   },
   {

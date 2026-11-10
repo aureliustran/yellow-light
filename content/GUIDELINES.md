@@ -45,6 +45,7 @@ Read this first in every session. It says how to work on the story. For what the
 | Revise a written chapter | [tasks/revise-chapter.md](guidelines/tasks/revise-chapter.md) |
 | Audit a range of chapters | [tasks/audit.md](guidelines/tasks/audit.md) |
 | Convert chapters for a cross-posting site | [tasks/crosspost-convert.md](guidelines/tasks/crosspost-convert.md) |
+| Sweep design text for the compound-words rule (scan and fix) | [tasks/compound-words-sweep.md](guidelines/tasks/compound-words-sweep.md) |
 
 ## Transitional mode (until migration B3–B8 is done)
 
