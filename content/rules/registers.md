@@ -18,6 +18,7 @@ Phân việc với các file khác:
 3. **[chốt 28/10 · ủy quyền] Độ gắt đến từ việc giấu, không từ tính từ.** R8 và R9 vẫn tuân luật "lời kể POV Thuyên không gọi tên cảm xúc". Gắt nằm ở: sự việc trần, con số, khuôn câu lặp, người gây đau thấy mình tử tế, và chỗ không ai an ủi.
    **[chốt 28/10, 13:22] Ngoại lệ QK.T quãng 1:** lời kể đứa trẻ gọi tên cảm xúc mãnh liệt, kèm kết luận nhân sinh của nó; cảnh đỉnh dựng, không tóm; R8 lùi thành dư chấn (chuỗi đếm, kiểm kê, dòng sổ) sau cảnh nóng (`goi-ten-cam-xuc.md` §4a). Lý do: roi vọt phổ biến và bị bình thường hóa trong khung "dạy con"; kể bằng giọng lạnh thì người đọc tự lấp bằng khung ấy (bản thử v4 bị chấm nhẹ, tự sự). Luật 3 này giữ nguyên cho TH.LAB GĐ2, GÃY và R9.
 4. **[chốt 28/10 · ủy quyền] R8, R9 hiếm thì mới nặng.** Chỉ dùng ở ô ma trận cho phép (§3). Ngoài ô thì cần tác giả duyệt và ghi ở cột `Register` của tình tiết.
+5. **[chốt 10/11] Từ phức là đa số, từ đơn là thiểu số, ở mọi register.** Luật gốc ở `01-rules-viet.md` (*Nguyên tắc chung*). Áp cho lời kể, tự thoại, độc thoại, tài liệu thiết kế; thoại thì tự nhiên, ưu tiên từ phức khi nhân vật thông minh, cân nhắc kỹ, hoặc đang diễn giải điều phức tạp. Register ngắn (R3, R7, R8) cũng áp đủ: ngắn là nhịp và cấu trúc câu, không phải độ nghèo của từ (§6.3); luật riêng của register vẫn đứng (R7 ít tính từ, R8 không tính từ chỉ đau và màu). Từ đơn dùng có chủ đích: nhịp cụt khi căng, câu chốt, chửi, âm đệm. Viết đổi từ, giữ nhịp. Trước khi nộp: §7. Quét lại văn bản có sẵn: `guidelines/tasks/compound-words-sweep.md`.
 
 ## 1. Bảng register
 
@@ -325,6 +326,7 @@ Vỡ hai lần; thoại là một âm thanh; "như một quyết định đã đ
 - Khối R9 có kết bằng lời phủ nhận không?
 - Cảnh đỉnh của QK.T có đi đủ năm lớp của §2.5 không? Ký ức đau có lỡ mang mốc thời gian, ký ức ấm có lỡ thành mảnh vụn không? R9 có đứng trước khi R8 đặt đủ sự việc không (luật đủ)?
 - QK.T quãng 1 (`goi-ten-cam-xuc.md` §4a): cảnh đỉnh có dựng đủ (thời gian tâm lý, lời người lớn nói đủ câu) hay đang tóm? Cảm xúc có được gọi tên mãnh liệt bằng chữ của đứa trẻ không? Có kết luận nhân sinh đúng Nấc-HS không, và có vượt sự việc trên trang không? R8 có đứng sau nhịp gọi tên, như dư chấn, không? Khung hiện tại có khô quá mức so với §1 không?
+- Từ phức (§0.5): lời kể, tự thoại, độc thoại có chuỗi từ một âm tiết kéo dài mà một từ ghép hoặc từ láy chở được nghĩa sâu hơn không? Đã đổi từ mà vẫn giữ nhịp ở R3, R7, R8 chưa? Từ đơn còn lại có phải nhịp cụt, câu chốt, chửi, âm đệm có chủ đích không? Ngoại lệ vẫn đứng: thoại tự nhiên, câu trích, từ vựng Thuyên dùng nguyên văn (*khuyết, sửa, đủ, chấm…*), *bố mẹ*, *sự công nhận*, *nó* ở POV Thuyên.
 - Danh sách lặp phải đếm: xem skill `den-vang-van-phong` §5.
 
 ## 8. Còn chờ
