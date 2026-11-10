@@ -295,14 +295,15 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-026
 
-- **definition:** Câu hỏi bị trừng phạt, nên kiến thức phải tự tìm. Về sau anh thành người chỉ cho người khác thứ mình chưa từng được chỉ. Con của 001.
+- **definition:** Người khác không biết thứ anh muốn biết, hoặc không muốn cho anh biết, hoặc trừng phạt anh vì không biết; vì vậy anh hạn chế hỏi. Nhưng khi gặp người biết thứ anh muốn biết và sẵn lòng chia sẻ, anh vẫn hỏi. Niềm tin không nằm ở việc *có hỏi hay không*, mà ở việc *hỏi ai*. **Ban đầu chưa hoàn thiện:** ở quãng 1 anh ngại hỏi cả với người sẵn lòng, vì chưa phân biệt được ba loại người; bộ lọc chỉ thành hình về sau. **Giá:** anh thành người chỉ cho người khác thứ mình chưa từng được chỉ. Con của 001.
 - **ref:** `câu` · Kant, *Trả lời câu hỏi: Khai sáng là gì?* (1784): *"Sapere aude! Have courage to use your own understanding!"* (https://users.manchester.edu/FacStaff/SSNaragon/Kant/lp/Readings/Kant,%20Enlightenment.html)
-- **deviation:** với Kant, tự dùng trí tuệ là lòng can đảm thoát khỏi sự giám hộ; với Thuyên, đó là tự chủ do bị bỏ rơi, không phải do can đảm.
+- **deviation:** Kant chối bỏ sự giám hộ; Thuyên không chối bỏ người chỉ dẫn, anh dùng cái cân để chọn lọc người đáng hỏi. Tự học không phải lý tưởng của anh, mà là phương án dự phòng khi không có người xứng đáng.
 - **seen:** `thay`
 - **monologue:**
-  - `ngo-nhan` · quãng 1: *Mỗi câu hỏi là một lần thừa nhận mình không biết, và mỗi lần thừa nhận như vậy đều bị trừng phạt. Vậy kiến thức không đến từ việc hỏi, mà từ việc tự tìm tòi. Mình sẽ không hỏi ai nữa; thứ gì muốn biết, mình tự học.*
+  - `ngo-nhan` · quãng 1: *Mỗi câu hỏi là một lần thừa nhận mình không biết, và lần thừa nhận nào cũng có thể bị trừng phạt. Có những câu người lớn không trả lời được, có những câu họ không muốn trả lời, và có những câu khiến mình bị mắng chỉ vì đã không biết. Vậy hỏi là một việc rủi ro. Tốt nhất là hạn chế hỏi; thứ gì tự tìm được thì tự tìm.*
+  - `dien-giai` · về sau (thời điểm `needs-decision`): *Vấn đề không nằm ở việc hỏi, mà ở người được hỏi. Người không có hiểu biết thì không trả lời được; người không muốn chia sẻ thì trả lời bằng sự im lặng hoặc sự trừng phạt. Nhưng người vừa có hiểu biết vừa sẵn lòng chia sẻ vẫn tồn tại, chỉ hiếm hoi. Vì vậy, mình không từ bỏ việc hỏi; mình chọn lọc người để hỏi.*
 - **parent:** BL-001
-- **other-face:** none
+- **other-face:** người vừa biết vừa sẵn lòng chia sẻ
 - **axis · step:** EXL 2→3 · AX7
 - **origin:** PAST.T quãng 1: xe đạp (QT-04), ba lần xin người nghe (QT-12), bài toán không ai chỉ (QT-27)
 - **consumed (nguồn cũ):** anh thành người chỉ cho người khác thứ mình chưa từng có: giáo án Tin, dạy Nhi, quân sư cho Phong
