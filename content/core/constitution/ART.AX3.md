@@ -1,7 +1,7 @@
 ---
 id: ART.AX3
 kind: constitution
-status: proposed
+status: locked
 updated: 2026-11-10
 axis: AX3
 aliases: [hiến pháp AX3, Cây thước]
@@ -9,7 +9,7 @@ sources: [hội thoại 10/11 (hai cây thước, hai lực, thành tố), tuyen
 ---
 # ART.AX3 · Chương AX3: Cây thước
 
-Các điều lấy căn cứ ở **thành tố**, không ở câu gốc. Câu gốc là lời kể, chỉ kể được thước của người khác; nó nằm ở `samples`. Luật giai đoạn lấy căn cứ ở đây (`basis`). Thành tố `locked 10/11`; lời từng điều `proposed`, chờ tác giả duyệt.
+Các điều lấy căn cứ ở **thành tố**, không ở câu gốc. Câu gốc là lời kể, chỉ kể được thước của người khác; nó nằm ở `samples`. Luật giai đoạn lấy căn cứ ở đây (`basis`). Thành tố và lời từng điều `locked 10/11`.
 
 ## thành tố `locked 10/11`
 
@@ -31,7 +31,7 @@ Các điều lấy căn cứ ở **thành tố**, không ở câu gốc. Câu g�
 - **allows:** xác nhận dữ kiện phép đo nhặt đúng (lập luận hở chỗ nào, khoảng cách bao xa)
 - **forbids:** người kể xác nhận một mục tiêu, vạch đích, hay mức "đủ", "giỏi", "thành công" như sự thật không người đặt; lời kể tự chấm điểm nhân vật
 - **applies-to:** mọi tình tiết, mọi giai đoạn
-- **status:** `proposed`
+- **status:** `locked 10/11`
 
 ### ART.AX3.2
 
@@ -39,7 +39,7 @@ Các điều lấy căn cứ ở **thành tố**, không ở câu gốc. Câu g�
 - **basis:** kiểu thước
 - **forbids:** biến người lớn thế hệ đói rét thành ác nhân có chủ ý; người kể nói mạ thương ai hơn (`locked 30/10`); một thành tích làm người cầm vạch dời hài lòng hẳn (trước hồi phục), cảnh bố mẹ nói "thế là đủ" mà không dời vạch; chế giễu cái cân hay phiên bản lý tưởng như ảo tưởng; gộp cái cân (cái tôi lành) với cây thước (cái tôi độc); gộp vạch dời với phiên bản lý tưởng
 - **applies-to:** `PAST.T`, `FAM.T`, `CH.thuyen`; vạch dời: mọi giai đoạn trước `AFTER`
-- **status:** `proposed`
+- **status:** `locked 10/11`
 
 ### ART.AX3.3
 
@@ -47,7 +47,7 @@ Các điều lấy căn cứ ở **thành tố**, không ở câu gốc. Câu g�
 - **basis:** động cơ · mục tiêu, vạch đích
 - **forbids:** coi phép đo của Thuyên là sai số; để anh thấy lực đẩy sau phiên bản lý tưởng trước điểm gãy (G3 của [[SELF.thuyen]])
 - **applies-to:** `CH.thuyen`, `SELF.thuyen`, mọi giai đoạn có plan
-- **status:** `proposed`
+- **status:** `locked 10/11`
 
 ### ART.AX3.4
 
@@ -55,7 +55,7 @@ Các điều lấy căn cứ ở **thành tố**, không ở câu gốc. Câu g�
 - **basis:** chuyển hóa
 - **forbids:** dùng quá khứ bị đo để xóa giá của việc đo người khác; lời kể bào chữa cho người cầm thước
 - **applies-to:** tình tiết có `pov = CH.thuyen` từ P2; mọi nhân vật từng bị đo
-- **status:** `proposed`
+- **status:** `locked 10/11`
 
 ## samples
 
