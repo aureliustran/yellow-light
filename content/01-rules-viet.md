@@ -21,7 +21,7 @@ Cho thấy là mặc định: người đọc tự cảm nhận qua chi tiết. 
   - Đối chiếu: *Thương thì người ta rút lại được.* → *Tình thương là một ân huệ: người khác ban cho, nên người khác có quyền thu hồi.*
   - **Thoại** (chốt 10/11): để tự nhiên, không ép tỉ lệ. Ưu tiên từ phức khi (1) nhân vật thông minh, hoặc ở hoàn cảnh phải cân nhắc kỹ trước khi nói; (2) nhân vật đang diễn giải một điều phức tạp. Thuyên vì vậy vẫn dùng nhiều từ phức trong thoại.
   - **Độc thoại** (chốt 10/11): áp đủ luật.
-  - Chờ tác giả: mức áp cho các register cố ý ngắn (R3 câu vỡ, R7 đáy phẳng, R8 sổ cái).
+  - **Register ngắn** (R3 câu vỡ, R7 đáy phẳng, R8 sổ cái; chốt 10/11): áp đủ luật. Ngắn, phẳng, vỡ là **nhịp và cấu trúc câu**, không phải độ nghèo của từ; cái ngắn của cả ba nhằm thể hiện độ sâu, và từ phức dài hơn về cấu trúc nhưng xúc tích hơn về nghĩa so với một câu toàn từ đơn. Luật riêng của từng register vẫn đứng (R7 ít tính từ; R8 không tính từ chỉ đau, chỉ màu; chuỗi đếm giữ con số).
 
 ### Lời thoại
 
