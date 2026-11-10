@@ -4,7 +4,7 @@ kind: schema
 entity: belief
 status: agreed
 updated: 2026-11-10
-required: [id, statement, axis, status]
+required: [id, definition, axis, status]
 aliases: [schema.belief]
 sources: [kien-truc-framework.md §5, hội thoại 10/11 (hai lớp, tham chiếu, ngộ nhận và diễn giải)]
 ---
@@ -18,8 +18,8 @@ A belief (old `NT-`): what a character holds about self, others or the world, pr
 
 | Layer | Required | Content |
 | --- | --- | --- |
-| **definition** | yes | What the belief is, from the author's side: the core proposition, why it is half true, what it protects, what it costs. May cite a reference (`ref`). This is what an agent reads to know what to write |
-| **monologue** | optional | How it sounds inside the character's head, **only when the character sees it**. Field `seen`: `thay` (has words) · `nua` (surfaces, then denied) · `khong` (shows only in behaviour; no monologue). `seen` may change by phase |
+| **definition** | yes | What the belief means, from the author's side: the core proposition, why it is half true, what it protects, what it costs. May cite a reference (`ref`). No separate title or slogan line: the definition carries the meaning |
+| **monologue** | optional | The belief described **as the character thinks it**, written only when the character sees it. A design tool: it tells the writer how the belief surfaces and is narrated in the story. Copying its words onto the page is optional. Field `seen`: `thay` (has words) · `nua` (surfaces, then denied) · `khong` (shows only in behaviour; no monologue). `seen` may change by phase |
 
 A monologue may have **stages**, each tagged with an age or phase:
 - `ngo-nhan` (misconception): the child's conclusion, usually an accusation, drawn straight from the wound.
@@ -31,12 +31,11 @@ An innate psychological effect that the character holds no thought about is **no
 
 | Field | Meaning |
 | --- | --- |
-| `statement` | one line: the core of the definition (for tables and indexes) |
-| `definition` | the definition layer, prose |
+| `definition` | the definition layer, prose; its first sentence states the belief (used by tables and indexes) |
 | `ref` | optional: `câu` (verbatim quote, with source and link checked) or `ý` (concept, author and work). Never copied onto the page; no character speaks it (same convention as `tuyen/goc.md` "Họ ý") |
 | `deviation` | where the character bends the reference, and which personality trait does the bending |
 | `seen` | `thay` · `nua` · `khong`, per phase if it changes |
-| `monologue` | stages `ngo-nhan` / `dien-giai`, each with age or phase and the words |
+| `monologue` | stages `ngo-nhan` / `dien-giai`, each with age or phase: the belief in the character's own thinking (design tool; on-page use optional) |
 | `other-face` | what makes it false or void |
 | `axis` | the axis `AX` it runs on |
 | `parent` | for a tactic: the core belief it derives from |

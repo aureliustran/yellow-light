@@ -261,8 +261,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-029
 
-- **statement:** Không ai được chọn đau hay không đau, chỉ được chọn đau cái nào; vậy thì tự chọn cái đau lời nhất cho mình. Động cơ đẩy.
-- **definition:** Nỗi sợ là bản năng không muốn đau. Đi theo bản năng là bỏ quyền tự quyết, phó mặc việc của mình cho người khác, và kết cục vẫn đau, cho lợi ích của họ. Vì vậy người ta phải tự chọn nỗi đau có lợi nhất cho mình. **Vì sao nó đúng một nửa:** anh tin mình đang vượt qua nỗi sợ, nhưng chính việc chọn "cái đau lời nhất cho tao" do một nỗi sợ khác quyết: sợ lại thành người đau cho lợi ích của kẻ khác, như dưới cây roi. Lực đẩy vẫn cầm lái, và anh tưởng đó là tự quyết ([[SELF.thuyen]] G3; [[ART.AX3]] .3).
+- **definition:** Không ai được chọn đau hay không đau, chỉ được chọn đau cái nào. Động cơ đẩy. Nỗi sợ là bản năng không muốn đau. Đi theo bản năng là bỏ quyền tự quyết, phó mặc việc của mình cho người khác, và kết cục vẫn đau, cho lợi ích của họ. Vì vậy người ta phải tự chọn nỗi đau có lợi nhất cho mình. **Vì sao nó đúng một nửa:** anh tin mình đang vượt qua nỗi sợ, nhưng chính việc chọn "cái đau lời nhất cho tao" do một nỗi sợ khác quyết: sợ lại thành người đau cho lợi ích của kẻ khác, như dưới cây roi. Lực đẩy vẫn cầm lái, và anh tưởng đó là tự quyết ([[SELF.thuyen]] G3; [[ART.AX3]] .3).
 - **ref:** `câu` · *"There are only two pains in life, the pain of discipline or the pain of regret."* Ghi sớm nhất ở Anthony Robbins, *Unlimited Power* (1986), như một câu "người ta vẫn nói"; thường gán cho Jim Rohn, chưa kiểm chứng (https://barrypopik.com/blog/suffer_the_pain_of_discipline_or_suffer_the_pain_of_regret_exercise_adage)
 - **deviation:** câu ngạn ngữ nói về kỷ luật; với Thuyên, chọn đau là **giành lại quyền tự quyết từ tay người khác** (nét không chịu bị xếp, nét thực dụng).
 - **seen:** `thay`
