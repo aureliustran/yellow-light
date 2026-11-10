@@ -383,7 +383,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **deviation:** Tôn Tử đòi biết cả địch lẫn mình; Thuyên biết người mà không biết mình: công thức của AX4.
 - **seen:** `thay` (tác dụng dẫn dắt) · `khong` (lắng nghe là sự quan tâm, là thứ anh thiếu)
 - **monologue:**
-  - `ngo-nhan` · với Khánh: *Mỗi lần em khóc, người bị trách phạt là mình. Ép em bằng sức thì em khóc to hơn; mắng em thì em chống đối. Lần đầu tiên mình ngồi xuống nghe em nói em muốn gì, em nín, và em làm theo điều mình bảo. Vậy lắng nghe là một công cụ: hiểu được em thích gì, sợ gì, thì dẫn dắt được em mà không cần ép, cũng không cần chiều.*
+  - `ngo-nhan` · với Khánh: *Mỗi lần nó khóc, người bị trách phạt là mình. Ép nó bằng sức thì nó khóc to hơn; mắng nó thì nó chống đối. Lần đầu tiên mình ngồi xuống nghe nó nói nó muốn gì, nó nín, và nó làm theo điều mình bảo. Vậy lắng nghe là một công cụ: hiểu được nó thích gì, sợ gì, thì dẫn dắt được nó mà không cần ép, cũng không cần chiều.*
   - `dien-giai` · P2: *Mỗi con người là một tập hợp những mong muốn và nỗi sợ hãi. Nắm được hai danh sách ấy là nắm được tay lái. Tình cảm là một biến số bất ổn, không thể dựa vào; sự thấu hiểu thì ổn định. Vậy tao không cần ai thương tao để họ đi theo tao.*
 - **other-face:** none
 - **axis · step:** AX4, AX3, AX7

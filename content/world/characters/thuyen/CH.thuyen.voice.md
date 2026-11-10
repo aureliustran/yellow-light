@@ -58,6 +58,7 @@ Người kể đi theo Thuyên bằng gián tiếp tự do. Ba lớp:
 - **Lập trình:** vòng lặp không có điều kiện dừng, hàm không trả về gì, bài chạy quá một giây là không điểm, báo lỗi rồi đợi sửa.
 - **Đồ vật của quá khứ:** tủ kính, vỏ gối, bể nước, cái Casio dây rộng.
 - **Đơn vị bún riêu:** quy tiền ra bát bún riêu `proposed`.
+- **Gọi Khánh là "nó"** `locked 10/11`: trong tự thoại và lời kể POV Thuyên, em trai là *nó*, không phải *em*.
 - **Công nhận, thừa nhận thay cho khen** `locked 10/11`: trong tự thoại và lời kể POV Thuyên, lời khen là *sự công nhận*, *sự thừa nhận*; *khen* là *công nhận*, *thừa nhận*.
 - Hai bộ từ vựng (DV-001): **bộ kết quả** (giỏi, mười, giải, thứ mấy, khuyết, sửa, đủ, chấm) là tiếng của thế giới và cái tôi; **bộ chịu đựng** (cố, chịu, mấy cái…) bị khóa, chỉ cái gối dùng (xem [[FN.thuyen.cai-goi]]).
 
