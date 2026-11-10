@@ -4,65 +4,79 @@ kind: character
 status: locked
 updated: 2026-11-10
 aliases: [niềm tin Nhi, NT Nhi]
-exports: [BL-040, BL-041, BL-042, BL-043, BL-044]
+exports: [BL-040, BL-041, BL-042, BL-043, BL-044, BL-045]
 parent: "[[CH.nhi]]"
-sources: [tuyen/qua-khu/nhi.md §2, §3 (locked 31/10), §4; hội thoại 10/11 (khuôn hai lớp, luật từ phức)]
+sources: [tuyen/qua-khu/nhi.md §2, §3 (locked 31/10), §4; hội thoại 10/11 (khuôn hai lớp, luật từ phức, lâu đài, cái cân, hai cái vạch)]
 ---
 # CH.nhi.beliefs · Niềm tin của Nhi
 
-Khuôn hai lớp (`schemas/belief.md`): lớp định nghĩa (bắt buộc) và tự thoại (tùy chọn, là công cụ thiết kế, chép lên trang là tùy chọn). Mã cũ `NT-nn` là alias (`NT-40` = `BL-040`). Dải của Nhi: `BL-040` … `BL-044`; `BL-045` … `BL-049` để dành cho hội đồng trong quá khứ (`PAST.N.HD`). Cột *Tiêu thụ* chép từ nguồn cũ, giữ tới khi tình tiết chuyển xong.
+Khuôn hai lớp (`schemas/belief.md`): lớp định nghĩa (bắt buộc) và tự thoại (tùy chọn, là công cụ thiết kế, chép lên trang là tùy chọn). Mã cũ `NT-nn` là alias (`NT-40` = `BL-040`). Dải của Nhi: `BL-040` … `BL-045`; `BL-046` … `BL-049` để dành cho hội đồng trong quá khứ (`PAST.N.HD`). Cột *Tiêu thụ* chép từ nguồn cũ, giữ tới khi tình tiết chuyển xong.
 
-**Giọng tự thoại của Nhi** `agreed 10/11`: xưng "mình"; từ phức là đa số (luật từ phức); tư duy đường thẳng, chuỗi suy luận ngắn, không lập luận nhiều bước (`CH.nhi` `rules` 3); gọi tên được cảm xúc nhưng gán sai nguyên nhân ([[FN.nhi.cam]]), và kiểu gán sai ấy không lặp ở mọi niềm tin.
+**Văn phong tự thoại** `locked 10/11`: tự thoại là công cụ thiết kế, viết theo văn phong thiết kế (từ phức là đa số, chuỗi suy luận đủ ý, xưng "mình"), **không** chỉnh theo giọng của Nhi. Khi viết cảnh mới chuyển sang giọng của cô ([[CH.nhi.voice]]: tư duy đường thẳng, gọi tên cảm xúc nhưng gán sai nguyên nhân, [[FN.nhi.cam]]).
 
 **Cụm** (phạm vi trong file này): niềm tin gom theo câu hỏi cô tự trả lời.
 
-## C1 · Cái họ
+## C1 · Lâu đài
 
-- **question:** Mình có giá trị gì ngoài cái họ?
-- **root:** BL-042
-- **axes:** AX7, AX5
-- **definition:** Cả đời người ta gật đầu với cái họ của cô, nên sự đồng thuận của họ không chứng minh được gì; giá trị thật phải được giành lấy, hoặc được tạo ra ở nơi không ai biết cô là con ai. Gương với Thuyên ở AX7: anh bị trừ độ tin cậy vì người nói là anh, cô được cộng độ tin cậy vì người nói là cô; cả hai đều không được lắng nghe.
+- **question:** Mình được đo bằng gì? (gương với C2 của Thuyên: "Mình đo bằng gì?")
+- **root:** BL-045
+- **axes:** AX3, AX7, AX5
+- **definition:** Nhi sinh ra trong một lâu đài (ẩn dụ cho tập đoàn nhà cô), với sứ mệnh sống theo ý nguyện của người sở hữu lâu đài. Cây thước của lâu đài có vạch luôn nằm dưới chân cô: mọi phép đo đều trả "đủ", nên không phép đo nào nói gì về cô. Cô bỏ cây thước ấy và đo mình bằng cái cân của mình: **cùng cơ chế với Thuyên** (bỏ cây thước người khác đặt lên mình, đo bằng cái cân tự làm), chỉ ngược đầu vào: anh bỏ cây thước luôn trả "chưa đủ" ([[ART.AX3]]). Cả hai sinh ra với sự bất mãn về cách người khác nhìn mình, gần như đối lập nhau, và lớn lên thành người đủ sức mạnh để không để sự công nhận của người khác định nghĩa mình. **Lực đẩy** của cô: nỗi sợ mình chỉ có giá trị nhờ lâu đài. **Lực kéo:** phiên bản không có lâu đài (BL-045). Cái cân của cô bỏ thước rẻ (đanh đá thì người ta vẫn nể, mở cửa hàng thì không ai cấm), nên nhẹ, vui, tinh quái, nhưng **chưa từng bị thử**; cái cân của Thuyên bỏ thước trong đau đớn, nên vững mà đắt.
+
+### BL-045
+
+- **cluster:** C1 (gốc)
+- **definition:** Cái vạch Nhi tự vẽ trên cái cân của mình: một cách sống không cần lâu đài. Làm trọn những việc mình thích, mình muốn, rồi chuyển sang việc tiếp theo; chờ người khác đến nói sự thật về những việc ấy, vì sự thật là dữ kiện để biết chỗ chưa tốt mà sửa, để một ngày chính sự thật là lý do việc cô làm được vỗ tay, không phải vì nó do một người trong lâu đài làm ra. **Hình dạng** `locked 10/11`: hoàn thành từng quá trình ngắn hạn; rõ ràng; đổi mục tiêu sang ngang mỗi khi đạt được (*horizontal scaling*); độ khó dễ, đều; trải nghiệm tích cực. "Một ngày được vỗ tay vì sự thật" không phải một cột mốc cô đo khoảng cách tới, mà là **một hướng đi**: cô không leo, cô tích lũy theo bề rộng. Gương với vạch của Thuyên ([[CH.thuyen.beliefs#BL-034]]: cột mốc cuối của một quá trình tăng lên, *vertical scaling*, độ khó tăng dần, trải nghiệm tiêu cực). **Người khác:** Thuyên dựng khiên để không ai phán xét được mình; Nhi mở cửa để có người phán xét mình thật. **Đúng một nửa:** phần lớn mục tiêu cô đạt được thật. **Che:** cô chỉ nghe được sự thật khi người ta không biết cô là ai, nên vạch của cô phụ thuộc vào bí mật ([[SEC-001]]); và cô chưa từng sống thiếu lâu đài. **Giá:** chỉ tin người dám cãi mình (BL-042). **Gương với lời kể của Thuyên:** câu mẫu của anh ở `01-rules-viet.md` kết luận *"chuyện thật không có tiếng vỗ tay"* rồi gõ lại câu cho khán giả; cô muốn đúng điều ngược lại. Ở summit (thẻ v1, ch.8 cũ) cô hỏi: *"Bài nói rất hay. Anh có tin câu nào trong đó không?"*: cô nghe ra một bài nói được viết cho tiếng vỗ tay.
+- **ref:** `ý` · Kim Scott (2017), *Radical Candor*: quan tâm thật lòng và nói thẳng
+- **deviation:** Scott viết cho người quản lý; Nhi muốn sự thẳng thắn ấy như dữ kiện cho cái cân của mình. Thuyên trao đúng điều đó: chê thật, còn sự quan tâm thì giấu.
+- **seen:** `thay`
+- **monologue:**
+  - `dien-giai` · đại học (tác giả viết câu đầu, 10/11): *Mình cần sự thật về thứ mình làm, để biết thứ mình làm còn chưa tốt ở đâu, để đến một ngày, chính sự thật là lý do nó được vỗ tay, chứ không phải vì nó được làm ra bởi một người trong lâu đài. Mỗi việc mình thích, mình làm cho trọn vẹn, rồi chuyển sang việc tiếp theo, và lần nào cũng thấy vui. Thứ mình chờ đợi là một người dám nói thật.*
+- **other-face:** cửa hàng chưa từng phải nuôi cô; sự thật về chính con người đầy đủ của cô (gồm cả lâu đài) chưa ai nói
+- **axis · step:** AX3, AX7, AX5
+- **origin:** PAST.N N.6 *Hồng*, N.7 (cửa hàng lớn lên); summit
+- **status:** `locked 10/11` · cũng là lực kéo của Nhi
 
 ### BL-042
 
-- **cluster:** C1
-- **definition:** Người ta gật đầu với cô vì cái họ, nên sự đồng thuận ấy vô nghĩa; muốn được lắng nghe thật thì phải giành, phải nói ngay, nói rõ. **Đúng một nửa:** quanh cô, phần lớn sự đồng ý đúng là dành cho cái họ. **Che:** khả năng chính cô cũng không biết mình đúng thật hay chỉ được nể. **Giá:** cô chỉ tin người dám cãi mình, nên bị hút về phía Thuyên, và đánh giá thấp những người tử tế mà dễ chịu.
+- **cluster:** C1 (vì sao bỏ cây thước)
+- **definition:** Người ta gật đầu với cô vì lâu đài, nên sự đồng thuận ấy vô nghĩa; muốn được lắng nghe thật thì phải giành, phải nói ngay, nói rõ. **Đúng một nửa:** quanh cô, phần lớn sự đồng ý đúng là dành cho lâu đài. **Che:** khả năng chính cô cũng không biết mình đúng thật hay chỉ được nể. **Giá:** cô chỉ tin người dám cãi mình, nên bị hút về phía Thuyên, và đánh giá thấp những người tử tế mà dễ chịu.
 - **ref:** `ý` · Miranda Fricker (2007), *Epistemic Injustice*: *credibility excess*, lời nói được cộng độ tin cậy vì danh tính người nói (https://iep.utm.edu/epistemic-injustice/)
 - **deviation:** Fricker coi sự thừa độ tin cậy là một bất công nhỏ, khó thấy; với Nhi nó là vết thương chính: được đồng ý mà không được nghe. Cùng tham chiếu với BL-001 của Thuyên, ở chiều ngược lại.
 - **seen:** `thay`
 - **monologue:**
-  - `ngo-nhan` · 8 tuổi (N.1): *Mọi người đều đồng ý với mình, nhưng không ai thật sự lắng nghe. Họ gật đầu với cái họ của mình, không phải với điều mình nói.*
-  - `dien-giai` · cấp 2 (N.3): *Sự đồng thuận dễ dàng chỉ là một kiểu im lặng lịch sự. Muốn biết mình đúng thật hay không, mình phải tranh luận với người không nể nang cái họ ấy; muốn được lắng nghe, mình phải giành lấy quyền phát ngôn, nói ngay và nói rõ.*
-- **other-face:** Thuyên, người đầu tiên không "ừ" vì cái họ
-- **axis · step:** AX7, AX5
+  - `ngo-nhan` · 8 tuổi (N.1): *Mọi người đều đồng ý với mình, nhưng không ai thật sự lắng nghe. Họ gật đầu với lâu đài sau lưng mình, không phải với điều mình nói.*
+  - `dien-giai` · cấp 2 (N.3): *Sự đồng thuận dễ dàng chỉ là một kiểu im lặng lịch sự. Muốn biết mình đúng thật hay không, mình phải tranh luận với người không nể nang lâu đài ấy; muốn được lắng nghe, mình phải giành lấy quyền phát ngôn, nói ngay và nói rõ.*
+- **other-face:** Thuyên, người đầu tiên không "ừ" vì lâu đài (vì anh không biết nó tồn tại)
+- **axis · step:** AX7, AX3, AX5
 - **origin:** PAST.N N.1 *Màu be*, N.3 (lần đầu đanh đá trước người lớn)
 - **consumed (nguồn cũ):** 1b (ghi chú *Những lần mình đúng mà không ai nhường*); 3b; 5b, ch.05 (dùng tên trong danh sách khách mời để giành micro); khéo và đanh đá; danh sách mai mối; vì sao cô thích người dám cãi mình; radar thật – giả; Phần 4
 - **status:** `locked 10/11` · alias `NT-42`
 
 ### BL-040
 
-- **cluster:** C1
-- **definition:** Thứ cô tự lựa chọn, tự làm ra, không dựa vào cái họ, thì có giá trị thật; đó là nơi duy nhất cô chắc mình không được nể nang. **Đúng một nửa:** cửa hàng lớn lên thật, khán giả là của cô. **Che:** chưa bao giờ phải sống bằng cửa hàng, nên không biết nó trụ được không nếu thiếu tiền nhà ("đúng thật hay nhờ là con ai" chạy tiếp qua cửa hàng). **Giá:** cô ghét bị nhìn là "con ai" tới mức xóa gia đình khỏi kênh của mình (K17), góp phần giữ [[SEC-001]].
+- **cluster:** C1 (phán quyết của cái cân)
+- **definition:** Thứ cô tự lựa chọn, tự làm ra, không dựa vào lâu đài, thì có giá trị thật. Cái cân của cô đo bằng **con mắt**: cái đẹp, gu, bố cục, và độ thật – giả của người đối diện (radar); chất liệu do mẹ dạy (bố cục, ánh sáng, phối màu). Ẩn danh tính (kênh không có gia đình, K17; chỗ ngồi không xếp theo họ) là **điều kiện để đo sạch**, không phải bản thân cái cân, giống hai tờ nháp của Thuyên. **Đúng một nửa:** cửa hàng lớn lên thật, khán giả là của cô. **Che:** chưa bao giờ phải sống bằng cửa hàng, nên không biết nó trụ được không nếu thiếu tiền nhà. **Giá:** cô ghét bị nhìn là "con ai" tới mức xóa gia đình khỏi kênh của mình, góp phần giữ [[SEC-001]].
 - **ref:** `câu` · Virginia Woolf, *A Room of One's Own* (1929): *"a woman must have money and a room of her own if she is to write fiction."*
 - **deviation:** người phụ nữ của Woolf thiếu tiền và thiếu căn phòng; Nhi có thừa tiền, chỉ thiếu một căn phòng không mang tên gia đình, và cửa hàng là căn phòng ấy.
 - **seen:** `thay`
 - **monologue:**
-  - `dien-giai` · lớp 12 (N.6): *Thứ mình tự lựa chọn, tự làm ra, không ai biết là của con gái ai, vậy mà người ta vẫn dừng lại. Vậy thứ ấy đẹp thật, không nhờ cái họ. Đây là nơi duy nhất mình chắc chắn mình không được nể nang. Mình thấy nhẹ nhõm lạ thường; chắc tại dạo này mình ngủ đủ giấc.*
+  - `dien-giai` · lớp 12 (N.6): *Thứ mình tự lựa chọn, tự làm ra, không ai biết là của con gái ai, vậy mà người ta vẫn dừng lại. Vậy thứ ấy đẹp thật, không nhờ lâu đài. Đây là nơi duy nhất mình chắc chắn mình không được nể nang.*
 - **other-face:** cửa hàng chưa từng phải tự nuôi cô
-- **axis · step:** AX7, AX5, AX6
+- **axis · step:** AX7, AX5, AX6, AX3
 - **origin:** PAST.N N.6 *Hồng*, N.7 (cửa hàng lớn lên)
 - **consumed (nguồn cũ):** cửa hàng, KOC; vì sao cô ghét bị nhìn là "con ai"; hợp tác cửa hàng với Thuyên; Phần 3
 - **status:** `locked 10/11` · alias `NT-40`
 
 ### BL-041
 
-- **cluster:** C1
+- **cluster:** C1 (lâu đài vẫn che mà cô không thấy tường thành)
 - **definition:** Luôn có người thu xếp hậu quả cho cô; cô không nhìn thấy tấm lưới vì nó chưa bao giờ thủng. Người thu xếp chủ yếu là Khải, từ những việc nhỏ suốt thời thơ ấu. **Đúng một nửa:** tấm lưới có thật. **Che:** nếu không có ai dọn, cô không biết mình đứng được đến đâu (cùng gốc với BL-040). **Giá:** ngày gãy là lần đầu không có ai dọn; Thuyên đọc trúng bề mặt mà sai ("chưa từng phải làm gì để có cái ghế ấy").
-- **ref:** `ý` · *moral hazard* (rủi ro đạo đức): người được bảo hiểm khỏi hậu quả thì hành xử khác người phải tự gánh
+- **ref:** `ý` · *moral hazard* (rủi ro đạo đức): người được che chắn khỏi hậu quả thì hành xử khác người phải tự gánh
 - **deviation:** rủi ro đạo đức giả định người được che chắn biết mình được che chắn; Nhi không biết, nên với cô đó không phải lựa chọn, mà là thế giới vốn như thế.
 - **seen:** `nua` (bật lên khi Khải nói "Lần này đừng để anh phải dọn", rồi bị gạt đi)
 - **monologue:**
-  - `ngo-nhan` · 4b: *Mọi rắc rối của mình rồi cũng được giải quyết, không cần mình phải bận tâm; điều đó hiển nhiên như việc có điện, có nước. Nhưng câu anh vừa nói làm lồng ngực mình co thắt. Chắc tại mình vội quá.*
+  - `ngo-nhan` · 4b: *Mọi rắc rối của mình rồi cũng được giải quyết, không cần mình phải bận tâm; điều đó hiển nhiên như việc có điện, có nước. Nhưng câu anh vừa nói làm lồng ngực mình co thắt. Mình đổi chủ đề.*
 - **other-face:** ngày gãy, không có ai dọn
 - **axis · step:** AX7
 - **origin:** Khải thu xếp những việc nhỏ suốt từ bé; PAST.N N.7 (món đồ đầu tiên cô bán bị gia đình "giúp" tới mức không còn là của cô)
@@ -74,7 +88,7 @@ Khuôn hai lớp (`schemas/belief.md`): lớp định nghĩa (bắt buộc) và 
 - **question:** Mình thật sự muốn ai?
 - **root:** BL-043
 - **axes:** AX3, AX7
-- **definition:** Cô đo người mình muốn bằng một cây thước gia đình dạy (môn đăng hộ đối), trong khi nhu cầu thật của cô nằm ở chỗ khác (người dùng đầu óc cho cô, [[FN.nhi.thich]]). Khi cây thước sai, cô không nghi cây thước, mà nghi chính mình, hoặc tin mình đã thắng. Nối [[ART.AX3]]: cây thước của cô cũng có người đặt.
+- **definition:** Cô đo người mình muốn bằng một cây thước gia đình dạy (môn đăng hộ đối), trong khi nhu cầu thật của cô nằm ở chỗ khác (người dùng đầu óc cho cô, [[FN.nhi.thich]]). Khi cây thước sai, cô không nghi cây thước, mà nghi chính mình, hoặc tin mình đã thắng. **Chuyển hóa** ([[ART.AX3]] .4, phía Nhi): cây thước lâu đài cô đã bỏ khi nó đo *cô* không biến mất; nó sống tiếp ở chỗ cô đo *người khác* (gia thế), gương với lực đẩy cầm lái ở phía Thuyên. **Cú giao nhau:** phiên bản lý tưởng của Thuyên nằm bên trong lâu đài cô đang bước ra; ở GĐ2 hai người đi ngược chiều qua cùng một cánh cửa, gốc của câu "Dạo này anh nói chuyện như người đang thắng". **Gương trong tình cảm:** mỗi người là người đầu tiên đo người kia bằng cái cân, không bằng thước; ở điểm gãy cả hai quay về đo nhau bằng cây thước cũ mình tưởng đã bỏ (anh đo cô bằng lâu đài, cô đo anh bằng hình bóng bố và Khải).
 
 ### BL-043
 

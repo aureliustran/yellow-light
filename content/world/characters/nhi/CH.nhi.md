@@ -49,7 +49,7 @@ Thành tích và thời điểm nhận. Cảnh thuộc node (`PAST.N`, chưa chu
 
 | Cần | Trục |
 | --- | --- |
-| được đồng ý mà không được nghe; "người ta gật vì cái họ" | AX7 (nửa Nhi chờ Q-048) |
+| được đồng ý mà không được nghe; "người ta gật vì lâu đài" | AX7 (nửa Nhi chờ Q-048) |
 | ghét bị xếp chỗ, bị đo; mang cái thước "môn đăng hộ đối" mà không biết | AX3 |
 | thứ mình chọn thì đẹp thật, kể cả khi không ai biết mình là con ai | AX5, AX7 |
 

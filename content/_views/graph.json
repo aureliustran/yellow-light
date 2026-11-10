@@ -3318,7 +3318,22 @@
   },
   {
    "s": "CH.nhi.beliefs",
+   "t": "CH.nhi.voice",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.beliefs",
    "t": "FN.nhi.cam",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.beliefs",
+   "t": "ART.AX3",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.beliefs",
+   "t": "CH.thuyen.beliefs",
    "type": "link"
   },
   {
@@ -3329,11 +3344,6 @@
   {
    "s": "CH.nhi.beliefs",
    "t": "FN.nhi.thich",
-   "type": "link"
-  },
-  {
-   "s": "CH.nhi.beliefs",
-   "t": "ART.AX3",
    "type": "link"
   },
   {
@@ -6264,6 +6274,11 @@
   {
    "s": "CH.nhi.beliefs",
    "t": "SCH.belief",
+   "type": "ref"
+  },
+  {
+   "s": "CH.nhi.beliefs",
+   "t": "01-rules-viet",
    "type": "ref"
   },
   {
