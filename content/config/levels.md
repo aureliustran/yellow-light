@@ -4,7 +4,7 @@ aliases: [config.levels]
 kind: config
 status: proposed
 updated: 2026-11-08
-sources: [tuyen/README.md §3]
+sources: [_archive/tuyen/README.md §3]
 ---
 # levels · Thang mức và vai
 
@@ -43,4 +43,4 @@ Vai `lead` (cũ: DẪN) đổi tên từ TRỤC để khỏi lẫn với trục 
 
 ## Nơi ghi mức
 
-Mức của từng node theo giai đoạn nằm trong mục `weight` của node (`schemas/node.md`). Ma trận mức tổng là view `_views/matrix.md` (sinh). Cho đến B6, ma trận hiện hành vẫn ở `content/tuyen/README.md` §4 và là nguồn duy nhất.
+Mức của từng node theo giai đoạn nằm trong mục `weight` của node (`schemas/node.md`). Ma trận mức tổng là view `_views/matrix.md` (sinh). Cho đến B6, ma trận hiện hành vẫn ở `content/_archive/tuyen/README.md` §4 và là nguồn duy nhất.

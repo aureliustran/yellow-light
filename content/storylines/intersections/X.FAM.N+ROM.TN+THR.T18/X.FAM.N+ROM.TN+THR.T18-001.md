@@ -7,7 +7,7 @@ type: info
 parent: none
 time: "GĐ1 → GÃY"
 aliases: [X-013, X-13, Thân phận Nhi]
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.FAM.N+ROM.TN+THR.T18-001 · Thân phận Nhi
 

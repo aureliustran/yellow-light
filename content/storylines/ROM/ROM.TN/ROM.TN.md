@@ -8,11 +8,11 @@ participants: ["[[CH.thuyen]]", "[[CH.nhi]]"]
 axes: [AX3, AX7, AX1, AX8]
 weight: {OPEN: B, P1: SS+, P2: SSS, BREAK: SS+, AFTER: S}
 aliases: [RM.TN, tuyến Thuyên – Nhi]
-sources: [hội thoại 10/11 (cái cân, lâu đài, hai cái vạch, cú giao nhau), tuyen/romance/thuyen-nhi.md (chuyển T4, 10/11)]
+sources: [hội thoại 10/11 (cái cân, lâu đài, hai cái vạch, cú giao nhau), _archive/tuyen/romance/thuyen-nhi.md (chuyển T4, 10/11)]
 ---
 # ROM.TN · Thuyên – Nhi
 
-**Khung, dựng dở** (T4, 10/11). Đã chuyển hết `tuyen/romance/thuyen-nhi.md`: lõi gương (`mirror`), register mặc định (`voice`), hai lá tình tiết mẫu 05/11 (`events`). Cung, mục tiêu, quan hệ, trạng thái chờ chuyển từ BRIEF, KHO, RR (`gaps`).
+**Khung, dựng dở** (T4, 10/11). Đã chuyển hết `_archive/tuyen/romance/thuyen-nhi.md`: lõi gương (`mirror`), register mặc định (`voice`), hai lá tình tiết mẫu 05/11 (`events`). Cung, mục tiêu, quan hệ, trạng thái chờ chuyển từ BRIEF, KHO, RR (`gaps`).
 
 **Mục:** `mirror` · `weight` · `voice` · `events` · `gaps` (khi chuyển đủ thêm: `arc` · `goals` · `relation` · `state` · `rules`).
 
@@ -51,7 +51,7 @@ Phiên bản lý tưởng của Thuyên nằm **bên trong lâu đài** của Nh
 
 ### past `locked 31/10`
 
-Gương quá khứ có sẵn trên trang Thuyên (thu-v6) và ở [[PAST.N]] (chuyển từ `tuyen/qua-khu/nhi.md` §1.8, T3 10/11). Cột giữa đọc từ lá của [[PAST.N]]; không lá nào trỏ ngược lại.
+Gương quá khứ có sẵn trên trang Thuyên (thu-v6) và ở [[PAST.N]] (chuyển từ `_archive/tuyen/qua-khu/nhi.md` §1.8, T3 10/11). Cột giữa đọc từ lá của [[PAST.N]]; không lá nào trỏ ngược lại.
 
 | PAST.T (thu-v6, plan phần mở đầu) | PAST.N | Dùng ở |
 | --- | --- | --- |
@@ -75,11 +75,11 @@ Gương quá khứ có sẵn trên trang Thuyên (thu-v6) và ở [[PAST.N]] (ch
 | --- | --- | --- | --- | --- | --- |
 | B | SS+† | SSS† | SS+† | S |  |
 
-Từ ma trận `tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
+Từ ma trận `_archive/tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
 
 ## voice
 
-Register mặc định theo giai đoạn (bảng cũ `rules/registers.md` §3; nguồn `tuyen/romance/thuyen-nhi.md` đầu file):
+Register mặc định theo giai đoạn (bảng cũ `rules/registers.md` §3; nguồn `_archive/tuyen/romance/thuyen-nhi.md` đầu file):
 
 | OPEN | P1 | P2 | BREAK | AFTER |
 | --- | --- | --- | --- | --- |
@@ -100,5 +100,5 @@ Bảng sinh tay tạm, cho tới khi `canon:check` sinh từ các lá. Mã `TN-?
 
 - Chờ B4c (từ BRIEF, KHO, RR): `arc`, `goals`, `relation`, `state` (gồm `nac-thich` của Nhi), `rules`, phần còn lại của `voice`, các lá `ROM.TN-NNN` khác, khuôn A–H, E2, E3 (thành `PAT.*`), các dòng "cách anh cư xử trong quan hệ" đang chờ ở `CH.thuyen` (`moved`).
 - Lời hứa với Nhi giữa GĐ1 và GĐ2: ứng viên cho chỗ trống C1 của Thuyên (BL-036).
-- Từ `tuyen/romance/thuyen-nhi.md` §5: Toàn bộ phần chuyển từ BRIEF, KHO, RR (`rm-handoff.md` §1 bước 1); tách tình tiết của Phong sang `ROM.PN`, của Diệp Anh sang `ROM.TD`.
+- Từ `_archive/tuyen/romance/thuyen-nhi.md` §5: Toàn bộ phần chuyển từ BRIEF, KHO, RR (`rm-handoff.md` §1 bước 1); tách tình tiết của Phong sang `ROM.PN`, của Diệp Anh sang `ROM.TD`.
 - Hai lá mẫu chưa có `goal` nối vào mục tiêu của node; đánh lại số theo ngày khi chuyển BRIEF.

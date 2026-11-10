@@ -7,7 +7,7 @@ type: event
 parent: none
 time: "CN 24/11/2024"
 aliases: [X-003, X-03, Ngoại khóa 2, gặp Vũ]
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.ROM.TN+SOL.VU-001 · Ngoại khóa 2, gặp Vũ
 

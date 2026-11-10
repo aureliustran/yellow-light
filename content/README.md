@@ -22,7 +22,7 @@ Từ 10/11, cửa vào là [`GUIDELINES.md`](GUIDELINES.md) (cách làm việc, 
 | `canon/cau-hoi.md` | Câu hỏi `Q-` và xung đột | có |
 | `canon/lich.md` | Dòng thời gian 2024–2025 | chưa có (bảng tạm ở bible-v2 mục 2) |
 | `nhan-vat/` | Thẻ nhân vật v2 | chưa có |
-| `tuyen/` | Module thiết kế theo tuyến | chưa chuyển |
+| `_archive/tuyen/` | Module thiết kế theo tuyến | đã chuyển hết vào `storylines/` (10/11); lưu trữ, chỉ đọc |
 | `rules/` | Luật viết, khối hiển thị, thoại thân mật, register | chưa chuyển (đang ở `content/01-rules-viet.md`, `01c`) |
 | `ke-hoach/` | Khung chương, đầu ra tổng hợp, pipeline | chưa có |
 | `ra-soat/` | Sổ rà soát theo khoảng chương | chưa có |

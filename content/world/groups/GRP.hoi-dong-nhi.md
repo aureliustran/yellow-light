@@ -5,7 +5,7 @@ status: agreed
 updated: 2026-11-10
 aliases: [hội đồng Nhi, HĐQT, HĐQT 🎀, hội đồng quản trị]
 members: ["[[CH.nhi]]"]
-sources: [02-hoi-dong-nhi.md §0, §2–4 (19/10, 23/10), canon/bible-v2.md §4.6, tuyen/qua-khu/nhi.md §4, §5.2 (locked 30–31/10)]
+sources: [02-hoi-dong-nhi.md §0, §2–4 (19/10, 23/10), canon/bible-v2.md §4.6, _archive/tuyen/qua-khu/nhi.md §4, §5.2 (locked 30–31/10)]
 ---
 # GRP.hoi-dong-nhi · Hội đồng quản trị của Nhi
 

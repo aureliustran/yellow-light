@@ -11,7 +11,7 @@ sources: [content/de-xuat/kien-truc-framework.md §1, §15, versions 1–3 (05�
 
 Before the framework (state of early November 2026):
 
-- Two overlapping trees (content tiers T0–T4 and the storyline tree). Characters, value systems and laws had no home, so they fell into the nearest node (six files on Thuyên's psychology under `tuyen/qua-khu/`, Vũ's card under `tuyen/sl/vu.md`).
+- Two overlapping trees (content tiers T0–T4 and the storyline tree). Characters, value systems and laws had no home, so they fell into the nearest node (six files on Thuyên's psychology under `_archive/tuyen/qua-khu/`, Vũ's card under `_archive/tuyen/sl/vu.md`).
 - One file mixed definition, mechanism, development by school year, how it reaches the page, research and open items; the same machine was described from six angles.
 - References were `file §number`; reverse references were written by hand.
 - Laws were one block (`01-rules-viet.md`, 64 KB); one law replaced another in prose ("this file replaces line … of …").

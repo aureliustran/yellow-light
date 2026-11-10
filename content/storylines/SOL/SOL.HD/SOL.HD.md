@@ -8,7 +8,7 @@ participants: ["[[CH.nhi]]"]
 axes: [AX5, AX7]
 weight: {P1: A, P2: A, BREAK: B, AFTER: B}
 aliases: [SL.HD, Hội đồng quản trị của Nhi]
-sources: [tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
 ---
 # SOL.HD · Hội đồng quản trị của Nhi
 
@@ -22,7 +22,7 @@ Ba ghế, biên bản, nghị quyết, "bàn cào móng"; đời thường phía
 | --- | --- | --- | --- | --- | --- |
 |  | A | A | B | B |  |
 
-Từ ma trận `tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
+Từ ma trận `_archive/tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
 
 ## gaps
 

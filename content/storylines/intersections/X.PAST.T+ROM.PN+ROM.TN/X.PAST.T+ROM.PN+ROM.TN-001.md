@@ -7,7 +7,7 @@ type: event
 parent: none
 time: "CN 8/12/2024"
 aliases: [X-005, X-05, Đề boyfriend]
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.PAST.T+ROM.PN+ROM.TN-001 · Đề boyfriend
 

@@ -6,7 +6,7 @@ updated: 2026-11-10
 aliases: [co-che-nhi]
 exports: []
 parent: "[[CH.nhi]]"
-sources: [tuyen/qua-khu/nhi.md §1.2, §1.6, 03-kho-nhi-thich-thuyen.md §0–1, brief-tinh-cam-thuyen-nhi.md §3]
+sources: [_archive/tuyen/qua-khu/nhi.md §1.2, §1.6, 03-kho-nhi-thich-thuyen.md §0–1, brief-tinh-cam-thuyen-nhi.md §3]
 ---
 # CH.nhi.mechanics · Cơ chế của Nhi
 

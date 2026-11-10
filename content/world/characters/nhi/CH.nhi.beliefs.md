@@ -6,7 +6,7 @@ updated: 2026-11-10
 aliases: [niềm tin Nhi, NT Nhi]
 exports: [BL-040, BL-041, BL-042, BL-043, BL-044, BL-045]
 parent: "[[CH.nhi]]"
-sources: [tuyen/qua-khu/nhi.md §2, §3 (locked 31/10), §4; hội thoại 10/11 (khuôn hai lớp, luật từ phức, lâu đài, cái cân, hai cái vạch)]
+sources: [_archive/tuyen/qua-khu/nhi.md §2, §3 (locked 31/10), §4; hội thoại 10/11 (khuôn hai lớp, luật từ phức, lâu đài, cái cân, hai cái vạch)]
 ---
 # CH.nhi.beliefs · Niềm tin của Nhi
 

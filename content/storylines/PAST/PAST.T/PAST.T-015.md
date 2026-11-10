@@ -12,7 +12,7 @@ axis: [AX3]
 level: "EXL 5"
 beliefs: "BL-019"
 aliases: [QK.T Hiếu thắng]
-sources: [tuyen/qua-khu/thuyen.md §1–3, tuyen/qua-khu/thuyen-hai-cai-toi.md §5 (T3b)]
+sources: [_archive/tuyen/qua-khu/thuyen.md §1–3, _archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §5 (T3b)]
 ---
 # PAST.T-015 · Hiếu thắng
 
@@ -27,7 +27,7 @@ Chi tiết chuyển từ nguồn cũ (T3b, 10/11); nhãn giữ nguyên.
 
 ### hai-cai-toi §5 · Ám ảnh luyện tập `proposed trên hướng 9, 18`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-hai-cai-toi.md` §5.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md` §5.
 
 **Khuôn bốn bước** (mọi lĩnh vực): thấy mình gà → bóc thành phần → hệ thống hóa thành giáo án → làm theo và đo, đến khi thắng đúng người từng thắng mình. Đây là "khuyết thì sửa" chạy ở chỗ lăng kính được nghỉ. **Cày sâu, không cày rộng:** anh cày tốc độ nhìn ra lõi, không cày số thứ biết được (mục 15).
 

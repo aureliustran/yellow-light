@@ -12,7 +12,7 @@ axis: [AX7]
 level: "chờ · H7"
 beliefs: "BL-042 (sinh)"
 aliases: [QK.N N.1, N.1, Màu be]
-sources: [tuyen/qua-khu/nhi.md §2 (chuyển 10/11)]
+sources: [_archive/tuyen/qua-khu/nhi.md §2 (chuyển 10/11)]
 ---
 # PAST.N-001 · Màu be
 

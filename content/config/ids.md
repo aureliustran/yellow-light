@@ -4,7 +4,7 @@ aliases: [config.ids]
 kind: config
 status: proposed
 updated: 2026-11-10
-sources: [kien-truc-framework.md §3, tuyen/README.md, tuyen/goc.md, tuyen/qua-khu/README.md]
+sources: [kien-truc-framework.md §3, _archive/tuyen/README.md, _archive/tuyen/goc.md, _archive/tuyen/qua-khu/README.md]
 ---
 # ids · Sổ mã, cũ → mới
 
@@ -90,7 +90,7 @@ Chạy theo thứ tự; mỗi quy tắc dùng ranh từ (`\b`), không đụng b
 
 | # | Mẫu | Thay | Lưu ý |
 | --- | --- | --- | --- |
-| 1 | `\bH([1-9])\b` | `AX$1` | Chỉ khi cạnh là chữ "trục", "H" đứng riêng, hoặc trong cột `axis`; **loại trừ** `H` đứng trong ví dụ giờ/hex. Kiểm tay lần đầu trên `tuyen/goc.md` |
+| 1 | `\bH([1-9])\b` | `AX$1` | Chỉ khi cạnh là chữ "trục", "H" đứng riêng, hoặc trong cột `axis`; **loại trừ** `H` đứng trong ví dụ giờ/hex. Kiểm tay lần đầu trên `_archive/tuyen/goc.md` |
 | 2 | `\bNT-(\d{2})\b` | `BL-$1` | Cả `NT-07` trong ngoặc, bảng, wikilink |
 | 3 | `\bTB-(\d+)\b` | `DV-$1` | |
 | 4 | `\b(QK)\.([A-Z]+)` | `PAST.$2` | Theo bảng §3 |

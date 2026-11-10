@@ -14,7 +14,7 @@ fuel: "Quân sư bí mật (tin nhắn của Phong); cô nhắc Phong trong bài
 cost: "Lần đầu Thuyên dùng mặt tầng 17 với Nhi; một bậc trên đường tới *Mixue*"
 register: "R1 → R2, nốt lạnh; POV Thuyên rồi --- POV Nhi"
 aliases: ["chọc Nhi với Phong"]
-sources: [tuyen/romance/thuyen-nhi.md §2, §3 (chuyển T4, 10/11)]
+sources: [_archive/tuyen/romance/thuyen-nhi.md §2, §3 (chuyển T4, 10/11)]
 ---
 # ROM.TN-001 · Thuyên chọc Nhi với Phong
 
@@ -31,7 +31,7 @@ Tác giả, 05/11: cảnh này **chứa nhiều tầng ý nghĩa hơn một tìn
 1. **Một lần ghép của quân sư bí mật (X-06).** Đặt trên đường tới *Mixue* (lần ghép thứ ba, Nhi khóc, tát). Người đọc biết anh là quân sư; Nhi chưa biết.
 2. **Thuyên lùi, có cơ sở dữ kiện.** Chốt GĐ1 "Thuyên tin Nhi không thích mình" ở đây có một phép suy trên trang: trong ba bài, cô không nhắc anh lần nào; vậy cô không để ý anh. Đúng nguyên tắc anh không sai vì lơ đãng (Q-021, `de-xuat/q-001`): với đúng dữ kiện ấy, người đọc cũng kết luận như anh.
 3. **Lần đầu Thuyên đeo "mặt tầng 17" với Nhi,** người duy nhất anh vẫn lỏng (BRIEF §5; ch.22 cũ: ở tầng 17 anh "không giơ tay six seven, không gọi ai là kid"). Nhi là người cảm được trước tiên. Mầm của câu GĐ2 "Dạo này anh hết đáng ghét rồi".
-4. **Thắng lý, mất người.** Lăng kính của anh (`tuyen/qua-khu/thuyen-lang-kinh.md` §1: mù với lòng người) thắng cuộc cãi bằng đúng thứ làm anh mất cô.
+4. **Thắng lý, mất người.** Lăng kính của anh (`_archive/tuyen/qua-khu/thuyen-lang-kinh.md` §1: mù với lòng người) thắng cuộc cãi bằng đúng thứ làm anh mất cô.
 5. **Hai khóa giữ Nhi im**, và rượu ở đêm say (X-11) gỡ cả hai:
    - *Mặt lịch sự:* nói "em thích anh" với người đang nói điều người khác muốn nghe thì sẽ được đáp lại bằng một câu không biết thật hay không. Radar thật giả của cô quay sang chính anh.
    - *Thân phận:* muốn gỡ "câu chuyện hai người" thì phải nói ai xếp nó: bố mẹ hai nhà, danh sách mai mối (Q-001).

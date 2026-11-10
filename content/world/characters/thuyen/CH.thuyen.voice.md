@@ -6,7 +6,7 @@ updated: 2026-11-10
 aliases: [giọng Thuyên, giọng nền Thuyên]
 exports: []
 parent: "[[CH.thuyen]]"
-sources: [01-rules-viet.md (Giọng của Thuyên theo đối tượng; Tự thoại hiện sinh, chốt 18/10; Lời kể biểu cảm có chủ đích, chốt 18/10; Văn phong trần tục, chốt 19/10), tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §4.6, rules/registers.md]
+sources: [01-rules-viet.md (Giọng của Thuyên theo đối tượng; Tự thoại hiện sinh, chốt 18/10; Lời kể biểu cảm có chủ đích, chốt 18/10; Văn phong trần tục, chốt 19/10), _archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §4.6, rules/registers.md]
 ---
 # CH.thuyen.voice · Giọng nền của Thuyên
 

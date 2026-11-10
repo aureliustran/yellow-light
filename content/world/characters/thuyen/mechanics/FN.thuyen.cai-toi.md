@@ -5,7 +5,7 @@ status: agreed
 updated: 2026-11-10
 parent: "[[CH.thuyen.mechanics]]"
 aliases: [fn.thuyen.cai-toi, hai cái tôi, cái cân]
-sources: [tuyen/qua-khu/thuyen-hai-cai-toi.md §2, tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §1, §7]
+sources: [_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §2, _archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §1, §7]
 ---
 # FN.thuyen.cai-toi
 

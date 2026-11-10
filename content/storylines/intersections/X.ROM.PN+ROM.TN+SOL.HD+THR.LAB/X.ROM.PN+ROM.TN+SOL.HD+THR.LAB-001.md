@@ -7,7 +7,7 @@ type: event
 parent: none
 time: "giữa đến cuối tháng 3/2025"
 aliases: [X-011, X-11, Đêm say]
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.ROM.PN+ROM.TN+SOL.HD+THR.LAB-001 · Đêm say
 

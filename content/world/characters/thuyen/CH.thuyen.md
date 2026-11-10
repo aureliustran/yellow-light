@@ -5,7 +5,7 @@ status: agreed
 updated: 2026-11-10
 aliases: [NV.thuyen, thuyen, Thuyên]
 exports: [cai-toi-doc, exl, lang-kinh, cai-goi, CH.thuyen.mechanics, CH.thuyen.beliefs, CH.thuyen.voice]
-sources: [posts/vercel ch.02, ch.03, 04a, 04aa, 04c, ch.05 (page), characters.yaml (v1), de-xuat/qk-t-cap-3-motif-lop-10.md §1, tuyen/qua-khu/thuyen.md (mốc, §1–3, §6.9), tuyen/qua-khu/thuyen-co-may.md §2–4, tuyen/qua-khu/thuyen-adhd.md §4, §7, tuyen/qua-khu/nhi.md §1, canon/bible-v2.md §3, §4.1, M-he-gia-tri.md §5, tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md]
+sources: [posts/vercel ch.02, ch.03, 04a, 04aa, 04c, ch.05 (page), characters.yaml (v1), de-xuat/qk-t-cap-3-motif-lop-10.md §1, _archive/tuyen/qua-khu/thuyen.md (mốc, §1–3, §6.9), _archive/tuyen/qua-khu/thuyen-co-may.md §2–4, _archive/tuyen/qua-khu/thuyen-adhd.md §4, §7, _archive/tuyen/qua-khu/nhi.md §1, canon/bible-v2.md §3, §4.1, M-he-gia-tri.md §5, _archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md]
 ---
 # CH.thuyen · Thuyên
 

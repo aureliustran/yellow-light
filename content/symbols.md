@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 213 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
+Có phần đầu (frontmatter): 213 file. Chưa chuyển sang khuôn mới (legacy): 138 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -75,8 +75,8 @@ Có phần đầu (frontmatter): 213 file. Chưa chuyển sang khuôn mới (leg
 | `GUIDE.task.sync-blueprint` | `guide` | `draft` | `guidelines/tasks/sync-blueprint.md` | **Trigger:** after writing; after the author edits a chapter; `LAW.check.bp-drift` or `bp-anchor` reports. |
 | `GUIDE.task.write-scene` | `guide` | `draft` | `guidelines/tasks/write-scene.md` | The blueprint scene(s) assigned to you; its write-kit. |
 | `PAST` | `node` | `agreed` | `storylines/PAST/PAST.md` | Gốc của các node quá khứ. QK phát triển nhân vật qua hồi tưởng. QK không chạy song song với hiện tại; nó là **nhà sản xuất** cho các tuyế… |
-| `PAST.DA` | `node` | `proposed` | `storylines/PAST/PAST.DA/PAST.DA.md` | Nhà giàu thật, ngã năm 14 tuổi, Astrea mua lại; ghế do người khác xếp. Độ mỏng (`tuyen/qua-khu/README.md` §5). |
-| `PAST.K` | `node` | `proposed` | `storylines/PAST/PAST.K/PAST.K.md` | Động cơ người anh, dùng em gái làm màn khói. Rất mỏng, chỉ phục vụ sau sân bay (Phần 4) (`tuyen/qua-khu/README.md` §5). |
+| `PAST.DA` | `node` | `proposed` | `storylines/PAST/PAST.DA/PAST.DA.md` | Nhà giàu thật, ngã năm 14 tuổi, Astrea mua lại; ghế do người khác xếp. Độ mỏng (`_archive/tuyen/qua-khu/README.md` §5). |
+| `PAST.K` | `node` | `proposed` | `storylines/PAST/PAST.K/PAST.K.md` | Động cơ người anh, dùng em gái làm màn khói. Rất mỏng, chỉ phục vụ sau sân bay (Phần 4) (`_archive/tuyen/qua-khu/README.md` §5). |
 | `PAST.N` | `node` | `agreed` | `storylines/PAST/PAST.N/PAST.N.md` | Bảng neo của Nhi, độ **mỏng**: chỉ những mảnh sinh niềm tin mà hiện tại dùng, kể bằng POV Nhi hoặc interlude (`locked 26/10`, Q-025). Khu… |
 | `PAST.N-001` | `event` | `page` | `storylines/PAST/PAST.N/PAST.N-001.md` | *Màu be*: váy hồng đổi sang be; Khải 19 tuổi bóc bảy con tôm, 'Váy hồng đẹp hơn'; bố: 'Thằng lớn thì theo tôi. Còn con bé thì sau này lấy… |
 | `PAST.N-002` | `event` | `agreed` | `storylines/PAST/PAST.N/PAST.N-002.md` | Lần đầu cô đanh đá trước người lớn: cãi lại câu 'con bé thì lấy chồng'. Kể ở một interlude GĐ1 |
@@ -117,7 +117,7 @@ Có phần đầu (frontmatter): 213 file. Chưa chuyển sang khuôn mới (leg
 | `ROM.LT` | `node` | `proposed` | `storylines/ROM/ROM.LT/ROM.LT.md` | Thuyên làm quân sư cho Tùng từ cấp 3: gương nhỏ của quân sư cho Phong; giao `PAST.T` (`de-xuat/cay-tuyen.md`). |
 | `ROM.PN` | `node` | `proposed` | `storylines/ROM/ROM.PN/ROM.PN.md` | Một chiều: thích, quân sư dạy, gala tỏ tình, nói với Nhi, câu hỏi ở tiệc aim, người ở lại. Gương: Phong hỏi, Thuyên đọc (`de-xuat/cay-tuy… |
 | `ROM.TD` | `node` | `proposed` | `storylines/ROM/ROM.TD/ROM.TD.md` | Fan service tháng 11–12, 31/12, dừng thân mật, đổi phe. Nửa romance; nửa liên minh ở `THR.LM` (`de-xuat/cay-tuyen.md`). |
-| `ROM.TN` | `node` | `proposed` | `storylines/ROM/ROM.TN/ROM.TN.md` | **Khung, dựng dở** (T4, 10/11). Đã chuyển hết `tuyen/romance/thuyen-nhi.md`: lõi gương (`mirror`), register mặc định (`voice`), hai lá tì… |
+| `ROM.TN` | `node` | `proposed` | `storylines/ROM/ROM.TN/ROM.TN.md` | **Khung, dựng dở** (T4, 10/11). Đã chuyển hết `_archive/tuyen/romance/thuyen-nhi.md`: lõi gương (`mirror`), register mặc định (`voice`), … |
 | `ROM.TN-001` | `event` | `proposed` | `storylines/ROM/ROM.TN/ROM.TN-001.md` | Lúc Phong vắng, Thuyên chọc Nhi với Phong. Hai bên đấu dữ kiện; Thuyên thắng lý bằng chính dữ kiện của Nhi, rồi đổi sang 'mặt tầng 17' và… |
 | `ROM.TN-002` | `event` | `proposed` | `storylines/ROM/ROM.TN/ROM.TN-002.md` | Nhi 'mua thừa' cold brew chanh cho Thuyên, chối là mình biết; Thuyên suy ra cốc là cho anh, trêu 'thèm nhớ'; tuần sau anh 'mua thừa' matc… |
 | `ROM.VA` | `node` | `proposed` | `storylines/ROM/ROM.VA/ROM.VA.md` | Tuyến phụ hài, tùy chọn; giao `SOL.HD` (`de-xuat/cay-tuyen.md`). |
@@ -183,7 +183,7 @@ Có phần đầu (frontmatter): 213 file. Chưa chuyển sang khuôn mới (leg
 | `THR.MO` | `node` | `proposed` | `storylines/THR/THR.MO/THR.MO.md` | Summit (Chủ tịch bảo Khải "để ý nó"), nhận lab, MUN, "dự thính" (`de-xuat/cay-tuyen.md`). |
 | `THR.MODEL` | `node` | `proposed` | `storylines/THR/THR.MODEL/THR.MODEL.md` | Có pipeline không có model; quyền xếp hàng đợi; kim bài miễn tử; khảo sát → production → ghế 50 triệu (`de-xuat/cay-tuyen.md`). |
 | `THR.T18` | `node` | `proposed` | `storylines/THR/THR.T18/THR.T18.md` | Khải truy dấu vết, Morpheus (*khách*, bay sang Mỹ), lật bài 15/7 (`de-xuat/cay-tuyen.md`). |
-| `TREE` | `node` | `locked` | `storylines/README.md` | Node gốc của mọi tuyến. Toàn bộ chức năng của thư mục cũ `tuyen/` ở đây (10/11); riêng định nghĩa trục và thang ở `core/` vì tầng tĩnh cũ… |
+| `TREE` | `node` | `locked` | `storylines/README.md` | Node gốc của mọi tuyến. Toàn bộ chức năng của thư mục cũ `_archive/tuyen/` ở đây (10/11); riêng định nghĩa trục và thang ở `core/` vì tần… |
 | `X.FAM.N+ROM.PN+ROM.TD+ROM.TN+THR.MODEL+THR.T18` | `intersection` | `proposed` | `storylines/intersections/X.FAM.N+ROM.PN+ROM.TD+ROM.TN+THR.MODEL+THR.T18/X.FAM.N+ROM.PN+ROM.TD+ROM.TN+THR.MODEL+THR.T18.md` | Định nghĩa bằng 6 khóa ngoại (`nodes`). Các lần giao nằm trong thư mục này, đánh số tăng dần theo thứ tự xuất hiện. |
 | `X.FAM.N+ROM.PN+ROM.TD+ROM.TN+THR.MODEL+THR.T18-001` | `occasion` | `proposed` | `storylines/intersections/X.FAM.N+ROM.PN+ROM.TD+ROM.TN+THR.MODEL+THR.T18/X.FAM.N+ROM.PN+ROM.TD+ROM.TN+THR.MODEL+THR.T18-001.md` | **Khung** (T2, 10/11). Lần giao thứ 1 của giao điểm [[X.FAM.N+ROM.PN+ROM.TD+ROM.TN+THR.MODEL+THR.T18]] (mã cũ `X-009`). Theo khuôn, lần g… |
 | `X.FAM.N+ROM.PN+ROM.TN+SOL.SAN` | `intersection` | `proposed` | `storylines/intersections/X.FAM.N+ROM.PN+ROM.TN+SOL.SAN/X.FAM.N+ROM.PN+ROM.TN+SOL.SAN.md` | Định nghĩa bằng 4 khóa ngoại (`nodes`). Các lần giao nằm trong thư mục này, đánh số tăng dần theo thứ tự xuất hiện. |

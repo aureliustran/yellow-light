@@ -7,7 +7,7 @@ Oct 25, 2026 · @aureliustran. Bàn giao từ session 25/10 (16:32 → 21:32) sa
 Đưa kiến trúc cây tuyến từ đề xuất đến áp dụng:
 1. Xin tác giả trả lời các câu hỏi đang mở (mục 4), tối đa bốn câu một lần, kèm khuyến nghị.
 2. Khi đã có câu trả lời: sửa `kien-truc.md`, `quy-trinh.md`, `README.md` theo `hop-nhat-cay-tuyen.md` §5.
-3. Dựng `content/tuyen/README.md`, `content/tuyen/goc.md`, rồi các node theo lộ trình `cay-tuyen.md` §11 (trừ tuyến TH, xem mục 6).
+3. Dựng `content/_archive/tuyen/README.md`, `content/_archive/tuyen/goc.md`, rồi các node theo lộ trình `cay-tuyen.md` §11 (trừ tuyến TH, xem mục 6).
 4. Sửa skill qua thẻ lưu skill (`propose_skills`): `den-vang-plot-synthesis` thêm bước chọn tuyến; `den-vang-writing-pipeline` bước 0 kéo theo phạm vi; `den-vang-canon` kiểm luật cây; sau đó là script `npm run budget` và các kiểm mới của `canon:check`.
 
 ## 2. Đọc gì, theo thứ tự
@@ -70,8 +70,8 @@ Kèm theo: mỗi giai đoạn 100% thì không so được giữa các giai đo�
 
 | | Session kiến trúc (này) | Session TH |
 | --- | --- | --- |
-| Được ghi | `kien-truc.md`, `quy-trinh.md`, `README.md`, `content/canon/*` (thêm Q- được, không sửa Q- của TH), `content/tuyen/` **trừ** `content/tuyen/thriller/`, `content/de-xuat/cay-tuyen.md`, `hop-nhat-cay-tuyen.md`, `ngan-sach-tuyen.md`, skill | `content/tuyen/thriller/*`, `content/de-xuat/th-*.md`, Q- mới về lab |
-| Không ghi | `content/tuyen/thriller/`, `content/de-xuat/th-*.md` | các file của cột trái |
+| Được ghi | `kien-truc.md`, `quy-trinh.md`, `README.md`, `content/canon/*` (thêm Q- được, không sửa Q- của TH), `content/_archive/tuyen/` **trừ** `content/_archive/tuyen/thriller/`, `content/de-xuat/cay-tuyen.md`, `hop-nhat-cay-tuyen.md`, `ngan-sach-tuyen.md`, skill | `content/_archive/tuyen/thriller/*`, `content/de-xuat/th-*.md`, Q- mới về lab |
+| Không ghi | `content/_archive/tuyen/thriller/`, `content/de-xuat/th-*.md` | các file của cột trái |
 | Mức của node TH | Không tự đổi; session TH có thể đề xuất đổi mức hoặc thêm, bớt node TH. Khi tác giả duyệt, session kiến trúc cập nhật ma trận ở `cay-tuyen.md` | Đề xuất trong `de-xuat/th-*.md` |
 
 Cả hai session cùng ghi `content/canon/cau-hoi.md` thì đọc lại file ngay trước khi ghi, và chỉ thêm dòng, không viết lại cả file từ bản cũ.

@@ -12,7 +12,7 @@ axis: [AX3, AX7]
 level: "EXL 2"
 beliefs: "BL-024 (kết tinh)"
 aliases: [QK.T 1.4b]
-sources: [tuyen/qua-khu/thuyen.md §1–3, tuyen/qua-khu/thuyen.md §6.2 (T3b)]
+sources: [_archive/tuyen/qua-khu/thuyen.md §1–3, _archive/tuyen/qua-khu/thuyen.md §6.2 (T3b)]
 ---
 # PAST.T-006 · 1.4b
 
@@ -27,7 +27,7 @@ Chi tiết chuyển từ nguồn cũ (T3b, 10/11); nhãn giữ nguyên.
 
 ### bảng neo §6.2 · Cảnh 1.4b: mẹ khen Nam (ch.3, lớp 4–5) `proposed`
 
-*Nguồn:* `tuyen/qua-khu/thuyen.md` §6.2.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen.md` §6.2.
 
 Hiện chưa có trên trang. Đã có hai mầm ở ch.2: tủ kính ("Có tờ mới thì ra") và cái bánh chưng thứ mười hai bố mang sang nhà bác Hùng. Nấc-HS 2 trong `goc.md` là *"hỏi về tình thương có điều kiện, rất cụ thể"*, đúng chỗ cảnh này.
 

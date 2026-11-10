@@ -5,7 +5,7 @@ status: locked
 updated: 2026-11-10
 name: Nấc hiện sinh
 aliases: [EXL, Nấc-HS, thang hiện sinh]
-sources: [tuyen/goc.md §3 (chuyển 10/11), M-dien-bien-cam-xuc.md §3]
+sources: [_archive/tuyen/goc.md §3 (chuyển 10/11), M-dien-bien-cam-xuc.md §3]
 ---
 # SCALE.exl · Nấc hiện sinh (9 nấc)
 

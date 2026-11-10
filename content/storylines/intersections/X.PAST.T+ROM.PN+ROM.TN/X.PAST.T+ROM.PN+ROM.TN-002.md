@@ -7,7 +7,7 @@ type: span
 parent: none
 time: "12/12/2024 → đêm say"
 aliases: [X-006, X-06, Quân sư bí mật]
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.PAST.T+ROM.PN+ROM.TN-002 · Quân sư bí mật
 

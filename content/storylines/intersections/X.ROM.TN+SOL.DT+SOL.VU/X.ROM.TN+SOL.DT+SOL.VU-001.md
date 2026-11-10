@@ -7,7 +7,7 @@ type: event
 parent: none
 time: "14/6/2025"
 aliases: [X-015, X-15, Rạn nứt với Vũ]
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.ROM.TN+SOL.DT+SOL.VU-001 · Rạn nứt với Vũ
 

@@ -2,7 +2,7 @@
 
 Nov 2, 2026 · @aureliustran. Session QK (05:34–06:18, 02/11). Cập nhật 06:18: thêm reup video bất chấp bản quyền; cơ chế tách theo pha MMO (§2a). Cập nhật 06:22–06:24: giao kèo PC, điện thoại (§3a); lớp 10 chểnh mảng môn phụ, tab khác khi học online. **Nhãn:** `[hướng 02/11]` là ý tác giả nói trong session; `[chốt 02/11]` là tác giả đã chọn; `[đề xuất]` là của Claude, chưa duyệt; `[chờ]` là câu chưa trả lời. Lịch theo Q-049 `[chốt 31/10]`: lớp 10 là 2019–20, lớp 11 là 2020–21, lớp 12 là 2021–22. **Chưa sửa** `thuyen.md` §2, `thuyen-hai-cai-toi.md` §5–9: các chỗ cần sửa ghi ở §7.
 
-Liên quan: `tuyen/qua-khu/thuyen.md` §2, `thuyen-hai-cai-toi.md` §5–9, `thuyen-adhd.md`, `qua-khu/nhi.md` §1.1, `thuyen-co-may.md` (TB-1, TB-12), `canon/cau-hoi.md` Q-049.
+Liên quan: `_archive/tuyen/qua-khu/thuyen.md` §2, `thuyen-hai-cai-toi.md` §5–9, `thuyen-adhd.md`, `qua-khu/nhi.md` §1.1, `thuyen-co-may.md` (TB-1, TB-12), `canon/cau-hoi.md` Q-049.
 
 ---
 

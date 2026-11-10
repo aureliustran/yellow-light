@@ -7,7 +7,7 @@ type: event
 parent: none
 time: "T3 31/12/2024"
 aliases: [X-008, X-08, OT tầng 17]
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.ROM.TD+ROM.TN+THR.LM-001 · OT tầng 17
 

@@ -7,7 +7,7 @@ type: span
 parent: none
 time: "GĐ1 → GÃY"
 aliases: [X-014, X-14, Liên minh Thuyên – Diệp Anh]
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.ROM.TD+THR.LM-001 · Liên minh Thuyên – Diệp Anh
 

@@ -6,7 +6,7 @@ updated: 2026-11-10
 aliases: [giọng Vũ]
 exports: []
 parent: "[[CH.vu]]"
-sources: [tuyen/sl/vu.md §1, §3, canon/bible-v2.md §4.5, 02-hoi-dong-nhi.md §4 (tuyến phụ), rules/registers.md (R1), 01-rules-viet.md (Giọng địa phương), posts/vercel ch.05 (page)]
+sources: [_archive/tuyen/sl/vu.md §1, §3, canon/bible-v2.md §4.5, 02-hoi-dong-nhi.md §4 (tuyến phụ), rules/registers.md (R1), 01-rules-viet.md (Giọng địa phương), posts/vercel ch.05 (page)]
 ---
 # CH.vu.voice · Giọng nền của Vũ
 

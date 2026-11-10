@@ -5,7 +5,7 @@ status: locked
 updated: 2026-11-10
 parent: "[[CH.nhi.mechanics]]"
 aliases: [fn.nhi.cong-cu, ranh con, khéo và đanh đá]
-sources: [tuyen/qua-khu/nhi.md §1.2 (locked 30–31/10)]
+sources: [_archive/tuyen/qua-khu/nhi.md §1.2 (locked 30–31/10)]
 ---
 # FN.nhi.cong-cu
 

@@ -8,13 +8,13 @@ participants: ["[[CH.thuyen]]"]
 axes: [AX1, AX2, AX3, AX4, AX5, AX7, AX9]
 weight: {OPEN: SSS, P1: A, P2: B, BREAK: A, AFTER: S}
 aliases: [QK.T, bảng neo Thuyên]
-sources: [tuyen/qua-khu/thuyen.md §0–3, §5 (bảng neo), config/calendar.md (lịch 31/10), tuyen/qua-khu/thuyen*.md (T3b, 10/11)]
+sources: [_archive/tuyen/qua-khu/thuyen.md §0–3, §5 (bảng neo), config/calendar.md (lịch 31/10), _archive/tuyen/qua-khu/thuyen*.md (T3b, 10/11)]
 ---
 # PAST.T · Quá khứ của Thuyên
 
 Bảng neo: những gì đã xảy ra với Thuyên từ mầm non tới hết thực tập, mỗi neo sinh một hoặc vài niềm tin ([[CH.thuyen.beliefs]]) mà hiện tại tiêu thụ. Năm theo lịch `locked 31/10`; mười mốc cũ đã sửa (`agreed 10/11`).
 
-**Mục:** `arc` · `direction` · `goals` · `weight` · `voice` · `rules` · `story` · `pages` · `events` · `ref` · `dropped` · `gaps`. Các mục `direction`, `story`, `pages`, `ref`, `dropped` và phần cuối `gaps` chuyển nguyên từ sáu file `tuyen/qua-khu/thuyen*.md` (T3b, 10/11), giữ nhãn cũ; cơ chế đã ở `FN.thuyen.*`, niềm tin ở [[CH.thuyen.beliefs]], cung ở [[SELF.thuyen]].
+**Mục:** `arc` · `direction` · `goals` · `weight` · `voice` · `rules` · `story` · `pages` · `events` · `ref` · `dropped` · `gaps`. Các mục `direction`, `story`, `pages`, `ref`, `dropped` và phần cuối `gaps` chuyển nguyên từ sáu file `_archive/tuyen/qua-khu/thuyen*.md` (T3b, 10/11), giữ nhãn cũ; cơ chế đã ở `FN.thuyen.*`, niềm tin ở [[CH.thuyen.beliefs]], cung ở [[SELF.thuyen]].
 
 ## arc
 
@@ -26,7 +26,7 @@ Hướng của tác giả, nguyên văn từ nguồn cũ.
 
 ### hai-cai-toi §1 · Hướng của tác giả `hướng tác giả 27/10`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-hai-cai-toi.md` §1.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md` §1.
 
 1. Phác thảo cấp 3 (19/10) quá cực đoan.
 2. Cấp 2 dựng quá trình anh **nhận ra mình mạnh**. Sự cực đoan, thực tế, trần trụi của bài văn *Ước mơ của em* là minh chứng. Anh không biết từ khi nào mình muốn thành kẻ mạnh.
@@ -51,7 +51,7 @@ Hướng của tác giả, nguyên văn từ nguồn cũ.
 
 ### bảng neo §6.1 · Hướng của tác giả `hướng tác giả 27–28/10`
 
-*Nguồn:* `tuyen/qua-khu/thuyen.md` §6.1.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen.md` §6.1.
 
 - Bộ não của anh từ bé đã nối năng lực với tình thương: **năng lực càng mạnh thì càng được nhận yêu thương.**
 - Anh thiếu tình thương và sự quan tâm đến cảm xúc từ bé. Lúc ấy anh chẳng làm tốt việc gì và bị mắng nhiều; anh thấy những người làm tốt hơn mình đều được yêu thương. Theo góc nhìn non nớt lúc ấy, anh thấy mẹ còn yêu con bác Hùng hơn yêu anh, vì Nam có năng lực tốt hơn.
@@ -64,7 +64,7 @@ Hướng của tác giả, nguyên văn từ nguồn cũ.
 
 ### da-nhan-cach §1 · Vấn đề cần giải
 
-*Nguồn:* `tuyen/qua-khu/thuyen-da-nhan-cach.md` §1.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-da-nhan-cach.md` §1.
 
 Canon hiện có hai nguồn nói về hài của Thuyên, và chúng chưa khớp:
 - **Mỉa, ragebait:** M-he-gia-tri §3a gốc ở các trận cãi bố mẹ cấp 2; chạy bằng lăng kính (bật khi thấy lỗ hổng của người khác).
@@ -74,7 +74,7 @@ Canon hiện có hai nguồn nói về hài của Thuyên, và chúng chưa kh�
 
 ### da-nhan-cach §2 · Hướng của tác giả `hướng tác giả 27/10`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-da-nhan-cach.md` §2.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-da-nhan-cach.md` §2.
 
 - Tếu của Thuyên gồm **tự phụ (narcissistic)** và **tự trào (self-roast)**, phóng ra từ bản chất anh.
 - Tự phụ vì anh **biết mình mạnh**. Tự trào vì **cây thước**.
@@ -85,7 +85,7 @@ Canon hiện có hai nguồn nói về hài của Thuyên, và chúng chưa kh�
 
 ### cai-toi-doc-co-che §1 · Hướng của tác giả `hướng tác giả 31/10`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §1.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §1.
 
 1. Interlude đại học tái hiện môi trường cố gắng (trời lạnh, mắt nhíu trên đúng một dòng code…), nhưng trong đầu anh vẫn không thôi nghĩ: *Tao là số 1. Tao là kẻ mạnh nhất.* Độc thoại này là thứ người đọc thấy đầu tiên, ấn tượng bởi một cái tôi xấu, và là liên kết trực tiếp, hợp lý tới các sự kiện phát triển cái tôi xấu (quãng 2).
 2. Cái tôi xấu vẫn len vào đời sống của anh. Ví dụ: chơi bóng rổ gặp một kẻ cao ngạo và có trình độ thì anh cố hủy diệt nó.
@@ -123,7 +123,7 @@ Canon hiện có hai nguồn nói về hài của Thuyên, và chúng chưa kh�
 | --- | --- | --- | --- | --- | --- |
 | SSS | A | B | A | S |  |
 
-Từ ma trận `tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
+Từ ma trận `_archive/tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
 
 ## voice
 
@@ -156,7 +156,7 @@ Thiết kế xuyên nhiều lá (thang, đối kháng, lộ trình, bài học).
 
 ### hai-cai-toi §3 · Thang bằng chứng cấp 2 `proposed trên hướng 2, 10`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-hai-cai-toi.md` §3.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md` §3.
 
 Mỗi bậc: công sức thấp, kết quả cao; tỷ số ấy là tư chất. Lời kể chỉ đặt số liệu, không khen, để người đọc tự thấy anh vượt trội thật.
 
@@ -174,7 +174,7 @@ Mỗi bậc: công sức thấp, kết quả cao; tỷ số ấy là tư chất.
 
 ### hai-cai-toi §4 · Công nhận thật và đối kháng với bố mẹ `proposed trên hướng 11`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-hai-cai-toi.md` §4.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md` §4.
 
 | Lần | Công nhận từ ngoài | Cách đối kháng | Kết quả |
 | --- | --- | --- | --- |
@@ -191,7 +191,7 @@ Mỗi bậc: công sức thấp, kết quả cao; tỷ số ấy là tư chất.
 
 ### hai-cai-toi §8 · Lộ trình từ đáy sau HSG quốc gia đến hết cấp 3 `proposed, trả lời hướng 15–16, 19–20`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-hai-cai-toi.md` §8.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md` §8.
 
 #### 8.1 Nguyên lý
 
@@ -282,7 +282,7 @@ Giới hạn: không cho ai thấy bên trong (BL-014 giữ nguyên).
 
 ### hai-cai-toi §9 · Bài học cấp 3 và số phận về sau `proposed trên hướng 3–4`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-hai-cai-toi.md` §9.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md` §9.
 
 | Bước | Cái tôi | Hòa khí |
 | --- | --- | --- |
@@ -295,7 +295,7 @@ Giới hạn: không cho ai thấy bên trong (BL-014 giữ nguyên).
 
 ### bảng neo §6.5 · Thang của BL-024 qua truyện `proposed`
 
-*Nguồn:* `tuyen/qua-khu/thuyen.md` §6.5.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen.md` §6.5.
 
 | Mốc | Phương trình làm gì |
 | --- | --- |
@@ -314,7 +314,7 @@ Giới hạn: không cho ai thấy bên trong (BL-014 giữ nguyên).
 
 ### bảng neo §6.9 · Gia đình: em trai, cây thước di động, giáp nói – cần giấu `locked 30/10 đêm: những gì tác giả nêu; tuổi, tên, chỗ đặt là đề xuất`
 
-*Nguồn:* `tuyen/qua-khu/thuyen.md` §6.9.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen.md` §6.9.
 
 Nguồn: tác giả, 23:30–23:51 ngày 30/10. Luật nền: con đầu bị nghiêm khắc, con một được thương hơn. Giữ sự mất cân bằng cảm xúc của Thuyên (anh gánh quá nhiều vai), nên em không phải chỗ dựa. Luật canon vẫn đứng: không câu nào của người kể (hoặc của mạ) nói mạ thương ai hơn.
 
@@ -361,7 +361,7 @@ Nguồn: tác giả, 23:30–23:51 ngày 30/10. Luật nền: con đầu bị ng
 
 ### da-nhan-cach §6 · Gốc theo nấc `proposed`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-da-nhan-cach.md` §6.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-da-nhan-cach.md` §6.
 
 | Giai đoạn | Nấc-HS | Tếu |
 | --- | --- | --- |
@@ -378,7 +378,7 @@ Phần quá khứ phải lên trang: ba quãng, chuỗi interlude, thiết bị 
 
 ### bảng neo §0 · Cấu trúc: ba quãng `locked 27/10 về hướng; ranh giới là đề xuất`
 
-*Nguồn:* `tuyen/qua-khu/thuyen.md` §0.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen.md` §0.
 
 | Quãng | Phạm vi | Kể ở đâu | Bài phát biểu summit |
 | --- | --- | --- | --- |
@@ -406,7 +406,7 @@ Phần quá khứ phải lên trang: ba quãng, chuỗi interlude, thiết bị 
 
 ### hai-cai-toi §14 · Ba quãng và interlude Thuyên `[hướng 17; chi tiết đề xuất]`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-hai-cai-toi.md` §14.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md` §14.
 
 #### 14.1 Ba quãng
 
@@ -451,7 +451,7 @@ Bổ sung: chèn khi hiện tại chạm niềm tin của mảnh ấy (luật 4 
 
 ### co-may §5 · Thiết bị trên trang (TB-) `locked 28/10`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-co-may.md` §5.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-co-may.md` §5.
 
 Thiết bị bắt buộc theo node × giai đoạn: `registers.md` §2.4. Mọi thiết bị tuân `rules/goi-ten-cam-xuc.md` `[sửa 28/10, 13:22]`: ở PAST.T quãng 1 lời kể gọi tên cảm xúc mãnh liệt của đứa trẻ, kèm kết luận nhân sinh (§4a); mảnh R8 và khối R9 không gọi tên; khung hiện tại theo §1. Cỗ máy hiện ra rõ nhất ở chỗ người đọc thấy đứa trẻ *từng có chữ* cho cảm xúc rồi mất dần (§4a luật 6), và thấy kết luận nhân sinh của nó lắp thành phương trình.
 
@@ -478,7 +478,7 @@ Thiết bị bắt buộc theo node × giai đoạn: `registers.md` §2.4. Mọi
 
 ### co-may §6 · Khoảnh khắc ba linh kiện của quãng 1 `locked 28/10 về hướng; cảnh là đề xuất`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-co-may.md` §6.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-co-may.md` §6.
 
 Mỗi chương xoay quanh một khoảnh khắc chứa đủ thiếu, cần, cái tôi/phủ nhận, đặt sát nhau, không bình luận. Cái gối có mặt trong mọi khoảnh khắc ấy. `[28/10, 13:22]` Ở khoảnh khắc ấy, cái cần được gọi tên mãnh liệt bằng chữ đứa trẻ, và khoảnh khắc khép bằng một kết luận nhân sinh của nó (`goi-ten-cam-xuc.md` §4a; mẫu kết luận theo NT: `thuyen.md` §0 luật riêng 4).
 
@@ -493,7 +493,7 @@ Mỗi chương xoay quanh một khoảnh khắc chứa đủ thiếu, cần, cá
 
 ### adhd §1 · Dấu hiệu đã có trên trang
 
-*Nguồn:* `tuyen/qua-khu/thuyen-adhd.md` §1.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-adhd.md` §1.
 
 | Dấu hiệu | Câu trên trang | Ở đâu | Trạng thái |
 | --- | --- | --- | --- |
@@ -509,7 +509,7 @@ Mỗi chương xoay quanh một khoảnh khắc chứa đủ thiếu, cần, cá
 
 ### adhd §6 · Gieo lại ở interlude quãng 1 chưa viết (bảng đã chuyển vào plan quãng 1 §0.5) `proposed`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-adhd.md` §6.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-adhd.md` §6.
 
 Vì các mảnh lớp 3–9 ở v2 cũ đã gỡ:
 
@@ -522,7 +522,7 @@ Vì các mảnh lớp 3–9 ở v2 cũ đã gỡ:
 
 ### cai-toi-doc-co-che §4.7 · Kỹ thuật viết cảnh thể thao `locked 01/11`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §4.7.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §4.7.
 
 | Kỹ thuật | Nguồn | Trên trang |
 | --- | --- | --- |
@@ -540,7 +540,7 @@ Thông số đã chốt: **Thuyên cao 1m83** (tác giả, 31/10), thuộc hàng
 
 ### cai-toi-doc-co-che §5 · Plan tái hiện cái tôi độc trong các phần đã viết `locked 01/11; đã viết vào bản nháp`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §5.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §5.
 
 Thứ tự đọc: ch.0 → ch.1 → 1b → ch.2 → 2b → ch.3 → 3b → ch.4 → *Cô độc* → *Mỏi mệt* → 4b → *Hoang mang* → ch.5 → 5b → *Sợ* (Đêm 1) → *Tiếc nuối* (Đêm 2). Ba interlude đại học dùng R8, R9 đầy đủ `locked 01/11`; đã thêm vào ô `PAST.T` × MĐ của `rules/registers.md` §3. Chương trước summit vẫn chỉ phần né.
 
@@ -587,7 +587,7 @@ Mẫu cảnh sân bóng đầy đủ: `claude/ban-nhap/thu-v6/mau-hoang-mang-san
 
 ### lang-kinh §5 · Lên trang bằng R10 `proposed`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-lang-kinh.md` §5.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-lang-kinh.md` §5.
 
 | Cấp | Hình dạng khối nội tâm (`registers.md` §2.6) |
 | --- | --- |
@@ -635,7 +635,7 @@ Tư liệu và hình mẫu: ghi chú thiết kế, không đưa vào lời kể.
 
 ### hai-cai-toi §12 · Tư liệu (ghi chú thiết kế, không đưa vào lời kể)
 
-*Nguồn:* `tuyen/qua-khu/thuyen-hai-cai-toi.md` §12.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md` §12.
 
 - **Sai số dự đoán phần thưởng** (Schultz và cộng sự): tế bào dopamine phản ứng mạnh với phần thưởng không đoán trước, gần như không phản ứng với phần thưởng đã đoán được. Cơ chế cho mục 2 (Nam và Thuyên) và cho nhờn thuốc.
 - **Tracy và Robins 2007:** kiêu hãnh chân thực (gắn vào công sức, việc cụ thể; đi với lòng tự trọng cao, tính dễ chịu) và kiêu hãnh ngạo mạn (gắn vào năng lực cố định, bao trùm; đi với lòng tự trọng thấp, tự phụ, dễ xấu hổ).
@@ -654,7 +654,7 @@ Tư liệu và hình mẫu: ghi chú thiết kế, không đưa vào lời kể.
 
 ### bảng neo §6.6 · Liên hệ với thiết kế đã có
 
-*Nguồn:* `tuyen/qua-khu/thuyen.md` §6.6.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen.md` §6.6.
 
 - **Hai cái tôi:** cái tôi lành là năng lực vì chính nó (cái cân, vui vì giải được bài); cái tôi độc là năng lực dùng làm tiền mua tình thương (cây thước). Cuộc cãi với cái gối là việc của cái tôi độc. Dấu trên trang: TB-3.
 - **Thuốc giảm đau:** anh mạnh thì bớt đau vì trong phương trình của anh, sức mạnh đứng thay chỗ tình thương. Sức mạnh thay chỗ cái gối, nhưng không đuổi được nó đi. Liều viết bằng tốc độ kể: TB-6.
@@ -664,7 +664,7 @@ Tư liệu và hình mẫu: ghi chú thiết kế, không đưa vào lời kể.
 
 ### bảng neo §6.7 · Tư liệu (ghi chú thiết kế)
 
-*Nguồn:* `tuyen/qua-khu/thuyen.md` §6.7.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen.md` §6.7.
 
 - **Assor, Roth và Deci 2004** (tình thương có điều kiện từ cha mẹ): con làm theo nhiều hơn nhưng vì áp lực bên trong; niềm vui sau thành công tắt nhanh; xấu hổ, tội lỗi sau thất bại; lòng tự trọng chao đảo; cảm thấy bị chê và oán giận cha mẹ; mô thức truyền qua thế hệ. Dữ liệu cắt ngang, tự báo cáo.
 - **Alice Miller, *The Drama of the Gifted Child*:** đứa trẻ nhạy cảm tự điều chỉnh theo kỳ vọng, học rằng mình được nhận vì thành tích; cái tôi giả; trầm cảm và tự cao là hai mặt; "the true opposite of depression is… vitality". Sách lâm sàng, dùng làm logic.
@@ -673,7 +673,7 @@ Tư liệu và hình mẫu: ghi chú thiết kế, không đưa vào lời kể.
 
 ### co-may §7 · Tư liệu (ghi chú thiết kế, không đưa vào truyện)
 
-*Nguồn:* `tuyen/qua-khu/thuyen-co-may.md` §7.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-co-may.md` §7.
 
 - **Ishiguro, *The Remains of the Day*:** từ vựng nghề làm khiên; rào đón trí nhớ; giữ tư thế như đức tính; "cảm giác chiến thắng" khi cô Kenton khóc sau cửa; thừa nhận muộn.
 - **Horney, *Neurosis and Human Growth* (1950):** hình ảnh lý tưởng (mạnh, không cần ai) và cái tôi bị khinh; tự hận là mặt kia của niềm kiêu hãnh; cơn ám ảnh vươn lên ăn bằng lòng tự hận. Gốc của động cơ đẩy.
@@ -689,7 +689,7 @@ Tư liệu và hình mẫu: ghi chú thiết kế, không đưa vào lời kể.
 
 ### adhd §2 · Ghi chú lâm sàng (để viết đúng, không đưa vào lời kể)
 
-*Nguồn:* `tuyen/qua-khu/thuyen-adhd.md` §2.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-adhd.md` §2.
 
 | Ý | Nguồn | Dùng cho Thuyên |
 | --- | --- | --- |
@@ -704,7 +704,7 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 
 ### adhd §3 · Nhân vật tham chiếu
 
-*Nguồn:* `tuyen/qua-khu/thuyen-adhd.md` §3.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-adhd.md` §3.
 
 | Nhân vật | Tình trạng | Cách viết | Lấy | Tránh |
 | --- | --- | --- | --- | --- |
@@ -719,7 +719,7 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 
 ### adhd · Nguồn
 
-*Nguồn:* `tuyen/qua-khu/thuyen-adhd.md` §Nguồn.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-adhd.md` §Nguồn.
 
 - Romper, *In Rick Riordan's World, ADHD Is Heroic*: https://www.romper.com/p/in-rick-riordans-world-adhd-is-heroic-interview-16007216
 - Book Riot, *Fictional Characters With ADHD*: https://bookriot.com/fictional-characters-with-adhd/
@@ -738,7 +738,7 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 
 ### cai-toi-doc-co-che §2 · Tham khảo: nhân vật
 
-*Nguồn:* `tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §2.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §2.
 
 | Nhân vật | Cơ chế | Lấy cho Thuyên | Tránh |
 | --- | --- | --- | --- |
@@ -753,7 +753,7 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 
 ### cai-toi-doc-co-che §3 · Tham khảo: tâm lý (ghi chú thiết kế, không đưa vào lời kể)
 
-*Nguồn:* `tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §3.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §3.
 
 | Nguồn | Nội dung | Dùng cho cơ chế |
 | --- | --- | --- |
@@ -767,7 +767,7 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 
 ### cai-toi-doc-co-che · Nguồn
 
-*Nguồn:* `tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §Nguồn.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §Nguồn.
 
 - Gamerant, *Kuroko's Basketball: Seijūrō Akashi's Split Personality, Explained*: https://gamerant.com/kurokos-basketball-seijuro-akashi-split-personality-explained/
 - Beneath the Tangles, *Why is Akashi's Basketball Wrong?*: https://beneaththetangles.com/2015/06/08/akashi-no-you-dont-understand-your-true-value-working-title/
@@ -791,7 +791,7 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 
 ### da-nhan-cach §9 · Hình mẫu (mỗi hình mẫu một cơ chế mượn; ghi chú thiết kế, không đưa tên vào lời kể)
 
-*Nguồn:* `tuyen/qua-khu/thuyen-da-nhan-cach.md` §9.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-da-nhan-cach.md` §9.
 
 | Hình mẫu | Cơ chế mượn | Dùng cho |
 | --- | --- | --- |
@@ -807,7 +807,7 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 
 ### da-nhan-cach §10 · Cơ sở tra cứu (ghi chú thiết kế)
 
-*Nguồn:* `tuyen/qua-khu/thuyen-da-nhan-cach.md` §10.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-da-nhan-cach.md` §10.
 
 - **Hai cực tự phụ dao động trong một người** (Gore & Widiger 2016, *Personality Disorders: Theory, Research, and Treatment* 7(4)): giới lâm sàng đánh giá 143 trường hợp; ủng hộ giả thuyết dao động, rõ nhất là người tự phụ phô trương có những đợt dễ tổn thương. Hạn chế: đánh giá của bác sĩ.
 - **Hai mặt của tự phụ** (Frontiers in Psychiatry 2021, N=254): mặt tự phụ một mình không gắn với căng thẳng tâm lý; mặt dễ tổn thương gắn rất mạnh.
@@ -817,14 +817,14 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 
 ### lang-kinh §6 · Canon đã sửa theo file này (04/11)
 
-*Nguồn:* `tuyen/qua-khu/thuyen-lang-kinh.md` §6.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-lang-kinh.md` §6.
 
 | File | Sửa |
 | --- | --- |
 | `M-he-gia-tri.md` | Thêm §3c trỏ về đây |
-| `tuyen/qua-khu/thuyen.md` §4 | BL-029: tiêu thụ ở GĐ2 đổi theo §3; thêm dòng NT mới (số chờ) |
-| `tuyen/qua-khu/thuyen-co-may.md` §2, §3 | Khí thải đổi định nghĩa; thêm răn |
-| `tuyen/qua-khu/thuyen-hai-cai-toi.md` §9 | Ghi chú "gốc thị uy dời sang lab" sửa theo §3.1, §4 |
+| `_archive/tuyen/qua-khu/thuyen.md` §4 | BL-029: tiêu thụ ở GĐ2 đổi theo §3; thêm dòng NT mới (số chờ) |
+| `_archive/tuyen/qua-khu/thuyen-co-may.md` §2, §3 | Khí thải đổi định nghĩa; thêm răn |
+| `_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md` §9 | Ghi chú "gốc thị uy dời sang lab" sửa theo §3.1, §4 |
 | `rules/registers.md` §2.6.2, §4.3, §6.2 | Vang khuôn câu thuộc khí thải và răn, không thuộc tên lửa; mẫu thực tập sinh đổi mục đích |
 | `01-rules-viet.md`, *Giọng theo đối tượng* | "người dưới" đổi theo §3 |
 
@@ -832,7 +832,7 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 
 ### hai-cai-toi §10 · Bỏ Vy: những chỗ phụ thuộc `proposed`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-hai-cai-toi.md` §10.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md` §10.
 
 | Chỗ | Xử lý |
 | --- | --- |
@@ -854,7 +854,7 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 
 #### hai-cai-toi §13 · Câu hỏi còn treo
 
-*Nguồn:* `tuyen/qua-khu/thuyen-hai-cai-toi.md` §13.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md` §13.
 
 1. Ch.6: sửa đoạn "một tháng không lười" (sửa canon cứng)?
 2. Giải huyện ở lớp 8, môn gì?
@@ -874,7 +874,7 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 
 #### hai-cai-toi §16 · Canon phải sửa kèm vì "không giải" `locked 27/10 về kết quả; danh sách là đề xuất, chưa sửa`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-hai-cai-toi.md` §16.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md` §16.
 
 `plan-tai-cau-truc-mo-dau.md` §5 đã có sẵn phần lớn danh sách này. Gộp lại:
 
@@ -893,7 +893,7 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 
 #### bảng neo §6.8 · Chờ tác giả
 
-*Nguồn:* `tuyen/qua-khu/thuyen.md` §6.8.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen.md` §6.8.
 
 - Tác giả đang cập nhật BL-024. Các mục 6.2–6.6 là đề xuất, sẽ sửa theo.
 - Cần quyết: vị trí cảnh 1.4b trong ch.3; câu gối nói ở ch.2–3 (đề xuất: *Mười hai ngày…*, *Bảy cái…*); GĐ2 anh bỏ hẳn gối ôm hay giữ mà không thừa nhận; ai là người ôm anh ở đáy, hồi phục (ứng viên: Nhi, Vũ, mẹ ở trị liệu gia đình; tiêu chí mới: người từng bắt được van xả, TB-8); thêm cảnh tức là sửa ch.2, ch.3 đã lên trang.
@@ -901,7 +901,7 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 
 #### bảng neo §7 · Còn treo
 
-*Nguồn:* `tuyen/qua-khu/thuyen.md` §7.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen.md` §7.
 
 Danh sách đầy đủ ở `thuyen-hai-cai-toi.md` §13. Ảnh hưởng trực tiếp đến bảng này:
 1. Mức và môn của giải tỉnh (tạm: Toán lớp 10, Nhất tỉnh Tin lớp 11).
@@ -914,7 +914,7 @@ Danh sách đầy đủ ở `thuyen-hai-cai-toi.md` §13. Ảnh hưởng trực 
 
 #### co-may §8 · Chờ tác giả
 
-*Nguồn:* `tuyen/qua-khu/thuyen-co-may.md` §8.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-co-may.md` §8.
 
 1. Câu tóm cỗ máy (§1).
 2. Ô H trong bảng §3 (câu gốc H3, H7, H9 đã chốt 28/10).
@@ -922,7 +922,7 @@ Danh sách đầy đủ ở `thuyen-hai-cai-toi.md` §13. Ảnh hưởng trực 
 
 #### adhd §8 · Canon phải sửa kèm (chờ duyệt)
 
-*Nguồn:* `tuyen/qua-khu/thuyen-adhd.md` §8.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-adhd.md` §8.
 
 | File | Sửa |
 | --- | --- |
@@ -933,7 +933,7 @@ Danh sách đầy đủ ở `thuyen-hai-cai-toi.md` §13. Ảnh hưởng trực 
 
 #### cai-toi-doc-co-che §7 · Canon phải sửa kèm (chờ duyệt, chưa sửa)
 
-*Nguồn:* `tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §7.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §7.
 
 | File | Chỗ | Sửa |
 | --- | --- | --- |
@@ -951,7 +951,7 @@ Danh sách đầy đủ ở `thuyen-hai-cai-toi.md` §13. Ảnh hưởng trực 
 
 #### cai-toi-doc-co-che §8 · Câu hỏi còn treo
 
-*Nguồn:* `tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §8.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §8.
 
 Đã trả lời 01/11: R8, R9 ở ba interlude đại học (ok); giọng đi qua người kể, **dùng từ phổ thông** (câu mượn nguyên văn của mạ vẫn để tiếng Hà Tĩnh); chữ tục (§4.8); ba chỗ sửa ở ch.2, ch.4, ch.5 (ok, đã viết).
 
@@ -962,7 +962,7 @@ Còn treo:
 
 #### da-nhan-cach §11 · Chưa chắc, cần tác giả hoặc đối chiếu
 
-*Nguồn:* `tuyen/qua-khu/thuyen-da-nhan-cach.md` §11.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-da-nhan-cach.md` §11.
 
 1. **Ch.7** có câu "không có cách nào nói ra mà nghe không giống một câu chuyện buồn". Với Trào-thước, anh *có* cách nói ra, nhưng không ai nghe thành chuyện buồn. Đề xuất đọc như làm sâu câu ấy, chưa đối chiếu trang.
 2. **Luật "không bao giờ khoe ồn khi thắng"** (skill nhân vật): đề xuất đọc là về lúc thắng, còn Ngạo nói ra khi không thắng gì. Cần xác nhận.
@@ -972,13 +972,13 @@ Còn treo:
 
 #### da-nhan-cach §12 · Việc kế tiếp
 
-*Nguồn:* `tuyen/qua-khu/thuyen-da-nhan-cach.md` §12.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-da-nhan-cach.md` §12.
 
 Dựng `qua-khu/thuyen.md` (bảng neo theo khuôn 5 trường), đặt tếu và hai cái tôi vào đó. Khi duyệt, gộp một phần vào README QK §4 (BL-011 đến BL-020) và M-he-gia-tri §3a. Chưa làm.
 
 #### lang-kinh §7 · Chờ tác giả
 
-*Nguồn:* `tuyen/qua-khu/thuyen-lang-kinh.md` §7.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-lang-kinh.md` §7.
 
 1. **Câu gốc H9** (`goc.md` §2) `proposed`: đổi "…và đè lên phần yếu của người khác, vì không chịu nổi phần yếu ấy trong chính mình" thành "…và kéo những kẻ từng làm mình đau, hoặc có thể làm mình đau, xuống thành kẻ yếu để đè lên, vì không chịu nổi phần yếu ấy trong chính mình". Chưa sửa `goc.md`.
 2. Số và lời của NT mới *Đúng chỉ thắng khi đứng trên cao*.

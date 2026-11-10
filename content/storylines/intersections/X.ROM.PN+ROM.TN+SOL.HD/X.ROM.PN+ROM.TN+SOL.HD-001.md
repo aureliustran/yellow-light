@@ -7,7 +7,7 @@ type: event
 parent: none
 time: "GĐ2 (gợi ý gộp đêm 15/7, Q-001 §6)"
 aliases: [X-017, X-17, Tiệc Nhi đạt aim]
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.ROM.PN+ROM.TN+SOL.HD-001 · Tiệc Nhi đạt aim
 

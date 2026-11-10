@@ -31,7 +31,7 @@ File này giờ chỉ giữ phần **chuyển đổi**: kế hoạch gộp (§13
 
 ### 13.1 Gói Thuyên
 
-**Nguồn:** `M-he-gia-tri.md`, `tuyen/qua-khu/thuyen-co-may.md`, `thuyen-hai-cai-toi.md`, `thuyen-da-nhan-cach.md`, `thuyen-lang-kinh.md`, Project `thuyen-adhd.md`, Project `thuyen-cai-toi-doc-co-che.md`, mốc trong `qua-khu/thuyen.md`, phần Thuyên trong `01-rules-viet.md`.
+**Nguồn:** `M-he-gia-tri.md`, `_archive/tuyen/qua-khu/thuyen-co-may.md`, `thuyen-hai-cai-toi.md`, `thuyen-da-nhan-cach.md`, `thuyen-lang-kinh.md`, Project `thuyen-adhd.md`, Project `thuyen-cai-toi-doc-co-che.md`, mốc trong `qua-khu/thuyen.md`, phần Thuyên trong `01-rules-viet.md`.
 
 **Tĩnh** (`world/characters/thuyen/`), cắt theo bộ phận của sơ đồ cỗ máy (`thuyen-co-may.md` §2):
 
@@ -98,20 +98,20 @@ File này giờ chỉ giữ phần **chuyển đổi**: kế hoạch gộp (§13
 | `claude/drafts/rom-tn/` | cảnh mẫu `thuyen-nhi.md` §3, §3b |
 | `X-09.md`, `X-06.md` | Project `05-gala-va-quan-su-bi-mat.md` |
 | `X-13.md`, `lib/patterns/`, `world/secrets/` | `de-xuat/q-001-…` |
-| `intersections/*` còn lại | `tuyen/README.md` §8; X-12 → cột `causes` |
+| `intersections/*` còn lại | `_archive/tuyen/README.md` §8; X-12 → cột `causes` |
 | `proposals/_merged/` | Project `04-rui-ro-tuyen-thuyen-nhi.md` |
 
 ### 13.5 Nền
 
 | Đích | Lấy từ |
 | --- | --- |
-| `config/levels.md`, `phases.md` | `tuyen/README.md` §3 |
+| `config/levels.md`, `phases.md` | `_archive/tuyen/README.md` §3 |
 | `config/calendar.md` | bible-v2 §2; bảng lớp ↔ năm học |
 | `config/statuses.md`, `ids.md` | `README.md` (nhãn); `kien-truc.md` §5; §3 file này |
-| `schemas/` | `tuyen/README.md` §7; `qua-khu/README.md` §2; §5–§8 file này |
-| `core/axes.md`, `exl.md`, `shared-mechanics.md` | `tuyen/goc.md`; `M-dien-bien-cam-xuc.md` phần thang |
+| `schemas/` | `_archive/tuyen/README.md` §7; `qua-khu/README.md` §2; §5–§8 file này |
+| `core/axes.md`, `exl.md`, `shared-mechanics.md` | `_archive/tuyen/goc.md`; `M-dien-bien-cam-xuc.md` phần thang |
 | `core/constitution/` | **mới**: Claude dựng nháp từ câu gốc AX (`goc.md` §2) và các chốt nền |
-| `storylines/README.md`, `past/README.md` | `tuyen/README.md` §1–2, §5–6; `qua-khu/README.md` §1–3 |
+| `storylines/README.md`, `past/README.md` | `_archive/tuyen/README.md` §1–2, §5–6; `qua-khu/README.md` §1–3 |
 | `rules/<aspect>/` | tách `01-rules-viet.md` theo khía cạnh; `01c` → `display/`; Project `01d` → `intimacy/`; `goi-ten-cam-xuc.md` → `naming/`; Project `chui-bay-thiet-ke.md` → `swearing/`; Project `tu-dien-ha-tinh.md` → `dialect/`; `registers.md` §5 → `dose/` |
 | `lib/style/registers.md` | `rules/registers.md` (§3 → `voice` của node; §2.4 → hàm Thuyên; §6 → `assets/samples/`) |
 | `lib/humor/`, `lib/senses.md`, `lib/self-inference.md` | `kho/hai-ky-thuat.md`; `M-cam-xuc-giac-quan.md`; `M-tu-suy-dien.md` |

@@ -108,7 +108,7 @@ Khi một cảnh có cả nhịp được gọi tên và nhịp R8, chuyển b�
 | --- | --- |
 | `01-rules-viet.md` | *Cảm xúc chuyển dạng, không gọi tên*: câu luật đầu mục; dòng *Hồi phục* của bảng chuyển dạng ("lời kể vẫn không gọi tên"); dòng đầu của *Ranh với các luật khác*. Đã thêm dòng trỏ sang file này. Bảng chuyển dạng theo tuổi nay quy định *dạng* của cảm xúc (cả người, dồn một chỗ, một cử động nhỏ), không quy định có gọi tên hay không |
 | `rules/registers.md` | Đã sửa 28/10: dòng phân việc, §0.3, §2.1, §2.5, §3, §5, §7 |
-| `tuyen/qua-khu/thuyen.md`, `thuyen-co-may.md` | Đã sửa 28/10: luật sợi gối, luật riêng QK.T, câu dẫn §5 TB |
+| `_archive/tuyen/qua-khu/thuyen.md`, `thuyen-co-may.md` | Đã sửa 28/10: luật sợi gối, luật riêng QK.T, câu dẫn §5 TB |
 | `de-xuat/qk-t-plan-viet-lai-quang-1-v2.md` | Plan v3 viết theo §4a |
 | `de-xuat/rm-handoff.md` §5 | Đề xuất 1 (POV), 2 (ngôn tình chỉ qua thoại) bị thay; câu B đã trả lời |
 | Skill `den-vang-van-phong`, `den-vang-pipeline`, `den-vang-ra-soat` | Tiêu chí chấm "gọi tên cảm xúc ở POV Thuyên"; thêm tiêu chí §4a cho QK.T |

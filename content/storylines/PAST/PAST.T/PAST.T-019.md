@@ -12,7 +12,7 @@ axis: [AX2, AX8]
 level: "EXL 5"
 beliefs: "BL-017"
 aliases: [QK.T Biết ơn]
-sources: [tuyen/qua-khu/thuyen.md §1–3]
+sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---
 # PAST.T-019 · Biết ơn
 

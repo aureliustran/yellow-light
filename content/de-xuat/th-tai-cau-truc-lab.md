@@ -42,7 +42,7 @@ Oct 25, 2026 · @aureliustran. **[đề xuất]** Kế hoạch cho session tập
 | 2b | **Mạng lưới lợi ích:** thiết kế mạng lưới lợi ích; phe phái là mắt xích trong mạng lưới, không phải cấu trúc sếp – chống sếp; anh Tuấn có thể không thuộc phe nào (ý tác giả 23:00, 23:04) | chưa định | Có |
 | 3 | **Dàn người:** mỗi người một thẻ quyền lực (năng lực, muốn gì, tài nguyên, cách giành, giới hạn, quan hệ với Thuyên theo giai đoạn) | `th-dan-nguoi.md` | **Có**: tên, vị trí, người mới |
 | 4 | **Cung TH của Thuyên:** tâm thức theo giai đoạn, H, Nấc, NT; bài giữ và bài phải trả | trong `th-luan-de.md` hoặc file riêng | Có |
-| 5 | **Ván:** danh sách ván GĐ1 (phòng thủ, ngắn) và GĐ2 (tấn công) theo ngày, đánh mã tình tiết; lấp khoảng trống tháng 11 → 3 | `tuyen/thriller/*.md` dạng đề xuất | Có, theo từng ván |
+| 5 | **Ván:** danh sách ván GĐ1 (phòng thủ, ngắn) và GĐ2 (tấn công) theo ngày, đánh mã tình tiết; lấp khoảng trống tháng 11 → 3 | `_archive/tuyen/thriller/*.md` dạng đề xuất | Có, theo từng ván |
 | 6 | **Giao điểm và lan truyền:** X-04, X-08, X-09, X-12, X-13, X-14, X-16, X-18; dựng lại chuỗi động cơ của Khải | phần giao điểm trong các node TH | Có |
 | 7 | **Phản biện độc lập:** agent mới, chưa thấy các bước trước; phương án theo mức can thiệp; Q- cho mọi chỗ chạm canon | `th-phan-bien.md`, Q- mới | Có |
 

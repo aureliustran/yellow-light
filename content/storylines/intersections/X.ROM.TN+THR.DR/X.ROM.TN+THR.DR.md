@@ -5,7 +5,7 @@ status: proposed
 updated: 2026-11-10
 nodes: ["[[ROM.TN]]", "[[THR.DR]]"]
 aliases: []
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.ROM.TN+THR.DR · Giao điểm ROM.TN × THR.DR
 

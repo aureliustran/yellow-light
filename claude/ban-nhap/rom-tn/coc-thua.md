@@ -1,6 +1,6 @@
 # Bản nháp · ROM.TN-002 · Cốc thừa
 
-`bản nháp 05/11`, chưa gắn chương. Lá: `content/storylines/ROM/ROM.TN/ROM.TN-002.md`. Chuyển từ `tuyen/romance/thuyen-nhi.md` §3b (T4, 10/11).
+`bản nháp 05/11`, chưa gắn chương. Lá: `content/storylines/ROM/ROM.TN/ROM.TN-002.md`. Chuyển từ `_archive/tuyen/romance/thuyen-nhi.md` §3b (T4, 10/11).
 
 ## Văn bản
 

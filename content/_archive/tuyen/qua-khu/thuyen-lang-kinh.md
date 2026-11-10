@@ -125,9 +125,9 @@ Khí thải là thứ xảy ra **khi cỗ máy tên lửa gãy**.
 | File | Sửa |
 | --- | --- |
 | `M-he-gia-tri.md` | Thêm §3c trỏ về đây |
-| `tuyen/qua-khu/thuyen.md` §4 | NT-29: tiêu thụ ở GĐ2 đổi theo §3; thêm dòng NT mới (số chờ) |
-| `tuyen/qua-khu/thuyen-co-may.md` §2, §3 | Khí thải đổi định nghĩa; thêm răn |
-| `tuyen/qua-khu/thuyen-hai-cai-toi.md` §9 | Ghi chú "gốc thị uy dời sang lab" sửa theo §3.1, §4 |
+| `_archive/tuyen/qua-khu/thuyen.md` §4 | NT-29: tiêu thụ ở GĐ2 đổi theo §3; thêm dòng NT mới (số chờ) |
+| `_archive/tuyen/qua-khu/thuyen-co-may.md` §2, §3 | Khí thải đổi định nghĩa; thêm răn |
+| `_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md` §9 | Ghi chú "gốc thị uy dời sang lab" sửa theo §3.1, §4 |
 | `rules/registers.md` §2.6.2, §4.3, §6.2 | Vang khuôn câu thuộc khí thải và răn, không thuộc tên lửa; mẫu thực tập sinh đổi mục đích |
 | `01-rules-viet.md`, *Giọng theo đối tượng* | "người dưới" đổi theo §3 |
 

@@ -12,7 +12,7 @@ axis: [AX2, AX3]
 level: "EXL 6"
 beliefs: "BL-016; BL-020"
 aliases: [QK.T Phẫn uất]
-sources: [tuyen/qua-khu/thuyen.md §1–3]
+sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---
 # PAST.T-021 · Phẫn uất
 

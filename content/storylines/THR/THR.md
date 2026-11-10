@@ -8,7 +8,7 @@ participants: []
 axes: [AX4, AX5, AX6, AX3]
 weight: {OPEN: A, P1: SS+, P2: SSS, BREAK: SSS, AFTER: A}
 aliases: [TH, Tuyến thriller, đấu trí]
-sources: [tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
 ---
 # THR · Tuyến thriller, đấu trí
 
@@ -20,7 +20,7 @@ Gốc của các node `THR.*`. Khung (T2, 10/11): chỉ có `weight` và `childr
 | --- | --- | --- | --- | --- | --- |
 | A | SS+† | SSS† | SSS† | A |  |
 
-Từ ma trận `tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
+Từ ma trận `_archive/tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
 
 ## children
 

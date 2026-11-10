@@ -13,7 +13,7 @@ Câu hỏi cho tác giả: Q-022 đến Q-029 (mục 10, đã thêm vào `canon/
 - Bible hiện xếp theo **nhân vật** (mục 4) và **dòng thời gian** (mục 8). Một tình tiết như "Phong tỏ tình trước màn nhảy" nằm cùng lúc ở bible 4.4, bible 8.2, GALA, BRIEF, và từng có ba phiên bản (Q-002).
 - Chỉ Thuyên – Nhi có module riêng (BRIEF, KHO, RR). Lab, Vũ, hội sân, gia đình chỉ có vài dòng rải trong bible, nên không có chỗ nào cho biết tuyến ấy đang thiếu gì.
 - Quá khứ (ch.2–6, M-he-gia-tri, M-cai-nhau-bo-me, M-moi-tinh-vy) đã viết dày nhưng **không nối tường minh** vào hiện tại: không có chỗ nào ghi "cảnh này ở lab chạy được vì niềm tin X sinh ra ở ch.4".
-- `kien-truc.md` đã có thư mục `tuyen/` nhưng phẳng (thuyen-nhi, lab, diep-anh, su-kien), chưa có gốc, chưa có luật giao.
+- `kien-truc.md` đã có thư mục `_archive/tuyen/` nhưng phẳng (thuyen-nhi, lab, diep-anh, su-kien), chưa có gốc, chưa có luật giao.
 
 ## 1. Mô hình
 
@@ -35,9 +35,9 @@ Câu hỏi cho tác giả: Q-022 đến Q-029 (mục 10, đã thêm vào `canon/
 
 | Thực thể | Là gì | Mã | Ở đâu |
 | --- | --- | --- | --- |
-| **Node tuyến** | Một mạch có người, có sự kiện trên trục thời gian, phục vụ ít nhất một trục của gốc | `RM.TN`, `TH.LAB`… | `tuyen/<cấp 1>/<node>.md` |
+| **Node tuyến** | Một mạch có người, có sự kiện trên trục thời gian, phục vụ ít nhất một trục của gốc | `RM.TN`, `TH.LAB`… | `_archive/tuyen/<cấp 1>/<node>.md` |
 | **Tình tiết** | Đơn vị nhỏ nhất của chuyện xảy ra. Mỗi tình tiết có **đúng một node chủ** | `TN-014`, `QKT-03`… | trong file của node chủ |
-| **Giao điểm** | Chỗ hai node trở lên chạm nhau: một sự kiện (gala) hoặc một quãng (quân sư bí mật). Giữ thứ tự, bối cảnh, luật va chạm, ai biết gì; **không giữ tình tiết**, chỉ trích mã | `X-08` | `tuyen/giao-diem/` |
+| **Giao điểm** | Chỗ hai node trở lên chạm nhau: một sự kiện (gala) hoặc một quãng (quân sư bí mật). Giữ thứ tự, bối cảnh, luật va chạm, ai biết gì; **không giữ tình tiết**, chỉ trích mã | `X-08` | `_archive/tuyen/giao-diem/` |
 
 Thêm một loại riêng của tuyến Quá khứ: **niềm tin** `NT-xx` (mục 3).
 
@@ -135,7 +135,7 @@ Ch.0 *Nước lạnh* nằm trong MĐ theo thứ tự đọc nhưng thuộc HP t
 
 Thứ tự dựng nên theo độ lệch, không theo mức: TH.LAB, TH.MD, TH.T18 trước; RM.TN chỉ cần chuyển và đánh mã.
 
-## 2. Gốc (`tuyen/goc.md`)
+## 2. Gốc (`_archive/tuyen/goc.md`)
 
 Gốc không có tình tiết. Nó giữ thứ mọi tuyến được sinh ra để phục vụ:
 
@@ -166,7 +166,7 @@ Gốc không có tình tiết. Nó giữ thứ mọi tuyến được sinh ra đ
 
 5. **Gốc được triển khai trong các tuyến, không có node riêng:**
    - Mỗi tình tiết có hai trường của gốc: **H** (trục nó chạm) và **Nấc** (nấc của thang ở thời điểm ấy). Bắt buộc với tình tiết của node mức S trở lên ở giai đoạn đó; tùy chọn với node thấp hơn.
-   - **Dải hiện sinh** là một bảng được sinh ra, không được viết tay: lọc mọi tình tiết theo giai đoạn, xếp theo ngày, chỉ lấy cột H và Nấc. `tuyen/README.md` giữ bảng này; `canon:check` sinh lại nó. Đây là cách kiểm cung biến chất có liền mạch không mà không tạo thêm nguồn thứ hai.
+   - **Dải hiện sinh** là một bảng được sinh ra, không được viết tay: lọc mọi tình tiết theo giai đoạn, xếp theo ngày, chỉ lấy cột H và Nấc. `_archive/tuyen/README.md` giữ bảng này; `canon:check` sinh lại nó. Đây là cách kiểm cung biến chất có liền mạch không mà không tạo thêm nguồn thứ hai.
    - **Luật liền mạch:** trong một giai đoạn, nấc không lùi khi đọc theo ngày, trừ chỗ có chủ đích (vang của nấc cũ, ghi rõ). Mỗi giai đoạn phải có ít nhất một tình tiết mang nấc của giai đoạn ấy ở node mức cao nhất của giai đoạn.
    - Tình tiết hiện sinh không có cảnh riêng (*Nước lạnh*, chẩn đoán) vẫn phải có một node chủ; đề xuất SL.DT (Q-029).
 6. **Luật sinh tuyến:**
@@ -300,7 +300,7 @@ X-13 cho thấy một loại giao điểm đặc biệt: **giao điểm thông t
 
 ## 6. Khuôn file
 
-**File node** (`tuyen/romance/thuyen-nhi/tinh-tiet.md`):
+**File node** (`_archive/tuyen/romance/thuyen-nhi/tinh-tiet.md`):
 
 ```
 # RM.TN · Thuyên – Nhi
@@ -321,16 +321,16 @@ Một đoạn: node này bắt đầu ở đâu, kết thúc ở đâu, đổi g
 Những gì node cần mà chưa có tình tiết (ví dụ: lý do Thuyên thích Nhi, RR §R3).
 ```
 
-**File giao điểm** (`tuyen/giao-diem/x-09-tat-nien-gala.md`): node tham gia; ngày, nơi; thứ tự tình tiết theo mã; luật va chạm; sổ ai biết gì trước và sau; câu hỏi mở.
+**File giao điểm** (`_archive/tuyen/giao-diem/x-09-tat-nien-gala.md`): node tham gia; ngày, nơi; thứ tự tình tiết theo mã; luật va chạm; sổ ai biết gì trước và sau; câu hỏi mở.
 
 **Dòng tình tiết khi đã chốt:** `[TN-014 · chốt D-0xx 24/10]`. Đổi tình tiết thì đổi ở node chủ; giao điểm chỉ trích mã nên không phải sửa.
 
 ## 7. Thư mục
 
-Thay mục `tuyen/` trong `kien-truc.md` §2:
+Thay mục `_archive/tuyen/` trong `kien-truc.md` §2:
 
 ```
-content/tuyen/
+content/_archive/tuyen/
 ├── README.md              cây, bảng mức theo giai đoạn, bảng mã, dải hiện sinh (sinh tự động)
 ├── goc.md                 gốc: một câu, trục H1–H8, thang 9 nấc, cung hiện sinh theo giai đoạn, luật triển khai, luật sinh tuyến
 ├── qua-khu/
@@ -349,7 +349,7 @@ content/tuyen/
     ├── x-01-summit.md … x-18-diem-gay.md
 ```
 
-`tuyen/su-kien/` cũ bỏ, thay bằng `giao-diem/`.
+`_archive/tuyen/su-kien/` cũ bỏ, thay bằng `giao-diem/`.
 
 ## 8. Ánh xạ từ file hiện có
 
@@ -379,7 +379,7 @@ Nguyên tắc 1 của `kien-truc.md` là một nguồn cho mỗi loại thông t
 | Được | một nguồn; đổi một chỗ | session mới đọc một file là đủ |
 | Mất | session mới phải đọc gốc + README cây + node liên quan | lặp lại đúng lỗi Q-002 |
 
-Với A, bộ đọc khi bắt đầu session thành: `README.md`, `tuyen/goc.md`, `tuyen/README.md`, `canon/cau-hoi.md`, rồi các node việc cần.
+Với A, bộ đọc khi bắt đầu session thành: `README.md`, `_archive/tuyen/goc.md`, `_archive/tuyen/README.md`, `canon/cau-hoi.md`, rồi các node việc cần.
 
 ## 10. Câu hỏi cho tác giả
 
@@ -401,7 +401,7 @@ Gộp vào bước 4 của lộ trình `kien-truc.md` §8 (chuyển file), vì �
 | # | Việc | Phụ thuộc |
 | --- | --- | --- |
 | 1 | Tác giả trả lời Q-022 đến Q-029 | — |
-| 2 | Dựng `tuyen/README.md` và `goc.md` (kèm bảng cung hiện sinh theo giai đoạn) | 1 |
+| 2 | Dựng `_archive/tuyen/README.md` và `goc.md` (kèm bảng cung hiện sinh theo giai đoạn) | 1 |
 | 3 | QK.T: bảng NT từ ch.2–6 đã lên trang (trang là canon cứng) | 2 |
 | 4 | RM.TN: chuyển BRIEF, KHO, RR; đánh mã TN-; tách tình tiết Phong, Diệp Anh sang node của họ | 2 |
 | 5 | Giao điểm dày nhất trước: X-06, X-08, X-09, X-10, X-11 | 4 |

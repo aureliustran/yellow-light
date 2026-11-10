@@ -12,7 +12,7 @@ axis: [AX1]
 level: "EXL 4→5"
 beliefs: "BL-009; BL-024 (được xác nhận)"
 aliases: [QK.T 1.11]
-sources: [tuyen/qua-khu/thuyen.md §1–3]
+sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---
 # PAST.T-013 · 1.11
 

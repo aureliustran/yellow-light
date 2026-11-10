@@ -62,7 +62,7 @@ Năm học bắt đầu tháng 9. Tuổi ghi là tuổi tròn vào ngày 5/9 đ�
 | 11 | 2020–21 · 16 | 2021–22 · 16 |
 | 12 | 2021–22 · 17 | 2022–23 · 17 |
 
-Nguồn: `tuyen/qua-khu/thuyen.md` (đầu file, mốc `locked 31/10`: lớp 1 2010–11, lớp 3 2012–13 lúc 8 tuổi, lớp 6 2015–16, thi chuyên 6/2019, lớp 10–11 2019–21, lớp 12 2021–22, đại học 2022); `tuyen/qua-khu/nhi.md` §1 (sinh 2005; mốc cũ lùi 2 năm; N.1 8 tuổi 2013; N.6 lớp 12 2022–23). Bảng Nhi suy ra theo cùng quy tắc (vào lớp 1 năm tròn 6 tuổi). Misha sinh 2004, cùng năm Thuyên `locked 31/10`. Khánh, em trai Thuyên: sinh 2009 `proposed 10/11`; lớp 1 năm 2015–16, lớp 10 năm 2024–25; đủ 18 tuổi năm 2027.
+Nguồn: `_archive/tuyen/qua-khu/thuyen.md` (đầu file, mốc `locked 31/10`: lớp 1 2010–11, lớp 3 2012–13 lúc 8 tuổi, lớp 6 2015–16, thi chuyên 6/2019, lớp 10–11 2019–21, lớp 12 2021–22, đại học 2022); `_archive/tuyen/qua-khu/nhi.md` §1 (sinh 2005; mốc cũ lùi 2 năm; N.1 8 tuổi 2013; N.6 lớp 12 2022–23). Bảng Nhi suy ra theo cùng quy tắc (vào lớp 1 năm tròn 6 tuổi). Misha sinh 2004, cùng năm Thuyên `locked 31/10`. Khánh, em trai Thuyên: sinh 2009 `proposed 10/11`; lớp 1 năm 2015–16, lớp 10 năm 2024–25; đủ 18 tuổi năm 2027.
 
 **Ràng buộc** (đã thỏa): Nhi sinh 2005 mà 19 tuổi suốt hiện tại (12/10/2024 → 27/7/2025) thì sinh nhật phải trong khoảng 28/7 – 12/10; cộng cung Thiên Bình (từ 23/9) còn **1/10 – 12/10**. Ngày 3/10 đặt trước ch.1 (T7 5/10/2024) để không chạm chương đã đăng.
 
@@ -70,7 +70,7 @@ Nguồn: `tuyen/qua-khu/thuyen.md` (đầu file, mốc `locked 31/10`: lớp 1 2
 
 Bảng neo QK.T còn ghi năm theo lịch cũ; các năm này lệch với bảng trên. Lịch `locked 31/10` thắng; tác giả đồng ý sửa các dòng sau khi chuyển `PAST.T` (B3c):
 
-| Dòng (`tuyen/qua-khu/thuyen.md`) | Ghi | Theo lịch 31/10 |
+| Dòng (`_archive/tuyen/qua-khu/thuyen.md`) | Ghi | Theo lịch 31/10 |
 | --- | --- | --- |
 | 1.5 Tờ nháp, lớp 6 | 12/2017 | lớp 6 là 2015–16 → 12/2015 |
 | 1.7 Bẻ roi, lớp 7 | 4/2019 | lớp 7 là 2016–17 → 4/2017 |

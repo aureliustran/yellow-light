@@ -9,7 +9,7 @@ applies-to: "cảnh hai người, ROM GĐ1; mọi POV"
 effective: P1 → P2
 check: human
 aliases: ["bài học cảnh 05/11", "hài từ nhân vật"]
-sources: [tuyen/romance/thuyen-nhi.md §4 (chuyển T4, 10/11)]
+sources: [_archive/tuyen/romance/thuyen-nhi.md §4 (chuyển T4, 10/11)]
 ---
 # TEC.humor.want-clash · Hài dựng từ hai mong muốn va nhau
 

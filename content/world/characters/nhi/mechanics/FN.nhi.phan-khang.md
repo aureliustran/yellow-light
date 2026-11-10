@@ -5,7 +5,7 @@ status: proposed
 updated: 2026-11-10
 parent: "[[CH.nhi.mechanics]]"
 aliases: [fn.nhi.phan-khang, phản kháng, đấm]
-sources: [brief-tinh-cam-thuyen-nhi.md §3 (proposed), canon/bible-v2.md §4.2, tuyen/qua-khu/nhi.md §1.2, §7.6]
+sources: [brief-tinh-cam-thuyen-nhi.md §3 (proposed), canon/bible-v2.md §4.2, _archive/tuyen/qua-khu/nhi.md §1.2, §7.6]
 ---
 # FN.nhi.phan-khang
 

@@ -12,7 +12,7 @@ axis: [AX3]
 level: "EXL 1"
 beliefs: "BL-024 (mầm)"
 aliases: [QK.T 1.1b]
-sources: [tuyen/qua-khu/thuyen.md §1–3]
+sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---
 # PAST.T-002 · 1.1b
 

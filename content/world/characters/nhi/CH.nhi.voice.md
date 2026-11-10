@@ -6,7 +6,7 @@ updated: 2026-11-10
 aliases: [giọng Nhi, giọng nền Nhi]
 exports: []
 parent: "[[CH.nhi]]"
-sources: [tuyen/qua-khu/nhi.md §0, §1.2, §1.5 (locked 30–31/10), rules/registers.md (Register theo POV interlude), 01-rules-viet.md (Xưng hô; gọi tên cảm xúc ở POV khác Thuyên), rules/goi-ten-cam-xuc.md, 03-kho-nhi-thich-thuyen.md §0, brief-tinh-cam-thuyen-nhi.md §3, posts/vercel ch.01 (page)]
+sources: [_archive/tuyen/qua-khu/nhi.md §0, §1.2, §1.5 (locked 30–31/10), rules/registers.md (Register theo POV interlude), 01-rules-viet.md (Xưng hô; gọi tên cảm xúc ở POV khác Thuyên), rules/goi-ten-cam-xuc.md, 03-kho-nhi-thich-thuyen.md §0, brief-tinh-cam-thuyen-nhi.md §3, posts/vercel ch.01 (page)]
 ---
 # CH.nhi.voice · Giọng nền của Nhi
 

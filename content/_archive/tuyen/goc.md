@@ -153,7 +153,7 @@ Hai trường tùy chọn của bảng tình tiết lấy từ đây: `Nhiên li
 ## 6. Luật triển khai gốc
 
 1. **Hai trường của tình tiết:** `H` (trục nó chạm) và `Nấc` (nấc ở thời điểm ấy). Bắt buộc với tình tiết của node mức S trở lên ở giai đoạn đó; tùy chọn với node thấp hơn.
-2. **Dải hiện sinh** là bảng được sinh ra, không viết tay: lọc mọi tình tiết theo giai đoạn, xếp theo ngày, lấy cột H và Nấc. `tuyen/README.md` giữ bảng này; `canon:check` sinh lại.
+2. **Dải hiện sinh** là bảng được sinh ra, không viết tay: lọc mọi tình tiết theo giai đoạn, xếp theo ngày, lấy cột H và Nấc. `_archive/tuyen/README.md` giữ bảng này; `canon:check` sinh lại.
 3. **Luật liền mạch:** trong một giai đoạn, nấc không lùi khi đọc theo ngày, trừ chỗ có chủ đích (vang của nấc cũ, ghi rõ). Mỗi giai đoạn phải có ít nhất một tình tiết mang nấc của giai đoạn ấy ở node có mức cao nhất của giai đoạn.
 4. **Tình tiết hiện sinh không có cảnh riêng** (*Nước lạnh*, chẩn đoán) vẫn phải có một node chủ: SL.DT (chốt 26/10, Q-029).
 

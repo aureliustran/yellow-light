@@ -7,7 +7,7 @@ type: event
 parent: none
 time: "T7 28/12/2024"
 aliases: [X-007, X-07, Pickup]
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.FAM.N+ROM.PN+ROM.TN+SOL.SAN-001 · Pickup
 

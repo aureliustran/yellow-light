@@ -5,7 +5,7 @@ status: proposed
 updated: 2026-11-10
 nodes: ["[[ROM.TN]]", "[[SOL.VU]]"]
 aliases: []
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.ROM.TN+SOL.VU · Giao điểm ROM.TN × SOL.VU
 

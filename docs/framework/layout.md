@@ -44,10 +44,10 @@ content/
 │   └── <domain>/          one per cross-posting site: *.txt, convert.md
 ├── canon/ · proposals/ · audits/ · assets/    cross-cutting
 ├── _views/ · symbols.md   generated
-└── _archive/              dropped material, out of the graph
+└── _archive/              dropped or fully migrated material, read-only, out of the graph (`_archive/tuyen/`: old thread modules, migrated into `storylines/` 10/11)
 ```
 
-Folders not yet created are built during migration (B3–B7). Until then, flat files at the top of `content/` and `de-xuat/`, `tuyen/`, `kho/` are the old sources (`content/README.md`).
+Folders not yet created are built during migration (B3–B7). Until then, flat files at the top of `content/` and `de-xuat/`, `kho/` are the old sources (`_archive/tuyen/` is fully migrated, kept read-only for tracing) (`content/README.md`).
 
 **File name = id**, unique across the vault (see [ids.md](ids.md)). Chapter files in `posts/` keep their names because the import parser and the site depend on them; their ids are mapped in the edition file.
 

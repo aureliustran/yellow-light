@@ -12,7 +12,7 @@ axis: [AX2]
 level: "EXL 6"
 beliefs: "BL-018"
 aliases: [QK.T Hy vọng]
-sources: [tuyen/qua-khu/thuyen.md §1–3]
+sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---
 # PAST.T-020 · Hy vọng
 

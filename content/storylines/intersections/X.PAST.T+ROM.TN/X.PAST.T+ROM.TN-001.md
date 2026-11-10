@@ -7,7 +7,7 @@ type: event
 parent: none
 time: "CN 27/10/2024"
 aliases: [X-002, X-02, Buổi 1 *Đường thẳng*]
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.PAST.T+ROM.TN-001 · Buổi 1 *Đường thẳng*
 

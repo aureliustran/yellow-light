@@ -6,7 +6,7 @@ updated: 2026-11-10
 aliases: [niềm tin Thuyên, NT Thuyên]
 exports: [BL-001, BL-002, BL-003, BL-004, BL-005, BL-006, BL-007, BL-008, BL-009, BL-010, BL-011, BL-012, BL-013, BL-014, BL-015, BL-016, BL-017, BL-018, BL-019, BL-020, BL-021, BL-022, BL-023, BL-024, BL-025, BL-026, BL-027, BL-029, BL-030, BL-031, BL-032, BL-033, BL-034, BL-035, BL-036]
 parent: "[[CH.thuyen]]"
-sources: [tuyen/qua-khu/README.md §4, tuyen/qua-khu/thuyen.md §1, §4, §6, tuyen/qua-khu/thuyen-hai-cai-toi.md §11, tuyen/qua-khu/thuyen-da-nhan-cach.md §7, tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §4.5, de-xuat/qk-t-plan-viet-lai-quang-1-v3.md §0]
+sources: [_archive/tuyen/qua-khu/README.md §4, _archive/tuyen/qua-khu/thuyen.md §1, §4, §6, _archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §11, _archive/tuyen/qua-khu/thuyen-da-nhan-cach.md §7, _archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §4.5, de-xuat/qk-t-plan-viet-lai-quang-1-v3.md §0]
 ---
 # CH.thuyen.beliefs · Niềm tin của Thuyên
 
@@ -64,7 +64,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 - **cluster:** C1
 - **definition:** Thành tích không đem lại thứ anh thật sự cần (sự thừa nhận, một vòng tay); anh kết luận thành tích chưa đủ lớn. Đây là vạch dời ([[ART.AX3]] .2) chạy bên trong anh.
-- **ref:** `câu` · Epicurus, *Vatican Sayings* 68: *"Nothing satisfies him to whom what is enough is little."* (đã có ở "Họ ý" của H3, `tuyen/goc.md` §2)
+- **ref:** `câu` · Epicurus, *Vatican Sayings* 68: *"Nothing satisfies him to whom what is enough is little."* (đã có ở "Họ ý" của H3, `_archive/tuyen/goc.md` §2)
 - **deviation:** Epicurus đổ lỗi cho lòng tham của người muốn; ở Thuyên, vạch "đủ" do người khác cầm và dời, và anh không thấy thứ mình cần không phải một số lượng.
 - **seen:** `thay`
 - **monologue:**

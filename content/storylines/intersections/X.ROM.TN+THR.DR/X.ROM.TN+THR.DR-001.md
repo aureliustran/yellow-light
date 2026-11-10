@@ -7,7 +7,7 @@ type: event
 parent: none
 time: "GĐ1, ngày chưa định"
 aliases: [X-012, X-12, Drone sinh từ đồ ăn cho Nhi]
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.ROM.TN+THR.DR-001 · Drone sinh từ đồ ăn cho Nhi
 

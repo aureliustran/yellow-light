@@ -77,7 +77,7 @@ Một chốt chỉ được coi là xong khi cả năm việc ở nhánh phải 
 ### 4.3 Thiết kế module, kho chất liệu
 **Tác giả nói:** "dựng kho cho …", "thiết kế sự kiện …".
 **Skill:** `den-vang-characters`, `den-vang-registers`.
-**Claude làm:** ghi `tuyen/<tuyến>/<chủ-đề>.md`. Chốt tác giả đưa trong lúc thiết kế đi theo 4.1 ngay, không để nằm lại trong module.
+**Claude làm:** ghi `_archive/tuyen/<tuyến>/<chủ-đề>.md`. Chốt tác giả đưa trong lúc thiết kế đi theo 4.1 ngay, không để nằm lại trong module.
 
 ### 4.4 Viết một khoảng chương
 **Tác giả nói:** "viết ch.N–M".

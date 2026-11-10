@@ -91,5 +91,5 @@ Dán thô vào đây nếu chưa biết mẩu thuộc mục nào. Claude sẽ ch
 
 ## 4. Còn mở
 
-- Kho này nằm ở `content/kho/hai.md` vì `kien-truc.md` đặt `kho/` cho nguyên liệu. Nếu muốn chia theo nhân vật thay vì theo mục, hoặc đưa vào `tuyen/` của từng node, nói để chuyển.
+- Kho này nằm ở `content/kho/hai.md` vì `kien-truc.md` đặt `kho/` cho nguyên liệu. Nếu muốn chia theo nhân vật thay vì theo mục, hoặc đưa vào `_archive/tuyen/` của từng node, nói để chuyển.
 - Có tách kho hài riêng cho từng register (R1 đời thường, R2 rom-com) hay một kho chung như đây.

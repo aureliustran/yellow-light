@@ -5,7 +5,7 @@ status: locked
 updated: 2026-11-10
 axis: AX3
 aliases: [hiến pháp AX3, Cây thước]
-sources: [hội thoại 10/11 (hai cây thước, hai lực, thành tố), tuyen/goc.md §2 H3 (câu gốc locked 28/10), tuyen/qua-khu/thuyen-co-may.md §3.1]
+sources: [hội thoại 10/11 (hai cây thước, hai lực, thành tố), _archive/tuyen/goc.md §2 H3 (câu gốc locked 28/10), _archive/tuyen/qua-khu/thuyen-co-may.md §3.1]
 ---
 # ART.AX3 · Chương AX3: Cây thước
 

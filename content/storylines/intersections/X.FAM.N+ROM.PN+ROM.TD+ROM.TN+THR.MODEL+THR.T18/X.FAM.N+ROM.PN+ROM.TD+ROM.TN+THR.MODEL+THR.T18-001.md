@@ -7,7 +7,7 @@ type: event
 parent: none
 time: "16 → 18/1/2025"
 aliases: [X-009, X-09, Tất niên và gala]
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.FAM.N+ROM.PN+ROM.TD+ROM.TN+THR.MODEL+THR.T18-001 · Tất niên và gala
 

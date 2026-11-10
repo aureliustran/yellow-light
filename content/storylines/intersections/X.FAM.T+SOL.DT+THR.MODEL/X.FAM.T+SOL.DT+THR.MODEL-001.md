@@ -7,7 +7,7 @@ type: event
 parent: none
 time: "GĐ2, ngày chưa định"
 aliases: [X-016, X-16, Tiệc R&D, giỗ ông]
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.FAM.T+SOL.DT+THR.MODEL-001 · Tiệc R&D, giỗ ông
 

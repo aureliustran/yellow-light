@@ -1,6 +1,6 @@
 # Bản nháp · ROM.TN-001 · Thuyên chọc Nhi với Phong
 
-`bản nháp 05/11`, chưa gắn chương. Lá: `content/storylines/ROM/ROM.TN/ROM.TN-001.md`. Chuyển từ `tuyen/romance/thuyen-nhi.md` §3.2, §3.4 (T4, 10/11).
+`bản nháp 05/11`, chưa gắn chương. Lá: `content/storylines/ROM/ROM.TN/ROM.TN-001.md`. Chuyển từ `_archive/tuyen/romance/thuyen-nhi.md` §3.2, §3.4 (T4, 10/11).
 
 Nguồn: Claude viết thử theo `kho/hai-ky-thuat.md`, tác giả sửa và viết lại từ đoạn kẹp tóc (05/11, 16:53 → 17:20). Phần thoại từ "Người không để ý ai…" của Nhi trở đi là của tác giả.
 

@@ -12,7 +12,7 @@ axis: [AX3]
 level: "EXL 5"
 beliefs: "BL-011; BL-020"
 aliases: [QK.T Hụt hẫng]
-sources: [tuyen/qua-khu/thuyen.md §1–3]
+sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---
 # PAST.T-018 · Hụt hẫng
 

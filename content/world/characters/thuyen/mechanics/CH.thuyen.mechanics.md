@@ -6,7 +6,7 @@ updated: 2026-11-10
 aliases: [co-may-thuyen, cỗ máy hiện sinh]
 exports: []
 parent: "[[CH.thuyen]]"
-sources: [tuyen/qua-khu/thuyen-co-may.md §2 (locked 28/10), de-xuat/kien-truc-framework.md §13.1]
+sources: [_archive/tuyen/qua-khu/thuyen-co-may.md §2 (locked 28/10), de-xuat/kien-truc-framework.md §13.1]
 ---
 # CH.thuyen.mechanics · Cỗ máy hiện sinh của Thuyên
 
@@ -25,7 +25,7 @@ Sơ đồ và chữ ký mọi hàm, mỗi hàm một dòng. Thân từng hàm �
  VAN XẢ: tếu · TÊN LỬA → KHÍ THẢI → RĂN · ĐIỂM GÃY: định giá bằng 0 · SỬA: cái tôi lành dẫn, để người khác ôm
 ```
 
-Bản đầy đủ: `tuyen/qua-khu/thuyen-co-may.md` §2 (nguồn cho tới khi B3b chuyển xong).
+Bản đầy đủ: `_archive/tuyen/qua-khu/thuyen-co-may.md` §2 (nguồn cho tới khi B3b chuyển xong).
 
 **Vòng tự nuôi:** thiếu → phương trình → giỏi lên → được khen mà không được ôm → nhu cầu còn → cần được ôm thành bằng chứng mình chưa đủ giỏi → phủ nhận → giấu con người thật → phần bị giấu không ai thương được → thiếu sâu thêm.
 
@@ -46,7 +46,7 @@ Bản đầy đủ: `tuyen/qua-khu/thuyen-co-may.md` §2 (nguồn cho tới khi 
 | [[FN.thuyen.adhd]] | hệ thần kinh chạy bằng hứng thú; dạng kết hợp theo tuổi; luật viết | `thuyen-adhd` §4, §5, §5b |
 | [[FN.thuyen.nang-khieu]] | nhìn ra lõi, học bằng liên kết | `thuyen-hai-cai-toi` §15 |
 | [[FN.thuyen.luoi-co-chon-loc]] | lười có chọn lọc, chăm có mục đích | `M-he-gia-tri` §3b; `01-rules-viet` |
-| [[FN.thuyen.quan-su]] | giỏi việc người, mù việc mình | BL-015 (NT-15); `tuyen/sl/vu.md` §2 |
+| [[FN.thuyen.quan-su]] | giỏi việc người, mù việc mình | BL-015 (NT-15); `_archive/tuyen/sl/vu.md` §2 |
 
 ## Thiết bị trên trang (DV-, cũ TB-) `locked 28/10`
 

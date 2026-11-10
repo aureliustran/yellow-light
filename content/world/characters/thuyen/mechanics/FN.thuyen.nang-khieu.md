@@ -5,7 +5,7 @@ status: proposed
 updated: 2026-11-10
 parent: "[[CH.thuyen.mechanics]]"
 aliases: [fn.thuyen.nang-khieu, năng khiếu, nhìn ra lõi]
-sources: [tuyen/qua-khu/thuyen-hai-cai-toi.md §15]
+sources: [_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §15]
 ---
 # FN.thuyen.nang-khieu
 

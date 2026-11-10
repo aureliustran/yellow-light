@@ -295,7 +295,7 @@ Tác giả, 30/10: tác động của Thảo lên cốt truyện và bài học 
 
 ## 6. Đã chuyển cho tuyến khác
 
-- **RM:** `de-xuat/rm-handoff.md` §9 trỏ về file này; session RM đọc thẳng `tuyen/qua-khu/nhi.md` cho mọi chất liệu về Nhi. §9 chỉ giữ việc riêng của RM: lớp nghi ngờ, hợp tác shop, tuyến Phong, gương ở hiện tại.
+- **RM:** `de-xuat/rm-handoff.md` §9 trỏ về file này; session RM đọc thẳng `_archive/tuyen/qua-khu/nhi.md` cho mọi chất liệu về Nhi. §9 chỉ giữ việc riêng của RM: lớp nghi ngờ, hợp tác shop, tuyến Phong, gương ở hiện tại.
 - **Q-001:** dòng K17 `[chốt 29/10]`; §3 thêm dòng Khải biết kế hoạch lượt 2 nên càng đề phòng Thuyên (cho session TH).
 - **Kiến trúc, Q-049:** đã đóng 31/10 (lịch 2024–2025). Ch.1 thu-v6 đã ghi T7 5/10/2024, *Summit 2024*; trang phục ch.1 (cardigan hồng nhạt, váy trắng, Vespa hồng) khớp §1.5. Interlude Nhi v1 còn ghi năm 2026: lịch mới ở §8.
 - **Plan phần mở đầu QK.T, Q-050** `[chốt 31/10]`: ở phần mở đầu QK.N chỉ có mảnh vụn trong các interlude 1b–5b (§8). Phần quá khứ thật của Nhi, từ N.4, để sang GĐ1, sau X-05. Vì vậy mức S của QK.N nên đặt ở GĐ1, không ở phần mở đầu.

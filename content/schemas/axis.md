@@ -6,7 +6,7 @@ status: agreed
 updated: 2026-11-10
 required: [id, kind, status, updated, name]
 aliases: [schema.axis]
-sources: [docs/framework/model.md, tuyen/goc.md §2 (chuyển 10/11)]
+sources: [docs/framework/model.md, _archive/tuyen/goc.md §2 (chuyển 10/11)]
 ---
 # schema · axis
 
@@ -24,7 +24,7 @@ An existential axis of the story (old `H<n>`). The root holds axes, not mechanis
 | `components` | components merged into the axis (text only; nodes point here, the axis does not link to nodes) |
 | `ideas` | names or concepts outside the story ("Họ ý"); quotes only when public domain |
 
-## Rules (from `tuyen/goc.md` §2, locked 28/10)
+## Rules (from `_archive/tuyen/goc.md` §2, locked 28/10)
 
 1. The root sentence is the author's. Outside sources go to `ideas` only.
 2. Public-domain quotes may be used verbatim with source; on the page a character knows them from elsewhere, never quotes them at the reader.

@@ -1,10 +1,10 @@
 # Đèn vàng – Hợp nhất lõi cũ vào cây tuyến
 
-Oct 26, 2026 · @aureliustran. **[chốt 26/10]** Tác giả chốt theo khuyến nghị (Q-037 đến Q-046); đáp án nằm ở `canon/cau-hoi.md`, mục "Đã đóng". Câu gốc của H1, H3 vẫn là `[đề xuất]` (mục 4). Đã áp vào `tuyen/goc.md`, `tuyen/README.md`, `tuyen/qua-khu/README.md`, `kien-truc.md`, `quy-trinh.md`, `README.md`. Phần chưa làm ghi ở mục 6.
+Oct 26, 2026 · @aureliustran. **[chốt 26/10]** Tác giả chốt theo khuyến nghị (Q-037 đến Q-046); đáp án nằm ở `canon/cau-hoi.md`, mục "Đã đóng". Câu gốc của H1, H3 vẫn là `[đề xuất]` (mục 4). Đã áp vào `_archive/tuyen/goc.md`, `_archive/tuyen/README.md`, `_archive/tuyen/qua-khu/README.md`, `kien-truc.md`, `quy-trinh.md`, `README.md`. Phần chưa làm ghi ở mục 6.
 
 Yêu cầu của tác giả (26/10): đọc lõi của skill và tài liệu cũ (canon, bible, thẻ nhân vật), tìm chỗ cây tuyến còn lệch với lõi cũ, đề xuất hợp nhất lõi cũ vào cây.
 
-Viết bởi session kiến trúc. Không đụng `content/tuyen/thriller/`, `content/tuyen/romance/`, `content/de-xuat/th-*.md`, `content/de-xuat/rm-*.md`. Phần thuộc TH hoặc RM chỉ được nêu để chuyển cho phiên ấy.
+Viết bởi session kiến trúc. Không đụng `content/_archive/tuyen/thriller/`, `content/_archive/tuyen/romance/`, `content/de-xuat/th-*.md`, `content/de-xuat/rm-*.md`. Phần thuộc TH hoặc RM chỉ được nêu để chuyển cho phiên ấy.
 
 Đã đọc: `content/kien-truc.md`, `quy-trinh.md`, `README.md`, `de-xuat/cay-tuyen.md`, `hop-nhat-cay-tuyen.md`, `ngan-sach-tuyen.md`, `rm-handoff.md`, `canon/cau-hoi.md`, `claude/v2/bible-v2.md`, sáu skill `den-vang-*`, thẻ Nhi, `M-he-gia-tri`, `M-dien-bien-cam-xuc`, `plan-giai-doan-2-hop-nhat.md`, `brief-kieu-ngao-tang-dan.md`, `th-tai-cau-truc-lab.md`, `th-nguyen-lieu-tu-canon.md`.
 
@@ -27,12 +27,12 @@ Còn lại là bổ sung cột, bổ sung ô, và đóng các chỗ lệch nhỏ
 | --- | --- | --- | --- | --- |
 | 1 | **Bốn thang cùng tên "nấc":** hiện sinh 9 nấc; kiêu ngạo của Thuyên 0 đến 7 gắn ch.25 đến 51; cảm xúc của Nhi 0 đến 7; chín nấc "Nhi thích Thuyên" ở KHO. Trường `Nấc` của tình tiết không biết chọn thang nào | Đổi tên: **Nấc-HS** (hiện sinh, thuộc gốc), **Nấc-TT** (kiêu ngạo Thuyên), **Nấc-RM** (chín nấc KHO). Hai thang của Nhi (0 đến 7 và chín nấc KHO) có thể là một; cần đọc lại cả hai rồi gộp hoặc giữ | Q-039 | `goc.md` §3; gộp thang Nhi chưa làm |
 | 2 | **Thẻ nhân vật chứa sự kiện** (mốc theo chương, cảnh đã xảy ra) | Thẻ về `nhan-vat/<tên>.md`, bỏ số chương, thêm ba trường đầu thẻ: `Gốc: H…`, `NT: …`, `Node chủ: …`. Sự kiện chuyển thành tình tiết ở node chủ | Q-041 | `kien-truc.md` §6; thẻ chưa chuyển |
-| 3 | **"Người đọc biết gì"** và mốc cử chỉ nằm trong thẻ | Thành sổ "ai biết gì" của giao điểm (đã có ở X-13) và cột trong bảng tình tiết | Q-041 | `tuyen/README.md` §7 |
+| 3 | **"Người đọc biết gì"** và mốc cử chỉ nằm trong thẻ | Thành sổ "ai biết gì" của giao điểm (đã có ở X-13) và cột trong bảng tình tiết | Q-041 | `_archive/tuyen/README.md` §7 |
 | 4 | **Trục H gần như toàn của Thuyên.** Cái "Cần" của Nhi, Diệp Anh, Khải không có trục (H7 là trục duy nhất phía Nhi) | Ánh xạ "Cần" vào H có sẵn bằng trường `Cần → H` trong thẻ; thêm trục chỉ khi có "Cần" không vào H nào | Q-040 | `goc.md` §2, `kien-truc.md` §6 |
-| 5 | **Bảng tình tiết thiếu cột** nhiên liệu, giá, register. Cơ chế nhờn thuốc, bảy loại nhiên liệu cho kiêu ngạo (`brief-van-phong-dau-tri` §8, chốt 11/10) chưa có chỗ ở trong cây | Cơ chế biến chất vào `goc.md`. Bảng tình tiết thêm ba cột **tùy chọn**: `Nhiên liệu`, `Giá`, `Register`. Nhiên liệu và Giá bắt buộc với node mức S trở lên | Q-042 | `goc.md` §5, `tuyen/README.md` §7 |
+| 5 | **Bảng tình tiết thiếu cột** nhiên liệu, giá, register. Cơ chế nhờn thuốc, bảy loại nhiên liệu cho kiêu ngạo (`brief-van-phong-dau-tri` §8, chốt 11/10) chưa có chỗ ở trong cây | Cơ chế biến chất vào `goc.md`. Bảng tình tiết thêm ba cột **tùy chọn**: `Nhiên liệu`, `Giá`, `Register`. Nhiên liệu và Giá bắt buộc với node mức S trở lên | Q-042 | `goc.md` §5, `_archive/tuyen/README.md` §7 |
 | 6 | **Register chia theo chương** (skill `van-phong`, rules cũ) trong khi cây cho node TH.LAB mức SS+ và luật va chạm theo nhịp | Register về `rules/registers.md`. Node ghi register mặc định ở đầu file. Giao điểm ghi register từng nhịp. Cột `Register` chỉ điền khi lệch mặc định | Q-042 | khuôn file; `registers.md` chưa viết (cần đọc `rules/` trước) |
 | 7 | **`cay-tuyen` §8 bỏ sót bible §2, §4, §9** | §2 (lịch) về `canon/lich.md`; §4 (nhân vật) tách vào `nhan-vat/` và node; §9 (Phần 2 đến 4) là nguồn của ô hậu sân bay | Q-043 | `kien-truc.md` §2 |
-| 8 | **Cây dừng ở sân bay**, nhưng TH.DR, GD.N, QK.K có nội dung sau sân bay (luận văn Phần Lan, startup Phần 3, Khải nhảy vào Phần 4, hội đồng thật của gia đình) | Ô **hậu sân bay** trong ma trận mức cho ba node ấy, mức `[chờ]` cho tới khi "Phần" được định nghĩa. Không thêm cột giai đoạn mới | Q-043 | `tuyen/README.md` §3, §4 |
+| 8 | **Cây dừng ở sân bay**, nhưng TH.DR, GD.N, QK.K có nội dung sau sân bay (luận văn Phần Lan, startup Phần 3, Khải nhảy vào Phần 4, hội đồng thật của gia đình) | Ô **hậu sân bay** trong ma trận mức cho ba node ấy, mức `[chờ]` cho tới khi "Phần" được định nghĩa. Không thêm cột giai đoạn mới | Q-043 | `_archive/tuyen/README.md` §3, §4 |
 | 9 | **Sáu sổ của `ra-soat`** (canon, quỹ đạo nhân vật, mạch, manh mối, motif, văn phong) trùng việc với node | `audit` ghi ngược vào node: sổ canon vào node chủ, quỹ đạo nhân vật vào dải hiện sinh, manh mối vào giao điểm. Sổ văn phong giữ ở `ra-soat/` | | `kien-truc.md` §6, `quy-trinh.md` 4.6 |
 | 10 | **Morpheus.** `plan-giai-doan-2-hop-nhat.md` giấu Morpheus đến sau ngày gãy (hành lang 20/4). Chốt 24/10 (GALA, Q-106 đã đóng) cho anh gặp ở tất niên rồi bay sang Mỹ, Thuyên ngưỡng mộ | Phần giấu Morpheus của plan GĐ2 là `[thay bởi chốt 24/10]`. Chưa đánh dấu trong file legacy nào | Q-044 | ghi ở `cau-hoi.md` |
 | 11 | **Bible-v2 chưa theo các quyết định của session TH:** bỏ "phe rắn", bỏ "đấu trí nhẹ", "thích nghi" thành "thao túng". `cay-tuyen` (TH.LAB, bảng GĐ1) vẫn còn hai cụm ấy | **Chuyển cho session TH**, không sửa ở đây. Khi tác giả duyệt, session kiến trúc sửa `cay-tuyen` và bible | | chưa |
@@ -54,7 +54,7 @@ Bổ sung cho `cay-tuyen` §8 (không thay). Bảng đầy đủ nằm ở `kien
 
 ## 4. Khuôn trục H có câu của tác giả
 
-Đã vào `tuyen/goc.md` §2. Bản đầy đủ của từng trục (H1, H2, H3 và nguồn có sẵn của H4 đến H8) ở đó. Tóm tắt trạng thái:
+Đã vào `_archive/tuyen/goc.md` §2. Bản đầy đủ của từng trục (H1, H2, H3 và nguồn có sẵn của H4 đến H8) ở đó. Tóm tắt trạng thái:
 
 | Trục | Câu gốc | Trạng thái |
 | --- | --- | --- |
@@ -80,8 +80,8 @@ Tác giả hiện đại còn bản quyền (Searle, Harari, Polanyi, Fricker, W
 
 ## 5. Quy trình khi cây là lõi
 
-Đã vào `quy-trinh.md` §4.0 và `tuyen/README.md` §5, §6. Giữ nguyên `hop-nhat-cay-tuyen` §4 (lối vào A, lối vào B, bảng độ nặng). Bổ sung từ lần đối chiếu này:
-1. **Bước đọc ban đầu:** `README.md`, `tuyen/goc.md`, `tuyen/README.md`, `canon/cau-hoi.md`, kiểm git.
+Đã vào `quy-trinh.md` §4.0 và `_archive/tuyen/README.md` §5, §6. Giữ nguyên `hop-nhat-cay-tuyen` §4 (lối vào A, lối vào B, bảng độ nặng). Bổ sung từ lần đối chiếu này:
+1. **Bước đọc ban đầu:** `README.md`, `_archive/tuyen/goc.md`, `_archive/tuyen/README.md`, `canon/cau-hoi.md`, kiểm git.
 2. **Lối vào A, bước 4 (gốc):** planner lấy thêm **câu gốc của trục nặng** trong giai đoạn làm thước.
 3. **Audit** ghi ngược vào node.
 4. **Vai TRỤC đổi tên thành DẪN** (Q-046): chữ "trục" có ba nghĩa (trục H, trục thời gian, vai trong lối vào A).

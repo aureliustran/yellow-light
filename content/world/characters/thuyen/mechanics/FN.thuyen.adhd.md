@@ -5,7 +5,7 @@ status: agreed
 updated: 2026-11-10
 parent: "[[CH.thuyen.mechanics]]"
 aliases: [fn.thuyen.adhd, ADHD]
-sources: [tuyen/qua-khu/thuyen-adhd.md §4, §5, §5b, §7]
+sources: [_archive/tuyen/qua-khu/thuyen-adhd.md §4, §5, §5b, §7]
 ---
 # FN.thuyen.adhd
 

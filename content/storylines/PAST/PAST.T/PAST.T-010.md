@@ -12,7 +12,7 @@ axis: [AX3, AX5]
 level: "EXL 4"
 beliefs: "BL-007"
 aliases: [QK.T 1.8]
-sources: [tuyen/qua-khu/thuyen.md §1–3]
+sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---
 # PAST.T-010 · 1.8
 

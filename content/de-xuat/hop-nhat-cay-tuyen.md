@@ -20,8 +20,8 @@ Câu hỏi cho tác giả: Q-030 đến Q-033 (mục 6, đã thêm vào `canon/c
 | Nguyên tắc 2: quyết định có mã `D-` | Giữ `D-`; tình tiết đã chốt trích `D-` | Khớp |
 | Nguyên tắc 3: tác giả chốt, Claude ghi sổ | Giữ; mức có dấu `†` là của tác giả, còn lại là đề xuất | Khớp |
 | Nguyên tắc 4: trang đã viết là canon cứng | Cột "Chương" trong node; rà soát ghi ngược vào node | Khớp |
-| Nguyên tắc 5: nạp ít mà đúng (README, bible, câu hỏi) | Thêm `tuyen/goc.md`, `tuyen/README.md`; bù lại, mỗi việc chỉ nạp node trong phạm vi | Khớp, đổi bộ đọc |
-| §2 thư mục `tuyen/` (thuyen-nhi, lab, diep-anh, su-kien), phẳng | Cây năm tuyến cấp 1; `su-kien/` thành `giao-diem/` | Khớp, thay cấu trúc bên trong |
+| Nguyên tắc 5: nạp ít mà đúng (README, bible, câu hỏi) | Thêm `_archive/tuyen/goc.md`, `_archive/tuyen/README.md`; bù lại, mỗi việc chỉ nạp node trong phạm vi | Khớp, đổi bộ đọc |
+| §2 thư mục `_archive/tuyen/` (thuyen-nhi, lab, diep-anh, su-kien), phẳng | Cây năm tuyến cấp 1; `su-kien/` thành `giao-diem/` | Khớp, thay cấu trúc bên trong |
 | §4 T0 canon gồm bible, sổ D, sổ Q, thẻ, lịch | Node chứa tình tiết đã chốt | **Không khớp (X1)** |
 | §4 T1 thiết kế: "tầng dưới không tạo chốt" | Node trộn tình tiết chốt và đề xuất trong một file | **Không khớp (X1)** |
 | §2 `ke-hoach/khung-chuong-gd1.md` là bảng chương | Node có cột "Chương"; giao điểm có thứ tự | **Chồng (X2)** |
@@ -35,12 +35,12 @@ Câu hỏi cho tác giả: Q-030 đến Q-033 (mục 6, đã thêm vào `canon/c
 
 | | M1. Node là canon **[khuyến nghị]** | M2. Bible giữ chốt | M3. Tách file trong node |
 | --- | --- | --- | --- |
-| Cách làm | `tuyen/` có hai tầng: dòng `[chốt D-xxx]` là T0, dòng `[đề xuất]` là T1, cùng một file, phân bằng nhãn | Node chỉ giữ đề xuất và trích mã; tình tiết chốt chép lên bible kèm mã `TN-` | Mỗi node hai file: `chot.md` (T0) và `de-xuat.md` (T1) |
+| Cách làm | `_archive/tuyen/` có hai tầng: dòng `[chốt D-xxx]` là T0, dòng `[đề xuất]` là T1, cùng một file, phân bằng nhãn | Node chỉ giữ đề xuất và trích mã; tình tiết chốt chép lên bible kèm mã `TN-` | Mỗi node hai file: `chot.md` (T0) và `de-xuat.md` (T1) |
 | Bible | mỏng (phương án A ở `cay-tuyen` §9) | đầy đủ | mỏng |
 | Đúng ý "tuyến là nguồn sự thật cho tình tiết" | Có | Không: nguồn vẫn là bible | Có |
 | Giữ luật tầng của `kien-truc` §4 | Nới: luật chuyển từ "theo thư mục" sang "theo nhãn" | Giữ nguyên | Giữ nguyên |
 | Rủi ro | Đề xuất bị đọc nhầm thành canon; chặn bằng `canon:check` (dòng không nhãn = lỗi) | Lặp đúng lỗi Q-002: một tình tiết hai chỗ | Gấp đôi số file; hay quên chuyển dòng từ file này sang file kia khi chốt |
-| Sửa `kien-truc` | §4: T0 thêm "dòng chốt trong `tuyen/`"; luật luồng đổi thành "không tạo chốt ngoài lượt tác giả chốt" | ít | §2 thêm khuôn hai file |
+| Sửa `kien-truc` | §4: T0 thêm "dòng chốt trong `_archive/tuyen/`"; luật luồng đổi thành "không tạo chốt ngoài lượt tác giả chốt" | ít | §2 thêm khuôn hai file |
 
 Gộp Q-023 (bible mỏng hay đầy đủ) vào câu này: chọn M1 hoặc M3 thì bible mỏng; chọn M2 thì bible đầy đủ.
 
@@ -140,13 +140,13 @@ Ví dụ này cũng cho thấy cây quyết định làm lộ ra cái mà cách 
 
 | File | Thay đổi |
 | --- | --- |
-| `kien-truc.md` §2 | Thay cây `tuyen/` bằng cây ở `cay-tuyen` §7; thêm `ke-hoach/tong-hop/<khoảng>/pham-vi-tuyen.md` |
+| `kien-truc.md` §2 | Thay cây `_archive/tuyen/` bằng cây ở `cay-tuyen` §7; thêm `ke-hoach/tong-hop/<khoảng>/pham-vi-tuyen.md` |
 | `kien-truc.md` §4 | Theo phương án X1 đã chọn; T1 ghi rõ cây tuyến là kiến trúc của tầng |
 | `kien-truc.md` §5 | Thêm mã `TN-…`, `X-`, `NT-`, `H`; luật nhãn |
 | `kien-truc.md` §6 | `plot-synthesis` thêm bước chọn tuyến; `writing-pipeline` bước 0 kéo theo phạm vi; `canon` kiểm luật cây; `audit` ghi ngược vào node |
-| `quy-trinh.md` §3 | Bộ đọc khi bắt đầu session thêm `tuyen/goc.md`, `tuyen/README.md` |
+| `quy-trinh.md` §3 | Bộ đọc khi bắt đầu session thêm `_archive/tuyen/goc.md`, `_archive/tuyen/README.md` |
 | `quy-trinh.md` §4 | Thêm §4.0 "Chọn tuyến" (lối vào A, B); bảng 4.3 cho độ nặng quy trình |
-| `README.md` | Bản đồ thêm `tuyen/`; bộ đọc mới |
+| `README.md` | Bản đồ thêm `_archive/tuyen/`; bộ đọc mới |
 | Skill | Đề xuất qua thẻ lưu skill khi sửa lần đầu, đúng luật đổi tên ở `kien-truc` §6 |
 
 ## 6. Câu hỏi cho tác giả

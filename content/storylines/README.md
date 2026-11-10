@@ -7,11 +7,11 @@ updated: 2026-11-10
 participants: []
 axes: [AX1, AX2, AX3, AX4, AX5, AX6, AX7, AX8, AX9]
 aliases: [cây tuyến, gốc của cây tuyến, tuyen]
-sources: [tuyen/README.md §2, §8; tuyen/goc.md §1, §4, §5, §6, §7 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §2, §8; _archive/tuyen/goc.md §1, §4, §5, §6, §7 (chuyển 10/11)]
 ---
 # TREE · Cây tuyến
 
-Node gốc của mọi tuyến. Toàn bộ chức năng của thư mục cũ `tuyen/` ở đây (10/11); riêng định nghĩa trục và thang ở `core/` vì tầng tĩnh cũng trỏ tới chúng. Gốc không có tình tiết và không có mức; nó có mặt ở mọi giai đoạn và được triển khai trong các tuyến.
+Node gốc của mọi tuyến. Toàn bộ chức năng của thư mục cũ `_archive/tuyen/` ở đây (10/11); riêng định nghĩa trục và thang ở `core/` vì tầng tĩnh cũng trỏ tới chúng. Gốc không có tình tiết và không có mức; nó có mặt ở mọi giai đoạn và được triển khai trong các tuyến.
 
 **Gốc giữ trục, không giữ cơ chế vận hành** `locked 28/10`. Cách một trục chạy trong truyện nằm ở node hoặc nhân vật mang nó, và nơi ấy trỏ về trục. Ngoại lệ: cơ chế nhờn thuốc (dưới đây), vì nhiều node dùng chung.
 
@@ -92,7 +92,7 @@ Công thức mỗi nấc: **nhiên liệu → phản ứng của anh → nấc m
 3. **Giai đoạn là trục thời gian, không phải node.** Một node chạy xuyên giai đoạn được. "Phần" chưa có định nghĩa nên chưa dùng làm trục.
 4. **Cơ chế ở node và nhân vật, trục ở gốc.** Một node hoặc nhân vật được giữ cơ chế vận hành của nó, miễn là cơ chế ấy trỏ về trục nó phục vụ; trục không trỏ ngược tới cơ chế.
 
-## Cây quyết định `locked 26/10` (chuyển từ `tuyen/README.md` §5)
+## Cây quyết định `locked 26/10` (chuyển từ `_archive/tuyen/README.md` §5)
 
 ### Lối vào A: lập plan cho một khoảng chương (từ trên xuống)
 

@@ -7,7 +7,7 @@ type: event
 parent: none
 time: "tháng 2–3/2025 (mưa phùn)"
 aliases: [X-010, X-10, *Mixue*]
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.ROM.PN+ROM.TN-001 · *Mixue*
 

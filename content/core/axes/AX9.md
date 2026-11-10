@@ -5,7 +5,7 @@ status: locked
 updated: 2026-11-10
 name: Kẻ mạnh
 aliases: [H9, Kẻ mạnh]
-sources: [tuyen/goc.md §2 (chuyển 10/11)]
+sources: [_archive/tuyen/goc.md §2 (chuyển 10/11)]
 ---
 # AX9 · Kẻ mạnh
 

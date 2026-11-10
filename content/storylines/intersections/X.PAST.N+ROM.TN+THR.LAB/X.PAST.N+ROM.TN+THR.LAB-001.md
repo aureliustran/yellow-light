@@ -7,7 +7,7 @@ type: event
 parent: none
 time: "T5 28/11/2024"
 aliases: [X-004, X-04, Buổi 3, tên Thảo]
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.PAST.N+ROM.TN+THR.LAB-001 · Buổi 3, tên Thảo
 

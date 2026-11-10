@@ -12,7 +12,7 @@ axis: [AX3]
 level: "EXL 7"
 beliefs: "(tiêu thụ BL-007)"
 aliases: [QK.T 3.5]
-sources: [tuyen/qua-khu/thuyen.md §1–3]
+sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---
 # PAST.T-027 · 3.5
 

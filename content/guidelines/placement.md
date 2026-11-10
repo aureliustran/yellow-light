@@ -40,4 +40,4 @@ Ask the questions in order; the first "yes" decides. Ids: `docs/framework/ids.md
 
 ## Transitional
 
-Follow the transitional table in `content/GUIDELINES.md`: events go to the old `tuyen/` tables; other kinds go to `content/de-xuat/` under their future file name.
+Follow the transitional table in `content/GUIDELINES.md`: events go to the old `_archive/tuyen/` tables; other kinds go to `content/de-xuat/` under their future file name.

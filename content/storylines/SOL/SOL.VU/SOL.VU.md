@@ -8,13 +8,13 @@ participants: ["[[CH.thuyen]]", "[[CH.vu]]"]
 axes: [AX2, AX1, AX3, AX7]
 weight: {OPEN: B, P1: A, P2: S, BREAK: C, AFTER: S}
 aliases: [SL.VU, Vũ và khu tập thể]
-sources: [tuyen/README.md §4, tuyen/sl/vu.md (chuyển T5, 10/11), de-xuat/cay-tuyen.md, de-xuat/qk-t-plan-ch1-het-cap-2.md §4]
+sources: [_archive/tuyen/README.md §4, _archive/tuyen/sl/vu.md (chuyển T5, 10/11), de-xuat/cay-tuyen.md, de-xuat/qk-t-plan-ch1-het-cap-2.md §4]
 ---
 # SOL.VU · Vũ và khu tập thể
 
 Cột rổ, "Thích thì nói mẹ nó đi", "Mày đang lùi đấy à?", rạn nứt, sáng sớm làm lành. Thiết kế lại Vũ `locked 30/10` (buổi thảo luận QK); thẻ nhân vật ở gói [[CH.vu]] (ngoại hình, nguồn gốc, lõi *yêu bằng hành động*, cách đối xử với Thuyên, trao đổi), niềm tin ở [[CH.vu.beliefs]], hàm [[FN.vu.thuong-bang-hanh-dong]], [[FN.vu.lat]]. Node không chép lại thẻ.
 
-**Mục:** `weight` · `events` · `lines` · `handoffs` · `gaps`. Chuyển từ `tuyen/sl/vu.md` (T5, 10/11).
+**Mục:** `weight` · `events` · `lines` · `handoffs` · `gaps`. Chuyển từ `_archive/tuyen/sl/vu.md` (T5, 10/11).
 
 ## weight
 
@@ -22,7 +22,7 @@ Cột rổ, "Thích thì nói mẹ nó đi", "Mày đang lùi đấy à?", rạn
 | --- | --- | --- | --- | --- | --- |
 | B | A | S | C | S |  |
 
-Từ ma trận `tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
+Từ ma trận `_archive/tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
 
 ## events
 
@@ -55,5 +55,5 @@ Cần sửa ở nơi khác (chưa làm):
 | `qua-khu/thuyen-hai-cai-toi.md` §8.2 L2 | Tú → Vũ | Đã sửa 30/10 |
 | Kho v1 ch.7 | Bỏ câu lặp "Chơi không? Thiếu một." ở sân đại học | Khi viết lại ch.7 |
 
-Mốc L2 trong `tuyen/sl/vu.md` ghi nhầm 4–5/2023; theo lịch `locked 31/10` là 4–5/2021 (đã sửa ở [[CH.vu]], 10/11).
+Mốc L2 trong `_archive/tuyen/sl/vu.md` ghi nhầm 4–5/2023; theo lịch `locked 31/10` là 4–5/2021 (đã sửa ở [[CH.vu]], 10/11).
 

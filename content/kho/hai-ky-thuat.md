@@ -265,7 +265,7 @@ Người đọc biết điều nhân vật không biết, nên mỗi câu của 
 
 ---
 
-**Bài học áp dụng (05/11):** so bản Claude với bản tác giả ở cảnh Thuyên chọc Nhi với Phong, ghi tại `tuyen/romance/thuyen-nhi.md` §4. Tóm lại: dựng từ mong muốn của nhân vật, không từ cú lừa; cú đảo lớn nhất đổi quan hệ; mỗi người hài theo giọng mình; giữ thứ tự nghĩ của nhân vật; thử kỹ thuật trên tình tiết ít liên kết cốt truyện.
+**Bài học áp dụng (05/11):** so bản Claude với bản tác giả ở cảnh Thuyên chọc Nhi với Phong, ghi tại `_archive/tuyen/romance/thuyen-nhi.md` §4. Tóm lại: dựng từ mong muốn của nhân vật, không từ cú lừa; cú đảo lớn nhất đổi quan hệ; mỗi người hài theo giọng mình; giữ thứ tự nghĩ của nhân vật; thử kỹ thuật trên tình tiết ít liên kết cốt truyện.
 
 ---
 

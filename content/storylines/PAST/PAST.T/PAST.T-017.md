@@ -12,7 +12,7 @@ axis: [AX3, AX4, AX9]
 level: "EXL 5"
 beliefs: "BL-012; BL-014 (xác nhận); BL-015; BL-027; BL-032 (gốc)"
 aliases: [QK.T Tủi hổ]
-sources: [tuyen/qua-khu/thuyen.md §1–3, tuyen/qua-khu/thuyen-hai-cai-toi.md §6 (T3b)]
+sources: [_archive/tuyen/qua-khu/thuyen.md §1–3, _archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §6 (T3b)]
 ---
 # PAST.T-017 · Tủi hổ
 
@@ -28,7 +28,7 @@ Chi tiết chuyển từ nguồn cũ (T3b, 10/11); nhãn giữ nguyên.
 
 ### hai-cai-toi §6 · Mặc cảm và cô bạn mập mờ (thay Vy) `proposed trên hướng 5–7`
 
-*Nguồn:* `tuyen/qua-khu/thuyen-hai-cai-toi.md` §6.
+*Nguồn:* `_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md` §6.
 
 **Hai bước:** cấp 2 sinh dự đoán (phiếu khảo sát trả lời thật mà không ai gọi; ch.7 "không có cách nào nói ra mà nghe không giống một câu chuyện buồn"). Lớp 11 xác nhận.
 

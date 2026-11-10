@@ -8,7 +8,7 @@ participants: []
 axes: [AX2, AX3, AX4, AX7, AX9]
 weight: {OPEN: SSS, P1: A, P2: B, BREAK: A, AFTER: S}
 aliases: [QK, tuyến quá khứ]
-sources: [tuyen/qua-khu/README.md (chuyển T3, 10/11), tuyen/goc.md]
+sources: [_archive/tuyen/qua-khu/README.md (chuyển T3, 10/11), _archive/tuyen/goc.md]
 ---
 # PAST · Tuyến quá khứ
 
@@ -30,7 +30,7 @@ Gốc của các node quá khứ. QK phát triển nhân vật qua hồi tưởn
 | --- | --- | --- | --- | --- | --- |
 | SSS | A | B | A | S |  |
 
-Từ ma trận `tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
+Từ ma trận `_archive/tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
 
 ## anchor `locked 26/10`
 
@@ -89,7 +89,7 @@ Mối tình Vy và cú tát; sợi "tay" chuyển mốc đầu sang lần chụp
 
 ## gaps
 
-Việc kế tiếp của bảng cũ (`tuyen/qua-khu/README.md` §6):
+Việc kế tiếp của bảng cũ (`_archive/tuyen/qua-khu/README.md` §6):
 
 1. ~~Dựng `qua-khu/thuyen.md`~~ `[27/10]` đã dựng; chờ duyệt các dòng `proposed` và các câu treo ở `thuyen-hai-cai-toi.md` §13.
 2. `[27–28/10]` BL-024, BL-025: chờ tác giả cập nhật; quyết cảnh mẹ khen Nam ở ch.3 và câu gối nói ở ch.2–3 (sửa chương đã lên trang).

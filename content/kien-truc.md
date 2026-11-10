@@ -36,7 +36,7 @@ content/
 ├── nhan-vat/                 một thẻ mỗi người
 │   ├── thuyen.md  nhi.md  diep-anh.md  phong.md  vu.md
 │   └── hoi-dong.md  khai-morpheus.md  lab.md  hoi-san.md
-├── tuyen/                    module thiết kế theo tuyến
+├── _archive/tuyen/                    module thiết kế theo tuyến
 │   ├── thuyen-nhi/           brief.md, kho-nhi-thich-thuyen.md, rui-ro.md
 │   ├── lab/
 │   ├── diep-anh/
@@ -61,10 +61,10 @@ content/
 | `content/00-quyet-dinh-v2.md` | `canon/so-quyet-dinh.md` (đánh mã D-) |
 | `content/01-mach-truyen-v2.md` + Project `claude/v2/bible-v2.md` | `canon/bible.md` |
 | `content/02-hoi-dong-nhi.md` | `nhan-vat/hoi-dong.md` |
-| `content/03-kho-nhi-thich-thuyen.md` | `tuyen/thuyen-nhi/kho-nhi-thich-thuyen.md` |
-| Project `claude/v2/04-rui-ro-tuyen-thuyen-nhi.md` | `tuyen/thuyen-nhi/rui-ro.md` |
-| Project `claude/v2/05-gala-va-quan-su-bi-mat.md` | `tuyen/su-kien/tat-nien-gala.md` |
-| `content/brief-tinh-cam-thuyen-nhi.md` | `tuyen/thuyen-nhi/brief.md` |
+| `content/03-kho-nhi-thich-thuyen.md` | `_archive/tuyen/thuyen-nhi/kho-nhi-thich-thuyen.md` |
+| Project `claude/v2/04-rui-ro-tuyen-thuyen-nhi.md` | `_archive/tuyen/thuyen-nhi/rui-ro.md` |
+| Project `claude/v2/05-gala-va-quan-su-bi-mat.md` | `_archive/tuyen/su-kien/tat-nien-gala.md` |
+| `content/brief-tinh-cam-thuyen-nhi.md` | `_archive/tuyen/thuyen-nhi/brief.md` |
 | `content/Kho bối cảnh và hoàn cảnh romance cho Đèn vàng v2.md` | `kho/boi-canh-romance.md` |
 | `content/01-rules-viet.md`, `01c-rules-thanh-phan.md`; Project `den-vang/01d-rules-thoai-than-mat.md` | `rules/` |
 | `content/danh-sach-chuong-mo-dau.md` | `ke-hoach/khung-chuong-mo-dau.md` |
@@ -112,7 +112,7 @@ content/
 | Tầng | Thư mục | Ai quyết | Claude làm | Skill |
 | --- | --- | --- | --- | --- |
 | T0 Canon | `canon/`, `nhan-vat/` | Tác giả | Ghi sổ, hợp nhất, phát hiện xung đột | `den-vang-canon`, `den-vang-characters` |
-| T1 Thiết kế | `tuyen/`, `de-xuat/`, `kho/` | Tác giả chọn phương án | Phương án theo mức can thiệp, kho chất liệu | `den-vang-characters`, `den-vang-registers` |
+| T1 Thiết kế | `_archive/tuyen/`, `de-xuat/`, `kho/` | Tác giả chọn phương án | Phương án theo mức can thiệp, kho chất liệu | `den-vang-characters`, `den-vang-registers` |
 | T2 Kế hoạch | `ke-hoach/` | Tác giả duyệt cốt truyện | Pattern, phương án, sắp cảnh, style sheet, brief | `den-vang-plot-synthesis`, `den-vang-writing-synthesis` |
 | T3 Văn bản | `content/posts/vercel/`, `ke-hoach/pipeline/` | Tác giả duyệt chương | Writer song song, reviewer độc lập | `den-vang-writing-pipeline` |
 | T4 Rà soát | `ra-soat/` | — | Đọc trang, lập sổ, đề xuất D- từ canon cứng | `den-vang-audit` |

@@ -29,7 +29,7 @@ Tác giả chốt, Claude ghi sổ. Claude chỉ đề xuất.
 | 10 | `content/00-quyet-dinh-v2.md` mục 2, 4, 5, 8; `content/01-mach-truyen-v2.md` mục 2, 4 | Nền chốt 19/10; nhớ đọc cùng mục 4 dưới đây (chỗ đã bị thay) |
 | 11 | `content/de-xuat/th-handoff-x11-dem-say.md` | X-11 đêm say đã được session TH đặt lại ở bản lề GĐ1 → GĐ2 |
 | 12 | Project `claude/v2/bible-v2.md` | Bible hợp nhất tạm (chưa chuyển về `canon/bible.md`) |
-| 13 | Project `content/tuyen/qua-khu/nhi.md` (QK.N) | **Mọi chất liệu về Nhi** do session QK.N giữ: tuổi, chiều cao, KOC và shop, khéo và đanh đá, màu hồng, gu tự khai, hai lượt mai mối, Phong, NT. Đọc thẳng, không chép lại (mục 9) |
+| 13 | Project `content/_archive/tuyen/qua-khu/nhi.md` (QK.N) | **Mọi chất liệu về Nhi** do session QK.N giữ: tuổi, chiều cao, KOC và shop, khéo và đanh đá, màu hồng, gu tự khai, hai lượt mai mối, Phong, NT. Đọc thẳng, không chép lại (mục 9) |
 
 Thẻ nhân vật cũ ở Project (`the-nhan-vat-nhi.md`, `M-he-gia-tri-nhi.md`, `M-he-gia-tri-diep-anh.md`) là nguyên liệu, không phải canon v2.
 
@@ -111,10 +111,10 @@ Session cũ đề xuất (23/10), tác giả mới chốt **một điểm** (g�
 
 | | Session RM (này) | Session TH | Session kiến trúc |
 | --- | --- | --- | --- |
-| Được ghi | `content/tuyen/romance/*`, giao điểm mà node chủ là RM, `content/de-xuat/rm-*.md`, Q- mới về romance | `content/tuyen/thriller/*`, `content/de-xuat/th-*.md`, Q- mới về lab | `kien-truc.md`, `quy-trinh.md`, `README.md`, `content/canon/*`, `content/tuyen/` trừ `thriller/` và `romance/`, `cay-tuyen.md`, `hop-nhat-cay-tuyen.md`, `ngan-sach-tuyen.md`, skill |
+| Được ghi | `content/_archive/tuyen/romance/*`, giao điểm mà node chủ là RM, `content/de-xuat/rm-*.md`, Q- mới về romance | `content/_archive/tuyen/thriller/*`, `content/de-xuat/th-*.md`, Q- mới về lab | `kien-truc.md`, `quy-trinh.md`, `README.md`, `content/canon/*`, `content/_archive/tuyen/` trừ `thriller/` và `romance/`, `cay-tuyen.md`, `hop-nhat-cay-tuyen.md`, `ngan-sach-tuyen.md`, skill |
 | Không ghi | file của hai cột kia | | `thriller/`, `romance/`, `th-*`, `rm-*` |
 
-- **Đổi so với handoff kiến trúc:** bước 4 của lộ trình cây tuyến (RM.TN) chuyển từ session kiến trúc sang session này; `content/tuyen/romance/` thuộc session này. **Báo tác giả để tác giả báo lại session kiến trúc**, hoặc ghi một dòng vào `handoff-kien-truc-cay-tuyen.md` nếu tác giả cho phép.
+- **Đổi so với handoff kiến trúc:** bước 4 của lộ trình cây tuyến (RM.TN) chuyển từ session kiến trúc sang session này; `content/_archive/tuyen/romance/` thuộc session này. **Báo tác giả để tác giả báo lại session kiến trúc**, hoặc ghi một dòng vào `handoff-kien-truc-cay-tuyen.md` nếu tác giả cho phép.
 - Giao điểm nhiều tuyến (X-09, X-11, X-13, X-18): file giao điểm do node chủ ghi. Nếu node chủ chưa định, đề xuất trong `de-xuat/rm-*.md` và hỏi tác giả, không ghi đè bản của session TH.
 - HĐQT 🎀 (`SL.HD`): chờ Q-024 (SL hay dưới RM.TN). Trước khi có đáp án, chỉ đề xuất.
 - Mức node RM: không tự đổi; đề xuất trong `de-xuat/rm-*.md`, session kiến trúc cập nhật ma trận khi tác giả duyệt.
@@ -138,7 +138,7 @@ Session cũ đề xuất (23/10), tác giả mới chốt **một điểm** (g�
 
 ## 9. Ghi chú từ session QK.N (29–30/10)
 
-Session QK.N ghi, không sửa node RM. **Mọi chất liệu về Nhi nằm ở `tuyen/qua-khu/nhi.md` (Project `content/tuyen/qua-khu/nhi.md`; thư mục `content/tuyen/` hiện chưa có trong repo). Session RM đọc thẳng file ấy;** mục này không chép lại, chỉ giữ bản đồ và việc riêng của RM.
+Session QK.N ghi, không sửa node RM. **Mọi chất liệu về Nhi nằm ở `_archive/tuyen/qua-khu/nhi.md` (Project `content/_archive/tuyen/qua-khu/nhi.md`; thư mục `content/_archive/tuyen/` hiện chưa có trong repo). Session RM đọc thẳng file ấy;** mục này không chép lại, chỉ giữ bản đồ và việc riêng của RM.
 
 ### 9.1 Bản đồ chốt chạm RM
 
@@ -203,4 +203,4 @@ Session QK.N ghi, không sửa node RM. **Mọi chất liệu về Nhi nằm ở
 ### 9.7 Bổ trợ cảm xúc và lý trí: động lực của RM.TN
 
 - `[chốt 30/10]` Ngoài sự tương xứng, Nhi và Thuyên là sự bổ trợ: cô sống bằng cảm xúc, anh dựa vào lý trí; anh chọc, cô cãi; cô có vấn đề, anh càu nhàu rồi vẫn giải quyết.
-- `[đề xuất]` Cơ chế, mặt tối ở GĐ2 và ngày gãy, và nguồn nghiên cứu: `tuyen/qua-khu/nhi.md` §1.6. Tóm: giống nhau về giá trị, bổ trợ về cách xử lý; Nhi gọi tên cảm xúc cho Thuyên, Thuyên giải quyết vấn đề cho Nhi; bổ trợ vỡ khi anh thôi nghe và chỉ còn giải quyết (H7 của Nhi quay lại qua người cô yêu).
+- `[đề xuất]` Cơ chế, mặt tối ở GĐ2 và ngày gãy, và nguồn nghiên cứu: `_archive/tuyen/qua-khu/nhi.md` §1.6. Tóm: giống nhau về giá trị, bổ trợ về cách xử lý; Nhi gọi tên cảm xúc cho Thuyên, Thuyên giải quyết vấn đề cho Nhi; bổ trợ vỡ khi anh thôi nghe và chỉ còn giải quyết (H7 của Nhi quay lại qua người cô yêu).

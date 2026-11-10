@@ -40,4 +40,4 @@ The author browses the vault at the repo root (graph, backlinks, Breadcrumbs). A
 
 ## Transitional
 
-Until a folder is migrated (steps B3–B8 in `de-xuat/kien-truc-framework.md`), write-kits and resolved blocks do not exist yet. Then use the old sources, by index: `content/README.md`; rules in `01-rules-viet.md`, `01c-rules-thanh-phan.md`, `rules/`; registers in `rules/registers.md`; storylines in `tuyen/`; decisions in `canon/bible-v2.md`. Read the section you need, not the file.
+Until a folder is migrated (steps B3–B8 in `de-xuat/kien-truc-framework.md`), write-kits and resolved blocks do not exist yet. Then use the old sources, by index: `content/README.md`; rules in `01-rules-viet.md`, `01c-rules-thanh-phan.md`, `rules/`; registers in `rules/registers.md`; storylines in `_archive/tuyen/`; decisions in `canon/bible-v2.md`. Read the section you need, not the file.

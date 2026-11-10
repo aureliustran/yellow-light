@@ -11,7 +11,7 @@ sources:
     chốt 15/10; Xưng hô; Giọng địa phương; Địa danh và tổ chức),
     01c-rules-thanh-phan.md,
     canon/bible-v2.md §4.2 (chốt 23/10),
-    tuyen/qua-khu/nhi.md §1 (chốt 31/10),
+    _archive/tuyen/qua-khu/nhi.md §1 (chốt 31/10),
   ]
 ---
 

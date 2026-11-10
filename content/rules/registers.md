@@ -13,7 +13,7 @@ Phân việc với các file khác:
 
 ## 0. Nguyên tắc
 
-1. **[chốt 28/10] Không có văn phong mặc định cho cả truyện.** Văn phong chọn theo **node × giai đoạn × nhịp**, qua cây tuyến (§3; `tuyen/README.md` §5, lối vào A bước 7). Mềm, ấm, ngôn tình là register của những node cụ thể, không phải giọng nền. Chốt v2 ngày 19/10 ("Tuyến tình cảm chính viết theo kiểu rom-com, văn phong ngôn tình Việt Nam") áp cho tuyến tình cảm (RM), không áp cho QK, TH, GD.
+1. **[chốt 28/10] Không có văn phong mặc định cho cả truyện.** Văn phong chọn theo **node × giai đoạn × nhịp**, qua cây tuyến (§3; `_archive/tuyen/README.md` §5, lối vào A bước 7). Mềm, ấm, ngôn tình là register của những node cụ thể, không phải giọng nền. Chốt v2 ngày 19/10 ("Tuyến tình cảm chính viết theo kiểu rom-com, văn phong ngôn tình Việt Nam") áp cho tuyến tình cảm (RM), không áp cho QK, TH, GD.
 2. **[chốt 28/10] Kỹ thuật lạnh, đau, cực đoan được dùng ở:** QK.T (tuổi thơ: đòn roi, lời quát mắng, sự vô dụng của bản thân), TH.LAB ở GĐ2, và toàn bộ thời điểm đổ vỡ. Lý do của tác giả: độ cực đoan phải nằm trong cách viết, không chỉ trong nội dung, vì nếu không người đọc không hình dung được mức nghiêm trọng.
 3. **[chốt 28/10 · ủy quyền] Độ gắt đến từ việc giấu, không từ tính từ.** R8 và R9 vẫn tuân luật "lời kể POV Thuyên không gọi tên cảm xúc". Gắt nằm ở: sự việc trần, con số, khuôn câu lặp, người gây đau thấy mình tử tế, và chỗ không ai an ủi.
    **[chốt 28/10, 13:22] Ngoại lệ QK.T quãng 1:** lời kể đứa trẻ gọi tên cảm xúc mãnh liệt, kèm kết luận nhân sinh của nó; cảnh đỉnh dựng, không tóm; R8 lùi thành dư chấn (chuỗi đếm, kiểm kê, dòng sổ) sau cảnh nóng (`goi-ten-cam-xuc.md` §4a). Lý do: roi vọt phổ biến và bị bình thường hóa trong khung "dạy con"; kể bằng giọng lạnh thì người đọc tự lấp bằng khung ấy (bản thử v4 bị chấm nhẹ, tự sự). Luật 3 này giữ nguyên cho TH.LAB GĐ2, GÃY và R9.
@@ -93,7 +93,7 @@ Thuộc "toàn bộ thời điểm đổ vỡ" (§0.2). R7 thường phẳng. �
 
 ### 2.4 Thiết bị của cỗ máy hiện sinh (TB-) `[chốt 28/10]`
 
-Register là giọng; thiết bị là bộ phận của cỗ máy hiện sinh của Thuyên hiện lên trang. Định nghĩa đủ mười sáu thiết bị: `tuyen/qua-khu/thuyen-co-may.md` §5. Bảng dưới là **thiết bị bắt buộc** theo node × giai đoạn. Plan phải ghi thiết bị cho mỗi nhịp có mặt node ấy; reviewer chấm thiếu thiết bị bắt buộc là CHẶN.
+Register là giọng; thiết bị là bộ phận của cỗ máy hiện sinh của Thuyên hiện lên trang. Định nghĩa đủ mười sáu thiết bị: `_archive/tuyen/qua-khu/thuyen-co-may.md` §5. Bảng dưới là **thiết bị bắt buộc** theo node × giai đoạn. Plan phải ghi thiết bị cho mỗi nhịp có mặt node ấy; reviewer chấm thiếu thiết bị bắt buộc là CHẶN.
 
 **Hai thiết bị áp cho mọi tuyến, mọi session, mọi POV:**
 - **TB-1 luật khóa:** trước HP, không nhân vật nào nói với Thuyên một câu thuộc bộ chịu đựng (*cố, chịu, mấy cái, mấy ngày, đau không, con nói thật mà*). Câu khen, câu an ủi dành cho Thuyên đều phải thuộc bộ kết quả, hoặc lệch khỏi cái cố, cái chịu.
@@ -157,7 +157,7 @@ Mỗi ô: **mặc định** · *được thêm*. Register ngoài ô dùng đư�
 
 Ô không ghi nhãn là `[chốt 28/10 · ủy quyền]` nếu có R8 hoặc R9, còn lại `[đề xuất]` (gom từ skill và bản đồ văn phong ch.8–38).
 
-**Va chạm ở giao điểm:** theo luật thang của cây (`tuyen/README.md` §3, luật 1). Node giữ nhịp quyết register của nhịp ấy. Một nhịp R8 của TH.LAB không được kéo theo R8 sang nhịp RM.TN liền sau; chuyển bằng `---` (§4).
+**Va chạm ở giao điểm:** theo luật thang của cây (`_archive/tuyen/README.md` §3, luật 1). Node giữ nhịp quyết register của nhịp ấy. Một nhịp R8 của TH.LAB không được kéo theo R8 sang nhịp RM.TN liền sau; chuyển bằng `---` (§4).
 
 ## 4. Luật chuyển
 

@@ -5,7 +5,7 @@ status: agreed
 updated: 2026-11-10
 aliases: [NV.vu, vu, Vũ, Vũ Béo, SL.VU]
 exports: [CH.vu.mechanics, CH.vu.beliefs, CH.vu.voice]
-sources: [tuyen/sl/vu.md §1–2 (locked 30/10), canon/bible-v2.md §4.5, de-xuat/qk-t-plan-ch1-het-cap-2.md §4, characters.yaml (v1), posts/vercel ch.01, ch.05 (page)]
+sources: [_archive/tuyen/sl/vu.md §1–2 (locked 30/10), canon/bible-v2.md §4.5, de-xuat/qk-t-plan-ch1-het-cap-2.md §4, characters.yaml (v1), posts/vercel ch.01, ch.05 (page)]
 ---
 # CH.vu · Vũ
 

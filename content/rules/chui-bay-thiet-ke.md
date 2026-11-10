@@ -1,6 +1,6 @@
 # Đèn vàng – thiết kế chửi bậy (SL.Vũ, SL sân bóng, QK.T sân bóng)
 
-Nov 1, 2026 · @aureliustran. **[chốt hướng 01/11; ví dụ lấy từ câu của tác giả trong *Hoang mang*]**. Bổ sung cho `rules/registers.md` §2.2 luật 6 (chữ tục) và `tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §4.8.
+Nov 1, 2026 · @aureliustran. **[chốt hướng 01/11; ví dụ lấy từ câu của tác giả trong *Hoang mang*]**. Bổ sung cho `rules/registers.md` §2.2 luật 6 (chữ tục) và `_archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md` §4.8.
 
 ## 1. Nguyên tắc
 

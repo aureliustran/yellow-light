@@ -63,7 +63,7 @@ Mỗi kênh có thể làm lộ phải qua **ba phép thử**. Một kênh chỉ
 Vì sao Khải giữ (đề xuất):
 - Từ ngày chị Hạnh báo Nhi lên tầng 17 (*Ánh xanh màn hình*, bản cũ), Khải biết Thuyên không biết. Một người không biết mình đang nói với em gái Tổng giám đốc sẽ kể phiên bản thật nhất của mình. Đó là nguồn dữ liệu sạch nhất Khải có.
 - Khải đã dùng em gái làm màn khói từ bản cũ [nguyên liệu]: không lại gần em nơi đông người.
-- `[chốt 30/10, session QK.N]` Khải biết kế hoạch mai mối ngầm của bố mẹ (lượt 2: tạo điều kiện cho Phong và Nhi). Vì thế anh ta càng đề phòng Thuyên, người có thể phá kế hoạch ấy. Chi tiết: `tuyen/qua-khu/nhi.md` §1.7.
+- `[chốt 30/10, session QK.N]` Khải biết kế hoạch mai mối ngầm của bố mẹ (lượt 2: tạo điều kiện cho Phong và Nhi). Vì thế anh ta càng đề phòng Thuyên, người có thể phá kế hoạch ấy. Chi tiết: `_archive/tuyen/qua-khu/nhi.md` §1.7.
 - **Luật của Khải:** trước ngày lật bài, anh ta không bao giờ dùng trước mặt Thuyên một chi tiết chỉ Nhi biết. Nguyên tắc khóa của module Diệp Anh, nguyên văn: "Khải tiêu công khai bằng đồng của Nhi, tiêu ngầm bằng đồng của Diệp Anh." Ở đây thêm: trước ngày lật, anh ta không tiêu đồng nào của Nhi.
 
 ## 4. Sổ kênh: từng kênh và khóa của nó

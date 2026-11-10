@@ -5,7 +5,7 @@ status: proposed
 updated: 2026-11-10
 nodes: ["[[FAM.N]]", "[[ROM.PN]]", "[[ROM.TD]]", "[[ROM.TN]]", "[[THR.MODEL]]", "[[THR.T18]]"]
 aliases: []
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.FAM.N+ROM.PN+ROM.TD+ROM.TN+THR.MODEL+THR.T18 · Giao điểm FAM.N × ROM.PN × ROM.TD × ROM.TN × THR.MODEL × THR.T18
 

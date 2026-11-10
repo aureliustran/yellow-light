@@ -8,12 +8,12 @@ Mức có dấu `†` là mức tác giả đặt (25/10). Ô không có `†` l
 
 ## 1. Đọc gì khi bắt đầu
 
-`content/README.md` → `tuyen/goc.md` → file này → `canon/cau-hoi.md` → node của việc cần. Không đọc node ngoài phạm vi (lối vào A, mục 5). Khi lập plan hoặc viết: thêm `rules/registers.md`.
+`content/README.md` → `_archive/tuyen/goc.md` → file này → `canon/cau-hoi.md` → node của việc cần. Không đọc node ngoài phạm vi (lối vào A, mục 5). Khi lập plan hoặc viết: thêm `rules/registers.md`.
 
 ## 2. Mô hình
 
 ```
-                         GỐC (tuyen/goc.md)
+                         GỐC (_archive/tuyen/goc.md)
        trục H1 đến H9 · thang Nấc-HS · cung hiện sinh · cơ chế biến chất
                               │
       ┌──────────┬────────────┼────────────┬──────────┐
@@ -26,11 +26,11 @@ Mức có dấu `†` là mức tác giả đặt (25/10). Ô không có `†` l
 
 | Thực thể | Là gì | Mã | Ở đâu |
 | --- | --- | --- | --- |
-| Node tuyến | Một mạch có người, có sự kiện trên trục thời gian, phục vụ ít nhất một trục H | `RM.TN` | `tuyen/<tuyến>/…` |
+| Node tuyến | Một mạch có người, có sự kiện trên trục thời gian, phục vụ ít nhất một trục H | `RM.TN` | `_archive/tuyen/<tuyến>/…` |
 | Tình tiết | Đơn vị nhỏ nhất của chuyện xảy ra. Đúng một node chủ | `TN-014` | file của node chủ |
-| Giao điểm | Chỗ hai node trở lên chạm nhau. Giữ thứ tự, bối cảnh, luật va chạm, ai biết gì. Không giữ tình tiết, chỉ trích mã | `X-08` | `tuyen/giao-diem/` |
-| Niềm tin | Sản phẩm của neo quá khứ, được tình tiết hiện tại tiêu thụ | `NT-05` | `tuyen/qua-khu/README.md` |
-| Trục hiện sinh | Chủ đề của gốc. Không có tình tiết, không có mức | `H3` | `tuyen/goc.md` |
+| Giao điểm | Chỗ hai node trở lên chạm nhau. Giữ thứ tự, bối cảnh, luật va chạm, ai biết gì. Không giữ tình tiết, chỉ trích mã | `X-08` | `_archive/tuyen/giao-diem/` |
+| Niềm tin | Sản phẩm của neo quá khứ, được tình tiết hiện tại tiêu thụ | `NT-05` | `_archive/tuyen/qua-khu/README.md` |
+| Trục hiện sinh | Chủ đề của gốc. Không có tình tiết, không có mức | `H3` | `_archive/tuyen/goc.md` |
 | Register | Văn phong của một nhịp. Chọn theo node × giai đoạn × nhịp | `R1`–`R9` | `rules/registers.md` |
 
 Mỗi node một cha. Quan hệ nhiều chiều đi qua giao điểm (Q-027).
@@ -169,7 +169,7 @@ Một đoạn: bắt đầu ở đâu, kết thúc ở đâu, đổi gì trong n
 
 Ba cột cuối (`Nhiên liệu`, `Giá`, `Register`) tùy chọn; `Nhiên liệu` và `Giá` bắt buộc với node mức S trở lên; `Register` chỉ điền khi lệch mặc định của node (Q-042). Dòng đã chốt: `[TN-014 · chốt 26/10]` (mã D- khi có sổ).
 
-**File giao điểm** (`tuyen/giao-diem/x-09-tat-nien-gala.md`): node tham gia; ngày, nơi; thứ tự tình tiết theo mã; luật va chạm và register từng nhịp; sổ ai biết gì trước và sau; câu hỏi mở.
+**File giao điểm** (`_archive/tuyen/giao-diem/x-09-tat-nien-gala.md`): node tham gia; ngày, nơi; thứ tự tình tiết theo mã; luật va chạm và register từng nhịp; sổ ai biết gì trước và sau; câu hỏi mở.
 
 **Khuôn mã:** node `RM.TN`, tình tiết `TN-014`, niềm tin `NT-05`, giao điểm `X-09`, trục `H3` (Q-026), register `R8`.
 
@@ -202,13 +202,13 @@ Giao điểm quãng dùng cùng khuôn với giao điểm thông tin (sổ "ai b
 
 | Phần | File | Trạng thái | Ai ghi |
 | --- | --- | --- | --- |
-| Gốc | `tuyen/goc.md` | dựng 26/10 | kiến trúc |
-| Quá khứ, luật và bảng NT | `tuyen/qua-khu/README.md` | dựng 26/10 | kiến trúc |
-| QK.T | `tuyen/qua-khu/thuyen.md` (+ `thuyen-hai-cai-toi.md`, `thuyen-da-nhan-cach.md`) | dựng 27/10 | session QK |
-| QK.N, QK.DA, QK.K | `tuyen/qua-khu/*.md` | chưa dựng | kiến trúc |
-| RM.* và giao điểm có RM | `tuyen/romance/`, `tuyen/giao-diem/` | chưa dựng | session RM |
-| TH.* | `tuyen/thriller/` | chưa dựng | session TH |
-| SL.*, GD.* | `tuyen/slice-of-life/`, `tuyen/gia-dinh/` | chưa dựng | kiến trúc |
+| Gốc | `_archive/tuyen/goc.md` | dựng 26/10 | kiến trúc |
+| Quá khứ, luật và bảng NT | `_archive/tuyen/qua-khu/README.md` | dựng 26/10 | kiến trúc |
+| QK.T | `_archive/tuyen/qua-khu/thuyen.md` (+ `thuyen-hai-cai-toi.md`, `thuyen-da-nhan-cach.md`) | dựng 27/10 | session QK |
+| QK.N, QK.DA, QK.K | `_archive/tuyen/qua-khu/*.md` | chưa dựng | kiến trúc |
+| RM.* và giao điểm có RM | `_archive/tuyen/romance/`, `_archive/tuyen/giao-diem/` | chưa dựng | session RM |
+| TH.* | `_archive/tuyen/thriller/` | chưa dựng | session TH |
+| SL.*, GD.* | `_archive/tuyen/slice-of-life/`, `_archive/tuyen/gia-dinh/` | chưa dựng | kiến trúc |
 | Register | `rules/registers.md` | dựng 28/10 | session QK |
 
 ## 10. Dải hiện sinh (sinh tự động)

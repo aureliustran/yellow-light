@@ -7,7 +7,7 @@ type: event
 parent: none
 time: "T7 12/10/2024"
 aliases: [X-001, X-01, Summit]
-sources: [tuyen/README.md §8 (chuyển 10/11)]
+sources: [_archive/tuyen/README.md §8 (chuyển 10/11)]
 ---
 # X.FAM.N+ROM.TD+THR.MO-001 · Summit
 

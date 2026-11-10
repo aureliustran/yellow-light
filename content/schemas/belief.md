@@ -36,7 +36,7 @@ An innate psychological effect that the character holds no thought about is **no
 | Field | Meaning |
 | --- | --- |
 | `definition` | the definition layer, prose; its first sentence states the belief (used by tables and indexes) |
-| `ref` | optional: `câu` (verbatim quote, with source and link checked) or `ý` (concept, author and work). Never copied onto the page; no character speaks it (same convention as `tuyen/goc.md` "Họ ý") |
+| `ref` | optional: `câu` (verbatim quote, with source and link checked) or `ý` (concept, author and work). Never copied onto the page; no character speaks it (same convention as `_archive/tuyen/goc.md` "Họ ý") |
 | `deviation` | where the character bends the reference, and which personality trait does the bending |
 | `seen` | `thay` · `nua` · `khong`, per phase if it changes |
 | `monologue` | stages `ngo-nhan` / `dien-giai`, each with age or phase: the belief in the character's own thinking (design tool; on-page use optional) |

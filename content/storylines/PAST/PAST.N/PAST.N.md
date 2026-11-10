@@ -8,11 +8,11 @@ participants: ["[[CH.nhi]]"]
 axes: [AX7, AX3]
 weight: {OPEN: C, P1: B, P2: B, BREAK: B, AFTER: A}
 aliases: [QK.N, Quá khứ Nhi]
-sources: [tuyen/README.md §4, tuyen/qua-khu/nhi.md (chuyển T3, 10/11), de-xuat/cay-tuyen.md]
+sources: [_archive/tuyen/README.md §4, _archive/tuyen/qua-khu/nhi.md (chuyển T3, 10/11), de-xuat/cay-tuyen.md]
 ---
 # PAST.N · Quá khứ Nhi
 
-Bảng neo của Nhi, độ **mỏng**: chỉ những mảnh sinh niềm tin mà hiện tại dùng, kể bằng POV Nhi hoặc interlude (`locked 26/10`, Q-025). Khuôn neo: [[PAST]] (năm trường). Chuyển từ `tuyen/qua-khu/nhi.md` (T3, 10/11). Phần lõi nhân vật (cửa hàng, ranh con, màu hồng, gu tự khai, gu đồ uống, lâu đài) đã ở gói [[CH.nhi]], [[CH.nhi.beliefs]], [[CH.nhi.voice]] và các hàm `FN.nhi.*`; node này không chép lại.
+Bảng neo của Nhi, độ **mỏng**: chỉ những mảnh sinh niềm tin mà hiện tại dùng, kể bằng POV Nhi hoặc interlude (`locked 26/10`, Q-025). Khuôn neo: [[PAST]] (năm trường). Chuyển từ `_archive/tuyen/qua-khu/nhi.md` (T3, 10/11). Phần lõi nhân vật (cửa hàng, ranh con, màu hồng, gu tự khai, gu đồ uống, lâu đài) đã ở gói [[CH.nhi]], [[CH.nhi.beliefs]], [[CH.nhi.voice]] và các hàm `FN.nhi.*`; node này không chép lại.
 
 **Mục:** `goals` · `scope` · `weight` · `rules` · `events` · `beliefs` · `pages` · `dropped` · `handoffs` · `gaps`.
 
@@ -51,7 +51,7 @@ Bảng neo của Nhi, độ **mỏng**: chỉ những mảnh sinh niềm tin mà
 | --- | --- | --- | --- | --- | --- |
 | C | B | B | B | A |  |
 
-Từ ma trận `tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
+Từ ma trận `_archive/tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
 
 ## rules
 
@@ -224,7 +224,7 @@ Tác giả, 30/10: tác động của Thảo lên cốt truyện và bài học 
 
 ## handoffs
 
-- **RM:** `de-xuat/rm-handoff.md` §9 trỏ về file này; session RM đọc thẳng `tuyen/qua-khu/nhi.md` cho mọi chất liệu về Nhi. §9 chỉ giữ việc riêng của RM: lớp nghi ngờ, hợp tác shop, tuyến Phong, gương ở hiện tại.
+- **RM:** `de-xuat/rm-handoff.md` §9 trỏ về file này; session RM đọc thẳng `_archive/tuyen/qua-khu/nhi.md` cho mọi chất liệu về Nhi. §9 chỉ giữ việc riêng của RM: lớp nghi ngờ, hợp tác shop, tuyến Phong, gương ở hiện tại.
 - **Q-001:** dòng K17 `locked 29/10`; §3 thêm dòng Khải biết kế hoạch lượt 2 nên càng đề phòng Thuyên (cho session TH).
 - **Kiến trúc, Q-049:** đã đóng 31/10 (lịch 2024–2025). Ch.1 thu-v6 đã ghi T7 5/10/2024, *Summit 2024*; trang phục ch.1 (cardigan hồng nhạt, váy trắng, Vespa hồng) khớp §1.5. Interlude Nhi v1 còn ghi năm 2026: lịch mới ở §8.
 - **Plan phần mở đầu PAST.T, Q-050** `locked 31/10`: ở phần mở đầu PAST.N chỉ có mảnh vụn trong các interlude 1b–5b (§8). Phần quá khứ thật của Nhi, từ N.4, để sang GĐ1, sau X-05. Vì vậy mức S của PAST.N nên đặt ở GĐ1, không ở phần mở đầu.

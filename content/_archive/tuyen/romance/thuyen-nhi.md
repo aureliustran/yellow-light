@@ -3,7 +3,7 @@
 > **Đã chuyển (T4, 10/11).** Bản chính: `content/storylines/ROM/ROM.TN/` (node, lá ROM.TN-001, ROM.TN-002); văn bản cảnh mẫu ở `claude/ban-nhap/rom-tn/`; bài học viết ở `content/lib/humor/TEC.humor.want-clash.md`. File này giữ để lần ngược; không sửa ở đây.
 
 Cha: RM · Trục: H1, H3, H7 · Mức: MĐ B · GĐ1 SS+ · GĐ2 SSS · GÃY SS+ · HP S
-Thẻ: chưa có (`tuyen/qua-khu/thuyen.md`, `tuyen/qua-khu/nhi.md` làm nền)
+Thẻ: chưa có (`_archive/tuyen/qua-khu/thuyen.md`, `_archive/tuyen/qua-khu/nhi.md` làm nền)
 Register mặc định: GĐ1 R1, R2 (ngôn tình, rom-com) · GĐ2 R2, R3, nốt lạnh · GÃY R8, R9 · HP R7 → R2 (`rules/registers.md` §3)
 
 Nov 5, 2026 · @aureliustran. **Khung node, dựng dở.** Mới có hai cảnh mẫu 05/11 (§3, §3b) và bài học viết (§4). Việc chuyển BRIEF (`brief-tinh-cam-thuyen-nhi.md`), KHO (`03-kho-nhi-thich-thuyen.md`), RR và đánh mã `TN-` theo `rm-handoff.md` §1 bước 1 **chưa làm**.
@@ -33,7 +33,7 @@ Tác giả, 05/11: cảnh này **chứa nhiều tầng ý nghĩa hơn một tìn
 1. **Một lần ghép của quân sư bí mật (X-06).** Đặt trên đường tới *Mixue* (lần ghép thứ ba, Nhi khóc, tát). Người đọc biết anh là quân sư; Nhi chưa biết.
 2. **Thuyên lùi, có cơ sở dữ kiện.** Chốt GĐ1 "Thuyên tin Nhi không thích mình" ở đây có một phép suy trên trang: trong ba bài, cô không nhắc anh lần nào; vậy cô không để ý anh. Đúng nguyên tắc anh không sai vì lơ đãng (Q-021, `de-xuat/q-001`): với đúng dữ kiện ấy, người đọc cũng kết luận như anh.
 3. **Lần đầu Thuyên đeo "mặt tầng 17" với Nhi,** người duy nhất anh vẫn lỏng (BRIEF §5; ch.22 cũ: ở tầng 17 anh "không giơ tay six seven, không gọi ai là kid"). Nhi là người cảm được trước tiên. Mầm của câu GĐ2 "Dạo này anh hết đáng ghét rồi".
-4. **Thắng lý, mất người.** Lăng kính của anh (`tuyen/qua-khu/thuyen-lang-kinh.md` §1: mù với lòng người) thắng cuộc cãi bằng đúng thứ làm anh mất cô.
+4. **Thắng lý, mất người.** Lăng kính của anh (`_archive/tuyen/qua-khu/thuyen-lang-kinh.md` §1: mù với lòng người) thắng cuộc cãi bằng đúng thứ làm anh mất cô.
 5. **Hai khóa giữ Nhi im**, và rượu ở đêm say (X-11) gỡ cả hai:
    - *Mặt lịch sự:* nói "em thích anh" với người đang nói điều người khác muốn nghe thì sẽ được đáp lại bằng một câu không biết thật hay không. Radar thật giả của cô quay sang chính anh.
    - *Thân phận:* muốn gỡ "câu chuyện hai người" thì phải nói ai xếp nó: bố mẹ hai nhà, danh sách mai mối (Q-001).
@@ -263,7 +263,7 @@ Bản tác giả duyệt (§3.2): anh chấm ngữ pháp, gặp tên, nhớ ra t
 
 ## 3b. Cảnh mẫu 05/11: cốc thừa
 
-Nguồn: Claude viết thử theo bài học §4, tác giả sửa bốn lượt (05/11, 19:43 → 20:08): Thuyên không từ chối mà nhận; gu đồ uống theo canon (`de-xuat/qk-t-plan-ch1-het-cap-2.md` §0.7, chốt 31/10: Thuyên cold brew, cà phê, trà đào, trà chanh, nước ngọt không đường, không uống trà sữa; `tuyen/qua-khu/nhi.md`: Nhi uống matcha); Nhi tsundere; có sự kiện trước để Nhi biết và Thuyên biết là cô biết; Thuyên suy từ việc Nhi không thích món ấy; câu trêu "thèm nhớ" và nhịp trả cốc thật là của tác giả.
+Nguồn: Claude viết thử theo bài học §4, tác giả sửa bốn lượt (05/11, 19:43 → 20:08): Thuyên không từ chối mà nhận; gu đồ uống theo canon (`de-xuat/qk-t-plan-ch1-het-cap-2.md` §0.7, chốt 31/10: Thuyên cold brew, cà phê, trà đào, trà chanh, nước ngọt không đường, không uống trà sữa; `_archive/tuyen/qua-khu/nhi.md`: Nhi uống matcha); Nhi tsundere; có sự kiện trước để Nhi biết và Thuyên biết là cô biết; Thuyên suy từ việc Nhi không thích món ấy; câu trêu "thèm nhớ" và nhịp trả cốc thật là của tác giả.
 
 **Tầng:** thấp. Ít liên kết cốt truyện, hợp để thử hài. Nối nhẹ với *dịu dàng không thừa nhận* (`01-rules-viet.md`; BRIEF §5d: câu che "thừa", "tiện tay"): ở đây Nhi dùng đúng câu che của anh, và anh dùng lại nó với cô.
 

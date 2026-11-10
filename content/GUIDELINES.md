@@ -53,7 +53,7 @@ Most of the story still lives in old files. Until a folder exists in its new for
 
 | Topic | Rule while not migrated |
 | --- | --- |
-| Where an event goes | a new row in the node's old table in `content/tuyen/…` (e.g. RM.TN → `content/tuyen/romance/thuyen-nhi.md` §2), with the **old columns** (including `Chương`), the **old id convention** of that file (e.g. `TN-?` until numbered), the **old labels** (`[đề xuất]`, `[chốt dd/mm]`; mapping in `content/config/statuses.md`) |
+| Where an event goes | a new row in the node's old table in `content/_archive/tuyen/…` (e.g. RM.TN → `content/_archive/tuyen/romance/thuyen-nhi.md` §2), with the **old columns** (including `Chương`), the **old id convention** of that file (e.g. `TN-?` until numbered), the **old labels** (`[đề xuất]`, `[chốt dd/mm]`; mapping in `content/config/statuses.md`) |
 | Goals | not required if the node has none yet; write the event's purpose in the row and report "node has no goals" |
 | Anything else with no folder yet (blueprint, law, technique, register) | a file in `content/de-xuat/`: a blueprint as `de-xuat/BP.<edition>.<nn>.md` with the blueprint schema's header and sections (fields that point to entities that do not exist yet, like `edition: [[ED.v2]]`, are written as plain text: `edition: v2`) |
 | Referring to events that have no id yet | node code + old row id or a short description (`RM.TN · "Nhi hỏi anh ở summit"`) |

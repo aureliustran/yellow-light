@@ -12,7 +12,7 @@ fuel: "Sự kiện trước: cô nếm, chê Đắng như quỷ, Ai thèm nhớ"
 cost: "Thấp; ít liên kết cốt truyện"
 register: "R1, R2"
 aliases: ["cốc thừa"]
-sources: [tuyen/romance/thuyen-nhi.md §2, §3b (chuyển T4, 10/11)]
+sources: [_archive/tuyen/romance/thuyen-nhi.md §2, §3b (chuyển T4, 10/11)]
 ---
 # ROM.TN-002 · Cốc thừa
 
@@ -22,7 +22,7 @@ Nhi 'mua thừa' cold brew chanh cho Thuyên, chối là mình biết; Thuyên s
 
 ## notes
 
-Nguồn: Claude viết thử theo bài học §4, tác giả sửa bốn lượt (05/11, 19:43 → 20:08): Thuyên không từ chối mà nhận; gu đồ uống theo canon (`de-xuat/qk-t-plan-ch1-het-cap-2.md` §0.7, chốt 31/10: Thuyên cold brew, cà phê, trà đào, trà chanh, nước ngọt không đường, không uống trà sữa; `tuyen/qua-khu/nhi.md`: Nhi uống matcha); Nhi tsundere; có sự kiện trước để Nhi biết và Thuyên biết là cô biết; Thuyên suy từ việc Nhi không thích món ấy; câu trêu "thèm nhớ" và nhịp trả cốc thật là của tác giả.
+Nguồn: Claude viết thử theo bài học §4, tác giả sửa bốn lượt (05/11, 19:43 → 20:08): Thuyên không từ chối mà nhận; gu đồ uống theo canon (`de-xuat/qk-t-plan-ch1-het-cap-2.md` §0.7, chốt 31/10: Thuyên cold brew, cà phê, trà đào, trà chanh, nước ngọt không đường, không uống trà sữa; `_archive/tuyen/qua-khu/nhi.md`: Nhi uống matcha); Nhi tsundere; có sự kiện trước để Nhi biết và Thuyên biết là cô biết; Thuyên suy từ việc Nhi không thích món ấy; câu trêu "thèm nhớ" và nhịp trả cốc thật là của tác giả.
 
 **Tầng:** thấp. Ít liên kết cốt truyện, hợp để thử hài. Nối nhẹ với *dịu dàng không thừa nhận* (`01-rules-viet.md`; BRIEF §5d: câu che "thừa", "tiện tay"): ở đây Nhi dùng đúng câu che của anh, và anh dùng lại nó với cô.
 

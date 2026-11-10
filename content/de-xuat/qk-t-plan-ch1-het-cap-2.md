@@ -196,7 +196,7 @@ Bỏ: music box, đi net, crush làm lốp.
 
 ## 9. Gia đình Thuyên (chốt 30/10 đêm)
 
-Thuyên là con cả có một em trai (quậy, "nghịch mà khôn", ích kỉ vô tư). Chi tiết, nhãn chốt/đề xuất: `tuyen/qua-khu/thuyen.md` §6.9. Hệ quả cho chuỗi 13 đêm:
+Thuyên là con cả có một em trai (quậy, "nghịch mà khôn", ích kỉ vô tư). Chi tiết, nhãn chốt/đề xuất: `_archive/tuyen/qua-khu/thuyen.md` §6.9. Hệ quả cho chuỗi 13 đêm:
 - *Nhục nhã* (đêm 3): thêm cảnh chia kẹo lạc cho em.
 - *Hả hê* (đêm 4): thao túng em lần đầu; Lâm và mạ cãi cùn (gộp vào cảnh cãi mạ của ch.5 v4).
 - *Tủi hổ* (đêm 9): "Tin thì được cái chi" là lần thứ hai thước dịch.
