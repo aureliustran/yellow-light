@@ -3443,6 +3443,11 @@
   },
   {
    "s": "CH.thuyen.beliefs",
+   "t": "FN.thuyen.quan-su",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
    "t": "FN.thuyen.cai-goi",
    "type": "link"
   },

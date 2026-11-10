@@ -24,6 +24,8 @@ render    none
 
 ## notes
 
+- **Việc của người ta thì mình thấy rõ hơn họ; việc của mình thì không** (từ BL-015, chuyển 10/11): mô tả cơ chế, không phải niềm tin. Ra đời ở PAST.T *Tủi hổ* (soạn câu cho Tùng); tiêu thụ cũ: Hưng; ROM.PN quân sư cho Phong.
+- **Khánh là người đầu tiên anh lắng nghe** (BL-031, 10/11): gốc của năng lực dẫn dắt.
 - Ba lẽ (`vu.md` §2): hòa khí; thuộc hình dạng cái thiếu của mình nên thấy người khác thiếu ở đâu; cách hỏi han do Vũ dạy.
 - Nguồn thứ hai: thao túng em trai Khánh từ nhỏ (biết người ta thiếu gì) `locked 30/10`.
 - Dùng trong quan hệ: quân sư cho Phong (tình địch), quân sư bí mật ở gala; cho Tùng thời cấp 3. Những dòng ấy thuộc node quan hệ (`ROM.PN`, `ROM.TN`, `PAST.T`), không thuộc hàm.

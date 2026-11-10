@@ -102,21 +102,32 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-008
 
-- **statement:** Trả lời thật thì không ai gọi; từ đó trả lời theo barem.
+- **definition:** Sự thật về bên trong mình không phải thứ người khác cần; họ cần một câu trả lời khớp barem. Mẹo hai tờ nháp (005) áp cho cảm xúc. **Giá:** lần duy nhất anh nói thật nhu cầu là với một cái phiếu, và không ai đọc.
+- **ref:** `ý` · Winnicott, *false self* (cái tôi giả; đã ở "Họ ý" của H7)
+- **deviation:** cái tôi giả của Winnicott là vô thức; Thuyên dựng nó có chủ đích, sau một phép thử.
+- **seen:** `thay`
+- **monologue:**
+  - `ngo-nhan` · lớp 9 (phiếu khảo sát): *Mình đã thử trả lời thật, một lần, với một hệ thống được tạo ra để lắng nghe. Hệ thống ghi nhận, cảm ơn, rồi im lặng. Nói thật với người thì bị trừng phạt; nói thật với máy thì không ai đọc. Vậy sự thật không phải thứ người ta cần; người ta cần một câu trả lời khớp với barem. Từ nay mình trao cho họ đúng câu trả lời ấy.*
+- **parent:** BL-005
 - **other-face:** none
 - **axis · step:** EXL 4 · AX4
 - **origin:** PAST.T 1.10: phiếu khảo sát tâm lý
 - **consumed (nguồn cũ):** THR: khảo sát tháng 3; SOL.DT: chẩn đoán ở hồi phục
-- **status:** `agreed` · alias `NT-08`
+- **status:** `locked 10/11` · alias `NT-08`
 
 ### BL-009
 
-- **statement:** Để người ta tin đó là ý của họ.
+- **definition:** Mong muốn nói ra bằng tên mình thì bị bác bỏ; cùng mong muốn ấy, khi người khác tin là của họ, sẽ được họ bảo vệ. Mầm của quân sư và thao túng ở P2.
+- **ref:** `câu` · Dale Carnegie, *How to Win Friends and Influence People*: *"Let the other person feel that the idea is his or hers."*
+- **deviation:** Carnegie dùng nó để tạo thiện cảm; Thuyên dùng để giữ quyền tự quyết mà không phải xung đột.
+- **seen:** `thay`
+- **monologue:**
+  - `dien-giai` · lớp 9 (phiếu thi chuyên): *Một mong muốn của mình, nếu nói ra bằng tên của mình, sẽ bị bác bỏ chỉ vì nó là của mình. Cùng mong muốn ấy, nếu người khác tin rằng chính họ nghĩ ra, sẽ được bảo vệ như một quyết định của họ. Vậy mình không cần ai đồng ý với mình. Mình chỉ cần sắp xếp thông tin sao cho họ tự đi tới đúng chỗ mình muốn.*
 - **other-face:** none
-- **axis · step:** EXL 4→5 · AX1
+- **axis · step:** EXL 4→5 · AX4, AX1
 - **origin:** PAST.T 1.11: phiếu thi chuyên
 - **consumed (nguồn cũ):** ROM.PN: quân sư cho Phong; THR: thao túng ở P2
-- **status:** `agreed` · alias `NT-09`
+- **status:** `locked 10/11` · alias `NT-09`
 
 ### BL-010
 
@@ -161,22 +172,22 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-014
 
-- **statement:** Để người ta thấy mình đau thì người ta đi. Vậy thì đừng đau; mạnh lên.
+- **definition:** Sự quan tâm của người khác chỉ kéo dài tới khi nỗi đau của mình thành gánh nặng; lộ ra thì người ta đi. Lớp 9 là dự đoán; lớp 11 cô bạn mập mờ xác nhận (cô chỉ quan tâm vẻ hào nhoáng). Gốc của việc anh hoài nghi Nhi ở P1. Con của 022 (anh *làm* gì).
+- **ref:** `ý` · Downey và Feldman (1996), *rejection sensitivity*
+- **deviation:** người nhạy cảm với từ chối phản ứng quá mức khi bị từ chối; Thuyên chặn trước: không bao giờ để lộ, và biến nỗi sợ thành sức mạnh.
+- **seen:** `thay`
+- **monologue:**
+  - `dien-giai` · lớp 11 (*Tủi hổ*): *Khi người khác nhìn thấy nỗi đau của mình, sự quan tâm của họ chỉ kéo dài cho tới khi nó trở thành gánh nặng, rồi họ rời đi. Lần trước mình chỉ dự đoán; lần này mình đã có bằng chứng. Vậy nỗi đau phải nằm ở nơi không ai nhìn thấy, và cách chắc chắn nhất để không ai nhìn thấy là đừng yếu đuối tới mức có nỗi đau.*
 - **parent:** BL-022
 - **other-face:** none
 - **axis · step:** AX4, AX1
 - **origin:** dự đoán ở PAST.T 1.10; xác nhận ở *Tủi hổ* (C6b)
 - **consumed (nguồn cũ):** ROM.TN P1 hoài nghi Nhi; Diệp Anh an toàn; P2 tờ thứ hai; 16/7
-- **status:** `proposed` · alias `NT-14`
+- **status:** `locked 10/11` · alias `NT-14`
 
 ### BL-015
 
-- **statement:** Việc của người ta thì mình thấy rõ hơn họ; việc của mình thì không.
-- **other-face:** none
-- **axis · step:** —
-- **origin:** PAST.T *Tủi hổ* (soạn câu cho Tùng)
-- **consumed (nguồn cũ):** Hưng; ROM.PN quân sư cho Phong; FN.thuyen.quan-su
-- **status:** `proposed` · alias `NT-15`
+- **moved:** chuyển vào [[FN.thuyen.quan-su]] (mô tả cơ chế, không phải điều anh tin) 10/11. Alias `NT-15`.
 
 ### BL-016
 
@@ -258,12 +269,17 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-023
 
-- **statement:** Người ta cần mình, không cần biết mình.
-- **other-face:** none
-- **axis · step:** EXL 7 · AX4
+- **definition:** Người ta tìm đến anh vì anh giải quyết được vấn đề của họ, không phải vì muốn hiểu anh; anh chấp nhận, thậm chí ưng như vậy (khớp 017). Về sau anh đối xử với người khác đúng như thế ([[ART.AX3]] .4).
+- **ref:** `câu` · Kant, *Groundwork* 4:429: *"…never merely as a means to an end, but always at the same time as an end."*
+- **deviation:** Kant đặt một nguyên tắc cho cách đối xử với người; Thuyên dùng nó làm quan sát về cách mình bị đối xử, rồi chọn chấp nhận.
+- **seen:** `thay`
+- **monologue:**
+  - `dien-giai` · đại học: *Người ta tìm đến mình vì mình giải quyết được vấn đề của họ, không phải vì họ muốn hiểu mình là ai. Điều đó không có gì sai: một công cụ hữu dụng thì luôn được giữ lại. Muốn được thấu hiểu thì phải bộc lộ, và bộc lộ là rủi ro. Vậy được cần đến là đủ; được thấu hiểu là thứ xa xỉ không cần thiết.*
+- **other-face:** Nhi là người muốn biết
+- **axis · step:** EXL 7 · AX4, AX7
 - **origin:** PAST.T 3.3: hackathon, CLB
 - **consumed (nguồn cũ):** P1 lab: giữ Thảo khỏi bị dồn việc; Nhi là người muốn biết
-- **status:** `proposed` · alias `NT-23`
+- **status:** `locked 10/11` · alias `NT-23`
 
 ### BL-024
 
@@ -285,13 +301,18 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-025
 
-- **statement:** **Mình không thiếu.** Lời cãi với cái gối: phủ nhận cái thiếu mà cái gối là bằng chứng.
+- **definition:** Lời cãi với cái gối: phủ nhận cái thiếu bằng một danh sách bằng chứng. Anh thấy lời phủ nhận, không thấy cái thiếu bên dưới (tầng tình thương `seen: khong`). Con của 022 (anh *cần* gì).
+- **ref:** `ý` · Anna Freud (1936), *The Ego and the Mechanisms of Defence*: phủ nhận, lý trí hóa
+- **deviation:** phủ nhận thường là làm ngơ trước bằng chứng; Thuyên phủ nhận bằng cách lập luận với chính bằng chứng.
+- **seen:** `thay` (lời phủ nhận)
+- **monologue:**
+  - `dien-giai` · P2: *Mình không thiếu thứ gì. Mình có năng lực, có vị trí, có người tìm đến, có người công nhận; danh sách ấy đủ dài để bác bỏ mọi nghi ngờ. Những đêm ôm gối chỉ là thói quen tư thế khi ngủ, không phải bằng chứng của một nhu cầu. Một người đầy đủ như vậy mà vẫn kêu thiếu thì là kẻ vô ơn.*
 - **parent:** BL-022
-- **other-face:** mọi bằng chứng anh đưa ra đều là tình thương dành cho cái giỏi: danh sách càng dài, cái gối càng đúng
+- **other-face:** mọi bằng chứng anh đưa ra đều là sự công nhận dành cho năng lực: danh sách càng dài, cái gối càng đúng
 - **axis · step:** AX4, AX8
 - **origin:** mầm lớp 6 ("chắc là quen tay"); cực đoan lần đầu ở *Tủi hổ*; cực đoan nhất ở P2
 - **consumed (nguồn cũ):** P1 tếu khi Vũ thấy gối ôm; Diệp Anh; P2 tự thoại liệt kê, cách anh đẩy Nhi; đáy (ch.0)
-- **status:** `proposed` · alias `NT-25`
+- **status:** `locked 10/11` · alias `NT-25`, "Mình không thiếu"
 
 ### BL-026
 
@@ -357,12 +378,18 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-031
 
-- **statement:** **Biết người ta thích gì, ghét gì thì dắt được, không cần thương.** *Em khóc là lỗi anh. Vậy phải làm cho em không khóc mà vẫn nghe.*
+- **definition:** Biết người ta thích gì, ghét gì thì dắt được, không cần thương. **Khánh là người đầu tiên anh lắng nghe**, và anh nhận ra tác dụng của việc lắng nghe; nhưng anh ngộ nhận tác dụng ấy là quyền dẫn dắt, không phải sự quan tâm, nên dùng thông tin nghe được để thao túng em. **Tầng sâu:** lắng nghe chính là thứ anh thiếu (AX7, không được nghe); anh trao cho em đúng thứ mình chưa từng nhận, rồi đọc nó thành công cụ. Đây cũng là mầm của nấc "học cách lắng nghe" ở BL-022.
+- **ref:** `câu` · Tôn Tử, *Binh pháp*, thiên 3 (Giles): *"If you know the enemy and know yourself, you need not fear the result of a hundred battles."*
+- **deviation:** Tôn Tử đòi biết cả địch lẫn mình; Thuyên biết người mà không biết mình: công thức của AX4.
+- **seen:** `thay` (tác dụng dẫn dắt) · `khong` (lắng nghe là sự quan tâm, là thứ anh thiếu)
+- **monologue:**
+  - `ngo-nhan` · với Khánh: *Mỗi lần em khóc, người bị trách phạt là mình. Ép em bằng sức thì em khóc to hơn; mắng em thì em chống đối. Lần đầu tiên mình ngồi xuống nghe em nói em muốn gì, em nín, và em làm theo điều mình bảo. Vậy lắng nghe là một công cụ: hiểu được em thích gì, sợ gì, thì dẫn dắt được em mà không cần ép, cũng không cần chiều.*
+  - `dien-giai` · P2: *Mỗi con người là một tập hợp những mong muốn và nỗi sợ hãi. Nắm được hai danh sách ấy là nắm được tay lái. Tình cảm là một biến số bất ổn, không thể dựa vào; sự thấu hiểu thì ổn định. Vậy tao không cần ai thương tao để họ đi theo tao.*
 - **other-face:** none
-- **axis · step:** AX3, AX4
-- **origin:** PAST.T: thao túng em trai Khánh
-- **consumed (nguồn cũ):** gốc "đọc người để thắng" (P2); FN.thuyen.quan-su
-- **status:** `locked 30/10 (lời mẫu proposed)` · alias `NT-31`
+- **axis · step:** AX4, AX3, AX7
+- **origin:** PAST.T: Khánh
+- **consumed (nguồn cũ):** gốc "đọc người để thắng" (P2); FN.thuyen.quan-su; BL-022 (nấc lắng nghe)
+- **status:** `locked 10/11` · alias `NT-31`
 
 ### BL-032
 
