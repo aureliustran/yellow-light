@@ -211,7 +211,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-034
 
-- **cluster:** C2
+- **cluster:** C2 (cũng C5: lực kéo của chặng thuốc giảm đau)
 - **definition:** Có một phiên bản của mình ở cuối đường, và khoảng cách tới đó đo được. Động cơ kéo; cặp với BL-029 (động cơ đẩy). Hình dạng mơ hồ, đổi theo mục đích anh đang nhìn thấy; anh phủ nhận nó mà bản năng vẫn bật ra. Phép đo khoảng cách vẫn đúng; vạch đích thì nỗi sợ góp tay đặt ([[ART.AX3]] .3).
 - **ref:** `câu` · Karen Horney, *Neurosis and Human Growth* (1950), "the tyranny of the should": *"Forget about the disgraceful creature you actually are; this is how you should be."* (https://myweb.rollins.edu/jsiry/HorneyTyranny.html)
 - **deviation:** hình ảnh lý tưởng của Horney rực rỡ và được tôn thờ; của Thuyên mơ hồ, bị chính anh phủ nhận, đổi hình theo mục đích; người bệnh của Horney tự đo méo, Thuyên đo đúng.
@@ -420,6 +420,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **root:** BL-029
 - **axes:** AX9
 - **definition:** Không ai được chọn có đau hay không, chỉ được chọn đau cái nào; sức mạnh là cách chọn. Bản độc là đè người khác; bản lành là nâng người khác lên.
+- **chặng thuốc giảm đau** `locked 10/11`: không cần niềm tin riêng; cặp lực đẩy (BL-029) và lực kéo (BL-034) gánh chặng này. Mỗi lần mạnh lên, nỗi sợ thành người đau cho lợi ích kẻ khác lắng xuống một lúc (cái bớt đau); phiên bản lý tưởng đổi hình theo mục đích, nên đạt được thứ này thì vạch đích mới hiện ra ngay. Hai lực cùng mạnh khi anh tính toán hoặc tham vọng (`luc-keo`, `luc-day` của [[SELF.thuyen]]): đẩy lắng rồi quay lại, kéo dời vạch; hai nhịp ấy là tăng liều. Ở P2 anh không thấy mình nhờn thuốc, vì anh tưởng mọi thứ là lực kéo (G3). **Ở lại nơi mình là kẻ mạnh:** khi đẩy lấn át, anh chọn chỗ ít rủi ro đau nhất; ở P2 mọi vạch đích của lực kéo nằm trong cùng một đấu trường (tập đoàn), nên kéo không đưa anh đi chỗ khác. Cơ chế: [[FN.thuyen.nhien-lieu]].
 
 ### BL-029
 

@@ -23,6 +23,7 @@ render    DV-006 (liều theo tốc độ kể)
 
 ## notes
 
+- **Niềm tin gánh chặng tăng liều** `locked 10/11`: cặp lực đẩy (BL-029) và lực kéo (BL-034), không có niềm tin riêng; xem cụm C5 ở [[CH.thuyen.beliefs]] và `luc-keo`, `luc-day` của [[SELF.thuyen]].
 - **Chỉ cái tôi độc là thuốc.** Cái tôi lành là một phần khỏe; thuốc là dùng sai bộ phận khỏe.
 - **Mốc:** lớp 8 nghỉ dịch (liều tự kê đầu tiên) · lớp 9 ôn thi chuyên, đỗ · C6b · sau trượt quốc gia liều giảm · đại học (đau ngủ dưới cái tôi lành) · GĐ2 liều cao nhất · hồi phục: lần đầu hiểu ra sức mạnh chỉ làm tê.
 - **Luật viết:** trước hồi phục, lời kể chỉ đặt cạnh nhau "anh mạnh" và "anh bớt đau", không nối bằng "vì".

@@ -3483,6 +3483,11 @@
   },
   {
    "s": "CH.thuyen.beliefs",
+   "t": "FN.thuyen.nhien-lieu",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
    "t": "FN.thuyen.quan-su",
    "type": "link"
   },
@@ -3635,6 +3640,16 @@
    "s": "FN.thuyen.nhien-lieu",
    "t": "CH.thuyen.mechanics",
    "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.nhien-lieu",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "FN.thuyen.nhien-lieu",
+   "t": "SELF.thuyen",
+   "type": "link"
   },
   {
    "s": "FN.thuyen.phong-kin",
