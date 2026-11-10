@@ -17,6 +17,9 @@ Cho thấy là mặc định: người đọc tự cảm nhận qua chi tiết. 
 - **Ngoại cảnh sống động:** thời tiết, mùi, âm thanh, đồ vật cụ thể (hoa sữa, đèn đếm ngược, vòi nước rỉ, lá bàng, đêm trắng Phần Lan…).
 - **Suy nghĩ vu vơ có chủ đích:** ý lan man phải cài cắm điều gì đó về nhân vật hoặc cốt truyện.
 - **Không viết quá chuẩn xác:** người thật không nói và nghĩ gọn gàng, logic tuyệt đối.
+- **Từ phức là đa số, từ đơn là thiểu số** (chốt 10/11; áp cho toàn bộ nội dung truyện: lời kể, tự thoại, thoại, và tài liệu thiết kế như niềm tin, định nghĩa). Từ phức gồm từ ghép (Hán Việt và thuần Việt: *vị thế, thừa nhận, lộ trình, bàn cân*) và từ láy (*ngập ngừng, lấp lánh*). Mỗi từ phức mang sẵn một khái niệm, nên ý nghĩa sâu hơn một chuỗi từ đơn; câu ghép toàn từ một âm tiết giản lược suy luận thành khẩu hiệu. Từ đơn dùng có chủ đích: nhịp cụt khi căng, câu chốt, chửi, âm đệm.
+  - Đối chiếu: *Thương thì người ta rút lại được.* → *Tình thương là một ân huệ: người khác ban cho, nên người khác có quyền thu hồi.*
+  - Chờ tác giả: mức áp cho thoại đời thường, giọng Hà Tĩnh và các register cố ý ngắn (R3 câu vỡ, R7 đáy phẳng, R8 sổ cái); chỗ giáp với mục *Viết chuyên môn cho người đọc phổ thông* và dòng *Không viết quá chuẩn xác* ở trên.
 
 ### Lời thoại
 

@@ -36,12 +36,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-003
 
-- **statement:** Nói ra mới bị; đúng mà vẫn bị phạt.
-- **other-face:** none
-- **axis · step:** EXL 2→3 · AX3, AX4
-- **origin:** PAST.T 1.3: phích vỡ, lớp 4
-- **consumed (nguồn cũ):** THR.LAB: sửa lỗi người khác, không tranh công; ghen không gọi tên
-- **status:** `agreed` · alias `NT-03`
+- **merged:** gộp vào [[CH.thuyen.beliefs#BL-033]] làm nấc ngộ nhận lớp 4 (10/11). Số 003 để trống; alias `NT-03` trỏ về 033.
 
 ### BL-004
 
@@ -63,12 +58,16 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-006
 
-- **statement:** Cãi thì tốn, lách thì không.
+- **definition:** Đối đầu trực diện với người có quyền thì mình trả giá; đi vòng thì đạt được mục tiêu mà không phải trả. Mẹo, con của 029 và 033.
+- **seen:** `thay`
+- **monologue:**
+  - `ngo-nhan` · lớp 7, sau đêm bẻ roi: *Đối đầu trực diện là đặt lẽ phải của mình lên bàn cân với quyền lực của người kia, mà bàn cân ấy do chính họ nắm giữ. Kết cục đã định sẵn: thất bại, rồi trả giá. Mục tiêu thật không phải là thắng một cuộc tranh cãi, mà là đạt được điều mình muốn. Vậy thì không cần đối đầu. Cứ để người ta tin rằng họ đã chiến thắng, còn mình đi một lộ trình khác, tới đúng đích mình đã định.*
+- **parent:** BL-029, BL-033
 - **other-face:** none
-- **axis · step:** EXL 3 · AX1, AX4
+- **axis · step:** EXL 3 · AX1, AX4, AX9
 - **origin:** PAST.T 1.7: bẻ roi, lớp 7
 - **consumed (nguồn cũ):** AX1: lùi thay vì tranh (thấy Phong là lùi); THR: đối phó nhẹ ở P1
-- **status:** `agreed` · alias `NT-06`
+- **status:** `locked 10/11` · alias `NT-06`
 
 ### BL-007
 
@@ -252,12 +251,18 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-027
 
-- **statement:** Yếu thì bị đánh mà không ai thương; mạnh lên thì người ta sợ. (Lời của giọng: *Sợ còn hơn thương.*)
+- **definition:** Sự kiêng nể giữ người ta chắc hơn tình thương, vì tình thương là thứ người khác có quyền thu hồi. Con của 029. **Đúng một nửa:** lớp 7, ánh mắt người ngoài đổi chiều thật khi anh trở nên đáng sợ. **Che:** tình thương anh chưa từng nhận được một cách ổn định. **Giá:** cô bạn mập mờ sợ anh (*Tủi hổ*); ở P2 anh bị coi là đáng sợ, đáng ghét.
+- **ref:** `câu` · Machiavelli, *The Prince*, chương 17: *"it is much safer to be feared than loved"* (khi phải thiếu một trong hai) (https://www.marxists.org/reference/archive/machiavelli/works/prince/ch17.htm)
+- **deviation:** Machiavelli nói cho một ông hoàng có quyền lựa chọn; Thuyên chọn vì chưa từng được trao lựa chọn kia. Với anh đây không phải chiến lược, mà là thứ duy nhất nằm trong tầm kiểm soát.
+- **seen:** `thay` (giọng phòng kín)
+- **monologue:**
+  - `dien-giai`: *Tình thương là một ân huệ: người khác ban cho, nên người khác có quyền thu hồi, bất cứ lúc nào, không cần lý do. Sự kiêng nể thì khác: nó là sản phẩm của chính tao, tồn tại chừng nào sức mạnh của tao còn tồn tại. Thứ gì phụ thuộc vào thiện chí của người khác thì không bao giờ thực sự thuộc về mình. Vậy thì tao không cần được yêu thương. Tao cần người ta không dám xâm phạm tao.*
+- **parent:** BL-029
 - **other-face:** none
 - **axis · step:** AX9
 - **origin:** PAST.T lớp 7: mắt người ngoài đổi chiều (cảnh QT-41)
 - **consumed (nguồn cũ):** *Tủi hổ* (cô bạn mập mờ sợ anh); P2 (bị coi là đáng sợ, đáng ghét); FN.thuyen.phong-kin
-- **status:** `proposed` · alias `NT-27`
+- **status:** `locked 10/11` · alias `NT-27`, "Sợ còn hơn thương"
 
 ### BL-029
 
@@ -295,21 +300,34 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-032
 
-- **statement:** Trong đầu thì vô hại. Nghĩ gì cũng được, miễn đầu ra sạch.
+- **definition:** Ý nghĩ độc giữ trong phòng kín thì không chạm tới ai, miễn đầu ra sạch. **Đúng một nửa:** suốt đại học đầu ra sạch thật. **Sai ở:** suy nghĩ lặp lại là tập dượt; ở P2 phòng kín hỏng từng lớp.
+- **ref:** `ý` · Daniel Wegner, *ironic process theory* (thí nghiệm "gấu trắng", 1987): cố kìm nén một ý nghĩ thì nó quay lại nhiều hơn (https://en.wikipedia.org/wiki/Ironic_process_theory)
+- **deviation:** anh không kìm nén; anh nuôi dưỡng nó trong phòng kín và tin cánh cửa giữ được (nét Ngạo: tự tin vào năng lực kiểm soát).
+- **seen:** `thay` (đại học)
+- **monologue:**
+  - `dien-giai`: *Suy nghĩ không có nhân chứng, nên suy nghĩ không gây ra tổn thương. Thứ làm người khác đau là ngôn từ và hành vi, không phải ý niệm. Tao chứa toàn bộ phần tăm tối ở bên trong, để chúng tự do vận hành, miễn là đầu ra chỉ còn sự tử tế. Như vậy tao vừa không phải dối trá với bản thân, vừa không gây hại cho ai. Hai giá trị cùng tồn tại được, chỉ cần ranh giới ở giữa được kiểm soát tuyệt đối.*
 - **other-face:** none
-- **axis · step:** —
+- **axis · step:** AX9, AX4
 - **origin:** sau C6b, lớn ở đại học
 - **consumed (nguồn cũ):** P2, nơi nó sai (phòng kín hỏng từng lớp); FN.thuyen.phong-kin
-- **status:** `proposed (số mới 10/11)` · alias `NT-32`
+- **status:** `locked 10/11` · alias `NT-32`, "Trong đầu thì vô hại"
 
 ### BL-033
 
-- **statement:** Đúng chỉ thắng khi đứng trên cao. Cấp 2: *đúng mà nói ra thì thành hỗn*; từ cấp 3: *đúng mà nói ra từ trên cao thì thành luật*.
+- **definition:** Lẽ phải không tự thắng; nó chỉ được thừa nhận khi người phát ngôn đứng ở vị thế có sức mạnh. **Đúng một nửa:** vỡ phích, anh đúng mà vẫn bị phạt; lên cấp 3, người ta nghe anh vì anh giỏi. **Che:** khả năng người ta chưa bao giờ cân đúng sai, mà cân tình thương (AX7). **Giá:** hoãn nói thật cho tới khi "đủ cao" (AX1); ở P2, cái đúng của anh thành quy tắc để đè người (tên lửa).
+- **ref:** `câu` · Pascal, *Pensées* (Lafuma 103): *"Et ainsi ne pouvant faire que ce qui est juste fût fort, on a fait que ce qui est fort fût juste."* (https://www.slate.fr/france/85723/manuel-valls-cite-pascal)
+- **deviation:** Pascal mô tả để than; Thuyên rút ra phương pháp: tích lũy vị thế để cái đúng của mình thành chuẩn mực (nét Ngạo cộng nét thực dụng).
+- **seen:** `thay`
+- **monologue:**
+  - `ngo-nhan` · lớp 4 (gộp BL-003): *Hình phạt không đến từ việc mình nghĩ sai, mà từ việc mình phát ngôn. Suy nghĩ giữ trong đầu thì an toàn; lời nói ra thì có hậu quả. Vậy muốn bình yên thì im lặng, kể cả khi mình đúng.*
+  - `ngo-nhan` · cấp 2: *Cùng một nội dung, người lớn nói ra là giáo dục, mình nói ra là hỗn láo. Giá trị của một câu nói không nằm ở nội dung, mà ở vị trí của người phát ngôn. Mình ở vị trí thấp, nên mọi lập luận đúng của mình đều bị quy thành thái độ.*
+  - `dien-giai` · cấp 3: *Lẽ phải không có năng lực tự bảo vệ; nó cần vị thế để được thừa nhận. Kẻ ở dưới nói đúng thì bị coi là phản kháng; người ở trên nói đúng thì thành quy tắc, nói sai cũng thành quy tắc. Tranh luận để chứng minh mình đúng là lãng phí năng lượng. Thứ cần tích lũy là vị thế. Khi đã đứng đủ cao, tao không cần sự đồng thuận của ai nữa: phát ngôn của tao mặc nhiên trở thành chuẩn mực.*
+- **children:** BL-006
 - **other-face:** none
-- **axis · step:** AX9
-- **origin:** nối lớp 9 sang lớp 10
-- **consumed (nguồn cũ):** gốc chuỗi tên lửa (FN.thuyen.lang-kinh)
-- **status:** `proposed (số mới 10/11)` · alias `NT-33`
+- **axis · step:** EXL 2→3 · AX9, AX3, AX4
+- **origin:** PAST.T 1.3: phích vỡ, lớp 4 (nấc đầu); nối lớp 9 sang lớp 10 (nấc cuối)
+- **consumed (nguồn cũ):** gốc chuỗi tên lửa (FN.thuyen.lang-kinh); THR.LAB: sửa lỗi người khác, không tranh công; ghen không gọi tên (từ BL-003)
+- **status:** `locked 10/11` · alias `NT-33`, `NT-03`, "Đúng chỉ thắng khi đứng trên cao"
 
 ### BL-034
 
