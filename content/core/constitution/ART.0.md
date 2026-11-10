@@ -1,7 +1,7 @@
 ---
 id: ART.0
 kind: constitution
-status: proposed
+status: locked
 updated: 2026-11-10
 axis: none
 aliases: [hiến pháp chương 0, chương nền]
@@ -17,7 +17,7 @@ Căn cứ cho các luật không sinh từ một trục: hình thức, khối hi
 - **source:** `01-rules-viet.md` Nguyên tắc chung (`locked 15/10`)
 - **forbids:** gọi tên cảm xúc hay giải thích động cơ ở phần cần giấu; giấu theo thói quen
 - **applies-to:** mọi tình tiết
-- **status:** `proposed`
+- **status:** `locked 10/11`
 
 ### ART.0.2 · Khối hiển thị
 
@@ -25,7 +25,7 @@ Căn cứ cho các luật không sinh từ một trục: hình thức, khối hi
 - **source:** `01c-rules-thanh-phan.md` Nguyên tắc
 - **forbids:** viết tin nhắn, email, văn bản thành dòng in nghiêng hay đoạn văn thường
 - **applies-to:** `channel = chat` và mọi tài liệu trong chương
-- **status:** `proposed`
+- **status:** `locked 10/11`
 
 ### ART.0.3 · Xưng hô
 
@@ -33,7 +33,7 @@ Căn cứ cho các luật không sinh từ một trục: hình thức, khối hi
 - **source:** `01-rules-viet.md` Xưng hô (người kể gọi nhân vật `locked 15/10`)
 - **forbids:** người kể đổi cách gọi mà POV chưa đổi
 - **applies-to:** mọi tình tiết
-- **status:** `proposed`
+- **status:** `locked 10/11`
 
 ### ART.0.4 · Giọng địa phương
 
@@ -41,7 +41,7 @@ Căn cứ cho các luật không sinh từ một trục: hình thức, khối hi
 - **source:** `01-rules-viet.md` Giọng địa phương; khối `[[ht: … || …]]` (`01c`)
 - **forbids:** chuẩn hóa giọng của bố mẹ; Thuyên nói giọng quê ở Hà Nội khi không có lý do
 - **applies-to:** `FAM.T`, `PAST.T`, cảnh có bố mẹ Thuyên
-- **status:** `proposed`
+- **status:** `locked 10/11`
 
 ### ART.0.5 · Dưới 18 tuổi
 
@@ -49,7 +49,7 @@ Căn cứ cho các luật không sinh từ một trục: hình thức, khối hi
 - **source:** bible §4.2 (`locked 23/10`); `nhi.md` §1 (`locked 31/10`: ảnh tự làm mẫu ở quá khứ được tả dáng, vóc trong đúng ranh này)
 - **forbids:** mọi chi tiết gợi dục khi có người dưới 18 tuổi trong cảnh; thang gợi ở cảnh ấy
 - **applies-to:** mọi tình tiết có người tham gia dưới 18 tuổi ở `date` của tình tiết
-- **status:** `proposed`
+- **status:** `locked 10/11`
 
 ### ART.0.6 · Tên thật, tên hư cấu
 
@@ -57,4 +57,4 @@ Căn cứ cho các luật không sinh từ một trục: hình thức, khối hi
 - **source:** `01-rules-viet.md` Địa danh và tổ chức
 - **forbids:** tên thật cho tổ chức làm điều xấu; tên người thật; chi tiết sai về nơi có thật
 - **applies-to:** mọi tình tiết
-- **status:** `proposed`
+- **status:** `locked 10/11`
