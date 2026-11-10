@@ -246,6 +246,35 @@ law('LAW.check.status', () => {
   }
 });
 
+// Chỗ trống có chủ đích: mục `### <ID>` có dòng `- **gap:**`. Mọi nơi nhắc tới ID ấy (trừ dòng tiêu đề của chính nó) đều bị cảnh báo.
+law('LAW.check.gap', () => {
+  const gaps = new Map();
+  for (const it of items) {
+    const lines = it.body.split(/\r?\n/);
+    lines.forEach((line, i) => {
+      const h = line.match(/^###\s+([A-Za-z0-9.\-]+)\s*$/);
+      if (!h) return;
+      let end = i + 1;
+      while (end < lines.length && !/^#{2,3}\s/.test(lines[end])) end++;
+      for (let j = i + 1; j < end; j++) {
+        const g = lines[j].match(/^- \*\*gap:\*\*\s*(.*)$/);
+        if (g) { gaps.set(h[1], { note: g[1].slice(0, 80), rel: it.rel, start: i, end }); break; }
+      }
+    });
+  }
+  if (!gaps.size) return;
+  for (const it of items) {
+    const lines = it.body.split(/\r?\n/);
+    lines.forEach((line, i) => {
+      for (const [id, g] of gaps) {
+        if (it.rel === g.rel && i >= g.start && i < g.end) continue;
+        const note = g.note;
+        if (new RegExp('(^|[^A-Za-z0-9-])' + id.replace(/[.\-]/g, '\\$&') + '(?![0-9])').test(line)) add('LAW.check.gap', 'warn', it, it.bodyStart + i + 1, `nhắc tới ${id}: chỗ trống chưa định nghĩa (${note})`);
+      }
+    });
+  }
+});
+
 law('LAW.check.table-pipe', () => {
   for (const it of items) for (const l of it.links) if (l.inTable && l.alias) add('LAW.check.table-pipe', sev(it), it, l.line, `bí danh trong ô bảng làm vỡ bảng: [[${l.target}|…]]`);
 });
