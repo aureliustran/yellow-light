@@ -1,5 +1,7 @@
 # SL.VU · Vũ (thẻ node)
 
+> **Đã chuyển (T5, 10/11).** Bản chính: thẻ ở `content/world/characters/vu/` (CH.vu, beliefs, voice, FN.vu.*); node ở `content/storylines/SOL/SOL.VU/` (lá quá khứ, dòng GĐ1, việc cần sửa). Mốc L2 đúng là 4–5/2021. File này giữ để lần ngược; không sửa ở đây.
+
 Oct 30, 2026 · @aureliustran. **[chốt 30/10]** thiết kế lại Vũ trong buổi thảo luận QK. Nguồn thiết kế: `de-xuat/qk-t-plan-ch1-het-cap-2.md` §4. Thay các mô tả cũ ở `canon/bible-v2.md`, `01-mach-truyen-v2.md` §2.5 và ch.1 đã đăng (xem "Cần sửa").
 
 **Mức:** MĐ B, GĐ1 A (theo ma trận hiện hành; Q-051 chờ chốt lại sau khi SL lồng vào QK).

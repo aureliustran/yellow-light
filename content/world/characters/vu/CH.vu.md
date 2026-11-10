@@ -55,6 +55,6 @@ Cơ chế: [[CH.vu.mechanics]] (2 hàm); niềm tin `BL-050`: [[CH.vu.beliefs]];
 
 | Nội dung | Đích |
 | --- | --- |
-| lớp 7 là đứa duy nhất không sợ "thằng dữ"; mốc L2 sau lần trượt quốc gia (4–5/2023): "Chơi không? Thiếu một." nói **một lần**, ở *Biết ơn*, thay Tú; ở đại học không lặp | `PAST.T` (neo 3.2) |
+| lớp 7 là đứa duy nhất không sợ "thằng dữ"; mốc L2 sau lần trượt quốc gia (4–5/2021, lịch `locked 31/10`; bản cũ ghi nhầm 2023): "Chơi không? Thiếu một." nói **một lần**, ở *Biết ơn*, thay Tú; ở đại học không lặp | `PAST.T` (neo 3.2) |
 | dòng của Vũ ở GĐ1 (lật cớ "môn đăng hộ đối", lật tim đen); gặp Nhi ở ngoại khóa số 2; rạn nứt 14/6/2025; tuyến phụ tùy chọn với An Nhiên | `SOL.VU`, `ROM.TN` |
 | ch.01 ghi Vũ "người Hà Nội gốc, nhà ở chính cái khu tập thể", "bạn thân từ năm nhất" | chương đã đăng thắng cho tới khi tác giả cho sửa (Q-052) |

@@ -159,7 +159,7 @@ Có phần đầu (frontmatter): 213 file. Chưa chuyển sang khuôn mới (leg
 | `SOL.DT` | `node` | `proposed` | `storylines/SOL/SOL.DT/SOL.DT.md` | Phòng trọ, bún riêu (đơn vị tiền), Casio, Crocs, ảnh aesthetic, Locket; phần hiện tại của ch.1–6; *Nước lạnh*; câu đùa thưa dần, thôi quy… |
 | `SOL.HD` | `node` | `proposed` | `storylines/SOL/SOL.HD/SOL.HD.md` | Ba ghế, biên bản, nghị quyết, "bàn cào móng"; đời thường phía Nhi, giao `ROM.TN` gần như mọi lần xuất hiện. Nhóm: [[GRP.hoi-dong-nhi]]. |
 | `SOL.SAN` | `node` | `proposed` | `storylines/SOL/SOL.SAN/SOL.SAN.md` | Pickup, Linh "mana", anh Long, Hưng, Quân; chia tiền sân → bao cả sân (biến chất) (`de-xuat/cay-tuyen.md`). |
-| `SOL.VU` | `node` | `proposed` | `storylines/SOL/SOL.VU/SOL.VU.md` | Cột rổ, "Thích thì nói mẹ nó đi", "Mày đang lùi đấy à?", rạn nứt, sáng sớm làm lành. Nguồn: `tuyen/sl/vu.md` (chuyển ở T5). |
+| `SOL.VU` | `node` | `proposed` | `storylines/SOL/SOL.VU/SOL.VU.md` | Cột rổ, "Thích thì nói mẹ nó đi", "Mày đang lùi đấy à?", rạn nứt, sáng sớm làm lành. Thiết kế lại Vũ `locked 30/10` (buổi thảo luận QK); … |
 | `SPEC.adr-001` | `spec` | `agreed` | `docs/framework/adr/ADR-001-story-framework.md` | Before the framework (state of early November 2026): |
 | `SPEC.blueprints` | `spec` | `draft` | `docs/framework/blueprints.md` | Fields: `content/schemas/blueprint.md`, `edition.md`, `chapter.md`. |
 | `SPEC.editions` | `spec` | `locked` | `docs/plan-legacy.md` | Oct 20, 2026. Development plan. **Rollout steps 1 and 2 are built** (Oct 21, see "Status"). |
