@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 144 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
+Có phần đầu (frontmatter): 184 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -35,6 +35,9 @@ Có phần đầu (frontmatter): 144 file. Chưa chuyển sang khuôn mới (leg
 | `CH.vu.mechanics` | `character` | `agreed` | `world/characters/vu/mechanics/CH.vu.mechanics.md` | CH.vu.mechanics · Cơ chế của Vũ |
 | `CH.vu.voice` | `character` | `agreed` | `world/characters/vu/CH.vu.voice.md` | **Mục:** `dialogue` · `narration` · `lexicon` · `forbidden`. |
 | `CORE` | `spec` | `locked` | `core/README.md` | Tầng tĩnh nền (L1): những thứ cả `world/` lẫn `storylines/` cùng trỏ tới. |
+| `FAM` | `node` | `proposed` | `storylines/fam/FAM.md` | Gốc của các node `FAM.*`. Khung (T2, 10/11): chỉ có `weight` và `children`; mọi mục khác chờ chuyển. |
+| `FAM.N` | `node` | `proposed` | `storylines/fam/FAM.N.md` | Chủ tịch, danh sách mai mối, prom date do hai nhà xếp, Khải là anh, Melbourne dịp Tết, Nhi rời đi để trốn danh sách, hội đồng thật của gi… |
+| `FAM.T` | `node` | `proposed` | `storylines/fam/FAM.T.md` | Cuộc gọi bốn phút mười hai giây, áo sơ mi trắng, giỗ ông và lời khoe 50 triệu, chiến tranh lạnh, trị liệu gia đình (`de-xuat/cay-tuyen.md`). |
 | `FN.nhi.cam` | `function` | `proposed` | `world/characters/nhi/mechanics/FN.nhi.cam.md` | Thấu cảm là giác quan chủ đạo. Cô cảm nhận được điều người khác che giấu, gọi tên được cảm xúc, nhưng lý giải sai nguyên nhân. |
 | `FN.nhi.cong-cu` | `function` | `locked` | `world/characters/nhi/mechanics/FN.nhi.cong-cu.md` | Lựa chọn công cụ theo hoàn cảnh. **Khéo léo cộng đanh đá thành ranh con**: khéo léo đơn thuần thì ra người ngoan ngoãn, đanh đá đơn thuần… |
 | `FN.nhi.phan-khang` | `function` | `proposed` | `world/characters/nhi/mechanics/FN.nhi.phan-khang.md` | Phản kháng là cơ chế mặc định của cô với Thuyên: bị chê bai thì tranh cãi, được khen ngợi thì gạt đi, bị trêu chọc thì đấm. |
@@ -72,6 +75,9 @@ Có phần đầu (frontmatter): 144 file. Chưa chuyển sang khuôn mới (leg
 | `GUIDE.task.sync-blueprint` | `guide` | `draft` | `guidelines/tasks/sync-blueprint.md` | **Trigger:** after writing; after the author edits a chapter; `LAW.check.bp-drift` or `bp-anchor` reports. |
 | `GUIDE.task.write-scene` | `guide` | `draft` | `guidelines/tasks/write-scene.md` | The blueprint scene(s) assigned to you; its write-kit. |
 | `PAST` | `node` | `agreed` | `storylines/past/PAST.md` | Gốc của các node quá khứ: mỗi node là một bảng neo sinh niềm tin mà hiện tại tiêu thụ. Luật kể quá khứ (bốn luật QK): `tuyen/qua-khu/READ… |
+| `PAST.DA` | `node` | `proposed` | `storylines/past/PAST.DA.md` | Nhà giàu thật, ngã năm 14 tuổi, Astrea mua lại; ghế do người khác xếp. Độ mỏng (`tuyen/qua-khu/README.md` §5). |
+| `PAST.K` | `node` | `proposed` | `storylines/past/PAST.K.md` | Động cơ người anh, dùng em gái làm màn khói. Rất mỏng, chỉ phục vụ sau sân bay (Phần 4) (`tuyen/qua-khu/README.md` §5). |
+| `PAST.N` | `node` | `proposed` | `storylines/past/PAST.N.md` | Bảng neo của Nhi, độ mỏng: chỉ những mảnh sinh niềm tin mà hiện tại dùng (Q-025). Nguồn: `tuyen/qua-khu/nhi.md` (chuyển ở T3). |
 | `PAST.T` | `node` | `agreed` | `storylines/past/PAST.T.md` | Bảng neo: những gì đã xảy ra với Thuyên từ mầm non tới hết thực tập, mỗi neo sinh một hoặc vài niềm tin ([[CH.thuyen.beliefs]]) mà hiện t… |
 | `PAST.T-001` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-001.md` | Đếm bánh chưng; đếm đúng mà không ai tin. |
 | `PAST.T-002` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-002.md` | Tủ kính: tờ của chị họ đẩy tờ *tiên tiến* của anh vào trong. "Có tờ mới thì ra." |
@@ -101,7 +107,11 @@ Có phần đầu (frontmatter): 144 file. Chưa chuyển sang khuôn mới (leg
 | `PAST.T-026` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-026.md` | Thư mục *sau-nay*, *Congratulations.*, đọc một lần rồi không mở. |
 | `PAST.T-027` | `event` | `page` | `storylines/past/PAST.T/PAST.T-027.md` | Sáu tháng thực tập ở tòa nhà kính; hết thực tập tháng 9, "không biết dậy sớm để làm gì"; mail summit đến thì nhẹ. |
 | `ROM` | `node` | `proposed` | `storylines/rom/ROM.md` | Gốc của các node quan hệ tình cảm `ROM.<cặp>`. Khung tạo sớm (10/11) để chứa lõi gương của [[ROM.TN]]; phần còn lại chuyển ở B4c. |
+| `ROM.LT` | `node` | `proposed` | `storylines/rom/ROM.LT.md` | Thuyên làm quân sư cho Tùng từ cấp 3: gương nhỏ của quân sư cho Phong; giao `PAST.T` (`de-xuat/cay-tuyen.md`). |
+| `ROM.PN` | `node` | `proposed` | `storylines/rom/ROM.PN.md` | Một chiều: thích, quân sư dạy, gala tỏ tình, nói với Nhi, câu hỏi ở tiệc aim, người ở lại. Gương: Phong hỏi, Thuyên đọc (`de-xuat/cay-tuy… |
+| `ROM.TD` | `node` | `proposed` | `storylines/rom/ROM.TD.md` | Fan service tháng 11–12, 31/12, dừng thân mật, đổi phe. Nửa romance; nửa liên minh ở `THR.LM` (`de-xuat/cay-tuyen.md`). |
 | `ROM.TN` | `node` | `proposed` | `storylines/rom/ROM.TN.md` | **Khung** (10/11): node chưa chuyển (B4c). Hiện chỉ có `mirror`, lõi gương của quan hệ, đặt ở đây để nó dùng được các ràng buộc (luật, re… |
+| `ROM.VA` | `node` | `proposed` | `storylines/rom/ROM.VA.md` | Tuyến phụ hài, tùy chọn; giao `SOL.HD` (`de-xuat/cay-tuyen.md`). |
 | `SCALE.exl` | `scale` | `locked` | `core/SCALE.exl.md` | Bốn mối lo lớn theo Yalom (chết, tự do, cô đơn, vô nghĩa) là bản đồ, không dùng chữ ấy trên trang. Thang đi hai chiều: từ vật cụ thể sang… |
 | `SCH.article` | `schema` | `proposed` | `schemas/article.md` | A constitution article: an invariant split from an axis; phase laws take their basis from it. See [rules-engine](../../docs/framework/rul… |
 | `SCH.axis` | `schema` | `agreed` | `schemas/axis.md` | An existential axis of the story (old `H<n>`). The root holds axes, not mechanisms: how an axis runs lives in the node that carries it, a… |
@@ -135,6 +145,11 @@ Có phần đầu (frontmatter): 144 file. Chưa chuyển sang khuôn mới (leg
 | `SEC-002` | `secret` | `locked` | `world/secrets/SEC-002.md` | Sau khi lượt 1 thất bại (2021), bố mẹ Nhi ngầm tạo điều kiện cho Phong, người có cảm tình với Nhi và có phụ huynh là đối tác của Astrea, … |
 | `SELF` | `node` | `agreed` | `storylines/self/SELF.md` | Gốc của các node `SELF.<id>`: mỗi nhân vật có hiện sinh một node, làm chủ thuộc tính nội tâm của người ấy theo giai đoạn. |
 | `SELF.thuyen` | `node` | `agreed` | `storylines/self/SELF.thuyen.md` | Làm chủ các thuộc tính nội tâm của [[CH.thuyen]] theo giai đoạn: `exl`, `cai-toi-doc`, `lang-kinh`, `cai-goi`, `luc-keo`, `luc-day`, và g… |
+| `SOL` | `node` | `proposed` | `storylines/sol/SOL.md` | Gốc của các node `SOL.*`. Khung (T2, 10/11): chỉ có `weight` và `children`; mọi mục khác chờ chuyển. |
+| `SOL.DT` | `node` | `proposed` | `storylines/sol/SOL.DT.md` | Phòng trọ, bún riêu (đơn vị tiền), Casio, Crocs, ảnh aesthetic, Locket; phần hiện tại của ch.1–6; *Nước lạnh*; câu đùa thưa dần, thôi quy… |
+| `SOL.HD` | `node` | `proposed` | `storylines/sol/SOL.HD.md` | Ba ghế, biên bản, nghị quyết, "bàn cào móng"; đời thường phía Nhi, giao `ROM.TN` gần như mọi lần xuất hiện. Nhóm: [[GRP.hoi-dong-nhi]]. |
+| `SOL.SAN` | `node` | `proposed` | `storylines/sol/SOL.SAN.md` | Pickup, Linh "mana", anh Long, Hưng, Quân; chia tiền sân → bao cả sân (biến chất) (`de-xuat/cay-tuyen.md`). |
+| `SOL.VU` | `node` | `proposed` | `storylines/sol/SOL.VU.md` | Cột rổ, "Thích thì nói mẹ nó đi", "Mày đang lùi đấy à?", rạn nứt, sáng sớm làm lành. Nguồn: `tuyen/sl/vu.md` (chuyển ở T5). |
 | `SPEC.adr-001` | `spec` | `agreed` | `docs/framework/adr/ADR-001-story-framework.md` | Before the framework (state of early November 2026): |
 | `SPEC.blueprints` | `spec` | `draft` | `docs/framework/blueprints.md` | Fields: `content/schemas/blueprint.md`, `edition.md`, `chapter.md`. |
 | `SPEC.editions` | `spec` | `locked` | `docs/plan-legacy.md` | Oct 20, 2026. Development plan. **Rollout steps 1 and 2 are built** (Oct 21, see "Status"). |
@@ -149,4 +164,29 @@ Có phần đầu (frontmatter): 144 file. Chưa chuyển sang khuôn mới (leg
 | `SPEC.storylines` | `spec` | `draft` | `docs/framework/storylines.md` | Fields: `content/schemas/node.md`, `goal.md`, `event.md`, `intersection.md`. |
 | `SPEC.tooling` | `spec` | `draft` | `docs/framework/tooling.md` | `npm run canon:check` (`scripts/canon-check.mjs`, no dependencies) is the rule runner. It reads every entity under `content/` and every p… |
 | `TEC.interiority.ideal-self` | `technique` | `proposed` | `lib/interiority/TEC.interiority.ideal-self.md` | Đưa lực kéo ([[CH.thuyen.beliefs#BL-034]]) lên trang qua lời người kể. Phục vụ register R10 (khối nội tâm, `rules/registers.md` §2.6); `s… |
+| `THR` | `node` | `proposed` | `storylines/thr/THR.md` | Gốc của các node `THR.*`. Khung (T2, 10/11): chỉ có `weight` và `children`; mọi mục khác chờ chuyển. |
+| `THR.DR` | `node` | `proposed` | `storylines/thr/THR.DR.md` | Sinh từ đồ ăn đặt cho Nhi (chốt 23/10), cắm cờ, bị gạt đúng, luận văn Phần Lan, startup Phần 3, Khải nhảy vào Phần 4 (`de-xuat/cay-tuyen.… |
+| `THR.LAB` | `node` | `proposed` | `storylines/thr/THR.LAB.md` | Lão Tuấn, phe "rắn", hội kỹ sư, Thảo; ván phòng thủ GĐ1, ván tấn công và thủ đoạn chủ động GĐ2; blacklist và bảng giá người ở đáy (`de-xu… |
+| `THR.LM` | `node` | `proposed` | `storylines/thr/THR.LM.md` | Pilot giao nhận chặng cuối, ghế hứa cho cô, ván cược của Khải (`de-xuat/cay-tuyen.md`). |
+| `THR.MD` | `node` | `proposed` | `storylines/thr/THR.MD.md` | Có pipeline không có model; quyền xếp hàng đợi; kim bài miễn tử; khảo sát → production → ghế 50 triệu (`de-xuat/cay-tuyen.md`). |
+| `THR.MO` | `node` | `proposed` | `storylines/thr/THR.MO.md` | Summit (Chủ tịch bảo Khải "để ý nó"), nhận lab, MUN, "dự thính" (`de-xuat/cay-tuyen.md`). |
+| `THR.T18` | `node` | `proposed` | `storylines/thr/THR.T18.md` | Khải truy dấu vết, Morpheus (*khách*, bay sang Mỹ), lật bài 15/7 (`de-xuat/cay-tuyen.md`). |
 | `TREE` | `node` | `locked` | `storylines/README.md` | Node gốc của mọi tuyến. Toàn bộ chức năng của thư mục cũ `tuyen/` ở đây (10/11); riêng định nghĩa trục và thang ở `core/` vì tầng tĩnh cũ… |
+| `X-001` | `intersection` | `proposed` | `storylines/intersections/X-001.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
+| `X-002` | `intersection` | `proposed` | `storylines/intersections/X-002.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
+| `X-003` | `intersection` | `proposed` | `storylines/intersections/X-003.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
+| `X-004` | `intersection` | `proposed` | `storylines/intersections/X-004.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
+| `X-005` | `intersection` | `proposed` | `storylines/intersections/X-005.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
+| `X-006` | `intersection` | `proposed` | `storylines/intersections/X-006.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
+| `X-007` | `intersection` | `proposed` | `storylines/intersections/X-007.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
+| `X-008` | `intersection` | `proposed` | `storylines/intersections/X-008.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
+| `X-009` | `intersection` | `proposed` | `storylines/intersections/X-009.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
+| `X-010` | `intersection` | `proposed` | `storylines/intersections/X-010.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
+| `X-011` | `intersection` | `proposed` | `storylines/intersections/X-011.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
+| `X-012` | `intersection` | `proposed` | `storylines/intersections/X-012.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
+| `X-013` | `intersection` | `proposed` | `storylines/intersections/X-013.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
+| `X-014` | `intersection` | `proposed` | `storylines/intersections/X-014.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
+| `X-015` | `intersection` | `proposed` | `storylines/intersections/X-015.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
+| `X-016` | `intersection` | `proposed` | `storylines/intersections/X-016.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
+| `X-017` | `intersection` | `proposed` | `storylines/intersections/X-017.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |
+| `X-018` | `intersection` | `proposed` | `storylines/intersections/X-018.md` | **Khung** (T2, 10/11). Theo khuôn, giao điểm không giữ tình tiết; node tham gia và mức được sinh từ tình tiết (`x`, `beat`). Khi chưa có … |

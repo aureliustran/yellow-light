@@ -22,11 +22,11 @@ Node gốc của mọi tuyến. Toàn bộ chức năng của thư mục cũ `tu
 | [[SELF]] | nội tâm | `storylines/self/` |
 | [[PAST]] | Quá khứ (QK) | `storylines/past/` |
 | [[ROM]] | Romance (RM) | `storylines/rom/` |
-| `THR` | Thriller (TH) | `storylines/thr/` (T2) |
-| `SOL` | Slice of life (SL) | `storylines/sol/` (T2) |
-| `FAM` | Gia đình (GD) | `storylines/fam/` (T2) |
+| [[THR]] | Thriller (TH) | `storylines/thr/` |
+| [[SOL]] | Slice of life (SL) | `storylines/sol/` |
+| [[FAM]] | Gia đình (GD) | `storylines/fam/` |
 
-Giao điểm `X-NNN`: `storylines/intersections/` (T2). Mỗi node một cha; quan hệ nhiều chiều đi qua giao điểm (Q-027).
+Giao điểm `X-NNN`: `storylines/intersections/` (`X-001` … `X-018`, khung từ bảng cũ; mã cũ `X-01` là alias). Mức của tuyến và node theo giai đoạn: frontmatter `weight` và mục `weight` của từng node (thang và vai: `config/levels.md`; giai đoạn: `config/phases.md`). Mỗi node một cha; quan hệ nhiều chiều đi qua giao điểm (Q-027).
 
 ## axes
 
@@ -90,6 +90,28 @@ Công thức mỗi nấc: **nhiên liệu → phản ứng của anh → nấc m
 3. **Giai đoạn là trục thời gian, không phải node.** Một node chạy xuyên giai đoạn được. "Phần" chưa có định nghĩa nên chưa dùng làm trục.
 4. **Cơ chế ở node và nhân vật, trục ở gốc.** Một node hoặc nhân vật được giữ cơ chế vận hành của nó, miễn là cơ chế ấy trỏ về trục nó phục vụ; trục không trỏ ngược tới cơ chế.
 
+## Cây quyết định `locked 26/10` (chuyển từ `tuyen/README.md` §5)
+
+### Lối vào A: lập plan cho một khoảng chương (từ trên xuống)
+
+1. **Giai đoạn nào?** Khoảng vắt qua hai giai đoạn thì chạy cho từng nửa.
+2. **Xếp vai** theo mức của giai đoạn (`config/levels.md`): `lead` (SSS, SS+) bắt buộc có tình tiết trong khoảng; `main` (SS, S) vào nếu có tình tiết đến hạn hoặc có giao điểm trong khoảng; `support` (A, B) chỉ vào qua giao điểm hoặc làm chỗ thở; `minor` (C, D) chỉ khi thừa chỗ và không đẩy tình tiết của node `lead`.
+3. **Giao điểm** có ngày trong khoảng kéo thêm node tham gia; luật va chạm (`config/levels.md`, luật 1) chọn ai giữ nhịp.
+4. **Gốc:** nấc và trục nặng của giai đoạn (mục *Cung hiện sinh*); lấy câu gốc của trục nặng làm thước; ít nhất một tình tiết của node `lead` mang nấc ấy; nấc không lùi theo ngày.
+5. **Quá khứ:** niềm tin mà các tình tiết dự kiến tiêu thụ; niềm tin chưa được tiêu thụ là ứng viên; mảnh hồi tưởng chèn khi hiện tại chạm niềm tin.
+6. **Khoảng trống** (`gaps`) của node `lead` và `main` rơi vào khoảng thành pattern cho bước tổng hợp cốt truyện.
+7. **Register** `locked 28/10`: truyện không có văn phong mặc định chung; mỗi nhịp lấy register từ ô (node giữ nhịp × giai đoạn), tức mục `voice` của node (ma trận cũ: `rules/registers.md` §3). Ở giao điểm, node giữ nhịp quyết register của nhịp ấy; đổi register theo luật chuyển (`registers.md` §4). R8, R9 ngoài ô cần tác giả duyệt; kiểm liều theo giai đoạn (`registers.md` §5).
+
+**Đầu ra:** phạm vi tuyến của khoảng: node, mức và vai, tình tiết đến hạn, giao điểm, khoảng trống, niềm tin, register; và mục **không đụng** (node ngoài phạm vi). Cách viết blueprint: `guidelines/tasks/plan-chapter.md`.
+
+### Lối vào B: một yêu cầu, một ý mới, một thay đổi (từ dưới lên)
+
+1. **Node chủ là ai?** Không có thì: phục vụ trục nào? Có thì đề xuất node mới (`de-xuat/`); không thì hạ thành chất liệu (`kho/`).
+2. **Giai đoạn và mức** của node chủ quyết định độ nặng quy trình (`config/levels.md`, *Mức quyết định độ nặng quy trình*).
+3. **Lan truyền:** giao điểm chứa tình tiết → node khác mức ≥ S phải kiểm; niềm tin mà tình tiết tiêu thụ còn khớp không; dải hiện sinh có lùi nấc không; sổ "ai biết gì" có rò không; register của nhịp còn trong ô cho phép không.
+4. **Đầu ra:** danh sách node bị ảnh hưởng; `Q-` mới cho mọi chỗ chưa có đáp án.
+
 ## gaps
 
-- Ma trận mức, node gốc `THR`, `SOL`, `FAM`, khung node con, giao điểm: chặng T2.
+- Bảng tổng mức node × giai đoạn sinh tự động (`_views/matrix.md`): chưa có.
+- Nội dung các khung node và giao điểm: chặng T3 → T5 và các bước sau.

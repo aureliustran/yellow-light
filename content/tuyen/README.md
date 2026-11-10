@@ -1,5 +1,7 @@
 # Đèn vàng – Cây tuyến
 
+> **Đã chuyển (10/11).** Bản chính: `content/storylines/README.md` (id `TREE`: cây, trục, cung hiện sinh, luật, cây quyết định); mức theo giai đoạn ở frontmatter `weight` của từng node trong `content/storylines/`; giao điểm ở `content/storylines/intersections/X-001` … `X-018`; thang, vai, độ nặng quy trình ở `content/config/levels.md`, giai đoạn ở `content/config/phases.md`; khuôn ở `content/schemas/`. File này giữ để lần ngược; không sửa ở đây.
+
 Oct 26, 2026 · @aureliustran. Sửa Oct 28, 2026 (lối vào A thêm bước 7: chọn register). **[chốt 26/10]** cây tuyến là kiến trúc chính của tầng T1 và là cây quyết định ở cửa vào T2 (Q-030, Q-031 phương án M1). Khi lệch với `de-xuat/cay-tuyen.md`, file này thắng; `cay-tuyen.md` giữ lý do thiết kế.
 
 Mức có dấu `†` là mức tác giả đặt (25/10). Ô không có `†` là Claude gán, chốt 26/10 theo khuyến nghị Q-028; sửa từng ô nếu lệch.

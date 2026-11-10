@@ -6,6 +6,7 @@ status: proposed
 updated: 2026-11-10
 participants: ["[[CH.thuyen]]", "[[CH.nhi]]"]
 axes: [AX3, AX7, AX1, AX8]
+weight: {OPEN: B, P1: SS+, P2: SSS, BREAK: SS+, AFTER: S}
 aliases: [RM.TN, tuyến Thuyên – Nhi]
 sources: [hội thoại 10/11 (cái cân, lâu đài, hai cái vạch, cú giao nhau)]
 ---
@@ -52,6 +53,14 @@ Phiên bản lý tưởng của Thuyên nằm **bên trong lâu đài** của Nh
 
 - Thuyên, câu mẫu tự thoại (`01-rules-viet.md`): *"Liệu khán giả muốn nghe chuyện thật. Có thể. Không, chắc chắn là không: chuyện thật không có tiếng vỗ tay. Vì vậy, anh gõ lại câu ấy."*
 - Nhi ở summit (thẻ v1, ch.8 cũ): *"Bài nói rất hay. Anh có tin câu nào trong đó không?"*: cô nghe ra một bài nói được viết cho tiếng vỗ tay; tự thoại của cô (BL-045) muốn đúng điều ngược lại: tiếng vỗ tay mà sự thật giành được.
+
+## weight
+
+| OPEN | P1 | P2 | BREAK | AFTER | POST |
+| --- | --- | --- | --- | --- | --- |
+| B | SS+† | SSS† | SS+† | S |  |
+
+Từ ma trận `tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
 
 ## gaps
 

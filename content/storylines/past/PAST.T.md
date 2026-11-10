@@ -6,6 +6,7 @@ status: agreed
 updated: 2026-11-10
 participants: ["[[CH.thuyen]]"]
 axes: [AX1, AX2, AX3, AX4, AX5, AX7, AX9]
+weight: {OPEN: SSS, P1: A, P2: B, BREAK: A, AFTER: S}
 aliases: [QK.T, bảng neo Thuyên]
 sources: [tuyen/qua-khu/thuyen.md §0–3, §5 (bảng neo), config/calendar.md (lịch 31/10)]
 ---
@@ -44,7 +45,11 @@ Từ áp suất không (không ai nói "con đã cố") tới một chàng sinh 
 
 ## weight
 
-Đỉnh `SSS` (`thuyen.md`, đầu file). Mức theo giai đoạn: `OPEN` là giai đoạn kể chính của node; còn lại `needs-decision`.
+| OPEN | P1 | P2 | BREAK | AFTER | POST |
+| --- | --- | --- | --- | --- | --- |
+| SSS | A | B | A | S |  |
+
+Từ ma trận `tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
 
 ## voice
 
