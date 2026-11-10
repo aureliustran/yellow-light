@@ -18,13 +18,13 @@ sources: [hội thoại 10/11; rules/registers.md §2.6 (R10, chưa chuyển)]
 ## steps
 
 - **S1 · vị trí:** cuối khối tính toán R10, hoặc chen giữa khối đúng lúc anh nhìn thấy mục đích.
-- **S2 · hình:** một mảnh 1–2 câu. Mơ hồ thật: chỉ tư thế hoặc khung cảnh (đứng ở đâu, ai đang nhìn), không mặt mũi, không con số, không chi tiết rõ. Hình đổi theo mục đích của khối.
+- **S2 · hình:** một mảnh 1–2 câu. Mơ hồ thật sự: chỉ có tư thế hoặc khung cảnh (đứng ở đâu, ai đang nhìn), không diện mạo, không con số, không chi tiết rõ ràng. Hình dạng thay đổi theo mục đích của khối.
 - **S3 · cắt:** anh cắt bằng một câu phủ nhận ngắn, cùng khuôn cấp 1 (*Mẹ sai rồi. Không.*). Câu cắt nằm trong khối, không thành thoại.
 
 ## dials
 
 - Tần suất theo tâm thế: thưa khi `binh-yen`, dày hơn khi `tinh-toan`, `tham-vong` ([[SELF.thuyen]]).
-- Độ rõ: luôn mơ hồ; chỉ đổi khung cảnh, không bao giờ rõ thêm.
+- Độ rõ: luôn mơ hồ; chỉ thay đổi khung cảnh, không bao giờ trở nên rõ ràng hơn.
 
 ## fails
 
