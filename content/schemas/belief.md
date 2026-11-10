@@ -25,6 +25,8 @@ A monologue may have **stages**, each tagged with an age or phase:
 - `ngo-nhan` (misconception): the child's conclusion, usually an accusation, drawn straight from the wound.
 - `dien-giai` (interpretation): the same belief re-derived later through the objective lens, more general and more defensible.
 
+`seen` describes **only what the character sees**. It never limits what the reader is told: a belief with `seen: khong` can still reach the reader through narration, details, behaviour, or another character's POV, under the hide-or-tell rules (`01-rules-viet.md`, *Nguyên tắc chung*) `agreed 10/11`.
+
 An innate psychological effect that the character holds no thought about is **not a belief**: it goes to a function (`FN.*`) as a definition only.
 
 ## Fields

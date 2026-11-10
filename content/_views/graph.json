@@ -5633,6 +5633,11 @@
   },
   {
    "s": "SCH.belief",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.belief",
    "t": "goc",
    "type": "ref"
   },

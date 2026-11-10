@@ -10,6 +10,8 @@ sources: [tuyen/qua-khu/README.md §4, tuyen/qua-khu/thuyen.md §1, §4, §6, tu
 ---
 # CH.thuyen.beliefs · Niềm tin của Thuyên
 
+**Luật của gói** `locked 10/11`: tình thương, nhu cầu được ôm và nỗi cô độc luôn `seen: khong` suốt Phần 1; chúng chỉ có lớp định nghĩa, thuộc AX7 và AX8, và lộ qua hành vi (cái gối, những đêm khóc). `seen: khong` chỉ là nhân vật không nhìn thấy; người đọc vẫn được kể (lời kể, chi tiết, POV người khác) theo luật giấu hay nói. Lần đầu anh nói thành lời là ở hồi phục (ứng viên: *"Con tưởng giỏi thì được thương."*).
+
 Mỗi niềm tin là một mục `### BL-NNN`. Mã cũ `NT-nn` là alias (`NT-24` = `BL-024`). `consumed-by` sẽ sinh từ trường `beliefs` của tình tiết; cột *Tiêu thụ* dưới đây chép từ nguồn cũ, giữ tới khi tình tiết chuyển xong.
 
 **Dải số:** `BL-001` … `BL-033` của Thuyên. `BL-028` không dùng (nguồn cũ không có NT-28). `BL-040` … `BL-049` là của Nhi (QK.N). `BL-032`, `BL-033` là số mới cho hai niềm tin "NT mới" chưa có số.
