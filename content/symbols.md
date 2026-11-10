@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 109 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
+Có phần đầu (frontmatter): 110 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -20,7 +20,7 @@ Có phần đầu (frontmatter): 109 file. Chưa chuyển sang khuôn mới (leg
 | `FN.thuyen.adhd` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.adhd.md` | Tầng dưới cùng: hệ thần kinh chạy bằng hứng thú, dạng kết hợp. Không thay hai cái tôi, không thay đòn roi; mọi thứ khác đắp lên nó. |
 | `FN.thuyen.cai-goi` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.cai-goi.md` | Bộ phận bị khóa: cái gối, người duy nhất ở lại với con người thật nhất của anh. Cần được ôm, được nghe khóc, được ghi nhận cái cố. |
 | `FN.thuyen.cai-toi` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.cai-toi.md` | Hai cái tôi trên cùng một động cơ áp suất chênh lệch: cái tôi lành (cái cân, cố vì mình) và cái tôi độc (tiền mua tình thương, thuốc giảm… |
-| `FN.thuyen.lang-kinh` | `function` | `locked` | `world/characters/thuyen/mechanics/FN.thuyen.lang-kinh.md` | Lăng kính: thu nạp thông tin và phân tích khách quan, kể cả về chính anh. Mặt hành động là đọc người. Dùng vào đâu thì đổi theo cấp. |
+| `FN.thuyen.lang-kinh` | `function` | `locked` | `world/characters/thuyen/mechanics/FN.thuyen.lang-kinh.md` | Lăng kính: thu nạp thông tin và phân tích khách quan, kể cả về chính anh, trong vùng do một mục tiêu khoanh lại (việc này có phù hợp với … |
 | `FN.thuyen.luoi-co-chon-loc` | `function` | `locked` | `world/characters/thuyen/mechanics/FN.thuyen.luoi-co-chon-loc.md` | Cùng một phép tính chi phí – lợi ích, khác đầu vào: thành quả nhỏ thì lười, thành quả lớn thì cày. |
 | `FN.thuyen.nang-khieu` | `function` | `proposed` | `world/characters/thuyen/mechanics/FN.thuyen.nang-khieu.md` | Năng khiếu: nhìn ra cấu trúc giấu dưới bề mặt, học bằng liên kết. Lăng kính ở dạng sạch. |
 | `FN.thuyen.nhien-lieu` | `function` | `proposed` | `world/characters/thuyen/mechanics/FN.thuyen.nhien-lieu.md` | Nhiên liệu là sự công nhận; cái tôi độc là thuốc giảm đau. Liều đầu ngấm sâu, liều lặp nhạt, phải tăng liều. |
@@ -101,7 +101,7 @@ Có phần đầu (frontmatter): 109 file. Chưa chuyển sang khuôn mới (leg
 | `SCH.spec` | `schema` | `proposed` | `schemas/spec.md` | A specification page of the framework or the app. **Location:** `docs/**`. **Id:** `SPEC.<name>`. |
 | `SCH.technique` | `schema` | `proposed` | `schemas/technique.md` | A sentence- or paragraph-level method that achieves a law or a register. See [library](../../docs/framework/library.md). |
 | `SELF` | `node` | `agreed` | `storylines/self/SELF.md` | Gốc của các node `SELF.<id>`: mỗi nhân vật có hiện sinh một node, làm chủ thuộc tính nội tâm của người ấy theo giai đoạn. |
-| `SELF.thuyen` | `node` | `agreed` | `storylines/self/SELF.thuyen.md` | Làm chủ các thuộc tính nội tâm của [[CH.thuyen]] theo giai đoạn: `exl`, `cai-toi-doc`, `lang-kinh`, `cai-goi`, và giọng lời kể theo giai … |
+| `SELF.thuyen` | `node` | `agreed` | `storylines/self/SELF.thuyen.md` | Làm chủ các thuộc tính nội tâm của [[CH.thuyen]] theo giai đoạn: `exl`, `cai-toi-doc`, `lang-kinh`, `cai-goi`, `luc-keo`, `luc-day`, và g… |
 | `SPEC.adr-001` | `spec` | `agreed` | `docs/framework/adr/ADR-001-story-framework.md` | Before the framework (state of early November 2026): |
 | `SPEC.blueprints` | `spec` | `draft` | `docs/framework/blueprints.md` | Fields: `content/schemas/blueprint.md`, `edition.md`, `chapter.md`. |
 | `SPEC.editions` | `spec` | `locked` | `docs/plan-legacy.md` | Oct 20, 2026. Development plan. **Rollout steps 1 and 2 are built** (Oct 21, see "Status"). |
@@ -115,3 +115,4 @@ Có phần đầu (frontmatter): 109 file. Chưa chuyển sang khuôn mới (leg
 | `SPEC.rules-engine` | `spec` | `draft` | `docs/framework/rules-engine.md` | How rules are derived, scoped and combined. Fields: `content/schemas/article.md`, `content/schemas/law.md`. |
 | `SPEC.storylines` | `spec` | `draft` | `docs/framework/storylines.md` | Fields: `content/schemas/node.md`, `goal.md`, `event.md`, `intersection.md`. |
 | `SPEC.tooling` | `spec` | `draft` | `docs/framework/tooling.md` | `npm run canon:check` (`scripts/canon-check.mjs`, no dependencies) is the rule runner. It reads every entity under `content/` and every p… |
+| `TEC.interiority.ideal-self` | `technique` | `proposed` | `lib/interiority/TEC.interiority.ideal-self.md` | Đưa lực kéo ([[CH.thuyen.beliefs#BL-034]]) lên trang qua lời người kể. Phục vụ register R10 (khối nội tâm, `rules/registers.md` §2.6); `s… |

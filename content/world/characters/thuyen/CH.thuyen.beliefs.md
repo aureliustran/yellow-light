@@ -303,3 +303,12 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **origin:** nối lớp 9 sang lớp 10
 - **consumed (nguồn cũ):** gốc chuỗi tên lửa (FN.thuyen.lang-kinh)
 - **status:** `proposed (số mới 10/11)` · alias `NT-33`
+
+### BL-034
+
+- **statement:** Có một phiên bản của mình ở cuối đường, và khoảng cách tới đó đo được. Động cơ kéo. Anh phủ nhận nó (*Vớ vẩn.*) mà bản năng vẫn bật ra; hình dạng mơ hồ, đổi theo mục đích anh đang nhìn thấy.
+- **other-face:** none
+- **axis · step:** AX3
+- **origin:** `needs-decision` (cặp với BL-029, động cơ đẩy)
+- **consumed (nguồn cũ):** FN.thuyen.lang-kinh (`motive`); lên trang: [[TEC.interiority.ideal-self]]
+- **status:** mô hình `locked 10/11` · lời mẫu `proposed`

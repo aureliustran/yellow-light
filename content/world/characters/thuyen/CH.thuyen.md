@@ -89,10 +89,12 @@ Chỉ khai tên, tập giá trị và node chủ. Giá trị theo giai đoạn d
 | `exl` | nấc 1–9 của `SCALE.exl`, rồi `HP` (hồi phục) | `SELF.thuyen` | `thuyen-co-may.md` §4 · `locked 28/10` |
 | `lang-kinh` (hướng quay của lăng kính) | `vao-minh` · `vao-nguoi-yeu` · `ra-nhom` · `vao-ban-co` · `vao-khuyet-nguoi-khac` | `SELF.thuyen` | `M-he-gia-tri.md` §5.3 · `proposed` (tên giá trị) |
 | `cai-goi` (bộ phận bị khóa) | `khoa` (ba khóa còn) · `tran-trui` (gãy, hết nhiên liệu) · `mo` (có người ôm) | `SELF.thuyen` | `thuyen-co-may.md` §2 · `proposed` (tên giá trị) |
+| `luc-keo` (lực kéo của phép đo: khoảng cách tới phiên bản lý tưởng) | `cao` · `vua` · `thap` | `SELF.thuyen` | hội thoại 10/11 · `locked 10/11` (mô hình) · `proposed` (tên giá trị) |
+| `luc-day` (lực đẩy: tự ti, ám ảnh quá khứ) | `manh` · `yeu`; tính theo tâm thế (`binh-yen` → `yeu`; `tinh-toan`, `tham-vong` → `manh`) | `SELF.thuyen` | hội thoại 10/11 · `locked 10/11` (luật) · `proposed` (tên giá trị) |
 
 ## exports
 
-Thuộc tính ở trên; cơ chế: [[CH.thuyen.mechanics]] (12 hàm, 16 thiết bị); niềm tin `BL-001` … `BL-033`: [[CH.thuyen.beliefs]]; giọng nền: [[CH.thuyen.voice]].
+Thuộc tính ở trên; cơ chế: [[CH.thuyen.mechanics]] (12 hàm, 16 thiết bị); niềm tin `BL-001` … `BL-034`: [[CH.thuyen.beliefs]]; giọng nền: [[CH.thuyen.voice]].
 
 ## moved
 

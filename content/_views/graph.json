@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09",
+ "generated": "2026-11-10",
  "phases": [
   "OPEN",
   "P1",
@@ -758,6 +758,16 @@
    "status": "superseded",
    "weight": {},
    "effective": ""
+  },
+  {
+   "id": "TEC.interiority.ideal-self",
+   "path": "lib/interiority/TEC.interiority.ideal-self.md",
+   "title": "TEC.interiority.ideal-self · Phiên bản lý tưởng lóe trong khối nội tâm",
+   "layer": "lib",
+   "kind": "technique",
+   "status": "proposed",
+   "weight": {},
+   "effective": "OPEN → BREAK"
   },
   {
    "id": "lich-su-hoi-thoai",
@@ -2612,6 +2622,36 @@
  ],
  "edges": [
   {
+   "s": "ART.AX3",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "ART.AX3",
+   "t": "SELF.thuyen",
+   "type": "link"
+  },
+  {
+   "s": "TEC.interiority.ideal-self",
+   "t": "CH.thuyen",
+   "type": "applies-to"
+  },
+  {
+   "s": "TEC.interiority.ideal-self",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "TEC.interiority.ideal-self",
+   "t": "SELF.thuyen",
+   "type": "link"
+  },
+  {
+   "s": "TEC.interiority.ideal-self",
+   "t": "ART.AX3",
+   "type": "link"
+  },
+  {
    "s": "PAST.T-001",
    "t": "PAST.T",
    "type": "parent"
@@ -3078,13 +3118,28 @@
   },
   {
    "s": "SELF.thuyen",
+   "t": "ART.AX3",
+   "type": "link"
+  },
+  {
+   "s": "SELF.thuyen",
    "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "SELF.thuyen",
+   "t": "TEC.interiority.ideal-self",
    "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
    "t": "CH.thuyen",
    "type": "parent"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "TEC.interiority.ideal-self",
+   "type": "link"
   },
   {
    "s": "CH.thuyen",
@@ -3205,6 +3260,16 @@
    "s": "FN.thuyen.lang-kinh",
    "t": "CH.thuyen.mechanics",
    "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.lang-kinh",
+   "t": "ART.AX3",
+   "type": "link"
+  },
+  {
+   "s": "FN.thuyen.lang-kinh",
+   "t": "TEC.interiority.ideal-self",
+   "type": "link"
   },
   {
    "s": "FN.thuyen.luoi-co-chon-loc",
@@ -4964,6 +5029,11 @@
   {
    "s": "SPEC.old-architecture",
    "t": "GUIDE.old-workflow",
+   "type": "ref"
+  },
+  {
+   "s": "TEC.interiority.ideal-self",
+   "t": "registers",
    "type": "ref"
   },
   {
