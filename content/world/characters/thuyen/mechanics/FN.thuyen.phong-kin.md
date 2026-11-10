@@ -27,7 +27,7 @@ render    luật viết §6; DV-008 (bóc vỏ)
 
 ## notes
 
-- **Gốc của cổng: C6b** (lớp 11): "Tao số một tỉnh. Bố mạ không hiểu thì thiệt bố mạ." là lần cuối giọng nói về chính mình bằng *tao*; từ đó nó chỉ phán.
+- **Gốc của cổng: C6b** (lớp 11): "Tao số một tỉnh. Bố mẹ không hiểu thì thiệt bố mẹ." là lần cuối giọng nói về chính mình bằng *tao*; từ đó nó chỉ phán.
 - **Giọng = thằng bé ở cột lớp một** `locked 01/11`; nguồn duy nhất là sổ hai cột; mọi con số khớp *Sợ* (bốn bài, ba cái, lần thứ mười hai).
 - **Giáo lý kẻ mạnh** (viết lại bằng chữ của Thuyên, không chép câu ngoài): *Sợ còn hơn thương.* · *Mệt là của thằng gõ cổng.* · *Nghỉ thì nợ.* · *Không ai đến. Cổng không tự mở.* · *Cảm thấy gì kệ. Tay làm.* · *Trên một cái sân chỉ có một đứa mạnh nhất.* · *Thắng rồi thì cần gì.*
 - **GĐ2: phòng kín hỏng từng lớp** (đổi `cai-toi-doc` → phong-kin-hong → chiem-cho): (1) K1 mất; (2) cò dày lên, gọi không cần cò; (3) bộ dịch mòn; (4) nghi thức tắt mất; (5) kênh vỡ, giọng ra miệng mượn giọng cái tôi lành (16/7). Ghi ở `SELF.thuyen` (B3c).

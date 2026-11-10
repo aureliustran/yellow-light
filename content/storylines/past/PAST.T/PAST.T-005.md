@@ -6,7 +6,7 @@ status: agreed
 updated: 2026-11-10
 span: "lớp 4 (2013–14)"
 goal: "serves PAST.T.G1"
-event: "Mạ gỡ xương cá."
+event: "Mẹ gỡ xương cá."
 participants: ["[[CH.thuyen]]"]
 axis: [AX4]
 level: "EXL 2"
@@ -16,7 +16,7 @@ sources: [tuyen/qua-khu/thuyen.md §1–3]
 ---
 # PAST.T-005 · 1.4
 
-Mạ gỡ xương cá.
+Mẹ gỡ xương cá.
 
 - **cầu bằng vật:** xương cá trong bát
 - **móc hiện tại:** ROM.TN: dịu dàng là hành động, kèm câu che. Đặt cạnh 1.4b

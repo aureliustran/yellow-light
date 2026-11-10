@@ -19,7 +19,7 @@ sources: [hội thoại 10/11; rules/registers.md §2.6 (R10, chưa chuyển)]
 
 - **S1 · vị trí:** cuối khối tính toán R10, hoặc chen giữa khối đúng lúc anh nhìn thấy mục đích.
 - **S2 · hình:** một mảnh 1–2 câu. Mơ hồ thật: chỉ tư thế hoặc khung cảnh (đứng ở đâu, ai đang nhìn), không mặt mũi, không con số, không chi tiết rõ. Hình đổi theo mục đích của khối.
-- **S3 · cắt:** anh cắt bằng một câu phủ nhận ngắn, cùng khuôn cấp 1 (*Mạ sai rồi. Không.*). Câu cắt nằm trong khối, không thành thoại.
+- **S3 · cắt:** anh cắt bằng một câu phủ nhận ngắn, cùng khuôn cấp 1 (*Mẹ sai rồi. Không.*). Câu cắt nằm trong khối, không thành thoại.
 
 ## dials
 

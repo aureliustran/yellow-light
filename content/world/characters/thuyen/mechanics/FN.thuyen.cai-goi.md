@@ -25,7 +25,7 @@ render    DV-014 (quy cách cái gối), DV-015 (câu gối để dành), DV-004
 
 ## notes
 
-- **Quy cách giọng gối** (DV-014): giống mạ mà nhỏ hơn, chậm hơn; in nghiêng; chỉ dùng bộ chịu đựng; luôn có một con số đã đếm được (*Mười hai ngày*, *Bảy cái*).
+- **Quy cách giọng gối** (DV-014): giống mẹ mà nhỏ hơn, chậm hơn; in nghiêng; chỉ dùng bộ chịu đựng; luôn có một con số đã đếm được (*Mười hai ngày*, *Bảy cái*).
 - **Luật:** gối nói tối đa hai lần ở ch.2, một lần ở ch.3 (số chương của quãng 1); câu gối không bao giờ khen cái giỏi; không nhân vật nào nói câu thuộc bộ chịu đựng với anh trước hồi phục; không để anh thắng cuộc cãi trên trang trước đáy; chỉ là cảnh khóc và an ủi, không có tự gây đau.
 - **Ôm gối giữ suốt đời anh** `locked 27/10`. Mốc từng giai đoạn: bảng `thuyen.md` §6.3 → `SELF.thuyen`, `PAST.T` (B3c).
 

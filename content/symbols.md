@@ -66,15 +66,15 @@ Có phần đầu (frontmatter): 127 file. Chưa chuyển sang khuôn mới (leg
 | `PAST.T-002` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-002.md` | Tủ kính: tờ của chị họ đẩy tờ *tiên tiến* của anh vào trong. "Có tờ mới thì ra." |
 | `PAST.T-003` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-003.md` | Cuốn sách vũ trụ, tinh vân trong xe rác; đêm ấy cắn gối khóc. Sau cơn khóc ôm gối, tưởng tượng cái gối an ủi mình (phần gối: proposed). |
 | `PAST.T-004` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-004.md` | Cái phích vỡ; roi, nằm sấp. Ôm gối dưới ngực, cái gối "nói" (phần gối: proposed). |
-| `PAST.T-005` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-005.md` | Mạ gỡ xương cá. |
-| `PAST.T-006` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-006.md` | Mạ khen Nam. Đêm ấy anh hỏi gối "nếu con giỏi như anh Nam thì…", gối không trả lời (DV-016 bậc 1). |
+| `PAST.T-005` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-005.md` | Mẹ gỡ xương cá. |
+| `PAST.T-006` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-006.md` | Mẹ khen Nam. Đêm ấy anh hỏi gối "nếu con giỏi như anh Nam thì…", gối không trả lời (DV-016 bậc 1). |
 | `PAST.T-007` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-007.md` | Tờ nháp, lớp 6: hai tờ, một tờ cho người chấm, một tờ của mình. |
 | `PAST.T-008` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-008.md` | Khai sinh cái tôi lành: cô Toán cầm bài ngắn nhất lớp lên, "Cả lớp xem bạn Thuyên giải." Tai nóng, tay run, đêm ấy nhớ từng chữ. Cùng năm… |
 | `PAST.T-009` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-009.md` | Bài chín điểm, cãi đến cùng, bẻ roi, lớp 7. Đêm ấy: sổ hai cột, ghét thằng bé cột điện. |
 | `PAST.T-010` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-010.md` | Giấy khen, 47 lượt thích, lớp 8; giải huyện học ít vẫn có (vị trí: proposed); bác Hùng bình luận "con bác năm ngoái giải tỉnh rồi đó"; vỏ… |
 | `PAST.T-011` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-011.md` | Bài văn *Ước mơ của em*, 6,5; họp phụ huynh, "cục đất". |
 | `PAST.T-012` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-012.md` | Phiếu khảo sát tâm lý: trả lời thật thì không ai gọi. |
-| `PAST.T-013` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-013.md` | Phiếu thi chuyên ("Có rứa mới bằng con nhà người ta"), đỗ chuyên Toán thứ tư, mạ gọi sang nhà bác Hùng, Casio dây rộng. |
+| `PAST.T-013` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-013.md` | Phiếu thi chuyên ("Có rứa mới bằng con nhà người ta"), đỗ chuyên Toán thứ tư, mẹ gọi sang nhà bác Hùng, Casio dây rộng. |
 | `PAST.T-014` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-014.md` | Sân trọ: gà (ném vào chậu cây), anh Long, Kyrie, đổi tay qua người anh Long; tếu sinh (Ngạo + Trào vô hại). |
 | `PAST.T-015` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-015.md` | Ám ảnh luyện tập: 5 giờ, chạy, hít đất, hít xà; vở giáo án; cày sâu không cày rộng; học kỹ thuật nặng bằng ghép kỹ thuật nhỏ. |
 | `PAST.T-016` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-016.md` | Giải Nhất tỉnh môn Tin; đứng đầu kỳ chọn đội tuyển Tin; cày lén; giữ giáo án riêng. |

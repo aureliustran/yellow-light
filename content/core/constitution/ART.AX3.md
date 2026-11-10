@@ -37,7 +37,7 @@ Các điều lấy căn cứ ở **thành tố**, không ở câu gốc. Câu g�
 
 - **statement:** Bốn kiểu thước khác nhau, không gộp: hai vạch là mù; vạch dời không bao giờ đứng yên; cái cân là phần lành; phiên bản lý tưởng không bị xác nhận, cũng không bị chế giễu.
 - **basis:** kiểu thước
-- **forbids:** biến người lớn thế hệ đói rét thành ác nhân có chủ ý; người kể nói mạ thương ai hơn (`locked 30/10`); một thành tích làm người cầm vạch dời hài lòng hẳn (trước hồi phục), cảnh bố mẹ nói "thế là đủ" mà không dời vạch; chế giễu cái cân hay phiên bản lý tưởng như ảo tưởng; gộp cái cân (cái tôi lành) với cây thước (cái tôi độc); gộp vạch dời với phiên bản lý tưởng
+- **forbids:** biến người lớn thế hệ đói rét thành ác nhân có chủ ý; người kể nói mẹ thương ai hơn (`locked 30/10`); một thành tích làm người cầm vạch dời hài lòng hẳn (trước hồi phục), cảnh bố mẹ nói "thế là đủ" mà không dời vạch; chế giễu cái cân hay phiên bản lý tưởng như ảo tưởng; gộp cái cân (cái tôi lành) với cây thước (cái tôi độc); gộp vạch dời với phiên bản lý tưởng
 - **applies-to:** `PAST.T`, `FAM.T`, `CH.thuyen`; vạch dời: mọi giai đoạn trước `AFTER`
 - **status:** `locked 10/11`
 

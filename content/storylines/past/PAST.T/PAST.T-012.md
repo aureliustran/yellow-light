@@ -18,5 +18,5 @@ sources: [tuyen/qua-khu/thuyen.md §1–3]
 
 Phiếu khảo sát tâm lý: trả lời thật thì không ai gọi.
 
-- **cầu bằng vật:** điện thoại cũ màn nứt của mạ
+- **cầu bằng vật:** điện thoại cũ màn nứt của mẹ
 - **móc hiện tại:** khảo sát tháng 3; SOL.DT: chẩn đoán ở hồi phục

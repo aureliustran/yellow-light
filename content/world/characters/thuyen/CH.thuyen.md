@@ -21,10 +21,10 @@ Nam chính, POV chính. Một chàng trai giỏi đọc người, mù với chí
 | tuổi | 20 ở summit (T7 12/10/2024), 21 ở ch.0 (CN 27/7/2025); bảng lớp ↔ năm ↔ tuổi: `config/calendar.md` | `locked 31/10` |
 | học | lớp 1 năm 2010–11; chuyên Toán tỉnh (thi chuyên 6/2019); lớp 10–11 trong dịch (2019–21); lớp 12 năm 2021–22; đại học 2022, K67; năm ba ở summit | `locked 31/10` |
 | trường, ngành | Khoa học Máy tính, Trường Đại học Công nghệ, ĐHQGHN (UET); năm ba ở summit | `page` (ch.02, ch.05) |
-| quê | Hà Tĩnh: thẻ nhân vật v1; trên trang v2, mạ nói giọng Hà Tĩnh (04a) | `raw` (v1) · giọng nhà `page` |
+| quê | Hà Tĩnh: thẻ nhân vật v1; trên trang v2, mẹ nói giọng Hà Tĩnh (04a) | `raw` (v1) · giọng nhà `page` |
 | thân thể | cao 1m83; đánh bóng rổ rất hay nhưng có người hay hơn, top 2–7 tùy tối; lối chơi Kyrie, isolate, makeplay, bait; ít nói lúc đánh | `locked 30/10` (chiều cao) · `locked 20/10` (sân) |
 | thần kinh | ADHD dạng kết hợp; bố mẹ không biết; không người lớn nào nghi. Tầng dưới cùng mà mọi thứ khác đắp lên | `locked 01/11` (dạng, bố mẹ không biết) · `proposed` (phần còn lại) |
-| gia đình | con cả, có một em trai là **Khánh** (quậy, "nghịch mà khôn", ích kỉ vô tư); mạ, bố; bác Hùng và anh họ Nam (đối chứng) | `locked 30/10` · tên Khánh `locked 10/11` |
+| gia đình | con cả, có một em trai là **Khánh** (quậy, "nghịch mà khôn", ích kỉ vô tư); mẹ, bố; bác Hùng và anh họ Nam (đối chứng) | `locked 30/10` · tên Khánh `locked 10/11` |
 | em trai Khánh | sinh 2009, kém Thuyên 5 tuổi (ra đời khi anh học mầm non lớn); 15 tuổi, lớp 10 ở summit; dưới 18 suốt Phần 1 (`LAW.under-18` áp cho mọi cảnh có em) | `proposed 10/11` (theo khoảng 4–5 tuổi đã đề xuất ở `thuyen.md` §6.9) |
 | vẻ ngoài, gu | Casio, Crocs, ảnh aesthetic; tự làm tự ăn, biết trân trọng thứ mình có | `raw` (bible §4.1 "lõi") |
 | nơi làm ở hiện tại | lab ở Astrea Technology (tầng 17–18), từ T2 28/10/2024 | `proposed` (ngày suy ra) |

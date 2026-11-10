@@ -43,7 +43,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **statement:** Thương bằng vật; tự lừa "chắc tiện tay".
 - **other-face:** none
 - **axis · step:** EXL 2 · AX4
-- **origin:** PAST.T 1.4: mạ gỡ xương cá
+- **origin:** PAST.T 1.4: mẹ gỡ xương cá
 - **consumed (nguồn cũ):** ROM.TN: dịu dàng là hành động, kèm một câu che
 - **status:** `agreed` · alias `NT-04`
 
@@ -235,7 +235,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **children:** BL-014, BL-025
 - **other-face:** có người trân trọng thứ anh chia sẻ; anh khóc và được ôm (một cỗ máy không khóc)
 - **axis · step:** EXL 4 · AX4, AX7, AX8, AX3
-- **origin:** PAST.T 1.9 (câu của mạ với bác Hùng: "Học thì được, mà người thì như cục đất", legacy ch.3 *Tiếng dép*)
+- **origin:** PAST.T 1.9 (câu của mẹ với bác Hùng: "Học thì được, mà người thì như cục đất", legacy ch.3 *Tiếng dép*)
 - **consumed (nguồn cũ):** Trào-thước; đáy Phần 1; quân sư (FN.thuyen.quan-su); Nhi gọi tên cảm xúc cho anh (FN.nhi.cam)
 - **status:** `locked 10/11` · alias `NT-22`, "Mình vốn là đất"
 
@@ -253,7 +253,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **statement:** **Giỏi thì được thương.** Niềm tin gốc của PAST.T.
 - **other-face:** khao khát được ôm, được nghe khóc, được ghi nhận vì đã cố và đã chịu (cái gối, FN.thuyen.cai-goi)
 - **axis · step:** EXL 2 · AX3, AX7
-- **origin:** mầm PAST.T 1.1b (tủ kính lớp 1); kết tinh 1.4b (mạ khen Nam, lớp 4–5)
+- **origin:** mầm PAST.T 1.1b (tủ kính lớp 1); kết tinh 1.4b (mẹ khen Nam, lớp 4–5)
 - **consumed (nguồn cũ):** FN.thuyen.phuong-trinh; mọi node
 - **status:** `locked 27/10` · alias `NT-24`
 

@@ -81,8 +81,8 @@ Bảng sinh tay tạm, cho tới khi `canon:check` sinh từ các lá:
 | [[PAST.T-002]] | 1.1b | lớp 1 (2010–11) | Tủ kính: tờ của chị họ đẩy tờ *tiên tiến* của anh vào trong. 'Có tờ mớ… | `agreed` |
 | [[PAST.T-003]] | 1.2 | lớp 3 (2012–13), 8 tuổi | Cuốn sách vũ trụ, tinh vân trong xe rác; đêm ấy cắn gối khóc. Sau cơn… | `agreed` |
 | [[PAST.T-004]] | 1.3 | lớp 4 (2013–14) | Cái phích vỡ; roi, nằm sấp. Ôm gối dưới ngực, cái gối 'nói' (phần gối:… | `agreed` |
-| [[PAST.T-005]] | 1.4 | lớp 4 (2013–14) | Mạ gỡ xương cá. | `agreed` |
-| [[PAST.T-006]] | 1.4b | lớp 4–5 (2013–15) | Mạ khen Nam. Đêm ấy anh hỏi gối 'nếu con giỏi như anh Nam thì…', gối k… | `proposed` |
+| [[PAST.T-005]] | 1.4 | lớp 4 (2013–14) | Mẹ gỡ xương cá. | `agreed` |
+| [[PAST.T-006]] | 1.4b | lớp 4–5 (2013–15) | Mẹ khen Nam. Đêm ấy anh hỏi gối 'nếu con giỏi như anh Nam thì…', gối k… | `proposed` |
 | [[PAST.T-007]] | 1.5 | 2015-12 | Tờ nháp, lớp 6: hai tờ, một tờ cho người chấm, một tờ của mình. | `agreed` |
 | [[PAST.T-008]] | 1.6 | lớp 6 (2015–16) | Khai sinh cái tôi lành: cô Toán cầm bài ngắn nhất lớp lên, 'Cả lớp xem… | `proposed` |
 | [[PAST.T-009]] | 1.7 | 2017-04 | Bài chín điểm, cãi đến cùng, bẻ roi, lớp 7. Đêm ấy: sổ hai cột, ghét t… | `agreed` |
