@@ -4,13 +4,13 @@ kind: character
 status: locked
 updated: 2026-11-10
 aliases: [niềm tin Nhi, NT Nhi]
-exports: [BL-040, BL-041, BL-042, BL-043, BL-044]
+exports: [BL-040, BL-041, BL-042, BL-043, BL-044, BL-045]
 parent: "[[CH.nhi]]"
 sources: [tuyen/qua-khu/nhi.md §2, §3 (locked 31/10), §4; hội thoại 10/11 (khuôn hai lớp, luật từ phức)]
 ---
 # CH.nhi.beliefs · Niềm tin của Nhi
 
-Khuôn hai lớp (`schemas/belief.md`): lớp định nghĩa (bắt buộc) và tự thoại (tùy chọn, là công cụ thiết kế, chép lên trang là tùy chọn). Mã cũ `NT-nn` là alias (`NT-40` = `BL-040`). Dải của Nhi: `BL-040` … `BL-044`; `BL-045` … `BL-049` để dành cho hội đồng trong quá khứ (`PAST.N.HD`). Cột *Tiêu thụ* chép từ nguồn cũ, giữ tới khi tình tiết chuyển xong.
+Khuôn hai lớp (`schemas/belief.md`): lớp định nghĩa (bắt buộc) và tự thoại (tùy chọn, là công cụ thiết kế, chép lên trang là tùy chọn). Mã cũ `NT-nn` là alias (`NT-40` = `BL-040`). Dải của Nhi: `BL-040` … `BL-045`; `BL-046` … `BL-049` để dành cho hội đồng trong quá khứ (`PAST.N.HD`). Cột *Tiêu thụ* chép từ nguồn cũ, giữ tới khi tình tiết chuyển xong.
 
 **Giọng tự thoại của Nhi** `agreed 10/11`: xưng "mình"; từ phức là đa số (luật từ phức); tư duy đường thẳng, chuỗi suy luận ngắn, không lập luận nhiều bước (`CH.nhi` `rules` 3); gọi tên được cảm xúc nhưng gán sai nguyên nhân ([[FN.nhi.cam]]), và kiểu gán sai ấy không lặp ở mọi niềm tin.
 
@@ -68,6 +68,21 @@ Khuôn hai lớp (`schemas/belief.md`): lớp định nghĩa (bắt buộc) và 
 - **origin:** Khải thu xếp những việc nhỏ suốt từ bé; PAST.N N.7 (món đồ đầu tiên cô bán bị gia đình "giúp" tới mức không còn là của cô)
 - **consumed (nguồn cũ):** ch.01, ch.05 (Thuyên đọc trúng bề mặt mà sai); 4b (Khải dọn tấm thiệp); 5b (việc dọn cho cô cái ghế hàng hai); ngày gãy; Phần 4
 - **status:** `locked 10/11` · alias `NT-41`
+
+### BL-045
+
+- **gap:** cái vạch Nhi tự vẽ trên cái cân của mình (lực kéo, gương với BL-034 của Thuyên) chưa định nghĩa xong (tác giả, 10/11). Mọi file nhắc tới BL-045 đều bị `canon:check` cảnh báo.
+- **cluster:** C1
+- **draft (tác giả, 10/11, chưa chốt):** cái cân của Nhi đẩy cô về một phiên bản không có lâu đài: làm những điều cô thích, cô muốn mà không cần lâu đài; chờ người khác đến nói sự thật; cô thích việc người ta thật sự nghĩ gì về thứ cô thích và về việc cô làm điều mình thích.
+
+  | | Vạch của Thuyên (BL-034) | Vạch của Nhi |
+  | --- | --- | --- |
+  | bản chất | cột mốc trong một quá trình dài hạn | hoàn thành một quá trình ngắn hạn |
+  | hình dạng | mơ hồ; cột mốc cuối của một quá trình tăng lên (*vertical scaling*); độ khó tăng dần | rõ ràng; đổi mục tiêu mỗi khi đạt được (*horizontal scaling*); độ khó thường dễ, đều |
+  | trải nghiệm | tiêu cực | tích cực |
+  | người khác | không được có quyền phán xét anh (tấm khiên) | phải phán xét thật (cô chờ người nói thật) |
+
+- **status:** `needs-decision`
 
 ## C2 · Người mình muốn
 

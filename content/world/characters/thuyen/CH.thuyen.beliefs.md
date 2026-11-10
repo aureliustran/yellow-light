@@ -212,7 +212,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### BL-034
 
 - **cluster:** C2 (cũng C5: lực kéo của chặng thuốc giảm đau)
-- **definition:** Có một phiên bản của mình ở cuối đường, và khoảng cách tới đó đo được. Động cơ kéo; cặp với BL-029 (động cơ đẩy). Hình dạng mơ hồ, đổi theo mục đích anh đang nhìn thấy; anh phủ nhận nó mà bản năng vẫn bật ra. Phép đo khoảng cách vẫn đúng; vạch đích thì nỗi sợ góp tay đặt ([[ART.AX3]] .3).
+- **definition:** Có một phiên bản của mình ở cuối đường, và khoảng cách tới đó đo được. Động cơ kéo; cặp với BL-029 (động cơ đẩy). Hình dạng mơ hồ, đổi theo mục đích anh đang nhìn thấy; anh phủ nhận nó mà bản năng vẫn bật ra. **Hình dạng** `locked 10/11`: cột mốc trong một quá trình dài hạn; mơ hồ; là cột mốc cuối của một quá trình tăng lên (*vertical scaling*): mỗi lần đổi mục đích là lên một bậc trên cùng một trục, độ khó tăng dần; trải nghiệm tiêu cực, vì mỗi cột mốc đạt được chỉ cho thấy quãng đường còn lại. Gương với vạch của Nhi (BL-045 của Nhi, đang để trống): hoàn thành từng quá trình ngắn, đổi mục tiêu sang ngang (*horizontal scaling*), độ khó dễ đều, trải nghiệm tích cực. Phép đo khoảng cách vẫn đúng; vạch đích thì nỗi sợ góp tay đặt ([[ART.AX3]] .3).
 - **ref:** `câu` · Karen Horney, *Neurosis and Human Growth* (1950), "the tyranny of the should": *"Forget about the disgraceful creature you actually are; this is how you should be."* (https://myweb.rollins.edu/jsiry/HorneyTyranny.html)
 - **deviation:** hình ảnh lý tưởng của Horney rực rỡ và được tôn thờ; của Thuyên mơ hồ, bị chính anh phủ nhận, đổi hình theo mục đích; người bệnh của Horney tự đo méo, Thuyên đo đúng.
 - **seen:** `nua`
