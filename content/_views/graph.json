@@ -2623,6 +2623,11 @@
  "edges": [
   {
    "s": "ART.AX3",
+   "t": "FN.thuyen.lang-kinh",
+   "type": "link"
+  },
+  {
+   "s": "ART.AX3",
    "t": "CH.thuyen.beliefs",
    "type": "link"
   },

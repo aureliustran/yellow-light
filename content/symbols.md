@@ -7,7 +7,7 @@ Có phần đầu (frontmatter): 110 file. Chưa chuyển sang khuôn mới (leg
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
 | `ART.0` | `constitution` | `locked` | `core/constitution/ART.0.md` | Căn cứ cho các luật không sinh từ một trục: hình thức, khối hiển thị, xưng hô, giọng địa phương, ranh dưới 18 tuổi, cấu trúc. **Bản nháp … |
-| `ART.AX3` | `constitution` | `proposed` | `core/constitution/ART.AX3.md` | **Bản nháp của Claude, chờ tác giả duyệt từng điều.** Điều nào chưa duyệt là `proposed`. Luật giai đoạn lấy căn cứ ở đây (`basis`). |
+| `ART.AX3` | `constitution` | `proposed` | `core/constitution/ART.AX3.md` | Các điều lấy căn cứ ở **thành tố**, không ở câu gốc. Câu gốc là lời kể, chỉ kể được thước của người khác; nó nằm ở `samples`. Luật giai đ… |
 | `CFG.calendar` | `config` | `proposed` | `config/calendar.md` | Một nguồn duy nhất cho ngày tháng. Luật `LAW.check.weekday` kiểm mọi ngày trong tài liệu theo file này. |
 | `CFG.ids` | `config` | `proposed` | `config/ids.md` | Dùng cho (1) script đổi mã ở B7, (2) `aliases` trong Obsidian để tìm bằng mã cũ vẫn ra, (3) `LAW.check.unique-id`. Chưa đổi mã nào ở B1; … |
 | `CFG.levels` | `config` | `proposed` | `config/levels.md` | Mức đo **độ cần thiết** của một tuyến, node hoặc giao điểm đối với truyện **trong một giai đoạn**. Không đo độ hay của chất liệu. |

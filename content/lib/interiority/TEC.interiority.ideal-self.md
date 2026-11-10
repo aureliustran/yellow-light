@@ -28,7 +28,7 @@ sources: [hội thoại 10/11; rules/registers.md §2.6 (R10, chưa chuyển)]
 
 ## fails
 
-- Người kể xác nhận hình ấy là đáng, hoặc chế giễu nó ([[ART.AX3]] .1, .5).
+- Người kể xác nhận hình ấy là đáng, hoặc chế giễu nó ([[ART.AX3]] .1, .2).
 - Lẫn sang R9: đắng là giọng cái tôi độc; phiên bản lý tưởng là thứ anh thèm, không phải thứ anh hằn học.
 - Hình rõ như một kế hoạch: thành mục tiêu, mất tính bản năng.
 - Không có câu cắt: anh thành người thừa nhận tham vọng, sai với G3 (mù với động cơ).
