@@ -41,9 +41,12 @@ An innate psychological effect that the character holds no thought about is **no
 | `other-face` | what makes it false or void |
 | `axis` | the axis `AX` it runs on |
 | `parent` | for a tactic: the core belief it derives from |
+| `cluster` | the cluster (`C<n>`) the belief answers; one primary cluster, others noted after it |
 | `origin` | the past event that produced it (`[[PAST.T-031]]`) |
 | `status` | `config/statuses.md` |
 
 `consumed-by` is generated from events' `beliefs` field. A belief no event consumes is listed as *waiting*: a candidate for planning.
+
+**Clusters** `agreed 10/11`: beliefs are grouped by the existential question the character answers, not by axis. Each cluster is a `## C<n> · <name>` section in the beliefs file with `question`, `root`, `axes` and a shared `definition`; members follow in age order. A cluster may be definition-only (a question the character never asks, all `seen: khong`).
 
 A belief shared by several characters still has **one** owning character; others `uses` it.

@@ -19,7 +19,7 @@ body      NGẠO  niềm tin thật "mình mạnh", dữ kiện thật, giọng 
           SONG  cả hai trong một hơi, cả hai đều đúng; chiều Ngạo→Trào là đệm, chiều Trào→Ngạo là nguy hiểm
 out       câu đùa; người nghe cười
 effects   không ai trấn an thật; lời khen không vào được; phán quyết của bố mẹ thành của anh
-uses      BL-012, BL-013 "Nói thật bằng giọng đùa thì không ai bắt bẻ", BL-007
+uses      BL-011 (ba dạng: cười trước, đùa xong, nói thật bằng giọng đùa), BL-007
 render    DV-008 (tếu sau cú chạm, bóc vỏ, người bắt được van xả)
 ```
 

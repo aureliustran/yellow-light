@@ -3438,12 +3438,7 @@
   },
   {
    "s": "CH.thuyen.beliefs",
-   "t": "FN.thuyen.lang-kinh",
-   "type": "link"
-  },
-  {
-   "s": "CH.thuyen.beliefs",
-   "t": "FN.thuyen.quan-su",
+   "t": "PAST.T-011",
    "type": "link"
   },
   {
@@ -3453,27 +3448,7 @@
   },
   {
    "s": "CH.thuyen.beliefs",
-   "t": "FN.thuyen.nang-khieu",
-   "type": "link"
-  },
-  {
-   "s": "CH.thuyen.beliefs",
-   "t": "CH.thuyen.mechanics",
-   "type": "link"
-  },
-  {
-   "s": "CH.thuyen.beliefs",
-   "t": "PAST.T-011",
-   "type": "link"
-  },
-  {
-   "s": "CH.thuyen.beliefs",
-   "t": "SELF.thuyen",
-   "type": "link"
-  },
-  {
-   "s": "CH.thuyen.beliefs",
-   "t": "TEC.interiority.ideal-self",
+   "t": "FN.thuyen.lang-kinh",
    "type": "link"
   },
   {
@@ -3484,6 +3459,36 @@
   {
    "s": "CH.thuyen.beliefs",
    "t": "FN.thuyen.luoi-co-chon-loc",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "TEC.interiority.ideal-self",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "CH.thuyen.mechanics",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "FN.thuyen.teu",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "SELF.thuyen",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "FN.thuyen.quan-su",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "FN.thuyen.nang-khieu",
    "type": "link"
   },
   {
