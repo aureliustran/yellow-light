@@ -3443,12 +3443,22 @@
   },
   {
    "s": "CH.thuyen.beliefs",
+   "t": "FN.thuyen.cai-goi",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
    "t": "FN.thuyen.nang-khieu",
    "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
    "t": "CH.thuyen.mechanics",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "PAST.T-011",
    "type": "link"
   },
   {

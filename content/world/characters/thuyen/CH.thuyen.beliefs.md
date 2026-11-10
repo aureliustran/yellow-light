@@ -18,12 +18,18 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-001
 
-- **statement:** Ý mình không được nói là đúng.
+- **definition:** Lời anh nói, dù đúng, không được tin chỉ vì người nói là anh; người lớn không lắng nghe để kiểm chứng, họ có kết luận trước khi anh mở lời. Khác BL-033: 033 là *vị thế* (cái đúng cần chỗ cao); 001 là *được nghe*, nửa "không được nghe" của AX7.
+- **ref:** `ý` · Miranda Fricker (2007), *Epistemic Injustice*: *testimonial injustice*, lời nói bị trừ độ tin cậy vì danh tính của người nói (https://iep.utm.edu/epistemic-injustice/)
+- **deviation:** Fricker coi đó là lỗi của người nghe; Thuyên coi đó là sự thật về giá trị lời mình, và rút ý vào bên trong đầu.
+- **seen:** `thay`
+- **monologue:**
+  - `ngo-nhan` · lớp 1–2: *Người lớn không lắng nghe để kiểm chứng; họ đã có kết luận trước khi mình mở lời. Vậy nói ra không nhằm mục đích được hiểu, vì không ai đang lắng nghe. Ý của mình chỉ có giá trị ở bên trong đầu mình.*
+- **children:** BL-026
 - **other-face:** none
-- **axis · step:** EXL 1 · AX4
+- **axis · step:** EXL 1 · AX7, AX4
 - **origin:** PAST.T 1.1: đếm bánh chưng, Tết lớp 1–2
 - **consumed (nguồn cũ):** ROM.TN: dịu dàng không thừa nhận; khuôn E2
-- **status:** `agreed` · alias `NT-01`
+- **status:** `locked 10/11` · alias `NT-01`
 
 ### BL-002
 
@@ -40,12 +46,16 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-004
 
-- **statement:** Thương bằng vật; tự lừa "chắc tiện tay".
+- **definition:** Khi nhận được tình thương không gắn với thành tích, anh gán nó cho thói quen để phương trình của BL-024 đứng vững. Mẹo gạt phản chứng, con của 024.
+- **seen:** `thay`
+- **monologue:**
+  - `ngo-nhan` · lớp 4: *Mẹ làm một việc tử tế cho mình, nhưng không nói gì. Nếu đó là tình thương thì phương trình của mình sai, vì hôm ấy mình không làm được gì đáng được công nhận. Vậy có lẽ đó chỉ là thói quen, là sự tiện tay. Giải thích như vậy hợp lý hơn.*
+- **parent:** BL-024
 - **other-face:** none
-- **axis · step:** EXL 2 · AX4
+- **axis · step:** EXL 2 · AX7, AX4
 - **origin:** PAST.T 1.4: mẹ gỡ xương cá
 - **consumed (nguồn cũ):** ROM.TN: dịu dàng là hành động, kèm một câu che
-- **status:** `agreed` · alias `NT-04`
+- **status:** `locked 10/11` · alias `NT-04`
 
 ### BL-005
 
@@ -177,12 +187,17 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-017
 
-- **statement:** Có ích thì chịu được; được thương thì không.
+- **definition:** Giúp người khác thì anh biết chính xác giá trị của mình; được thương vô điều kiện thì không phép tính nào giải thích được, và với anh nó thành một khoản nợ. Gốc của khóa 3 cái gối (sợ lòng tốt, [[FN.thuyen.cai-goi]]). **Giá:** làm quân sư cho người khác được, nhận lại thì không.
+- **ref:** `ý` · John Bowlby, *compulsive self-reliance* (tự lực cưỡng bách, gắn bó né tránh)
+- **deviation:** người né tránh rút lui khỏi quan hệ; Thuyên không rút lui, anh ở lại bằng cách trở nên hữu ích.
+- **seen:** `thay`
+- **monologue:**
+  - `dien-giai` · lớp 11 (*Biết ơn*): *Khi mình giúp ai đó, mình biết chính xác giá trị của mình: mình có ích, và sự có mặt của mình được biện minh. Khi ai đó thương mình mà không cần mình làm gì, thì không có phép tính nào giải thích được. Một khoản không rõ nguồn gốc là một khoản nợ không biết bao giờ phải trả. Vậy mình chịu được việc trở nên hữu ích; mình không chịu được việc được yêu thương.*
 - **other-face:** none
-- **axis · step:** EXL 5 · AX2, AX8
+- **axis · step:** EXL 5 · AX7, AX2, AX8
 - **origin:** PAST.T *Biết ơn* (lớp 11)
 - **consumed (nguồn cũ):** quân sư (giúp được, không nhận được); hồi phục: lần đầu nhận
-- **status:** `proposed` · alias `NT-17`
+- **status:** `locked 10/11` · alias `NT-17`
 
 ### BL-018
 
@@ -250,12 +265,21 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-024
 
-- **statement:** **Giỏi thì được thương.** Niềm tin gốc của PAST.T.
-- **other-face:** khao khát được ôm, được nghe khóc, được ghi nhận vì đã cố và đã chịu (cái gối, FN.thuyen.cai-goi)
-- **axis · step:** EXL 2 · AX3, AX7
-- **origin:** mầm PAST.T 1.1b (tủ kính lớp 1); kết tinh 1.4b (mẹ khen Nam, lớp 4–5)
+- **definition:** Tình thương là phần thưởng của năng lực; chưa được thương nghĩa là chưa đủ giỏi. Niềm tin gốc của PAST.T. **Đúng một nửa:** mẹ công nhận Nam vì Nam giỏi; nhà ấm lên sau mỗi thành tích. **Che:** khả năng mẹ không biết cách thương anh; nếu đúng vậy thì không có gì để sửa, và với người chỉ có công cụ "sửa" điều đó không chịu nổi. **Giá:** sự công nhận không chạm tới được người; ai thương anh thật thì anh không nhận (017). **Bài văn *Ước mơ của em*** (lớp 9) là lần đầu niềm tin này thành chữ: cô chấm "tư tưởng tiêu cực, thiếu niềm tin vào cuộc sống", còn anh biết đó là thứ anh tin trọn nhất; câu kết "Vì vậy, em ước mơ trở thành kỹ sư" nối 024 với BL-002: ước mơ bị vứt đi để đổi lấy tình thương.
+- **ref:** `ý` · Carl Rogers, *conditions of worth*; Assor, Roth, Deci (2004), cái giá cảm xúc của tình thương có điều kiện (đã ở "Họ ý" của H7)
+- **deviation:** đứa trẻ trong các mô hình ấy kết luận "mình không đáng"; Thuyên kết luận "mình **chưa** đủ" và biến vết thương thành một bài toán (nét Ngạo, nét hỏi tại sao).
+- **seen:** `thay` đến lớp 11; `khong` từ lab (chỉ còn danh sách việc)
+- **monologue:**
+  - `ngo-nhan` · lớp 1: *Sự trân trọng của người lớn dành cho thành tích, không dành cho con người. Người được công nhận là người làm được điều gì đó; người chưa làm được gì thì chưa có lý do để được yêu thương. Vậy mình phải làm được điều gì đó trước đã.*
+  - `ngo-nhan` · lớp 4–5: *Sự công nhận mẹ dành cho anh Nam không đến từ việc anh ấy là anh Nam, mà từ việc anh ấy giỏi. Nếu tình thương đi theo năng lực, thì việc mình chưa được thương chỉ có nghĩa là mình chưa đủ giỏi. Đây không phải là bất công; đây là một bài toán, và bài toán thì có lời giải.*
+  - `dien-giai` · lớp 9, theo sườn bài văn *Ước mơ của em*: *Tình thương là sự nuôi dưỡng mà một đứa trẻ nhận được từ những người xung quanh. Những đứa trẻ được yêu thương nhiều là những đứa trẻ làm được điều người xung quanh công nhận: điểm số, giải thưởng, một tương lai mà họ có thể kể cho người khác nghe. Thứ mình yêu không đem lại một kết quả nào họ công nhận được, nên nó không được nuôi dưỡng, và mình cũng vậy. Một đứa trẻ đi ngược kỳ vọng của những người nuôi nó thì sẽ bị vùi dập. Vì vậy, mình sẽ trở thành người giỏi, theo đúng cách họ công nhận.*
+  - `dien-giai` · lớp 11: *Tình thương là phần thưởng của năng lực. Không ai yêu thương một người vô dụng, và không có lý do gì để kỳ vọng điều ngược lại. Mỗi sự công nhận là một khoản ghi nhận tạm thời, có hiệu lực cho đến khi thành tích kế tiếp xuất hiện. Muốn duy trì nó thì phải tăng trưởng liên tục.*
+- **children:** BL-004, BL-007
+- **other-face:** khao khát được ôm, được nghe khóc, được thừa nhận vì đã cố và đã chịu (cái gối, FN.thuyen.cai-goi)
+- **axis · step:** EXL 2 · AX7, AX3
+- **origin:** mầm PAST.T 1.1b (lớp 1); kết tinh 1.4b (mẹ công nhận Nam, lớp 4–5); thành chữ ở [[PAST.T-011]] (bài văn, lớp 9)
 - **consumed (nguồn cũ):** FN.thuyen.phuong-trinh; mọi node
-- **status:** `locked 27/10` · alias `NT-24`
+- **status:** `locked 10/11` · alias `NT-24`, "Giỏi thì được thương"
 
 ### BL-025
 
@@ -269,12 +293,18 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-026
 
-- **statement:** Muốn biết thì tự học. Hỏi là bị mắng.
+- **definition:** Câu hỏi bị trừng phạt, nên kiến thức phải tự tìm. Về sau anh thành người chỉ cho người khác thứ mình chưa từng được chỉ. Con của 001.
+- **ref:** `câu` · Kant, *Trả lời câu hỏi: Khai sáng là gì?* (1784): *"Sapere aude! Have courage to use your own understanding!"* (https://users.manchester.edu/FacStaff/SSNaragon/Kant/lp/Readings/Kant,%20Enlightenment.html)
+- **deviation:** với Kant, tự dùng trí tuệ là lòng can đảm thoát khỏi sự giám hộ; với Thuyên, đó là tự chủ do bị bỏ rơi, không phải do can đảm.
+- **seen:** `thay`
+- **monologue:**
+  - `ngo-nhan` · quãng 1: *Mỗi câu hỏi là một lần thừa nhận mình không biết, và mỗi lần thừa nhận như vậy đều bị trừng phạt. Vậy kiến thức không đến từ việc hỏi, mà từ việc tự tìm tòi. Mình sẽ không hỏi ai nữa; thứ gì muốn biết, mình tự học.*
+- **parent:** BL-001
 - **other-face:** none
-- **axis · step:** EXL 2→3
+- **axis · step:** EXL 2→3 · AX7
 - **origin:** PAST.T quãng 1: xe đạp (QT-04), ba lần xin người nghe (QT-12), bài toán không ai chỉ (QT-27)
 - **consumed (nguồn cũ):** anh thành người chỉ cho người khác thứ mình chưa từng có: giáo án Tin, dạy Nhi, quân sư cho Phong
-- **status:** `proposed` · alias `NT-26`
+- **status:** `locked 10/11` · alias `NT-26`
 
 ### BL-027
 
