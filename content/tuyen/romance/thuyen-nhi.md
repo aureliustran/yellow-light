@@ -1,5 +1,7 @@
 # RM.TN · Thuyên – Nhi
 
+> **Đã chuyển (T4, 10/11).** Bản chính: `content/storylines/ROM/ROM.TN/` (node, lá ROM.TN-001, ROM.TN-002); văn bản cảnh mẫu ở `claude/ban-nhap/rom-tn/`; bài học viết ở `content/lib/humor/TEC.humor.want-clash.md`. File này giữ để lần ngược; không sửa ở đây.
+
 Cha: RM · Trục: H1, H3, H7 · Mức: MĐ B · GĐ1 SS+ · GĐ2 SSS · GÃY SS+ · HP S
 Thẻ: chưa có (`tuyen/qua-khu/thuyen.md`, `tuyen/qua-khu/nhi.md` làm nền)
 Register mặc định: GĐ1 R1, R2 (ngôn tình, rom-com) · GĐ2 R2, R3, nốt lạnh · GÃY R8, R9 · HP R7 → R2 (`rules/registers.md` §3)

@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 210 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
+Có phần đầu (frontmatter): 213 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -117,7 +117,9 @@ Có phần đầu (frontmatter): 210 file. Chưa chuyển sang khuôn mới (leg
 | `ROM.LT` | `node` | `proposed` | `storylines/ROM/ROM.LT/ROM.LT.md` | Thuyên làm quân sư cho Tùng từ cấp 3: gương nhỏ của quân sư cho Phong; giao `PAST.T` (`de-xuat/cay-tuyen.md`). |
 | `ROM.PN` | `node` | `proposed` | `storylines/ROM/ROM.PN/ROM.PN.md` | Một chiều: thích, quân sư dạy, gala tỏ tình, nói với Nhi, câu hỏi ở tiệc aim, người ở lại. Gương: Phong hỏi, Thuyên đọc (`de-xuat/cay-tuy… |
 | `ROM.TD` | `node` | `proposed` | `storylines/ROM/ROM.TD/ROM.TD.md` | Fan service tháng 11–12, 31/12, dừng thân mật, đổi phe. Nửa romance; nửa liên minh ở `THR.LM` (`de-xuat/cay-tuyen.md`). |
-| `ROM.TN` | `node` | `proposed` | `storylines/ROM/ROM.TN/ROM.TN.md` | **Khung** (10/11): node chưa chuyển (B4c). Hiện chỉ có `mirror`, lõi gương của quan hệ, đặt ở đây để nó dùng được các ràng buộc (luật, re… |
+| `ROM.TN` | `node` | `proposed` | `storylines/ROM/ROM.TN/ROM.TN.md` | **Khung, dựng dở** (T4, 10/11). Đã chuyển hết `tuyen/romance/thuyen-nhi.md`: lõi gương (`mirror`), register mặc định (`voice`), hai lá tì… |
+| `ROM.TN-001` | `event` | `proposed` | `storylines/ROM/ROM.TN/ROM.TN-001.md` | Lúc Phong vắng, Thuyên chọc Nhi với Phong. Hai bên đấu dữ kiện; Thuyên thắng lý bằng chính dữ kiện của Nhi, rồi đổi sang 'mặt tầng 17' và… |
+| `ROM.TN-002` | `event` | `proposed` | `storylines/ROM/ROM.TN/ROM.TN-002.md` | Nhi 'mua thừa' cold brew chanh cho Thuyên, chối là mình biết; Thuyên suy ra cốc là cho anh, trêu 'thèm nhớ'; tuần sau anh 'mua thừa' matc… |
 | `ROM.VA` | `node` | `proposed` | `storylines/ROM/ROM.VA/ROM.VA.md` | Tuyến phụ hài, tùy chọn; giao `SOL.HD` (`de-xuat/cay-tuyen.md`). |
 | `SCALE.exl` | `scale` | `locked` | `core/SCALE.exl.md` | Bốn mối lo lớn theo Yalom (chết, tự do, cô đơn, vô nghĩa) là bản đồ, không dùng chữ ấy trên trang. Thang đi hai chiều: từ vật cụ thể sang… |
 | `SCH.article` | `schema` | `proposed` | `schemas/article.md` | A constitution article: an invariant split from an axis; phase laws take their basis from it. See [rules-engine](../../docs/framework/rul… |
@@ -172,6 +174,7 @@ Có phần đầu (frontmatter): 210 file. Chưa chuyển sang khuôn mới (leg
 | `SPEC.skills` | `spec` | `draft` | `docs/framework/skills.md` | Skills carry **method** (how to do a kind of work); the repository carries **facts** (canon, laws, characters, plans). A skill never stor… |
 | `SPEC.storylines` | `spec` | `draft` | `docs/framework/storylines.md` | Fields: `content/schemas/node.md`, `goal.md`, `event.md`, `intersection.md`, `occasion.md`. |
 | `SPEC.tooling` | `spec` | `draft` | `docs/framework/tooling.md` | `npm run canon:check` (`scripts/canon-check.mjs`, no dependencies) is the rule runner. It reads every entity under `content/` and every p… |
+| `TEC.humor.want-clash` | `technique` | `proposed` | `lib/humor/TEC.humor.want-clash.md` | Rút ra khi so bản Claude (viết theo `kho/hai-ky-thuat.md`) với bản tác giả sửa, hai cảnh mẫu 05/11: [[ROM.TN-001]] (dòng 1–7) và [[ROM.TN… |
 | `TEC.interiority.ideal-self` | `technique` | `proposed` | `lib/interiority/TEC.interiority.ideal-self.md` | Đưa lực kéo ([[CH.thuyen.beliefs#BL-034]]) lên trang qua lời người kể. Phục vụ register R10 (khối nội tâm, `rules/registers.md` §2.6); `s… |
 | `THR` | `node` | `proposed` | `storylines/THR/THR.md` | Gốc của các node `THR.*`. Khung (T2, 10/11): chỉ có `weight` và `children`; mọi mục khác chờ chuyển. |
 | `THR.DR` | `node` | `proposed` | `storylines/THR/THR.DR/THR.DR.md` | Sinh từ đồ ăn đặt cho Nhi (chốt 23/10), cắm cờ, bị gạt đúng, luận văn Phần Lan, startup Phần 3, Khải nhảy vào Phần 4 (`de-xuat/cay-tuyen.… |

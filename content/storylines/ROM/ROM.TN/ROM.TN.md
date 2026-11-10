@@ -8,13 +8,13 @@ participants: ["[[CH.thuyen]]", "[[CH.nhi]]"]
 axes: [AX3, AX7, AX1, AX8]
 weight: {OPEN: B, P1: SS+, P2: SSS, BREAK: SS+, AFTER: S}
 aliases: [RM.TN, tuyến Thuyên – Nhi]
-sources: [hội thoại 10/11 (cái cân, lâu đài, hai cái vạch, cú giao nhau)]
+sources: [hội thoại 10/11 (cái cân, lâu đài, hai cái vạch, cú giao nhau), tuyen/romance/thuyen-nhi.md (chuyển T4, 10/11)]
 ---
 # ROM.TN · Thuyên – Nhi
 
-**Khung** (10/11): node chưa chuyển (B4c). Hiện chỉ có `mirror`, lõi gương của quan hệ, đặt ở đây để nó dùng được các ràng buộc (luật, register) của node khi node chuyển xong. Mọi mục khác ở `gaps`.
+**Khung, dựng dở** (T4, 10/11). Đã chuyển hết `tuyen/romance/thuyen-nhi.md`: lõi gương (`mirror`), register mặc định (`voice`), hai lá tình tiết mẫu 05/11 (`events`). Cung, mục tiêu, quan hệ, trạng thái chờ chuyển từ BRIEF, KHO, RR (`gaps`).
 
-**Mục:** `mirror` · `gaps` (khi chuyển đủ: `arc` · `goals` · `weight` · `relation` · `state` · `voice` · `rules` · `events`).
+**Mục:** `mirror` · `weight` · `voice` · `events` · `gaps` (khi chuyển đủ thêm: `arc` · `goals` · `relation` · `state` · `rules`).
 
 ## mirror
 
@@ -77,7 +77,28 @@ Gương quá khứ có sẵn trên trang Thuyên (thu-v6) và ở [[PAST.N]] (ch
 
 Từ ma trận `tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
 
+## voice
+
+Register mặc định theo giai đoạn (bảng cũ `rules/registers.md` §3; nguồn `tuyen/romance/thuyen-nhi.md` đầu file):
+
+| OPEN | P1 | P2 | BREAK | AFTER |
+| --- | --- | --- | --- | --- |
+|  | R1, R2 (ngôn tình, rom-com) | R2, R3, nốt lạnh | R8, R9 | R7 → R2 |
+
+Kỹ thuật hài rút từ hai cảnh mẫu: [[TEC.humor.want-clash]]. Muốn thử một kỹ thuật hài thì chọn tình tiết ít liên kết cốt truyện; tình tiết nối nhiều tuyến sẽ kéo cảnh ra khỏi phạm vi bài thử (tác giả, 05/11).
+
+## events
+
+Bảng sinh tay tạm, cho tới khi `canon:check` sinh từ các lá. Mã `TN-?` cũ: số lá đặt theo thứ tự chuyển, sẽ đánh lại theo ngày khi chuyển BRIEF.
+
+| Lá | Thời điểm | Tình tiết | Lần giao | Trạng thái |
+| --- | --- | --- | --- | --- |
+| [[ROM.TN-001]] | GĐ1, trước *Mixue* | Thuyên chọc Nhi với Phong; thắng lý, đổi sang mặt tầng 17, tự lùi | [[X.PAST.T+ROM.PN+ROM.TN-002]] (quân sư bí mật) | `proposed` · bản nháp 05/11 |
+| [[ROM.TN-002]] | GĐ1, buổi học bất kỳ | Cốc thừa: cold brew chanh, matcha | — | `proposed` · bản nháp 05/11 |
+
 ## gaps
 
-- Toàn bộ node trừ `mirror` chờ B4c: `arc`, `goals`, `weight`, `relation`, `state` (gồm `nac-thich` của Nhi), `voice`, `rules`, tình tiết lá `ROM.TN-NNN`, khuôn A–H, E2, E3 (thành `PAT.*`), các dòng "cách anh cư xử trong quan hệ" đang chờ ở `CH.thuyen` (`moved`).
+- Chờ B4c (từ BRIEF, KHO, RR): `arc`, `goals`, `relation`, `state` (gồm `nac-thich` của Nhi), `rules`, phần còn lại của `voice`, các lá `ROM.TN-NNN` khác, khuôn A–H, E2, E3 (thành `PAT.*`), các dòng "cách anh cư xử trong quan hệ" đang chờ ở `CH.thuyen` (`moved`).
 - Lời hứa với Nhi giữa GĐ1 và GĐ2: ứng viên cho chỗ trống C1 của Thuyên (BL-036).
+- Từ `tuyen/romance/thuyen-nhi.md` §5: Toàn bộ phần chuyển từ BRIEF, KHO, RR (`rm-handoff.md` §1 bước 1); tách tình tiết của Phong sang `ROM.PN`, của Diệp Anh sang `ROM.TD`.
+- Hai lá mẫu chưa có `goal` nối vào mục tiêu của node; đánh lại số theo ngày khi chuyển BRIEF.
