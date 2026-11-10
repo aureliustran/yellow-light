@@ -332,7 +332,7 @@
   {
    "id": "CORE",
    "path": "core/README.md",
-   "title": "Gốc (core)",
+   "title": "Core",
    "layer": "core",
    "kind": "spec",
    "status": "locked",
@@ -2030,6 +2030,16 @@
    "effective": ""
   },
   {
+   "id": "TREE",
+   "path": "storylines/README.md",
+   "title": "TREE · Cây tuyến",
+   "layer": "storylines",
+   "kind": "node",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "PAST.T-001",
    "path": "storylines/past/PAST.T/PAST.T-001.md",
    "title": "PAST.T-001 · 1.1",
@@ -2953,52 +2963,22 @@
  "edges": [
   {
    "s": "CORE",
-   "t": "AX1",
-   "type": "link"
-  },
-  {
-   "s": "CORE",
-   "t": "AX2",
-   "type": "link"
-  },
-  {
-   "s": "CORE",
-   "t": "AX3",
-   "type": "link"
-  },
-  {
-   "s": "CORE",
-   "t": "AX4",
-   "type": "link"
-  },
-  {
-   "s": "CORE",
-   "t": "AX5",
-   "type": "link"
-  },
-  {
-   "s": "CORE",
-   "t": "AX6",
-   "type": "link"
-  },
-  {
-   "s": "CORE",
-   "t": "AX7",
-   "type": "link"
-  },
-  {
-   "s": "CORE",
-   "t": "AX8",
-   "type": "link"
-  },
-  {
-   "s": "CORE",
-   "t": "AX9",
-   "type": "link"
-  },
-  {
-   "s": "CORE",
    "t": "SCALE.exl",
+   "type": "link"
+  },
+  {
+   "s": "CORE",
+   "t": "ART.0",
+   "type": "link"
+  },
+  {
+   "s": "CORE",
+   "t": "ART.AX3",
+   "type": "link"
+  },
+  {
+   "s": "CORE",
+   "t": "TREE",
    "type": "link"
   },
   {
@@ -3044,6 +3024,71 @@
   {
    "s": "SCH.belief",
    "t": "ROM.TN",
+   "type": "link"
+  },
+  {
+   "s": "TREE",
+   "t": "SELF",
+   "type": "link"
+  },
+  {
+   "s": "TREE",
+   "t": "PAST",
+   "type": "link"
+  },
+  {
+   "s": "TREE",
+   "t": "ROM",
+   "type": "link"
+  },
+  {
+   "s": "TREE",
+   "t": "AX1",
+   "type": "link"
+  },
+  {
+   "s": "TREE",
+   "t": "AX2",
+   "type": "link"
+  },
+  {
+   "s": "TREE",
+   "t": "AX3",
+   "type": "link"
+  },
+  {
+   "s": "TREE",
+   "t": "AX4",
+   "type": "link"
+  },
+  {
+   "s": "TREE",
+   "t": "AX5",
+   "type": "link"
+  },
+  {
+   "s": "TREE",
+   "t": "AX6",
+   "type": "link"
+  },
+  {
+   "s": "TREE",
+   "t": "AX7",
+   "type": "link"
+  },
+  {
+   "s": "TREE",
+   "t": "AX8",
+   "type": "link"
+  },
+  {
+   "s": "TREE",
+   "t": "AX9",
+   "type": "link"
+  },
+  {
+   "s": "TREE",
+   "t": "SCALE.exl",
    "type": "link"
   },
   {
@@ -3478,6 +3523,11 @@
   },
   {
    "s": "PAST",
+   "t": "TREE",
+   "type": "parent"
+  },
+  {
+   "s": "PAST",
    "t": "PAST.T",
    "type": "link"
   },
@@ -3518,8 +3568,18 @@
   },
   {
    "s": "ROM",
+   "t": "TREE",
+   "type": "parent"
+  },
+  {
+   "s": "ROM",
    "t": "ROM.TN",
    "type": "link"
+  },
+  {
+   "s": "SELF",
+   "t": "TREE",
+   "type": "parent"
   },
   {
    "s": "SELF",
@@ -4513,12 +4573,12 @@
   },
   {
    "s": "CORE",
-   "t": "cay-tuyen",
+   "t": "AX1",
    "type": "ref"
   },
   {
    "s": "CORE",
-   "t": "hop-nhat-loi-cu",
+   "t": "AX9",
    "type": "ref"
   },
   {
@@ -4528,7 +4588,7 @@
   },
   {
    "s": "CORE",
-   "t": "SPEC.storylines",
+   "t": "TREE",
    "type": "ref"
   },
   {
@@ -4579,11 +4639,6 @@
   {
    "s": "AX9",
    "t": "SCH.axis",
-   "type": "ref"
-  },
-  {
-   "s": "AX9",
-   "t": "CORE",
    "type": "ref"
   },
   {
@@ -5124,6 +5179,11 @@
   {
    "s": "kien-truc-framework",
    "t": "M-dien-bien-cam-xuc",
+   "type": "ref"
+  },
+  {
+   "s": "kien-truc-framework",
+   "t": "TREE",
    "type": "ref"
   },
   {
@@ -6303,7 +6363,7 @@
   },
   {
    "s": "goc",
-   "t": "CORE",
+   "t": "TREE",
    "type": "ref"
   },
   {
@@ -6319,11 +6379,6 @@
   {
    "s": "goc",
    "t": "SCALE.exl",
-   "type": "ref"
-  },
-  {
-   "s": "goc",
-   "t": "SPEC.storylines",
    "type": "ref"
   },
   {
@@ -7179,6 +7234,11 @@
   {
    "s": "SPEC.rules-engine",
    "t": "SPEC.tooling",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.storylines",
+   "t": "TREE",
    "type": "ref"
   },
   {

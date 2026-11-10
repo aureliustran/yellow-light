@@ -1,6 +1,6 @@
 # Đèn vàng – Gốc
 
-> **Đã chuyển (10/11).** Bản chính: `content/core/README.md` (một câu, cung hiện sinh, nhờn thuốc), `content/core/axes/AX1.md` … `AX9.md` (chín trục), `content/core/SCALE.exl.md` (thang), `content/schemas/axis.md` (khuôn, luật dùng), `docs/framework/storylines.md` *Axis rules* (§6–7). File này giữ để lần ngược; không sửa ở đây.
+> **Đã chuyển (10/11).** Bản chính: `content/storylines/README.md` (id `TREE`: một câu, cung hiện sinh, nhờn thuốc, luật triển khai và luật sinh tuyến), `content/core/axes/AX1.md` … `AX9.md` (chín trục), `content/core/SCALE.exl.md` (thang), `content/schemas/axis.md` (khuôn, luật dùng trục). File này giữ để lần ngược; không sửa ở đây.
 
 Oct 26, 2026 · @aureliustran. Sửa Oct 28, 2026 (luật lên trục, câu gốc dạng đoạn; H3, H7 mở rộng; thêm H9; tác giả duyệt câu gốc H3, H7, H9; 13:58: H9 thêm lớp quá khứ yếu đuối và cái tôi hại). **[chốt 26/10]** cấu trúc gốc, theo khuyến nghị Q-022 đến Q-033 và Q-037 đến Q-046 (mã D- có khi dựng `canon/so-quyet-dinh.md`). Câu ở mục 2: H2 chốt cả hai câu; các trục khác ghi trạng thái riêng.
 

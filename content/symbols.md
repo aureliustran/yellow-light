@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 143 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
+Có phần đầu (frontmatter): 144 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ Có phần đầu (frontmatter): 143 file. Chưa chuyển sang khuôn mới (leg
 | `CH.vu.beliefs` | `character` | `agreed` | `world/characters/vu/CH.vu.beliefs.md` | Khuôn hai lớp (`schemas/belief.md`). Dải của Vũ bắt đầu từ `BL-050`. **Giọng tự thoại của Vũ:** xưng "tao", thẳng thắn, không lý thuyết; … |
 | `CH.vu.mechanics` | `character` | `agreed` | `world/characters/vu/mechanics/CH.vu.mechanics.md` | CH.vu.mechanics · Cơ chế của Vũ |
 | `CH.vu.voice` | `character` | `agreed` | `world/characters/vu/CH.vu.voice.md` | **Mục:** `dialogue` · `narration` · `lexicon` · `forbidden`. |
-| `CORE` | `spec` | `locked` | `core/README.md` | Gốc không có tình tiết và không có mức. Nó giữ thứ mọi tuyến được sinh ra để phục vụ: chín trục hiện sinh (`core/axes/AX1` … `AX9`), các … |
+| `CORE` | `spec` | `locked` | `core/README.md` | Tầng tĩnh nền (L1): những thứ cả `world/` lẫn `storylines/` cùng trỏ tới. |
 | `FN.nhi.cam` | `function` | `proposed` | `world/characters/nhi/mechanics/FN.nhi.cam.md` | Thấu cảm là giác quan chủ đạo. Cô cảm nhận được điều người khác che giấu, gọi tên được cảm xúc, nhưng lý giải sai nguyên nhân. |
 | `FN.nhi.cong-cu` | `function` | `locked` | `world/characters/nhi/mechanics/FN.nhi.cong-cu.md` | Lựa chọn công cụ theo hoàn cảnh. **Khéo léo cộng đanh đá thành ranh con**: khéo léo đơn thuần thì ra người ngoan ngoãn, đanh đá đơn thuần… |
 | `FN.nhi.phan-khang` | `function` | `proposed` | `world/characters/nhi/mechanics/FN.nhi.phan-khang.md` | Phản kháng là cơ chế mặc định của cô với Thuyên: bị chê bai thì tranh cãi, được khen ngợi thì gạt đi, bị trêu chọc thì đấm. |
@@ -149,3 +149,4 @@ Có phần đầu (frontmatter): 143 file. Chưa chuyển sang khuôn mới (leg
 | `SPEC.storylines` | `spec` | `draft` | `docs/framework/storylines.md` | Fields: `content/schemas/node.md`, `goal.md`, `event.md`, `intersection.md`. |
 | `SPEC.tooling` | `spec` | `draft` | `docs/framework/tooling.md` | `npm run canon:check` (`scripts/canon-check.mjs`, no dependencies) is the rule runner. It reads every entity under `content/` and every p… |
 | `TEC.interiority.ideal-self` | `technique` | `proposed` | `lib/interiority/TEC.interiority.ideal-self.md` | Đưa lực kéo ([[CH.thuyen.beliefs#BL-034]]) lên trang qua lời người kể. Phục vụ register R10 (khối nội tâm, `rules/registers.md` §2.6); `s… |
+| `TREE` | `node` | `locked` | `storylines/README.md` | Node gốc của mọi tuyến. Toàn bộ chức năng của thư mục cũ `tuyen/` ở đây (10/11); riêng định nghĩa trục và thang ở `core/` vì tầng tĩnh cũ… |

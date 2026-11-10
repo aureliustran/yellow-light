@@ -1,7 +1,7 @@
 ---
 id: PAST
 kind: node
-parent: none
+parent: "[[TREE]]"
 status: agreed
 updated: 2026-11-10
 participants: []
