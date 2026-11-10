@@ -91,7 +91,7 @@ Bảng sinh tay tạm, cho tới khi `canon:check` sinh từ các lá:
 | [[PAST.T-012]] | 1.10 | lớp 9 (2018–19) | Phiếu khảo sát tâm lý: trả lời thật thì không ai gọi. | `agreed` |
 | [[PAST.T-013]] | 1.11 | 2019-06 | Phiếu thi chuyên ('Có rứa mới bằng con nhà người ta'), đỗ chuyên Toán… | `agreed` |
 | [[PAST.T-014]] | Hoan hỉ | lớp 10 (2019–20) | Sân trọ: gà (ném vào chậu cây), anh Long, Kyrie, đổi tay qua người anh… | `proposed` |
-| [[PAST.T-015]] | Hiếu thắng | lớp 10–11 (2019–21) | Ám ảnh luyện tập: 5 giờ, chạy, hít đất, hít xà; vở giáo án; cày sâu kh… | `proposed` |
+| [[PAST.T-015]] | Hiếu thắng | lớp 10–11 (2019–21) | Ám ảnh luyện tập: 5 giờ, chạy, hít đất, hít xà; vở giáo án; chuyên sâu… | `proposed` |
 | [[PAST.T-016]] | Kiêu hãnh | thu lớp 11 (2020) | Giải Nhất tỉnh môn Tin; đứng đầu kỳ chọn đội tuyển Tin; cày lén; giữ g… | `proposed` |
 | [[PAST.T-017]] | Tủi hổ | thu lớp 11 (2020), mốc C6b | Bố mẹ gạt 'Tin thì được cái chi'; *Không bao giờ đủ*; cô bạn mập mờ th… | `proposed` |
 | [[PAST.T-018]] | Hụt hẫng | 24–25/2/2021 → 4/2021 | Thi học sinh giỏi quốc gia môn Tin: khinh bài dễ, dồn giờ cho bài khó.… | `proposed` |

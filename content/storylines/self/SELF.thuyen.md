@@ -72,7 +72,7 @@ Khoảnh khắc bình yên là lúc phép đo của anh gần cái cân lành nh
 
 **Bộ phận đang chạy theo nấc** (`thuyen-co-may.md` §4, `locked 28/10`): nấc 7 (đại học, P1): chạy lành, van xả đầy đủ, làm cái gối cho người khác, khóa 3 đẩy Nhi · nấc 8 (P2): cái tôi độc chiếm máy, nhờn thuốc, "Không thiếu gì", khí thải ra ngoài · nấc 9 (BREAK, ch.0): hết nhiên liệu, gối im, vòng lặp không điều kiện dừng · HP: cái tôi lành dẫn, mở khóa, để người khác ôm.
 
-**Tếu, nhiên liệu theo giai đoạn** (`thuyen-da-nhan-cach.md` §8, `thuyen-hai-cai-toi.md` §7, `proposed`): P1 tếu đầy đủ, cái đau ngủ dưới cái tôi lành (hết việc thì đau lại) · P2 Trào-thước đóng, Ngạo thành kiêu ngạo im, van đóng, liều cao nhất · BREAK mất cả ba số · AFTER Trào quay lại trước, Ngạo sau; lần đầu hiểu sức mạnh chỉ làm tê.
+**Tếu, nhiên liệu theo giai đoạn** (`thuyen-da-nhan-cach.md` §8, `thuyen-hai-cai-toi.md` §7, `proposed`): P1 tếu đầy đủ, cái đau ngủ dưới cái tôi lành (hết việc thì đau lại) · P2 Trào-thước đóng, Ngạo thành kiêu ngạo im, van đóng, liều cao nhất · BREAK mất cả ba số · AFTER Trào trở lại trước, Ngạo trở lại sau; lần đầu hiểu sức mạnh chỉ làm tê.
 
 ## voice
 

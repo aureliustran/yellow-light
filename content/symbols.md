@@ -39,7 +39,7 @@ Có phần đầu (frontmatter): 130 file. Chưa chuyển sang khuôn mới (leg
 | `FN.thuyen.phong-kin` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.phong-kin.md` | Cái tôi độc ở đại học và GĐ1: sống trong phòng kín. Giọng trong đầu, bộ dịch ở miệng, kênh luật chơi ở tay. |
 | `FN.thuyen.phuong-trinh` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.phuong-trinh.md` | Bộ chuyển đổi: giỏi = được thương, thiếu = chưa đủ giỏi. Trên nó dựng hệ giá trị tự sửa bốn tầng. |
 | `FN.thuyen.quan-su` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.quan-su.md` | Quân sư giỏi cho người khác, mù cho chính mình. |
-| `FN.thuyen.teu` | `function` | `proposed` | `world/characters/thuyen/mechanics/FN.thuyen.teu.md` | Van xả: tếu. Xả áp cạnh người thân mà không mở khóa. Ba số: Ngạo, Trào, Song. |
+| `FN.thuyen.teu` | `function` | `proposed` | `world/characters/thuyen/mechanics/FN.thuyen.teu.md` | Van xả: tếu. Giải tỏa áp lực bên cạnh người thân mà không phải mở khóa. Ba số: Ngạo, Trào, Song. |
 | `FN.thuyen.thieu` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.thieu.md` | Đầu vào của cỗ máy: cái thiếu bị chối hai lần, trong nhà không ai thấy, ngoài nhà bảo là sướng. |
 | `FN.vu.lat` | `function` | `proposed` | `world/characters/vu/mechanics/FN.vu.lat.md` | Vũ không tính toán; Vũ nói thẳng. Thuyên đưa ra một cái cớ hợp lý, Vũ lật ngược nó bằng một câu duy nhất. |
 | `FN.vu.thuong-bang-hanh-dong` | `function` | `locked` | `world/characters/vu/mechanics/FN.vu.thuong-bang-hanh-dong.md` | in Vũ thích một cô gái, hoặc thương một người bạn |
@@ -77,7 +77,7 @@ Có phần đầu (frontmatter): 130 file. Chưa chuyển sang khuôn mới (leg
 | `PAST.T-012` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-012.md` | Phiếu khảo sát tâm lý: trả lời thật thì không ai gọi. |
 | `PAST.T-013` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-013.md` | Phiếu thi chuyên ("Có rứa mới bằng con nhà người ta"), đỗ chuyên Toán thứ tư, mẹ gọi sang nhà bác Hùng, Casio dây rộng. |
 | `PAST.T-014` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-014.md` | Sân trọ: gà (ném vào chậu cây), anh Long, Kyrie, đổi tay qua người anh Long; tếu sinh (Ngạo + Trào vô hại). |
-| `PAST.T-015` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-015.md` | Ám ảnh luyện tập: 5 giờ, chạy, hít đất, hít xà; vở giáo án; cày sâu không cày rộng; học kỹ thuật nặng bằng ghép kỹ thuật nhỏ. |
+| `PAST.T-015` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-015.md` | Ám ảnh luyện tập: 5 giờ, chạy, hít đất, hít xà; vở giáo án; chuyên sâu thay vì dàn trải; tiếp thu kỹ thuật phức tạp bằng cách tổ hợp các … |
 | `PAST.T-016` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-016.md` | Giải Nhất tỉnh môn Tin; đứng đầu kỳ chọn đội tuyển Tin; cày lén; giữ giáo án riêng. |
 | `PAST.T-017` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-017.md` | Bố mẹ gạt "Tin thì được cái chi"; *Không bao giờ đủ*; cô bạn mập mờ thấy anh buồn, anh dập bằng "Tao số một tỉnh" (Ngạo lần đầu mất vỏ); … |
 | `PAST.T-018` | `event` | `proposed` | `storylines/past/PAST.T/PAST.T-018.md` | Thi học sinh giỏi quốc gia môn Tin: khinh bài dễ, dồn giờ cho bài khó. 13/3/2021, giữa tiết Hóa: không giải. Đáy: phẳng, tếu tắt. Ôm gối … |
