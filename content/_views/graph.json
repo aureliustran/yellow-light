@@ -3433,17 +3433,42 @@
   },
   {
    "s": "CH.thuyen.beliefs",
-   "t": "SELF.thuyen",
-   "type": "link"
-  },
-  {
-   "s": "CH.thuyen.beliefs",
    "t": "ART.AX3",
    "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
+   "t": "FN.thuyen.lang-kinh",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "FN.thuyen.nang-khieu",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "CH.thuyen.mechanics",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "SELF.thuyen",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
    "t": "TEC.interiority.ideal-self",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "FN.thuyen.adhd",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "FN.thuyen.luoi-co-chon-loc",
    "type": "link"
   },
   {
@@ -6179,6 +6204,16 @@
   {
    "s": "CH.nhi",
    "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "M-he-gia-tri",
    "type": "ref"
   },
   {

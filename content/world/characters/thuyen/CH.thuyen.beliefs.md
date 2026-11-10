@@ -4,7 +4,7 @@ kind: character
 status: agreed
 updated: 2026-11-10
 aliases: [niềm tin Thuyên, NT Thuyên]
-exports: [BL-001, BL-002, BL-003, BL-004, BL-005, BL-006, BL-007, BL-008, BL-009, BL-010, BL-011, BL-012, BL-013, BL-014, BL-015, BL-016, BL-017, BL-018, BL-019, BL-020, BL-021, BL-022, BL-023, BL-024, BL-025, BL-026, BL-027, BL-029, BL-030, BL-031, BL-032, BL-033, BL-034]
+exports: [BL-001, BL-002, BL-003, BL-004, BL-005, BL-006, BL-007, BL-008, BL-009, BL-010, BL-011, BL-012, BL-013, BL-014, BL-015, BL-016, BL-017, BL-018, BL-019, BL-020, BL-021, BL-022, BL-023, BL-024, BL-025, BL-026, BL-027, BL-029, BL-030, BL-031, BL-032, BL-033, BL-034, BL-035]
 parent: "[[CH.thuyen]]"
 sources: [tuyen/qua-khu/README.md §4, tuyen/qua-khu/thuyen.md §1, §4, §6, tuyen/qua-khu/thuyen-hai-cai-toi.md §11, tuyen/qua-khu/thuyen-da-nhan-cach.md §7, tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §4.5, de-xuat/qk-t-plan-viet-lai-quang-1-v3.md §0]
 ---
@@ -49,12 +49,16 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-005
 
-- **statement:** Hai tờ nháp: một tờ cho người chấm, một tờ của mình.
+- **definition:** Làm hai sản phẩm: bản trình nộp theo chuẩn của người chấm, bản thật theo chuẩn của mình. Mẹo, con của 021.
+- **seen:** `thay`
+- **monologue:**
+  - `ngo-nhan` · lớp 6: *Người chấm cần một thứ, mình cần một thứ khác, và không có lý do gì để hai thứ ấy phải trùng khớp. Mình nộp cho họ đúng thứ họ cần để được yên ổn; bản thật thì giữ lại, vì bản thật không cần ai thẩm định.*
+- **parent:** BL-021
 - **other-face:** none
 - **axis · step:** EXL 3 · AX3, AX4
 - **origin:** PAST.T 1.5: tờ nháp, lớp 6
 - **consumed (nguồn cũ):** THR: lõi chỉ Thuyên hiểu; ROM.TN P2: Nhi được xem tờ thứ hai, tờ ấy lên bàn ngày gãy
-- **status:** `agreed` · alias `NT-05`
+- **status:** `locked 10/11` · alias `NT-05`
 
 ### BL-006
 
@@ -71,12 +75,18 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-007
 
-- **statement:** Làm tốt mà không vui; "không có gì đến".
+- **definition:** Thành tích không đem lại thứ anh thật sự cần (sự thừa nhận, một vòng tay); anh kết luận thành tích chưa đủ lớn. Đây là vạch dời ([[ART.AX3]] .2) chạy bên trong anh.
+- **ref:** `câu` · Epicurus, *Vatican Sayings* 68: *"Nothing satisfies him to whom what is enough is little."* (đã có ở "Họ ý" của H3, `tuyen/goc.md` §2)
+- **deviation:** Epicurus đổ lỗi cho lòng tham của người muốn; ở Thuyên, vạch "đủ" do người khác cầm và dời, và anh không thấy thứ mình cần không phải một số lượng.
+- **seen:** `thay`
+- **monologue:**
+  - `ngo-nhan` · lớp 8: *Mình đã làm đúng thứ người ta yêu cầu, và kết quả tốt. Theo logic, sau một kết quả tốt phải có một điều gì đó xuất hiện. Không có gì xuất hiện. Vậy kết quả ấy chưa đủ tốt; lần sau phải lớn hơn.*
+- **parent:** BL-024
 - **other-face:** none
 - **axis · step:** EXL 4 · AX3, AX5
 - **origin:** PAST.T 1.8: tủ kính, giấy khen, lớp 8
 - **consumed (nguồn cũ):** THR.MD: "đủ là bao nhiêu"; ROM.TN: chờ ghế 50 triệu mới tỏ tình
-- **status:** `agreed` · alias `NT-07`
+- **status:** `locked 10/11` · alias `NT-07`
 
 ### BL-008
 
@@ -98,12 +108,17 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-010
 
-- **statement:** Lăng kính: thấy khuyết của mọi thứ, kể cả mình.
+- **definition:** Mọi thứ, kể cả chính mình, đều có ưu khuyết đo được (tiên đề 1 của hệ giá trị, `M-he-gia-tri.md` §2). **Đúng một nửa:** phép đo của anh khách quan thật ([[ART.AX3]]). **Che:** nếu có thứ không đo được, như tình thương, thì công cụ duy nhất của anh vô dụng. **Giá:** cảm xúc không kêu thành tiếng rơi vào điểm mù (AX4). Lăng kính là cơ chế ([[FN.thuyen.lang-kinh]]); niềm tin này là lăng kính quay vào mình và tự phong thành tiên đề.
+- **ref:** `ý` · Baumeister, Bratslavsky, Finkenauer, Vohs (2001), *Bad Is Stronger Than Good* (thiên lệch tiêu cực)
+- **deviation:** thiên lệch tiêu cực vốn là vô thức; Thuyên biến nó thành phương pháp có chủ đích và tự hào về nó (nét Ngạo).
+- **seen:** `thay`
+- **monologue:**
+  - `dien-giai` · lớp 11: *Không có thứ gì hoàn hảo; mọi sự vật, mọi lập luận, mọi con người đều có ưu điểm và khuyết điểm, và cả hai đều đo lường được. Không có lý do gì để tao tự miễn trừ khỏi phép đo ấy. Người ta né tránh việc soi xét bản thân vì sợ nhìn thấy khuyết điểm; tao thì không sợ, vì khuyết điểm chỉ là dữ kiện. Nhìn khuyết điểm trước ưu điểm cũng không phải bi quan, mà là thứ tự ưu tiên: ưu điểm không cần xử lý, khuyết điểm thì cần.*
 - **other-face:** none
-- **axis · step:** AX4
-- **origin:** PAST.T quãng 1 (xuyên suốt)
+- **axis · step:** AX3, AX4
+- **origin:** PAST.T quãng 1 (xuyên suốt); kết tinh lớp 11
 - **consumed (nguồn cũ):** mọi node
-- **status:** `agreed` · alias `NT-10`
+- **status:** `locked 10/11` · alias `NT-10`
 
 ### BL-011
 
@@ -135,6 +150,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### BL-014
 
 - **statement:** Để người ta thấy mình đau thì người ta đi. Vậy thì đừng đau; mạnh lên.
+- **parent:** BL-022
 - **other-face:** none
 - **axis · step:** AX4, AX1
 - **origin:** dự đoán ở PAST.T 1.10; xác nhận ở *Tủi hổ* (C6b)
@@ -179,12 +195,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-019
 
-- **statement:** Cái mới nào cũng là cái cũ ghép lại.
-- **other-face:** none
-- **axis · step:** EXL 5 · AX3
-- **origin:** PAST.T *Hiếu thắng* (lớp 10–11)
-- **consumed (nguồn cũ):** dạy Nhi (bát bún riêu, "quay về"); lab: cầm đầu con voi; FN.thuyen.nang-khieu
-- **status:** `proposed` · alias `NT-19`
+- **moved:** chuyển vào [[FN.thuyen.nang-khieu]] (cách tư duy học bằng liên kết, không phải niềm tin) 10/11. Alias `NT-19`.
 
 ### BL-020
 
@@ -197,21 +208,36 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-021
 
-- **statement:** Cái cân của mình đúng.
+- **definition:** Phán đoán dựa trên lập luận và dữ kiện của anh đáng tin hơn sự gật đầu của người khác. **Đúng một nửa:** anh thấy trước cả trận không sai một chữ (PAST.T 1.9). **Che:** cái cân là lần đầu anh đứng thẳng ([[ART.AX3]] .2); nếu nó sai, anh không còn chỗ đứng. **Giá:** không cần ai gật đầu cũng là không để ai chạm vào.
+- **ref:** `câu` · Emerson, *Self-Reliance* (1841): *"Trust thyself: every heart vibrates to that iron string."* (https://anthology.lib.virginia.edu/work/Emerson/emerson-self-reliance)
+- **deviation:** Emerson tin con tim; Thuyên tin phép đo. Anh tin cái đầu, không tin con tim.
+- **seen:** `thay`
+- **monologue:**
+  - `ngo-nhan` · lớp 6: *Người chấm điểm không nhìn thấy cách mình suy nghĩ, chỉ nhìn đáp án có khớp barem hay không. Vậy điểm số không phản ánh năng lực của mình. Mình tự kiểm chứng được lời giải của mình, và lời giải ấy đúng.*
+  - `dien-giai` · lớp 9: *Tao không cần ai xác nhận. Lập luận của tao tự đứng được bằng dữ kiện; nó đúng trước khi có người công nhận, và vẫn đúng khi không ai công nhận. Sự đồng thuận của người khác chỉ là phụ phí.*
+- **children:** BL-005
 - **other-face:** none
 - **axis · step:** EXL 3 · AX3
 - **origin:** PAST.T 1.5, 1.6, 1.9
 - **consumed (nguồn cũ):** Ngạo; THR: lõi chỉ Thuyên hiểu; FN.thuyen.cai-toi (cái tôi lành)
-- **status:** `proposed` · alias `NT-21`
+- **status:** `locked 10/11` · alias `NT-21`
 
 ### BL-022
 
-- **statement:** Mình vốn là đất.
-- **other-face:** none
-- **axis · step:** EXL 4 · AX3, AX4, AX6
-- **origin:** PAST.T 1.9: bài văn *Ước mơ của em*, "cục đất"
-- **consumed (nguồn cũ):** Trào-thước; đáy Phần 1
-- **status:** `proposed` · alias `NT-22`
+- **definition:** Bố mẹ gọi anh là cục đất; lăng kính của anh đọc chính xác nghĩa sâu nhất của cái nhãn: một cỗ máy, vô cảm. Người ta không biết điều ngược lại, vì họ chưa bao giờ trân trọng thứ anh chia sẻ, chỉ dùng nó làm anh đau; vì không muốn đau, anh phải tỏ ra vô cảm. Chiến lược ấy thất bại ở lớp 11. Về sau anh vẫn sợ chia sẻ điều muốn giấu, nhưng học được cách hiểu cảm xúc bằng việc nghe người khác kể cảm xúc của họ với mình; kết luận cuối: có lẽ mình vẫn là một cỗ máy vô cảm, chỉ là một cỗ máy biết nhận diện và xử lý các tham số của cảm xúc. **Cú lật** là chỗ sâu nhất: chiếc mặt nạ *tỏ ra* vô cảm đeo đủ lâu thì anh *tin* đó là mặt thật. **Đúng một nửa:** anh đọc cảm xúc người khác chính xác, có phương pháp, như một cỗ máy; mỗi lần làm quân sư giỏi là một lần xác nhận. **Sai ở:** một cỗ máy không sợ chia sẻ; chính nỗi sợ ấy là bằng chứng anh có cảm xúc. **Gốc của các niềm tin cùng cụm:** 022 là anh *là* gì; [[CH.thuyen.beliefs#BL-025]] là anh *cần* gì; [[CH.thuyen.beliefs#BL-014]] là anh *làm* gì. **Tầng mỉa:** hồ sơ của truyện gọi tâm lý anh là "cỗ máy hiện sinh" ([[CH.thuyen.mechanics]]); tác giả và nhân vật cùng gọi anh là máy, chỉ người đọc thấy anh không phải máy.
+- **ref:** `ý` · Charles Horton Cooley (1902), *looking-glass self* (https://en.wikipedia.org/wiki/Looking-glass_self)
+- **deviation:** ở Cooley, cái tôi hình thành thụ động từ phán xét của người khác; Thuyên đọc nhãn chính xác hơn người đặt nó, rồi dùng nó làm cơ chế phòng vệ, và về sau tin nó (lăng kính, nét Ngạo).
+- **seen:** `thay`
+- **monologue:**
+  - `ngo-nhan` · lớp 9: *Bố mẹ gọi mình là cục đất, và họ nói đúng hơn họ tưởng: thứ họ mô tả là một cỗ máy, không có cảm xúc. Mình đã từng chia sẻ, và lần nào điều mình trân trọng cũng bị biến thành công cụ làm mình tổn thương. Vậy vô cảm không phải là khuyết điểm; nó là cơ chế phòng vệ. Cứ để họ tin rằng mình là cục đất.*
+  - đổ vỡ · lớp 11: vỏ vô cảm không ngăn được cái đau; tình tiết làm chủ `needs-decision` (ứng viên: *Tủi hổ* C6b, *Hụt hẫng*, hệ sao bị phủ nhận).
+  - `dien-giai` · đại học trở đi: *Tao vẫn không chia sẻ những điều cần che giấu. Nhưng tao đã học được cách lắng nghe: người khác kể cảm xúc của họ, tao ghi nhận, phân loại, truy nguyên, rồi đưa ra phản hồi phù hợp, và tao làm việc ấy tốt hơn phần lớn những người có cảm xúc. Có lẽ tao vẫn là một cỗ máy vô cảm, chỉ là một cỗ máy biết nhận diện và xử lý các tham số của cảm xúc.*
+- **children:** BL-014, BL-025
+- **other-face:** có người trân trọng thứ anh chia sẻ; anh khóc và được ôm (một cỗ máy không khóc)
+- **axis · step:** EXL 4 · AX4, AX7, AX8, AX3
+- **origin:** PAST.T 1.9 (câu của mạ với bác Hùng: "Học thì được, mà người thì như cục đất", legacy ch.3 *Tiếng dép*)
+- **consumed (nguồn cũ):** Trào-thước; đáy Phần 1; quân sư (FN.thuyen.quan-su); Nhi gọi tên cảm xúc cho anh (FN.nhi.cam)
+- **status:** `locked 10/11` · alias `NT-22`, "Mình vốn là đất"
 
 ### BL-023
 
@@ -234,6 +260,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### BL-025
 
 - **statement:** **Mình không thiếu.** Lời cãi với cái gối: phủ nhận cái thiếu mà cái gối là bằng chứng.
+- **parent:** BL-022
 - **other-face:** mọi bằng chứng anh đưa ra đều là tình thương dành cho cái giỏi: danh sách càng dài, cái gối càng đúng
 - **axis · step:** AX4, AX8
 - **origin:** mầm lớp 6 ("chắc là quen tay"); cực đoan lần đầu ở *Tủi hổ*; cực đoan nhất ở P2
@@ -282,12 +309,18 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-030
 
-- **statement:** **Thước không ở trong điểm số. Thước ở trong tay người cầm.** *Mình hơn nó rồi mà mạ vẫn nói nó hơn. Vậy là không phải tại điểm.*
+- **definition:** Thước người lớn dùng để chấm anh không nằm ở thành tích, mà ở người cầm thước. **Đúng một nửa:** hơn Lâm về điểm số mà vẫn bị nói kém hơn. **Điểm mù** (dời theo [[ART.AX3]]): anh thấy thước của người khác là chủ quan và tự miễn cho cái cân của mình; anh không thấy ai đặt mục tiêu cho chính cái cân ấy. Thay điểm mù cũ của `M-he-gia-tri.md` §2 ("không hỏi ai cầm thước").
+- **ref:** `câu` · Protagoras, qua Plato, *Theaetetus* 152a (Jowett): *"Man is the measure of all things."*
+- **deviation:** Protagoras nói mọi người đều là thước; Thuyên áp câu ấy cho người khác, trừ mình ra.
+- **seen:** `thay`
+- **monologue:**
+  - `ngo-nhan` · lớp 6–7: *Mình đã hơn nó về điểm số, mà mạ vẫn khẳng định nó hơn. Vậy cái mạ dùng để so sánh không phải là điểm số. Có một tiêu chuẩn khác mà mình không nhìn thấy, và tiêu chuẩn ấy nằm trong tay mạ, không nằm trong bài làm của mình.*
+  - `dien-giai` · lớp 11: *Thước đo của người khác là thứ chủ quan: họ cầm, họ đặt vạch, họ dời vạch theo ý muốn. Cố gắng đạt tới vạch của họ là đuổi theo một mục tiêu di động. Vì vậy tao không chạy theo thước của ai nữa. Tao dùng cân của tao, thứ chỉ đo dữ kiện.*
 - **other-face:** none
 - **axis · step:** AX3
 - **origin:** PAST.T: cảnh Lâm, lớp 6–7; lặp ở lớp 11 ("Tin thì được cái chi")
 - **consumed (nguồn cũ):** FN.thuyen.thieu
-- **status:** `locked 30/10 (lời mẫu proposed)` · alias `NT-30`
+- **status:** `locked 10/11` · alias `NT-30`
 
 ### BL-031
 
@@ -331,9 +364,27 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-034
 
-- **statement:** Có một phiên bản của mình ở cuối đường, và khoảng cách tới đó đo được. Động cơ kéo. Anh phủ nhận nó (*Vớ vẩn.*) mà bản năng vẫn bật ra; hình dạng mơ hồ, đổi theo mục đích anh đang nhìn thấy.
+- **definition:** Có một phiên bản của mình ở cuối đường, và khoảng cách tới đó đo được. Động cơ kéo; cặp với BL-029 (động cơ đẩy). Hình dạng mơ hồ, đổi theo mục đích anh đang nhìn thấy; anh phủ nhận nó mà bản năng vẫn bật ra. Phép đo khoảng cách vẫn đúng; vạch đích thì nỗi sợ góp tay đặt ([[ART.AX3]] .3).
+- **ref:** `câu` · Karen Horney, *Neurosis and Human Growth* (1950), "the tyranny of the should": *"Forget about the disgraceful creature you actually are; this is how you should be."* (https://myweb.rollins.edu/jsiry/HorneyTyranny.html)
+- **deviation:** hình ảnh lý tưởng của Horney rực rỡ và được tôn thờ; của Thuyên mơ hồ, bị chính anh phủ nhận, đổi hình theo mục đích; người bệnh của Horney tự đo méo, Thuyên đo đúng.
+- **seen:** `nua`
+- **monologue:**
+  - `dien-giai`: *Có một phiên bản của tao ở cuối lộ trình này, phiên bản đã đạt được mục đích. Tao không biết hình dạng chính xác của nó, chỉ biết khoảng cách từ đây tới đó đo lường được, và tao đang thu hẹp nó từng ngày… Vớ vẩn.*
 - **other-face:** none
 - **axis · step:** AX3
-- **origin:** `needs-decision` (cặp với BL-029, động cơ đẩy)
+- **origin:** `needs-decision`
 - **consumed (nguồn cũ):** FN.thuyen.lang-kinh (`motive`); lên trang: [[TEC.interiority.ideal-self]]
-- **status:** mô hình `locked 10/11` · lời mẫu `proposed`
+- **status:** `locked 10/11`
+
+### BL-035
+
+- **definition:** Khuyết điểm chặn lộ trình đã chọn thì phải sửa; khuyết điểm ngoài lộ trình thì bỏ qua; sửa xong mới được phép dừng (tiên đề 2–3 của hệ giá trị, `M-he-gia-tri.md` §2). Bên dưới là hiệu ứng không ngồi yên được ([[FN.thuyen.adhd]]); niềm tin này là lời giải thích khoác lên nó. **Giá:** không còn gì để sửa nghĩa là không còn lộ trình, tức là nhãn *kẻ thất bại*.
+- **ref:** `ý` · Hewitt và Flett (1991), *self-oriented perfectionism*
+- **deviation:** người cầu toàn đòi hoàn hảo ở mọi nơi; Thuyên chỉ cầu toàn trên lộ trình đã chọn, nên người ngoài thấy anh vừa lười vừa chăm ([[FN.thuyen.luoi-co-chon-loc]]).
+- **seen:** `thay`
+- **monologue:**
+  - `dien-giai` · lớp 11: *Khuyết điểm không phải là tội, nó là chướng ngại vật. Chướng ngại nào nằm trên lộ trình mình đã chọn thì phải dỡ bỏ; chướng ngại nào nằm ngoài lộ trình thì mặc kệ, vì tốn công xử lý là lãng phí. Mỗi lần dỡ bỏ xong một chướng ngại, mình được phép dừng lại một chút. Nhưng lộ trình nào cũng còn chướng ngại kế tiếp; nếu không còn gì để sửa, nghĩa là mình không còn lộ trình, và một người không có lộ trình là kẻ thất bại.*
+- **other-face:** none
+- **axis · step:** AX3, AX2
+- **origin:** kết tinh lớp 11 (hệ sao bị phủ nhận, audit "khuyết = không có giải quốc gia")
+- **status:** `locked 10/11` (số mới)
