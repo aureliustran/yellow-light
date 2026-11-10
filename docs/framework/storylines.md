@@ -58,6 +58,20 @@ An intersection `X-NNN` is an occasion several nodes write into: a hyperedge, ou
 
 Causality across nodes is the event field `causes`, not an intersection.
 
+## Axis rules `locked 26/10, 28/10` (moved from `tuyen/goc.md` §6–7, 10/11)
+
+**Deploying the root (§6):**
+1. Every event carries `axis` (the axes it touches) and `level` (its step on `SCALE.exl` at that moment). Required for events of nodes at level S or above in that phase; optional below.
+2. The **existential band** is generated, never handwritten: all events filtered by phase, sorted by date, with their `axis` and `level` (`_views/matrix.md`).
+3. **Continuity:** within a phase, `level` does not go down when read by date, except deliberately (an echo of an earlier step, marked as such). Each phase has at least one event at that phase's step in the node with the highest weight in that phase.
+4. An existential event with no scene of its own (*Nước lạnh*, the diagnosis) still has an owning node: `SOL.DT` (Q-029).
+
+**Generating threads (§7):**
+1. A node serves at least one axis. A node serving none is cut or demoted to material (`kho/`).
+2. **A theme is an axis, not a thread.** "Money and class" is AX5; threads run through it.
+3. **A phase is the time axis, not a node.** A node may run across phases. "Part" has no definition yet and is not used as an axis.
+4. **Mechanisms live in nodes and characters, axes in the root** (locked 28/10). A node or character may hold its mechanism (a machine, a causal chain) as long as it points back to the axes it serves; the axis does not link to the mechanism.
+
 ## Generated views
 
 Node events table · `_views/X-NNN.view.md` (beats, knowledge ledger) · `_views/matrix.md` (level, role, register per node × phase) · `_views/CH.<id>.view.md` (a character across all nodes per phase) · `canon/bible.md` (every `locked` line by tree).

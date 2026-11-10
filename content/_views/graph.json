@@ -330,6 +330,116 @@
    "effective": ""
   },
   {
+   "id": "CORE",
+   "path": "core/README.md",
+   "title": "Gốc (core)",
+   "layer": "core",
+   "kind": "spec",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SCALE.exl",
+   "path": "core/SCALE.exl.md",
+   "title": "SCALE.exl · Nấc hiện sinh (9 nấc)",
+   "layer": "core",
+   "kind": "scale",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "AX1",
+   "path": "core/axes/AX1.md",
+   "title": "AX1 · Đèn vàng",
+   "layer": "core",
+   "kind": "axis",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "AX2",
+   "path": "core/axes/AX2.md",
+   "title": "AX2 · Sống hay sống sót",
+   "layer": "core",
+   "kind": "axis",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "AX3",
+   "path": "core/axes/AX3.md",
+   "title": "AX3 · Cây thước",
+   "layer": "core",
+   "kind": "axis",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "AX4",
+   "path": "core/axes/AX4.md",
+   "title": "AX4 · Đọc người, mù với mình",
+   "layer": "core",
+   "kind": "axis",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "AX5",
+   "path": "core/axes/AX5.md",
+   "title": "AX5 · Định giá",
+   "layer": "core",
+   "kind": "axis",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "AX6",
+   "path": "core/axes/AX6.md",
+   "title": "AX6 · Thị trường là thứ người có quyền tạo ra",
+   "layer": "core",
+   "kind": "axis",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "AX7",
+   "path": "core/axes/AX7.md",
+   "title": "AX7 · Được đồng ý mà không được nghe; được khen mà không được ôm",
+   "layer": "core",
+   "kind": "axis",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "AX8",
+   "path": "core/axes/AX8.md",
+   "title": "AX8 · Điều trị bắt đầu từ chính mình",
+   "layer": "core",
+   "kind": "axis",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "AX9",
+   "path": "core/axes/AX9.md",
+   "title": "AX9 · Kẻ mạnh",
+   "layer": "core",
+   "kind": "axis",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "ART.0",
    "path": "core/constitution/ART.0.md",
    "title": "ART.0 · Chương 0: Nền",
@@ -1650,6 +1760,16 @@
    "effective": ""
   },
   {
+   "id": "SCH.axis",
+   "path": "schemas/axis.md",
+   "title": "schema · axis",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "SCH.belief",
    "path": "schemas/belief.md",
    "title": "schema · belief",
@@ -1846,6 +1966,16 @@
    "layer": "foundation",
    "kind": "schema",
    "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SCH.scale",
+   "path": "schemas/scale.md",
+   "title": "schema · scale",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "agreed",
    "weight": {},
    "effective": ""
   },
@@ -2822,6 +2952,56 @@
  ],
  "edges": [
   {
+   "s": "CORE",
+   "t": "AX1",
+   "type": "link"
+  },
+  {
+   "s": "CORE",
+   "t": "AX2",
+   "type": "link"
+  },
+  {
+   "s": "CORE",
+   "t": "AX3",
+   "type": "link"
+  },
+  {
+   "s": "CORE",
+   "t": "AX4",
+   "type": "link"
+  },
+  {
+   "s": "CORE",
+   "t": "AX5",
+   "type": "link"
+  },
+  {
+   "s": "CORE",
+   "t": "AX6",
+   "type": "link"
+  },
+  {
+   "s": "CORE",
+   "t": "AX7",
+   "type": "link"
+  },
+  {
+   "s": "CORE",
+   "t": "AX8",
+   "type": "link"
+  },
+  {
+   "s": "CORE",
+   "t": "AX9",
+   "type": "link"
+  },
+  {
+   "s": "CORE",
+   "t": "SCALE.exl",
+   "type": "link"
+  },
+  {
    "s": "ART.AX3",
    "t": "FN.thuyen.lang-kinh",
    "type": "link"
@@ -2834,6 +3014,11 @@
   {
    "s": "ART.AX3",
    "t": "SELF.thuyen",
+   "type": "link"
+  },
+  {
+   "s": "ART.AX3",
+   "t": "AX3",
    "type": "link"
   },
   {
@@ -4302,6 +4487,11 @@
    "type": "ref"
   },
   {
+   "s": "CFG.ids",
+   "t": "AX1",
+   "type": "ref"
+  },
+  {
    "s": "CFG.levels",
    "t": "SCH.node",
    "type": "ref"
@@ -4322,6 +4512,86 @@
    "type": "ref"
   },
   {
+   "s": "CORE",
+   "t": "cay-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "CORE",
+   "t": "hop-nhat-loi-cu",
+   "type": "ref"
+  },
+  {
+   "s": "CORE",
+   "t": "SCH.axis",
+   "type": "ref"
+  },
+  {
+   "s": "CORE",
+   "t": "SPEC.storylines",
+   "type": "ref"
+  },
+  {
+   "s": "AX1",
+   "t": "SCH.axis",
+   "type": "ref"
+  },
+  {
+   "s": "AX2",
+   "t": "SCH.axis",
+   "type": "ref"
+  },
+  {
+   "s": "AX3",
+   "t": "ART.AX3",
+   "type": "ref"
+  },
+  {
+   "s": "AX3",
+   "t": "SCH.axis",
+   "type": "ref"
+  },
+  {
+   "s": "AX4",
+   "t": "SCH.axis",
+   "type": "ref"
+  },
+  {
+   "s": "AX5",
+   "t": "SCH.axis",
+   "type": "ref"
+  },
+  {
+   "s": "AX6",
+   "t": "SCH.axis",
+   "type": "ref"
+  },
+  {
+   "s": "AX7",
+   "t": "SCH.axis",
+   "type": "ref"
+  },
+  {
+   "s": "AX8",
+   "t": "SCH.axis",
+   "type": "ref"
+  },
+  {
+   "s": "AX9",
+   "t": "SCH.axis",
+   "type": "ref"
+  },
+  {
+   "s": "AX9",
+   "t": "CORE",
+   "type": "ref"
+  },
+  {
+   "s": "AX9",
+   "t": "thuyen-lang-kinh",
+   "type": "ref"
+  },
+  {
    "s": "ART.0",
    "t": "01-rules-viet",
    "type": "ref"
@@ -4334,11 +4604,6 @@
   {
    "s": "ART.0",
    "t": "CFG.calendar",
-   "type": "ref"
-  },
-  {
-   "s": "ART.AX3",
-   "t": "goc",
    "type": "ref"
   },
   {
@@ -5817,6 +6082,16 @@
    "type": "ref"
   },
   {
+   "s": "SCH.axis",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.axis",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
    "s": "SCH.belief",
    "t": "01-rules-viet",
    "type": "ref"
@@ -6024,6 +6299,31 @@
   {
    "s": "tuyen/README",
    "t": "ngan-sach-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "goc",
+   "t": "CORE",
+   "type": "ref"
+  },
+  {
+   "s": "goc",
+   "t": "AX1",
+   "type": "ref"
+  },
+  {
+   "s": "goc",
+   "t": "AX9",
+   "type": "ref"
+  },
+  {
+   "s": "goc",
+   "t": "SCALE.exl",
+   "type": "ref"
+  },
+  {
+   "s": "goc",
+   "t": "SPEC.storylines",
    "type": "ref"
   },
   {
@@ -6699,6 +6999,26 @@
   {
    "s": "SPEC.layout",
    "t": "SPEC.editions",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "AX3",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.axis",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCALE.exl",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.scale",
    "type": "ref"
   },
   {

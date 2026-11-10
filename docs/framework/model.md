@@ -32,8 +32,8 @@ One line per kind; the schema is the source of truth. Ids follow [ids.md](ids.md
 
 | Kind | Id | Lives as | Schema |
 | --- | --- | --- | --- |
-| axis | `AX3` | file in `core/` | (planned) |
-| scale | `SCALE.exl` | file in `core/` | (planned) |
+| axis | `AX3` | `core/axes/AX3.md` | `schemas/axis.md` |
+| scale | `SCALE.exl` | `core/SCALE.exl.md` | `schemas/scale.md` |
 | article | `ART.AX3.1` | inline in `core/constitution/ART.AX3.md` | `schemas/article.md` |
 | law | `LAW.<aspect>.<scope>` | file | `schemas/law.md` |
 | register | `REG.<name>` | file | `schemas/register.md` |

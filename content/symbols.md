@@ -2,12 +2,21 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 130 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
+Có phần đầu (frontmatter): 143 file. Chưa chuyển sang khuôn mới (legacy): 151 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
 | `ART.0` | `constitution` | `locked` | `core/constitution/ART.0.md` | Căn cứ cho các luật không sinh từ một trục: hình thức, khối hiển thị, xưng hô, giọng địa phương, ranh dưới 18 tuổi, cấu trúc. **Bản nháp … |
 | `ART.AX3` | `constitution` | `locked` | `core/constitution/ART.AX3.md` | Các điều lấy căn cứ ở **thành tố**, không ở câu gốc. Câu gốc là lời kể, chỉ kể được thước của người khác; nó nằm ở `samples`. Luật giai đ… |
+| `AX1` | `axis` | `locked` | `core/axes/AX1.md` | Trục hiện sinh (mã cũ `H1`). Trạng thái: `locked 10/11` (câu gốc do Claude dựng, chờ lời của tác giả, Q-037). Khuôn và luật dùng: `schema… |
+| `AX2` | `axis` | `locked` | `core/axes/AX2.md` | Trục hiện sinh (mã cũ `H2`). Trạng thái: `locked 26/10` (câu gốc và câu trên trang). Khuôn và luật dùng: `schemas/axis.md`. |
+| `AX3` | `axis` | `locked` | `core/axes/AX3.md` | Trục hiện sinh (mã cũ `H3`). Trạng thái: `locked 28/10`; câu gốc viết lại 10/11 (hai câu cuối, rồi luật từ phức). Hiến pháp: `core/consti… |
+| `AX4` | `axis` | `locked` | `core/axes/AX4.md` | Trục hiện sinh (mã cũ `H4`). Trạng thái: `locked 10/11` (tác giả duyệt nguyên trạng; câu gốc chưa trau). Khuôn và luật dùng: `schemas/axi… |
+| `AX5` | `axis` | `locked` | `core/axes/AX5.md` | Trục hiện sinh (mã cũ `H5`). Trạng thái: `locked 10/11` (tác giả duyệt nguyên trạng; câu gốc chưa trau). Khuôn và luật dùng: `schemas/axi… |
+| `AX6` | `axis` | `locked` | `core/axes/AX6.md` | Trục hiện sinh (mã cũ `H6`). Trạng thái: `locked 10/11` (tác giả duyệt nguyên trạng; câu gốc chưa trau, chưa có câu của tác giả, Q-037). … |
+| `AX7` | `axis` | `locked` | `core/axes/AX7.md` | Trục hiện sinh (mã cũ `H7`). Trạng thái: `locked 28/10` (trục gương và nửa Thuyên; nửa Nhi chờ Q-048); câu gốc viết lại theo luật từ phức… |
+| `AX8` | `axis` | `locked` | `core/axes/AX8.md` | Trục hiện sinh (mã cũ `H8`). Trạng thái: `locked 10/11` (tác giả duyệt nguyên trạng; câu gốc chưa trau). Khuôn và luật dùng: `schemas/axi… |
+| `AX9` | `axis` | `locked` | `core/axes/AX9.md` | Trục hiện sinh (mã cũ `H9`). Trạng thái: `locked 28/10`; câu gốc viết lại theo luật từ phức 10/11. Khuôn và luật dùng: `schemas/axis.md`. |
 | `CFG.calendar` | `config` | `proposed` | `config/calendar.md` | Một nguồn duy nhất cho ngày tháng. Luật `LAW.check.weekday` kiểm mọi ngày trong tài liệu theo file này. |
 | `CFG.ids` | `config` | `proposed` | `config/ids.md` | Dùng cho (1) script đổi mã ở B7, (2) `aliases` trong Obsidian để tìm bằng mã cũ vẫn ra, (3) `LAW.check.unique-id`. Chưa đổi mã nào ở B1; … |
 | `CFG.levels` | `config` | `proposed` | `config/levels.md` | Mức đo **độ cần thiết** của một tuyến, node hoặc giao điểm đối với truyện **trong một giai đoạn**. Không đo độ hay của chất liệu. |
@@ -25,6 +34,7 @@ Có phần đầu (frontmatter): 130 file. Chưa chuyển sang khuôn mới (leg
 | `CH.vu.beliefs` | `character` | `agreed` | `world/characters/vu/CH.vu.beliefs.md` | Khuôn hai lớp (`schemas/belief.md`). Dải của Vũ bắt đầu từ `BL-050`. **Giọng tự thoại của Vũ:** xưng "tao", thẳng thắn, không lý thuyết; … |
 | `CH.vu.mechanics` | `character` | `agreed` | `world/characters/vu/mechanics/CH.vu.mechanics.md` | CH.vu.mechanics · Cơ chế của Vũ |
 | `CH.vu.voice` | `character` | `agreed` | `world/characters/vu/CH.vu.voice.md` | **Mục:** `dialogue` · `narration` · `lexicon` · `forbidden`. |
+| `CORE` | `spec` | `locked` | `core/README.md` | Gốc không có tình tiết và không có mức. Nó giữ thứ mọi tuyến được sinh ra để phục vụ: chín trục hiện sinh (`core/axes/AX1` … `AX9`), các … |
 | `FN.nhi.cam` | `function` | `proposed` | `world/characters/nhi/mechanics/FN.nhi.cam.md` | Thấu cảm là giác quan chủ đạo. Cô cảm nhận được điều người khác che giấu, gọi tên được cảm xúc, nhưng lý giải sai nguyên nhân. |
 | `FN.nhi.cong-cu` | `function` | `locked` | `world/characters/nhi/mechanics/FN.nhi.cong-cu.md` | Lựa chọn công cụ theo hoàn cảnh. **Khéo léo cộng đanh đá thành ranh con**: khéo léo đơn thuần thì ra người ngoan ngoãn, đanh đá đơn thuần… |
 | `FN.nhi.phan-khang` | `function` | `proposed` | `world/characters/nhi/mechanics/FN.nhi.phan-khang.md` | Phản kháng là cơ chế mặc định của cô với Thuyên: bị chê bai thì tranh cãi, được khen ngợi thì gạt đi, bị trêu chọc thì đấm. |
@@ -92,7 +102,9 @@ Có phần đầu (frontmatter): 130 file. Chưa chuyển sang khuôn mới (leg
 | `PAST.T-027` | `event` | `page` | `storylines/past/PAST.T/PAST.T-027.md` | Sáu tháng thực tập ở tòa nhà kính; hết thực tập tháng 9, "không biết dậy sớm để làm gì"; mail summit đến thì nhẹ. |
 | `ROM` | `node` | `proposed` | `storylines/rom/ROM.md` | Gốc của các node quan hệ tình cảm `ROM.<cặp>`. Khung tạo sớm (10/11) để chứa lõi gương của [[ROM.TN]]; phần còn lại chuyển ở B4c. |
 | `ROM.TN` | `node` | `proposed` | `storylines/rom/ROM.TN.md` | **Khung** (10/11): node chưa chuyển (B4c). Hiện chỉ có `mirror`, lõi gương của quan hệ, đặt ở đây để nó dùng được các ràng buộc (luật, re… |
+| `SCALE.exl` | `scale` | `locked` | `core/SCALE.exl.md` | Bốn mối lo lớn theo Yalom (chết, tự do, cô đơn, vô nghĩa) là bản đồ, không dùng chữ ấy trên trang. Thang đi hai chiều: từ vật cụ thể sang… |
 | `SCH.article` | `schema` | `proposed` | `schemas/article.md` | A constitution article: an invariant split from an axis; phase laws take their basis from it. See [rules-engine](../../docs/framework/rul… |
+| `SCH.axis` | `schema` | `agreed` | `schemas/axis.md` | An existential axis of the story (old `H<n>`). The root holds axes, not mechanisms: how an axis runs lives in the node that carries it, a… |
 | `SCH.belief` | `schema` | `agreed` | `schemas/belief.md` | A belief (old `NT-`): what a character holds about self, others or the world, produced by personality meeting a wound, consumed by presen… |
 | `SCH.blueprint` | `schema` | `proposed` | `schemas/blueprint.md` | The plan of one chapter: how events combine into it. See [blueprints](../../docs/framework/blueprints.md). |
 | `SCH.character` | `schema` | `proposed` | `schemas/character.md` | A **static** entity (dimension table). Values over time live in nodes (`storylines/`), not here. |
@@ -113,6 +125,7 @@ Có phần đầu (frontmatter): 130 file. Chưa chuyển sang khuôn mới (leg
 | `SCH.post` | `schema` | `proposed` | `schemas/chapter.md` | A chapter as published, in `content/posts/<edition-dir>/`. The chapter file is never renamed or given metadata (the import parser and the… |
 | `SCH.proposal` | `schema` | `proposed` | `schemas/proposal.md` | An unapproved proposal (old `de-xuat/`). **Location:** `proposals/PROP-NNN.md`; once merged, `proposals/_merged/`. **Id:** `PROP-NNN`; ol… |
 | `SCH.register` | `schema` | `proposed` | `schemas/register.md` | A register (văn phong): a voice bundle for narration or dialogue. See [library](../../docs/framework/library.md). |
+| `SCH.scale` | `schema` | `agreed` | `schemas/scale.md` | A graded scale (steps) used by events and attributes, e.g. `SCALE.exl` (old Nấc-HS). **Location:** `core/SCALE.<name>.md`. |
 | `SCH.schema` | `schema` | `proposed` | `schemas/schema.md` | A model of one entity kind. **Location:** `content/schemas/<kind>.md`. **Id:** `SCH.<kind>`. |
 | `SCH.secret` | `schema` | `proposed` | `schemas/secret.md` | A secret, tracked as an entity to know **who knows what, when**. **Location:** `world/secrets/SEC-NNN.md`. **Id:** `SEC-NNN`. |
 | `SCH.setting` | `schema` | `proposed` | `schemas/setting.md` | A place, a recurring space. **Location:** `world/settings/SET.<name>.md`. **Id:** `SET.<name>`. Header: `parent` (larger setting, if any). |

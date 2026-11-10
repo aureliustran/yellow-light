@@ -59,11 +59,9 @@ Các điều lấy căn cứ ở **thành tố**, không ở câu gốc. Câu g�
 
 ## samples
 
-### Câu gốc `locked 10/11`
+### Câu gốc
 
-Lời kể; dùng được trên trang. Viết lại theo luật từ phức 10/11; bản trước đó nằm ở `moved`. Câu đầu và các câu nối do Claude dựng từ câu thô của tác giả (`goc.md` §2 H3); hai câu cuối viết lại 10/11 để chứa cái cân của Thuyên (phép đo, phiên bản lý tưởng, kéo/đẩy, chuyển hóa).
-
-> *Đủ không phải là một con số. Đủ là câu trả lời cho câu hỏi: ai đang cầm thước. Thế hệ đi qua đói rét cầm một cây thước chỉ có hai vạch, no bụng và ấm áp, nên đặt lên lưng đứa trẻ nào cũng thấy sung sướng, và không nhìn thấy điều gì nó thiếu thốn. Cha mẹ cầm một cây thước mà vạch cuối cùng luôn nằm ngay cạnh con số vừa đạt được. Đứa trẻ lớn lên tự chế tạo cho mình một cái cân, thứ không cần ai gật đầu, và đó là lần đầu tiên nó được đứng thẳng. Cái cân không biết dối trá: nó chỉ cân đo thứ được đặt lên, cho đúng một mục đích nó theo đuổi. Nhưng quả cân ở đĩa bên kia là một hình người mờ ảo, chính nó ở cuối con đường, thay đổi hình dạng mỗi lần nó đổi hướng đi; và bàn tay đặt quả cân lên không chỉ có khát vọng, mà cả nỗi sợ hãi của những năm tháng mỗi vạch thiếu hụt là một trận roi. Rồi một ngày nó vẫn ghi nhớ từng trận roi, chỉ quên rằng đứa trẻ nằm trên thước năm ấy là chính mình, và đặt người khác lên cái cân được chế tạo cho mục đích của mình.*
+Bản chính ở [[AX3]] (`root`, `locked 28/10`, viết lại 10/11); câu gốc H3 là lời kể, dùng được trên trang. Hiến pháp không chép lại để khỏi lệch.
 
 ## moved
 
