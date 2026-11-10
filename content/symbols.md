@@ -90,7 +90,7 @@ Có phần đầu (frontmatter): 127 file. Chưa chuyển sang khuôn mới (leg
 | `PAST.T-026` | `event` | `agreed` | `storylines/past/PAST.T/PAST.T-026.md` | Thư mục *sau-nay*, *Congratulations.*, đọc một lần rồi không mở. |
 | `PAST.T-027` | `event` | `page` | `storylines/past/PAST.T/PAST.T-027.md` | Sáu tháng thực tập ở tòa nhà kính; hết thực tập tháng 9, "không biết dậy sớm để làm gì"; mail summit đến thì nhẹ. |
 | `SCH.article` | `schema` | `proposed` | `schemas/article.md` | A constitution article: an invariant split from an axis; phase laws take their basis from it. See [rules-engine](../../docs/framework/rul… |
-| `SCH.belief` | `schema` | `proposed` | `schemas/belief.md` | A belief (old `NT-`): a product of a past anchor, consumed by present events. |
+| `SCH.belief` | `schema` | `agreed` | `schemas/belief.md` | A belief (old `NT-`): what a character holds about self, others or the world, produced by personality meeting a wound, consumed by presen… |
 | `SCH.blueprint` | `schema` | `proposed` | `schemas/blueprint.md` | The plan of one chapter: how events combine into it. See [blueprints](../../docs/framework/blueprints.md). |
 | `SCH.character` | `schema` | `proposed` | `schemas/character.md` | A **static** entity (dimension table). Values over time live in nodes (`storylines/`), not here. |
 | `SCH.config` | `schema` | `proposed` | `schemas/config.md` | A constant of the story (calendar, phases, levels, statuses, old→new id map). **Location:** `content/config/<name>.md`. **Id:** `CFG.<nam… |

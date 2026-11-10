@@ -261,12 +261,20 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-029
 
-- **statement:** **Yếu là có tội.** Lời gốc: *Thằng bé ấy không có gì để người ta sợ, nên người ta đánh.* Động cơ đẩy.
+- **statement:** Không ai được chọn đau hay không đau, chỉ được chọn đau cái nào; vậy thì tự chọn cái đau lời nhất cho mình. Động cơ đẩy.
+- **definition:** Nỗi sợ là bản năng không muốn đau. Đi theo bản năng là bỏ quyền tự quyết, phó mặc việc của mình cho người khác, và kết cục vẫn đau, cho lợi ích của họ. Vì vậy người ta phải tự chọn nỗi đau có lợi nhất cho mình. **Vì sao nó đúng một nửa:** anh tin mình đang vượt qua nỗi sợ, nhưng chính việc chọn "cái đau lời nhất cho tao" do một nỗi sợ khác quyết: sợ lại thành người đau cho lợi ích của kẻ khác, như dưới cây roi. Lực đẩy vẫn cầm lái, và anh tưởng đó là tự quyết ([[SELF.thuyen]] G3; [[ART.AX3]] .3).
+- **ref:** `câu` · *"There are only two pains in life, the pain of discipline or the pain of regret."* Ghi sớm nhất ở Anthony Robbins, *Unlimited Power* (1986), như một câu "người ta vẫn nói"; thường gán cho Jim Rohn, chưa kiểm chứng (https://barrypopik.com/blog/suffer_the_pain_of_discipline_or_suffer_the_pain_of_regret_exercise_adage)
+- **deviation:** câu ngạn ngữ nói về kỷ luật; với Thuyên, chọn đau là **giành lại quyền tự quyết từ tay người khác** (nét không chịu bị xếp, nét thực dụng).
+- **seen:** `thay`
+- **monologue:**
+  - `ngo-nhan` · lớp 7, đêm bẻ roi: **Yếu là có tội.** *Thằng bé ấy không có gì để người ta sợ, nên người ta đánh.* (`locked 28/10`)
+  - `dien-giai` · về sau, qua lăng kính khách quan (giọng phòng kín, xưng "tao"): *Không ai được chọn đau hay không đau. Chỉ được chọn đau cái nào. Sợ là cái thân không muốn đau; nghe nó là đưa cái quyền chọn cho người khác, rồi cuối cùng vẫn đau, mà đau cho lợi của họ. Vậy thì tao chọn. Cái đau nào lời nhất cho tao.* (`locked 10/11`; thời điểm chuyển nấc `needs-decision`)
 - **other-face:** none
-- **axis · step:** AX9
+- **axis · step:** AX9, AX2
 - **origin:** PAST.T: đêm bẻ roi, sổ hai cột (lớp 7)
+- **children:** BL-027 *Sợ còn hơn thương*, BL-006 *Cãi thì tốn, lách thì không*
 - **consumed (nguồn cũ):** *Hoan hỉ* (cột điện), *Hụt hẫng* ("Gà vcl"), P2; FN.thuyen.phong-kin, FN.thuyen.lang-kinh
-- **status:** `locked 28/10` · alias `NT-29`
+- **status:** định nghĩa và hai nấc `locked 10/11` · alias `NT-29`, "Yếu là có tội"
 
 ### BL-030
 

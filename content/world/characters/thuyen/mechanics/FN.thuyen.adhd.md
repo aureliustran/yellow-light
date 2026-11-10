@@ -24,6 +24,7 @@ render    luật viết dưới; DV-001 ("chịu cố thì được" thuộc b�
 
 ## notes
 
+- **Không ngồi yên được** `locked 10/11`: hiệu ứng tâm lý bẩm sinh, không phải niềm tin; trong đầu anh không có lời nào cho nó (`seen: khong`). Ngồi yên khó chịu thật trong thân; anh lấp bằng việc kế tiếp. Tiên đề 3–4 của hệ giá trị ("sửa xong mới được đứng yên", "mông lung cũng là khuyết") là lời giải thích khoác lên nó về sau. Gần với Pascal, *Pensées*: *"Tout le malheur des hommes vient d'une seule chose, qui est de ne savoir pas demeurer en repos, dans une chambre."* Trên trang: tay tự tìm việc; buổi chiều Chủ nhật không ngồi yên được (`M-he-gia-tri.md` §5).
 - **Bố mẹ không biết** `locked 01/11`; không người lớn nào nghi, kể cả thầy cô; không có thuốc trong QK.T.
 - **Luật viết** (`proposed`; cách viết biểu hiện `agreed 01/11`): trong QK.T không gọi tên (người lớn dùng chữ của họ: *ngu, lì, đầu óc để mô*); hiện bằng thân thể và nhịp câu; không biến thành lời giải thích cho mọi thứ; không lãng mạn hóa, không bệnh án hóa; giỏi không đều là mấu chốt; sang chấn và ADHD cùng có, không cảnh nào gợi "biết sớm thì không bị đánh".
 - **Viết từ bên trong đứa trẻ:** thế giới kéo nó đi (tiếng quạt, con thạch sùng); khoảng hở giữa ý định và tay; nhịp câu theo đầu óc.

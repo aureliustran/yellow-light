@@ -1645,7 +1645,7 @@
    "title": "schema · belief",
    "layer": "foundation",
    "kind": "schema",
-   "status": "proposed",
+   "status": "agreed",
    "weight": {},
    "effective": ""
   },
@@ -3430,6 +3430,16 @@
    "s": "CH.thuyen.beliefs",
    "t": "CH.thuyen",
    "type": "parent"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "SELF.thuyen",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "ART.AX3",
+   "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
@@ -5583,6 +5593,11 @@
   },
   {
    "s": "SCH.belief",
+   "t": "goc",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.belief",
    "t": "CFG.statuses",
    "type": "ref"
   },
@@ -6194,6 +6209,11 @@
   {
    "s": "CH.thuyen.mechanics",
    "t": "vu",
+   "type": "ref"
+  },
+  {
+   "s": "FN.thuyen.adhd",
+   "t": "M-he-gia-tri",
    "type": "ref"
   },
   {
