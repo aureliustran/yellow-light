@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 194 file. Chưa chuyển sang khuôn mới (legacy): 138 file.
+Có phần đầu (frontmatter): 194 file. Chưa chuyển sang khuôn mới (legacy): 139 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
