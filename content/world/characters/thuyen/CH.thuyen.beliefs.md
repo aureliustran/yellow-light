@@ -4,7 +4,7 @@ kind: character
 status: agreed
 updated: 2026-11-10
 aliases: [niềm tin Thuyên, NT Thuyên]
-exports: [BL-001, BL-002, BL-003, BL-004, BL-005, BL-006, BL-007, BL-008, BL-009, BL-010, BL-011, BL-012, BL-013, BL-014, BL-015, BL-016, BL-017, BL-018, BL-019, BL-020, BL-021, BL-022, BL-023, BL-024, BL-025, BL-026, BL-027, BL-029, BL-030, BL-031, BL-032, BL-033, BL-034, BL-035]
+exports: [BL-001, BL-002, BL-003, BL-004, BL-005, BL-006, BL-007, BL-008, BL-009, BL-010, BL-011, BL-012, BL-013, BL-014, BL-015, BL-016, BL-017, BL-018, BL-019, BL-020, BL-021, BL-022, BL-023, BL-024, BL-025, BL-026, BL-027, BL-029, BL-030, BL-031, BL-032, BL-033, BL-034, BL-035, BL-037]
 parent: "[[CH.thuyen]]"
 sources: [_archive/tuyen/qua-khu/README.md §4, _archive/tuyen/qua-khu/thuyen.md §1, §4, §6, _archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §11, _archive/tuyen/qua-khu/thuyen-da-nhan-cach.md §7, _archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §4.5, de-xuat/qk-t-plan-viet-lai-quang-1-v3.md §0]
 ---
@@ -522,6 +522,20 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **question:** (anh không hỏi; `seen: khong` suốt Phần 1)
 - **axes:** AX7, AX8
 - **definition:** Nhu cầu được ôm, được nghe khóc, được thừa nhận vì đã cố và đã chịu; nỗi cô độc vì không ai ở lại với phần thật nhất của anh. Chỉ có lớp định nghĩa (luật của gói ở đầu file). Nằm dưới: tầng ẩn của BL-024 ("giỏi thì được thương"), mặt kia của BL-024 và BL-025, khóa 3 của BL-017; cơ chế: [[FN.thuyen.cai-goi]].
+
+### BL-037
+
+- **cluster:** C7
+- **parent:** BL-024 (tầng tình thương: "giỏi thì được thương")
+- **definition:** Được ôm, được yêu thương là điều có thật, và nó có hình hài: nếu anh có Nhi thì sẽ có điều đó. Cùng với lời hứa đêm say, niềm tin buộc chặt tình thương vào điều kiện "xứng đáng": có được cô là có được cái ôm, nhưng chỉ khi anh đủ. **Niềm tin mù:** anh không biết mình mang nó; nó vận hành dưới mọi tính toán của GĐ2.
+- **ref:** `câu` · Erich Fromm (1956), *The Art of Loving*: "Immature love says: 'I love you because I need you.' Mature love says: 'I need you because I love you.'"
+- **deviation:** với Fromm, người yêu non nớt ít nhất biết mình cần; Thuyên không biết mình cần, và đặt cái cần ấy sau một điều kiện ("xứng đáng") để khỏi phải nhận.
+- **seen:** `khong` (luật của gói; chỉ lớp định nghĩa, không độc thoại)
+- **page** `locked 11/11` (tác giả): lên trang **chỉ bằng cảm xúc và hồi tưởng về lúc đau** (cái gối, những đêm khóc, những lần không được ôm); không câu nào cho thấy anh nhận thức rõ niềm tin này, kể cả trong độc thoại hay giọng Ngạo; người kể không gọi tên nó.
+- **axis · step:** AX7, AX8
+- **origin:** mầm ở C7 (cái gối, [[FN.thuyen.cai-goi]]); kết tinh ở [[X-011-001]] (đêm say: "Nhưng anh xứng đáng mà", "Em yêu anh")
+- **consumed:** biến chất GĐ2 ở THR.LAB (X-011.G1); tình tiết cụ thể chưa có
+- **status:** nội dung `locked 11/11` (tác giả) · câu chữ `proposed`
 
 ## Đã gộp, đã chuyển
 
