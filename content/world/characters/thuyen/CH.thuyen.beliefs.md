@@ -424,10 +424,16 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **seen:** `thay`
 - **monologue:**
   - `ngo-nhan` · lớp 7, đêm bẻ roi: **Yếu là có tội.** *Thằng bé ấy không có gì để người ta sợ, nên người ta đánh.* (`locked 28/10`)
-  - `dien-giai` · về sau, qua lăng kính khách quan (giọng phòng kín, xưng "tao"): *Không ai được chọn đau hay không đau. Chỉ được chọn đau cái nào. Sợ là cái thân không muốn đau; nghe nó là đưa cái quyền chọn cho người khác, rồi cuối cùng vẫn đau, mà đau cho lợi của họ. Vậy thì tao chọn. Cái đau nào lời nhất cho tao.* (`locked 10/11`; thời điểm chuyển nấc `needs-decision`)
+  - `dien-giai` · về sau, qua lăng kính khách quan (giọng phòng kín, xưng "tao"): *Không ai được chọn đau hay không đau. Chỉ được chọn đau cái nào. Sợ là cái thân không muốn đau; nghe nó là đưa cái quyền chọn cho người khác, rồi cuối cùng vẫn đau, mà đau cho lợi của họ. Vậy thì tao chọn. Cái đau nào lời nhất cho tao.* (`locked 10/11`; hình thành ở lớp 11 `locked 11/11`)
+- **expression** `locked 11/11` (tác giả): lực kéo có ở mọi thời điểm, lực đẩy có ở lúc cực đoan; vì vậy biểu hiện của niềm tin **dàn trải suốt câu chuyện**, mỗi chặng một cách, **mức độ luôn cao**:
+  - lớp 11 (hình thành dạng diễn giải): tương đối thô, biểu hiện trực tiếp;
+  - lớp 12: biến động, để anh nhận ra sự thấu cảm là yếu tố quan trọng;
+  - đại học → GĐ1: thể hiện theo cách hòa khí;
+  - GĐ2 → điểm gãy: tinh vi, thao túng.
+- **amplified:** [[X-011-001]] (đêm say): vạch của Thuyên đã được nâng lên (cái ghế 50 triệu…), nên cái đau "lời nhất" phải chọn cũng nặng hơn `locked 11/11`.
 - **other-face:** none
 - **axis · step:** AX9, AX2
-- **origin:** PAST.T: đêm bẻ roi, sổ hai cột (lớp 7)
+- **origin:** PAST.T: đêm bẻ roi, sổ hai cột (lớp 7, ngộ nhận); dạng diễn giải hình thành ở lớp 11
 - **children:** BL-027 *Sợ còn hơn thương*, BL-006 *Cãi thì tốn, lách thì không*
 - **consumed (nguồn cũ):** *Hoan hỉ* (cột điện), *Hụt hẫng* ("Gà vcl"), P2; FN.thuyen.phong-kin, FN.thuyen.lang-kinh
 - **status:** định nghĩa và hai nấc `locked 10/11` · alias `NT-29`, "Yếu là có tội"

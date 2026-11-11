@@ -21,7 +21,8 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 - [x] **Lâu đài** định nghĩa sáu phần trong `CH.nhi` (c13a526).
 - [x] **Gương Thuyên – Nhi** đặt ở mục `mirror` của ROM.TN, phụ thuộc một chiều vào niềm tin (e49737f); thêm gương quá khứ (bcb96db).
 - [x] **X-011 (đêm say)**: mục tiêu riêng X-011.G1 (tác giả 11/11): khuếch đại các niềm tin liên quan để biến chất GĐ2 ở lab xảy ra; lời hứa thành lá X-011-001.
-- [x] **X-011-001 (lời hứa)** duyệt 11/11, gồm các niềm tin khuếch đại BL-024, 034, 030.
+- [x] **X-011-001 (lời hứa)** duyệt 11/11, gồm các niềm tin khuếch đại BL-024, 034, 030; thêm BL-029 (vạch đã nâng lên: ghế 50 triệu).
+- [x] **BL-029, các chặng** (tác giả 11/11): dạng diễn giải hình thành ở lớp 11; kéo mọi lúc, đẩy lúc cực đoan, nên biểu hiện dàn trải cả truyện, mức luôn cao: lớp 11 thô, trực tiếp → lớp 12 biến động, nhận ra thấu cảm → ĐH–GĐ1 hòa khí → GĐ2–gãy tinh vi, thao túng.
 - [x] **Khuếch đại lớn nhất ở X-011-001** (tác giả 11/11): niềm tin có sẵn của C7 Tình thương (có Nhi thì có cái ôm), không sinh niềm tin mới; niềm tin mù, lên trang chỉ bằng cảm xúc và hồi tưởng lúc đau; kỹ thuật: hơi ấm khi ôm, skinship về sau; mở luật cho C7 có độc thoại cảm xúc, không nhận thức.
 - [x] **BL-022, chặng đổ vỡ lớp 11**: sự kiện làm chủ là thất bại HSG quốc gia lớp 11 và quá trình vực dậy (tác giả 11/11); lá chưa định nghĩa, ghi ở gaps của PAST.T.
 - [x] **Vũ, Nhi** nâng theo khuôn hai lớp và luật từ phức (7107865).
@@ -50,7 +51,6 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 ## B. Còn mở: cần tác giả quyết
 
 ### Niềm tin
-- [ ] **BL-029**: thời điểm các chặng.
 - [ ] **BL-026**: thời điểm bộ lọc.
 - [ ] **BL-034**: gốc của phiên bản lý tưởng.
 - [ ] **Dải số niềm tin PAST.N.HD**: dải cũ NT-45…49 trùng BL-045 của Nhi.
