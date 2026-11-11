@@ -49,8 +49,7 @@ One line per kind; the schema is the source of truth. Ids follow [ids.md](ids.md
 | node | `ROM.TN`, `PAST.N.HD`, `SELF.thuyen` | file | `schemas/node.md` |
 | goal | `ROM.TN.G2` | inline in its node | `schemas/goal.md` |
 | event | `ROM.TN-014` | file (leaf of the node) | `schemas/event.md` |
-| intersection | `X.PAST.T+ROM.TN` | folder | `schemas/intersection.md` |
-| occasion | `X.PAST.T+ROM.TN-001` | file | `schemas/occasion.md` |
+| intersection | `X-005` | folder | `schemas/intersection.md` |
 | edition | `ED.v2` | file in `plans/` | `schemas/edition.md` |
 | blueprint | `BP.v2.05` | file in `plans/chapters/` | `schemas/blueprint.md` |
 | scene | `BP.v2.05.S2` | inline in its blueprint | (with blueprint) |

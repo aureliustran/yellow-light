@@ -91,9 +91,9 @@ Kỹ thuật hài rút từ hai cảnh mẫu: [[TEC.humor.want-clash]]. Muốn t
 
 Bảng sinh tay tạm, cho tới khi `canon:check` sinh từ các lá. Mã `TN-?` cũ: số lá đặt theo thứ tự chuyển, sẽ đánh lại theo ngày khi chuyển BRIEF.
 
-| Lá | Thời điểm | Tình tiết | Lần giao | Trạng thái |
+| Lá | Thời điểm | Tình tiết | Giao điểm liên quan | Trạng thái |
 | --- | --- | --- | --- | --- |
-| [[ROM.TN-001]] | GĐ1, trước *Mixue* | Thuyên chọc Nhi với Phong; thắng lý, đổi sang mặt tầng 17, tự lùi | [[X.PAST.T+ROM.PN+ROM.TN-002]] (quân sư bí mật) | `proposed` · bản nháp 05/11 |
+| [[ROM.TN-001]] | GĐ1, trước *Mixue* | Thuyên chọc Nhi với Phong; thắng lý, đổi sang mặt tầng 17, tự lùi | [[X-005]] (cũ `X-006`, quân sư bí mật) | `proposed` · bản nháp 05/11 |
 | [[ROM.TN-002]] | GĐ1, buổi học bất kỳ | Cốc thừa: cold brew chanh, matcha | — | `proposed` · bản nháp 05/11 |
 
 ## gaps

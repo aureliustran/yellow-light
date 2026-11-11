@@ -3,33 +3,37 @@ id: SCH.intersection
 kind: schema
 entity: intersection
 status: proposed
-updated: 2026-11-10
+updated: 2026-11-11
 required: [id, kind, status, updated, nodes]
 aliases: [schema.intersection]
-sources: [kien-truc-framework.md §8.3, tác giả 10/11]
+sources: [kien-truc-framework.md §8.3, tác giả 10/11, 11/11]
 ---
 # schema · intersection
 
-A **meeting of nodes**: a hyperedge, not a node. It sits outside the node tree and is **defined by its foreign keys**: two or more nodes, of any depth (`ROM.TN`, or a root such as `PAST`). Its occasions are the times those nodes actually meet. See [storylines](../../docs/framework/storylines.md#intersections).
+A **meeting of nodes**: a hyperedge, not a node. It sits outside the node tree and is **defined by foreign keys** to two or more nodes, of any depth (`ROM.TN`, or a root such as `PAST`). See [storylines](../../docs/framework/storylines.md#intersections).
 
-**Location** `proposed 10/11`: every intersection is a **folder** under `storylines/intersections/`, named by its id, holding its definition file `<id>/<id>.md`. Its occasions ([schema](occasion.md)) are files in the same folder.
-
-**Id:** `X.<key>`, where `<key>` is the node ids of `nodes`, sorted, joined by `+` (`X.PAST.T+ROM.PN+ROM.TN`). One set of nodes has exactly one intersection: a new meeting of the same nodes is a **new occasion** in the existing folder, numbered in order of appearance (`X.PAST.T+ROM.PN+ROM.TN-001`, `-002`). A meeting with a different set of nodes is a different intersection.
+**Location:** a folder `storylines/intersections/X-NNN/` holding its definition file `X-NNN.md` and its event leaves `X-NNN-NNN.md` (the same shape as a node). **Id:** `X-NNN`, its own number, not built from the keys `proposed 11/11`. One set of nodes has exactly one intersection (`LAW.check.x-unique`, planned): a new meeting of the same nodes is a new event in the existing intersection, not a new intersection.
 
 ## Stored
 
 | Field | Meaning |
 | --- | --- |
-| `nodes` | `[[node]]` links, at least two; the key of the id; never edited after creation (a new set is a new intersection) |
-| `share` | optional: which section of which node is readable through this intersection, and by whom (`[[FAM.T]] relation → [[PAST.T]]`) `proposed 11/11`. The only way a node reads another node's definitions |
-| `override` | laws or register for every occasion of this intersection, with a reason |
+| `nodes` | `[[node]]` links, at least two: the foreign keys. A different set of nodes is a different intersection |
+| `share` | optional: which section of which node is readable through this intersection, and by whom (`[[FAM.T]] relation → [[PAST.T]]`). The only way a node reads another node's definitions |
+| `goals` | the intersection's own goals `X-NNN.G<n>`: goals that are not part of any single node's goal |
+| `seed` | old meetings carried over without a goal yet (old codes as aliases) |
+| `override` | laws or register for every event of this intersection, with a reason |
 | `open` | open questions (`Q-`) |
 
-The `occasions` table in the body (occasion, name, time) is a convenience index; the files in the folder are the source.
+## Ownership of events `proposed 11/11`
+
+An event belongs to the goal it serves, not to who is in it:
+1. If its purpose is part of one node's goal, it is a leaf of **that node**, even when people of other nodes take part (a flashback about the family that serves `PAST.T` is a `PAST.T` leaf).
+2. If its purpose is not part of any single node's goal, it is a leaf of the **intersection**, and only once the intersection has a goal of its own for it to serve.
 
 ## Rules
 
-1. `nodes` holds at least two nodes and matches the id key (`LAW.check.x-key`, planned).
-2. An intersection **holds no events**; events live in their own node and point to an occasion with `x` and `beat`.
-3. Nodes never point at each other directly; they meet only at intersections. When one node must read another's definitions (FAM.T defines the family, PAST.T writes its past), the intersection declares it in `share`, and the reading node's events join an occasion of that intersection.
-4. An occasion's participating nodes (generated from events) must be a subset of its intersection's `nodes`; an event from another node means the meeting belongs to a different intersection.
+1. `nodes` holds at least two nodes; no two intersections share the same set.
+2. Nodes never point at each other directly; they meet only at intersections. A node reads another node's definitions only through a `share` of an intersection both belong to.
+3. An intersection event's `goal` serves a goal of the intersection (`LAW.check.goal-chain`); the people in it come from the intersection's `nodes`.
+4. Causality across nodes is the event's `causes`.

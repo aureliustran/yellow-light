@@ -7,7 +7,7 @@ sources: [content/de-xuat/kien-truc-framework.md §8.1–§8.3; decisions 10/11]
 ---
 # Storylines
 
-Fields: `content/schemas/node.md`, `goal.md`, `event.md`, `intersection.md`, `occasion.md`.
+Fields: `content/schemas/node.md`, `goal.md`, `event.md`, `intersection.md`.
 
 ## Tree `agreed 05/11 · leaves proposed 10/11`
 
@@ -28,7 +28,7 @@ A node is a dynamic entity: a thread with people and events in time, serving at 
 
 ## Event: the leaf `proposed 10/11`
 
-An event is one file inside its node's folder: `storylines/…/<NODE>/<NODE>-NNN.md`. Every node is a folder named by its id, holding `<NODE>.md` and its child-node subfolders; events are the last level and are always files. It is the unit that decides *content*: what must be written, when, for which goal, under which laws, in which way. Who writes it is decided by the blueprint scene that shows it.
+An event is one file inside its owner's folder: `storylines/…/<NODE>/<NODE>-NNN.md`, or `storylines/intersections/X-NNN/X-NNN-NNN.md`. Every node is a folder named by its id, holding `<NODE>.md` and its child-node subfolders; events are the last level and are always files. It is the unit that decides *content*: what must be written, when, for which goal, under which laws, in which way. Who writes it is decided by the blueprint scene that shows it.
 
 **Declare little, resolve the rest.** The file has two parts:
 
@@ -51,10 +51,12 @@ Checks: `LAW.check.goal-chain` (an event's goal serves a goal of its own parent)
 
 ## Intersections `agreed 05/11`
 
-An intersection `X.<key>` is a hyperedge outside the node tree, **defined by foreign keys to two or more nodes** (`nodes`; the key is their ids, sorted, joined by `+`). It is a folder; its **occasions** `X.<key>-NNN` are files inside it, numbered in order of appearance: the same set of nodes meeting again adds an occasion, not an intersection (`proposed 10/11`). Occasions may form spans containing occasions. Events join an occasion with `x` and `beat`.
+An intersection `X-NNN` is a hyperedge outside the node tree, **defined by foreign keys to two or more nodes** (`nodes`), with its own number (`proposed 11/11`). It is a folder, shaped like a node: definition file plus event leaves `X-NNN-NNN`. The same set of nodes meeting again adds an event, not an intersection.
 
-- **Stored:** intersection: `nodes`, `share` (which node section is readable through it, and by whom; the only way a node reads another node's definitions, e.g. `FAM.T` relation → `PAST.T`, `proposed 11/11`), override, open questions. Occasion: type (`event`, `span`, `info`), parent, time, place, override, open questions.
-- **Generated:** participating nodes; beat table (by `beat`); beat holder (the node with an event in that beat and the highest level; on a tie, the owning node); POV; register; level of the occasion; who knows what before and after (from `changes` on secrets); outcome.
+**Ownership of events** (`proposed 11/11`): an event belongs to the goal it serves. Part of one node's goal → a leaf of that node, whoever takes part. Part of no single node's goal → a leaf of the intersection, only once the intersection has a goal of its own.
+
+- **Stored:** `nodes`, `share` (which node section is readable through it, and by whom; the only way a node reads another node's definitions, e.g. `FAM.T` relation → `PAST.T`), `goals`, `seed` (old meetings without a goal yet), override, open questions.
+- **Generated:** participating nodes per event; POV; register; level; who knows what before and after (from `changes` on secrets); outcome.
 
 Causality across nodes is the event field `causes`, not an intersection.
 

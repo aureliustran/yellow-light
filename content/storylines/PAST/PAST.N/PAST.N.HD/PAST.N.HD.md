@@ -11,7 +11,7 @@ sources: [_archive/tuyen/qua-khu/nhi.md §4 (chuyển T3, 10/11)]
 ---
 # PAST.N.HD · Hội đồng trong quá khứ của Nhi
 
-Phần hội đồng trong quá khứ của Nhi. Định nghĩa hội đồng (thành viên, thước đo, luật) ở [[SOL.HD]]; node này đọc qua giao điểm [[X.PAST.N.HD+SOL.HD]] (`share`), không đọc thẳng. Dừng ở 10/2024; từ đó trở đi là [[SOL.HD]] `locked 30/10`. Không có mức riêng trong ma trận cũ: theo mức của [[PAST.N]].
+Phần hội đồng trong quá khứ của Nhi. Định nghĩa hội đồng (thành viên, thước đo, luật) ở [[SOL.HD]]; node này đọc qua giao điểm [[X-020]] (`share`), không đọc thẳng. Dừng ở 10/2024; từ đó trở đi là [[SOL.HD]] `locked 30/10`. Không có mức riêng trong ma trận cũ: theo mức của [[PAST.N]].
 
 ## scope `locked 31/10`
 

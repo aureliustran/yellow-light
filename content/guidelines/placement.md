@@ -16,7 +16,7 @@ Ask the questions in order; the first "yes" decides. Ids: `docs/framework/ids.md
 | 3 | an idea or options not yet approved | `proposals/` | `PROP-NNN` |
 | 4 | an invariant derived from an axis | `core/constitution/ART.<AX>.md` | `ART.<AX>.<k>` |
 | 5 | something that must hold in some scope (pass/fail) | `rules/<aspect>/` | `LAW.<aspect>.<scope>` |
-| 6 | only for one node or occasion | the node's or intersection's `rules` section | `<node>.R<n>` |
+| 6 | only for one node or intersection | the node's or intersection's `rules` section | `<node>.R<n>` |
 | 7 | how to write: a voice bundle | `lib/registers/` | `REG.<name>` |
 | 8 | how to write: a method | `lib/<aspect>/` | `TEC.<aspect>.<name>` |
 | 9 | how to write: the shape of a beat or scene | `lib/patterns/` | `PAT.<name>` |
@@ -26,7 +26,7 @@ Ask the questions in order; the first "yes" decides. Ids: `docs/framework/ids.md
 | 13 | a place, object, secret (a group is a node: its definition and members live in the node that owns it, e.g. `SOL.HD`) | `world/settings/`, `objects/`, `secrets/` | `SET.`, `OBJ-NNN`, `SEC-NNN` |
 | 14 | a value of an attribute at a time, a relation state | the owner node (`state`, `relation`), never the character | — |
 | 15 | something that happens | an event leaf under its node | `<node>-NNN` |
-| 16 | an occasion several nodes share | `storylines/intersections/` | `X-NNN` |
+| 16 | a meeting of several nodes (definition, `share`, or an event serving no single node's goal) | `storylines/intersections/X-NNN/` | `X-NNN`, `X-NNN-NNN` |
 | 17 | a goal of a thread | the node's `goals` | `<node>.G<n>` |
 | 18 | how events combine into a chapter | `plans/chapters/` | `BP.<edition>.<nn>` |
 | 19 | research, samples, raw material | `assets/` | `AST.<name>`, `SMP-NNN` |

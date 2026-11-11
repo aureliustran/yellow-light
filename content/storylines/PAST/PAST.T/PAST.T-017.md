@@ -7,7 +7,6 @@ updated: 2026-11-10
 span: "thu lớp 11 (2020), mốc C6b"
 goal: "serves PAST.T.G2"
 event: "Bố mẹ gạt 'Tin thì được cái chi'; *Không bao giờ đủ*; cô bạn mập mờ thấy anh buồn, anh dập bằng 'Tao số một tỉnh' (Ngạo lần đầu mất vỏ); cô rút đi; cùng tuần anh soạn câu cho Tùng, Tùng thành công. Đêm ấy ném gối, ba giờ sáng kéo về."
-x: "[[X.FAM.T+PAST.T-002]]"
 participants: ["[[CH.thuyen]]"]
 axis: [AX3, AX4, AX9]
 level: "EXL 5"

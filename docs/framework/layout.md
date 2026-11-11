@@ -35,8 +35,8 @@ content/
 │   ├── <ROOT>/<ROOT>.md                       every node is a folder named by its id
 │   ├── <ROOT>/<NODE>/<NODE>.md                child node = subfolder of its parent
 │   ├── <ROOT>/<NODE>/<NODE>-NNN.md            event leaves: files, never folders
-│   └── intersections/X.<key>/X.<key>.md        intersection = folder, defined by ≥2 node keys
-│       └── X.<key>-NNN.md                      occasions, numbered in order of appearance
+│   └── intersections/X-NNN/X-NNN.md          intersection = folder, own id, foreign keys in `nodes` (≥2)
+│       └── X-NNN-NNN.md                       its events (only with a goal of its own)
 ├── plans/                 L4 · editions · chapters/BP.<edition>.<nn>.md
 ├── posts/                 output
 │   ├── vercel/            edition v2, the main site

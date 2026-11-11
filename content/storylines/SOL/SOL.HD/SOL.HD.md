@@ -14,7 +14,7 @@ sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md, w
 
 Ba người bạn thân của Nhi, nhóm chat *HĐQT 🎀*. Phản đối Thuyên vì gia thế không xứng; càng phá càng bất lực, càng có cảm tình. Ba ghế, biên bản, nghị quyết, "bàn cào móng"; đời thường phía Nhi, giao `ROM.TN` gần như mọi lần xuất hiện.
 
-Node này giữ cả định nghĩa của hội đồng (trước là nhóm `GRP.hoi-dong-nhi` ở `world/groups/`, bỏ 11/11). Quá khứ của hội đồng ([[PAST.N.HD]]) đọc định nghĩa qua giao điểm [[X.PAST.N.HD+SOL.HD]].
+Node này giữ cả định nghĩa của hội đồng (trước là nhóm `GRP.hoi-dong-nhi` ở `world/groups/`, bỏ 11/11). Quá khứ của hội đồng ([[PAST.N.HD]]) đọc định nghĩa qua giao điểm [[X-020]].
 
 **Mục:** `identity` · `members` · `weight` · `rules` · `moved` · `gaps`.
 

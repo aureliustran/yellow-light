@@ -314,7 +314,7 @@ Giới hạn: không cho ai thấy bên trong (BL-014 giữ nguyên).
 
 ### bảng neo §6.9 · Gia đình → [[FAM.T]]
 
-Chuyển sang [[FAM.T]] (11/11): định nghĩa nhà Thuyên (cấu trúc, thao túng em, thước di động, giáp nói) ở `relation` và `rules` của FAM.T; chỗ đặt trong interlude ở `handoffs` của FAM.T, chờ PAST.T viết lại. PAST.T đọc FAM.T **chỉ qua** giao điểm [[X.FAM.T+PAST.T]].
+Chuyển sang [[FAM.T]] (11/11): định nghĩa nhà Thuyên (cấu trúc, thao túng em, thước di động, giáp nói) ở `relation` và `rules` của FAM.T; chỗ đặt trong interlude ở `handoffs` của FAM.T, chờ PAST.T viết lại. PAST.T đọc FAM.T **chỉ qua** giao điểm [[X-019]].
 
 ### da-nhan-cach §6 · Gốc theo nấc `proposed`
 

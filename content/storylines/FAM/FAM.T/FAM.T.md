@@ -14,7 +14,7 @@ sources: [_archive/tuyen/README.md §4 (chuyển 10/11), _archive/tuyen/qua-khu/
 
 Cuộc gọi bốn phút mười hai giây, áo sơ mi trắng, giỗ ông và lời khoe 50 triệu, chiến tranh lạnh, trị liệu gia đình (`de-xuat/cay-tuyen.md`).
 
-Nhà Thuyên: mẹ, bố, em trai Khánh, và Thuyên là con cả. Thuộc tính tĩnh của từng người ở gói [[CH.thuyen]] (mục *gia đình*, *em trai Khánh*) và các hàm [[FN.thuyen.thieu]] (thước di động), [[FN.thuyen.quan-su]] (thao túng em, nguồn thứ hai). Node này **định nghĩa quan hệ** trong nhà; tình tiết quá khứ của nhà là lá của [[PAST.T]], đọc định nghĩa ở đây qua giao điểm [[X.FAM.T+PAST.T]] `proposed 11/11`.
+Nhà Thuyên: mẹ, bố, em trai Khánh, và Thuyên là con cả. Thuộc tính tĩnh của từng người ở gói [[CH.thuyen]] (mục *gia đình*, *em trai Khánh*) và các hàm [[FN.thuyen.thieu]] (thước di động), [[FN.thuyen.quan-su]] (thao túng em, nguồn thứ hai). Node này **định nghĩa quan hệ** trong nhà; tình tiết quá khứ của nhà là lá của [[PAST.T]], đọc định nghĩa ở đây qua giao điểm [[X-019]] `proposed 11/11`.
 
 **Mục:** `weight` · `rules` · `relation` · `handoffs` · `gaps`.
 
@@ -32,7 +32,7 @@ Từ ma trận `_archive/tuyen/README.md` §4. Dấu `†`: mức tác giả đ�
 FAM.T không có node con `proposed 11/11`.
 
 ### FAM.T.R2
-Phần đầu (OPEN và mọi thứ trước hiện tại) **chỉ định nghĩa**, không sinh lá. Mọi tình tiết gia đình trước hiện tại là lá của [[PAST.T]]; lá ấy tham gia một lần giao của [[X.FAM.T+PAST.T]] (`x`) và đọc `relation`, `rules` của FAM.T qua giao điểm đó, không đọc thẳng `proposed 11/11`.
+Quá khứ của nhà (trước hiện tại) **chỉ định nghĩa**, không sinh lá ở FAM.T `proposed 11/11`. Hồi tưởng về nhà phục vụ mục tiêu của [[PAST.T]] nên là lá của PAST.T; PAST.T đọc `relation`, `rules` của FAM.T qua `share` của giao điểm [[X-019]]. Tình tiết gia đình ở hiện tại (từ tuần summit trở đi) là lá của FAM.T.
 
 ### FAM.T.R3
 Không câu nào của người kể (hoặc của mẹ) nói mẹ thương ai hơn `locked 30/10`.
@@ -74,7 +74,7 @@ Giai đoạn: OPEN gồm cả quá khứ (mầm non → hết thực tập). Cá
 
 ## handoffs
 
-Chỗ đặt trong interlude, cho lần viết lại [[PAST.T]]. Mỗi việc thành một lá PAST.T và một lần giao trong [[X.FAM.T+PAST.T]] khi viết lại.
+Chỗ đặt trong interlude, cho lần viết lại [[PAST.T]]. Mỗi việc thành một lá PAST.T khi viết lại (đọc FAM.T qua [[X-019]]).
 
 | Việc | Interlude | Ghi chú |
 | --- | --- | --- |

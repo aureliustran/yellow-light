@@ -9,7 +9,6 @@ goal: "Thuyên lùi có cơ sở dữ kiện; lần đầu anh đeo mặt tầng
 event: "Lúc Phong vắng, Thuyên chọc Nhi với Phong. Hai bên đấu dữ kiện; Thuyên thắng lý bằng chính dữ kiện của Nhi, rồi đổi sang 'mặt tầng 17' và tự lùi ('kẻ thứ ba'). Nhi đau và không nói được."
 participants: ["[[CH.thuyen]]", "[[CH.nhi]]"]
 axis: [AX1]
-x: "[[X.PAST.T+ROM.PN+ROM.TN-002]]"
 fuel: "Quân sư bí mật (tin nhắn của Phong); cô nhắc Phong trong bài; kẹp tóc"
 cost: "Lần đầu Thuyên dùng mặt tầng 17 với Nhi; một bậc trên đường tới *Mixue*"
 register: "R1 → R2, nốt lạnh; POV Thuyên rồi --- POV Nhi"
@@ -21,6 +20,8 @@ sources: [_archive/tuyen/romance/thuyen-nhi.md §2, §3 (chuyển T4, 10/11)]
 Lúc Phong vắng, Thuyên chọc Nhi với Phong. Hai bên đấu dữ kiện; Thuyên thắng lý bằng chính dữ kiện của Nhi, rồi đổi sang 'mặt tầng 17' và tự lùi ('kẻ thứ ba'). Nhi đau và không nói được.
 
 **Bản nháp:** `claude/ban-nhap/rom-tn/chon-phong.md` (`bản nháp 05/11`; phần thoại từ "Người không để ý ai…" của Nhi trở đi là của tác giả).
+
+**Giao điểm liên quan:** [[X-005]] (cuộc gặp cũ `X-006`, quân sư bí mật). Lá phục vụ mục tiêu của ROM.TN nên ở node, không thuộc giao điểm.
 
 **Mục tiêu:** chưa nối vào goal của node (ROM.TN chưa có `goals`).
 

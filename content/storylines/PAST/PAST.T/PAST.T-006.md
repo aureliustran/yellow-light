@@ -7,7 +7,6 @@ updated: 2026-11-10
 span: "lớp 4–5 (2013–15)"
 goal: "serves PAST.T.G1"
 event: "Mẹ khen Nam. Đêm ấy anh hỏi gối 'nếu con giỏi như anh Nam thì…', gối không trả lời (DV-016 bậc 1)."
-x: "[[X.FAM.T+PAST.T-001]]"
 participants: ["[[CH.thuyen]]"]
 axis: [AX3, AX7]
 level: "EXL 2"
