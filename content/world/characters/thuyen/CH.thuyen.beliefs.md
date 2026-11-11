@@ -212,17 +212,14 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **ref:** `ý` · Hazel Markus, Paula Nurius (1986), *Possible Selves*, American Psychologist 41(9): hình ảnh về cái tôi có thể có trong tương lai kéo hành vi về phía nó (https://psychologyfanatic.com/possible-selves); Higgins (1987), *self-discrepancy*: khoảng cách cái tôi thực – lý tưởng sinh cảm xúc chán nản, thất vọng (trải nghiệm tiêu cực của lực kéo), khác khoảng cách thực – "phải là" sinh lo âu (lực đẩy, BL-029) (https://www.columbia.edu/cu/psychology/higgins/papers/HIGGINS%3DPSYCH%20REVIEW%201987.pdf) `locked 11/11`
 - **deviation:** hình ảnh lý tưởng của Horney rực rỡ và được tôn thờ; của Thuyên mơ hồ, bị chính anh phủ nhận, đổi hình theo mục đích; người bệnh của Horney tự đo méo, Thuyên đo đúng. Possible self thường rõ nét và tạo động lực tích cực; của Thuyên mơ hồ, bị chính anh phủ nhận, mỗi lần đổi mục tiêu là đổi hình dạng `locked 11/11`. **Khác BL-030:** vạch của bố mẹ dời để giữ "chưa đủ"; vạch của anh dời vì **mục tiêu của anh đổi**, và phiên bản lý tưởng là ảo tưởng về chính anh lúc đạt mục tiêu ấy.
 - **seen:** `khong` `locked 11/11` (trước: `nua`): anh không nhận thức được phiên bản này; định nghĩa đã nói rõ nó mơ hồ. Nó chỉ bật ra như bản năng, không thành ý nghĩ có tên.
-- **monologue:** `locked 11/11` (khuôn): ảo tưởng về phiên bản này diễn giải ở dạng **giả định**: *Nếu tao … (đạt được một mục đích), thì tao …* Không có câu nào gọi tên "phiên bản" hay "khoảng cách"; anh chỉ thấy vế "nếu" và vế "thì", vế "thì" luôn mơ hồ. Ví dụ theo chặng (`proposed`, theo `expression`):
-  - lớp 9: *Nếu tao đỗ chuyên, thì tao sẽ ở một chỗ khác hẳn chỗ này.*
-  - lớp 11: *Nếu tao có giải quốc gia, thì tao không phải giải thích gì với ai nữa.*
-  - GĐ2: *Nếu tao ngồi được cái ghế ấy, thì tao…* (câu bỏ lửng)
+- **monologue:** `locked 11/11` (khuôn): ảo tưởng về phiên bản này diễn giải ở dạng **giả định**: *Nếu tao … (đạt được một mục đích), thì tao …* Không có câu nào gọi tên "phiên bản" hay "khoảng cách"; anh chỉ thấy vế "nếu" và vế "thì", vế "thì" luôn mơ hồ.
   - Bản cũ 10/11 (thay vì `seen: khong`): *Có một phiên bản của tao ở cuối lộ trình này, phiên bản đã đạt được mục đích. Tao không biết hình dạng chính xác của nó, chỉ biết khoảng cách từ đây tới đó đo lường được, và tao đang thu hẹp nó từng ngày… Vớ vẩn.*
 - **children:** BL-007 (11/11)
 - **other-face:** none
 - **axis · step:** AX3
 - **expression** `locked 11/11`: lực kéo luôn cao; mỗi chặng ghi mục tiêu đang đặt vạch: lớp 9 đỗ chuyên ("lần đầu tiên, có một thứ ở phía trước đủ lớn") → lớp 11 HSG quốc gia → lớp 12 du học → GĐ2 ghế 50 triệu và "mọi người coi anh xứng đáng" (khuếch đại ở [[X-011-001]]).
 - **behavior** (nghiên cứu chủ nghĩa hoàn hảo, phần hành vi; `locked 11/11`): đầu tư cưỡng bách (vở giáo án, 5 giờ sáng; Assor và Tal 2012); che giấu chỗ chưa hoàn hảo (cày lén, "thiên tài lười", hai tờ nháp; *perfectionistic self-presentation*, Hewitt và cộng sự 2003); hoãn sự thân mật, phần thưởng tới khi đạt mục tiêu (lời hứa đêm say).
-- **origin:** `locked 11/11` (tác giả): phiên bản bắt đầu từ lúc anh **nhận ra mình có năng lực**. Ứng viên tình tiết: [[PAST.T-008]] (lớp 6, "Cả lớp xem bạn Thuyên giải.") `proposed`. Lớp 9 (đỗ chuyên) là mục tiêu đầu tiên đủ lớn trong `expression`, không còn là gốc.
+- **origin:** `locked 11/11` (tác giả): phiên bản bắt đầu từ lúc anh **nhận ra mình có năng lực**. Tình tiết: [[PAST.T-008]] (lớp 6, "Cả lớp xem bạn Thuyên giải.") `locked 11/11`. Lớp 9 (đỗ chuyên) là mục tiêu đầu tiên đủ lớn trong `expression`, không còn là gốc.
 - **consumed (nguồn cũ):** FN.thuyen.lang-kinh (`motive`); lên trang: [[TEC.interiority.ideal-self]]
 - **status:** `locked 10/11`; ref, deviation, expression, behavior, seen, khuôn độc thoại, origin `locked 11/11`
 

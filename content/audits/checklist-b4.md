@@ -25,7 +25,7 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 - [x] **BL-034** (11/11): vạch dời theo mục tiêu của anh; phiên bản lý tưởng là ảo tưởng về mình lúc đạt mục tiêu; ref Markus và Nurius (possible selves), Higgins (self-discrepancy); expression theo mục tiêu từng chặng; behavior từ nghiên cứu chủ nghĩa hoàn hảo.
 - [x] **Bỏ "giỏi thì được thương"** (tác giả 11/11, cách a): gỡ khỏi BL-024 (tầng không thấy, alias), BL-004, C7, BL-030, FN.thuyen.phuong-trinh (bộ chuyển đổi còn "thiếu = khuyết chưa sửa"), sơ đồ cỗ máy, CH.thuyen, CH.vu, rules/goi-ten-cam-xuc §8, PAST.T.G1, AX7 (on-page, components).
 - [x] **AX7 câu gốc** dựng lại (sự công nhận làm tấm khiên, không gọi tên vòng tay mình thiếu) và **PAST.T.G1** câu chữ mới: duyệt 11/11.
-- [x] **BL-034** (11/11): bắt đầu từ lúc anh nhận ra mình có năng lực; `seen: khong`; độc thoại theo khuôn giả định "Nếu tao …, thì tao …".
+- [x] **BL-034** (11/11): bắt đầu từ lúc anh nhận ra mình có năng lực; `seen: khong`; độc thoại theo khuôn giả định "Nếu tao …, thì tao …" (không ghi ví dụ); gốc ở PAST.T-008 (lớp 6).
 - [x] **BL-026 viết lại** (11/11): không ngại hỏi, không ngại bị mắng, chỉ cần câu trả lời; tự tìm là ưu tiên (năng lực tự phát); bộ lọc chọn người giữ câu trả lời và định hình trước chuỗi câu hỏi, không hạn chế hỏi. Bản đầu của diễn giải trong PAST.T là lời tác giả ("Họ chửi mình, vì họ không có câu trả lời…"), có thể đổi. Dạng diễn giải áp dụng toàn bộ truyện.
 - [x] **Đối chiếu mechanics ↔ beliefs** (11/11, duyệt): BL-007 viết lại (vạch chuyển theo mục tiêu, bỏ "một vòng tay"; sang C2, con của BL-034); cái tôi độc đo bằng ánh nhìn người phán xét; nhiên liệu tách lớp 8–10 / từ C6b, uses BL-029, 034, 024; lăng kính luôn sáng, tếu là chỗ không hệ thống hóa; điểm mù theo BL-030; cái gối mở độc thoại cảm xúc; thước di động: chủ là FN.thuyen.thieu, FAM.T giữ quan hệ; sửa uses của quan-su, nang-khieu, phong-kin (BL-032), phuong-trinh, luoi-co-chon-loc, lang-kinh.
 - [x] **Cái tôi độc** (11/11): không phải tiền mua tình thương; sự công nhận làm khiên bác bỏ mọi lời phán xét, ở GĐ2 để được thương Nhi trọn vẹn (anh đã biết mình có nó). Nối BL-024 (amplified), BL-030, BL-034, BL-029, C7, X-011-001; FN.thuyen.cai-toi, sơ đồ cỗ máy.
@@ -59,7 +59,6 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 ## B. Còn mở: cần tác giả quyết
 
 ### Niềm tin
-- [ ] **BL-034 `origin`**: chọn tình tiết (ứng viên PAST.T-008, lớp 6); ví dụ độc thoại giả định theo chặng (`proposed`).
 - [ ] **Dải số niềm tin PAST.N.HD**: dải cũ NT-45…49 trùng BL-045 của Nhi.
 
 ### Gốc
