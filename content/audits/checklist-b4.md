@@ -20,6 +20,7 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 - [x] **Niềm tin Nhi**: cụm C1 Lâu đài (gốc BL-045, độc thoại của tác giả), C2; không ghi niềm tin Thuyên vào gói Nhi (7914591, 7f97924).
 - [x] **Lâu đài** định nghĩa sáu phần trong `CH.nhi` (c13a526).
 - [x] **Gương Thuyên – Nhi** đặt ở mục `mirror` của ROM.TN, phụ thuộc một chiều vào niềm tin (e49737f); thêm gương quá khứ (bcb96db).
+- [x] **BL-022, chặng đổ vỡ lớp 11**: sự kiện làm chủ là thất bại HSG quốc gia lớp 11 và quá trình vực dậy (tác giả 11/11); lá chưa định nghĩa, ghi ở gaps của PAST.T.
 - [x] **Vũ, Nhi** nâng theo khuôn hai lớp và luật từ phức (7107865).
 
 ### Luật viết
@@ -47,7 +48,6 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 
 ### Niềm tin
 - [ ] **BL-036** (chỗ trống C1): ứng viên là lời hứa với Nhi giữa GĐ1 và GĐ2.
-- [ ] **BL-022**: sự kiện lớp 11 nào sở hữu niềm tin.
 - [ ] **BL-029**: thời điểm các chặng.
 - [ ] **BL-026**: thời điểm bộ lọc.
 - [ ] **BL-034**: gốc của phiên bản lý tưởng.

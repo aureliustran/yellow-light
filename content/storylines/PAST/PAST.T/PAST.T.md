@@ -803,6 +803,8 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 
 ## gaps
 
+- **BL-022, chặng đổ vỡ** `locked 11/11`: sự kiện là thất bại HSG quốc gia lớp 11 và quá trình vực dậy (quãng 2, từ 4/2021); lá chưa định nghĩa. Viết khi PAST.T viết lại.
+
 - Chuyển cảnh chi tiết còn nằm ở nguồn cũ: thang bằng chứng cấp 2, đối kháng với bố mẹ, ám ảnh luyện tập, cô bạn mập mờ, lộ trình sau trượt quốc gia, du học (`thuyen-hai-cai-toi.md` §3–9, §14); cụm cấp 3 (`de-xuat/qk-t-cap-3-motif-lop-10.md`); cảnh QT- của plan quãng 1 (`de-xuat/qk-t-plan-viet-lai-quang-1-v3.md`); gia đình và em trai Khánh (`thuyen.md` §6.9). Mỗi cảnh thành lá khi viết interlude tương ứng.
 - Mặt kia (`other-face`) của phần lớn niềm tin.
 - Năm của 3.2 và 3.4.

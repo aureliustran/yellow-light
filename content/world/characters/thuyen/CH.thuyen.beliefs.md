@@ -343,12 +343,12 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **seen:** `thay`
 - **monologue:**
   - `ngo-nhan` · lớp 9: *Bố mẹ gọi mình là cục đất, và họ nói đúng hơn họ tưởng: thứ họ mô tả là một cỗ máy, không có cảm xúc. Mình đã từng chia sẻ, và lần nào điều mình trân trọng cũng bị biến thành công cụ làm mình tổn thương. Vậy vô cảm không phải là khuyết điểm; nó là cơ chế phòng vệ. Cứ để họ tin rằng mình là cục đất.*
-  - đổ vỡ · lớp 11: vỏ vô cảm không ngăn được cái đau; tình tiết làm chủ `needs-decision` (ứng viên: *Tủi hổ* C6b, *Hụt hẫng*, hệ sao bị phủ nhận).
+  - đổ vỡ · lớp 11: vỏ vô cảm không ngăn được cái đau. Sự kiện làm chủ `locked 11/11` (tác giả): **sau thất bại HSG quốc gia ở lớp 11 và quá trình vực dậy** ([[PAST.T]], quãng 2, từ 4/2021). Tình tiết (lá) của sự kiện chưa định nghĩa.
   - `dien-giai` · đại học trở đi: *Tao vẫn không chia sẻ những điều cần che giấu. Nhưng tao đã học được cách lắng nghe: người khác kể cảm xúc của họ, tao ghi nhận, phân loại, truy nguyên, rồi đưa ra phản hồi phù hợp, và tao làm việc ấy tốt hơn phần lớn những người có cảm xúc. Có lẽ tao vẫn là một cỗ máy vô cảm, chỉ là một cỗ máy biết nhận diện và xử lý các tham số của cảm xúc.*
 - **children:** BL-014, BL-025
 - **other-face:** có người trân trọng thứ anh chia sẻ; anh khóc và được ôm (một cỗ máy không khóc)
 - **axis · step:** EXL 4 · AX4, AX7, AX8, AX3
-- **origin:** PAST.T 1.9 (câu của mẹ với bác Hùng: "Học thì được, mà người thì như cục đất", legacy ch.3 *Tiếng dép*)
+- **origin:** PAST.T 1.9 (câu của mẹ với bác Hùng: "Học thì được, mà người thì như cục đất", legacy ch.3 *Tiếng dép*); đổ vỡ: sau thất bại HSG quốc gia lớp 11 và quá trình vực dậy (lá chưa định nghĩa)
 - **consumed (nguồn cũ):** Trào-thước; đáy Phần 1; quân sư (FN.thuyen.quan-su); Nhi gọi tên cảm xúc cho anh (FN.nhi.cam)
 - **status:** `locked 10/11` · alias `NT-22`, "Mình vốn là đất"
 
