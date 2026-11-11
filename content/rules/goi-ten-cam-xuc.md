@@ -71,7 +71,7 @@ Khi một cảnh có cả nhịp được gọi tên và nhịp R8, chuyển b�
 
    TB-1 luật khóa giữ nguyên: không nhân vật nào nói câu thuộc bộ chịu đựng với anh; cái gối vẫn là nơi duy nhất có giọng ấy.
 7. **Liều.** Khác §3: ở cảnh đỉnh của quãng 1, được một đoạn gọi tên dồn (câu dài, điệp, khối trữ tình kiểu Nguyên Hồng), tối đa hai đỉnh mỗi chương. Ngoài đỉnh, theo §3 (một câu ngắn sau một chi tiết).
-8. **Giữ:** người kể không bao giờ nói mạ thương ai hơn. Đứa trẻ kết luận bằng phương trình (*giỏi thì được thương*), không bằng câu so sánh tình thương của mạ.
+8. **Giữ:** người kể không bao giờ nói mạ thương ai hơn. Đứa trẻ kết luận bằng phép đo của cái cân (thước, vạch, khuyết chưa sửa), không bằng câu so sánh tình thương của mẹ. Sửa 11/11: bỏ phương trình *giỏi thì được thương*.
 9. **An toàn, không đổi:** Thuyên dưới 18 trong quãng 1–2. Gọi tên cảm xúc không kéo theo chi tiết cơ thể nhạy cảm. Cảnh đòn giữ khoảng cách, không tả vết, không máu. Khuôn tràn chỉ dùng cấu trúc và chi tiết của chính cơn khóc (registers §2.5, ranh cứng).
 
 **Quãng 2 (interlude cấp 3) và quãng 3 (đại học)** `[đề xuất]`: theo §1 (điều kiện) và §2 (giới hạn "chưa tự nhận"); interlude quãng 2 giữ cú cắt TB-12 (câu bộ chịu đựng bị cắt bằng bộ kết quả), và tên interlude vẫn là phần bị cắt.

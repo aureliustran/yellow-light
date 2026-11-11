@@ -29,8 +29,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-024
 
-- **cluster:** C1 (tầng ẩn thuộc C7)
-- **definition:** Hai tầng. **Tầng anh thấy:** sự công nhận là sự bảo hộ chủ kiến của mình trước người khác; thứ được công nhận là thứ khớp với thước đo của những người xung quanh, thứ không khớp thì bị vùi dập. Đây là chỗ 024 nối với cây thước ([[ART.AX3]]): sự công nhận được cấp theo thước của người cầm. **Từ cấp 2, anh giành sự công nhận bằng cái cân của mình, không bằng thước của người khác** `locked 10/11`: cái cân đo chính xác thước của họ (họ sẵn sàng công nhận thứ gì), anh đưa cho họ đúng thứ ấy, còn chủ kiến thật thì giữ lại (BL-005, hai tờ nháp). Sống theo thước của người khác là mâu thuẫn trầm trọng với cái cân (BL-021, BL-030); chỉ trước lớp 6, khi cái cân chưa có, anh mới đuổi theo vạch của người khác. **Tầng anh không thấy:** giỏi thì được thương. Nhu cầu được thương nằm dưới nhu cầu được công nhận; anh không bao giờ gọi tên nó. **Bài văn *Ước mơ của em*** (lớp 9) thể hiện trọn cả hai ý: ước mơ "nằm trong sự công nhận" thì được "chung tay nuôi dưỡng" (công nhận là bảo hộ), ước mơ "không đem lại một kết quả mà họ có thể công nhận" thì "bị vùi dập" (thước đo của người khác quyết định); câu kết "Vì vậy, em ước mơ trở thành kỹ sư" nối 024 với BL-002. Cô chấm "tư tưởng tiêu cực, thiếu niềm tin vào cuộc sống"; anh biết đó là thứ anh tin trọn nhất. Bản thân bài văn là sản phẩm của cái cân: một phép phân tích chính xác về cách sự công nhận vận hành; "kỹ sư" là bản trình nộp, "những vì sao" là bản giữ lại. **Đúng một nửa:** mẹ công nhận Nam vì Nam giỏi; chủ kiến của anh bắt đầu được nghe khi anh có thành tích. **Che:** khả năng mẹ không biết cách thương anh; nếu đúng vậy thì không có gì để sửa. **Giá:** sự công nhận không chạm tới được người; ai thương anh thật thì anh không nhận (017).
+- **cluster:** C1 (tầng không thấy nối C7)
+- **definition:** Hai tầng. **Tầng anh thấy:** sự công nhận là sự bảo hộ chủ kiến của mình trước người khác; thứ được công nhận là thứ khớp với thước đo của những người xung quanh, thứ không khớp thì bị vùi dập. Đây là chỗ 024 nối với cây thước ([[ART.AX3]]): sự công nhận được cấp theo thước của người cầm. **Từ cấp 2, anh giành sự công nhận bằng cái cân của mình, không bằng thước của người khác** `locked 10/11`: cái cân đo chính xác thước của họ (họ sẵn sàng công nhận thứ gì), anh đưa cho họ đúng thứ ấy, còn chủ kiến thật thì giữ lại (BL-005, hai tờ nháp). Sống theo thước của người khác là mâu thuẫn trầm trọng với cái cân (BL-021, BL-030); chỉ trước lớp 6, khi cái cân chưa có, anh mới đuổi theo vạch của người khác. **Tầng anh không thấy:** nhu cầu được thương (C7), nằm riêng, không gắn với thành tích; anh không bao giờ gọi tên nó. Bỏ phương trình "giỏi thì được thương" `locked 11/11` (tác giả): nó lệch bản chất các niềm tin (công nhận là tấm khiên, không phải đường tới tình thương; tình thương là nhu cầu mù; cái cân đã bác phương trình ấy từ lớp 6–7). **Bài văn *Ước mơ của em*** (lớp 9) thể hiện trọn cả hai ý: ước mơ "nằm trong sự công nhận" thì được "chung tay nuôi dưỡng" (công nhận là bảo hộ), ước mơ "không đem lại một kết quả mà họ có thể công nhận" thì "bị vùi dập" (thước đo của người khác quyết định); câu kết "Vì vậy, em ước mơ trở thành kỹ sư" nối 024 với BL-002. Cô chấm "tư tưởng tiêu cực, thiếu niềm tin vào cuộc sống"; anh biết đó là thứ anh tin trọn nhất. Bản thân bài văn là sản phẩm của cái cân: một phép phân tích chính xác về cách sự công nhận vận hành; "kỹ sư" là bản trình nộp, "những vì sao" là bản giữ lại. **Đúng một nửa:** mẹ công nhận Nam vì Nam giỏi; chủ kiến của anh bắt đầu được nghe khi anh có thành tích. **Che:** khả năng mẹ không biết cách thương anh; nếu đúng vậy thì không có gì để sửa. **Giá:** sự công nhận không chạm tới được người; ai thương anh thật thì anh không nhận (017).
 - **ref:** `ý` · Carl Rogers, *conditions of worth*; Assor, Roth, Deci (2004), cái giá cảm xúc của tình thương có điều kiện (đã ở "Họ ý" của H7)
 - **deviation:** đứa trẻ trong các mô hình ấy kết luận "mình không đáng" và sống theo điều kiện của người lớn; Thuyên kết luận "mình **chưa** chạm vạch", biến vết thương thành một bài toán, và từ cấp 2 giải bài toán bằng cái cân của mình thay vì nhận thước của người khác làm giá trị của mình; anh dịch nhu cầu được thương thành nhu cầu được bảo hộ chủ kiến (nét Ngạo, nét hỏi tại sao, nét không chịu bị xếp).
 - **seen:** tầng công nhận và thước đo `thay` đến lớp 11, `khong` từ lab (chỉ còn danh sách việc); tầng tình thương `khong` suốt Phần 1
@@ -44,15 +44,15 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **axis · step:** EXL 2 · AX7, AX3
 - **origin:** mầm PAST.T 1.1b (lớp 1); kết tinh 1.4b (mẹ công nhận Nam, lớp 4–5); thành chữ ở [[PAST.T-011]] (bài văn, lớp 9)
 - **consumed (nguồn cũ):** FN.thuyen.phuong-trinh; mọi node
-- **status:** `locked 10/11` · alias `NT-24`, "Giỏi thì được thương"
+- **status:** `locked 10/11`; tầng không thấy sửa 11/11 · alias `NT-24`
 
 ### BL-004
 
 - **cluster:** C1
-- **definition:** Khi nhận được tình thương không gắn với thành tích, anh gán nó cho thói quen để phương trình của BL-024 đứng vững. Mẹo gạt phản chứng, con của 024.
+- **definition:** Khi nhận được tình thương không gắn với thành tích, anh gán nó cho thói quen, sự tiện tay. Nhận nó là thấy nó, mà nhu cầu được thương là thứ anh không nhìn (C7, mù). Mẹo gạt phản chứng, con của 024. Sửa 11/11: bỏ "để phương trình của BL-024 đứng vững".
 - **seen:** `thay`
 - **monologue:**
-  - `ngo-nhan` · lớp 4: *Mẹ làm một việc tử tế cho mình, nhưng không nói gì. Nếu đó là tình thương thì phương trình của mình sai, vì hôm ấy mình không làm được gì đáng được công nhận. Vậy có lẽ đó chỉ là thói quen, là sự tiện tay. Giải thích như vậy hợp lý hơn.*
+  - `ngo-nhan` · lớp 4: `needs-decision` (bản cũ dựa vào phương trình đã bỏ 11/11): *Mẹ làm một việc tử tế cho mình, nhưng không nói gì. Nếu đó là tình thương thì phương trình của mình sai, vì hôm ấy mình không làm được gì đáng được công nhận. Vậy có lẽ đó chỉ là thói quen, là sự tiện tay. Giải thích như vậy hợp lý hơn.*
 - **parent:** BL-024
 - **other-face:** none
 - **axis · step:** EXL 2 · AX7, AX4
@@ -78,7 +78,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 ### BL-017
 
-- **cluster:** C1 (tầng ẩn thuộc C7)
+- **cluster:** C1 (tầng không thấy nối C7)
 - **definition:** Giúp người khác thì anh biết chính xác giá trị của mình; được thương vô điều kiện thì không phép tính nào giải thích được, và với anh nó thành một khoản nợ. Gốc của khóa 3 cái gối (sợ lòng tốt, [[FN.thuyen.cai-goi]]). **Giá:** làm quân sư cho người khác được, nhận lại thì không.
 - **ref:** `ý` · John Bowlby, *compulsive self-reliance* (tự lực cưỡng bách, gắn bó né tránh)
 - **deviation:** người né tránh rút lui khỏi quan hệ; Thuyên không rút lui, anh ở lại bằng cách trở nên hữu ích.
@@ -147,7 +147,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### BL-030
 
 - **cluster:** C2
-- **definition:** Thước người lớn dùng để chấm anh không nằm ở thành tích, mà ở người cầm thước. **Đúng một nửa:** hơn Lâm về điểm số mà vẫn bị nói kém hơn. **Điểm mù** (dời theo [[ART.AX3]]): anh thấy thước của người khác là chủ quan và tự miễn cho cái cân của mình; anh không thấy ai đặt mục tiêu cho chính cái cân ấy. Thay điểm mù cũ của `M-he-gia-tri.md` §2 ("không hỏi ai cầm thước"). **Nguồn gốc** `locked 11/11`: tình cảm của mẹ lên xuống theo thành tích (kỳ vọng xã hội, *parental conditional regard*; Assor và Tal 2012): thắng thì đứa trẻ thấy mình vĩ đại, thua thì xấu hổ; hai trạng thái ấy nối cây thước với tầng "giỏi thì được thương" ([[CH.thuyen.beliefs#BL-024]], C7). Cách bố mẹ cầm thước: [[FAM.T]] `relation` (thước di động).
+- **definition:** Thước người lớn dùng để chấm anh không nằm ở thành tích, mà ở người cầm thước. **Đúng một nửa:** hơn Lâm về điểm số mà vẫn bị nói kém hơn. **Điểm mù** (dời theo [[ART.AX3]]): anh thấy thước của người khác là chủ quan và tự miễn cho cái cân của mình; anh không thấy ai đặt mục tiêu cho chính cái cân ấy. Thay điểm mù cũ của `M-he-gia-tri.md` §2 ("không hỏi ai cầm thước"). **Nguồn gốc** `locked 11/11`: tình cảm của mẹ lên xuống theo thành tích (kỳ vọng xã hội, *parental conditional regard*; Assor và Tal 2012): thắng thì đứa trẻ thấy mình vĩ đại, thua thì xấu hổ; hai trạng thái ấy nối cây thước với sự công nhận ([[CH.thuyen.beliefs#BL-024]]). Cách bố mẹ cầm thước: [[FAM.T]] `relation` (thước di động).
 - **ref:** `câu` · Protagoras, qua Plato, *Theaetetus* 152a (Jowett): *"Man is the measure of all things."*
 - **ref:** `ý` · Shafran, Cooper, Fairburn (2002), *clinical perfectionism*: chạm chuẩn rồi thì chuẩn bị coi là chưa đủ khó và bị nâng lên (https://psychologytools.com/resource/cognitive-behavioral-model-of-clinical-perfectionism-shafran-cooper-fairburn-2002); Assor, Tal (2012), tình cảm cha mẹ có điều kiện theo thành tích (https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2012_AssorTal_JoA.pdf) `locked 11/11`
 - **deviation:** Protagoras nói mọi người đều là thước; Thuyên áp câu ấy cho người khác, trừ mình ra. Ở Shafran, người hoàn hảo tự dời vạch của chính mình; ở BL-030, người dời là người cầm thước, anh chỉ là người bị đo `locked 11/11`.
@@ -531,7 +531,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 
 - **question:** (anh không hỏi; `seen: khong` suốt Phần 1)
 - **axes:** AX7, AX8
-- **definition:** Nhu cầu được ôm, được nghe khóc, được thừa nhận vì đã cố và đã chịu; nỗi cô độc vì không ai ở lại với phần thật nhất của anh. Chỉ có lớp định nghĩa (luật của gói ở đầu file). Nằm dưới: tầng ẩn của BL-024 ("giỏi thì được thương"), mặt kia của BL-024 và BL-025, khóa 3 của BL-017; cơ chế: [[FN.thuyen.cai-goi]].
+- **definition:** Nhu cầu được ôm, được nghe khóc, được thừa nhận vì đã cố và đã chịu; nỗi cô độc vì không ai ở lại với phần thật nhất của anh. Đứng riêng, không gắn với thành tích (bỏ phương trình "giỏi thì được thương" 11/11). Nối: tầng không thấy của BL-024, mặt kia của BL-024 và BL-025, khóa 3 của BL-017; cơ chế: [[FN.thuyen.cai-goi]].
 
 ### Khuếch đại ở đêm say `locked 11/11`
 

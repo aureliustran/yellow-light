@@ -9,16 +9,16 @@ sources: [M-he-gia-tri.md §1–2, §4, _archive/tuyen/qua-khu/thuyen-co-may.md 
 ---
 # FN.thuyen.phuong-trinh
 
-Bộ chuyển đổi: giỏi = được thương, thiếu = chưa đủ giỏi. Trên nó dựng hệ giá trị tự sửa bốn tầng.
+Bộ chuyển đổi: thiếu = khuyết chưa sửa. Trên nó dựng hệ giá trị tự sửa bốn tầng. Bỏ vế "giỏi = được thương" `locked 11/11` (tác giả): tình thương không vào phương trình; nó là nhu cầu mù (C7).
 
 ```
-in        cái thiếu (từ [[FN.thuyen.thieu]]); một lời khen dành cho người khác (mẹ khen Nam)
+in        cái thiếu (từ [[FN.thuyen.thieu]]); một lời công nhận dành cho người khác (mẹ công nhận Nam: cho thấy vạch)
 when      từ lớp 4–5 (lắp xong ở nấc 2)
-body      thiếu = chưa đủ giỏi → khuyết thì phải sửa → sửa xong mới được đứng yên
+body      thiếu = khuyết chưa sửa → khuyết thì phải sửa → sửa xong mới được đứng yên
           → không còn gì để sửa = mình là kẻ thất bại → không bao giờ để mình rảnh
 out       mục tiêu kế tiếp luôn có; lời khen đổi ngay thành chỗ hổng
-effects   cái tôi lành hoặc độc nhận đầu ra ([[FN.thuyen.cai-toi]]); nhu cầu được ôm thành bằng chứng chưa đủ giỏi ([[FN.thuyen.cai-goi]])
-uses      BL-024 "Giỏi thì được thương" (niềm tin gốc); trục AX3, AX5, AX7
+effects   cái tôi lành hoặc độc nhận đầu ra ([[FN.thuyen.cai-toi]]); nhu cầu được ôm không vào phương trình, chỉ để lại cảm giác thiếu mà anh đọc thành một khuyết chưa sửa ([[FN.thuyen.cai-goi]])
+uses      BL-021 (cái cân), BL-030 (thước); trục AX3, AX5
 render    DV-016 (nhịp lật ba bậc); DV-009 (lọc qua phương trình); DV-001
 ```
 

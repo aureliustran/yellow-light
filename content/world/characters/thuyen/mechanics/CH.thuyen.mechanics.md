@@ -17,17 +17,19 @@ Sơ đồ và chữ ký mọi hàm, mỗi hàm một dòng. Thân từng hàm �
 ```
  ĐẦU VÀO            BỘ CHUYỂN ĐỔI            ĐỘNG CƠ
  thiếu: không ai ──► phương trình  ──► áp suất chênh lệch (0 → công nhận thật)
- nói "con đã cố"     giỏi = được thương     ├─ cái tôi lành: cái cân, cố vì mình
- + "nhà mi sướng"    thiếu = chưa đủ giỏi   └─ cái tôi độc: tiền mua tình thương
+ nói "con đã cố"     thiếu = khuyết        ├─ cái tôi lành: cái cân, cố vì mình
+ + "nhà mi sướng"    chưa sửa              └─ cái tôi độc: tiền mua tình thương
                             │   ĐỘNG CƠ ĐẨY: ghét thằng bé cột điện → không bao giờ yếu nữa
                             ▼               NHIÊN LIỆU: công nhận → thuốc giảm đau → nhờn
  BỘ PHẬN BỊ KHÓA: cái gối (khóa 1 phủ nhận · khóa 2 cảm biến · khóa 3 sợ lòng tốt)
  VAN XẢ: tếu · TÊN LỬA → KHÍ THẢI → RĂN · ĐIỂM GÃY: định giá bằng 0 · SỬA: cái tôi lành dẫn, để người khác ôm
 ```
 
+Bỏ vế "giỏi = được thương" khỏi bộ chuyển đổi `locked 11/11` (tác giả); các phần khác của sơ đồ giữ `locked 28/10`.
+
 Bản đầy đủ: `_archive/tuyen/qua-khu/thuyen-co-may.md` §2 (nguồn cho tới khi B3b chuyển xong).
 
-**Vòng tự nuôi:** thiếu → phương trình → giỏi lên → được khen mà không được ôm → nhu cầu còn → cần được ôm thành bằng chứng mình chưa đủ giỏi → phủ nhận → giấu con người thật → phần bị giấu không ai thương được → thiếu sâu thêm.
+**Vòng tự nuôi:** thiếu → phương trình → sửa khuyết, giỏi lên → được công nhận mà không được ôm → nhu cầu (mù) còn nguyên → cảm giác thiếu bị đọc thành một khuyết chưa sửa → phủ nhận → giấu con người thật → phần bị giấu không ai thương được → thiếu sâu thêm.
 
 **Ranh giới hai cái tôi** nằm ở quan hệ với cái gối: cái tôi lành ôm gối mà không cần cãi; cái tôi độc phải cãi.
 
@@ -36,7 +38,7 @@ Bản đầy đủ: `_archive/tuyen/qua-khu/thuyen-co-may.md` §2 (nguồn cho t
 | Hàm | Một dòng | Nguồn |
 | --- | --- | --- |
 | [[FN.thuyen.thieu]] | cái thiếu bị chối hai lần; thước di động | `co-may` §3 |
-| [[FN.thuyen.phuong-trinh]] | giỏi = được thương; hệ giá trị bốn tầng, tiên đề, điểm mù | `M-he-gia-tri` §1–2, §4 |
+| [[FN.thuyen.phuong-trinh]] | thiếu = khuyết chưa sửa; hệ giá trị bốn tầng, tiên đề, điểm mù | `M-he-gia-tri` §1–2, §4 |
 | [[FN.thuyen.lang-kinh]] | lăng kính sáng đều, đổi hướng quay; tên lửa, khí thải, răn | `thuyen-lang-kinh` §1, §3; `M-he-gia-tri` §3a |
 | [[FN.thuyen.cai-toi]] | cái tôi lành, cái tôi độc, cái cân | `thuyen-hai-cai-toi` §2 |
 | [[FN.thuyen.phong-kin]] | phòng kín: ba lớp, bốn cò K1–K4, cổng ra, giọng, giáo lý kẻ mạnh | `thuyen-cai-toi-doc-co-che` §4.1–4.4, §4.6, §6 |

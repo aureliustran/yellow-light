@@ -23,6 +23,7 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 - [x] **X-011 (đêm say)**: mục tiêu riêng X-011.G1 (tác giả 11/11): khuếch đại các niềm tin liên quan để biến chất GĐ2 ở lab xảy ra; lời hứa thành lá X-011-001.
 - [x] **X-011-001 (lời hứa)** duyệt 11/11, gồm các niềm tin khuếch đại BL-024, 034, 030; thêm BL-029 (vạch đã nâng lên: ghế 50 triệu).
 - [x] **BL-034** (11/11): vạch dời theo mục tiêu của anh; phiên bản lý tưởng là ảo tưởng về mình lúc đạt mục tiêu; ref Markus và Nurius (possible selves), Higgins (self-discrepancy); expression theo mục tiêu từng chặng; behavior từ nghiên cứu chủ nghĩa hoàn hảo.
+- [x] **Bỏ "giỏi thì được thương"** (tác giả 11/11, cách a): gỡ khỏi BL-024 (tầng không thấy, alias), BL-004, C7, BL-030, FN.thuyen.phuong-trinh (bộ chuyển đổi còn "thiếu = khuyết chưa sửa"), sơ đồ cỗ máy, CH.thuyen, CH.vu, rules/goi-ten-cam-xuc §8, PAST.T.G1, AX7 (on-page, components).
 - [x] **BL-030** (11/11): nối nghiên cứu chủ nghĩa hoàn hảo: nguồn gốc (tình cảm có điều kiện, Assor và Tal), ref Shafran (dời vạch), other-face *socially prescribed* lộ lại ở đêm say.
 - [x] **BL-029, các chặng** (tác giả 11/11): dạng diễn giải hình thành ở lớp 11; kéo mọi lúc, đẩy lúc cực đoan, nên biểu hiện dàn trải cả truyện, mức luôn cao: lớp 11 thô, trực tiếp → lớp 12 biến động, nhận ra thấu cảm → ĐH–GĐ1 hòa khí → GĐ2–gãy tinh vi, thao túng.
 - [x] **Khuếch đại lớn nhất ở X-011-001** (tác giả 11/11): niềm tin có sẵn của C7 Tình thương (có Nhi thì có cái ôm), không sinh niềm tin mới; niềm tin mù, lên trang chỉ bằng cảm xúc và hồi tưởng lúc đau; kỹ thuật: hơi ấm khi ôm, skinship về sau; mở luật cho C7 có độc thoại cảm xúc, không nhận thức.
@@ -77,9 +78,13 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 - [ ] **ch.6**: "một tháng ôn không lười" → ôn theo đường ngắn nhất.
 - [ ] **ch.3**: cảnh mẹ khen Nam; câu gối nói ở ch.2–3.
 
+- [ ] **AX7 câu gốc** dựng lại không có phương trình (`proposed 11/11`).
+- [ ] **BL-004 độc thoại lớp 4** dựa vào phương trình đã bỏ (`needs-decision`).
+- [ ] **PAST.T.G1** câu chữ mới (`proposed 11/11`).
+
 ## C. Còn mở: Claude làm khi tác giả bảo
 
-- [ ] **Viết lại PAST.T** (tác giả sẽ viết lại): thêm lá theo bảng `handoffs` của FAM.T; gọn 987 dòng văn bản chuyển nguyên.
+- [ ] **Viết lại PAST.T**: rà TB-16 / DV-016, DV-009, PAST.T-006 theo việc bỏ phương trình; (tác giả sẽ viết lại): thêm lá theo bảng `handoffs` của FAM.T; gọn 987 dòng văn bản chuyển nguyên.
 - [ ] **FAM.T**: tạo hai lá hiện tại (cuộc gọi bốn phút mười hai giây, áo sơ mi trắng); P1 → AFTER (giỗ ông và lời khoe 50 triệu, chiến tranh lạnh, trị liệu gia đình) chưa có nguồn.
 - [ ] **ROM.TN B4c**: chuyển BRIEF, KHO, RR; tách Phong sang ROM.PN, Diệp Anh sang ROM.TD; đánh lại số lá theo ngày; nối `goal`.
 - [ ] **Node khung**: THR.*, SOL.SAN, SOL.DT, FAM.N, PAST.DA, PAST.K.

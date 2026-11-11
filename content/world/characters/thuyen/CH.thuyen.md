@@ -61,7 +61,7 @@ Thành tích và thời điểm nhận. Cảnh của từng dòng thuộc node (
 
 | Cần | Trục |
 | --- | --- |
-| cái thiếu bị chối hai lần; phương trình "giỏi = được thương" | AX7, AX3 |
+| cái thiếu bị chối hai lần; phương trình "thiếu = khuyết chưa sửa" | AX7, AX3 |
 | thước di động, cái cân, kẻ bị đo thành kẻ cầm thước | AX3 |
 | đọc người, mù việc mình; cảm biến "lộ ra thì người ta đi" | AX4, AX1 |
 | nhiên liệu công nhận, nhờn ở P2; điểm gãy định giá bằng 0 | AX5, AX9 |
