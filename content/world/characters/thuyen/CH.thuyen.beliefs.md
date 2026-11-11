@@ -255,7 +255,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **seen:** `thay`
 - **monologue:**
   - `ngo-nhan` · quãng 1: *Người lớn mắng thì cứ mắng; lời mắng không trả lời được câu mình hỏi, nên nó không quan trọng. Thứ quan trọng là câu trả lời. Có người không biết, có người biết mà không muốn nói, vậy hỏi họ là tốn thời gian. Cách nhanh nhất vẫn là tự tìm.*
-  - `dien-giai` · về sau (thời điểm `needs-decision`): *Tao không cần ai cho phép tao hỏi, và tao không bận tâm câu hỏi của tao làm ai khó chịu. Thứ tao cần là câu trả lời. Phần lớn thứ tao muốn biết thì tao tự tìm được, và tự tìm là nhanh nhất. Phần còn lại nằm trong đầu một số ít người; việc của tao là biết người nào giữ nó, rồi dựng sẵn chuỗi câu hỏi để lấy đúng thứ cần trong ít lượt nhất.*
+  - `dien-giai` · áp dụng toàn bộ truyện `locked 11/11`: *Tao không cần ai cho phép tao hỏi, và tao không bận tâm câu hỏi của tao làm ai khó chịu. Thứ tao cần là câu trả lời. Phần lớn thứ tao muốn biết thì tao tự tìm được, và tự tìm là nhanh nhất. Phần còn lại nằm trong đầu một số ít người; việc của tao là biết người nào giữ nó, rồi dựng sẵn chuỗi câu hỏi để lấy đúng thứ cần trong ít lượt nhất.*
 - **parent:** BL-001
 - **other-face:** người vừa biết vừa sẵn lòng chia sẻ
 - **axis · step:** EXL 2→3 · AX7
