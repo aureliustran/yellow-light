@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 194 file. Chưa chuyển sang khuôn mới (legacy): 139 file.
+Có phần đầu (frontmatter): 195 file. Chưa chuyển sang khuôn mới (legacy): 139 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -191,6 +191,7 @@ Có phần đầu (frontmatter): 194 file. Chưa chuyển sang khuôn mới (leg
 | `X-009` | `intersection` | `proposed` | `storylines/intersections/X-009/X-009.md` | Giao điểm của [[FAM.N]] × [[ROM.PN]] × [[ROM.TD]] × [[ROM.TN]] × [[THR.MODEL]] × [[THR.T18]], định nghĩa bằng khóa ngoại `nodes`. |
 | `X-010` | `intersection` | `proposed` | `storylines/intersections/X-010/X-010.md` | Giao điểm của [[ROM.PN]] × [[ROM.TN]], định nghĩa bằng khóa ngoại `nodes`. |
 | `X-011` | `intersection` | `proposed` | `storylines/intersections/X-011/X-011.md` | Giao điểm của [[ROM.PN]] × [[ROM.TN]] × [[SOL.HD]] × [[THR.LAB]], định nghĩa bằng khóa ngoại `nodes`. |
+| `X-011-001` | `event` | `proposed` | `storylines/intersections/X-011/X-011-001.md` | Nhi say, nói "Nhưng anh xứng đáng mà". Thuyên nghe phiếu của cô mà vẫn hoãn: hứa sẽ nhận khi lời phán xét của người khác không còn trọng … |
 | `X-012` | `intersection` | `proposed` | `storylines/intersections/X-012/X-012.md` | Giao điểm của [[ROM.TN]] × [[THR.DR]], định nghĩa bằng khóa ngoại `nodes`. |
 | `X-013` | `intersection` | `proposed` | `storylines/intersections/X-013/X-013.md` | Giao điểm của [[FAM.N]] × [[ROM.TN]] × [[THR.T18]], định nghĩa bằng khóa ngoại `nodes`. |
 | `X-014` | `intersection` | `proposed` | `storylines/intersections/X-014/X-014.md` | Giao điểm của [[ROM.TD]] × [[THR.LM]], định nghĩa bằng khóa ngoại `nodes`. |
