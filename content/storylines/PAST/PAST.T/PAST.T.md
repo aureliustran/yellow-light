@@ -98,7 +98,7 @@ Canon hiện có hai nguồn nói về hài của Thuyên, và chúng chưa kh�
 
 ### PAST.T.G1 · Quãng 1: Áp suất không (mầm non → lớp 9)
 
-- **statement:** Dựng cây thước của bố mẹ, cái cân của anh và sự công nhận làm tấm khiên; mặt kia: nhu cầu được ôm bị giấu (cái gối); nấc 1 → mép 5. Câu chữ `proposed 11/11` (bỏ phương trình *giỏi thì được thương*).
+- **statement:** Dựng cây thước của bố mẹ, cái cân của anh và sự công nhận làm tấm khiên; mặt kia: nhu cầu được ôm bị giấu (cái gối); nấc 1 → mép 5. Câu chữ `locked 11/11` (bỏ phương trình *giỏi thì được thương*).
 - **serves:** [[PAST]] PAST.G1 · AX3, AX7, AX4
 - **status:** `locked 27/10` (hướng); ranh giới quãng `proposed`
 - **lên trang:** năm interlude sau summit (*Sợ*, *Tiếc nuối*, *Nhục nhã*, *Hả hê*, *Trống rỗng*) `locked 28/10`; trước summit chỉ có phần né

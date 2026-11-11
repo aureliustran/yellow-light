@@ -13,7 +13,7 @@ Trục hiện sinh (mã cũ `H7`). Trạng thái: `locked 28/10` (trục gương
 
 ## root
 
-`proposed 11/11`: tác giả bỏ phương trình "năng lực là điều kiện của tình thương"; câu gốc dưới đây là bản Claude dựng lại, chờ duyệt. Bản 10/11 (`locked`) giữ ở dưới để lần ngược.
+`locked 11/11`: tác giả bỏ phương trình "năng lực là điều kiện của tình thương"; câu gốc dưới đây dựng lại và được duyệt 11/11. Bản 10/11 giữ ở dưới để lần ngược.
 
 > *Có những đứa trẻ thiếu thốn tình thương mà vẫn tin rằng mình được yêu thương. Một đứa nhận được sự công nhận mà chưa từng nhận được một vòng tay, nên dùng sự công nhận làm tấm khiên cho điều mình nghĩ, và không bao giờ gọi tên vòng tay mình thiếu. Một đứa nhận được sự đồng thuận mà chưa từng được lắng nghe, nên tin rằng ngoan ngoãn thì được ngồi đúng vị trí người khác sắp đặt. Cả hai học cách trả giá cho tình thương, và cả hai che giấu phần không thể trả giá: phần nước mắt, phần cực đoan, phần chân thật nhất. Thứ chúng thiếu không phải sự công nhận hay một chỗ ngồi, mà là một người ở lại bên phần ấy, ôm nó vào lòng, lắng nghe nó khóc, và thừa nhận rằng nó đã nỗ lực, nó đã chịu đựng.*
 
