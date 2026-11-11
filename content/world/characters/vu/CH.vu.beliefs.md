@@ -10,7 +10,7 @@ sources: [_archive/tuyen/sl/vu.md §1 (locked 30/10); hội thoại 10/11 (khuô
 ---
 # CH.vu.beliefs · Niềm tin của Vũ
 
-Khuôn hai lớp (`schemas/belief.md`). Mã của Vũ: `B.vu:<số>` (cũ BL-050 → `B.vu-001`). **Giọng tự thoại của Vũ:** xưng "tao", thẳng thắn, không lý thuyết; từ phức là đa số nhưng giản dị.
+Khuôn hai lớp (`schemas/belief.md`). Mã của Vũ: `B.vu-<số>` (cũ BL-050 → `B.vu-001`). **Giọng tự thoại của Vũ:** xưng "tao", thẳng thắn, không lý thuyết; từ phức là đa số nhưng giản dị.
 
 ## C1 · Thương
 

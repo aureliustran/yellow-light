@@ -90,7 +90,7 @@ Bỏ: N.2 (motif chỗ ngồi đã có ở hiện tại, 3b *Màu giấy can*) `
 
 ## beliefs
 
-Bản chính ở [[CH.nhi.beliefs]] (khuôn hai lớp). Bảng dưới giữ nguồn và chỗ tiêu thụ theo bảng cũ. Mã theo nhân vật (`B.nhi:<số>`, 11/11); niềm tin đi theo người mang nó, không theo node, nên PAST.N.HD không có dải riêng.
+Bản chính ở [[CH.nhi.beliefs]] (khuôn hai lớp). Bảng dưới giữ nguồn và chỗ tiêu thụ theo bảng cũ. Mã theo nhân vật (`B.nhi-<số>`, 11/11); niềm tin đi theo người mang nó, không theo node, nên PAST.N.HD không có dải riêng.
 
 **Mã** (11/11): `B.nhi-001` … `B.nhi-006` (cũ BL-040 … BL-045).
 

@@ -31,7 +31,7 @@ Có phần đầu (frontmatter): 195 file. Chưa chuyển sang khuôn mới (leg
 | `CH.thuyen.mechanics` | `character` | `agreed` | `world/characters/thuyen/mechanics/CH.thuyen.mechanics.md` | Sơ đồ và chữ ký mọi hàm, mỗi hàm một dòng. Thân từng hàm ở `FN.thuyen.<tên>.md` trong thư mục này. |
 | `CH.thuyen.voice` | `character` | `locked` | `world/characters/thuyen/CH.thuyen.voice.md` | Tầng thấp nhất của chuỗi giọng: tình tiết > node × giai đoạn > `SELF.thuyen` × giai đoạn > **giọng nền (file này)**. Giọng với từng người… |
 | `CH.vu` | `character` | `agreed` | `world/characters/vu/CH.vu.md` | Người bạn thân của Thuyên, "hội đồng một người" của anh. Yêu thương bằng hành động, nói năng thẳng thắn, không ghen tị; biết mọi biến cố … |
-| `CH.vu.beliefs` | `character` | `agreed` | `world/characters/vu/CH.vu.beliefs.md` | Khuôn hai lớp (`schemas/belief.md`). Mã của Vũ: `B.vu:<số>` (cũ BL-050 → `B.vu-001`). **Giọng tự thoại của Vũ:** xưng "tao", thẳng thắn, … |
+| `CH.vu.beliefs` | `character` | `agreed` | `world/characters/vu/CH.vu.beliefs.md` | Khuôn hai lớp (`schemas/belief.md`). Mã của Vũ: `B.vu-<số>` (cũ BL-050 → `B.vu-001`). **Giọng tự thoại của Vũ:** xưng "tao", thẳng thắn, … |
 | `CH.vu.mechanics` | `character` | `agreed` | `world/characters/vu/mechanics/CH.vu.mechanics.md` | CH.vu.mechanics · Cơ chế của Vũ |
 | `CH.vu.voice` | `character` | `agreed` | `world/characters/vu/CH.vu.voice.md` | **Mục:** `dialogue` · `narration` · `lexicon` · `forbidden`. |
 | `CORE` | `spec` | `locked` | `core/README.md` | Tầng tĩnh nền (L1): những thứ cả `world/` lẫn `storylines/` cùng trỏ tới. |
