@@ -10,7 +10,7 @@ event: "Thi học sinh giỏi quốc gia môn Tin: khinh bài dễ, dồn giờ 
 participants: ["[[CH.thuyen]]"]
 axis: [AX3]
 level: "EXL 5"
-beliefs: "B.thuyen:011; B.thuyen:020"
+beliefs: "B.thuyen-011; B.thuyen-020"
 aliases: [QK.T Hụt hẫng]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

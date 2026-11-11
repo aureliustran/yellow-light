@@ -18,7 +18,7 @@ body      không kích thích → đầu óc trôi, quên, ô trống thành cá
           có kích thích (Toán, sân bóng) → câu chậm, gọn, sạch; quên giờ
 out       chỗ mất (chữ, quên, nghỉ không được) và chỗ được (Toán, sân bóng, đọc người nhanh) đứng cạnh nhau
 effects   người lớn đọc triệu chứng thành đạo đức (lười, láo, ẩu, cố ý) → đứa trẻ nhận làm kết luận về mình
-uses      B.thuyen:029 (đọc lại: bị đánh vì thứ không điều khiển được); [[FN.thuyen.phong-kin]] (K3)
+uses      B.thuyen-029 (đọc lại: bị đánh vì thứ không điều khiển được); [[FN.thuyen.phong-kin]] (K3)
 render    luật viết dưới; DV-001 ("chịu cố thì được" thuộc bộ chịu đựng)
 ```
 

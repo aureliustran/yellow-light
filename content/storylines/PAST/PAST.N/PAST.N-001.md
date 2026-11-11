@@ -10,7 +10,7 @@ event: "*Màu be*: váy hồng đổi sang be; Khải 19 tuổi bóc bảy con t
 participants: ["[[CH.nhi]]"]
 axis: [AX7]
 level: "chờ · H7"
-beliefs: "B.nhi:003 (sinh)"
+beliefs: "B.nhi-003 (sinh)"
 aliases: [QK.N N.1, N.1, Màu be]
 sources: [_archive/tuyen/qua-khu/nhi.md §2 (chuyển 10/11)]
 ---

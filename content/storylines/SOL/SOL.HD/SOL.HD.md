@@ -22,7 +22,7 @@ Node này giữ cả định nghĩa của hội đồng (trước là nhóm `GRP
 
 - **Nhóm chat:** *HĐQT 🎀*. Nhi là **Chủ tịch**, và là chủ tịch duy nhất trên đời không bao giờ làm theo nghị quyết của hội đồng mình `proposed`.
 - **Phòng họp:** một tiệm bánh ở Tây Hồ, bàn trong góc, luôn đặt trước; biên bản do Minh Châu ghi, đánh số nghị quyết `proposed`.
-- **Họ là ai:** bạn cùng lớp cấp 3 ở hệ thống trường quốc tế, và từ RMIT. Minh Châu, Bảo Ngọc vào nhóm từ lớp 10 (2020), sau khi qua radar thật – giả của Nhi; nhóm chat ra đời từ đó `locked 31/10`. Gốc của radar là [[CH.nhi.beliefs#B.nhi:003]] (người ta cười, khen vì cái họ), không còn là vụ người bạn thân năm lớp 9 `locked 31/10`.
+- **Họ là ai:** bạn cùng lớp cấp 3 ở hệ thống trường quốc tế, và từ RMIT. Minh Châu, Bảo Ngọc vào nhóm từ lớp 10 (2020), sau khi qua radar thật – giả của Nhi; nhóm chat ra đời từ đó `locked 31/10`. Gốc của radar là [[CH.nhi.beliefs#B.nhi-003]] (người ta cười, khen vì cái họ), không còn là vụ người bạn thân năm lớp 9 `locked 31/10`.
 - **Họ lo thật**, chỉ là đo bằng cây thước sai: mỗi người một cái thước học từ nhà `locked 31/10`.
 
 ## members

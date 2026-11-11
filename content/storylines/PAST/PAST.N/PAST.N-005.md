@@ -10,7 +10,7 @@ event: "*Hồng*: tự học; IELTS 5.5 → 6.0 → 6.5; tự để dành tiền
 participants: ["[[CH.nhi]]"]
 axis: [AX7, AX5]
 level: "`locked 31/10` nấc 3 · H7, H5"
-beliefs: "B.nhi:001 (sinh)"
+beliefs: "B.nhi-001 (sinh)"
 aliases: [QK.N N.6, N.6, Hồng]
 sources: [_archive/tuyen/qua-khu/nhi.md §2 (chuyển 10/11)]
 ---

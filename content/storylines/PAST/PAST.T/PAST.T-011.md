@@ -10,7 +10,7 @@ event: "Bài văn *Ước mơ của em*, 6,5; họp phụ huynh, 'cục đất'.
 participants: ["[[CH.thuyen]]"]
 axis: [AX3, AX4, AX6]
 level: "EXL 4"
-beliefs: "B.thuyen:022; B.thuyen:021"
+beliefs: "B.thuyen-022; B.thuyen-021"
 aliases: [QK.T 1.9]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

@@ -10,7 +10,7 @@ event: "Hackathon ba mươi sáu tiếng: đọc ba người trong mười phút
 participants: ["[[CH.thuyen]]"]
 axis: [AX4]
 level: "EXL 7"
-beliefs: "B.thuyen:023"
+beliefs: "B.thuyen-023"
 aliases: [QK.T 3.3]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

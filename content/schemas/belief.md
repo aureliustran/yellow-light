@@ -12,7 +12,7 @@ sources: [kien-truc-framework.md §5, hội thoại 10/11 (hai lớp, tham chi�
 
 A belief (old `NT-`): what a character holds about self, others or the world, produced by personality meeting a wound, consumed by present events.
 
-**Location:** inline in `world/characters/<id>/CH.<id>.beliefs.md` (one file, many beliefs). **Id:** `B.<character id>:<NNN>`, numbered within the character (adding a belief to one character never shifts another's numbers) `locked 11/11`; heading `### B.thuyen:024`, link `[[CH.thuyen.beliefs#B.thuyen:024]]`. Old global codes: `BL-001…035` → `B.thuyen:001…035` (giữ số); `BL-040…045` → `B.nhi:001…006`; `BL-050` → `B.vu:001`; `NT-nn` kept as aliases.
+**Location:** inline in `world/characters/<id>/CH.<id>.beliefs.md` (one file, many beliefs). **Id:** `B.<character id>-<NNN>`, numbered within the character (`-`, not `:`: Obsidian reads `B.thuyen:024` as a URL scheme, 11/11) (adding a belief to one character never shifts another's numbers) `locked 11/11`; heading `### B.thuyen-024`, link `[[CH.thuyen.beliefs#B.thuyen-024]]`. Old global codes: `BL-001…035` → `B.thuyen-001…035` (giữ số); `BL-040…045` → `B.nhi-001…006`; `BL-050` → `B.vu-001`; `NT-nn` kept as aliases.
 
 ## Two layers `agreed 10/11`
 

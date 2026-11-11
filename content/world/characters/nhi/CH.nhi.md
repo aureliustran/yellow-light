@@ -74,7 +74,7 @@ Chỉ khai tên, tập giá trị và node chủ. Giá trị theo giai đoạn d
 
 ## exports
 
-Thuộc tính ở trên; cơ chế: [[CH.nhi.mechanics]] (4 hàm); niềm tin `B.nhi:001` … `B.nhi:005`: [[CH.nhi.beliefs]]; giọng nền: [[CH.nhi.voice]].
+Thuộc tính ở trên; cơ chế: [[CH.nhi.mechanics]] (4 hàm); niềm tin `B.nhi-001` … `B.nhi-005`: [[CH.nhi.beliefs]]; giọng nền: [[CH.nhi.voice]].
 
 ## moved
 

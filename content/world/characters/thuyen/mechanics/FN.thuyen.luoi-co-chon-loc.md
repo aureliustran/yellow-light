@@ -20,7 +20,7 @@ body      tính chi phí – lợi ích trước khi tay động
           → tính mãi chưa động tay: người ngoài thấy "ăn rồi nằm"
 out       việc làm tối thiểu, hoặc việc lớn làm cật lực sau tối ưu
 effects   mẹ thấy lười; anh thấy mình đang làm; người đọc thấy cả hai
-uses      B.thuyen:035 (khuyết ngoài lộ trình thì bỏ qua), B.thuyen:006 (cãi thì tốn, lách thì không), B.thuyen:029 (chọn cái đau lời nhất); [[FN.thuyen.nang-khieu]]
+uses      B.thuyen-035 (khuyết ngoài lộ trình thì bỏ qua), B.thuyen-006 (cãi thì tốn, lách thì không), B.thuyen-029 (chọn cái đau lời nhất); [[FN.thuyen.nang-khieu]]
 render    đối trọng hài: vụng việc nhỏ (khâu cúc, cơm khê) vì mải tối ưu
 ```
 

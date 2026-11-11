@@ -10,7 +10,7 @@ event: "Mẹ khen Nam. Đêm ấy anh hỏi gối 'nếu con giỏi như anh Nam
 participants: ["[[CH.thuyen]]"]
 axis: [AX3, AX7]
 level: "EXL 2"
-beliefs: "B.thuyen:024 (kết tinh)"
+beliefs: "B.thuyen-024 (kết tinh)"
 aliases: [QK.T 1.4b]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3, _archive/tuyen/qua-khu/thuyen.md §6.2 (T3b)]
 ---
@@ -19,7 +19,7 @@ sources: [_archive/tuyen/qua-khu/thuyen.md §1–3, _archive/tuyen/qua-khu/thuye
 Mẹ khen Nam. Đêm ấy anh hỏi gối "nếu con giỏi như anh Nam thì…", gối không trả lời (DV-016 bậc 1).
 
 - **cầu bằng vật:** giấy khen của Nam; cái bánh thứ mười hai
-- **móc hiện tại:** thang B.thuyen:024
+- **móc hiện tại:** thang B.thuyen-024
 
 ## detail
 

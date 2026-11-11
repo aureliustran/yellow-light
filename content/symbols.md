@@ -31,7 +31,7 @@ Có phần đầu (frontmatter): 195 file. Chưa chuyển sang khuôn mới (leg
 | `CH.thuyen.mechanics` | `character` | `agreed` | `world/characters/thuyen/mechanics/CH.thuyen.mechanics.md` | Sơ đồ và chữ ký mọi hàm, mỗi hàm một dòng. Thân từng hàm ở `FN.thuyen.<tên>.md` trong thư mục này. |
 | `CH.thuyen.voice` | `character` | `locked` | `world/characters/thuyen/CH.thuyen.voice.md` | Tầng thấp nhất của chuỗi giọng: tình tiết > node × giai đoạn > `SELF.thuyen` × giai đoạn > **giọng nền (file này)**. Giọng với từng người… |
 | `CH.vu` | `character` | `agreed` | `world/characters/vu/CH.vu.md` | Người bạn thân của Thuyên, "hội đồng một người" của anh. Yêu thương bằng hành động, nói năng thẳng thắn, không ghen tị; biết mọi biến cố … |
-| `CH.vu.beliefs` | `character` | `agreed` | `world/characters/vu/CH.vu.beliefs.md` | Khuôn hai lớp (`schemas/belief.md`). Mã của Vũ: `B.vu:<số>` (cũ BL-050 → `B.vu:001`). **Giọng tự thoại của Vũ:** xưng "tao", thẳng thắn, … |
+| `CH.vu.beliefs` | `character` | `agreed` | `world/characters/vu/CH.vu.beliefs.md` | Khuôn hai lớp (`schemas/belief.md`). Mã của Vũ: `B.vu:<số>` (cũ BL-050 → `B.vu-001`). **Giọng tự thoại của Vũ:** xưng "tao", thẳng thắn, … |
 | `CH.vu.mechanics` | `character` | `agreed` | `world/characters/vu/mechanics/CH.vu.mechanics.md` | CH.vu.mechanics · Cơ chế của Vũ |
 | `CH.vu.voice` | `character` | `agreed` | `world/characters/vu/CH.vu.voice.md` | **Mục:** `dialogue` · `narration` · `lexicon` · `forbidden`. |
 | `CORE` | `spec` | `locked` | `core/README.md` | Tầng tĩnh nền (L1): những thứ cả `world/` lẫn `storylines/` cùng trỏ tới. |
@@ -172,7 +172,7 @@ Có phần đầu (frontmatter): 195 file. Chưa chuyển sang khuôn mới (leg
 | `SPEC.storylines` | `spec` | `draft` | `docs/framework/storylines.md` | Fields: `content/schemas/node.md`, `goal.md`, `event.md`, `intersection.md`. |
 | `SPEC.tooling` | `spec` | `draft` | `docs/framework/tooling.md` | `npm run canon:check` (`scripts/canon-check.mjs`, no dependencies) is the rule runner. It reads every entity under `content/` and every p… |
 | `TEC.humor.want-clash` | `technique` | `proposed` | `lib/humor/TEC.humor.want-clash.md` | Rút ra khi so bản Claude (viết theo `kho/hai-ky-thuat.md`) với bản tác giả sửa, hai cảnh mẫu 05/11: [[ROM.TN-001]] (dòng 1–7) và [[ROM.TN… |
-| `TEC.interiority.ideal-self` | `technique` | `proposed` | `lib/interiority/TEC.interiority.ideal-self.md` | Đưa lực kéo ([[CH.thuyen.beliefs#B.thuyen:034]]) lên trang qua lời người kể. Phục vụ register R10 (khối nội tâm, `rules/registers.md` §2.… |
+| `TEC.interiority.ideal-self` | `technique` | `proposed` | `lib/interiority/TEC.interiority.ideal-self.md` | Đưa lực kéo ([[CH.thuyen.beliefs#B.thuyen-034]]) lên trang qua lời người kể. Phục vụ register R10 (khối nội tâm, `rules/registers.md` §2.… |
 | `THR` | `node` | `proposed` | `storylines/THR/THR.md` | Gốc của các node `THR.*`. Khung (T2, 10/11): chỉ có `weight` và `children`; mọi mục khác chờ chuyển. |
 | `THR.DR` | `node` | `proposed` | `storylines/THR/THR.DR/THR.DR.md` | Sinh từ đồ ăn đặt cho Nhi (chốt 23/10), cắm cờ, bị gạt đúng, luận văn Phần Lan, startup Phần 3, Khải nhảy vào Phần 4 (`de-xuat/cay-tuyen.… |
 | `THR.LAB` | `node` | `proposed` | `storylines/THR/THR.LAB/THR.LAB.md` | Lão Tuấn, phe "rắn", hội kỹ sư, Thảo; ván phòng thủ GĐ1, ván tấn công và thủ đoạn chủ động GĐ2; blacklist và bảng giá người ở đáy (`de-xu… |

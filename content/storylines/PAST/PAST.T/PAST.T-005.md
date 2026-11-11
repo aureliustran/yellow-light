@@ -10,7 +10,7 @@ event: "Mẹ gỡ xương cá."
 participants: ["[[CH.thuyen]]"]
 axis: [AX4]
 level: "EXL 2"
-beliefs: "B.thuyen:004"
+beliefs: "B.thuyen-004"
 aliases: [QK.T 1.4]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

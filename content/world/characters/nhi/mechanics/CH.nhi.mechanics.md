@@ -19,4 +19,4 @@ Chữ ký mọi hàm, mỗi hàm một dòng. Thân từng hàm ở `FN.nhi.<tê
 | [[FN.nhi.thich]] | ba gu (mắt, lòng, ẩn) × cái thước tự khai → nấc `nac-thich` 0–8 | gu tự khai `locked 30/10` · ba gu, nấc `proposed` |
 | [[FN.nhi.phan-khang]] | lời khen, câu chọc của Thuyên → "Anh đáng ghét", cú đấm; khóa niềm tin sai của anh | `proposed` |
 
-**Gốc chung:** cả đời nhận được sự đồng thuận mà không được lắng nghe ([[CH.nhi.beliefs#B.nhi:003]]). Khéo léo là công cụ học từ Khải, đanh đá là bản tính; cô chiến thắng bằng phản xạ và cảm nhận, không bằng tính toán.
+**Gốc chung:** cả đời nhận được sự đồng thuận mà không được lắng nghe ([[CH.nhi.beliefs#B.nhi-003]]). Khéo léo là công cụ học từ Khải, đanh đá là bản tính; cô chiến thắng bằng phản xạ và cảm nhận, không bằng tính toán.

@@ -10,7 +10,7 @@ event: "Hà Nội tự do mà yên tĩnh; sách vũ trụ đắt nhất vẫn b�
 participants: ["[[CH.thuyen]]"]
 axis: [AX2]
 level: "EXL 7"
-beliefs: "(tiêu thụ B.thuyen:002)"
+beliefs: "(tiêu thụ B.thuyen-002)"
 aliases: [QK.T 3.1]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

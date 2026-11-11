@@ -19,7 +19,7 @@ Các điều lấy căn cứ ở **thành tố**, không ở câu gốc. Câu g�
 | **phép đo** | lăng kính ([[FN.thuyen.lang-kinh]]): khách quan được, trong vùng do mục tiêu khoanh lại, kể cả khi đo chính mình |
 | **mục tiêu, vạch đích** | luôn có người đặt; chỗ chủ quan nằm ở đây |
 | **kiểu thước** | *hai vạch* (thế hệ đói rét, no và ấm): mù, không ác · *vạch dời* (bố mẹ): dời **sau mỗi lần đạt** · *cái cân*: mục tiêu tự chọn, phần lành, lần đầu đứa trẻ đứng thẳng · *phiên bản lý tưởng* (Thuyên): hình dung mơ hồ về chính mình lúc đạt mục đích, anh phủ nhận mà bản năng vẫn bật ra; đổi hình **khi đổi mục đích** |
-| **động cơ** | *kéo*: khoảng cách tới phiên bản lý tưởng, giữa năng lực/thực tế và kỳ vọng ([[CH.thuyen.beliefs#B.thuyen:034]]) · *đẩy*: tự ti, ám ảnh quá khứ ([[CH.thuyen.beliefs#B.thuyen:029]]); mức theo tâm thế ở [[SELF.thuyen]] |
+| **động cơ** | *kéo*: khoảng cách tới phiên bản lý tưởng, giữa năng lực/thực tế và kỳ vọng ([[CH.thuyen.beliefs#B.thuyen-034]]) · *đẩy*: tự ti, ám ảnh quá khứ ([[CH.thuyen.beliefs#B.thuyen-029]]); mức theo tâm thế ở [[SELF.thuyen]] |
 | **chuyển hóa** | kẻ bị đo về sau đo người khác: áp mục tiêu của mình lên người không chọn nó |
 
 ## Điều

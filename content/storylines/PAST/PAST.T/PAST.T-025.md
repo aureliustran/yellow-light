@@ -10,7 +10,7 @@ event: "Đề tài nghiên cứu: nhận cả phần của Đức và Lan, tay b
 participants: ["[[CH.thuyen]]"]
 axis: [AX3, AX4]
 level: "EXL 7"
-beliefs: "B.thuyen:023 (tiêu thụ B.thuyen:007)"
+beliefs: "B.thuyen-023 (tiêu thụ B.thuyen-007)"
 aliases: [QK.T 3.3b]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

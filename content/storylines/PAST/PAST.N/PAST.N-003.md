@@ -10,7 +10,7 @@ event: "Năm 16 tuổi, bố mẹ mai mối công khai theo đúng gu Nhi tự k
 participants: ["[[CH.nhi]]"]
 axis: [AX7]
 level: "— · H7"
-beliefs: "B.nhi:004, B.nhi:005 (sinh)"
+beliefs: "B.nhi-004, B.nhi-005 (sinh)"
 aliases: [QK.N N.4, N.4, "Lượt 1 mai mối"]
 sources: [_archive/tuyen/qua-khu/nhi.md §2 (chuyển 10/11)]
 ---
@@ -40,7 +40,7 @@ Năm 16 tuổi, bố mẹ mai mối công khai theo đúng gu Nhi tự khai: Mis
   - Dễ đọc trong văn bản tiếng Việt, không trùng âm với nhân vật nào đã có.
   - `locked 31/10` **Misha sinh 2004**, hơn Nhi một tuổi; năm 2021 cậu học lớp 12. Bằng tuổi Thuyên: hai người cùng năm sinh, một người đạt mọi ô trong gu Nhi tự khai, một người trượt mọi ô.
 - Ranh dưới 18 tuổi giữ nguyên: năm 2021 cả hai đều dưới 18; dòng máu Nga giải thích chiều cao, không có yếu tố gợi dục.
-- `locked 31/10` Đặt ở một interlude Nhi, register ấm và sắc; chèn khi hiện tại chạm B.nhi:004 (sau X-05, hoặc ngay sau buổi Thuyên làm mẫu lần đầu).
+- `locked 31/10` Đặt ở một interlude Nhi, register ấm và sắc; chèn khi hiện tại chạm B.nhi-004 (sau X-05, hoặc ngay sau buổi Thuyên làm mẫu lần đầu).
 - Dưới 18 tuổi: các buổi đi chơi giữ hồn nhiên; "size gap" chỉ là chữ cô nói và bố mẹ hiểu thành chiều cao, không tả cơ thể.
 
 ## Misha
@@ -51,5 +51,5 @@ Năm 16 tuổi, bố mẹ mai mối công khai theo đúng gu Nhi tự khai: Mis
   - Dễ đọc trong văn bản tiếng Việt, không trùng âm với nhân vật nào đã có.
   - `locked 31/10` **Misha sinh 2004**, hơn Nhi một tuổi; năm 2021 cậu học lớp 12. Bằng tuổi Thuyên: hai người cùng năm sinh, một người đạt mọi ô trong gu Nhi tự khai, một người trượt mọi ô.
 - Ranh dưới 18 tuổi giữ nguyên: năm 2021 cả hai đều dưới 18; dòng máu Nga giải thích chiều cao, không có yếu tố gợi dục.
-- `locked 31/10` Đặt ở một interlude Nhi, register ấm và sắc; chèn khi hiện tại chạm B.nhi:004 (sau X-05, hoặc ngay sau buổi Thuyên làm mẫu lần đầu).
+- `locked 31/10` Đặt ở một interlude Nhi, register ấm và sắc; chèn khi hiện tại chạm B.nhi-004 (sau X-05, hoặc ngay sau buổi Thuyên làm mẫu lần đầu).
 - Dưới 18 tuổi: các buổi đi chơi giữ hồn nhiên; "size gap" chỉ là chữ cô nói và bố mẹ hiểu thành chiều cao, không tả cơ thể.

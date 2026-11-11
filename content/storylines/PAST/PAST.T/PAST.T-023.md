@@ -10,7 +10,7 @@ event: "'Chơi không? Thiếu một.' Vũ, sân khu tập thể."
 participants: ["[[CH.thuyen]]"]
 axis: [AX2]
 level: "EXL 7"
-beliefs: "(tiêu thụ B.thuyen:016, B.thuyen:017)"
+beliefs: "(tiêu thụ B.thuyen-016, B.thuyen-017)"
 aliases: [QK.T 3.2]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

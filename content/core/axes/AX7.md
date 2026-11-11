@@ -31,7 +31,7 @@ chưa có. Ứng viên cũ *"Con tưởng giỏi thì được thương."* bỏ 
 
 ## components
 
-B.thuyen:024 (công nhận là tấm khiên); C7 (tình thương, nhu cầu mù, `seen: khong`); cái gối và B.thuyen:025; B.thuyen:014 (lộ thì người ta đi); phía Nhi: chỗ ngồi do người khác xếp, lâu đài.
+B.thuyen-024 (công nhận là tấm khiên); C7 (tình thương, nhu cầu mù, `seen: khong`); cái gối và B.thuyen-025; B.thuyen-014 (lộ thì người ta đi); phía Nhi: chỗ ngồi do người khác xếp, lâu đài.
 
 ## ideas
 

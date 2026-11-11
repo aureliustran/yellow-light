@@ -10,7 +10,7 @@ event: "Lần đầu cô đanh đá trước người lớn: cãi lại câu 'co
 participants: ["[[CH.nhi]]"]
 axis: [AX7]
 level: "— · H7"
-beliefs: "B.nhi:003 (sinh)"
+beliefs: "B.nhi-003 (sinh)"
 aliases: [QK.N N.3, N.3, Lần đầu đanh đá trước người lớn]
 sources: [_archive/tuyen/qua-khu/nhi.md §2 (chuyển 10/11)]
 ---

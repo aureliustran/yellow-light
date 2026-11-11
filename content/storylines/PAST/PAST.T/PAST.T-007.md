@@ -10,7 +10,7 @@ event: "Tờ nháp, lớp 6: hai tờ, một tờ cho người chấm, một t�
 participants: ["[[CH.thuyen]]"]
 axis: [AX3, AX4]
 level: "EXL 3"
-beliefs: "B.thuyen:005; B.thuyen:021"
+beliefs: "B.thuyen-005; B.thuyen-021"
 aliases: [QK.T 1.5]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

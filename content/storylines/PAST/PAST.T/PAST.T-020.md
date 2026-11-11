@@ -10,7 +10,7 @@ event: "Anh Long: 'Giữ bóng giỏi rồi. Giờ học chuyền.'; xem lại v
 participants: ["[[CH.thuyen]]"]
 axis: [AX2]
 level: "EXL 6"
-beliefs: "B.thuyen:018"
+beliefs: "B.thuyen-018"
 aliases: [QK.T Hy vọng]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

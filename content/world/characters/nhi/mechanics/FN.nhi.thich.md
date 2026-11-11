@@ -23,7 +23,7 @@ body      GU MẮT  cao, vai rộng, mặc đẹp không cố, chút "bad"; size
                → 6 chủ động → 7 hiểu sai → 8 biết anh cũng có gì đó
 out       câu tự chối theo nấc; hành vi chủ động kiểu Marin từ nấc 6
 effects   với Thuyên: anh đạt gu mắt, đạt gu lòng ở dạng ngầm, đạt gu ẩn; trượt cái thước gia thế, đạt nhu cầu thật
-uses      [[CH.nhi.beliefs#B.nhi:004]], [[CH.nhi.beliefs#B.nhi:005]], [[FN.nhi.cam]]
+uses      [[CH.nhi.beliefs#B.nhi-004]], [[CH.nhi.beliefs#B.nhi-005]], [[FN.nhi.cam]]
 render    khuôn tình tiết A–H của `03-kho` §2 sẽ thành `PAT.*` (B4c)
 ```
 

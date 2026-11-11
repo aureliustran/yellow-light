@@ -4,13 +4,13 @@ kind: character
 status: locked
 updated: 2026-11-10
 aliases: [niềm tin Nhi, NT Nhi]
-exports: [B.nhi:001, B.nhi:002, B.nhi:003, B.nhi:004, B.nhi:005, B.nhi:006]
+exports: [B.nhi-001, B.nhi-002, B.nhi-003, B.nhi-004, B.nhi-005, B.nhi-006]
 parent: "[[CH.nhi]]"
 sources: [_archive/tuyen/qua-khu/nhi.md §2, §3 (locked 31/10), §4; hội thoại 10/11 (khuôn hai lớp, luật từ phức, lâu đài, cái cân, hai cái vạch)]
 ---
 # CH.nhi.beliefs · Niềm tin của Nhi
 
-Khuôn hai lớp (`schemas/belief.md`): lớp định nghĩa (bắt buộc) và tự thoại (tùy chọn, là công cụ thiết kế, chép lên trang là tùy chọn). Mã cũ `NT-nn` là alias (`NT-40` = `B.nhi:001`). Dải của Nhi: `B.nhi:001` … `B.nhi:006`; `B.nhi:007` … `B.nhi:010` để dành cho hội đồng trong quá khứ (`PAST.N.HD`). Cột *Tiêu thụ* chép từ nguồn cũ, giữ tới khi tình tiết chuyển xong.
+Khuôn hai lớp (`schemas/belief.md`): lớp định nghĩa (bắt buộc) và tự thoại (tùy chọn, là công cụ thiết kế, chép lên trang là tùy chọn). Mã cũ `NT-nn` là alias (`NT-40` = `B.nhi-001`). Dải của Nhi: `B.nhi-001` … `B.nhi-006`; `B.nhi-007` … `B.nhi-010` để dành cho hội đồng trong quá khứ (`PAST.N.HD`). Cột *Tiêu thụ* chép từ nguồn cũ, giữ tới khi tình tiết chuyển xong.
 
 **Văn phong tự thoại** `locked 10/11`: tự thoại là công cụ thiết kế, viết theo văn phong thiết kế (từ phức là đa số, chuỗi suy luận đủ ý, xưng "mình"), **không** chỉnh theo giọng của Nhi. Khi viết cảnh mới chuyển sang giọng của cô ([[CH.nhi.voice]]: tư duy đường thẳng, gọi tên cảm xúc nhưng gán sai nguyên nhân, [[FN.nhi.cam]]).
 
@@ -19,14 +19,14 @@ Khuôn hai lớp (`schemas/belief.md`): lớp định nghĩa (bắt buộc) và 
 ## C1 · Lâu đài
 
 - **question:** Mình được đo bằng gì?
-- **root:** B.nhi:006
+- **root:** B.nhi-006
 - **axes:** AX3, AX7, AX5
-- **definition:** Nhi sinh ra trong một lâu đài (định nghĩa sáu phần: [[CH.nhi]] `identity`, dòng *lâu đài*), với sứ mệnh sống theo ý nguyện của người sở hữu lâu đài. Cây thước của lâu đài có vạch luôn nằm dưới chân cô: mọi phép đo đều trả "đủ", nên không phép đo nào nói gì về cô. Cô bỏ cây thước ấy và đo mình bằng cái cân của mình (bỏ cây thước người khác đặt lên mình, đo bằng cái cân tự làm, [[ART.AX3]]), và lớn lên thành người đủ sức mạnh để không để sự công nhận của người khác định nghĩa mình. **Lực đẩy** của cô: nỗi sợ mình chỉ có giá trị nhờ lâu đài. **Lực kéo:** phiên bản không có lâu đài (B.nhi:006). Cái cân của cô bỏ thước rẻ (đanh đá thì người ta vẫn nể, mở cửa hàng thì không ai cấm), nên nhẹ, vui, tinh quái, nhưng **chưa từng bị thử**.
+- **definition:** Nhi sinh ra trong một lâu đài (định nghĩa sáu phần: [[CH.nhi]] `identity`, dòng *lâu đài*), với sứ mệnh sống theo ý nguyện của người sở hữu lâu đài. Cây thước của lâu đài có vạch luôn nằm dưới chân cô: mọi phép đo đều trả "đủ", nên không phép đo nào nói gì về cô. Cô bỏ cây thước ấy và đo mình bằng cái cân của mình (bỏ cây thước người khác đặt lên mình, đo bằng cái cân tự làm, [[ART.AX3]]), và lớn lên thành người đủ sức mạnh để không để sự công nhận của người khác định nghĩa mình. **Lực đẩy** của cô: nỗi sợ mình chỉ có giá trị nhờ lâu đài. **Lực kéo:** phiên bản không có lâu đài (B.nhi-006). Cái cân của cô bỏ thước rẻ (đanh đá thì người ta vẫn nể, mở cửa hàng thì không ai cấm), nên nhẹ, vui, tinh quái, nhưng **chưa từng bị thử**.
 
-### B.nhi:006
+### B.nhi-006
 
 - **cluster:** C1 (gốc)
-- **definition:** Cái vạch Nhi tự vẽ trên cái cân của mình: một cách sống không cần lâu đài. Làm trọn những việc mình thích, mình muốn, rồi chuyển sang việc tiếp theo; chờ người khác đến nói sự thật về những việc ấy, vì sự thật là dữ kiện để biết chỗ chưa tốt mà sửa, để một ngày chính sự thật là lý do việc cô làm được vỗ tay, không phải vì nó do một người trong lâu đài làm ra. **Hình dạng** `locked 10/11`: hoàn thành từng quá trình ngắn hạn; rõ ràng; đổi mục tiêu sang ngang mỗi khi đạt được (*horizontal scaling*); độ khó dễ, đều; trải nghiệm tích cực. "Một ngày được vỗ tay vì sự thật" không phải một cột mốc cô đo khoảng cách tới, mà là **một hướng đi**: cô không leo, cô tích lũy theo bề rộng. **Người khác:** cô mở cửa để có người phán xét mình thật. **Đúng một nửa:** phần lớn mục tiêu cô đạt được thật. **Che:** cô chỉ nghe được sự thật khi người ta không biết cô là ai, nên vạch của cô phụ thuộc vào bí mật ([[SEC-001]]); và cô chưa từng sống thiếu lâu đài. **Giá:** chỉ tin người dám cãi mình (B.nhi:003). Ở summit (thẻ v1, ch.8 cũ) cô hỏi diễn giả sinh viên: *"Bài nói rất hay. Anh có tin câu nào trong đó không?"*: cô nghe ra một bài nói được viết cho tiếng vỗ tay.
+- **definition:** Cái vạch Nhi tự vẽ trên cái cân của mình: một cách sống không cần lâu đài. Làm trọn những việc mình thích, mình muốn, rồi chuyển sang việc tiếp theo; chờ người khác đến nói sự thật về những việc ấy, vì sự thật là dữ kiện để biết chỗ chưa tốt mà sửa, để một ngày chính sự thật là lý do việc cô làm được vỗ tay, không phải vì nó do một người trong lâu đài làm ra. **Hình dạng** `locked 10/11`: hoàn thành từng quá trình ngắn hạn; rõ ràng; đổi mục tiêu sang ngang mỗi khi đạt được (*horizontal scaling*); độ khó dễ, đều; trải nghiệm tích cực. "Một ngày được vỗ tay vì sự thật" không phải một cột mốc cô đo khoảng cách tới, mà là **một hướng đi**: cô không leo, cô tích lũy theo bề rộng. **Người khác:** cô mở cửa để có người phán xét mình thật. **Đúng một nửa:** phần lớn mục tiêu cô đạt được thật. **Che:** cô chỉ nghe được sự thật khi người ta không biết cô là ai, nên vạch của cô phụ thuộc vào bí mật ([[SEC-001]]); và cô chưa từng sống thiếu lâu đài. **Giá:** chỉ tin người dám cãi mình (B.nhi-003). Ở summit (thẻ v1, ch.8 cũ) cô hỏi diễn giả sinh viên: *"Bài nói rất hay. Anh có tin câu nào trong đó không?"*: cô nghe ra một bài nói được viết cho tiếng vỗ tay.
 - **ref:** `ý` · Kim Scott (2017), *Radical Candor*: quan tâm thật lòng và nói thẳng
 - **deviation:** Scott viết cho người quản lý; Nhi muốn sự thẳng thắn ấy như dữ kiện cho cái cân của mình.
 - **seen:** `thay`
@@ -37,7 +37,7 @@ Khuôn hai lớp (`schemas/belief.md`): lớp định nghĩa (bắt buộc) và 
 - **origin:** PAST.N N.6 *Hồng*, N.7 (cửa hàng lớn lên); summit
 - **status:** `locked 10/11` · cũng là lực kéo của Nhi
 
-### B.nhi:003
+### B.nhi-003
 
 - **cluster:** C1 (vì sao bỏ cây thước)
 - **definition:** Người ta gật đầu với cô vì lâu đài, nên sự đồng thuận ấy vô nghĩa; muốn được lắng nghe thật thì phải giành, phải nói ngay, nói rõ. **Đúng một nửa:** quanh cô, phần lớn sự đồng ý đúng là dành cho lâu đài. **Che:** khả năng chính cô cũng không biết mình đúng thật hay chỉ được nể. **Giá:** cô chỉ tin người dám cãi mình, nên bị hút về phía Thuyên, và đánh giá thấp những người tử tế mà dễ chịu.
@@ -53,7 +53,7 @@ Khuôn hai lớp (`schemas/belief.md`): lớp định nghĩa (bắt buộc) và 
 - **consumed (nguồn cũ):** 1b (ghi chú *Những lần mình đúng mà không ai nhường*); 3b; 5b, ch.05 (dùng tên trong danh sách khách mời để giành micro); khéo và đanh đá; danh sách mai mối; vì sao cô thích người dám cãi mình; radar thật – giả; Phần 4
 - **status:** `locked 10/11` · alias `NT-42`
 
-### B.nhi:001
+### B.nhi-001
 
 - **cluster:** C1 (phán quyết của cái cân)
 - **definition:** Thứ cô tự lựa chọn, tự làm ra, không dựa vào lâu đài, thì có giá trị thật. Cái cân của cô đo bằng **con mắt**: cái đẹp, gu, bố cục, và độ thật – giả của người đối diện (radar); chất liệu do mẹ dạy (bố cục, ánh sáng, phối màu). Ẩn danh tính (kênh không có gia đình, K17; chỗ ngồi không xếp theo họ) là **điều kiện để đo sạch**, không phải bản thân cái cân. **Đúng một nửa:** cửa hàng lớn lên thật, khán giả là của cô. **Che:** chưa bao giờ phải sống bằng cửa hàng, nên không biết nó trụ được không nếu thiếu tiền nhà. **Giá:** cô ghét bị nhìn là "con ai" tới mức xóa gia đình khỏi kênh của mình, góp phần giữ [[SEC-001]].
@@ -68,10 +68,10 @@ Khuôn hai lớp (`schemas/belief.md`): lớp định nghĩa (bắt buộc) và 
 - **consumed (nguồn cũ):** cửa hàng, KOC; vì sao cô ghét bị nhìn là "con ai"; hợp tác cửa hàng với Thuyên; Phần 3
 - **status:** `locked 10/11` · alias `NT-40`
 
-### B.nhi:002
+### B.nhi-002
 
 - **cluster:** C1 (lâu đài vẫn che mà cô không thấy tường thành)
-- **definition:** Luôn có người thu xếp hậu quả cho cô; cô không nhìn thấy tấm lưới vì nó chưa bao giờ thủng. Người thu xếp chủ yếu là Khải, từ những việc nhỏ suốt thời thơ ấu. **Đúng một nửa:** tấm lưới có thật. **Che:** nếu không có ai dọn, cô không biết mình đứng được đến đâu (cùng gốc với B.nhi:001). **Giá:** ngày gãy là lần đầu không có ai dọn; Thuyên đọc trúng bề mặt mà sai ("chưa từng phải làm gì để có cái ghế ấy").
+- **definition:** Luôn có người thu xếp hậu quả cho cô; cô không nhìn thấy tấm lưới vì nó chưa bao giờ thủng. Người thu xếp chủ yếu là Khải, từ những việc nhỏ suốt thời thơ ấu. **Đúng một nửa:** tấm lưới có thật. **Che:** nếu không có ai dọn, cô không biết mình đứng được đến đâu (cùng gốc với B.nhi-001). **Giá:** ngày gãy là lần đầu không có ai dọn; Thuyên đọc trúng bề mặt mà sai ("chưa từng phải làm gì để có cái ghế ấy").
 - **ref:** `ý` · *moral hazard* (rủi ro đạo đức): người được che chắn khỏi hậu quả thì hành xử khác người phải tự gánh
 - **deviation:** rủi ro đạo đức giả định người được che chắn biết mình được che chắn; Nhi không biết, nên với cô đó không phải lựa chọn, mà là thế giới vốn như thế.
 - **seen:** `nua` (bật lên khi Khải nói "Lần này đừng để anh phải dọn", rồi bị gạt đi)
@@ -86,11 +86,11 @@ Khuôn hai lớp (`schemas/belief.md`): lớp định nghĩa (bắt buộc) và 
 ## C2 · Người mình muốn
 
 - **question:** Mình thật sự muốn ai?
-- **root:** B.nhi:004
+- **root:** B.nhi-004
 - **axes:** AX3, AX7
 - **definition:** Cô đo người mình muốn bằng một cây thước gia đình dạy (môn đăng hộ đối), trong khi nhu cầu thật của cô nằm ở chỗ khác (người dùng đầu óc cho cô, [[FN.nhi.thich]]). Khi cây thước sai, cô không nghi cây thước, mà nghi chính mình, hoặc tin mình đã thắng. **Chuyển hóa** ([[ART.AX3]] .4): cây thước lâu đài cô đã bỏ khi nó đo *cô* không biến mất; nó sống tiếp ở chỗ cô đo *người khác* (gia thế).
 
-### B.nhi:004
+### B.nhi-004
 
 - **cluster:** C2
 - **definition:** Cô cảm được nỗi nhạt nhẽo khi người kia chỉ biết "ừ", nhưng gán nguyên nhân cho bản thân: mình kén. **Đúng một nửa:** cô có một danh sách tiêu chí dài thật. **Che:** khả năng chính danh sách ấy sai. **Giá:** cô vẫn khai gu như cũ; hội đồng đóng dấu "kén"; cô không nhận ra ngay sự dịu dàng ngầm của Thuyên.
@@ -105,7 +105,7 @@ Khuôn hai lớp (`schemas/belief.md`): lớp định nghĩa (bắt buộc) và 
 - **consumed (nguồn cũ):** cô vẫn khai gu như cũ; hội đồng trêu cô kén; bị Thuyên hút dù anh trượt cây thước gia thế
 - **status:** `locked 10/11` · alias `NT-43`, "Mình kén"
 
-### B.nhi:005
+### B.nhi-005
 
 - **cluster:** C2
 - **definition:** Cô tin mình đã kết thúc ván mai mối bằng sự khéo léo, nên từ nay không ai sắp đặt người cho cô được nữa. Niềm tin sai: lượt 2 vẫn chạy ngầm ([[SEC-002]]). **Giá:** không nghi Phong, không nghi gala; bị đánh úp khi lượt 2 lộ ra, và rời đi.
