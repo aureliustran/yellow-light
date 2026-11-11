@@ -18,14 +18,14 @@ Sơ đồ và chữ ký mọi hàm, mỗi hàm một dòng. Thân từng hàm �
  ĐẦU VÀO            BỘ CHUYỂN ĐỔI            ĐỘNG CƠ
  thiếu: không ai ──► phương trình  ──► áp suất chênh lệch (0 → công nhận thật)
  nói "con đã cố"     thiếu = khuyết        ├─ cái tôi lành: cái cân, cố vì mình
- + "nhà mi sướng"    chưa sửa              └─ cái tôi độc: tiền mua tình thương
+ + "nhà mi sướng"    chưa sửa              └─ cái tôi độc: công nhận làm khiên, bác bỏ phán xét
                             │   ĐỘNG CƠ ĐẨY: ghét thằng bé cột điện → không bao giờ yếu nữa
                             ▼               NHIÊN LIỆU: công nhận → thuốc giảm đau → nhờn
  BỘ PHẬN BỊ KHÓA: cái gối (khóa 1 phủ nhận · khóa 2 cảm biến · khóa 3 sợ lòng tốt)
  VAN XẢ: tếu · TÊN LỬA → KHÍ THẢI → RĂN · ĐIỂM GÃY: định giá bằng 0 · SỬA: cái tôi lành dẫn, để người khác ôm
 ```
 
-Bỏ vế "giỏi = được thương" khỏi bộ chuyển đổi `locked 11/11` (tác giả); các phần khác của sơ đồ giữ `locked 28/10`.
+Bỏ vế "giỏi = được thương" khỏi bộ chuyển đổi, và "cái tôi độc: tiền mua tình thương" đổi thành công nhận làm khiên bác bỏ mọi lời phán xét (ở GĐ2: để được thương Nhi trọn vẹn, [[FN.thuyen.cai-toi]]) `locked 11/11` (tác giả); các phần khác của sơ đồ giữ `locked 28/10`.
 
 Bản đầy đủ: `_archive/tuyen/qua-khu/thuyen-co-may.md` §2 (nguồn cho tới khi B3b chuyển xong).
 

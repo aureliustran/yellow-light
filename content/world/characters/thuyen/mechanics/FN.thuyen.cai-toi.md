@@ -9,7 +9,7 @@ sources: [_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §2, _archive/tuyen/qua-k
 ---
 # FN.thuyen.cai-toi
 
-Hai cái tôi trên cùng một động cơ áp suất chênh lệch: cái tôi lành (cái cân, cố vì mình) và cái tôi độc (tiền mua tình thương, thuốc giảm đau).
+Hai cái tôi trên cùng một động cơ áp suất chênh lệch: cái tôi lành (cái cân, cố vì mình) và cái tôi độc (sự công nhận dùng làm tấm khiên bác bỏ mọi lời phán xét; thuốc giảm đau).
 
 ```
 in        một kết quả, một lời khen hoặc lời gạt; khoảng chênh giữa người ngoài và bố mẹ
@@ -26,6 +26,7 @@ render    DV-003 (nhìn bài hay nhìn người), DV-013 (cảnh 0 và cảnh 1)
 
 - Cái tôi lành sinh lớp 6: cô Toán cầm bài ngắn nhất lớp lên ("Cả lớp xem bạn Thuyên giải.") `proposed`. Nam làm đối chứng `locked 27/10`.
 - Theo giai đoạn: đại học trước đây ghi "ngủ yên"; từ 31/10 là **thức có điều kiện, bị nhốt trong đầu** ([[FN.thuyen.phong-kin]]); GĐ2 thức dậy, chiếm chỗ (phòng kín hỏng từng lớp); hồi phục: lành quay lại, độc được cai.
+- **Cái tôi độc ở GĐ2** `locked 11/11` (tác giả): anh **không** dùng sự công nhận để mua tình thương của Nhi; từ GĐ2 anh đã biết mình có nó (đêm say, [[X-011-001]]). Anh dùng sự công nhận để **bác bỏ mọi lời phán xét** (gia thế, hội đồng, nhà Nhi, "mọi người") để **được thương Nhi một cách trọn vẹn**. Niềm tin nối: [[CH.thuyen.beliefs#BL-024]] (tấm khiên, mở rộng từ chủ kiến sang tình yêu), [[CH.thuyen.beliefs#BL-030]] (other-face: "mọi người coi anh xứng đáng"), [[CH.thuyen.beliefs#BL-034]] (vạch GĐ2), [[CH.thuyen.beliefs#BL-029]] (phán xét là cái đau phải chọn), C7 (khuếch đại ở đêm say). Thay mô tả cũ "tiền mua tình thương".
 - Hệ quả thiết kế: người đọc đứng về phía cái tôi lành từ đầu đến cuối; cú ngã là cái tôi độc mượn giọng cái tôi lành `proposed`.
 
 ## detail

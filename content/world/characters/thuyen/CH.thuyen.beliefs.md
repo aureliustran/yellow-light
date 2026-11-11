@@ -39,6 +39,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `ngo-nhan` · lớp 4–5: *Sự công nhận mẹ dành cho anh Nam không đến từ việc anh ấy là anh Nam, mà từ việc anh ấy chạm tới những vạch trên thước của mẹ. Nếu sự công nhận đi theo thước đo, thì việc mình chưa được công nhận chỉ có nghĩa là mình chưa chạm vạch. Đây không phải là bất công; đây là một bài toán, và bài toán thì có lời giải.*
   - `dien-giai` · lớp 9, theo sườn bài văn *Ước mơ của em*: *Sự công nhận là thứ bảo hộ chủ kiến của một người trước những người khác. Chủ kiến nào khớp với thước đo của những người xung quanh thì được công nhận, và được họ chung tay bảo vệ. Chủ kiến của mình không khớp với thước đo nào của họ, nên bị coi là viển vông. Một chủ kiến không được bảo hộ thì sẽ bị vùi dập. Nhưng cái cân của mình đo được chính xác thứ họ sẵn sàng công nhận. Vì vậy, mình trao cho họ đúng thứ ấy, còn chủ kiến thật thì giữ lại, chờ đến ngày nó được bảo hộ.*
   - `dien-giai` · lớp 11: *Sự công nhận không phải phần thưởng, mà là tấm khiên: có nó, mình được quyền giữ cách nghĩ của mình mà không bị ai bác bỏ. Thước của người khác không quyết định tao là ai; nó chỉ cho tao biết cái giá của tấm khiên. Cái cân của tao đo cái giá ấy, và tao trả bằng cách của tao. Giá thì luôn tăng lên, nên muốn giữ tấm khiên thì phải tăng trưởng liên tục.*
+- **amplified** `locked 11/11`: [[X-011-001]] (đêm say). Từ GĐ2 tấm khiên mở rộng từ chủ kiến sang tình yêu: anh đã biết mình có tình yêu của Nhi; sự công nhận là thứ để bác bỏ mọi lời phán xét, để được thương cô trọn vẹn (cái tôi độc, [[FN.thuyen.cai-toi]]). Không phải tiền mua tình thương.
 - **children:** BL-004, BL-007
 - **other-face:** khao khát được ôm, được nghe khóc, được thừa nhận vì đã cố và đã chịu (cái gối, FN.thuyen.cai-goi)
 - **axis · step:** EXL 2 · AX7, AX3
@@ -539,6 +540,7 @@ Không phải niềm tin mới: chính niềm tin của cụm này, **được k
 
 - **page:** lên trang **chỉ bằng cảm xúc và hồi tưởng về lúc đau** (cái gối, những đêm khóc, những lần không được ôm); không câu nào cho thấy anh nhận thức rõ nhu cầu này; người kể không gọi tên nó.
 - **kỹ thuật:** trong đêm say, viết hơi ấm của Nhi khi cô ôm anh; ở các lần sau, skinship (chạm, tựa, nắm) gọi lại hơi ấm ấy. Độc thoại **được mở** (mở luật của gói cho cụm này): độc thoại thể hiện cảm xúc của anh, không thể hiện nhận thức về nhu cầu.
+- **GĐ2** `locked 11/11`: anh đã biết mình có tình yêu của Nhi (đêm say). Thứ anh chưa có là quyền thương cô trọn vẹn trước mọi lời phán xét; cái tôi độc dùng sự công nhận làm khiên cho quyền ấy (BL-024 `amplified`, [[FN.thuyen.cai-toi]]). Nhu cầu bên dưới vẫn mù.
 - **consumed:** biến chất GĐ2 ở THR.LAB (X-011.G1); tình tiết cụ thể chưa có.
 
 ## Đã gộp, đã chuyển
