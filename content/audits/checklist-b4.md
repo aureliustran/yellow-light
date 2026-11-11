@@ -22,6 +22,7 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 - [x] **Gương Thuyên – Nhi** đặt ở mục `mirror` của ROM.TN, phụ thuộc một chiều vào niềm tin (e49737f); thêm gương quá khứ (bcb96db).
 - [x] **X-011 (đêm say)**: mục tiêu riêng X-011.G1 (tác giả 11/11): khuếch đại các niềm tin liên quan để biến chất GĐ2 ở lab xảy ra; lời hứa thành lá X-011-001.
 - [x] **X-011-001 (lời hứa)** duyệt 11/11, gồm các niềm tin khuếch đại B.thuyen:024, 034, 030; thêm B.thuyen:029 (vạch đã nâng lên: ghế 50 triệu).
+- [x] **Mã niềm tin** (tác giả 11/11): `B.<id nhân vật>:<số>`, đếm riêng từng nhân vật; cũ BL-001…035 → `B.thuyen:001…035` (giữ số), BL-040…045 → `B.nhi:001…006`, BL-050 → `B.vu:001`; PAST.N.HD không có dải riêng.
 - [x] **B.thuyen:034** (11/11): vạch dời theo mục tiêu của anh; phiên bản lý tưởng là ảo tưởng về mình lúc đạt mục tiêu; ref Markus và Nurius (possible selves), Higgins (self-discrepancy); expression theo mục tiêu từng chặng; behavior từ nghiên cứu chủ nghĩa hoàn hảo.
 - [x] **Bỏ "giỏi thì được thương"** (tác giả 11/11, cách a): gỡ khỏi B.thuyen:024 (tầng không thấy, alias), B.thuyen:004, C7, B.thuyen:030, FN.thuyen.phuong-trinh (bộ chuyển đổi còn "thiếu = khuyết chưa sửa"), sơ đồ cỗ máy, CH.thuyen, CH.vu, rules/goi-ten-cam-xuc §8, PAST.T.G1, AX7 (on-page, components).
 - [x] **AX7 câu gốc** dựng lại (sự công nhận làm tấm khiên, không gọi tên vòng tay mình thiếu) và **PAST.T.G1** câu chữ mới: duyệt 11/11.
