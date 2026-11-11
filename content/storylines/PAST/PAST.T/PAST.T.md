@@ -803,6 +803,8 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 
 ## gaps
 
+- **BL-026 viết lại** `locked 11/11`: bảng cũ còn dòng *"Muốn biết thì tự học. Hỏi là bị mắng."*; khi viết lại dùng định nghĩa mới (không ngại hỏi; tự tìm là ưu tiên; bộ lọc chọn người giữ câu trả lời, định hình trước chuỗi câu hỏi).
+
 - **"Tiền mua tình thương" bỏ** `locked 11/11`: mục `story` (bảng thang BL-024, dòng GĐ2) và `ref` (*Hai cái tôi*, *Thuốc giảm đau*, *Cô độc*) còn câu cũ; khi viết lại dùng định nghĩa mới ở [[FN.thuyen.cai-toi]].
 
 - **Bỏ "giỏi thì được thương"** `locked 11/11`: khi viết lại, rà TB-16 / DV-016 (*nhịp lật ba bậc của phương trình*: "nếu con giỏi như anh Nam thì…"), DV-009 (*lọc qua phương trình*), lá [[PAST.T-006]] (câu hỏi gối), mục `story` (thang của BL-024). Tình thương không còn là vế của phương trình.

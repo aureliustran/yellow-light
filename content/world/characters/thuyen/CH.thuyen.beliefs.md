@@ -249,19 +249,19 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### BL-026
 
 - **cluster:** C3
-- **definition:** Người khác không biết thứ anh muốn biết, hoặc không muốn cho anh biết, hoặc trừng phạt anh vì không biết; vì vậy anh hạn chế hỏi. Nhưng khi gặp người biết thứ anh muốn biết và sẵn lòng chia sẻ, anh vẫn hỏi. Niềm tin không nằm ở việc *có hỏi hay không*, mà ở việc *hỏi ai*. **Ban đầu chưa hoàn thiện:** ở quãng 1 anh ngại hỏi cả với người sẵn lòng, vì chưa phân biệt được ba loại người; bộ lọc chỉ thành hình về sau. **Giá:** anh thành người chỉ cho người khác thứ mình chưa từng được chỉ. Con của 001.
+- **definition:** `locked 11/11` (tác giả). Anh không ngại hỏi, không ngại bị mắng khi hỏi; anh chỉ cần câu trả lời. Khi cần biết một thứ, **tự tìm hiểu là việc anh ưu tiên**: tự học là năng lực tự phát, không phải phương án dự phòng ([[FN.thuyen.nang-khieu]]). Với phần không tự tìm được, **bộ lọc** cho anh biết ai giữ câu trả lời anh cần; bộ lọc không hạn chế việc hỏi, nó làm anh hỏi có chọn lọc và **định hình trước chuỗi câu hỏi** để lấy đúng thứ cần. Người lớn không biết, không muốn nói, hay mắng vì anh không biết: đó là dữ kiện về người được hỏi, không phải lý do để anh im. **Giá:** anh thành người chỉ cho người khác thứ mình chưa từng được chỉ; người bị hỏi có thể thấy mình là một nguồn dữ liệu, không phải một người (`proposed`). Con của 001.
 - **ref:** `câu` · Kant, *Trả lời câu hỏi: Khai sáng là gì?* (1784): *"Sapere aude! Have courage to use your own understanding!"* (https://users.manchester.edu/FacStaff/SSNaragon/Kant/lp/Readings/Kant,%20Enlightenment.html)
-- **deviation:** Kant chối bỏ sự giám hộ; Thuyên không chối bỏ người chỉ dẫn, anh dùng cái cân để chọn lọc người đáng hỏi. Tự học không phải lý tưởng của anh, mà là phương án dự phòng khi không có người xứng đáng.
+- **deviation:** với Kant, dùng hiểu biết của mình là một việc cần **can đảm** để thoát sự giám hộ; với Thuyên, nó là bản năng tự phát, không cần can đảm. Anh cũng không chối bỏ người chỉ dẫn: anh dùng cái cân để chọn người giữ câu trả lời, và dùng họ như một nguồn.
 - **seen:** `thay`
 - **monologue:**
-  - `ngo-nhan` · quãng 1: *Mỗi câu hỏi là một lần thừa nhận mình không biết, và lần thừa nhận nào cũng có thể bị trừng phạt. Có những câu người lớn không trả lời được, có những câu họ không muốn trả lời, và có những câu khiến mình bị mắng chỉ vì đã không biết. Vậy hỏi là một việc rủi ro. Tốt nhất là hạn chế hỏi; thứ gì tự tìm được thì tự tìm.*
-  - `dien-giai` · về sau (thời điểm `needs-decision`): *Vấn đề không nằm ở việc hỏi, mà ở người được hỏi. Người không có hiểu biết thì không trả lời được; người không muốn chia sẻ thì trả lời bằng sự im lặng hoặc sự trừng phạt. Nhưng người vừa có hiểu biết vừa sẵn lòng chia sẻ vẫn tồn tại, chỉ hiếm hoi. Vì vậy, mình không từ bỏ việc hỏi; mình chọn lọc người để hỏi.*
+  - `ngo-nhan` · quãng 1: *Người lớn mắng thì cứ mắng; lời mắng không trả lời được câu mình hỏi, nên nó không quan trọng. Thứ quan trọng là câu trả lời. Có người không biết, có người biết mà không muốn nói, vậy hỏi họ là tốn thời gian. Cách nhanh nhất vẫn là tự tìm.*
+  - `dien-giai` · về sau (thời điểm `needs-decision`): *Tao không cần ai cho phép tao hỏi, và tao không bận tâm câu hỏi của tao làm ai khó chịu. Thứ tao cần là câu trả lời. Phần lớn thứ tao muốn biết thì tao tự tìm được, và tự tìm là nhanh nhất. Phần còn lại nằm trong đầu một số ít người; việc của tao là biết người nào giữ nó, rồi dựng sẵn chuỗi câu hỏi để lấy đúng thứ cần trong ít lượt nhất.*
 - **parent:** BL-001
 - **other-face:** người vừa biết vừa sẵn lòng chia sẻ
 - **axis · step:** EXL 2→3 · AX7
 - **origin:** PAST.T quãng 1: xe đạp (QT-04), ba lần xin người nghe (QT-12), bài toán không ai chỉ (QT-27)
 - **consumed (nguồn cũ):** anh thành người chỉ cho người khác thứ mình chưa từng có: giáo án Tin, dạy Nhi, quân sư cho Phong
-- **status:** `locked 10/11` · alias `NT-26`
+- **status:** `locked 10/11`; định nghĩa, deviation, độc thoại viết lại 11/11 (bỏ "hạn chế hỏi", "ngại hỏi") · alias `NT-26`
 
 ### BL-033
 
