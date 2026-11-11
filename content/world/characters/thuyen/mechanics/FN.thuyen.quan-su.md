@@ -18,7 +18,7 @@ body      đọc người kia thiếu gì (anh thuộc hình dạng cái thiếu
           → người kia thành công
 out       câu soạn sẵn; một cặp được ghép
 effects   anh đứng ngoài; áp cho mình là thừa nhận cái thiếu (BL-025), nên không áp
-uses      BL-015 (giỏi việc người, mù việc mình), BL-009 "Để người ta tin đó là ý của họ", BL-031; [[FN.thuyen.lang-kinh]]
+uses      BL-009 "Để người ta tin đó là ý của họ", BL-031, BL-023, BL-025 (BL-015 đã nằm trong hàm này); [[FN.thuyen.lang-kinh]]
 render    none
 ```
 

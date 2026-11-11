@@ -18,7 +18,7 @@ body      thiếu = khuyết chưa sửa → khuyết thì phải sửa → sử
           → không còn gì để sửa = mình là kẻ thất bại → không bao giờ để mình rảnh
 out       mục tiêu kế tiếp luôn có; lời khen đổi ngay thành chỗ hổng
 effects   cái tôi lành hoặc độc nhận đầu ra ([[FN.thuyen.cai-toi]]); nhu cầu được ôm không vào phương trình, chỉ để lại cảm giác thiếu mà anh đọc thành một khuyết chưa sửa ([[FN.thuyen.cai-goi]])
-uses      BL-021 (cái cân), BL-030 (thước); trục AX3, AX5
+uses      BL-010 (tiên đề 1), BL-035 (tiên đề 2–3), BL-021 (cái cân), BL-030 (thước); trục AX3, AX5
 render    DV-016 (nhịp lật ba bậc); DV-009 (lọc qua phương trình); DV-001
 ```
 
@@ -26,7 +26,7 @@ render    DV-016 (nhịp lật ba bậc); DV-009 (lọc qua phương trình); DV
 
 - **Bốn tầng** (`M-he-gia-tri` §1, `locked 18/10`): lăng kính khách quan → hệ giá trị tự sửa → động cơ (bề mặt: thành kẻ mạnh; sự thật: chạy trốn nhãn *kẻ thất bại*) → kỹ năng phòng vệ (luôn có một thứ ở phía trước).
 - **Tiên đề** (§2): mọi thứ có ưu – khuyết đo được, mình cũng vậy; khuyết chặn đường thì phải sửa, không chặn thì bỏ (loại môn học thuộc diễn ra vô thức); sửa xong mới được đứng yên; cảm giác mông lung cũng là khuyết.
-- **Điểm mù:** không bao giờ hỏi cây thước (hỏi thước không phải thao tác sửa); thứ không kêu thành tiếng thì không phải chỗ kẹt.
+- **Điểm mù** (sửa 11/11 theo BL-030): thấy thước của người khác là chủ quan, tự miễn cho cái cân của mình; không hỏi ai đặt vạch đích cho nó ([[ART.AX3]] .3). Thứ không kêu thành tiếng thì không phải chỗ kẹt.
 - **Hai lớp động cơ** (§4): người ngoài thấy chí cầu tiến; người đọc đúng là phụ nữ (Diệp Anh, rồi Nhi).
 - Dòng "lớp 11: sau giải Nhì" của §3 là canon cũ: v2 là thi quốc gia **không giải** (`locked 27/10`).
 

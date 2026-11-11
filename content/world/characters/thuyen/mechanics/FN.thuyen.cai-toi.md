@@ -15,10 +15,10 @@ Hai cái tôi trên cùng một động cơ áp suất chênh lệch: cái tôi 
 in        một kết quả, một lời khen hoặc lời gạt; khoảng chênh giữa người ngoài và bố mẹ
 when      lành: sinh lớp 6; độc: lớn dần, trồi lần đầu ở C6b (lớp 11); trạng thái theo `cai-toi-doc` của [[CH.thuyen]]
 body      LÀNH  đo bằng cái cân của mình → nhìn vào bài, vào vật → ngạo có vỏ đùa, tếu, hòa khí, gánh đội
-          ĐỘC   đo bằng khoảng cách tới cây thước của bố mẹ → ngẩng lên xem ai đang nhìn → ngạo không vỏ: lạnh, im, nhìn xuống
+          ĐỘC   đo bằng ánh nhìn của người phán xét (thứ anh tưởng đã bỏ ở lớp 11, other-face của BL-030) → ngẩng lên xem ai đang nhìn → ngạo không vỏ: lạnh, im, nhìn xuống
 out       việc làm tốt (cả hai); với độc: thêm một liều thuốc
 effects   ranh giới nằm ở cái gối: lành ôm gối không cần cãi; độc phải cãi ([[FN.thuyen.cai-goi]])
-uses      BL-005 (hai tờ nháp → hai dụng cụ đo), BL-021 "Cái cân của mình đúng"; [[FN.thuyen.nhien-lieu]]
+uses      BL-005 (hai tờ nháp → hai dụng cụ đo), BL-021 "Cái cân của mình đúng", BL-024 (tấm khiên), BL-030 (other-face); [[FN.thuyen.nhien-lieu]]
 render    DV-003 (nhìn bài hay nhìn người), DV-013 (cảnh 0 và cảnh 1)
 ```
 

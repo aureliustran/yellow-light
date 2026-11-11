@@ -18,7 +18,7 @@ body      tìm lõi (công thức truy hồi ẩn, một tính chất bỏ đư�
           → cày tốc độ nhìn ra lõi, không cày số mẫu
 out       bài ngắn nhất lớp; vở giáo án dạng "= A + B"; cây nhánh, danh sách về sau
 effects   "thiên tài lười" có lý; mặt trái: khinh bài không có lõi (bài dễ "không đáng tối ưu") → trượt quốc gia
-uses      BL-019 "Cái mới nào cũng là cái cũ ghép lại"; [[FN.thuyen.lang-kinh]], [[FN.thuyen.luoi-co-chon-loc]]
+uses      BL-020, BL-021 (BL-019 "Cái mới nào cũng là cái cũ ghép lại" đã nằm trong hàm này); [[FN.thuyen.lang-kinh]], [[FN.thuyen.luoi-co-chon-loc]]
 render    none
 ```
 

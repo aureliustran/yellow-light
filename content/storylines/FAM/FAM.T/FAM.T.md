@@ -66,9 +66,7 @@ Giai đoạn: OPEN gồm cả quá khứ (mầm non → hết thực tập). Cá
 - **Hòa khí học sau, từ Vũ vực anh dậy** (4–5/2021; bản cũ ghi nhầm 2023) `locked 30/10`. Em dạy anh đọc, Vũ cho anh lý do đọc để làm gì (chuyền thay vì thắng) `proposed`.
 
 ### Mẹ, bố → Thuyên: cây thước di động (AX3)
-- Mẹ đem thứ anh làm dở ra **so với người làm tốt hơn, dù thứ anh làm tốt chưa chắc họ làm được** `locked 30/10`: so sánh có chọn lọc. Yêu thương là một ví dụ: con nhà khác biết quan tâm, thương người dù không học giỏi, không tư duy tốt như anh. Mẹ chê anh "không biết thương ai" `locked 30/10`.
-- Khi anh **vượt người được đem ra so, bố mẹ cãi cùn** `locked 30/10`. Ví dụ: anh hơn điểm Toán **thằng Lâm** `locked 30/10` (tên mới, chưa có trong canon).
-- Mẹ tin điều mình nói, không nói dối. Cãi cùn cụ thể, đời thường (đề khó hơn, nó ốm, văn nó hơn) `proposed`. Lập luận chặt chẽ của anh thua người không dùng lập luận, nối với lần cãi 1 và 2 (BL-030).
+- Cơ chế thước di động (so sánh có chọn lọc, cãi cùn khi anh vượt, thằng Lâm): chủ là [[FN.thuyen.thieu]] (11/11); FAM.T chỉ giữ quan hệ.
 - Mẹ chê anh không biết thương người trong khi mẹ không ôm anh: người đọc tự thấy vòng, người kể không chỉ ra.
 - Tối đa ba tên lặp lại `proposed`: Nam (giỏi chung), Lâm (Toán), một đứa biết thương người.
 

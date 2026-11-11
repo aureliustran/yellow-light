@@ -17,7 +17,7 @@ when      luôn có; ba khóa giữ nó lại cho tới hồi phục (`cai-goi` 
 body      cái gối "nói" (quãng 1) → anh thôi trả lời nó (lớp 6) → cãi với nó bằng danh sách bằng chứng (C6b, GĐ2)
           → cơ thể luôn thắng lời cãi (tay kéo gối về lúc ba giờ sáng)
 locks     khóa 1 phủ nhận (BL-025 "Mình không thiếu") · khóa 2 cảm biến "lộ ra thì người ta đi" (BL-014) · khóa 3 sợ lòng tốt
-out       hành vi ôm, cắn, ném, kéo về; không lời
+out       hành vi ôm, cắn, ném, kéo về; không lời. Từ đêm say ([[X-011-001]]): độc thoại được mang cảm xúc (hơi ấm, cái nhớ), không bao giờ mang nhận thức về nhu cầu (luật C7 mở 11/11)
 effects   phần bị giấu không ai thương được → thiếu sâu thêm (vòng tự nuôi); lòng tốt bị đẩy ra (khóa 3)
 uses      BL-024, BL-025, BL-014; trục AX4, AX8
 render    DV-014 (quy cách cái gối), DV-015 (câu gối để dành), DV-004, DV-005, DV-007

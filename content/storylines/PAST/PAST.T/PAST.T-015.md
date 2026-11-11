@@ -43,7 +43,7 @@ Chi tiết chuyển từ nguồn cũ (T3b, 10/11); nhãn giữ nguyên.
 | Hồ sơ du học (lớp 12) | Bảng dữ liệu anh chị khóa trên; giáo án SAT, IELTS, bài luận (8.6) | Học lén; tiền "học tiếng Anh" thành lệ phí |
 | Lan sang | Chà đế giày (đã có, ch.10); video không phụ đề → IELTS | Cái gì cũng thành giáo án |
 
-- **Không hệ thống hóa tếu:** câu đùa là chỗ duy nhất lăng kính tắt thật.
+- **Không hệ thống hóa tếu:** câu đùa là chỗ duy nhất anh không hệ thống hóa: lăng kính vẫn sáng (Ngạo dùng dữ kiện thật), nhưng không có giáo án, không có vạch (sửa 11/11).
 - **Quyển vở là tổ tiên của khung dạy** *chấm – vì sao – ví dụ – quay về* (ch.13, dạy Nhi). Khung ấy đi qua miệng Phong ở gala và Nhi nhận ra giọng Thuyên. Một sợi chỉ từ sân trọ lớp 10 đến gala.
 - **Cày lén:** để giữ bản sắc "thiên tài lười", lúc đầu anh cày lén ("Đẳng cấp vcl, tao có học thêm thuật toán nào đâu"). Câu này đúng nghĩa đen, nhưng giấu số giờ anh cày. Đây là BL-005 (hai tờ nháp). Mục 8 cho anh bỏ dần việc giấu trước bạn bè (riêng với bố mẹ thì vẫn giấu hồ sơ du học).
 - **Hai pha** (Vallerand): đam mê hài hòa ở lớp 10 (sân là nơi không phải nhìn mặt ai) → có nguy cơ thành đam mê ám ảnh khi dính vào giá trị bản thân. Lộ trình mục 8 giữ nó ở phía hài hòa đến hết cấp 3; dạng ám ảnh thật chỉ bùng ở GĐ2, ở lab.

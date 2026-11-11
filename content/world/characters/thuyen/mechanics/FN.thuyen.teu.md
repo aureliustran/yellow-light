@@ -25,6 +25,8 @@ render    DV-008 (tếu sau cú chạm, bóc vỏ, người bắt được van x
 
 ## notes
 
+- **Lăng kính trong câu đùa** `locked 11/11`: lăng kính luôn sáng ([[FN.thuyen.lang-kinh]]); câu đùa là chỗ duy nhất anh **không hệ thống hóa**: không giáo án, không vạch. Thay câu cũ "lăng kính tắt thật".
+
 - **Bộ nhân cách ở QK:** Tếu (người thân) · Dạ (bố mẹ, họ hàng) · Ngoan có tính toán (thầy cô, hội đồng) · Lặng (một mình) `proposed`.
 - **Theo giai đoạn:** GĐ2 Trào-thước đóng lại, Ngạo thành kiêu ngạo im, van đóng; đáy mất cả ba số; hồi phục Trào trở lại trước, Ngạo trở lại sau; thời điểm anh nói được cả hai vế trong một câu là dấu hiệu bình phục.
 - **Luật viết:** lời kể không cười; người nghe cười đúng chỗ Trào-thước, người đọc thì không. Dữ kiện của Ngạo phải có thật.

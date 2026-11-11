@@ -40,7 +40,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `dien-giai` · lớp 9, theo sườn bài văn *Ước mơ của em*: *Sự công nhận là thứ bảo hộ chủ kiến của một người trước những người khác. Chủ kiến nào khớp với thước đo của những người xung quanh thì được công nhận, và được họ chung tay bảo vệ. Chủ kiến của mình không khớp với thước đo nào của họ, nên bị coi là viển vông. Một chủ kiến không được bảo hộ thì sẽ bị vùi dập. Nhưng cái cân của mình đo được chính xác thứ họ sẵn sàng công nhận. Vì vậy, mình trao cho họ đúng thứ ấy, còn chủ kiến thật thì giữ lại, chờ đến ngày nó được bảo hộ.*
   - `dien-giai` · lớp 11: *Sự công nhận không phải phần thưởng, mà là tấm khiên: có nó, mình được quyền giữ cách nghĩ của mình mà không bị ai bác bỏ. Thước của người khác không quyết định tao là ai; nó chỉ cho tao biết cái giá của tấm khiên. Cái cân của tao đo cái giá ấy, và tao trả bằng cách của tao. Giá thì luôn tăng lên, nên muốn giữ tấm khiên thì phải tăng trưởng liên tục.*
 - **amplified** `locked 11/11`: [[X-011-001]] (đêm say). Từ GĐ2 tấm khiên mở rộng từ chủ kiến sang tình yêu: anh đã biết mình có tình yêu của Nhi; sự công nhận là thứ để bác bỏ mọi lời phán xét, để được thương cô trọn vẹn (cái tôi độc, [[FN.thuyen.cai-toi]]). Không phải tiền mua tình thương.
-- **children:** BL-004, BL-007
+- **children:** BL-004 (BL-007 chuyển sang con của BL-034, 11/11)
 - **other-face:** khao khát được ôm, được nghe khóc, được thừa nhận vì đã cố và đã chịu (cái gối, FN.thuyen.cai-goi)
 - **axis · step:** EXL 2 · AX7, AX3
 - **origin:** mầm PAST.T 1.1b (lớp 1); kết tinh 1.4b (mẹ công nhận Nam, lớp 4–5); thành chữ ở [[PAST.T-011]] (bài văn, lớp 9)
@@ -60,22 +60,6 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **origin:** PAST.T 1.4: mẹ gỡ xương cá
 - **consumed (nguồn cũ):** ROM.TN: dịu dàng là hành động, kèm một câu che
 - **status:** `locked 10/11` · alias `NT-04`
-
-### BL-007
-
-- **cluster:** C1
-- **definition:** Thành tích không đem lại thứ anh thật sự cần (sự thừa nhận, một vòng tay); anh kết luận thành tích chưa đủ lớn. Đây là vạch dời ([[ART.AX3]] .2) chạy bên trong anh.
-- **ref:** `câu` · Epicurus, *Vatican Sayings* 68: *"Nothing satisfies him to whom what is enough is little."* (đã có ở "Họ ý" của H3, `_archive/tuyen/goc.md` §2)
-- **deviation:** Epicurus đổ lỗi cho lòng tham của người muốn; ở Thuyên, vạch "đủ" do người khác cầm và dời, và anh không thấy thứ mình cần không phải một số lượng.
-- **seen:** `thay`
-- **monologue:**
-  - `ngo-nhan` · lớp 8: *Mình đã làm đúng thứ người ta yêu cầu, và kết quả tốt. Theo logic, sau một kết quả tốt phải có một điều gì đó xuất hiện. Không có gì xuất hiện. Vậy kết quả ấy chưa đủ tốt; lần sau phải lớn hơn.*
-- **parent:** BL-024
-- **other-face:** none
-- **axis · step:** EXL 4 · AX3, AX5
-- **origin:** PAST.T 1.8: tủ kính, giấy khen, lớp 8
-- **consumed (nguồn cũ):** THR.MODEL: "đủ là bao nhiêu"; ROM.TN: chờ ghế 50 triệu mới tỏ tình
-- **status:** `locked 10/11` · alias `NT-07`
 
 ### BL-017
 
@@ -204,6 +188,22 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **consumed (nguồn cũ):** P2: anh quên dòng này
 - **status:** `locked 10/11` · alias `NT-20`
 
+### BL-007
+
+- **cluster:** C2 (chuyển từ C1, 11/11)
+- **definition:** Đạt được mục tiêu không đem lại cảm giác "đủ": ngay lúc chạm vạch, mục tiêu kế tiếp đã hiện ra và vạch chuyển theo ([[CH.thuyen.beliefs#BL-034]]). Anh đọc khoảng trống sau mỗi thành tích là dấu hiệu phải đặt mục tiêu lớn hơn; anh không thấy thứ mình thiếu không nằm trên trục đo nào (C7, mù). Viết lại 11/11: bỏ "một vòng tay" và "vạch dời chạy bên trong anh".
+- **ref:** `câu` · Epicurus, *Vatican Sayings* 68: *"Nothing satisfies him to whom what is enough is little."* (đã có ở "Họ ý" của H3, `_archive/tuyen/goc.md` §2)
+- **deviation:** Epicurus đổ lỗi cho lòng tham của người muốn; ở Thuyên, vạch "đủ" chuyển theo mục tiêu của chính anh, và anh không thấy thứ mình cần không phải một số lượng.
+- **seen:** `thay`
+- **monologue:**
+  - `ngo-nhan` · lớp 8: *Mình đã làm đúng thứ người ta yêu cầu, và kết quả tốt. Theo logic, sau một kết quả tốt phải có một điều gì đó xuất hiện. Không có gì xuất hiện. Vậy thứ mình cần không nằm ở kết quả này; nó nằm ở mục tiêu phía sau nó.*
+- **parent:** BL-034 (trước 11/11: BL-024)
+- **other-face:** none
+- **axis · step:** EXL 4 · AX3, AX5
+- **origin:** PAST.T 1.8: tủ kính, giấy khen, lớp 8
+- **consumed (nguồn cũ):** THR.MODEL: "đủ là bao nhiêu"; ROM.TN: chờ ghế 50 triệu mới tỏ tình
+- **status:** `locked 10/11`; định nghĩa, deviation, câu cuối độc thoại, cụm, cha sửa 11/11 · alias `NT-07`
+
 ### BL-034
 
 - **cluster:** C2 (cũng C5: lực kéo của chặng thuốc giảm đau)
@@ -214,6 +214,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **seen:** `nua`
 - **monologue:**
   - `dien-giai`: *Có một phiên bản của tao ở cuối lộ trình này, phiên bản đã đạt được mục đích. Tao không biết hình dạng chính xác của nó, chỉ biết khoảng cách từ đây tới đó đo lường được, và tao đang thu hẹp nó từng ngày… Vớ vẩn.*
+- **children:** BL-007 (11/11)
 - **other-face:** none
 - **axis · step:** AX3
 - **expression** `locked 11/11`: lực kéo luôn cao; mỗi chặng ghi mục tiêu đang đặt vạch: lớp 9 đỗ chuyên ("lần đầu tiên, có một thứ ở phía trước đủ lớn") → lớp 11 HSG quốc gia → lớp 12 du học → GĐ2 ghế 50 triệu và "mọi người coi anh xứng đáng" (khuếch đại ở [[X-011-001]]).

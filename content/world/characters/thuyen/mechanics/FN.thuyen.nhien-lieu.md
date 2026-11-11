@@ -9,15 +9,16 @@ sources: [_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §7, §2.3, _archive/tuye
 ---
 # FN.thuyen.nhien-lieu
 
-Nhiên liệu là sự công nhận; cái tôi độc là thuốc giảm đau. Liều đầu ngấm sâu, liều lặp nhạt, phải tăng liều.
+Nhiên liệu là sự công nhận; thuốc giảm đau là cảm giác mạnh lên. Từ lớp 11, cái tôi độc là người cầm thuốc. Liều đầu ngấm sâu, liều lặp nhạt, phải tăng liều.
 
 ```
 in        cái đau bị chạm (mặc cảm, cây thước); một nguồn công nhận
 when      có mặt từ lớp 8 như một cảm giác, không ai gọi tên
-body      đau → với lấy cái tôi độc để làm tê → công nhận đến → đau lùi → liều sau phải từ nguồn cao hơn
+body      lớp 8–10: đau → tự kê việc (thời khóa biểu, ôn thi, cày) → bận thì đau lùi
+          từ C6b (lớp 11): đau → với lấy cái tôi độc → công nhận đến → đau lùi → liều sau phải từ nguồn cao hơn
 out       một quãng không đau; hết việc thì đau lại (rảnh mà đau)
 effects   GĐ2 nhờn: 50 triệu và ghế tập đoàn là liều đầu ngấm sâu nhất; điểm gãy: hết nhiên liệu
-uses      BL-007 "Làm tốt mà không vui"; [[FN.thuyen.cai-toi]]; trục AX5, AX9
+uses      BL-029 (đẩy), BL-034 (kéo), BL-024 (giá của tấm khiên luôn tăng, tức tăng liều), BL-007; [[FN.thuyen.cai-toi]]; trục AX5, AX9
 render    DV-006 (liều theo tốc độ kể)
 ```
 
