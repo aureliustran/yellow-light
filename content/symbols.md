@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 213 file. Chưa chuyển sang khuôn mới (legacy): 138 file.
+Có phần đầu (frontmatter): 216 file. Chưa chuyển sang khuôn mới (legacy): 138 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -192,6 +192,9 @@ Có phần đầu (frontmatter): 213 file. Chưa chuyển sang khuôn mới (leg
 | `X.FAM.N+ROM.TD+THR.MO-001` | `occasion` | `proposed` | `storylines/intersections/X.FAM.N+ROM.TD+THR.MO/X.FAM.N+ROM.TD+THR.MO-001.md` | **Khung** (T2, 10/11). Lần giao thứ 1 của giao điểm [[X.FAM.N+ROM.TD+THR.MO]] (mã cũ `X-001`). Theo khuôn, lần giao không giữ tình tiết; … |
 | `X.FAM.N+ROM.TN+THR.T18` | `intersection` | `proposed` | `storylines/intersections/X.FAM.N+ROM.TN+THR.T18/X.FAM.N+ROM.TN+THR.T18.md` | Định nghĩa bằng 3 khóa ngoại (`nodes`). Các lần giao nằm trong thư mục này, đánh số tăng dần theo thứ tự xuất hiện. |
 | `X.FAM.N+ROM.TN+THR.T18-001` | `occasion` | `proposed` | `storylines/intersections/X.FAM.N+ROM.TN+THR.T18/X.FAM.N+ROM.TN+THR.T18-001.md` | **Khung** (T2, 10/11). Lần giao thứ 1 của giao điểm [[X.FAM.N+ROM.TN+THR.T18]] (mã cũ `X-013`). Theo khuôn, lần giao không giữ tình tiết;… |
+| `X.FAM.T+PAST.T` | `intersection` | `proposed` | `storylines/intersections/X.FAM.T+PAST.T/X.FAM.T+PAST.T.md` | Định nghĩa bằng 2 khóa ngoại (`nodes`). Nhà Thuyên trong quá khứ: [[FAM.T]] định nghĩa quan hệ (`relation`) và luật (`rules`); [[PAST.T]]… |
+| `X.FAM.T+PAST.T-001` | `occasion` | `proposed` | `storylines/intersections/X.FAM.T+PAST.T/X.FAM.T+PAST.T-001.md` | Lần giao thứ 1 của [[X.FAM.T+PAST.T]]. Lá tham gia: [[PAST.T-006]]. Lần so sánh kết tinh BL-024: thước di động ở dạng khen người khác. |
+| `X.FAM.T+PAST.T-002` | `occasion` | `proposed` | `storylines/intersections/X.FAM.T+PAST.T/X.FAM.T+PAST.T-002.md` | Lần giao thứ 2 của [[X.FAM.T+PAST.T]]. Lá tham gia: [[PAST.T-017]]. Lần thứ hai thước dịch; anh đoán trước và vẫn thua (lần cãi 1). |
 | `X.FAM.T+SOL.DT+THR.MODEL` | `intersection` | `proposed` | `storylines/intersections/X.FAM.T+SOL.DT+THR.MODEL/X.FAM.T+SOL.DT+THR.MODEL.md` | Định nghĩa bằng 3 khóa ngoại (`nodes`). Các lần giao nằm trong thư mục này, đánh số tăng dần theo thứ tự xuất hiện. |
 | `X.FAM.T+SOL.DT+THR.MODEL-001` | `occasion` | `proposed` | `storylines/intersections/X.FAM.T+SOL.DT+THR.MODEL/X.FAM.T+SOL.DT+THR.MODEL-001.md` | **Khung** (T2, 10/11). Lần giao thứ 1 của giao điểm [[X.FAM.T+SOL.DT+THR.MODEL]] (mã cũ `X-016`). Theo khuôn, lần giao không giữ tình tiế… |
 | `X.FAM+PAST+ROM+SOL+THR` | `intersection` | `proposed` | `storylines/intersections/X.FAM+PAST+ROM+SOL+THR/X.FAM+PAST+ROM+SOL+THR.md` | Định nghĩa bằng 5 khóa ngoại (`nodes`). Các lần giao nằm trong thư mục này, đánh số tăng dần theo thứ tự xuất hiện. |

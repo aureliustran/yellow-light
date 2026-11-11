@@ -21,6 +21,7 @@ A **meeting of nodes**: a hyperedge, not a node. It sits outside the node tree a
 | Field | Meaning |
 | --- | --- |
 | `nodes` | `[[node]]` links, at least two; the key of the id; never edited after creation (a new set is a new intersection) |
+| `share` | optional: which section of which node is readable through this intersection, and by whom (`[[FAM.T]] relation → [[PAST.T]]`) `proposed 11/11`. The only way a node reads another node's definitions |
 | `override` | laws or register for every occasion of this intersection, with a reason |
 | `open` | open questions (`Q-`) |
 
@@ -30,5 +31,5 @@ The `occasions` table in the body (occasion, name, time) is a convenience index;
 
 1. `nodes` holds at least two nodes and matches the id key (`LAW.check.x-key`, planned).
 2. An intersection **holds no events**; events live in their own node and point to an occasion with `x` and `beat`.
-3. Nodes never point at each other directly; they meet only at intersections.
+3. Nodes never point at each other directly; they meet only at intersections. When one node must read another's definitions (FAM.T defines the family, PAST.T writes its past), the intersection declares it in `share`, and the reading node's events join an occasion of that intersection.
 4. An occasion's participating nodes (generated from events) must be a subset of its intersection's `nodes`; an event from another node means the meeting belongs to a different intersection.

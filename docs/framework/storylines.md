@@ -53,7 +53,7 @@ Checks: `LAW.check.goal-chain` (an event's goal serves a goal of its own parent)
 
 An intersection `X.<key>` is a hyperedge outside the node tree, **defined by foreign keys to two or more nodes** (`nodes`; the key is their ids, sorted, joined by `+`). It is a folder; its **occasions** `X.<key>-NNN` are files inside it, numbered in order of appearance: the same set of nodes meeting again adds an occasion, not an intersection (`proposed 10/11`). Occasions may form spans containing occasions. Events join an occasion with `x` and `beat`.
 
-- **Stored:** intersection: `nodes`, override, open questions. Occasion: type (`event`, `span`, `info`), parent, time, place, override, open questions.
+- **Stored:** intersection: `nodes`, `share` (which node section is readable through it, and by whom; the only way a node reads another node's definitions, e.g. `FAM.T` relation → `PAST.T`, `proposed 11/11`), override, open questions. Occasion: type (`event`, `span`, `info`), parent, time, place, override, open questions.
 - **Generated:** participating nodes; beat table (by `beat`); beat holder (the node with an event in that beat and the highest level; on a tie, the owning node); POV; register; level of the occasion; who knows what before and after (from `changes` on secrets); outcome.
 
 Causality across nodes is the event field `causes`, not an intersection.

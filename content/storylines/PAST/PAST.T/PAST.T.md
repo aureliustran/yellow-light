@@ -312,52 +312,9 @@ Giới hạn: không cho ai thấy bên trong (BL-014 giữ nguyên).
 | GĐ2 | Đợi ghế 50 triệu mới tỏ tình: phải đủ năng lực trước mới được đòi tình yêu (BL-007, `goc.md` §1). Kiêu ngạo là tiền mua tình thương: cái tôi độc. *Không thiếu gì* |
 | Đáy, hồi phục | Có người ở lại với phiên bản kém nhất của anh, ôm anh và nghe anh khóc; tình thương bằng vật của bố mẹ lần đầu thành lời (trị liệu gia đình). Phương trình được nói ra nguyên văn trong thoại: *"Con tưởng giỏi thì được thương."* (TB-16 bậc 3) |
 
-### bảng neo §6.9 · Gia đình: em trai, cây thước di động, giáp nói – cần giấu `locked 30/10 đêm: những gì tác giả nêu; tuổi, tên, chỗ đặt là đề xuất`
+### bảng neo §6.9 · Gia đình → [[FAM.T]]
 
-*Nguồn:* `_archive/tuyen/qua-khu/thuyen.md` §6.9.
-
-Nguồn: tác giả, 23:30–23:51 ngày 30/10. Luật nền: con đầu bị nghiêm khắc, con một được thương hơn. Giữ sự mất cân bằng cảm xúc của Thuyên (anh gánh quá nhiều vai), nên em không phải chỗ dựa. Luật canon vẫn đứng: không câu nào của người kể (hoặc của mạ) nói mạ thương ai hơn.
-
-**A. Cấu trúc.**
-- Thuyên là **con cả, có một em trai** `[chốt]`. Tuổi chênh 4–5 `proposed`: em ra đời khi anh mầm non lớn; hiện tại em khoảng 15–16. Tên: chờ.
-- Em **quậy, nghịch, năng động**; người ta khen "nghịch mà khôn" `[chốt]`. Cùng loại lỗi, em được tha ("trẻ con mà"), anh bị dạy.
-- Em **ích kỉ vô tư**: không lấy đồ của anh, nhưng "phần ai người nấy lấy". Bố mẹ ép chia thì anh chia, em im và vui vẻ nhận thêm `[chốt]`. Không thù, không cảm ơn.
-- Thuyên **không yêu người nhà, kể cả em, dù em không có lỗi**. Em khuấy động mọi người nhưng với anh nhà càng u ám hơn `[chốt]`. Anh lạnh với em và **không trách mắng em khi em làm điều tương tự** `[chốt]`: không dạy tức là không đầu tư, mạ đọc ra là "không thương em"; đồng thời anh không lặp lại cách của mạ.
-- Mỗi quãng cần một khoảnh khắc nhỏ để người đọc thấy anh *có thể* yêu (em chia kẹo, gọi "anh ơi"); anh đáp "ừ" như đáp một việc `proposed`.
-
-**B. Trách nhiệm con cả và thao túng.**
-- Em là **người đầu tiên anh thao túng** `[chốt]`: anh quan sát, biết em thích gì ghét gì, "tương đối đơn giản"; ví dụ bằng chứng em trốn xem điện thoại để ép em làm theo yêu cầu của anh.
-- Cơ chế `proposed`: em khóc là lỗi của anh, nên anh không quát, không đánh, phải làm cho em nghe mà không khóc. Anh **không bao giờ mách** (bài học *nói thật mới bị*): thứ anh trao đổi là *khả năng* mách, im lặng là tiền. Đổi chác nhẹ, em luôn nhận lại một thứ; anh không đắc ý (BL-031).
-- Đây là **gốc của "đọc người để thắng"** (GĐ2 mất dòng 4), của BL-015, và của nguồn thứ hai tài quân sư (biết người ta thiếu gì).
-- **Hòa khí học sau, từ Vũ vực anh dậy** (4–5/2023) `[chốt]`. Em dạy anh đọc, Vũ cho anh lý do đọc để làm gì (chuyền thay vì thắng) `proposed`.
-
-**C. Cây thước di động (H3).**
-- Mạ đem thứ anh làm dở ra **so với người làm tốt hơn, dù thứ anh làm tốt chưa chắc họ làm được** `[chốt]`: so sánh có chọn lọc. Yêu thương là một ví dụ: con nhà khác biết quan tâm, thương người dù không học giỏi, không tư duy tốt như anh. Mạ chê anh "không biết thương ai" `[chốt]`.
-- Khi anh **vượt người được đem ra so, bố mẹ cãi cùn** `[chốt]`. Ví dụ: anh hơn điểm Toán **thằng Lâm** `[chốt]` (tên mới, chưa có trong canon).
-- Mạ tin điều mình nói, không nói dối. Cãi cùn cụ thể, đời thường (đề khó hơn, nó ốm, văn nó hơn) `proposed`. Lập luận chặt chẽ của anh thua người không dùng lập luận, nối với lần cãi 1 và 2 (BL-030).
-- Mạ chê anh không biết thương người trong khi mạ không ôm anh: người đọc tự thấy vòng, người kể không chỉ ra.
-- Tối đa ba tên lặp lại `proposed`: Nam (giỏi chung), Lâm (Toán), một đứa biết thương người.
-
-**D. Giáp nói, cần giấu `locked 30/10 đêm`.**
-- **Giáp** (định kiến, cay đắng, khinh về người nhà) được nói, trong giọng đứa trẻ hoặc cái tôi độc (Ngạo); có logic, có chỗ sai (khái quát quá đà); người kể không xác nhận.
-- **Cái cần** (được ôm, được nhìn): quãng 1 gọi tên bằng chữ trẻ con theo đường mất lời; từ quãng 2 chỉ hành vi. Nói giáp, giấu cái cần.
-- Cạnh giáp có thể đặt một chi tiết người kể thấy mà đứa trẻ không đọc ra (vết nứt) `[tùy chọn, chờ tác giả: mạ có cái ấm kín không]`.
-- Trước summit không có giáp nói về nhà: chỉ cảm xúc không chủ. Ở hiện tại giáp hiện qua Ngạo, tếu, không qua tuyên bố.
-- Cấm: người kể đồng tình với giáp; câu nói mạ thương ai hơn (kể cả trong ngoặc kép); gọi tên "thiếu thốn" từ quãng 2.
-
-**E. Chỗ đặt `proposed`.**
-
-| Việc | Interlude | Ghi chú |
-| --- | --- | --- |
-| Chia (kẹo lạc của bác gái) | *Nhục nhã* | Sau cái phích; kẹo lạc đã có ở ch.4; chia lần 2 ở lớp 7, lần 3 khi lớn về quê |
-| Thao túng em lần đầu | *Hả hê* | Lớp 7, em khoảng lớp 2–3; thiếu bằng chứng điện thoại thì thay bằng bí mật khác |
-| Lâm và cãi cùn | *Hả hê* | Gộp vào cảnh cãi mạ đã có ở ch.5 v4, không thêm cảnh |
-| "Tin thì được cái chi" | *Tủi hổ* | Lần thứ hai thước dịch; anh đoán trước và vẫn thua (lần cãi 1) |
-| Mạ khen Nam / so sánh | *Tiếc nuối*, *Nhục nhã* | Đã có 1.4b |
-| Vũ có là "con nhà khác biết thương người" | — | Chờ tác giả; cảnh Vũ thăm bố mẹ đã có sẵn |
-| Cảnh người vượt thước của anh, anh định nói "nó khác" | GĐ1 hoặc HP | Giao RM/TH: Q-056 |
-
-**F. Chờ tác giả:** tên em; tuổi chênh; em có bị đánh không (nghiêng không); Lâm là bạn cùng lớp hay con nhà quen; con nhà biết thương người là Vũ hay đứa riêng; vết nứt của mạ.
+Chuyển sang [[FAM.T]] (11/11): định nghĩa nhà Thuyên (cấu trúc, thao túng em, thước di động, giáp nói) ở `relation` và `rules` của FAM.T; chỗ đặt trong interlude ở `handoffs` của FAM.T, chờ PAST.T viết lại. PAST.T đọc FAM.T **chỉ qua** giao điểm [[X.FAM.T+PAST.T]].
 
 ### da-nhan-cach §6 · Gốc theo nấc `proposed`
 
