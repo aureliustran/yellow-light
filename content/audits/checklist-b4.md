@@ -23,6 +23,7 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 - [x] **X-011 (đêm say)**: mục tiêu riêng X-011.G1 (tác giả 11/11): khuếch đại các niềm tin liên quan để biến chất GĐ2 ở lab xảy ra; lời hứa thành lá X-011-001.
 - [x] **X-011-001 (lời hứa)** duyệt 11/11, gồm các niềm tin khuếch đại BL-024, 034, 030; thêm BL-029 (vạch đã nâng lên: ghế 50 triệu).
 - [x] **BL-034** (11/11): vạch dời theo mục tiêu của anh; phiên bản lý tưởng là ảo tưởng về mình lúc đạt mục tiêu; ref Markus và Nurius (possible selves), Higgins (self-discrepancy); expression theo mục tiêu từng chặng; behavior từ nghiên cứu chủ nghĩa hoàn hảo.
+- [x] **BL-030** (11/11): nối nghiên cứu chủ nghĩa hoàn hảo: nguồn gốc (tình cảm có điều kiện, Assor và Tal), ref Shafran (dời vạch), other-face *socially prescribed* lộ lại ở đêm say.
 - [x] **BL-029, các chặng** (tác giả 11/11): dạng diễn giải hình thành ở lớp 11; kéo mọi lúc, đẩy lúc cực đoan, nên biểu hiện dàn trải cả truyện, mức luôn cao: lớp 11 thô, trực tiếp → lớp 12 biến động, nhận ra thấu cảm → ĐH–GĐ1 hòa khí → GĐ2–gãy tinh vi, thao túng.
 - [x] **Khuếch đại lớn nhất ở X-011-001** (tác giả 11/11): niềm tin có sẵn của C7 Tình thương (có Nhi thì có cái ôm), không sinh niềm tin mới; niềm tin mù, lên trang chỉ bằng cảm xúc và hồi tưởng lúc đau; kỹ thuật: hơi ấm khi ôm, skinship về sau; mở luật cho C7 có độc thoại cảm xúc, không nhận thức.
 - [x] **BL-022, chặng đổ vỡ lớp 11**: sự kiện làm chủ là thất bại HSG quốc gia lớp 11 và quá trình vực dậy (tác giả 11/11); lá chưa định nghĩa, ghi ở gaps của PAST.T.
@@ -54,7 +55,6 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 ### Niềm tin
 - [ ] **BL-026**: thời điểm bộ lọc.
 - [ ] **BL-034 `origin`**: đề xuất lớp 9 (ôn thi chuyên), suy từ `expression`.
-- [ ] **BL-030**: cân nhắc nối nghiên cứu chủ nghĩa hoàn hảo (Shafran 2002, kỳ vọng xã hội, *socially prescribed*).
 - [ ] **Dải số niềm tin PAST.N.HD**: dải cũ NT-45…49 trùng BL-045 của Nhi.
 
 ### Gốc
