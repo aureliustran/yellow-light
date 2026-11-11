@@ -19,7 +19,7 @@ body      chê → cãi, có lúc thắng
           chọc → đấm (nắm tay vào bắp tay, vai), motif hài; anh thấy trước mà không chặn
 out       câu cãi, câu đẩy lời khen, cú đấm
 effects   khóa niềm tin sai của Thuyên: cô càng cãi, càng đấm, anh càng chắc cô không thích mình
-uses      [[CH.nhi.beliefs#BL-042]], [[CH.nhi.beliefs#BL-040]]
+uses      [[CH.nhi.beliefs#B.nhi:003]], [[CH.nhi.beliefs#B.nhi:001]]
 render    bậc thang "tay" thuộc ROM.TN (Vy tát, anh chặn → Nhi đấm, anh không chặn → *Mixue* tát, tay anh dừng nửa đường, một lần duy nhất → cảnh tấm thiệp)
 ```
 

@@ -10,7 +10,7 @@ event: "Cuốn sách vũ trụ, tinh vân trong xe rác; đêm ấy cắn gối 
 participants: ["[[CH.thuyen]]"]
 axis: [AX2, AX3]
 level: "EXL 1→2"
-beliefs: "BL-002; mặt kia của BL-024"
+beliefs: "B.thuyen:002; mặt kia của B.thuyen:024"
 aliases: [QK.T 1.2]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

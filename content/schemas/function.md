@@ -22,7 +22,7 @@ when      attribute cai-toi-doc ≠ ngu
 body      voice (REG.dang block, calls the boy "mày") → translator → rule-of-the-game channel → shutdown ritual
 out       translated line + overreaching action within the rules
 effects   consequences written in REG.so-cai; people nearby uneasy without knowing why
-uses      [[BL-014]], [[BL-029]], [[REG.so-cai]], [[REG.dang]], [[LAW.swearing.density]]
+uses      [[B.thuyen:014]], [[B.thuyen:029]], [[REG.so-cai]], [[REG.dang]], [[LAW.swearing.density]]
 render    DV-…; writing laws of the function
 ```
 

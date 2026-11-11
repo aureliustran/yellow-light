@@ -168,7 +168,7 @@ Mỗi bậc: công sức thấp, kết quả cao; tỷ số ấy là tư chất.
 | 8 (ch.5) | Nghỉ dịch, thời gian chủ yếu cho video vũ trụ | **Giải huyện** `proposed vị trí` | Đứa ôn lò cả năm được giải thấp hơn. Giấy khen vào tủ kính (đã có) |
 | 9 (ch.6) | Barem Văn trong một tối; ôn thi chuyên ngắn | Văn 7,5–8; đỗ chuyên thứ tư | Bạn cùng phòng thi ôn từ hè |
 
-- **Khớp BL-007 ("làm tốt mà không vui"):** cái tôi lành không cần ai vui cùng vì nó ăn số liệu. "Không có gì đến" nói về hơi ấm, không nói về cột bằng chứng.
+- **Khớp B.thuyen:007 ("làm tốt mà không vui"):** cái tôi lành không cần ai vui cùng vì nó ăn số liệu. "Không có gì đến" nói về hơi ấm, không nói về cột bằng chứng.
 - **Lớp 9, "thiên tài lười":** người ngoài khen thông minh, tư chất; anh sướng. Đây là kiêu hãnh kiểu năng lực cố định, và là chỗ bắt đầu để cấp 3 đổi nó thành kiêu hãnh kiểu công sức (mục 9).
 - **Mâu thuẫn với trang:** ch.6 (đã lên trang) có "Một tháng ôn thi, anh không lười lấy một ngày… dậy năm giờ, làm đề đến mười một giờ đêm." Đề xuất **sửa** thành ôn theo đường ngắn nhất (đọc thang điểm, khoanh chỗ mất, vẫn có thời gian nằm). Chờ tác giả: đây là sửa canon cứng.
 
@@ -178,7 +178,7 @@ Mỗi bậc: công sức thấp, kết quả cao; tỷ số ấy là tư chất.
 
 | Lần | Công nhận từ ngoài | Cách đối kháng | Kết quả |
 | --- | --- | --- | --- |
-| Lớp 7 (ch.4) | Chưa có, chỉ có cái cân | Cãi phản xạ, lý lẽ trần | Roi; "cãi thì tốn" (BL-006) |
+| Lớp 7 (ch.4) | Chưa có, chỉ có cái cân | Cãi phản xạ, lý lẽ trần | Roi; "cãi thì tốn" (B.thuyen:006) |
 | Lớp 8–9 (ch.5–6) | Giải huyện đọc tên ở chào cờ; cô chủ nhiệm "mi học được"; bạn gọi là "thần" | Không cãi, nhưng cái im là **không cần**, không phải thua: đã có tòa án thứ hai. "Dạ" thành tấm kính (đã có) | Im mà không thua |
 | Lớp 11, lần 1 | Thầy Quang; giải tỉnh; đứng đầu đội Tin | Một câu có lý lẽ, có người đỡ lưng. Bị dập bằng câu nhị nguyên ("Thầy nói thì thầy nuôi mi à") | Thua ở mâm cơm, cái tôi không trầy; chỉ hơi ấm mất. Không "khinh", không bỏ mâm |
 | Lớp 12, lần 2 | Thư nhận từ Mỹ | Cãi đa chiều, có bằng chứng ngoài; bố mẹ đáp nhị nguyên. **Thứ bị chặn là mong muốn đầu tiên thật sự của anh** (8.6) | "Lần sau không hỏi ai nữa", nặng hơn hẳn |
@@ -203,7 +203,7 @@ Một người đang ở đáy và vừa lập luật "để người ta thấy 
 4. **Trách nhiệm** (cái tôi lớn lên để chứa người khác);
 5. **Lý tưởng** (anh tự nói ra luật mới, và nó làm cái tôi to hơn, không nhỏ đi).
 
-Mỗi bước hòa khí đều cho anh **thêm** sức mạnh, nên cái tôi không bị đe dọa. Cánh cửa thân mật vẫn đóng (BL-014 không bị đụng), nên lộ trình không mâu thuẫn với mặc cảm. Sân bóng là đấu trường chính vì ở đó lăng kính tắt, tếu sống, và bóng rổ là môn đồng đội có số liệu (điểm, kiến tạo, thắng thua).
+Mỗi bước hòa khí đều cho anh **thêm** sức mạnh, nên cái tôi không bị đe dọa. Cánh cửa thân mật vẫn đóng (B.thuyen:014 không bị đụng), nên lộ trình không mâu thuẫn với mặc cảm. Sân bóng là đấu trường chính vì ở đó lăng kính tắt, tếu sống, và bóng rổ là môn đồng đội có số liệu (điểm, kiến tạo, thắng thua).
 
 **`locked 30/10 đêm` Hòa khí không phải kỹ năng từ trên trời.** Kỹ năng đọc người có từ trước, ở nhà: Thuyên là con cả, em trai là người đầu tiên anh thao túng (`thuyen.md` §6.9 B). Sau trượt quốc gia, Vũ vực anh dậy và cho kỹ năng ấy một mục đích mới: đọc người để chuyền, không để thắng. Hòa khí = cùng kỹ năng, đổi chiều.
 
@@ -214,7 +214,7 @@ Song song với hòa khí là **chuyển trục** (hướng 16, mục 8.6): từ
 | Nấc | Thời gian | Sự kiện | Anh học gì | Bằng chứng / tếu |
 | --- | --- | --- | --- | --- |
 | **L0. Trượt và đáy** | 24–25/2 → 4/2023, lớp 11 | **Phòng thi** `[hướng 19]`: chủ quan. Bài dễ nhất đúng dạng anh từng chỉ Hiếu; anh khinh nó, viết nhanh, không tối ưu, nộp, dồn giờ cho bài khó. Ăn điểm bài khó, mất điểm bài dễ (bài dễ chạy quá giới hạn thời gian ở bộ test lớn; khớp `plan-tai-cau-truc-mo-dau.md`, chương *Một giây*). Người bỏ đúng một vòng lặp ở bài 1,02 giây lại thua vì không tối ưu bài dễ. **Kết quả 13/3/2023, giữa tiết Hóa: không giải** `locked 27/10`. Có thể giữ cảnh điện thoại thằng Tú rung trước (đã có ở ch.5 cũ): lần này là tên những người khác. Dòng giáo án sau thi: *bài 1 – nhìn ra: phút 2 – tối ưu: không – vì sao: dễ.* Cô bạn đã rút từ thu. Phẳng: không ra sân, không mở file giáo án, rảnh mà đau. Thầy Quang hỏi, anh: "Dạ không sao ạ." (persona Ngoan) | Chưa học gì. Người đọc thấy: cái tôi độc (khinh) đã trả giá trước cả khi anh hiểu | Tếu tắt; "gà" không còn đùa. Tự thoại một câu (plan cũ): *Mất ở câu nào. Câu mình dạy người ta.* Lời kể không gọi tên trầm cảm (chẩn đoán để dành cho đáy Phần 1) |
-| **L1. Được cần** | 4/2023 | Hiếu (có thể có giải nhờ đúng bài anh dạy) không an ủi, không nhắc chuyện thi; đặt một bài kẹt trước mặt anh: "Ông chỉ tôi bài ni." Anh chỉ. Có thể thêm câu của plan cũ: "Bài đấy ông dạy tôi mà." | Lần đầu sau ba tuần bớt đau, không vì được thương mà vì có ích. **BL-017** | Cửa duy nhất luật C6b cho mở |
+| **L1. Được cần** | 4/2023 | Hiếu (có thể có giải nhờ đúng bài anh dạy) không an ủi, không nhắc chuyện thi; đặt một bài kẹt trước mặt anh: "Ông chỉ tôi bài ni." Anh chỉ. Có thể thêm câu của plan cũ: "Bài đấy ông dạy tôi mà." | Lần đầu sau ba tuần bớt đau, không vì được thương mà vì có ích. **B.thuyen:017** | Cửa duy nhất luật C6b cho mở |
 | **L2. Thiếu một** | 4–5/2023 | **[sửa 30/10]** Vũ (học Phan Đình Phùng, nhà chuyển lên thành phố khi vào cấp 3, có mặt ở sân từ thời anh Long) đến phòng trọ trước giải bóng rổ của trường hoặc Hội khỏe Phù Đổng (cần tra): "Chơi không? Thiếu một." Anh đi vì giải cần anh. Anh chơi một mình kiểu Kyrie, ghi nhiều điểm nhất trận, đội thua | Cái cân của chính anh: điểm của mình cao nhất, đội vẫn thua. **Sức mạnh một mình không đủ.** Và: anh thua thật, mà không ai bỏ đi (đồng đội vẫn vỗ vai), đặt cạnh C6b như một phản chứng anh chưa dám tổng quát | ~~Người đọc nghe ra câu Vũ sẽ nói ở ch.7~~ **[sửa 30/10]** Câu chỉ nói một lần, ở đây; ch.7 v1 (gặp ở sân đại học) bỏ câu lặp |
 | **L3. Giáo án chuyền, và *sau-nay*** | Hè 2023 | Anh Long về hè. Thiên Cầm, tập một mình buổi sáng (C10 cũ). Anh xem lại video trận thua, đếm số lần đồng đội đứng trống mà anh không chuyền. Anh Long: "Giữ bóng giỏi rồi. Giờ học chuyền." Lần này anh nghe được, vì đã có dữ liệu. **Cùng mùa hè:** một anh/chị khóa trên đi Mỹ; anh lập bảng dữ liệu và biết đó là điều mình muốn (8.6) | Hòa khí học như một kỹ năng; lăng kính có công dụng sạch: đọc đồng đội để chuyền. Lần đầu muốn một thứ không để thắng ai | Vở giáo án có trang mới: chuyền. Thư mục *sau-nay* ra đời. Nấc-HS 6: "một nơi không ai biết mình đứng thứ mấy" |
 | **L4. Gánh** | Thu lớp 12 | Anh **không thi lại quốc gia** (ôn thi đại học và ôn để apply nước ngoài, 8.6). Trách nhiệm thu gọn `locked 27/10`: anh **chia toàn bộ file giáo án Tin** cho khóa dưới, thứ năm lớp 11 anh giữ riêng, cùng vài buổi chỉ bài. Dòng đầu file anh thêm vào: *bài dễ cũng tối ưu.* Một đứa khóa dưới có giải đầu 2024. Không băng rôn nào có tên anh | **Cái tôi đủ lớn để gánh vác.** Thôi cày lén trước bạn bè: để người khác thấy mình cố (kiêu hãnh đổi từ năng lực cố định sang công sức) | Ngạo vẫn to: "Giáo án của tao, đẳng cấp vcl. Chép đi, khỏi ghi nguồn." / "Giải của nó, tao một nửa." Cái tôi không nhỏ đi; nó chứa thêm người |
@@ -234,7 +234,7 @@ Năm dòng anh rút ra, chép vào vở như chép một kỹ năng (không cầ
 4. **Đọc người để chuyền, không để thắng.**
 5. **Lỗi của đội thì nhận trước, công thì chia.**
 
-Giới hạn: không cho ai thấy bên trong (BL-014 giữ nguyên).
+Giới hạn: không cho ai thấy bên trong (B.thuyen:014 giữ nguyên).
 
 #### 8.4 Dòng chảy về sau
 
@@ -293,7 +293,7 @@ Giới hạn: không cho ai thấy bên trong (BL-014 giữ nguyên).
 - **Kiêu hãnh** (Tracy và Robins 2007): cấp 3 đổi kiêu hãnh của anh từ loại gắn vào năng lực cố định ("thiên tài lười", khinh bài dễ) sang loại gắn vào công sức cụ thể ("tao cày ra cái này", *bài dễ cũng tối ưu*). GĐ2 trượt về loại cũ: "không ai thay được mình", kim bài miễn tử.
 - **Phác thảo 19/10 hạ xuống:** C6b bỏ "khinh", bỏ "bố bỏ mâm" (trả về M-he-gia-tri §7.4); C7 bỏ "giúp Hiếu để thị uy" (gốc thị uy dời hẳn sang lab; **sửa 04/11:** thị uy có gốc ở cấp 3 theo chuỗi tên lửa, `thuyen-lang-kinh.md` §3.1; "giúp Hiếu để thị uy" vẫn bỏ vì Hiếu không thuộc ba loại đối tượng; lớp 11 và GĐ2 → GÃY là cùng một chuỗi, khác độ tinh vi: §4 file ấy); C8 đổi giải Nhì thành không giải; C9 ghế đá Vy bỏ.
 
-### bảng neo §6.5 · Thang của BL-024 qua truyện `proposed`
+### bảng neo §6.5 · Thang của B.thuyen:024 qua truyện `proposed`
 
 *Nguồn:* `_archive/tuyen/qua-khu/thuyen.md` §6.5.
 
@@ -305,11 +305,11 @@ Giới hạn: không cho ai thấy bên trong (BL-014 giữ nguyên).
 | Lớp 6 (1.6) | Lần đầu anh giỏi và được nhìn thấy: phương trình chạy được, cái tôi lành sinh ra; bắt đầu cãi với cái gối |
 | Ch.5 (giấy khen, 47 lượt thích) | Giỏi rồi mà "không có gì đến": phương trình được xác nhận một nửa (có người thích, không có người hỏi) |
 | Ch.6 (đỗ chuyên) | Lần đầu mẹ cười cao hơn một nấc vì anh, nhưng nụ cười đi ra cổng, sang nhà bác Hùng |
-| *Tủi hổ* (C6b) | Đổi dạng: cô bạn yêu cái giỏi, bỏ đi khi thấy phần bên trong. Phần không có giá trị năng lực thì không ai thương (BL-014). Ném gối |
+| *Tủi hổ* (C6b) | Đổi dạng: cô bạn yêu cái giỏi, bỏ đi khi thấy phần bên trong. Phần không có giá trị năng lực thì không ai thương (B.thuyen:014). Ném gối |
 | *Hụt hẫng* | Giọng gối thành giọng Trào |
-| Đại học (BL-023) | Được cần, không được biết. Anh làm cái gối cho người khác |
+| Đại học (B.thuyen:023) | Được cần, không được biết. Anh làm cái gối cho người khác |
 | GĐ1 | Phương trình buộc anh đọc mọi tín hiệu của Nhi thành "cô thích cái vỏ" (TB-9) |
-| GĐ2 | Đợi ghế 50 triệu mới tỏ tình: phải đủ năng lực trước mới được đòi tình yêu (BL-007, `goc.md` §1). Kiêu ngạo là tiền mua tình thương: cái tôi độc. *Không thiếu gì* |
+| GĐ2 | Đợi ghế 50 triệu mới tỏ tình: phải đủ năng lực trước mới được đòi tình yêu (B.thuyen:007, `goc.md` §1). Kiêu ngạo là tiền mua tình thương: cái tôi độc. *Không thiếu gì* |
 | Đáy, hồi phục | Có người ở lại với phiên bản kém nhất của anh, ôm anh và nghe anh khóc; tình thương bằng vật của bố mẹ lần đầu thành lời (trị liệu gia đình). Phương trình được nói ra nguyên văn trong thoại: *"Con tưởng giỏi thì được thương."* (TB-16 bậc 3) |
 
 ### bảng neo §6.9 · Gia đình → [[FAM.T]]
@@ -352,14 +352,14 @@ Phần quá khứ phải lên trang: ba quãng, chuỗi interlude, thiết bị 
 
    | NT | Kết luận bằng lời trẻ con (mẫu) | Nấc |
    | --- | --- | --- |
-   | BL-001 | *Mình đếm đúng cũng không ai tin. Người lớn nói là đúng.* | 1 |
-   | BL-002 | *Cái gì mình thích thì cái đó vô ích.* | 1→2 |
-   | BL-003 | *Nói thật mới bị. Im thì không sao.* | 2→3 |
-   | BL-024 | *Anh Nam giỏi nên được xoa đầu. Vậy mình giỏi thì mình cũng được.* | 2 |
-   | BL-026 `proposed` | *Muốn biết thì tự học. Hỏi là bị mắng.* | 2→3 |
-   | BL-021 | *Nếu đúng thì đúng, không cần ai gật. Cái cân không biết nói dối.* | 3 |
+   | B.thuyen:001 | *Mình đếm đúng cũng không ai tin. Người lớn nói là đúng.* | 1 |
+   | B.thuyen:002 | *Cái gì mình thích thì cái đó vô ích.* | 1→2 |
+   | B.thuyen:003 | *Nói thật mới bị. Im thì không sao.* | 2→3 |
+   | B.thuyen:024 | *Anh Nam giỏi nên được xoa đầu. Vậy mình giỏi thì mình cũng được.* | 2 |
+   | B.thuyen:026 `proposed` | *Muốn biết thì tự học. Hỏi là bị mắng.* | 2→3 |
+   | B.thuyen:021 | *Nếu đúng thì đúng, không cần ai gật. Cái cân không biết nói dối.* | 3 |
 
-**Mốc đã chốt 27/10:** bỏ Vy; HSG quốc gia môn Tin 2023 **không giải**, giải tỉnh vẫn có (mức và môn: chờ chốt, tạm theo plan cũ là giải tỉnh Toán lớp 10 và giải Nhất tỉnh Tin lớp 11); lớp 12 không thi lại quốc gia vì ôn đại học và hồ sơ du học; Nam là đối chứng; **BL-024 "Giỏi thì được thương" là niềm tin gốc của PAST.T** (mục 6); **ôm gối giữ suốt đời anh** (mục 6.3).
+**Mốc đã chốt 27/10:** bỏ Vy; HSG quốc gia môn Tin 2023 **không giải**, giải tỉnh vẫn có (mức và môn: chờ chốt, tạm theo plan cũ là giải tỉnh Toán lớp 10 và giải Nhất tỉnh Tin lớp 11); lớp 12 không thi lại quốc gia vì ôn đại học và hồ sơ du học; Nam là đối chứng; **B.thuyen:024 "Giỏi thì được thương" là niềm tin gốc của PAST.T** (mục 6); **ôm gối giữ suốt đời anh** (mục 6.3).
 
 ### hai-cai-toi §14 · Ba quãng và interlude Thuyên `[hướng 17; chi tiết đề xuất]`
 
@@ -376,7 +376,7 @@ Phần quá khứ phải lên trang: ba quãng, chuỗi interlude, thiết bị 
 - **Kết quả trước nguyên nhân:** quãng 3 cho thấy một Thuyên đã có hòa khí (Vũ, pickup, đàn em) mà chưa nói anh đi qua gì.
 - **Câu hỏi của Nhi rơi đúng lỗ hổng:** "Anh có tin câu nào trong đó không?"
 - **Đánh dấu lỗ hổng trong khung:** cuối quãng 1, anh gõ "Ba năm cấp ba, em…" rồi xóa, như câu bị xóa ở ch.2.
-- **Khung Ngọc Anh có sẵn chỗ:** plan cũ đã đề xuất "Hồi cấp ba anh có thi quốc gia không ạ?" / "Thi rồi. Về tay trắng." Cả bàn cười vì tưởng anh đùa. Câu này đúng là Trào-thước nói thật bằng giọng đùa (BL-013).
+- **Khung Ngọc Anh có sẵn chỗ:** plan cũ đã đề xuất "Hồi cấp ba anh có thi quốc gia không ạ?" / "Thi rồi. Về tay trắng." Cả bàn cười vì tưởng anh đùa. Câu này đúng là Trào-thước nói thật bằng giọng đùa (B.thuyen:013).
 - **Phần mở đầu ngắn lại:** quãng 2 rời khỏi mở đầu.
 
 #### 14.2 Luật interlude Thuyên (theo `01-rules-viet.md`, chốt 19/10)
@@ -779,7 +779,7 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 | File | Sửa |
 | --- | --- |
 | `M-he-gia-tri.md` | Thêm §3c trỏ về đây |
-| `_archive/tuyen/qua-khu/thuyen.md` §4 | BL-029: tiêu thụ ở GĐ2 đổi theo §3; thêm dòng NT mới (số chờ) |
+| `_archive/tuyen/qua-khu/thuyen.md` §4 | B.thuyen:029: tiêu thụ ở GĐ2 đổi theo §3; thêm dòng NT mới (số chờ) |
 | `_archive/tuyen/qua-khu/thuyen-co-may.md` §2, §3 | Khí thải đổi định nghĩa; thêm răn |
 | `_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md` §9 | Ghi chú "gốc thị uy dời sang lab" sửa theo §3.1, §4 |
 | `rules/registers.md` §2.6.2, §4.3, §6.2 | Vang khuôn câu thuộc khí thải và răn, không thuộc tên lửa; mẫu thực tập sinh đổi mục đích |
@@ -803,13 +803,13 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 
 ## gaps
 
-- **BL-026 viết lại** `locked 11/11`: bảng cũ còn dòng *"Muốn biết thì tự học. Hỏi là bị mắng."*; khi viết lại dùng định nghĩa mới (không ngại hỏi; tự tìm là ưu tiên; bộ lọc chọn người giữ câu trả lời, định hình trước chuỗi câu hỏi).
+- **B.thuyen:026 viết lại** `locked 11/11`: bảng cũ còn dòng *"Muốn biết thì tự học. Hỏi là bị mắng."*; khi viết lại dùng định nghĩa mới (không ngại hỏi; tự tìm là ưu tiên; bộ lọc chọn người giữ câu trả lời, định hình trước chuỗi câu hỏi).
 
-- **"Tiền mua tình thương" bỏ** `locked 11/11`: mục `story` (bảng thang BL-024, dòng GĐ2) và `ref` (*Hai cái tôi*, *Thuốc giảm đau*, *Cô độc*) còn câu cũ; khi viết lại dùng định nghĩa mới ở [[FN.thuyen.cai-toi]].
+- **"Tiền mua tình thương" bỏ** `locked 11/11`: mục `story` (bảng thang B.thuyen:024, dòng GĐ2) và `ref` (*Hai cái tôi*, *Thuốc giảm đau*, *Cô độc*) còn câu cũ; khi viết lại dùng định nghĩa mới ở [[FN.thuyen.cai-toi]].
 
-- **Bỏ "giỏi thì được thương"** `locked 11/11`: khi viết lại, rà TB-16 / DV-016 (*nhịp lật ba bậc của phương trình*: "nếu con giỏi như anh Nam thì…"), DV-009 (*lọc qua phương trình*), lá [[PAST.T-006]] (câu hỏi gối), mục `story` (thang của BL-024). Tình thương không còn là vế của phương trình.
+- **Bỏ "giỏi thì được thương"** `locked 11/11`: khi viết lại, rà TB-16 / DV-016 (*nhịp lật ba bậc của phương trình*: "nếu con giỏi như anh Nam thì…"), DV-009 (*lọc qua phương trình*), lá [[PAST.T-006]] (câu hỏi gối), mục `story` (thang của B.thuyen:024). Tình thương không còn là vế của phương trình.
 
-- **BL-022, chặng đổ vỡ** `locked 11/11`: sự kiện là thất bại HSG quốc gia lớp 11 và quá trình vực dậy (quãng 2, từ 4/2021); lá chưa định nghĩa. Viết khi PAST.T viết lại.
+- **B.thuyen:022, chặng đổ vỡ** `locked 11/11`: sự kiện là thất bại HSG quốc gia lớp 11 và quá trình vực dậy (quãng 2, từ 4/2021); lá chưa định nghĩa. Viết khi PAST.T viết lại.
 
 - Chuyển cảnh chi tiết còn nằm ở nguồn cũ: thang bằng chứng cấp 2, đối kháng với bố mẹ, ám ảnh luyện tập, cô bạn mập mờ, lộ trình sau trượt quốc gia, du học (`thuyen-hai-cai-toi.md` §3–9, §14); cụm cấp 3 (`de-xuat/qk-t-cap-3-motif-lop-10.md`); cảnh QT- của plan quãng 1 (`de-xuat/qk-t-plan-viet-lai-quang-1-v3.md`); gia đình và em trai Khánh (`thuyen.md` §6.9). Mỗi cảnh thành lá khi viết interlude tương ứng.
 - Mặt kia (`other-face`) của phần lớn niềm tin.
@@ -852,7 +852,7 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 | Bible, *Khi mở truyện* | Giải Nhì HSG quốc gia môn Tin (lớp 11) | Thành tích thay thế (câu hỏi 11) |
 | Bible, *Quá khứ* 4–5 | Giải Nhì, băng rôn, tuyển thẳng | Không giải; xét tuyển bằng SAT |
 | Phác thảo cấp 3, C8 | "Giải Nhì. Sụp" | Không giải; khinh bài dễ (hướng 19) |
-| `thuyen-da-nhan-cach.md` | Mẫu giọng "Nhì quốc gia…", BL-011 "sau giải Nhì" | Đã sửa cùng lượt này |
+| `thuyen-da-nhan-cach.md` | Mẫu giọng "Nhì quốc gia…", B.thuyen:011 "sau giải Nhì" | Đã sửa cùng lượt này |
 | M-tam-doc §0.5; brief kiêu ngạo | "Nấc 2 sau giải Nhì" | Nấc 2 sau C6b |
 | Các chương lab | Có thể còn nhắc giải Nhì | Cần soát toàn văn; bản tìm nhanh của plan cũ chưa thấy chỗ nào chịu lực |
 
@@ -860,7 +860,7 @@ Không dùng "rejection sensitive dysphoria" như thuật ngữ chính thức (c
 
 *Nguồn:* `_archive/tuyen/qua-khu/thuyen.md` §6.8.
 
-- Tác giả đang cập nhật BL-024. Các mục 6.2–6.6 là đề xuất, sẽ sửa theo.
+- Tác giả đang cập nhật B.thuyen:024. Các mục 6.2–6.6 là đề xuất, sẽ sửa theo.
 - Cần quyết: vị trí cảnh 1.4b trong ch.3; câu gối nói ở ch.2–3 (đề xuất: *Mười hai ngày…*, *Bảy cái…*); GĐ2 anh bỏ hẳn gối ôm hay giữ mà không thừa nhận; ai là người ôm anh ở đáy, hồi phục (ứng viên: Nhi, Vũ, mẹ ở trị liệu gia đình; tiêu chí mới: người từng bắt được van xả, TB-8); thêm cảnh tức là sửa ch.2, ch.3 đã lên trang.
 - Cỗ máy: câu một dòng, ô H, H7 mở rộng hay H9 (`thuyen-co-may.md` §8).
 
@@ -874,7 +874,7 @@ Danh sách đầy đủ ở `thuyen-hai-cai-toi.md` §13. Ảnh hưởng trực 
 3. Sửa đoạn ôn thi ở ch.6.
 4. Ranh giới ba quãng và bảng tên interlude.
 5. Canon cũ phải sửa vì "không giải" và vì bỏ Vy: `thuyen-hai-cai-toi.md` §10, §16.
-6. Cảnh 1.4b (mẹ khen Nam), sợi gối, BL-025, và các cập nhật BL-024 của tác giả.
+6. Cảnh 1.4b (mẹ khen Nam), sợi gối, B.thuyen:025, và các cập nhật B.thuyen:024 của tác giả.
 7. Năm ở phần quá khứ chưa dời theo lịch 2024–2025 (Thuyên sinh 2006 theo lịch cũ); chọn dời cả quá khứ hay đổi năm sinh, trước khi viết lại ch.2–6.
 
 #### co-may §8 · Chờ tác giả
@@ -939,7 +939,7 @@ Còn treo:
 
 *Nguồn:* `_archive/tuyen/qua-khu/thuyen-da-nhan-cach.md` §12.
 
-Dựng `qua-khu/thuyen.md` (bảng neo theo khuôn 5 trường), đặt tếu và hai cái tôi vào đó. Khi duyệt, gộp một phần vào README QK §4 (BL-011 đến BL-020) và M-he-gia-tri §3a. Chưa làm.
+Dựng `qua-khu/thuyen.md` (bảng neo theo khuôn 5 trường), đặt tếu và hai cái tôi vào đó. Khi duyệt, gộp một phần vào README QK §4 (B.thuyen:011 đến B.thuyen:020) và M-he-gia-tri §3a. Chưa làm.
 
 #### lang-kinh §7 · Chờ tác giả
 

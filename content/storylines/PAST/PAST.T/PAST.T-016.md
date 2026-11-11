@@ -10,7 +10,7 @@ event: "Giải Nhất tỉnh môn Tin; đứng đầu kỳ chọn đội tuyển
 participants: ["[[CH.thuyen]]"]
 axis: [AX3, AX5]
 level: "EXL 5"
-beliefs: "BL-021, BL-013 (củng cố)"
+beliefs: "B.thuyen:021, B.thuyen:013 (củng cố)"
 aliases: [QK.T Kiêu hãnh]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

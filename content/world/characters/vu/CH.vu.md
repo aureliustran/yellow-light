@@ -30,7 +30,7 @@ none
 ## purpose
 
 - **Hội đồng một người của Thuyên** `locked 19/10`. Gương với hội đồng của Nhi: bên Nhi, hội đồng tính toán còn Nhi nói thẳng; bên Thuyên, Thuyên tính toán còn Vũ nói thẳng và anh không lắng nghe `proposed`.
-- **Người thương bằng hành động** `locked 30/10`: Vũ thương mà không đòi gì, không cần ai giỏi; đối chứng với tấm khiên công nhận của Thuyên ([[CH.thuyen.beliefs#BL-024]]). Sửa câu chữ 11/11: bỏ "phản đề của 'giỏi thì được thương'".
+- **Người thương bằng hành động** `locked 30/10`: Vũ thương mà không đòi gì, không cần ai giỏi; đối chứng với tấm khiên công nhận của Thuyên ([[CH.thuyen.beliefs#B.thuyen:024]]). Sửa câu chữ 11/11: bỏ "phản đề của 'giỏi thì được thương'".
 - **Người duy nhất gọi đúng tên:** "Mày đang lùi đấy à?" `proposed`.
 - **Trao đổi:** Thuyên dạy Vũ phối đồ; Vũ dạy Thuyên cách thương người bằng hành động, và là một nguồn trong cách tiếp cận con gái của Thuyên. Thuyên học thuộc mà không làm `locked 30/10`.
 - **Hồi phục:** ứng viên mạnh nhất cho người ôm Thuyên (người đã thấy van xả) `proposed`.
@@ -49,7 +49,7 @@ none (quan hệ Thuyên – Vũ theo giai đoạn do `SOL.VU` ghi)
 
 ## exports
 
-Cơ chế: [[CH.vu.mechanics]] (2 hàm); niềm tin `BL-050`: [[CH.vu.beliefs]]; giọng nền: [[CH.vu.voice]].
+Cơ chế: [[CH.vu.mechanics]] (2 hàm); niềm tin `B.vu:001`: [[CH.vu.beliefs]]; giọng nền: [[CH.vu.voice]].
 
 ## moved
 

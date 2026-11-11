@@ -48,7 +48,7 @@ Bản đầy đủ: `_archive/tuyen/qua-khu/thuyen-co-may.md` §2 (nguồn cho t
 | [[FN.thuyen.adhd]] | hệ thần kinh chạy bằng hứng thú; dạng kết hợp theo tuổi; luật viết | `thuyen-adhd` §4, §5, §5b |
 | [[FN.thuyen.nang-khieu]] | nhìn ra lõi, học bằng liên kết | `thuyen-hai-cai-toi` §15 |
 | [[FN.thuyen.luoi-co-chon-loc]] | lười có chọn lọc, chăm có mục đích | `M-he-gia-tri` §3b; `01-rules-viet` |
-| [[FN.thuyen.quan-su]] | giỏi việc người, mù việc mình | BL-015 (NT-15); `_archive/tuyen/sl/vu.md` §2 |
+| [[FN.thuyen.quan-su]] | giỏi việc người, mù việc mình | B.thuyen:015 (NT-15); `_archive/tuyen/sl/vu.md` §2 |
 
 ## Thiết bị trên trang (DV-, cũ TB-) `locked 28/10`
 

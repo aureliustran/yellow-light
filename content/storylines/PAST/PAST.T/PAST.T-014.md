@@ -10,7 +10,7 @@ event: "Sân trọ: gà (ném vào chậu cây), anh Long, Kyrie, đổi tay qua
 participants: ["[[CH.thuyen]]"]
 axis: [AX2]
 level: "EXL 5"
-beliefs: "BL-013"
+beliefs: "B.thuyen:013"
 aliases: [QK.T Hoan hỉ]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

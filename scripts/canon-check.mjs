@@ -252,7 +252,7 @@ law('LAW.check.gap', () => {
   for (const it of items) {
     const lines = it.body.split(/\r?\n/);
     lines.forEach((line, i) => {
-      const h = line.match(/^###\s+([A-Za-z0-9.\-]+)\s*$/);
+      const h = line.match(/^###\s+([A-Za-z0-9.:\-]+)\s*$/);
       if (!h) return;
       let end = i + 1;
       while (end < lines.length && !/^#{2,3}\s/.test(lines[end])) end++;
@@ -269,7 +269,7 @@ law('LAW.check.gap', () => {
       for (const [id, g] of gaps) {
         if (it.rel === g.rel && i >= g.start && i < g.end) continue;
         const note = g.note;
-        if (new RegExp('(^|[^A-Za-z0-9-])' + id.replace(/[.\-]/g, '\\$&') + '(?![0-9])').test(line)) add('LAW.check.gap', 'warn', it, it.bodyStart + i + 1, `nhắc tới ${id}: chỗ trống chưa định nghĩa (${note})`);
+        if (new RegExp('(^|[^A-Za-z0-9-])' + id.replace(/[.:\-]/g, '\\$&') + '(?![0-9])').test(line)) add('LAW.check.gap', 'warn', it, it.bodyStart + i + 1, `nhắc tới ${id}: chỗ trống chưa định nghĩa (${note})`);
       }
     });
   }

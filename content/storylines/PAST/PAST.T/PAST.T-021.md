@@ -10,7 +10,7 @@ event: "Không thi lại quốc gia; chia giáo án Tin, dòng đầu *bài dễ
 participants: ["[[CH.thuyen]]"]
 axis: [AX2, AX3]
 level: "EXL 6"
-beliefs: "BL-016; BL-020"
+beliefs: "B.thuyen:016; B.thuyen:020"
 aliases: [QK.T Phẫn uất]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

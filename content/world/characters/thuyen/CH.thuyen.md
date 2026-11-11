@@ -94,7 +94,7 @@ Chỉ khai tên, tập giá trị và node chủ. Giá trị theo giai đoạn d
 
 ## exports
 
-Thuộc tính ở trên; cơ chế: [[CH.thuyen.mechanics]] (12 hàm, 16 thiết bị); niềm tin `BL-001` … `BL-034`: [[CH.thuyen.beliefs]]; giọng nền: [[CH.thuyen.voice]].
+Thuộc tính ở trên; cơ chế: [[CH.thuyen.mechanics]] (12 hàm, 16 thiết bị); niềm tin `B.thuyen:001` … `B.thuyen:034`: [[CH.thuyen.beliefs]]; giọng nền: [[CH.thuyen.voice]].
 
 ## moved
 

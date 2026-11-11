@@ -61,8 +61,8 @@ Giai đoạn: OPEN gồm cả quá khứ (mầm non → hết thực tập). Cá
 
 ### Thuyên → Khánh: trách nhiệm con cả và thao túng
 - Em là **người đầu tiên anh thao túng** `locked 30/10`: anh quan sát, biết em thích gì ghét gì, "tương đối đơn giản"; ví dụ bằng chứng em trốn xem điện thoại để ép em làm theo yêu cầu của anh.
-- Cơ chế `proposed`: em khóc là lỗi của anh, nên anh không quát, không đánh, phải làm cho em nghe mà không khóc. Anh **không bao giờ mách** (bài học *nói thật mới bị*): thứ anh trao đổi là *khả năng* mách, im lặng là tiền. Đổi chác nhẹ, em luôn nhận lại một thứ; anh không đắc ý (BL-031).
-- Đây là **gốc của "đọc người để thắng"** (GĐ2 mất dòng 4), của BL-015, và của nguồn thứ hai tài quân sư (biết người ta thiếu gì).
+- Cơ chế `proposed`: em khóc là lỗi của anh, nên anh không quát, không đánh, phải làm cho em nghe mà không khóc. Anh **không bao giờ mách** (bài học *nói thật mới bị*): thứ anh trao đổi là *khả năng* mách, im lặng là tiền. Đổi chác nhẹ, em luôn nhận lại một thứ; anh không đắc ý (B.thuyen:031).
+- Đây là **gốc của "đọc người để thắng"** (GĐ2 mất dòng 4), của B.thuyen:015, và của nguồn thứ hai tài quân sư (biết người ta thiếu gì).
 - **Hòa khí học sau, từ Vũ vực anh dậy** (4–5/2021; bản cũ ghi nhầm 2023) `locked 30/10`. Em dạy anh đọc, Vũ cho anh lý do đọc để làm gì (chuyền thay vì thắng) `proposed`.
 
 ### Mẹ, bố → Thuyên: cây thước di động (AX3)

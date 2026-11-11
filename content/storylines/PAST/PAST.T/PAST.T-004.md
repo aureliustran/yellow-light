@@ -10,7 +10,7 @@ event: "Cái phích vỡ; roi, nằm sấp. Ôm gối dưới ngực, cái gối
 participants: ["[[CH.thuyen]]"]
 axis: [AX3, AX4]
 level: "EXL 2→3"
-beliefs: "BL-003"
+beliefs: "B.thuyen:003"
 aliases: [QK.T 1.3]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

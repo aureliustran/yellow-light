@@ -90,17 +90,17 @@ Bỏ: N.2 (motif chỗ ngồi đã có ở hiện tại, 3b *Màu giấy can*) `
 
 ## beliefs
 
-Bản chính ở [[CH.nhi.beliefs]] (khuôn hai lớp). Bảng dưới giữ nguồn và chỗ tiêu thụ theo bảng cũ. Dải số: PAST.N dùng BL-040 … BL-044 (BL-045 thêm 10/11); PAST.N.HD giữ BL-045 … BL-049 theo bảng cũ, nay BL-045 đã dùng cho Nhi, dải của PAST.N.HD cần đặt lại (gaps).
+Bản chính ở [[CH.nhi.beliefs]] (khuôn hai lớp). Bảng dưới giữ nguồn và chỗ tiêu thụ theo bảng cũ. Mã theo nhân vật (`B.nhi:<số>`, 11/11); niềm tin đi theo người mang nó, không theo node, nên PAST.N.HD không có dải riêng.
 
-**Dải số:** PAST.N dùng BL-040 đến BL-044; PAST.N.HD dùng BL-045 đến BL-049. Không đụng số mới của PAST.T (BL-026, BL-027 đã được đề xuất ở `thuyen.md` và plan quãng 1).
+**Mã** (11/11): `B.nhi:001` … `B.nhi:006` (cũ BL-040 … BL-045).
 
 | NT | Niềm tin (lời Nhi) | Sinh ở | Tiêu thụ ở hiện tại |
 | --- | --- | --- | --- |
-| BL-040 | *Thứ mình chọn thì đẹp thật, kể cả khi không ai biết mình là con ai.* | N.6, N.7 | Shop, KOC; vì sao cô ghét bị nhìn là "con ai"; hợp tác shop với Thuyên; Phần 3 |
-| BL-041 | *Làm gì cũng có người dọn.* | Khải thu xếp những việc nhỏ suốt từ bé; N.7 (dòng gộp từ N.5) | Ch.1 và ch.5: Thuyên đọc trúng bề mặt mà sai ("chưa phải tự trả tiền sửa xe bao giờ", "chưa từng phải làm gì để có cái ghế ấy"); 4b: Khải dọn tấm thiệp, "Lần này đừng để anh phải dọn", ngực cô co lại; 5b: việc dọn ấy cho cô cái ghế hàng hai; nấc 6 thẻ Nhi: lần đầu không có ai dọn (ngày gãy); Phần 4 |
-| BL-042 | *Người ta gật vì cái họ. Muốn được nghe thì phải giành.* | N.1, N.3; nửa H7 của Nhi | 1b: ghi chú *Những lần mình đúng mà không ai nhường*; 3b: câu cô nói "đứng lại giữa miệng và bàn ăn"; 5b, ch.5: MC gọi cô vì thấy tên trong danh sách khách mời, cô dùng nó để giành micro; khéo và đanh đá; danh sách mai mối; vì sao cô thích người dám cãi mình; Phần 4 |
-| BL-043 `locked 30/10` | *Mình kén.* (cách cô gán sai nỗi khó chịu) | N.4 nhịp 6 | Cô vẫn khai gu như cũ; hội đồng trêu cô kén; bị Thuyên hút dù anh trượt cái thước gia thế, và sự dịu dàng của anh ở dạng ngầm nên cô không nhận ra ngay |
-| BL-044 `locked 30/10` | *Mình đã thắng ván ấy. Không ai xếp người cho mình được nữa.* (niềm tin sai) | N.4 nhịp 6 | Không nghi Phong, không nghi gala; bị đánh úp khi lượt 2 lộ ra; rời đi |
+| B.nhi:001 | *Thứ mình chọn thì đẹp thật, kể cả khi không ai biết mình là con ai.* | N.6, N.7 | Shop, KOC; vì sao cô ghét bị nhìn là "con ai"; hợp tác shop với Thuyên; Phần 3 |
+| B.nhi:002 | *Làm gì cũng có người dọn.* | Khải thu xếp những việc nhỏ suốt từ bé; N.7 (dòng gộp từ N.5) | Ch.1 và ch.5: Thuyên đọc trúng bề mặt mà sai ("chưa phải tự trả tiền sửa xe bao giờ", "chưa từng phải làm gì để có cái ghế ấy"); 4b: Khải dọn tấm thiệp, "Lần này đừng để anh phải dọn", ngực cô co lại; 5b: việc dọn ấy cho cô cái ghế hàng hai; nấc 6 thẻ Nhi: lần đầu không có ai dọn (ngày gãy); Phần 4 |
+| B.nhi:003 | *Người ta gật vì cái họ. Muốn được nghe thì phải giành.* | N.1, N.3; nửa H7 của Nhi | 1b: ghi chú *Những lần mình đúng mà không ai nhường*; 3b: câu cô nói "đứng lại giữa miệng và bàn ăn"; 5b, ch.5: MC gọi cô vì thấy tên trong danh sách khách mời, cô dùng nó để giành micro; khéo và đanh đá; danh sách mai mối; vì sao cô thích người dám cãi mình; Phần 4 |
+| B.nhi:004 `locked 30/10` | *Mình kén.* (cách cô gán sai nỗi khó chịu) | N.4 nhịp 6 | Cô vẫn khai gu như cũ; hội đồng trêu cô kén; bị Thuyên hút dù anh trượt cái thước gia thế, và sự dịu dàng của anh ở dạng ngầm nên cô không nhận ra ngay |
+| B.nhi:005 `locked 30/10` | *Mình đã thắng ván ấy. Không ai xếp người cho mình được nữa.* (niềm tin sai) | N.4 nhịp 6 | Không nghi Phong, không nghi gala; bị đánh úp khi lượt 2 lộ ra; rời đi |
 
 ## pages `locked 31/10`
 
@@ -129,7 +129,7 @@ Lịch v1 (2026) dời về 2024, thứ trong tuần đã kiểm bằng code.
 #### 8.2 Từng interlude
 
 **1b *Hồng phấn*** (giữ khung v1)
-- Giữ: ghi chú *Những lần mình đúng mà không ai nhường* (BL-042); vết xước cô bảo là có "vì muốn xem anh ta có cúi xuống không" (đây chính là ranh con, §1.2); Vespa Khải tặng hôm có giấy báo đỗ, nơ đỏ (khớp N.6); mẹ gỡ xương cá (gương với mạ, §1.8); mẹ "có đi xe đâu… ngồi đằng sau" (mẹ và nghề dang dở); váy be còn nguyên mác cuối tủ (vật cầu của N.1).
+- Giữ: ghi chú *Những lần mình đúng mà không ai nhường* (B.nhi:003); vết xước cô bảo là có "vì muốn xem anh ta có cúi xuống không" (đây chính là ranh con, §1.2); Vespa Khải tặng hôm có giấy báo đỗ, nơ đỏ (khớp N.6); mẹ gỡ xương cá (gương với mạ, §1.8); mẹ "có đi xe đâu… ngồi đằng sau" (mẹ và nghề dang dở); váy be còn nguyên mác cuối tủ (vật cầu của N.1).
 - Sửa theo chốt:
   - Bỏ "Thích màu hồng, và không thấy cần xin lỗi vì thích. Nghĩ gì nói nấy từ bé, nên nhiều người bảo cô vô duyên" (trái §1.2, §1.5). Thay: cô biết làm khách của bố quý mình chỉ bằng một câu; ở ngã tư cô không buồn dùng cách ấy.
   - Tủ quần áo: bỏ "ngăn trái và ngăn giữa gần như toàn hồng"; thay bằng tủ đi theo concept (vintage, retro, đồ chụp cho shop), hồng chỉ ở một số bộ. Giữ váy be ở cuối ngăn phải.
@@ -140,18 +140,18 @@ Lịch v1 (2026) dời về 2024, thứ trong tuần đã kiểm bằng code.
 - Dòng mở: ghi chú việc của shop, có giọng ranh con (ví dụ: *Chụp lô nơ len. Concept vintage, không hồng. Trả lời chị khách hỏi giá lần ba (đừng cáu).*).
 - Hiện tại: một buổi chụp sáng Chủ nhật cho lô đồ handmade. Cô tự làm mẫu, máy compact và máy chụp lấy ngay, phối với phố, ánh sáng, hệ màu vintage. Concept không phối được hồng, nên hôm ấy không có hồng (§1.5). Ly matcha ở quán (§1.9).
 - **Khéo khi có lợi:** cô xin được góc chụp ở một quán không cho chụp, hoặc xử lý một khách mặc cả, bằng đúng sự khéo Khải dạy. Đây là nét thứ hai bản rà soát PAST.T đòi cho nữ chính (`qk-t-ra-soat-thu-v6.md` §3.7), và là đối chứng với cách cô không khéo với Thuyên ở ch.1.
-- **Hội đồng** (SOL.HD, nhẹ): nhóm chat HĐQT 🎀 nghe chuyện "anh phanh gấp" và trêu cô kén (BL-043 ở dạng bề mặt, không giải thích).
+- **Hội đồng** (SOL.HD, nhẹ): nhóm chat HĐQT 🎀 nghe chuyện "anh phanh gấp" và trêu cô kén (B.nhi:004 ở dạng bề mặt, không giải thích).
 - **Mảnh *Màu be*** (N.1, một đoạn): concept cần một chiếc váy be; tay cô dừng trên móc. Bảy con tôm, "Váy hồng đẹp hơn", "Câu đúng thì để dành". Cô chọn màu khác. Không kể trọn N.1.
 - Đặt ngay trước ch.3 *Áo sơ mi trắng*: anh sắp nhận cái áo mạ chọn, cô vừa gạt chiếc váy người lớn chọn. Người đọc thấy gương, hai người thì chưa.
 - Gài cho RM: cô đọc danh sách người xem story sau mỗi lần đăng (§1.8, gương story). Hôm ấy không có ai lạ.
 
 **3b *Màu giấy can*** (giữ khung v1)
-- Giữ: bàn ăn dài, bốn người ngồi một đầu, Nhi cạnh Khải (motif chỗ ngồi); bố liếc khi cô gắp nem trước; câu cô nói "đứng lại ở đâu đó giữa miệng và bàn ăn" (BL-042); Khải là người nghe cô kể hết, hỏi "Tên gì?" (Khải đề phòng, khớp dòng Khải biết lượt 2 ở §1.7 và Q-001 §3); ống bản vẽ của mẹ (mẹ là nguồn của cái gu); "Món mẹ thích: (chưa biết)".
+- Giữ: bàn ăn dài, bốn người ngồi một đầu, Nhi cạnh Khải (motif chỗ ngồi); bố liếc khi cô gắp nem trước; câu cô nói "đứng lại ở đâu đó giữa miệng và bàn ăn" (B.nhi:003); Khải là người nghe cô kể hết, hỏi "Tên gì?" (Khải đề phòng, khớp dòng Khải biết lượt 2 ở §1.7 và Q-001 §3); ống bản vẽ của mẹ (mẹ là nguồn của cái gu); "Món mẹ thích: (chưa biết)".
 - Sửa: "Cuối tuần sau cái summit" → "Thứ Bảy này" (T3 8/10 → T7 12/10).
-- **Thay nhịp *Thảo (8A)*** (bỏ Thảo 31/10): ngón cái dừng ở *Gấu* (Misha, N.4). Không bấm, không kéo đi; màn hình tự tối sau ba mươi giây. Gài BL-043: một cái tên lưu bằng biệt danh hiền lành, không có gì bên dưới; người đọc chưa biết Gấu là ai cho đến N.4 ở GĐ1.
+- **Thay nhịp *Thảo (8A)*** (bỏ Thảo 31/10): ngón cái dừng ở *Gấu* (Misha, N.4). Không bấm, không kéo đi; màn hình tự tối sau ba mươi giây. Gài B.nhi:004: một cái tên lưu bằng biệt danh hiền lành, không có gì bên dưới; người đọc chưa biết Gấu là ai cho đến N.4 ở GĐ1.
 
 **4b *Kem viền nhũ vàng*** (giữ khung v1)
-- Giữ: Khải gọi một cuộc chưa đến hai mươi giây, "Lần này đừng để anh phải dọn", ngực cô co lại, cô quyết định đó là biết ơn (cảnh tiêu thụ chính của BL-041 ở phần mở đầu); bộ vest be mẹ may, cô đẩy vào sát chiếc váy be còn nguyên mác (*Màu be* ở hiện tại); phát hiện người đèn vàng là diễn giả.
+- Giữ: Khải gọi một cuộc chưa đến hai mươi giây, "Lần này đừng để anh phải dọn", ngực cô co lại, cô quyết định đó là biết ơn (cảnh tiêu thụ chính của B.nhi:002 ở phần mở đầu); bộ vest be mẹ may, cô đẩy vào sát chiếc váy be còn nguyên mác (*Màu be* ở hiện tại); phát hiện người đèn vàng là diễn giả.
 - Sửa:
   - Ghi chú mở: *Summit 10/10* → **12/10**.
   - "Đống hồng cao ngang lưng" → đống đồ nhiều màu (§1.5).
@@ -159,10 +159,10 @@ Lịch v1 (2026) dời về 2024, thứ trong tuần đã kiểm bằng code.
   - Hóa đơn trà sữa → matcha (§1.9).
 
 **5b *Hồng đất*** (giữ khung v1, sửa nhiều nhất)
-- Giữ: ghế số ba cạnh bố, thiệp cấp lại, lỗi dữ liệu, Khải đeo khẩu trang ngồi cạnh cô, "dễ thở hơn hẳn" (§1.8); "Hôm nay, lần đầu tiên, cô đúng là một trong số họ"; MC thấy tên cô trong danh sách (BL-042); bố "Để ý nó", quai hàm Khải siết lại, email gửi phòng nhân sự (móc TH, Q-001); "Áo len hồng. Không mặc bộ be mẹ may à?" / "Ừ. Đúng là em."; ghi chú, gõ rồi xóa *đẹp trai*.
+- Giữ: ghế số ba cạnh bố, thiệp cấp lại, lỗi dữ liệu, Khải đeo khẩu trang ngồi cạnh cô, "dễ thở hơn hẳn" (§1.8); "Hôm nay, lần đầu tiên, cô đúng là một trong số họ"; MC thấy tên cô trong danh sách (B.nhi:003); bố "Để ý nó", quai hàm Khải siết lại, email gửi phòng nhân sự (móc TH, Q-001); "Áo len hồng. Không mặc bộ be mẹ may à?" / "Ừ. Đúng là em."; ghi chú, gõ rồi xóa *đẹp trai*.
 - Sửa theo chốt:
   - **Bỏ** "Nhi nói những gì mình nghĩ, từ bé đã thế, không cân, không đo…" và "lần đầu tiên trong đời, mình phải nghĩ xem mình sắp nói gì" (trái §1.2). Thay: với người ngoài cô luôn cân câu (khéo là công cụ); trước anh, giữa một hội trường có bố ngồi hàng trước, miệng cô lần đầu chạy trước sự khéo, và cô phải tự chặn.
-  - **Khéo nhận ra khéo:** đoạn cô đếm ba chỗ anh dừng cho người ta cười. Gốc của thói đếm ("từ năm lớp chín, mỗi khi có ai cười với cô quá lâu hay khen cô quá đúng lúc") đổi sang BL-042 (người ta cười vì cái họ), không dựa vào Thảo hay người yêu cũ. Thêm một nhịp: cô đếm được vì chính cô biết cách dựng những khoảng dừng ấy (bữa tiệc của bố; N.4 nhịp 5). Câu hỏi "Anh có tin câu nào trong đó không?" là câu của người biết diễn, không chỉ của người nói thật.
+  - **Khéo nhận ra khéo:** đoạn cô đếm ba chỗ anh dừng cho người ta cười. Gốc của thói đếm ("từ năm lớp chín, mỗi khi có ai cười với cô quá lâu hay khen cô quá đúng lúc") đổi sang B.nhi:003 (người ta cười vì cái họ), không dựa vào Thảo hay người yêu cũ. Thêm một nhịp: cô đếm được vì chính cô biết cách dựng những khoảng dừng ấy (bữa tiệc của bố; N.4 nhịp 5). Câu hỏi "Anh có tin câu nào trong đó không?" là câu của người biết diễn, không chỉ của người nói thật.
   - **Thêm Sao Hôm:** ch.5 thu-v6 có câu hỏi của Tiến và đoạn Sao Hôm sau câu hỏi của cô; v1 *Hồng đất* chưa có. Cô thấy mắt anh cay ở chữ *vỡ*; nụ cười lần này không in từ bản gốc. Cô vỗ tay, hai tay vẫn trong ống tay áo len. Tác giả quyết cô vỗ hay không; nếu vỗ thì đây là lần đầu cô vỗ cho anh.
   - **Áo:** "cổ áo sơ mi trắng" → cổ áo polo (ch.5 thu-v6 anh mặc polo). `locked 31/10` Thêm một dòng cô nhận ra cả hội trường sơ mi trắng mà anh thì không: hai người không mặc thứ người ta chọn cho mình (§1.8, gương).
   - Mốc: *10/10* → **12/10**; ghi chú *Đèn vàng, sáng 3/10* → **5/10**.
@@ -204,8 +204,8 @@ Tác giả, 30/10: tác động của Thảo lên cốt truyện và bài học 
 | Bài học sai "người không có tiền sẽ ăn tiền của mày" | Không còn ai chứng kiến tận mắt. Thành lời dạy của nhà mỗi người (bố Châu ở ngân hàng, nhà Ngọc làm bất động sản, mẹ An Nhiên là luật sư). Hội đồng sợ một thứ chưa từng thấy, nên giọng hài hơn và dễ lung lay hơn |
 | Hội đồng cùng có lỗi, phản đối để chuộc lỗi | Bỏ. Thay: hội đồng từng sai về Misha (chấm 10/10 một người Nhi không yêu nổi) mà không biết mình sai; với Thuyên họ sai lần hai theo chiều ngược lại |
 | Thuyên khớp khuôn sang chấn (cãi, chọc, bề ngoài hơi bad) | Đảo chiều: Thuyên là âm bản của Misha. Thứ làm Nhi chán ở Misha ("Ừ, em nói đúng", tạo dáng đúng từng chữ) là thứ Thuyên không có. Người đọc thấy; hội đồng và Nhi chưa thấy |
-| Radar hỏng ở chỗ tưởng người dám cãi là thật lòng | Bỏ. Radar gốc BL-042 (§4). Bài học sai mới: Nhi biết người chỉ biết "ừ" thì nhạt, nhưng gán nỗi chán cho mình (BL-043 *Mình kén.*) |
-| Khải dọn hậu quả (trả nợ, làm hắn biến mất) | Bỏ. BL-041 vẫn đứng nhờ những việc nhỏ Khải dọn từ bé và tấm thiệp ở 4b |
+| Radar hỏng ở chỗ tưởng người dám cãi là thật lòng | Bỏ. Radar gốc B.nhi:003 (§4). Bài học sai mới: Nhi biết người chỉ biết "ừ" thì nhạt, nhưng gán nỗi chán cho mình (B.nhi:004 *Mình kén.*) |
+| Khải dọn hậu quả (trả nợ, làm hắn biến mất) | Bỏ. B.nhi:002 vẫn đứng nhờ những việc nhỏ Khải dọn từ bé và tấm thiệp ở 4b |
 | Canon "Thuyên là người đầu tiên từ chối tiền của Nhi" | Giữ (ch.1: "Hay anh cần tiền sửa biển số không? Em gửi anh."). Không còn đối chứng với Đăng |
 | Bảng "Hai cách sa ngã" (chốt 23/10) | Mất người đối chứng. Chuyển cho Nam con bác Hùng (bi-a đánh độ): việc của session PAST.T, SL hoặc kiến trúc |
 | Hội đồng sau 16/7 "sợ anh thành hắn" | Đổi: "Đã bảo mà. Misha thì không bao giờ thế." |
@@ -236,9 +236,9 @@ Tác giả, 30/10: tác động của Thảo lên cốt truyện và bài học 
 Tác giả chốt toàn bộ đề xuất ngày 31/10. Còn lại:
 
 1. "Năm 2019 khiến cả hội cười" (phạm vi cũ ở README §5): bỏ, hoặc xác định là cảnh nào.
-2. Nửa H7 của Nhi: chờ Q-048 (session RM). PAST.N đã chốt phía mình là BL-042.
+2. Nửa H7 của Nhi: chờ Q-048 (session RM). PAST.N đã chốt phía mình là B.nhi:003.
 3. Hợp tác shop: cách trả công không phá chốt "Thuyên từ chối tiền của Nhi" (session RM, tác giả).
-4. NT của PAST.N.HD (dải BL-045..49): chưa có.
+4. NT của PAST.N.HD (dải B.nhi:006..49): chưa có.
 5. Viết cảnh cụ thể cho N.3, N.4, N.4b, N.7 khi tới lượt (GĐ1).
 6. Sửa canon theo §1.2, §1.5, §5 (không sửa hộ; "tone hồng" trong lõi giữ nguyên): thẻ Nhi (§1 chiến lược sống, §5 giọng, nấc 0, §8, thang nấc quanh Thảo); BRIEF §3 "cãi là mặc định" thành "đanh đá khi giành quyền lợi hoặc bị chọc cay quá"; `02-hoi-dong-nhi.md` theo §5.2; bible và mạch về Đăng; khi viết lại chương cũ sang v2, giảm "hồng" ở đồ mặc, không gian cô chọn và tên interlude.
 7. Mức đỉnh của PAST.N có nên nâng khỏi A (session kiến trúc); PAST.N đề nghị mức S ở GĐ1 (§6).

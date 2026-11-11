@@ -13,7 +13,7 @@ sources: [hội thoại 10/11; rules/registers.md §2.6 (R10, chưa chuyển)]
 ---
 # TEC.interiority.ideal-self · Phiên bản lý tưởng lóe trong khối nội tâm
 
-Đưa lực kéo ([[CH.thuyen.beliefs#BL-034]]) lên trang qua lời người kể. Phục vụ register R10 (khối nội tâm, `rules/registers.md` §2.6); `serves` thành link khi registers chuyển ở B4. Mô hình `locked 10/11`; kỹ thuật `proposed`.
+Đưa lực kéo ([[CH.thuyen.beliefs#B.thuyen:034]]) lên trang qua lời người kể. Phục vụ register R10 (khối nội tâm, `rules/registers.md` §2.6); `serves` thành link khi registers chuyển ở B4. Mô hình `locked 10/11`; kỹ thuật `proposed`.
 
 ## steps
 

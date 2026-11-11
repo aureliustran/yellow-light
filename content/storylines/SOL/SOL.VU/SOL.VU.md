@@ -42,7 +42,7 @@ Dòng của Vũ ở GĐ1 (cơ chế: [[FN.vu.lat]]):
 - Lật tim đen: *"Mày thấy mày không đủ với chính mày, hay mày sợ mày không đủ với người ta?"* Ứng viên câu trên trang của AX3.
 - AFTER: ứng viên mạnh nhất cho người ôm anh (người đã thấy van xả, TB-8).
 
-**Cách tiếp cận con gái của Thuyên (nguồn: Vũ):** Thuyên làm quân sư giỏi cho người khác, mù cho chính mình, vì ba lẽ: (1) hòa khí; (2) anh thuộc hình dạng cái thiếu của mình dù không thừa nhận nên thấy người khác thiếu ở đâu (áp cho mình là thừa nhận, BL-025); (3) cách hỏi han, tiếp cận do Vũ dạy. Cơ chế: [[FN.thuyen.quan-su]]; chi tiết: `de-xuat/qk-t-plan-ch1-het-cap-2.md` §4.
+**Cách tiếp cận con gái của Thuyên (nguồn: Vũ):** Thuyên làm quân sư giỏi cho người khác, mù cho chính mình, vì ba lẽ: (1) hòa khí; (2) anh thuộc hình dạng cái thiếu của mình dù không thừa nhận nên thấy người khác thiếu ở đâu (áp cho mình là thừa nhận, B.thuyen:025); (3) cách hỏi han, tiếp cận do Vũ dạy. Cơ chế: [[FN.thuyen.quan-su]]; chi tiết: `de-xuat/qk-t-plan-ch1-het-cap-2.md` §4.
 
 ## handoffs
 

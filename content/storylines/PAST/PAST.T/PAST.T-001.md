@@ -10,7 +10,7 @@ event: "Đếm bánh chưng; đếm đúng mà không ai tin."
 participants: ["[[CH.thuyen]]"]
 axis: [AX4]
 level: "EXL 1"
-beliefs: "BL-001"
+beliefs: "B.thuyen:001"
 aliases: [QK.T 1.1]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

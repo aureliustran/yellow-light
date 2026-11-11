@@ -10,7 +10,7 @@ event: "Giấy khen, 47 lượt thích, lớp 8; giải huyện học ít vẫn 
 participants: ["[[CH.thuyen]]"]
 axis: [AX3, AX5]
 level: "EXL 4"
-beliefs: "BL-007"
+beliefs: "B.thuyen:007"
 aliases: [QK.T 1.8]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

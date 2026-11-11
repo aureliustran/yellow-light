@@ -19,7 +19,7 @@ Bản 28/10: *Người ta bắt nạt một thứ yếu đuối, rồi kinh hãi
 
 ## on-page
 
-*Người mạnh nhất sân là người làm bốn người kia mạnh lên.* (*Phẫn uất*, BL-016).
+*Người mạnh nhất sân là người làm bốn người kia mạnh lên.* (*Phẫn uất*, B.thuyen:016).
 
 ## author
 
@@ -27,7 +27,7 @@ Bản 28/10: *Người ta bắt nạt một thứ yếu đuối, rồi kinh hãi
 
 ## components
 
-thuốc giảm đau (cơ chế nhờn thuốc, `core/README.md`); con quái vật (khí thải); bài học cuối cấp 3 (hòa khí); BL-016; **thằng bé cột điện** (cái tôi bị khinh, động cơ đẩy, BL-029) `locked 28/10`.
+thuốc giảm đau (cơ chế nhờn thuốc, `core/README.md`); con quái vật (khí thải); bài học cuối cấp 3 (hòa khí); B.thuyen:016; **thằng bé cột điện** (cái tôi bị khinh, động cơ đẩy, B.thuyen:029) `locked 28/10`.
 
 ## ideas
 

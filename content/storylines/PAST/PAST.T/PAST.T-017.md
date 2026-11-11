@@ -10,7 +10,7 @@ event: "Bố mẹ gạt 'Tin thì được cái chi'; *Không bao giờ đủ*; 
 participants: ["[[CH.thuyen]]"]
 axis: [AX3, AX4, AX9]
 level: "EXL 5"
-beliefs: "BL-012; BL-014 (xác nhận); BL-015; BL-027; BL-032 (gốc)"
+beliefs: "B.thuyen:012; B.thuyen:014 (xác nhận); B.thuyen:015; B.thuyen:027; B.thuyen:032 (gốc)"
 aliases: [QK.T Tủi hổ]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3, _archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §6 (T3b)]
 ---
@@ -51,5 +51,5 @@ Chi tiết chuyển từ nguồn cũ (T3b, 10/11); nhãn giữ nguyên.
 **Nối về sau:**
 - **GĐ1:** anh xếp Nhi vào cùng ngăn "thích hào quang". Thật ra Nhi ngược hẳn: câu đầu tiên cô hỏi là "Anh có tin câu nào trong đó không?". Nền cho [chốt] "không biết Nhi thích mình", nâng thành "không cho phép mình biết" (phương án 1.3, `claude/v2/04-rui-ro-tuyen-thuyen-nhi.md`). Quân sư cho Phong là tự nhiên.
 - **Diệp Anh:** với cô anh nũng được vì cô cố tình không đọc. Gương: *cô bạn cấp 3 rời vì thấy; Diệp Anh rời vì anh không bao giờ hỏi.*
-- **GĐ2:** Nhi thấy anh buồn, giận, và ở lại; anh vẫn uống thuốc. 16/7 anh dùng sức mạnh để buộc tội thay vì hỏi: liều cao nhất của cùng phản xạ ở lớp 11. Những mảnh anh kể Nhi (tờ thứ hai, BL-005) lên bàn: luật BL-014 được "xác nhận" ở dạng tệ hơn.
+- **GĐ2:** Nhi thấy anh buồn, giận, và ở lại; anh vẫn uống thuốc. 16/7 anh dùng sức mạnh để buộc tội thay vì hỏi: liều cao nhất của cùng phản xạ ở lớp 11. Những mảnh anh kể Nhi (tờ thứ hai, B.thuyen:005) lên bàn: luật B.thuyen:014 được "xác nhận" ở dạng tệ hơn.
 - **Phần 2:** lần đầu anh để mình đau trước một người và tìm đồng cảm.

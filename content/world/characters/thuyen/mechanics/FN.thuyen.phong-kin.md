@@ -21,7 +21,7 @@ body      giọng (in nghiêng; khối R9: không xuống dòng, điệp khúc, 
           → nghi thức tắt: bồn rửa, vốc nước lạnh lên mặt
 out       câu nói đã dịch + hành động quá đà trong luật
 effects   sản phẩm cụ thể (ép mạnh có ích thật); hệ quả viết bằng R8; người bên cạnh bất an mà không rõ vì sao
-uses      BL-029 "Yếu là có tội", BL-014, BL-032 "Trong đầu thì vô hại", BL-027 (cảnh QT-41: *Sợ còn hơn thương.*); R8, R9; luật chửi (`rules/chui-bay-thiet-ke.md`)
+uses      B.thuyen:029 "Yếu là có tội", B.thuyen:014, B.thuyen:032 "Trong đầu thì vô hại", B.thuyen:027 (cảnh QT-41: *Sợ còn hơn thương.*); R8, R9; luật chửi (`rules/chui-bay-thiet-ke.md`)
 render    luật viết §6; DV-008 (bóc vỏ)
 ```
 

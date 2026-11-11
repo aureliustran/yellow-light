@@ -10,7 +10,7 @@ event: "Thư mục *sau-nay*, *Congratulations.*, đọc một lần rồi khôn
 participants: ["[[CH.thuyen]]"]
 axis: [AX2]
 level: "EXL 7"
-beliefs: "(tiêu thụ BL-018)"
+beliefs: "(tiêu thụ B.thuyen:018)"
 aliases: [QK.T 3.4]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

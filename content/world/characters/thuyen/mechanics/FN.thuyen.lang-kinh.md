@@ -15,15 +15,15 @@ Lăng kính: thu nạp thông tin và phân tích khách quan, kể cả về ch
 in        một lập luận, một người, một bàn cờ, hoặc chính anh
 when      luôn sáng; thứ đổi là hướng quay (thuộc tính `lang-kinh` của [[CH.thuyen]])
 frame     một mục tiêu khoanh vùng đo; vạch đích là phiên bản lý tưởng (mơ hồ, đổi hình theo mục đích anh đang nhìn thấy)
-motive    kéo: khoảng cách tới phiên bản lý tưởng, giữa năng lực/thực tế và kỳ vọng (BL-034) · đẩy: tự ti, ám ảnh quá khứ (BL-029); mức theo tâm thế: `luc-keo`, `luc-day` của [[CH.thuyen]]
-body      nhặt lỗ hổng trước (lệch tiêu cực) → khách quan với lập luận, mù với lòng người → không hỏi ai đặt mục tiêu cho cái cân của mình (BL-030)
+motive    kéo: khoảng cách tới phiên bản lý tưởng, giữa năng lực/thực tế và kỳ vọng (B.thuyen:034) · đẩy: tự ti, ám ảnh quá khứ (B.thuyen:029); mức theo tâm thế: `luc-keo`, `luc-day` của [[CH.thuyen]]
+body      nhặt lỗ hổng trước (lệch tiêu cực) → khách quan với lập luận, mù với lòng người → không hỏi ai đặt mục tiêu cho cái cân của mình (B.thuyen:030)
           → dùng: cấp 1 không dám dùng · cấp 2 phản kháng (câu vặn bật ra) · cấp 3 trở đi: một trong ba chế độ
 mode      TÊN LỬA  siêu việt → quyền lực → lập luận khách quan có chọn lọc → kéo đối tượng xuống → đàn áp; không điểm dừng
           KHÍ THẢI kế hoạch đại bại → người chứng kiến bị xếp nhầm là mối đe dọa → sức mạnh trần, khuôn câu người lớn
           RĂN      thấy phần yếu của mình ở người yếu sẵn → hồi tưởng bật → câu răn → điểm dừng
 out       câu vặn, lập luận, bản đồ người; với người yếu sẵn: răn hoặc che chở
 effects   lớp 11 và GĐ2 → GÃY là cùng một chuỗi, khác độ tinh vi
-uses      BL-010 (lăng kính), BL-029 "Yếu là có tội", BL-014, BL-033 (gốc của TÊN LỬA), BL-034 (phiên bản lý tưởng); trục AX3, AX4, AX9
+uses      B.thuyen:010 (lăng kính), B.thuyen:029 "Yếu là có tội", B.thuyen:014, B.thuyen:033 (gốc của TÊN LỬA), B.thuyen:034 (phiên bản lý tưởng); trục AX3, AX4, AX9
 render    khối R10 khi tính, R4 khi bắn (tên lửa); R8, R9 (khí thải); R10 ngắn + mảnh hồi tưởng (răn); DV-011
 ```
 

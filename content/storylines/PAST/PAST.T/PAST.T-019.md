@@ -10,7 +10,7 @@ event: "Hiếu không an ủi: 'Ông chỉ tôi bài ni.'; 'Chơi không? Thiế
 participants: ["[[CH.thuyen]]"]
 axis: [AX2, AX8]
 level: "EXL 5"
-beliefs: "BL-017"
+beliefs: "B.thuyen:017"
 aliases: [QK.T Biết ơn]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---

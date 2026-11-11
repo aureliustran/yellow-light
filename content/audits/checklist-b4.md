@@ -6,33 +6,33 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 
 ### Gốc, trục, hiến pháp
 - [x] **Cây thước và lăng kính mâu thuẫn.** Mô hình thước và cân (AX3): hai cây thước (bố mẹ: vạch dời, luôn "chưa đủ"; lâu đài: vạch luôn dưới chân, luôn "đủ"); Thuyên và Nhi đều bỏ cây thước áp lên mình, đo bằng cái cân của mình; phép đo khách quan, chủ quan nằm ở vạch đích. Thành tố ghi ở `ART.AX3` (`locked 10/11`).
-- [x] **Lực kéo, lực đẩy.** Kéo là phiên bản lý tưởng (BL-034), đẩy là nỗi sợ từ quá khứ (BL-029); đẩy chỉ yếu khi bình yên; trong phần đang plan, kéo luôn cao. Ghi ở `SELF.thuyen`, cụm C5 (987548e).
+- [x] **Lực kéo, lực đẩy.** Kéo là phiên bản lý tưởng (B.thuyen:034), đẩy là nỗi sợ từ quá khứ (B.thuyen:029); đẩy chỉ yếu khi bình yên; trong phần đang plan, kéo luôn cao. Ghi ở `SELF.thuyen`, cụm C5 (987548e).
 - [x] **Vạch của hai người.** Thuyên: cột mốc dài hạn, vertical scaling, tiêu cực; Nhi: hoàn thành ngắn hạn, horizontal scaling, tích cực (9df3707).
 - [x] **Hiến pháp.** ART.0 sáu điều (tác giả sửa) và ART.AX3 bốn điều được duyệt; câu gốc viết lại theo luật từ phức, giữ bản cũ ở mục `moved`.
 - [x] **Chín trục và thang** chuyển vào `core/axes/AX1…AX9`, `core/SCALE.exl` (T1, 5b62b65).
 
 ### Niềm tin
 - [x] **Khuôn hai lớp.** `definition` (dùng được quote) và `monologue` (công cụ thiết kế, giọng thiết kế, không phải giọng nhân vật, lên trang tùy chọn); `seen` chỉ là nhân vật thấy, người đọc vẫn có thể được kể; giai đoạn `ngo-nhan`, `dien-giai`; `ref`; cụm (062460c, 377e126).
-- [x] **Gom niềm tin Thuyên thành 7 cụm** (C1 Công nhận … C7 Tình thương); gộp, chuyển BL-003, 012, 013, 015, 019 (c5c2076, 55d0626).
+- [x] **Gom niềm tin Thuyên thành 7 cụm** (C1 Công nhận … C7 Tình thương); gộp, chuyển B.thuyen:003, 012, 013, 015, 019 (c5c2076, 55d0626).
 - [x] **Chỗ trống C1**: lúc đầu để trống có chủ đích với cảnh báo `LAW.check.gap` (8657981); 11/11 tác giả xóa hẳn vì sai định nghĩa: lời hứa đêm say là tình tiết đẩy tuyến ở giao điểm X-011, không phải niềm tin; niềm tin sinh từ nó (nếu có) ghi số mới.
-- [x] **BL-024**: sườn bài văn *Ước mơ của em*; công nhận là bảo hộ chủ kiến, nối thước đo; cấp 2 giành công nhận bằng cái cân của mình; tình thương `seen: khong` (05a73d1, 73275b6, 7352c1e).
+- [x] **B.thuyen:024**: sườn bài văn *Ước mơ của em*; công nhận là bảo hộ chủ kiến, nối thước đo; cấp 2 giành công nhận bằng cái cân của mình; tình thương `seen: khong` (05a73d1, 73275b6, 7352c1e).
 - [x] **Từ vựng Thuyên.** "bố mẹ" (bỏ bọ, mạ), "công nhận, thừa nhận" thay "khen", Khánh là "nó" (f503e3f, b0225e5).
-- [x] **Niềm tin Nhi**: cụm C1 Lâu đài (gốc BL-045, độc thoại của tác giả), C2; không ghi niềm tin Thuyên vào gói Nhi (7914591, 7f97924).
+- [x] **Niềm tin Nhi**: cụm C1 Lâu đài (gốc B.nhi:006, độc thoại của tác giả), C2; không ghi niềm tin Thuyên vào gói Nhi (7914591, 7f97924).
 - [x] **Lâu đài** định nghĩa sáu phần trong `CH.nhi` (c13a526).
 - [x] **Gương Thuyên – Nhi** đặt ở mục `mirror` của ROM.TN, phụ thuộc một chiều vào niềm tin (e49737f); thêm gương quá khứ (bcb96db).
 - [x] **X-011 (đêm say)**: mục tiêu riêng X-011.G1 (tác giả 11/11): khuếch đại các niềm tin liên quan để biến chất GĐ2 ở lab xảy ra; lời hứa thành lá X-011-001.
-- [x] **X-011-001 (lời hứa)** duyệt 11/11, gồm các niềm tin khuếch đại BL-024, 034, 030; thêm BL-029 (vạch đã nâng lên: ghế 50 triệu).
-- [x] **BL-034** (11/11): vạch dời theo mục tiêu của anh; phiên bản lý tưởng là ảo tưởng về mình lúc đạt mục tiêu; ref Markus và Nurius (possible selves), Higgins (self-discrepancy); expression theo mục tiêu từng chặng; behavior từ nghiên cứu chủ nghĩa hoàn hảo.
-- [x] **Bỏ "giỏi thì được thương"** (tác giả 11/11, cách a): gỡ khỏi BL-024 (tầng không thấy, alias), BL-004, C7, BL-030, FN.thuyen.phuong-trinh (bộ chuyển đổi còn "thiếu = khuyết chưa sửa"), sơ đồ cỗ máy, CH.thuyen, CH.vu, rules/goi-ten-cam-xuc §8, PAST.T.G1, AX7 (on-page, components).
+- [x] **X-011-001 (lời hứa)** duyệt 11/11, gồm các niềm tin khuếch đại B.thuyen:024, 034, 030; thêm B.thuyen:029 (vạch đã nâng lên: ghế 50 triệu).
+- [x] **B.thuyen:034** (11/11): vạch dời theo mục tiêu của anh; phiên bản lý tưởng là ảo tưởng về mình lúc đạt mục tiêu; ref Markus và Nurius (possible selves), Higgins (self-discrepancy); expression theo mục tiêu từng chặng; behavior từ nghiên cứu chủ nghĩa hoàn hảo.
+- [x] **Bỏ "giỏi thì được thương"** (tác giả 11/11, cách a): gỡ khỏi B.thuyen:024 (tầng không thấy, alias), B.thuyen:004, C7, B.thuyen:030, FN.thuyen.phuong-trinh (bộ chuyển đổi còn "thiếu = khuyết chưa sửa"), sơ đồ cỗ máy, CH.thuyen, CH.vu, rules/goi-ten-cam-xuc §8, PAST.T.G1, AX7 (on-page, components).
 - [x] **AX7 câu gốc** dựng lại (sự công nhận làm tấm khiên, không gọi tên vòng tay mình thiếu) và **PAST.T.G1** câu chữ mới: duyệt 11/11.
-- [x] **BL-034** (11/11): bắt đầu từ lúc anh nhận ra mình có năng lực; `seen: khong`; độc thoại theo khuôn giả định "Nếu tao …, thì tao …" (không ghi ví dụ); gốc ở PAST.T-008 (lớp 6).
-- [x] **BL-026 viết lại** (11/11): không ngại hỏi, không ngại bị mắng, chỉ cần câu trả lời; tự tìm là ưu tiên (năng lực tự phát); bộ lọc chọn người giữ câu trả lời và định hình trước chuỗi câu hỏi, không hạn chế hỏi. Bản đầu của diễn giải trong PAST.T là lời tác giả ("Họ chửi mình, vì họ không có câu trả lời…"), có thể đổi. Dạng diễn giải áp dụng toàn bộ truyện.
-- [x] **Đối chiếu mechanics ↔ beliefs** (11/11, duyệt): BL-007 viết lại (vạch chuyển theo mục tiêu, bỏ "một vòng tay"; sang C2, con của BL-034); cái tôi độc đo bằng ánh nhìn người phán xét; nhiên liệu tách lớp 8–10 / từ C6b, uses BL-029, 034, 024; lăng kính luôn sáng, tếu là chỗ không hệ thống hóa; điểm mù theo BL-030; cái gối mở độc thoại cảm xúc; thước di động: chủ là FN.thuyen.thieu, FAM.T giữ quan hệ; sửa uses của quan-su, nang-khieu, phong-kin (BL-032), phuong-trinh, luoi-co-chon-loc, lang-kinh.
-- [x] **Cái tôi độc** (11/11): không phải tiền mua tình thương; sự công nhận làm khiên bác bỏ mọi lời phán xét, ở GĐ2 để được thương Nhi trọn vẹn (anh đã biết mình có nó). Nối BL-024 (amplified), BL-030, BL-034, BL-029, C7, X-011-001; FN.thuyen.cai-toi, sơ đồ cỗ máy.
-- [x] **BL-030** (11/11): nối nghiên cứu chủ nghĩa hoàn hảo: nguồn gốc (tình cảm có điều kiện, Assor và Tal), ref Shafran (dời vạch), other-face *socially prescribed* lộ lại ở đêm say.
-- [x] **BL-029, các chặng** (tác giả 11/11): dạng diễn giải hình thành ở lớp 11; kéo mọi lúc, đẩy lúc cực đoan, nên biểu hiện dàn trải cả truyện, mức luôn cao: lớp 11 thô, trực tiếp → lớp 12 biến động, nhận ra thấu cảm → ĐH–GĐ1 hòa khí → GĐ2–gãy tinh vi, thao túng.
+- [x] **B.thuyen:034** (11/11): bắt đầu từ lúc anh nhận ra mình có năng lực; `seen: khong`; độc thoại theo khuôn giả định "Nếu tao …, thì tao …" (không ghi ví dụ); gốc ở PAST.T-008 (lớp 6).
+- [x] **B.thuyen:026 viết lại** (11/11): không ngại hỏi, không ngại bị mắng, chỉ cần câu trả lời; tự tìm là ưu tiên (năng lực tự phát); bộ lọc chọn người giữ câu trả lời và định hình trước chuỗi câu hỏi, không hạn chế hỏi. Bản đầu của diễn giải trong PAST.T là lời tác giả ("Họ chửi mình, vì họ không có câu trả lời…"), có thể đổi. Dạng diễn giải áp dụng toàn bộ truyện.
+- [x] **Đối chiếu mechanics ↔ beliefs** (11/11, duyệt): B.thuyen:007 viết lại (vạch chuyển theo mục tiêu, bỏ "một vòng tay"; sang C2, con của B.thuyen:034); cái tôi độc đo bằng ánh nhìn người phán xét; nhiên liệu tách lớp 8–10 / từ C6b, uses B.thuyen:029, 034, 024; lăng kính luôn sáng, tếu là chỗ không hệ thống hóa; điểm mù theo B.thuyen:030; cái gối mở độc thoại cảm xúc; thước di động: chủ là FN.thuyen.thieu, FAM.T giữ quan hệ; sửa uses của quan-su, nang-khieu, phong-kin (B.thuyen:032), phuong-trinh, luoi-co-chon-loc, lang-kinh.
+- [x] **Cái tôi độc** (11/11): không phải tiền mua tình thương; sự công nhận làm khiên bác bỏ mọi lời phán xét, ở GĐ2 để được thương Nhi trọn vẹn (anh đã biết mình có nó). Nối B.thuyen:024 (amplified), B.thuyen:030, B.thuyen:034, B.thuyen:029, C7, X-011-001; FN.thuyen.cai-toi, sơ đồ cỗ máy.
+- [x] **B.thuyen:030** (11/11): nối nghiên cứu chủ nghĩa hoàn hảo: nguồn gốc (tình cảm có điều kiện, Assor và Tal), ref Shafran (dời vạch), other-face *socially prescribed* lộ lại ở đêm say.
+- [x] **B.thuyen:029, các chặng** (tác giả 11/11): dạng diễn giải hình thành ở lớp 11; kéo mọi lúc, đẩy lúc cực đoan, nên biểu hiện dàn trải cả truyện, mức luôn cao: lớp 11 thô, trực tiếp → lớp 12 biến động, nhận ra thấu cảm → ĐH–GĐ1 hòa khí → GĐ2–gãy tinh vi, thao túng.
 - [x] **Khuếch đại lớn nhất ở X-011-001** (tác giả 11/11): niềm tin có sẵn của C7 Tình thương (có Nhi thì có cái ôm), không sinh niềm tin mới; niềm tin mù, lên trang chỉ bằng cảm xúc và hồi tưởng lúc đau; kỹ thuật: hơi ấm khi ôm, skinship về sau; mở luật cho C7 có độc thoại cảm xúc, không nhận thức.
-- [x] **BL-022, chặng đổ vỡ lớp 11**: sự kiện làm chủ là thất bại HSG quốc gia lớp 11 và quá trình vực dậy (tác giả 11/11); lá chưa định nghĩa, ghi ở gaps của PAST.T.
+- [x] **B.thuyen:022, chặng đổ vỡ lớp 11**: sự kiện làm chủ là thất bại HSG quốc gia lớp 11 và quá trình vực dậy (tác giả 11/11); lá chưa định nghĩa, ghi ở gaps của PAST.T.
 - [x] **Vũ, Nhi** nâng theo khuôn hai lớp và luật từ phức (7107865).
 
 ### Luật viết
@@ -59,7 +59,6 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 ## B. Còn mở: cần tác giả quyết
 
 ### Niềm tin
-- [ ] **Dải số niềm tin PAST.N.HD**: dải cũ NT-45…49 trùng BL-045 của Nhi.
 
 ### Gốc
 - [ ] **SCALE.pride** (kiêu ngạo, 8 nấc) và **SCALE.rom** (Nhi thích Thuyên, 9 nấc): chưa có file.
@@ -81,7 +80,7 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 - [ ] **ch.6**: "một tháng ôn không lười" → ôn theo đường ngắn nhất.
 - [ ] **ch.3**: cảnh mẹ khen Nam; câu gối nói ở ch.2–3.
 
-- [ ] **BL-004 độc thoại lớp 4** dựa vào phương trình đã bỏ (`needs-decision`).
+- [ ] **B.thuyen:004 độc thoại lớp 4** dựa vào phương trình đã bỏ (`needs-decision`).
 
 ## C. Còn mở: Claude làm khi tác giả bảo
 

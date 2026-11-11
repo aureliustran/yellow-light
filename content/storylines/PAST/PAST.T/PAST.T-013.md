@@ -10,7 +10,7 @@ event: "Phiếu thi chuyên ('Có rứa mới bằng con nhà người ta'), đ�
 participants: ["[[CH.thuyen]]"]
 axis: [AX1]
 level: "EXL 4→5"
-beliefs: "BL-009; BL-024 (được xác nhận)"
+beliefs: "B.thuyen:009; B.thuyen:024 (được xác nhận)"
 aliases: [QK.T 1.11]
 sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
 ---
