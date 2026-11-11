@@ -14,7 +14,7 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 ### Niềm tin
 - [x] **Khuôn hai lớp.** `definition` (dùng được quote) và `monologue` (công cụ thiết kế, giọng thiết kế, không phải giọng nhân vật, lên trang tùy chọn); `seen` chỉ là nhân vật thấy, người đọc vẫn có thể được kể; giai đoạn `ngo-nhan`, `dien-giai`; `ref`; cụm (062460c, 377e126).
 - [x] **Gom niềm tin Thuyên thành 7 cụm** (C1 Công nhận … C7 Tình thương); gộp, chuyển BL-003, 012, 013, 015, 019 (c5c2076, 55d0626).
-- [x] **Chỗ trống C1** để trống có chủ đích (BL-036); `canon-check` cảnh báo mỗi lần nhắc (`LAW.check.gap`, 8657981).
+- [x] **Chỗ trống C1**: lúc đầu để trống có chủ đích với cảnh báo `LAW.check.gap` (8657981); 11/11 tác giả xóa hẳn vì sai định nghĩa: lời hứa đêm say là tình tiết đẩy tuyến ở giao điểm X-011, không phải niềm tin; niềm tin sinh từ nó (nếu có) ghi số mới.
 - [x] **BL-024**: sườn bài văn *Ước mơ của em*; công nhận là bảo hộ chủ kiến, nối thước đo; cấp 2 giành công nhận bằng cái cân của mình; tình thương `seen: khong` (05a73d1, 73275b6, 7352c1e).
 - [x] **Từ vựng Thuyên.** "bố mẹ" (bỏ bọ, mạ), "công nhận, thừa nhận" thay "khen", Khánh là "nó" (f503e3f, b0225e5).
 - [x] **Niềm tin Nhi**: cụm C1 Lâu đài (gốc BL-045, độc thoại của tác giả), C2; không ghi niềm tin Thuyên vào gói Nhi (7914591, 7f97924).
@@ -47,7 +47,7 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 ## B. Còn mở: cần tác giả quyết
 
 ### Niềm tin
-- [ ] **BL-036** (chỗ trống C1): ứng viên là lời hứa với Nhi giữa GĐ1 và GĐ2.
+- [ ] **X-011 (đêm say)**: mục tiêu riêng của giao điểm, để lời hứa thành lá `X-011-NNN`; niềm tin mới sinh từ lời hứa.
 - [ ] **BL-029**: thời điểm các chặng.
 - [ ] **BL-026**: thời điểm bộ lọc.
 - [ ] **BL-034**: gốc của phiên bản lý tưởng.

@@ -4,7 +4,7 @@ kind: character
 status: agreed
 updated: 2026-11-10
 aliases: [niềm tin Thuyên, NT Thuyên]
-exports: [BL-001, BL-002, BL-003, BL-004, BL-005, BL-006, BL-007, BL-008, BL-009, BL-010, BL-011, BL-012, BL-013, BL-014, BL-015, BL-016, BL-017, BL-018, BL-019, BL-020, BL-021, BL-022, BL-023, BL-024, BL-025, BL-026, BL-027, BL-029, BL-030, BL-031, BL-032, BL-033, BL-034, BL-035, BL-036]
+exports: [BL-001, BL-002, BL-003, BL-004, BL-005, BL-006, BL-007, BL-008, BL-009, BL-010, BL-011, BL-012, BL-013, BL-014, BL-015, BL-016, BL-017, BL-018, BL-019, BL-020, BL-021, BL-022, BL-023, BL-024, BL-025, BL-026, BL-027, BL-029, BL-030, BL-031, BL-032, BL-033, BL-034, BL-035]
 parent: "[[CH.thuyen]]"
 sources: [_archive/tuyen/qua-khu/README.md §4, _archive/tuyen/qua-khu/thuyen.md §1, §4, §6, _archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §11, _archive/tuyen/qua-khu/thuyen-da-nhan-cach.md §7, _archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §4.5, de-xuat/qk-t-plan-viet-lai-quang-1-v3.md §0]
 ---
@@ -105,13 +105,6 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **origin:** PAST.T 3.3: hackathon, CLB
 - **consumed (nguồn cũ):** P1 lab: giữ Thảo khỏi bị dồn việc; Nhi là người muốn biết
 - **status:** `locked 10/11` · alias `NT-23`
-
-### BL-036
-
-- **gap:** C1 để trống có chủ đích (tác giả, 10/11). Mọi file nhắc tới BL-036 đều bị `canon:check` cảnh báo (`LAW.check.gap`) cho tới khi chỗ này được định nghĩa.
-- **cluster:** C1
-- **candidates (chưa chốt):** nguồn tiềm năng là lời hứa với Nhi ở `ROM.TN`, giữa GĐ1 và GĐ2. Lần này cái giá đánh vào mong muốn được ôm, được yêu thương mà anh không muốn thừa nhận (C7, `seen: khong`); anh có nhiều thứ cần bảo vệ hơn chủ kiến của chính mình, nên tấm khiên của BL-024 phải to hơn, và có thể không còn là một tấm khiên. Liên quan: AX5 (định giá); ghế 50 triệu; điểm gãy "thị trường định giá anh bằng 0".
-- **status:** `needs-decision`
 
 ## C2 · Cái cân
 

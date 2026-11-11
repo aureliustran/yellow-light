@@ -99,6 +99,6 @@ Bảng sinh tay tạm, cho tới khi `canon:check` sinh từ các lá. Mã `TN-?
 ## gaps
 
 - Chờ B4c (từ BRIEF, KHO, RR): `arc`, `goals`, `relation`, `state` (gồm `nac-thich` của Nhi), `rules`, phần còn lại của `voice`, các lá `ROM.TN-NNN` khác, khuôn A–H, E2, E3 (thành `PAT.*`), các dòng "cách anh cư xử trong quan hệ" đang chờ ở `CH.thuyen` (`moved`).
-- Lời hứa với Nhi giữa GĐ1 và GĐ2: ứng viên cho chỗ trống C1 của Thuyên (BL-036).
+- Lời hứa đêm say ("…anh sẽ đường hoàng nâng niu bờ môi xinh đẹp này"): ứng viên tình tiết đẩy tuyến, thuộc giao điểm [[X-011]], không thuộc node.
 - Từ `_archive/tuyen/romance/thuyen-nhi.md` §5: Toàn bộ phần chuyển từ BRIEF, KHO, RR (`rm-handoff.md` §1 bước 1); tách tình tiết của Phong sang `ROM.PN`, của Diệp Anh sang `ROM.TD`.
 - Hai lá mẫu chưa có `goal` nối vào mục tiêu của node; đánh lại số theo ngày khi chuyển BRIEF.
