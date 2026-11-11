@@ -86,8 +86,8 @@ File này giờ chỉ giữ phần **chuyển đổi**: kế hoạch gộp (§13
 | --- | --- | --- |
 | Vũ | `sl/vu.md` §1 → `CH.vu.md` | §3 → `SOL.VU.md` |
 | Diệp Anh, Phong, Khải, Morpheus | bible-v2 §4.3–4.4, §4.7; `00` §2; `01-mach-truyen-v2` §2 | ROM.TD, ROM.PN, THR.* |
-| Hội đồng Nhi | `02-hoi-dong-nhi` §0, §2–4 → `world/groups/` | §5 → `SOL.HD.md`; §1 → `PAST.N.md` |
-| Lab, hội sân | bible-v2 §4.8 → `world/groups/` | THR.LAB, SOL.SAN |
+| Hội đồng Nhi | `02-hoi-dong-nhi` §0, §2–4 → `SOL.HD` (`world/groups/` bỏ 11/11) | §5 → `SOL.HD.md`; §1 → `PAST.N.md` |
+| Lab, hội sân | bible-v2 §4.8 → node `members` (`world/groups/` bỏ 11/11) | THR.LAB, SOL.SAN |
 | Bối cảnh | bible-v2 §5, §7 → `world/settings/` | |
 
 ### 13.4 Node và giao điểm

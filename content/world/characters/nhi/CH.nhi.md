@@ -83,7 +83,7 @@ Thứ không thuộc file này; sang node khi node chuyển:
 | Nội dung | Đích |
 | --- | --- |
 | bảng neo N.1–N.7, bảy nhịp N.4, hai lượt mai mối, Misha | `PAST.N` (lượt 2 là bí mật: [[SEC-002]]) |
-| hội đồng trong quá khứ (QK.N.HD) | `PAST.N.HD`; nhóm: [[GRP.hoi-dong-nhi]] |
+| hội đồng trong quá khứ (QK.N.HD) | `PAST.N.HD`; hội đồng: [[SOL.HD]] |
 | lớp nghi ngờ của Thuyên; thang chữ gọi "cô gái", "công chúa" → "kid"; hai nấc để cãi; gu tự khai nghe ở X-05; hợp tác shop; tuyến Phong; gương QK.T – QK.N (§1.8) | `ROM.TN`, `ROM.PN` |
 | motif chỗ ngồi, ghế ở summit | `ROM.TN` và các tình tiết ch.05, 5b |
 | plan interlude Nhi (§8) | `plans/` |

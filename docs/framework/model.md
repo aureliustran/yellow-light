@@ -40,7 +40,6 @@ One line per kind; the schema is the source of truth. Ids follow [ids.md](ids.md
 | technique | `TEC.<aspect>.<name>` | file | `schemas/technique.md` |
 | pattern | `PAT.<name>` | file | `schemas/pattern.md` |
 | character | `CH.<name>` | package folder | `schemas/character.md` |
-| group | `GRP.<name>` | file | `schemas/group.md` |
 | setting | `SET.<name>` | file | `schemas/setting.md` |
 | object | `OBJ-NNN` | file or inline | `schemas/object.md` |
 | secret | `SEC-NNN` | file | `schemas/secret.md` |
@@ -82,7 +81,7 @@ A node never reads another node directly. Values cross nodes only through `world
 
 `world/` declares *what can vary* (an attribute and its allowed values, e.g. `cai-toi-doc ∈ {ngu, thuc-co-dieu-kien, …}`). `storylines/` records *what it is at a given time*. Phases (`OPEN`, `P1`, `P2`, `BREAK`, `AFTER`, `POST`) are the time dimension; levels (`D` … `SSS`) are the weight of a node per phase.
 
-A character is a package: main file (identity, purpose, attributes, exports), beliefs, base voice, mechanics (function signatures, one file per function). Crowd characters are rows in a group file.
+A character is a package: main file (identity, purpose, attributes, exports), beliefs, base voice, mechanics (function signatures, one file per function). Crowd characters are rows in the `members` section of the node that owns them (a group is a node, e.g. `SOL.HD`; `GRP.` dropped 11/11).
 
 ## Common header
 

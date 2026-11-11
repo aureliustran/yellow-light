@@ -28,7 +28,7 @@ Chuyển sang spec: [`docs/framework/ids.md`](../../docs/framework/ids.md) (ng�
 | Bộ chịu đựng | `TB-n` | `DV-NNN` | `DV-007` |
 | Register | `R1`–`R9` | `REG.<ten>` (R1–R9 làm alias) | `REG.so-cai` |
 | Nhân vật | `NV.` | `CH.` | `CH.thuyen` |
-| Nhóm, quần chúng | (mới) | `GRP.` `proposed` | `GRP.hoi-dong-nhi` |
+| Nhóm, quần chúng | (mới) | bỏ 11/11: nhóm là node (`SOL.HD`), quần chúng là dòng `members` của node | `GRP.hoi-dong-nhi` → `SOL.HD` |
 | Bối cảnh | `BC.` | `SET.` | `SET.phong-kin` |
 | Vật | `VAT-` | `OBJ-NNN` | `OBJ-012` |
 | Bí mật | `BM-` | `SEC-NNN` | `SEC-003` |

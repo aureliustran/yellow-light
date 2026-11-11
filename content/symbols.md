@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 216 file. Chưa chuyển sang khuôn mới (legacy): 138 file.
+Có phần đầu (frontmatter): 215 file. Chưa chuyển sang khuôn mới (legacy): 138 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -56,7 +56,6 @@ Có phần đầu (frontmatter): 216 file. Chưa chuyển sang khuôn mới (leg
 | `FN.thuyen.thieu` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.thieu.md` | Đầu vào của cỗ máy: cái thiếu bị chối hai lần: người trong gia đình không nhận ra, người ngoài cho rằng anh sung sướng. |
 | `FN.vu.lat` | `function` | `proposed` | `world/characters/vu/mechanics/FN.vu.lat.md` | Vũ không tính toán; Vũ nói thẳng. Thuyên đưa ra một cái cớ hợp lý, Vũ lật ngược nó bằng một câu duy nhất. |
 | `FN.vu.thuong-bang-hanh-dong` | `function` | `locked` | `world/characters/vu/mechanics/FN.vu.thuong-bang-hanh-dong.md` | in Vũ thích một cô gái, hoặc thương một người bạn |
-| `GRP.hoi-dong-nhi` | `group` | `agreed` | `world/groups/GRP.hoi-dong-nhi.md` | Ba người bạn thân của Nhi, nhóm chat *HĐQT 🎀*. Phản đối Thuyên vì gia thế không xứng; càng phá càng bất lực, càng có cảm tình. |
 | `GUIDE.invariants` | `guide` | `draft` | `guidelines/invariants.md` | Rules that always hold. Machine-checked ones name their check (`docs/framework/tooling.md`); the rest are checked by you before saying "d… |
 | `GUIDE.main` | `guide` | `draft` | `GUIDELINES.md` | Read this first in every session. It says how to work on the story. For what the system *is* (entities, ids, inheritance, tooling), look … |
 | `GUIDE.old-workflow` | `guide` | `superseded` | `quy-trinh.md` | Oct 25, 2026 · @aureliustran. Cách tác giả và Claude làm việc với nhau, theo từng loại việc. Kiến trúc nền: `kien-truc.md`. |
@@ -84,7 +83,7 @@ Có phần đầu (frontmatter): 216 file. Chưa chuyển sang khuôn mới (leg
 | `PAST.N-004` | `event` | `agreed` | `storylines/PAST/PAST.N/PAST.N-004.md` | Lượt 2, ngầm: bố mẹ chọn người có thể yêu Nhi một cách tự nhiên (Phong, con nhà đối tác của Astrea) và tạo điều kiện; Phong được xếp cạnh… |
 | `PAST.N-005` | `event` | `page` | `storylines/PAST/PAST.N/PAST.N-005.md` | *Hồng*: tự học; IELTS 5.5 → 6.0 → 6.5; tự để dành tiền mua máy ảnh phim cũ 2,4 triệu (cũ: 3/2025, nay 3/2023); cuộn đầu có tấm mẹ gỡ xươn… |
 | `PAST.N-006` | `event` | `agreed` | `storylines/PAST/PAST.N/PAST.N-006.md` | Shop và KOC lớn lên: bắt đầu từ lớp 10 bằng pass đồ, rồi nhập hàng, rồi handmade; tự làm mẫu. Một dòng (cũ N.5): món đồ đầu tiên cô bán, … |
-| `PAST.N.HD` | `node` | `agreed` | `storylines/PAST/PAST.N/PAST.N.HD/PAST.N.HD.md` | Phần hội đồng ([[GRP.hoi-dong-nhi]]) trong quá khứ của Nhi. Dừng ở 10/2024; từ đó trở đi là [[SOL.HD]] `locked 30/10`. Không có mức riêng… |
+| `PAST.N.HD` | `node` | `agreed` | `storylines/PAST/PAST.N/PAST.N.HD/PAST.N.HD.md` | Phần hội đồng trong quá khứ của Nhi. Định nghĩa hội đồng (thành viên, thước đo, luật) ở [[SOL.HD]]; node này đọc qua giao điểm [[X.PAST.N… |
 | `PAST.T` | `node` | `agreed` | `storylines/PAST/PAST.T/PAST.T.md` | Bảng neo: những gì đã xảy ra với Thuyên từ mầm non tới hết thực tập, mỗi neo sinh một hoặc vài niềm tin ([[CH.thuyen.beliefs]]) mà hiện t… |
 | `PAST.T-001` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-001.md` | Đếm bánh chưng; đếm đúng mà không ai tin. |
 | `PAST.T-002` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-002.md` | Tủ kính: tờ của chị họ đẩy tờ *tiên tiến* của anh vào trong. "Có tờ mới thì ra." |
@@ -133,7 +132,6 @@ Có phần đầu (frontmatter): 216 file. Chưa chuyển sang khuôn mới (leg
 | `SCH.event` | `schema` | `proposed` | `schemas/event.md` | The **leaf** of a storyline tree: the unit that decides content (what must be written, when, for which goal, under which laws, how). See … |
 | `SCH.function` | `schema` | `proposed` | `schemas/function.md` | A **mechanism** of one character, written like a function with a signature. An agent reads `in` and `when` to know when to call it, witho… |
 | `SCH.goal` | `schema` | `proposed` | `schemas/goal.md` | A goal of a node, decomposed down the tree. See [storylines](../../docs/framework/storylines.md#node). |
-| `SCH.group` | `schema` | `proposed` | `schemas/group.md` | A group of people and its crowd characters. |
 | `SCH.guide` | `schema` | `proposed` | `schemas/guide.md` | A guideline for agents: how to work. **Location:** `content/GUIDELINES.md` (entry) and `content/guidelines/**`. **Id:** `GUIDE.<name>`; t… |
 | `SCH.intersection` | `schema` | `proposed` | `schemas/intersection.md` | A **meeting of nodes**: a hyperedge, not a node. It sits outside the node tree and is **defined by its foreign keys**: two or more nodes,… |
 | `SCH.law` | `schema` | `proposed` | `schemas/law.md` | A law is an **entity of its own**, not a block of text. One law applies to some targets; a target is under several laws. Semantics (hiera… |
@@ -157,7 +155,7 @@ Có phần đầu (frontmatter): 216 file. Chưa chuyển sang khuôn mới (leg
 | `SELF.thuyen` | `node` | `agreed` | `storylines/SELF/SELF.thuyen/SELF.thuyen.md` | Làm chủ các thuộc tính nội tâm của [[CH.thuyen]] theo giai đoạn: `exl`, `cai-toi-doc`, `lang-kinh`, `cai-goi`, `luc-keo`, `luc-day`, và g… |
 | `SOL` | `node` | `proposed` | `storylines/SOL/SOL.md` | Gốc của các node `SOL.*`. Khung (T2, 10/11): chỉ có `weight` và `children`; mọi mục khác chờ chuyển. |
 | `SOL.DT` | `node` | `proposed` | `storylines/SOL/SOL.DT/SOL.DT.md` | Phòng trọ, bún riêu (đơn vị tiền), Casio, Crocs, ảnh aesthetic, Locket; phần hiện tại của ch.1–6; *Nước lạnh*; câu đùa thưa dần, thôi quy… |
-| `SOL.HD` | `node` | `proposed` | `storylines/SOL/SOL.HD/SOL.HD.md` | Ba ghế, biên bản, nghị quyết, "bàn cào móng"; đời thường phía Nhi, giao `ROM.TN` gần như mọi lần xuất hiện. Nhóm: [[GRP.hoi-dong-nhi]]. |
+| `SOL.HD` | `node` | `proposed` | `storylines/SOL/SOL.HD/SOL.HD.md` | Ba người bạn thân của Nhi, nhóm chat *HĐQT 🎀*. Phản đối Thuyên vì gia thế không xứng; càng phá càng bất lực, càng có cảm tình. Ba ghế, b… |
 | `SOL.SAN` | `node` | `proposed` | `storylines/SOL/SOL.SAN/SOL.SAN.md` | Pickup, Linh "mana", anh Long, Hưng, Quân; chia tiền sân → bao cả sân (biến chất) (`de-xuat/cay-tuyen.md`). |
 | `SOL.VU` | `node` | `proposed` | `storylines/SOL/SOL.VU/SOL.VU.md` | Cột rổ, "Thích thì nói mẹ nó đi", "Mày đang lùi đấy à?", rạn nứt, sáng sớm làm lành. Thiết kế lại Vũ `locked 30/10` (buổi thảo luận QK); … |
 | `SPEC.adr-001` | `spec` | `agreed` | `docs/framework/adr/ADR-001-story-framework.md` | Before the framework (state of early November 2026): |
@@ -199,6 +197,7 @@ Có phần đầu (frontmatter): 216 file. Chưa chuyển sang khuôn mới (leg
 | `X.FAM.T+SOL.DT+THR.MODEL-001` | `occasion` | `proposed` | `storylines/intersections/X.FAM.T+SOL.DT+THR.MODEL/X.FAM.T+SOL.DT+THR.MODEL-001.md` | **Khung** (T2, 10/11). Lần giao thứ 1 của giao điểm [[X.FAM.T+SOL.DT+THR.MODEL]] (mã cũ `X-016`). Theo khuôn, lần giao không giữ tình tiế… |
 | `X.FAM+PAST+ROM+SOL+THR` | `intersection` | `proposed` | `storylines/intersections/X.FAM+PAST+ROM+SOL+THR/X.FAM+PAST+ROM+SOL+THR.md` | Định nghĩa bằng 5 khóa ngoại (`nodes`). Các lần giao nằm trong thư mục này, đánh số tăng dần theo thứ tự xuất hiện. |
 | `X.FAM+PAST+ROM+SOL+THR-001` | `occasion` | `proposed` | `storylines/intersections/X.FAM+PAST+ROM+SOL+THR/X.FAM+PAST+ROM+SOL+THR-001.md` | **Khung** (T2, 10/11). Lần giao thứ 1 của giao điểm [[X.FAM+PAST+ROM+SOL+THR]] (mã cũ `X-018`). Theo khuôn, lần giao không giữ tình tiết;… |
+| `X.PAST.N.HD+SOL.HD` | `intersection` | `proposed` | `storylines/intersections/X.PAST.N.HD+SOL.HD/X.PAST.N.HD+SOL.HD.md` | Định nghĩa bằng 2 khóa ngoại (`nodes`). [[SOL.HD]] định nghĩa hội đồng; [[PAST.N.HD]] đọc định nghĩa ấy qua giao điểm này (`share`), cùng… |
 | `X.PAST.N+ROM.TN+THR.LAB` | `intersection` | `proposed` | `storylines/intersections/X.PAST.N+ROM.TN+THR.LAB/X.PAST.N+ROM.TN+THR.LAB.md` | Định nghĩa bằng 3 khóa ngoại (`nodes`). Các lần giao nằm trong thư mục này, đánh số tăng dần theo thứ tự xuất hiện. |
 | `X.PAST.N+ROM.TN+THR.LAB-001` | `occasion` | `proposed` | `storylines/intersections/X.PAST.N+ROM.TN+THR.LAB/X.PAST.N+ROM.TN+THR.LAB-001.md` | **Khung** (T2, 10/11). Lần giao thứ 1 của giao điểm [[X.PAST.N+ROM.TN+THR.LAB]] (mã cũ `X-004`). Theo khuôn, lần giao không giữ tình tiết… |
 | `X.PAST.T+ROM.PN+ROM.TN` | `intersection` | `proposed` | `storylines/intersections/X.PAST.T+ROM.PN+ROM.TN/X.PAST.T+ROM.PN+ROM.TN.md` | Định nghĩa bằng 3 khóa ngoại (`nodes`). Các lần giao nằm trong thư mục này, đánh số tăng dần theo thứ tự xuất hiện. |

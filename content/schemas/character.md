@@ -12,7 +12,7 @@ sources: [kien-truc-framework.md §5]
 
 A **static** entity (dimension table). Values over time live in nodes (`storylines/`), not here.
 
-**Location:** `world/characters/<id>/` (a package). **Id:** `CH.<id>`. Crowd characters are rows in `world/groups/<group>.md` and have no package.
+**Location:** `world/characters/<id>/` (a package). **Id:** `CH.<id>`. Crowd characters are rows in the `members` section of the node that owns them (e.g. `SOL.HD`) and have no package.
 
 ## Package
 

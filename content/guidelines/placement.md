@@ -23,7 +23,7 @@ Ask the questions in order; the first "yes" decides. Ids: `docs/framework/ids.md
 | 10 | what a character *is* (identity, purpose, attribute and its value set, base voice) | the character package | `CH.<id>`, sections |
 | 11 | how a character *works* (a mechanism with triggers) | `mechanics/` in the package | `FN.<id>.<name>` |
 | 12 | a belief a character holds | `CH.<id>.beliefs.md` | `BL-NNN` |
-| 13 | a group, place, object, secret | `world/groups/`, `settings/`, `objects/`, `secrets/` | `GRP.`, `SET.`, `OBJ-NNN`, `SEC-NNN` |
+| 13 | a place, object, secret (a group is a node: its definition and members live in the node that owns it, e.g. `SOL.HD`) | `world/settings/`, `objects/`, `secrets/` | `SET.`, `OBJ-NNN`, `SEC-NNN` |
 | 14 | a value of an attribute at a time, a relation state | the owner node (`state`, `relation`), never the character | — |
 | 15 | something that happens | an event leaf under its node | `<node>-NNN` |
 | 16 | an occasion several nodes share | `storylines/intersections/` | `X-NNN` |

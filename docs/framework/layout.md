@@ -30,7 +30,7 @@ content/
 ├── core/                  L1 · axes · scales · shared mechanics · constitution/ART.<AX>.md
 ├── rules/<aspect>/        L1.5 · LAW.<aspect>.*.md ; rules/check/ structural laws
 ├── lib/                   L1.5 · registers/ · <aspect>/TEC.* · patterns/
-├── world/                 L2 · characters/<id>/ · groups/ · settings/ · objects/ · secrets/
+├── world/                 L2 · characters/<id>/ · settings/ · objects/ · secrets/
 ├── storylines/            L3 · README.md (TREE) · SELF/ PAST/ ROM/ THR/ SOL/ FAM/
 │   ├── <ROOT>/<ROOT>.md                       every node is a folder named by its id
 │   ├── <ROOT>/<NODE>/<NODE>.md                child node = subfolder of its parent
