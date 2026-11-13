@@ -2,6 +2,8 @@
 
 Oct 18, 2026 · @aureliustran. Trạng thái: **khung đã chốt với tác giả (18/10), chưa sửa chương.** Cập nhật 19/10: định nghĩa lại lăng kính và năng lực đọc người theo plan sửa ch.2–5; bỏ hẳn việc đọc nét mặt, tiếng dép, tiếng bát, vai bố. Cập nhật 04/11: §3c lăng kính dùng để làm gì (`_archive/tuyen/qua-khu/thuyen-lang-kinh.md`).
 
+**Ghi đè 13/11 (tác giả):** những chỗ lệch với gói niềm tin [[CH.thuyen.beliefs]] được ghi đè theo niềm tin, vì niềm tin mô tả tốt hơn và có logic hơn. Mỗi chỗ mang nhãn `ghi đè 13/11` và mã niềm tin. Khi hai bên khác nhau, gói niềm tin thắng. Số chương cũ, bảng việc và các dòng về Vy (đã bỏ 27/10) giữ nguyên làm lịch sử.
+
 Phạm vi: toàn Phần 1 (ch.2–56). Đây là module gốc: tẩm độc, được gì – ai mất gì, motif báo thù đều là hệ quả của nó.
 
 ## 1. Cấu trúc (bốn tầng)
@@ -10,10 +12,10 @@ Phạm vi: toàn Phần 1 (ch.2–56). Đây là module gốc: tẩm độc, đ�
 | --- | --- | --- |
 | **Lăng kính khách quan** | Cách nhìn: tư duy đa chiều, thấy rõ ưu – khuyết của mọi thứ, kể cả của chính mình; lệch về phía tiêu cực. Dữ kiện đầu tiên nó nhặt là lỗ hổng trong lập luận của người khác. Mặt hành động là **đọc người**: năng lực quan sát bẩm sinh, thời cấp 2 chuyển hóa thành ứng biến bằng ngôn ngữ kết hợp tư duy logic (mục 3a) | Hình thành cuối lớp 7, từ những trận cãi; sắc dần đến lớp 11 |
 | **Hệ giá trị tự sửa** | Cách chấm: khuyết thì phải sửa; sửa xong mới được đứng yên | Lăng kính quay vào chính mình; kết tinh ở lớp 11 |
-| **Động cơ** | Bề mặt: thành kẻ mạnh, thị uy với thế giới (motif báo thù). Sự thật: chạy trốn cái nhãn *kẻ thất bại* mà chính anh gán cho mình | Lớp 11–12, lộ dần ở lab |
+| **Động cơ** | Bề mặt: thành kẻ mạnh, thị uy với thế giới (motif báo thù). Bên dưới là hai lực (`ghi đè 13/11`): lực kéo là phiên bản của mình ở cuối đường (B.thuyen-034, anh không nhìn thấy); lực đẩy là tự chọn nỗi đau có lợi nhất cho mình (B.thuyen-029). Cái nhãn *kẻ thất bại* không phải gốc của động cơ: nó là cái giá hiện ra khi không còn lộ trình (B.thuyen-035) | Lớp 11–12, lộ dần ở lab |
 | **Kỹ năng phòng vệ** | Tầm nhìn dài hạn, học như một kỹ năng chống lại chính mình: luôn có một thứ rõ ràng ở phía trước để bắt mình chạy | Đại học → lab; nâng cấp ở ch.40 |
 
-Người ngoài nhìn thấy chí cầu tiến. Thuyên nhìn thấy mình đang tìm một thứ gì đó ở phía trước để khỏi phải đứng lại.
+Người ngoài nhìn thấy chí cầu tiến. Thuyên đọc khoảng trống sau mỗi thành tích là dấu hiệu phải đặt mục tiêu lớn hơn (B.thuyen-007, `ghi đè 13/11`); anh không nhìn thấy phiên bản ở cuối đường đang kéo mình (B.thuyen-034).
 
 ## 2. Các tiên đề của hệ giá trị
 
@@ -21,12 +23,12 @@ Người ngoài nhìn thấy chí cầu tiến. Thuyên nhìn thấy mình đang
 2. **Khuyết là thứ chặn đường đã chọn, và phải sửa.** Thứ không chặn đường nào thì bỏ qua.
    - Các môn học thuộc: kết quả gần như bằng không, không ai quan tâm, kiến thức chỉ dùng để xét đầu vào các cuộc thi quan trọng. Nên bị loại.
    - Việc loại diễn ra **vô thức**. Anh cảm thấy là mình "không học được" (đầu óc trôi như cái lá trên mặt bể). Thực tế là các môn ấy không hợp với cách anh tư duy: muốn thích nghi phải tốn năng lượng, mà kết quả không cân xứng với công sức. Lăng kính đã chạy phép tính chi phí – lợi ích dưới ngưỡng ý thức.
-   - Bố mẹ bảo giải quốc gia mới đáng khoe → anh nhận định đó là khuyết → đỗ giải là "sửa".
+   - Lộ trình và vạch đích do cái cân của anh chọn, không lấy từ thước của bố mẹ (`ghi đè 13/11`, B.thuyen-024, B.thuyen-034): giải quốc gia là mục tiêu anh tự đặt ở lớp 11, và khuyết là thứ chặn mục tiêu ấy. Chỉ trước lớp 6, khi chưa có cái cân, anh mới đuổi theo vạch của người khác. Bản cũ: "bố mẹ bảo giải quốc gia mới đáng khoe → anh nhận định đó là khuyết".
 3. **Sửa xong thì được đứng yên một chút. Không còn gì để sửa nghĩa là mình là kẻ thất bại.** Chưa có mục tiêu tức là đang khuyết. Lúc rảnh, đầu óc trôi mông lung, và cái nhãn quay về.
-4. **Cảm giác mông lung cản trở việc, nên nó cũng là một khuyết.** Bản vá là không bao giờ để mình rảnh, là luôn có mục tiêu kế tiếp. Lăng kính đủ sáng để thấy triệu chứng, nhưng công cụ duy nhất anh có là sửa.
+4. **Cảm giác mông lung cản trở việc, nên nó cũng là một khuyết.** Bản vá là không bao giờ để mình rảnh, là luôn có mục tiêu kế tiếp. Lăng kính đủ sáng để thấy triệu chứng, nhưng công cụ duy nhất anh có là sửa. Bên dưới tiên đề 2–4 là hiệu ứng không ngồi yên được ([[FN.thuyen.adhd]]); tiên đề là lời giải thích khoác lên hiệu ứng ấy (B.thuyen-035).
 
 **Điểm mù:**
-- Anh không bao giờ đặt câu hỏi về cây thước (cái nhãn *kẻ thất bại*), vì hỏi thước không phải là một thao tác sửa. Cây thước là bố mẹ đưa, nhưng anh tưởng là khách quan.
+- `ghi đè 13/11` (B.thuyen-030): anh thấy rõ thước của người lớn là chủ quan, nằm ở người cầm thước, và tự miễn cho cái cân của mình. Thứ anh không thấy là ai đặt mục tiêu cho chính cái cân ấy: vạch đích có bàn tay của nỗi sợ góp vào (B.thuyen-034, [[ART.AX3]]). Bản cũ: "anh không bao giờ đặt câu hỏi về cây thước; cây thước là bố mẹ đưa, nhưng anh tưởng là khách quan".
 - Thứ không kêu thành tiếng thì không phải chỗ kẹt. Đã có trên trang, ch.7: "một cái nhìn không kêu thành tiếng thì chưa phải là chỗ kẹt" (cái nhìn của Mai). Cảm xúc, của người khác và của chính anh, rơi vào điểm mù này.
 
 ## 3. Quá trình phát triển (viết theo lăng kính)
@@ -54,7 +56,7 @@ Mỗi giai đoạn lăng kính sắc thêm một nấc, và hệ giá trị dự
 - **Lời kể không tả hành vi quan sát** (không tiếng dép, tiếng bát, vai bố). Năng lực chỉ lộ ra qua cái anh nói và cái anh nghe ra.
 - **Thang:** ch.2 thô (xếp bạn) → ch.3 phản xạ ngôn ngữ, khai thác lỗ hổng → ch.4 đo → ch.5 kiểm chứng → lớp 11 cái thang xếp hạng người → đại học đọc người để gỡ → lab đấu trí dưới chuyện phiếm.
 - **Gốc của giọng mỉa và ragebait:** trong mạch truyện chính, phần lớn sự mỉa mai và trò ragebait của Thuyên có nguồn gốc ở những trận cãi cấp 2 này. Câu vặn với bố mẹ là tổ tiên của mọi câu chọc ngoáy về sau. Viết ở mạch chính có thể gọi lại nhịp ấy, không giải thích.
-- **Điểm mù giữ nguyên:** anh cãi cách chấm, không cãi cây thước.
+- **Điểm mù** (`ghi đè 13/11`, B.thuyen-030): anh cãi được cả cây thước của người khác; thứ anh không soi là cái cân của chính mình.
 
 ### 3b. Lười có chọn lọc, chăm có mục đích (chốt 19/10)
 
@@ -93,7 +95,7 @@ Lớp 11 và GĐ2 → GÃY là cùng một chuỗi, khác độ tinh vi. Khí th
 ## 4. Hai lớp động cơ
 
 - **Bề mặt, cho người đọc thấy ở giai đoạn 2:** báo thù, thị uy. Thang 9 nấc nằm trong module tẩm độc, mục 0.5.
-- **Sự thật, lộ ra ở đổ vỡ:** chạy trốn cái nhãn *kẻ thất bại*. Báo thù là thứ "rõ ràng ở phía trước" mà anh tự dựng ra, chọn vì nó đủ to để không bao giờ chạy hết.
+- **Bên dưới, lộ ra ở đổ vỡ** (`ghi đè 13/11`): hai lực. Lực kéo có ở mọi thời điểm: phiên bản của mình ở cuối đường, vạch chuyển theo mục tiêu của anh (B.thuyen-034, B.thuyen-007). Lực đẩy có ở lúc cực đoan: tự chọn nỗi đau có lợi nhất cho mình, do nỗi sợ lại thành người đau cho lợi ích của kẻ khác cầm lái (B.thuyen-029). Báo thù là mục tiêu đang đặt vạch ở giai đoạn 2, đủ xa để không bao giờ chạy hết. Sự công nhận là tấm khiên bác bỏ mọi lời phán xét, không phải đường tới tình thương (B.thuyen-024, [[FN.thuyen.cai-toi]]). Cái nhãn *kẻ thất bại* là cái giá khi không còn lộ trình (B.thuyen-035). Bản cũ: "sự thật là chạy trốn cái nhãn *kẻ thất bại*".
 - **Người ngoài đọc sai:** lão, Khải, cả lab thấy chí cầu tiến. Người đọc đúng là phụ nữ: Diệp Anh ("Em giỏi việc đấy. Đấy là cái em sợ.") và, về sau, Nhi, người đầu tiên thấy anh đang chạy trốn chứ không phải chạy tới.
 
 ## 5. Luật viết
@@ -106,7 +108,7 @@ Lớp 11 và GĐ2 → GÃY là cùng một chuỗi, khác độ tinh vi. Khí th
    Bản rà soát đã báo ch.31–38 vượt trần câu tự soi.
 2. **Cảnh rảnh là cảnh đau.** Chỉ cần một hai câu: đầu óc trôi, rồi bàn tay tự tìm việc. Được dùng thẳng chữ của hệ giá trị (*khuyết, sửa, đủ, kẻ thất bại, phía trước*), không cần paraphrase, xem rules mục *Tự thoại hiện sinh*.
 3. **Lăng kính sáng đều; cái thay đổi là hướng nó quay:** vào mình (lớp 11), vào người yêu (Vy), ra nhóm (đại học), vào bàn cờ (lab), vào khuyết của người khác (giai đoạn 2).
-4. **Anh dùng chữ "thước", nhưng không truy ra ai đặt nó trước đổ vỡ.** Anh được thấy triệu chứng, được gọi tên khuyết, không được thấy gốc.
+4. **Anh gọi được tên cây thước của người khác và biết nó nằm ở người cầm (B.thuyen-030); trước đổ vỡ anh không truy ra ai đặt vạch đích cho cái cân của chính mình** (`ghi đè 13/11`). Anh được thấy triệu chứng, được gọi tên khuyết, không được thấy phiên bản ở cuối đường (B.thuyen-034, `seen: khong`).
 5. **Giữ đối trọng:** hài, vụng việc nhỏ (khâu cúc, cơm khê), lăng kính tắt trên sân bóng.
 
 ## 6. Danh sách việc
@@ -129,13 +131,13 @@ Cắt: không có. Ch.7 đã viết gần đủ tầng đại học; việc ở 
 
 ## 7. Nỗi đau không được thấu cảm (bổ sung 18/10)
 
-Hệ giá trị khiến anh luôn coi mình là kẻ thất bại. Nỗi đau ấy phải hiện lên trang như một **sự đau khổ không ai thấu cảm**, và có nguyên nhân rõ: bố mẹ.
+Hệ giá trị khiến anh luôn thấy mình chưa tới: mỗi cột mốc đạt được chỉ cho thấy quãng đường còn lại (B.thuyen-034, `ghi đè 13/11`); cái nhãn *kẻ thất bại* quay về khi không còn lộ trình (B.thuyen-035). Nỗi đau ấy phải hiện lên trang như một **sự đau khổ không ai thấu cảm**, và có nguyên nhân rõ: bố mẹ.
 
 ### 7.1 Cơ chế méo: đa chiều bị ép vào nhị nguyên
 
 - **Lăng kính của Thuyên đa chiều:** thấy nhiều mặt, cân nhiều trọng số. **Khuôn của gia đình nhị nguyên, cảm tính, chủ quan:** giỏi/kém, đủ/không đủ, môn chính/môn phụ, "Nhà nước cho đi"/"tự bỏ nhà mà đi", "học thì được, mà người thì như cục đất".
 - Phải sống trong khuôn ấy, cái đa chiều không mất đi mà **méo**. Anh vẫn phân tích được mười mặt, nhưng kết luận cuối luôn sập về một ô: *chưa đủ*. Lăng kính thiên lệch hẳn về phía tiêu cực.
-- **Kỹ thuật trên trang: danh sách hai cột.** Anh liệt kê được cả ưu lẫn khuyết, rồi bỏ qua nguyên cột ưu. Phần phân tích thì dài, phán quyết thì chỉ một chữ. Cái chữ ấy là giọng bố mẹ. Ch.5 đã có mầm: "Danh sách thứ hai dài hơn danh sách thứ nhất."
+- **Kỹ thuật trên trang: danh sách hai cột.** Anh liệt kê được cả ưu lẫn khuyết, rồi bỏ qua nguyên cột ưu. Phần phân tích thì dài, phán quyết thì chỉ một chữ. Chữ ấy do cái cân của anh phát ra, không còn là giọng bố mẹ (`ghi đè 13/11`, B.thuyen-034, B.thuyen-007): vạch chuyển theo mục tiêu của anh, và bàn tay đặt vạch có cả nỗi sợ của những năm cây roi ([[ART.AX3]]). Ch.5 đã có mầm: "Danh sách thứ hai dài hơn danh sách thứ nhất."
 
 ### 7.2 Bố mẹ yêu con bằng cách biến con thành người giỏi
 
@@ -144,7 +146,7 @@ Hệ giá trị khiến anh luôn coi mình là kẻ thất bại. Nỗi đau �
   - bố từng chăn trâu (ch.2, đêm Sao Hôm): học là đường thoát;
   - tủ kính của mẹ là bằng chứng trước cả xóm.
 - Họ không phải phản diện. Gia đình công chức, có điều kiện, có học, nhưng không có ngôn ngữ của tâm lý học. Muốn giãi bày để nhận được đồng cảm thì không có từ nào để nói, ở cả hai phía.
-- **Tình thương trên trang luôn là vật chất, không bao giờ là lời:** cái Casio, túi ruốc, túi thuốc cảm, cuộc gọi đúng 8 giờ, áo phao, cái xe. Thuyên đọc được cả tình thương ấy, và vẫn đau. Đó mới là chỗ đau.
+- **Tình thương trên trang luôn là vật chất, không bao giờ là lời:** cái Casio, túi ruốc, túi thuốc cảm, cuộc gọi đúng 8 giờ, áo phao, cái xe. Thuyên nhìn thấy từng món, và gán chúng cho thói quen, sự tiện tay (B.thuyen-004, `ghi đè 13/11`): nhận đó là tình thương thì phải nhìn vào nhu cầu được thương, thứ anh không nhìn (cụm C7). Món nào không gạt đi được thì thành một khoản nợ (B.thuyen-017). Đó mới là chỗ đau.
 
 ### 7.3 Năng lực thật đến từ chống đối cái chuẩn
 
@@ -155,7 +157,7 @@ Mọi năng lực thật của anh đều lớn lên trong khe hở của cái c
 - chọn Đại học Công nghệ, trái ý Học viện Tài chính;
 - đọc người: năng lực quan sát bẩm sinh, mài thành phản xạ ngôn ngữ trong những trận cãi với chính bố mẹ (mục 3a). Giọng mỉa của anh về sau mọc từ đây.
 
-Cái chuẩn chỉ đẻ ra giấy khen; chính anh đẻ ra mình. Trớ trêu là anh không nhận được công cho những năng lực ấy, vì chúng mọc ra từ phản kháng. Đến cái giỏi của mình anh cũng thấy như của ăn cắp: giấu, xóa lịch sử, thư mục *sau-nay*.
+Cái chuẩn chỉ đẻ ra giấy khen; chính anh đẻ ra mình. Trớ trêu là anh không nhận được công cho những năng lực ấy, vì chúng mọc ra từ phản kháng. Anh giấu chúng, nhưng không phải vì thấy chúng như của ăn cắp (`ghi đè 13/11`): giấu là mẹo hai tờ nháp, bản thật giữ theo chuẩn của mình (B.thuyen-005); thứ mình yêu không có chỗ trong thước của người khác thì cất đi hoặc khoác một công dụng (B.thuyen-002); thư mục *sau-nay* là nơi không có bảng xếp hạng, hoãn lại tới khi mình đủ (B.thuyen-018). Với cái cân, những năng lực này là chỗ anh đứng thẳng (B.thuyen-021).
 
 ### 7.4 Ba lần cãi: một cái thang
 
@@ -180,11 +182,11 @@ Song song với chuỗi "dùng sự thấu hiểu để làm đau người thư�
 
 ### 7.6 Không được thấu cảm, và tự phủ nhận
 
-- **Không có từ để nói:**
+- **Không nói** (`ghi đè 13/11`, B.thuyen-022, B.thuyen-008, B.thuyen-014): phía bố mẹ là thiếu từ (7.2); phía anh là một lựa chọn. Thứ anh chia sẻ từng bị dùng để làm anh đau, nên anh tỏ ra vô cảm; sự thật bên trong không phải thứ người khác cần; lộ nỗi đau ra thì người ta đi. Trên trang:
   - ch.3, bài trắc nghiệm trên mạng rồi xóa lịch sử;
   - ch.6, Vy hỏi thì anh không tìm được chuyện nào kể được;
   - ch.7 đã có câu chốt: "không có cách nào nói ra mà nghe không giống một câu chuyện buồn".
-- **Tự phủ nhận: "chắc ai cũng thế".** Bạn chuyên ai cũng có bố mẹ gọi tám giờ hỏi điểm. Bố Vũ chỉ nhắn "tháng này nộp tiền điện chưa" (ch.30) mà Vũ vẫn cười. Anh Long, thằng Tú vẫn sống ổn. Vậy thì buồn là lỗi của mình.
+- **Tự phủ nhận: "chắc ai cũng thế"** (phủ nhận cái thiếu bằng một danh sách bằng chứng, B.thuyen-025). Bạn chuyên ai cũng có bố mẹ gọi tám giờ hỏi điểm. Bố Vũ chỉ nhắn "tháng này nộp tiền điện chưa" (ch.30) mà Vũ vẫn cười. Anh Long, thằng Tú vẫn sống ổn. Vậy thì buồn là lỗi của mình.
 - **Vòng khép với hệ giá trị:** chính nỗi buồn bị xếp vào loại khuyết. Khuyết thì phải sửa, mà sửa bằng cách không buồn, tức là chạy tiếp.
 - **Luật viết:** mỗi khi anh tới gần chỗ thương thân, lý lẽ "ai cũng thế" cắt ngang. Lời kể không bao giờ an ủi anh. Người đọc là người duy nhất thấu cảm, và vì vậy đau hơn.
 
@@ -285,7 +287,7 @@ Anh lập bảng giá cho từng người quanh mình: lão, Diệp Anh, Khải,
 
 - **Bảng giá khớp với những gì vừa xảy ra.** Diệp Anh bán anh đúng ở mức giá cô đặt cho mình. Lão đứng được vì người khác tin. Blacklist là cả thị trường định giá lại anh trong một đêm. Danh tiếng của anh là tiền giấy không neo: thành tích còn, nhưng phần vàng (danh dự) đã tiêu hết trong giai đoạn 2. Mất neo nên mất giá.
 - **Điều anh không muốn chấp nhận: mình có thể định nghĩa người khác.** Giá trị của một người là thứ có thể được đặt ra. Vậy thì:
-  1. **Cây thước lộ ra.** Cái nhãn *kẻ thất bại* cũng chỉ là một mức giá bố mẹ đặt, và anh đã đồng ý tin. Luật "anh không truy ra ai đặt cây thước trước đổ vỡ" (mục 5, luật 4) được trả ở đây.
+  1. **Cái cân lộ ra** (`ghi đè 13/11`, B.thuyen-030, B.thuyen-034; cần tác giả xem lại vì đây là nhịp của đổ vỡ). Thước của bố mẹ thì anh đã biết là chủ quan từ lâu. Thứ lộ ra ở đây là cái cân của chính anh cũng có người đặt vạch: phiên bản ở cuối đường, do khát vọng và nỗi sợ cùng đặt. Luật 4 (mục 5) được trả ở đây. Bản cũ: "cây thước lộ ra; cái nhãn *kẻ thất bại* chỉ là một mức giá bố mẹ đặt, và anh đã đồng ý tin".
   2. **Anh đã thành người định giá người khác:** lão, Khải, cái tầng mười tám. Bên kia của tủ kính.
   3. **Anh có thể định nghĩa chính mình,** và chưa biết định nghĩa thành gì. Không còn mục tiêu kế tiếp, không còn cây thước để chạy theo. Đây là đáy (R7), và là cửa sang chẩn đoán và Phần 2.
 - **Giọng:** đoạn này là đỉnh của tự thoại hiện sinh. Người kể dùng thẳng chữ của hệ giá trị và chữ của tiền (*mỏ neo, giá, lời hứa, vàng, đất, khuyết, đủ*), lạnh như bảng liệt kê (R5). Câu cuối không được an ủi.

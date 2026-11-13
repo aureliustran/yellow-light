@@ -82,10 +82,13 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 - [ ] **ch.3**: cảnh mẹ khen Nam; câu gối nói ở ch.2–3.
 
 - [ ] **B.thuyen-004 độc thoại lớp 4** dựa vào phương trình đã bỏ (`needs-decision`).
+- [x] **`M-he-gia-tri.md` ghi đè theo niềm tin** (13/11, tác giả): 16 chỗ lệch được ghi đè theo [[CH.thuyen.beliefs]] (động cơ hai lực 034 và 029; điểm mù theo 030; vạch do cái cân đặt; tình thương bằng vật theo 004 và 017; giấu năng lực theo 005, 002, 018; im lặng là lựa chọn theo 022, 008, 014). Mỗi chỗ mang nhãn `ghi đè 13/11`. §8.2 điểm 1 (đổ vỡ: "cái cân lộ ra") chờ tác giả xem lại.
+- [x] **PAST hiện tại sẽ bỏ** (13/11, tác giả): PAST được viết lại từ đầu; nội dung PAST hiện có không sửa tiếp, giữ tới khi bản mới thay.
 
 ## C. Còn mở: Claude làm khi tác giả bảo
 
-- [ ] **Viết lại PAST.T**: rà TB-16 / DV-016, DV-009, PAST.T-006 theo việc bỏ phương trình; (tác giả sẽ viết lại): thêm lá theo bảng `handoffs` của FAM.T; gọn 987 dòng văn bản chuyển nguyên.
+- [ ] **Kiến trúc trục → niềm tin → value system** (đề xuất 13/11, chưa duyệt): trục do tác giả định nghĩa; niềm tin thiết kế từ trục; value system dùng khi nhân vật quay ra ngoài; vòng niềm tin → value → hành động → kết quả → tự soi → niềm tin mới. Còn chờ: một hệ mỗi nhân vật hay nhiều value rời; mã `V.<id>-NNN`.
+- [ ] **Viết lại PAST** (13/11: bỏ PAST hiện tại, viết lại theo mục tiêu "PAST dựng niềm tin để nhân vật dùng ở hiện tại"). Ghi chú cũ cho PAST.T: rà TB-16 / DV-016, DV-009, PAST.T-006 theo việc bỏ phương trình; (tác giả sẽ viết lại): thêm lá theo bảng `handoffs` của FAM.T; gọn 987 dòng văn bản chuyển nguyên.
 - [ ] **FAM.T**: tạo hai lá hiện tại (cuộc gọi bốn phút mười hai giây, áo sơ mi trắng); P1 → AFTER (giỗ ông và lời khoe 50 triệu, chiến tranh lạnh, trị liệu gia đình) chưa có nguồn.
 - [ ] **ROM.TN B4c**: chuyển BRIEF, KHO, RR; tách Phong sang ROM.PN, Diệp Anh sang ROM.TD; đánh lại số lá theo ngày; nối `goal`.
 - [ ] **Node khung**: THR.*, SOL.SAN, SOL.DT, FAM.N, PAST.DA, PAST.K.
