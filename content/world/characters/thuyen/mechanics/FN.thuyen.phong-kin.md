@@ -2,8 +2,11 @@
 id: FN.thuyen.phong-kin
 kind: function
 status: agreed
-updated: 2026-11-10
+updated: 2026-11-13
 parent: "[[CH.thuyen.mechanics]]"
+type: method
+from:
+  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-010]]"
 aliases: [fn.thuyen.phong-kin, phòng kín, cái tôi độc ở đại học]
 sources:
   - "_archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §4.1–4.6, §6"
@@ -37,3 +40,7 @@ render    luật viết §6; DV-008 (bóc vỏ)
 ## detail
 
 `thuyen-cai-toi-doc-co-che.md` §4.1–4.6, §6; kỹ thuật cảnh thể thao §4.7 → `lib/` (B7); chửi §4.8 → `rules/swearing/` (B4).
+
+## chain `13/11`
+
+Method của [[CH.thuyen.values#V.thuyen-010]]. Nhận phần cách đối phó của B.thuyen-032 (giữ ý nghĩ độc trong phòng kín, miễn đầu ra sạch); phần khẳng định ở lại niềm tin.

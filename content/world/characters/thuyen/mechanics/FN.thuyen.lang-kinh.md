@@ -2,8 +2,9 @@
 id: FN.thuyen.lang-kinh
 kind: function
 status: locked
-updated: 2026-11-10
+updated: 2026-11-13
 parent: "[[CH.thuyen.mechanics]]"
+type: innate
 aliases: [fn.thuyen.lang-kinh, lăng kính, đọc người]
 sources:
   - "_archive/tuyen/qua-khu/thuyen-lang-kinh.md §1–4"
@@ -39,3 +40,7 @@ render    khối R10 khi tính, R4 khi bắn (tên lửa); R8, R9 (khí thải);
 ## detail
 
 `thuyen-lang-kinh.md` §1–4 (bảng §3.4); `M-he-gia-tri.md` §3a, §3c; thang theo lớp: `M-he-gia-tri.md` §3 (bảng còn số chương cũ).
+
+## chain `13/11`
+
+Kiểu `innate`. Tên lửa, khí thải và răn nằm trong file này là method (cách dùng lăng kính), chưa tách thành hàm riêng: việc còn mở.

@@ -2,7 +2,7 @@
 id: CH.thuyen.mechanics
 kind: character
 status: agreed
-updated: 2026-11-10
+updated: 2026-11-13
 aliases: [co-may-thuyen, cỗ máy hiện sinh]
 exports: []
 parent: "[[CH.thuyen]]"
@@ -51,6 +51,21 @@ Bản đầy đủ: `_archive/tuyen/qua-khu/thuyen-co-may.md` §2 (nguồn cho t
 | [[FN.thuyen.nang-khieu]] | nhìn ra lõi, học bằng liên kết | `thuyen-hai-cai-toi` §15 |
 | [[FN.thuyen.luoi-co-chon-loc]] | lười có chọn lọc, chăm có mục đích | `M-he-gia-tri` §3b; `01-rules-viet` |
 | [[FN.thuyen.quan-su]] | giỏi việc người, mù việc mình | B.thuyen-015 (NT-15); `_archive/tuyen/sl/vu.md` §2 |
+| [[FN.thuyen.hai-to-nhap]] | hai sản phẩm: bản trình nộp, bản thật | B.thuyen-005, B.thuyen-008 (13/11) |
+| [[FN.thuyen.di-vong]] | không đối đầu, đi đường vòng | B.thuyen-006 (13/11) |
+| [[FN.thuyen.hoi-chon-loc]] | tự tìm trước; chọn người, soạn trước chuỗi câu hỏi | B.thuyen-026 (13/11) |
+| [[FN.thuyen.vo-cam]] | tỏ ra vô cảm | B.thuyen-022 (13/11) |
+| [[FN.thuyen.gat-tinh-thuong]] | gán tình thương cho thói quen | B.thuyen-004 (13/11) |
+
+## Kiểu hàm `locked 13/11`
+
+Chuỗi: trục → niềm tin → value → tactics → method. Một hành động trong tình tiết được dựng từ nhiều hàm, cả `innate` lẫn `method` (`schemas/function.md`).
+
+| Kiểu | Hàm |
+| --- | --- |
+| `innate` (bẩm sinh, không sinh từ value) | adhd, nang-khieu, lang-kinh |
+| `method` (cách đối phó, trỏ về value) | teu, phong-kin, cai-goi, quan-su, luoi-co-chon-loc, hai-to-nhap, di-vong, hoi-chon-loc, vo-cam, gat-tinh-thuong |
+| chưa xếp (bộ phận của cỗ máy: đầu vào, bộ chuyển đổi, động cơ, nhiên liệu) | thieu, phuong-trinh, cai-toi, nhien-lieu |
 
 ## Thiết bị trên trang (DV-, cũ TB-) `locked 28/10`
 

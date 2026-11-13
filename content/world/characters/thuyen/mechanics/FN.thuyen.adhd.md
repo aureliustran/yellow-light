@@ -2,8 +2,9 @@
 id: FN.thuyen.adhd
 kind: function
 status: agreed
-updated: 2026-11-10
+updated: 2026-11-13
 parent: "[[CH.thuyen.mechanics]]"
+type: innate
 aliases: [fn.thuyen.adhd, ADHD]
 sources:
   - "_archive/tuyen/qua-khu/thuyen-adhd.md §4, §5, §5b, §7"

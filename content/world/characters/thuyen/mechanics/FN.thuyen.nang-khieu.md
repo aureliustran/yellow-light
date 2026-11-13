@@ -2,8 +2,9 @@
 id: FN.thuyen.nang-khieu
 kind: function
 status: proposed
-updated: 2026-11-10
+updated: 2026-11-13
 parent: "[[CH.thuyen.mechanics]]"
+type: innate
 aliases: [fn.thuyen.nang-khieu, năng khiếu, nhìn ra lõi]
 sources:
   - "_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §15"

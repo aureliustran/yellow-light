@@ -2,8 +2,11 @@
 id: FN.thuyen.luoi-co-chon-loc
 kind: function
 status: locked
-updated: 2026-11-10
+updated: 2026-11-13
 parent: "[[CH.thuyen.mechanics]]"
+type: method
+from:
+  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-009]]"
 aliases: [fn.thuyen.luoi-co-chon-loc, lười có chọn lọc]
 sources:
   - "[[M-he-gia-tri|M-he-gia-tri.md §3b]]"
@@ -35,3 +38,7 @@ render    đối trọng hài: vụng việc nhỏ (khâu cúc, cơm khê) vì m
 ## detail
 
 `M-he-gia-tri.md` §3b; `01-rules-viet.md` mục *Lười có chọn lọc, tối ưu trước khi làm*.
+
+## chain `13/11`
+
+Method của [[CH.thuyen.values#V.thuyen-009]] (`proposed`).

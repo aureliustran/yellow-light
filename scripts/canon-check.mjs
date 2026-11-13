@@ -253,6 +253,20 @@ law('LAW.check.belief-value', () => {
   }
 });
 
+law('LAW.check.method-from', () => {
+  // hàm kiểu method phải trỏ về ít nhất một value có thật; type chỉ nhận innate | method
+  const valueIds = new Set();
+  for (const it of items) if (/\.values$/.test(it.base)) for (const m of it.body.matchAll(/^### (V\.[a-z-]+?-\d{3})\s*$/gm)) valueIds.add(m[1]);
+  for (const it of items) {
+    if (it.props.kind !== 'function' || !it.props.type) continue;
+    if (!['innate', 'method'].includes(it.props.type)) { add('LAW.check.method-from', 'error', it, 1, `type "${it.props.type}" không hợp lệ (innate | method)`); continue; }
+    const refs = [...(it.props.from || '').matchAll(/V\.[a-z-]+?-\d{3}/g)].map((m) => m[0]);
+    if (it.props.type === 'innate') { if (refs.length) add('LAW.check.method-from', 'error', it, 1, 'hàm innate không sinh từ value, bỏ from'); continue; }
+    if (!refs.length) add('LAW.check.method-from', 'error', it, 1, 'hàm method thiếu from trỏ về value');
+    for (const r of refs) if (!valueIds.has(r)) add('LAW.check.method-from', 'error', it, 1, `from trỏ value không có: ${r}`);
+  }
+});
+
 law('LAW.check.md-link', () => {
   const re = /\]\(([^)\s]+)\)/g;
   for (const it of items) {

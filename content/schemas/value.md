@@ -36,7 +36,7 @@ A value is **not** a belief. A belief is a claim drawn after a result and can be
 | `statement` | the criterion, as a comparison or a rule of choice |
 | `from` | the beliefs it is formed from (required, at least one `[[CH.<id>.beliefs#B.<id>-NNN]]`) |
 | `applies` | the kinds of situation it is used in; per phase when it changes |
-| `tactics` | habits of action that apply it (old "mẹo") |
+| `tactics` | the methods this value produces for specific cases: links to functions of type `method` (`schemas/function.md`). The method's `from` is the source of truth; this list mirrors it |
 | `cost` | what choosing by it costs |
 | `status` | `config/statuses.md` |
 

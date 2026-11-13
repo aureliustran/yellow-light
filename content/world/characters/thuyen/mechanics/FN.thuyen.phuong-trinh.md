@@ -36,3 +36,7 @@ render    DV-016 (nhịp lật ba bậc); DV-009 (lọc qua phương trình); DV
 ## detail
 
 `M-he-gia-tri.md` §1–2, §4; `thuyen-co-may.md` §3 (dòng "Bộ chuyển đổi"); `thuyen.md` §6.0–6.5 (NT-24).
+
+## chain `13/11`
+
+Chưa xếp kiểu. Phần "hệ giá trị bốn tầng, tiên đề, điểm mù" nay thuộc gói value [[CH.thuyen.values]]; file này còn giữ bộ chuyển đổi "thiếu = khuyết chưa sửa". Việc còn mở: gọn lại theo chuỗi mới.

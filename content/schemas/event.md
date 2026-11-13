@@ -28,7 +28,7 @@ Only what is the event's own, plus explicit deviations from what it inherits.
 | `done-when` | observable end condition | when useful |
 | `event` | what happens, one or two sentences | yes |
 | `participants` · `place` | `[[CH.…]]` · `[[SET.…]]` | when not all of the node's |
-| `calls` | functions called: `[[FN.thuyen.phong-kin]](K1+K2+K4)` | when any |
+| `calls` | the functions the action is built from, any number of `innate` functions and `method`s together: `[[FN.thuyen.phong-kin]](K1+K2+K4)` | when any |
 | `must-show` · `must-hide` | what has to reach the page · what must not (`[[SEC-003]]`) | when any |
 | `axis` · `level` | `AX1` · step with its scale: `EXL 5`, `SCALE.pride 3` (default scale EXL) | inside an existential band |
 | `beliefs` | `BL-` consumed or produced | when any |

@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 197 file. Chưa chuyển sang khuôn mới (legacy): 139 file.
+Có phần đầu (frontmatter): 202 file. Chưa chuyển sang khuôn mới (legacy): 139 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -46,6 +46,10 @@ Có phần đầu (frontmatter): 197 file. Chưa chuyển sang khuôn mới (leg
 | `FN.thuyen.adhd` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.adhd.md` | Tầng dưới cùng: hệ thần kinh chạy bằng hứng thú, dạng kết hợp. Không thay hai cái tôi, không thay đòn roi; mọi thứ khác đắp lên nó. |
 | `FN.thuyen.cai-goi` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.cai-goi.md` | Bộ phận bị khóa: cái gối, người duy nhất ở lại với con người thật nhất của anh. Cần được ôm, được nghe khóc, được ghi nhận cái cố. |
 | `FN.thuyen.cai-toi` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.cai-toi.md` | Hai cái tôi trên cùng một động cơ áp suất chênh lệch: cái tôi lành (cái cân, cố vì mình) và cái tôi độc (sự công nhận dùng làm tấm khiên … |
+| `FN.thuyen.di-vong` | `function` | `proposed` | `world/characters/thuyen/mechanics/FN.thuyen.di-vong.md` | Không đối đầu với người có quyền; đi đường vòng tới cùng mục tiêu. |
+| `FN.thuyen.gat-tinh-thuong` | `function` | `proposed` | `world/characters/thuyen/mechanics/FN.thuyen.gat-tinh-thuong.md` | Gán tình thương không gắn với thành tích cho thói quen, sự tiện tay. |
+| `FN.thuyen.hai-to-nhap` | `function` | `proposed` | `world/characters/thuyen/mechanics/FN.thuyen.hai-to-nhap.md` | Làm hai sản phẩm: một bản để nộp, một bản để giữ. |
+| `FN.thuyen.hoi-chon-loc` | `function` | `proposed` | `world/characters/thuyen/mechanics/FN.thuyen.hoi-chon-loc.md` | Cần biết thì tự tìm trước; phần còn lại thì chọn người và soạn trước chuỗi câu hỏi. |
 | `FN.thuyen.lang-kinh` | `function` | `locked` | `world/characters/thuyen/mechanics/FN.thuyen.lang-kinh.md` | Lăng kính: thu nạp thông tin và phân tích khách quan, kể cả về chính anh, trong vùng do một mục tiêu khoanh lại (việc này có phù hợp với … |
 | `FN.thuyen.luoi-co-chon-loc` | `function` | `locked` | `world/characters/thuyen/mechanics/FN.thuyen.luoi-co-chon-loc.md` | Cùng một phép tính chi phí – lợi ích, khác đầu vào: thành quả nhỏ thì lười, thành quả lớn thì cày. |
 | `FN.thuyen.nang-khieu` | `function` | `proposed` | `world/characters/thuyen/mechanics/FN.thuyen.nang-khieu.md` | Năng khiếu: nhìn ra cấu trúc giấu dưới bề mặt, học bằng liên kết. Lăng kính ở dạng sạch. |
@@ -55,6 +59,7 @@ Có phần đầu (frontmatter): 197 file. Chưa chuyển sang khuôn mới (leg
 | `FN.thuyen.quan-su` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.quan-su.md` | Quân sư giỏi cho người khác, mù cho chính mình. |
 | `FN.thuyen.teu` | `function` | `proposed` | `world/characters/thuyen/mechanics/FN.thuyen.teu.md` | Van xả: tếu. Giải tỏa áp lực bên cạnh người thân mà không phải mở khóa. Ba số: Ngạo, Trào, Song. |
 | `FN.thuyen.thieu` | `function` | `agreed` | `world/characters/thuyen/mechanics/FN.thuyen.thieu.md` | Đầu vào của cỗ máy: cái thiếu bị chối hai lần: người trong gia đình không nhận ra, người ngoài cho rằng anh sung sướng. |
+| `FN.thuyen.vo-cam` | `function` | `proposed` | `world/characters/thuyen/mechanics/FN.thuyen.vo-cam.md` | Tỏ ra vô cảm để thứ mình chia sẻ không bị dùng làm mình đau. |
 | `FN.vu.lat` | `function` | `proposed` | `world/characters/vu/mechanics/FN.vu.lat.md` | Vũ không tính toán; Vũ nói thẳng. Thuyên đưa ra một cái cớ hợp lý, Vũ lật ngược nó bằng một câu duy nhất. |
 | `FN.vu.thuong-bang-hanh-dong` | `function` | `locked` | `world/characters/vu/mechanics/FN.vu.thuong-bang-hanh-dong.md` | in Vũ thích một cô gái, hoặc thương một người bạn |
 | `GUIDE.invariants` | `guide` | `draft` | `guidelines/invariants.md` | Rules that always hold. Machine-checked ones name their check (`docs/framework/tooling.md`); the rest are checked by you before saying "d… |

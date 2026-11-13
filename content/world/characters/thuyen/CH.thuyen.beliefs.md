@@ -60,7 +60,7 @@ Mỗi niềm tin là một mục `### BL-NNN`. Mã cũ `NT-nn` là alias (`NT-24
 
 Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, nay ở `_archive/`, sẽ kể lại ở interlude quãng 1); còn lại theo nguồn. Mặt kia (`other-face`) chưa có trong nguồn cho phần lớn niềm tin: ghi `none`, điền khi chuyển PAST.T.
 
-**Ranh giới với value** `locked 13/11` (tác giả): niềm tin là kết luận rút ra sau một kết quả, một khẳng định có thể sai, dùng để độc thoại và tự soi. Tiêu chí dùng trước một hành động (cái gì đáng hơn cái gì) là value, nằm ở gói value của nhân vật. Niềm tin không trỏ tới value; value trỏ về niềm tin. Mẹo tự lừa mình (B.thuyen-004) vẫn là niềm tin; mẹo hành động thuộc gói value. Định nghĩa: `schemas/belief.md`, `schemas/value.md`.
+**Ranh giới với value** `locked 13/11` (tác giả): niềm tin là kết luận rút ra sau một kết quả, một khẳng định có thể sai, dùng để độc thoại và tự soi. Tiêu chí dùng trước một hành động (cái gì đáng hơn cái gì) là value, nằm ở gói value của nhân vật. Niềm tin không trỏ tới value; value trỏ về niềm tin. Cách đối phó (hàm, tư duy đối phó, hành động) là method: nằm ở `mechanics/`, sinh từ `tactics` của một value và trỏ về value ấy. B.thuyen-004, 005, 011, 020, 025 chỉ còn giữ số. Định nghĩa: `schemas/belief.md`, `schemas/value.md`.
 
 **Cụm** `agreed 10/11`: niềm tin gom theo câu hỏi anh tự trả lời, không theo trục. Mỗi cụm có câu hỏi, gốc, trục và một định nghĩa chung; trong cụm, niềm tin xếp theo tuổi. Niềm tin thuộc hai cụm có một cụm chính, cụm kia ghi ở trường `cluster`.
 
@@ -94,7 +94,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### B.thuyen-004
 
 - **cluster:** C1
-- **definition:** Khi nhận được tình thương không gắn với thành tích, anh gán nó cho thói quen, sự tiện tay. Nhận nó là thấy nó, mà nhu cầu được thương là thứ anh không nhìn (C7, mù). Mẹo gạt phản chứng, con của 024. Sửa 11/11: bỏ "để phương trình của B.thuyen-024 đứng vững".
+- **definition:** Xếp lại 13/11 (tác giả): tư duy đối phó này là method [[FN.thuyen.gat-tinh-thuong]], không phải niềm tin; giữ số này làm mốc cho liên kết cũ. Bản trước: Khi nhận được tình thương không gắn với thành tích, anh gán nó cho thói quen, sự tiện tay. Nhận nó là thấy nó, mà nhu cầu được thương là thứ anh không nhìn (C7, mù). Mẹo gạt phản chứng, con của 024. Sửa 11/11: bỏ "để phương trình của B.thuyen-024 đứng vững".
 - **seen:** `thay`
 - **monologue:**
   - `ngo-nhan` · lớp 4: `needs-decision` (bản cũ dựa vào phương trình đã bỏ 11/11): *Mẹ làm một việc tử tế cho mình, nhưng không nói gì. Nếu đó là tình thương thì phương trình của mình sai, vì hôm ấy mình không làm được gì đáng được công nhận. Vậy có lẽ đó chỉ là thói quen, là sự tiện tay. Giải thích như vậy hợp lý hơn.*
@@ -145,7 +145,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### B.thuyen-005
 
 - **cluster:** C2
-- **definition:** Làm hai sản phẩm: bản trình nộp theo chuẩn của người chấm, bản thật theo chuẩn của mình. Mẹo, con của 021. Xếp lại 13/11 (tác giả): mẹo là thói quen hành động, thuộc phần áp dụng (`tactics`) của gói value; giữ số 005 ở đây để các liên kết cũ còn dùng.
+- **definition:** Method: [[FN.thuyen.hai-to-nhap]] (13/11). Làm hai sản phẩm: bản trình nộp theo chuẩn của người chấm, bản thật theo chuẩn của mình. Mẹo, con của 021. Xếp lại 13/11 (tác giả): mẹo là thói quen hành động, thuộc phần áp dụng (`tactics`) của gói value; giữ số 005 ở đây để các liên kết cũ còn dùng.
 - **seen:** `thay`
 - **monologue:**
   - `ngo-nhan` · lớp 6: *Người chấm cần một thứ, mình cần một thứ khác, và không có lý do gì để hai thứ ấy phải trùng khớp. Mình nộp cho họ đúng thứ họ cần để được yên ổn; bản thật thì giữ lại, vì bản thật không cần ai thẩm định.*
@@ -293,7 +293,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### B.thuyen-026
 
 - **cluster:** C3
-- **definition:** `locked 11/11` (tác giả). Anh không ngại hỏi, không ngại bị mắng khi hỏi; anh chỉ cần câu trả lời. Khi cần biết một thứ, **tự tìm hiểu là việc anh ưu tiên**: tự học là năng lực tự phát, không phải phương án dự phòng ([[FN.thuyen.nang-khieu]]). Với phần không tự tìm được, **bộ lọc** cho anh biết ai giữ câu trả lời anh cần; bộ lọc không hạn chế việc hỏi, nó làm anh hỏi có chọn lọc và **định hình trước chuỗi câu hỏi** để lấy đúng thứ cần. Người lớn không biết, không muốn nói, hay mắng vì anh không biết: đó là dữ kiện về người được hỏi, không phải lý do để anh im. **Giá:** anh thành người chỉ cho người khác thứ mình chưa từng được chỉ; người bị hỏi có thể thấy mình là một nguồn dữ liệu, không phải một người (`proposed`). Con của 001.
+- **definition:** Tách 13/11 (tác giả): phần khẳng định ở lại; cách đối phó (tự tìm trước, hỏi có chọn lọc, định hình trước chuỗi câu hỏi) là method [[FN.thuyen.hoi-chon-loc]]. `locked 11/11` (tác giả). Anh không ngại hỏi, không ngại bị mắng khi hỏi; anh chỉ cần câu trả lời. Khi cần biết một thứ, **tự tìm hiểu là việc anh ưu tiên**: tự học là năng lực tự phát, không phải phương án dự phòng ([[FN.thuyen.nang-khieu]]). Với phần không tự tìm được, **bộ lọc** cho anh biết ai giữ câu trả lời anh cần; bộ lọc không hạn chế việc hỏi, nó làm anh hỏi có chọn lọc và **định hình trước chuỗi câu hỏi** để lấy đúng thứ cần. Người lớn không biết, không muốn nói, hay mắng vì anh không biết: đó là dữ kiện về người được hỏi, không phải lý do để anh im. **Giá:** anh thành người chỉ cho người khác thứ mình chưa từng được chỉ; người bị hỏi có thể thấy mình là một nguồn dữ liệu, không phải một người (`proposed`). Con của 001.
 - **ref:** `câu` · Kant, *Trả lời câu hỏi: Khai sáng là gì?* (1784): *"Sapere aude! Have courage to use your own understanding!"* (https://users.manchester.edu/FacStaff/SSNaragon/Kant/lp/Readings/Kant,%20Enlightenment.html)
 - **deviation:** với Kant, dùng hiểu biết của mình là một việc cần **can đảm** để thoát sự giám hộ; với Thuyên, nó là bản năng tự phát, không cần can đảm. Anh cũng không chối bỏ người chỉ dẫn: anh dùng cái cân để chọn người giữ câu trả lời, và dùng họ như một nguồn.
 - **seen:** `thay`
@@ -329,7 +329,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### B.thuyen-006
 
 - **cluster:** C3
-- **definition:** Đối đầu trực diện với người có quyền thì mình trả giá; đi vòng thì đạt được mục tiêu mà không phải trả. Mẹo, con của 029 và 033.
+- **definition:** Tách 13/11 (tác giả): phần khẳng định ở lại; cách đối phó (đi vòng) là method [[FN.thuyen.di-vong]]. Đối đầu trực diện với người có quyền thì mình trả giá; đi vòng thì đạt được mục tiêu mà không phải trả. Mẹo, con của 029 và 033.
 - **seen:** `thay`
 - **monologue:**
   - `ngo-nhan` · lớp 7, sau đêm bẻ roi: *Đối đầu trực diện là đặt lẽ phải của mình lên bàn cân với quyền lực của người kia, mà bàn cân ấy do chính họ nắm giữ. Kết cục đã định sẵn: thất bại, rồi trả giá. Mục tiêu thật không phải là thắng một cuộc tranh cãi, mà là đạt được điều mình muốn. Vậy thì không cần đối đầu. Cứ để người ta tin rằng họ đã chiến thắng, còn mình đi một lộ trình khác, tới đúng đích mình đã định.*
@@ -343,7 +343,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### B.thuyen-008
 
 - **cluster:** C3 (cũng là C2, C4: hai tờ nháp áp cho cảm xúc)
-- **definition:** Sự thật về bên trong mình không phải thứ người khác cần; họ cần một câu trả lời khớp barem. Mẹo hai tờ nháp (005) áp cho cảm xúc. **Giá:** lần duy nhất anh nói thật nhu cầu là với một cái phiếu, và không ai đọc.
+- **definition:** Tách 13/11 (tác giả): phần khẳng định ở lại; cách đối phó (trả lời khớp barem) là method [[FN.thuyen.hai-to-nhap]]. Sự thật về bên trong mình không phải thứ người khác cần; họ cần một câu trả lời khớp barem. Mẹo hai tờ nháp (005) áp cho cảm xúc. **Giá:** lần duy nhất anh nói thật nhu cầu là với một cái phiếu, và không ai đọc.
 - **ref:** `ý` · Winnicott, *false self* (cái tôi giả; đã ở "Họ ý" của H7)
 - **deviation:** cái tôi giả của Winnicott là vô thức; Thuyên dựng nó có chủ đích, sau một phép thử.
 - **seen:** `thay`
@@ -359,7 +359,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### B.thuyen-009
 
 - **cluster:** C3
-- **definition:** Mong muốn nói ra bằng tên mình thì bị bác bỏ; cùng mong muốn ấy, khi người khác tin là của họ, sẽ được họ bảo vệ. Mầm của quân sư và thao túng ở P2.
+- **definition:** Tách 13/11 (tác giả): phần khẳng định ở lại; cách đối phó (để người khác tin mong muốn là của họ) là method [[FN.thuyen.quan-su]]. Mong muốn nói ra bằng tên mình thì bị bác bỏ; cùng mong muốn ấy, khi người khác tin là của họ, sẽ được họ bảo vệ. Mầm của quân sư và thao túng ở P2.
 - **ref:** `câu` · Dale Carnegie, *How to Win Friends and Influence People*: *"Let the other person feel that the idea is his or hers."*
 - **deviation:** Carnegie dùng nó để tạo thiện cảm; Thuyên dùng để giữ quyền tự quyết mà không phải xung đột.
 - **seen:** `thay`
@@ -381,7 +381,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### B.thuyen-022
 
 - **cluster:** C4
-- **definition:** Bố mẹ gọi anh là cục đất; lăng kính của anh đọc chính xác nghĩa sâu nhất của cái nhãn: một cỗ máy, vô cảm. Người ta không biết điều ngược lại, vì họ chưa bao giờ trân trọng thứ anh chia sẻ, chỉ dùng nó làm anh đau; vì không muốn đau, anh phải tỏ ra vô cảm. Chiến lược ấy thất bại ở lớp 11. Về sau anh vẫn sợ chia sẻ điều muốn giấu, nhưng học được cách hiểu cảm xúc bằng việc nghe người khác kể cảm xúc của họ với mình; kết luận cuối: có lẽ mình vẫn là một cỗ máy vô cảm, chỉ là một cỗ máy biết nhận diện và xử lý các tham số của cảm xúc. **Cú lật** là chỗ sâu nhất: chiếc mặt nạ *tỏ ra* vô cảm đeo đủ lâu thì anh *tin* đó là mặt thật. **Đúng một nửa:** anh đọc cảm xúc người khác chính xác, có phương pháp, như một cỗ máy; mỗi lần làm quân sư giỏi là một lần xác nhận. **Sai ở:** một cỗ máy không sợ chia sẻ; chính nỗi sợ ấy là bằng chứng anh có cảm xúc. **Gốc của các niềm tin cùng cụm:** 022 là anh *là* gì; [[CH.thuyen.beliefs#B.thuyen-025]] là anh *cần* gì; [[CH.thuyen.beliefs#B.thuyen-014]] là anh *làm* gì. **Tầng mỉa:** hồ sơ của truyện gọi tâm lý anh là "cỗ máy hiện sinh" ([[CH.thuyen.mechanics]]); tác giả và nhân vật cùng gọi anh là máy, chỉ người đọc thấy anh không phải máy.
+- **definition:** Tách 13/11 (tác giả): phần khẳng định ở lại; cách đối phó (tỏ ra vô cảm) là method [[FN.thuyen.vo-cam]]. Bố mẹ gọi anh là cục đất; lăng kính của anh đọc chính xác nghĩa sâu nhất của cái nhãn: một cỗ máy, vô cảm. Người ta không biết điều ngược lại, vì họ chưa bao giờ trân trọng thứ anh chia sẻ, chỉ dùng nó làm anh đau; vì không muốn đau, anh phải tỏ ra vô cảm. Chiến lược ấy thất bại ở lớp 11. Về sau anh vẫn sợ chia sẻ điều muốn giấu, nhưng học được cách hiểu cảm xúc bằng việc nghe người khác kể cảm xúc của họ với mình; kết luận cuối: có lẽ mình vẫn là một cỗ máy vô cảm, chỉ là một cỗ máy biết nhận diện và xử lý các tham số của cảm xúc. **Cú lật** là chỗ sâu nhất: chiếc mặt nạ *tỏ ra* vô cảm đeo đủ lâu thì anh *tin* đó là mặt thật. **Đúng một nửa:** anh đọc cảm xúc người khác chính xác, có phương pháp, như một cỗ máy; mỗi lần làm quân sư giỏi là một lần xác nhận. **Sai ở:** một cỗ máy không sợ chia sẻ; chính nỗi sợ ấy là bằng chứng anh có cảm xúc. **Gốc của các niềm tin cùng cụm:** 022 là anh *là* gì; [[CH.thuyen.beliefs#B.thuyen-025]] là anh *cần* gì; [[CH.thuyen.beliefs#B.thuyen-014]] là anh *làm* gì. **Tầng mỉa:** hồ sơ của truyện gọi tâm lý anh là "cỗ máy hiện sinh" ([[CH.thuyen.mechanics]]); tác giả và nhân vật cùng gọi anh là máy, chỉ người đọc thấy anh không phải máy.
 - **ref:** `ý` · Charles Horton Cooley (1902), *looking-glass self* (https://en.wikipedia.org/wiki/Looking-glass_self)
 - **deviation:** ở Cooley, cái tôi hình thành thụ động từ phán xét của người khác; Thuyên đọc nhãn chính xác hơn người đặt nó, rồi dùng nó làm cơ chế phòng vệ, và về sau tin nó (lăng kính, nét Ngạo).
 - **seen:** `thay`
@@ -399,7 +399,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### B.thuyen-011
 
 - **cluster:** C4
-- **definition:** Giọng đùa là lớp vỏ có ba dạng (gộp B.thuyen-012, B.thuyen-013): **cười trước** thì phán quyết thành của mình; **đùa xong** thì không phải trả lời; **nói thật bằng giọng đùa** thì không ai bắt bẻ. Niềm tin dưới hàm [[FN.thuyen.teu]]. **Giá:** không ai trấn an thật; lời công nhận không vào được; phán quyết của bố mẹ thành của anh.
+- **definition:** Xếp lại 13/11 (tác giả): ba dạng giọng đùa là method [[FN.thuyen.teu]], không phải niềm tin; giữ số này làm mốc cho liên kết cũ. Bản trước: Giọng đùa là lớp vỏ có ba dạng (gộp B.thuyen-012, B.thuyen-013): **cười trước** thì phán quyết thành của mình; **đùa xong** thì không phải trả lời; **nói thật bằng giọng đùa** thì không ai bắt bẻ. Niềm tin dưới hàm [[FN.thuyen.teu]]. **Giá:** không ai trấn an thật; lời công nhận không vào được; phán quyết của bố mẹ thành của anh.
 - **ref:** `ý` · Freud (1927), *Der Humor*: tiếng cười là cái tôi từ chối để mình bị tổn thương
 - **deviation:** với Freud, humor che cái tôi khỏi nỗi đau; Thuyên dùng nó thêm làm đường lui cho sự thật (nét Ngạo: dữ kiện thật, giọng đùa để có chỗ chối).
 - **seen:** `thay`
@@ -430,7 +430,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### B.thuyen-032
 
 - **cluster:** C4
-- **definition:** Ý nghĩ độc giữ trong phòng kín thì không chạm tới ai, miễn đầu ra sạch. **Đúng một nửa:** suốt đại học đầu ra sạch thật. **Sai ở:** suy nghĩ lặp lại là tập dượt; ở P2 phòng kín hỏng từng lớp.
+- **definition:** Tách 13/11 (tác giả): phần khẳng định ở lại; cách đối phó (giữ trong phòng kín) là method [[FN.thuyen.phong-kin]]. Ý nghĩ độc giữ trong phòng kín thì không chạm tới ai, miễn đầu ra sạch. **Đúng một nửa:** suốt đại học đầu ra sạch thật. **Sai ở:** suy nghĩ lặp lại là tập dượt; ở P2 phòng kín hỏng từng lớp.
 - **ref:** `ý` · Daniel Wegner, *ironic process theory* (thí nghiệm "gấu trắng", 1987): cố kìm nén một ý nghĩ thì nó quay lại nhiều hơn (https://en.wikipedia.org/wiki/Ironic_process_theory)
 - **deviation:** anh không kìm nén; anh nuôi dưỡng nó trong phòng kín và tin cánh cửa giữ được (nét Ngạo: tự tin vào năng lực kiểm soát).
 - **seen:** `thay` (đại học)
@@ -445,7 +445,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### B.thuyen-025
 
 - **cluster:** C4 (cái thiếu bên dưới thuộc C7)
-- **definition:** Lời cãi với cái gối: phủ nhận cái thiếu bằng một danh sách bằng chứng. Anh thấy lời phủ nhận, không thấy cái thiếu bên dưới (tầng tình thương `seen: khong`). Con của 022 (anh *cần* gì).
+- **definition:** Xếp lại 13/11 (tác giả): lời cãi với cái gối (khóa 1) là method [[FN.thuyen.cai-goi]], không phải niềm tin; giữ số này làm mốc cho liên kết cũ. Bản trước: Lời cãi với cái gối: phủ nhận cái thiếu bằng một danh sách bằng chứng. Anh thấy lời phủ nhận, không thấy cái thiếu bên dưới (tầng tình thương `seen: khong`). Con của 022 (anh *cần* gì).
 - **ref:** `ý` · Anna Freud (1936), *The Ego and the Mechanisms of Defence*: phủ nhận, lý trí hóa
 - **deviation:** phủ nhận thường là làm ngơ trước bằng chứng; Thuyên phủ nhận bằng cách lập luận với chính bằng chứng.
 - **seen:** `thay` (lời phủ nhận)
@@ -508,7 +508,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### B.thuyen-031
 
 - **cluster:** C5
-- **definition:** Biết người ta thích gì, ghét gì thì dắt được, không cần thương. **Khánh là người đầu tiên anh lắng nghe**, và anh nhận ra tác dụng của việc lắng nghe; nhưng anh ngộ nhận tác dụng ấy là quyền dẫn dắt, không phải sự quan tâm, nên dùng thông tin nghe được để thao túng em. **Tầng sâu:** lắng nghe chính là thứ anh thiếu (AX7, không được nghe); anh trao cho em đúng thứ mình chưa từng nhận, rồi đọc nó thành công cụ. Đây cũng là mầm của nấc "học cách lắng nghe" ở B.thuyen-022.
+- **definition:** Tách 13/11 (tác giả): phần khẳng định ở lại; cách đối phó (lắng nghe để dắt) là method [[FN.thuyen.quan-su]]. Biết người ta thích gì, ghét gì thì dắt được, không cần thương. **Khánh là người đầu tiên anh lắng nghe**, và anh nhận ra tác dụng của việc lắng nghe; nhưng anh ngộ nhận tác dụng ấy là quyền dẫn dắt, không phải sự quan tâm, nên dùng thông tin nghe được để thao túng em. **Tầng sâu:** lắng nghe chính là thứ anh thiếu (AX7, không được nghe); anh trao cho em đúng thứ mình chưa từng nhận, rồi đọc nó thành công cụ. Đây cũng là mầm của nấc "học cách lắng nghe" ở B.thuyen-022.
 - **ref:** `câu` · Tôn Tử, *Binh pháp*, thiên 3 (Giles): *"If you know the enemy and know yourself, you need not fear the result of a hundred battles."*
 - **deviation:** Tôn Tử đòi biết cả địch lẫn mình; Thuyên biết người mà không biết mình: công thức của AX4.
 - **seen:** `thay` (tác dụng dẫn dắt) · `khong` (lắng nghe là sự quan tâm, là thứ anh thiếu)

@@ -14,6 +14,9 @@ exports:
   - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-007]]"
   - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-008]]"
   - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-009]]"
+  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-010]]"
+  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-011]]"
+  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-012]]"
 parent: "[[CH.thuyen]]"
 sources:
   - "tác giả 13/11 (trục → niềm tin → value system; vòng vận hành; ranh giới; tách 035, 020, 016)"
@@ -24,7 +27,7 @@ sources:
 
 Hệ giá trị là thế giới quan hình thành từ niềm tin: với Thuyên, cái gì có giá trị và giá trị đến mức nào. Anh dùng nó khi quay ra ngoài: giải quyết vấn đề, ra quyết định, đối xử với người khác. Niềm tin thì dùng để độc thoại và tự soi ([[CH.thuyen.beliefs]]). Khuôn: `schemas/value.md`. Mỗi value trỏ về niềm tin sinh ra nó; niềm tin không trỏ ngược lại.
 
-**Mục:** `system` · `measure` · `blind` · `values` · `rank` · `gaps`. Value `agreed`: 001–007 (tác giả duyệt 13/11). Value `proposed`: 008, 009 (Claude rút từ `M-he-gia-tri.md`, chờ tác giả).
+**Mục:** `system` · `measure` · `blind` · `values` · `rank` · `gaps`. Value `agreed`: 001–007 (tác giả duyệt 13/11). Value `proposed`: 008, 009 (Claude rút từ `M-he-gia-tri.md`) và 010–012 (Claude dựng 13/11 để các method có value trỏ về), chờ tác giả. `tactics` của value tạo ra method: hàm kiểu `method` ở `mechanics/`, mỗi hàm trỏ ngược về value (`schemas/function.md`).
 
 ## system
 
@@ -90,7 +93,7 @@ Giới hạn của việc tự soi; công cụ tự soi là [[FN.thuyen.lang-kin
 - **statement:** Sự kiêng nể đáng tin cậy hơn tình thương, nên đáng giành hơn.
 - **from:** [[CH.thuyen.beliefs#B.thuyen-027]]
 - **applies:** cách đối xử với người khác từ lớp 7; cực đoan ở P2
-- **tactics:** none
+- **tactics:** [[FN.thuyen.quan-su]] (lắng nghe để dắt)
 - **cost:** bị coi là đáng sợ, đáng ghét
 - **status:** `agreed`
 
@@ -100,7 +103,7 @@ Giới hạn của việc tự soi; công cụ tự soi là [[FN.thuyen.lang-kin
 - **statement:** Khi phán đoán của mình và ý người khác va nhau, phán đoán của mình đáng theo hơn.
 - **from:** [[CH.thuyen.beliefs#B.thuyen-021]]
 - **applies:** mọi quyết định có người phản đối
-- **tactics:** hai tờ nháp: bản trình nộp theo chuẩn của người chấm, bản thật theo chuẩn của mình (B.thuyen-005)
+- **tactics:** [[FN.thuyen.hai-to-nhap]]
 - **cost:** không để ai chạm vào
 - **status:** `agreed`
 
@@ -110,7 +113,7 @@ Giới hạn của việc tự soi; công cụ tự soi là [[FN.thuyen.lang-kin
 - **statement:** Đạt mục tiêu bằng đường vòng đáng hơn thắng một trận đối đầu trực diện.
 - **from:** [[CH.thuyen.beliefs#B.thuyen-006]], [[CH.thuyen.beliefs#B.thuyen-029]], [[CH.thuyen.beliefs#B.thuyen-033]]
 - **applies:** xung đột với người có quyền
-- **tactics:** none
+- **tactics:** [[FN.thuyen.di-vong]], [[FN.thuyen.quan-su]] (để người khác tin mong muốn là của họ)
 - **cost:** none
 - **status:** `agreed`
 
@@ -130,8 +133,38 @@ Giới hạn của việc tự soi; công cụ tự soi là [[FN.thuyen.lang-kin
 - **statement:** Việc chỉ đáng làm khi thành quả xứng với công bỏ ra: thành quả nhỏ thì làm tối thiểu, thành quả lớn thì cày.
 - **from:** [[CH.thuyen.beliefs#B.thuyen-010]], [[CH.thuyen.beliefs#B.thuyen-035]]
 - **applies:** chọn bỏ công vào đâu (học thuộc, việc nhà, việc ở lab); phép tính là [[FN.thuyen.luoi-co-chon-loc]]
-- **tactics:** tối ưu trước khi làm
+- **tactics:** [[FN.thuyen.luoi-co-chon-loc]]
 - **cost:** người ngoài thấy lười; ở đáy phép tính trả về không
+- **status:** `proposed`
+
+### V.thuyen-010
+
+- **name:** Không để ai thấy bên trong
+- **statement:** Không để ai thấy bên trong mình đáng hơn được hiểu, được an ủi.
+- **from:** [[CH.thuyen.beliefs#B.thuyen-022]], [[CH.thuyen.beliefs#B.thuyen-014]], [[CH.thuyen.beliefs#B.thuyen-008]], [[CH.thuyen.beliefs#B.thuyen-032]]
+- **applies:** mọi lúc có người tới gần chỗ đau hoặc ý nghĩ thật của anh
+- **tactics:** [[FN.thuyen.vo-cam]], [[FN.thuyen.teu]], [[FN.thuyen.phong-kin]], [[FN.thuyen.cai-goi]] (khóa 1)
+- **cost:** không ai trấn an thật; đeo đủ lâu thì tin đó là mặt thật
+- **status:** `proposed`
+
+### V.thuyen-011
+
+- **name:** Không nợ ai
+- **statement:** Không mang nợ ai đáng hơn được nhận.
+- **from:** [[CH.thuyen.beliefs#B.thuyen-017]]
+- **applies:** khi được cho mà không gắn với thành tích; khi được giúp
+- **tactics:** [[FN.thuyen.gat-tinh-thuong]], [[FN.thuyen.cai-goi]] (khóa 3)
+- **cost:** làm quân sư cho người khác được, nhận lại thì không
+- **status:** `proposed`
+
+### V.thuyen-012
+
+- **name:** Câu trả lời trên thể diện
+- **statement:** Có được câu trả lời đáng hơn giữ thể diện hay tránh bị mắng.
+- **from:** [[CH.thuyen.beliefs#B.thuyen-026]], [[CH.thuyen.beliefs#B.thuyen-001]]
+- **applies:** khi cần biết một thứ
+- **tactics:** [[FN.thuyen.hoi-chon-loc]]
+- **cost:** none
 - **status:** `proposed`
 
 ## rank
@@ -142,5 +175,5 @@ none: chưa xếp thứ bậc khi các value va nhau (chờ tác giả).
 
 - Thứ bậc (`rank`).
 - Value theo giai đoạn của việc dùng lăng kính vào đâu (`M-he-gia-tri.md` §3c): chưa viết thành value.
-- Value của anh đối với Nhi và với tình thương: chưa có; cụm C7 không có niềm tin đánh số để làm `from`.
+- Value của anh đối với Nhi và với tình thương: chưa có; cụm C7 không có niềm tin đánh số để làm `from` (V.thuyen-010, 011 chỉ che nó).
 - V.thuyen-002: niềm tin nguồn hiện là B.thuyen-021; B.thuyen-020 chỉ còn giữ số.

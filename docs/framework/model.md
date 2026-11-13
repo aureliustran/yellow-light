@@ -89,14 +89,14 @@ A character is a package: main file (identity, purpose, attributes, exports), be
 **Chain.** The writer defines the axes (`AX`) directly. From an axis the writer designs a character's **beliefs**, bending the axis by the character's personality and by the purpose the character is built for. From its beliefs the character forms a **value system**. `PAST` writes the events that make the beliefs form on the page; present-time storylines consume beliefs and values.
 
 ```
-AX (core) ─► belief (world) ─► value system (world)
+AX (core) ─► belief (world) ─► value system (world) ─► tactics ─► method (FN, world)
 PAST events: form beliefs          present events: consume beliefs and values
 ```
 
 **Loop.** One turn of the loop is one event:
 
 ```
-reflection ─► BELIEF ─► VALUE ─► action ─► result ─► reflection ─► new belief, upgraded belief, or changed belief
+reflection ─► BELIEF ─► VALUE ─► tactics ─► ACTION (built from innate functions and methods) ─► result ─► reflection ─► new belief, upgraded belief, or changed belief
 ```
 
 **Boundary.** The two are different things, defined by where they stand in the loop.
@@ -118,12 +118,13 @@ reflection ─► BELIEF ─► VALUE ─► action ─► result ─► reflect
 1. A value has `from`, at least one belief. A belief never points to a value (`LAW.check.value-from`, `LAW.check.belief-value`).
 2. A result never edits a value. It passes through reflection, changes a belief, and the value is recomputed.
 3. Two values in conflict are settled by `rank`. Two beliefs in contradiction may coexist: that is material for monologue.
-4. A function (`FN`) is outside both: it is what the character can do, not what it believes or chooses. Before the first belief exists, functions act in place of values; the result meeting the wound yields the first misconception (`ngo-nhan`).
+4. Functions (`FN`) have two types `locked 13/11`. `innate`: a capacity or effect the character is born with; it comes from no value. `method`: a way of coping the character has learned for specific cases (a function, a coping thought, an action); it is produced by the tactics of a value and has `from` pointing to that value (`LAW.check.method-from`). Before the first belief exists, innate functions act in place of values; the result meeting the wound yields the first misconception (`ngo-nhan`).
 5. A blind belief still feeds values and shows in behaviour, but reflection cannot reach it, so it cannot be upgraded until the story opens it.
 6. Reflection has a tool and limits per character (for Thuyên: the lens [[FN.thuyen.lang-kinh]], and the `blind` section of his value system).
-7. A tactic (old "mẹo") is a habit of action: it is listed under the value it applies (`tactics`), unless it is a way of deceiving oneself, which stays a belief.
+7. A value's tactics produce methods. Coping material found inside a belief (a habit of action, a coping thought, a way of deceiving oneself) is migrated to a method; the belief keeps only its claim, or only its number when no claim remains.
+8. **An action is designed from several functions** `locked 13/11`: one action in an event may combine any number of innate functions and methods; the event lists them in `calls`.
 
-Schemas: `schemas/belief.md`, `schemas/value.md`; loop fields of an event: `schemas/event.md`.
+Schemas: `schemas/belief.md`, `schemas/value.md`, `schemas/function.md`; loop fields of an event: `schemas/event.md`.
 
 ## Common header
 

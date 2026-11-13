@@ -2,8 +2,12 @@
 id: FN.thuyen.quan-su
 kind: function
 status: agreed
-updated: 2026-11-10
+updated: 2026-11-13
 parent: "[[CH.thuyen.mechanics]]"
+type: method
+from:
+  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-005]]"
+  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-007]]"
 aliases: [fn.thuyen.quan-su, quân sư, giỏi việc người, mù việc mình]
 sources:
   - "_archive/tuyen/sl/vu.md §2"
@@ -36,3 +40,7 @@ render    none
 ## detail
 
 `_archive/tuyen/sl/vu.md` §2 (và plan §4 ở đó); `thuyen.md` §6.9 B; `thuyen-co-may.md` §3 (dòng "Khóa 2").
+
+## chain `13/11`
+
+Method của [[CH.thuyen.values#V.thuyen-005]] (lắng nghe để dắt, từ B.thuyen-031) và [[CH.thuyen.values#V.thuyen-007]] (để người khác tin mong muốn là của họ, từ B.thuyen-009).
