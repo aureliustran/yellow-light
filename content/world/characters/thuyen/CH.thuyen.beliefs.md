@@ -2,7 +2,7 @@
 id: CH.thuyen.beliefs
 kind: character
 status: agreed
-updated: 2026-11-10
+updated: 2026-11-13
 aliases:
   - niềm tin Thuyên
   - NT Thuyên
@@ -59,6 +59,8 @@ Mỗi niềm tin là một mục `### BL-NNN`. Mã cũ `NT-nn` là alias (`NT-24
 **Mã** `locked 11/11` (tác giả): `B.<id nhân vật>-<số>`; số đếm riêng trong từng nhân vật, nên thêm niềm tin cho một người không đẩy số của người khác. Mã cũ: `BL-001…035` → `B.thuyen-001…035` (giữ số); `BL-040…045` → `B.nhi-001…006`; `BL-050` → `B.vu-001`. Số `028`, `036`, `037` của Thuyên không dùng.
 
 Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, nay ở `_archive/`, sẽ kể lại ở interlude quãng 1); còn lại theo nguồn. Mặt kia (`other-face`) chưa có trong nguồn cho phần lớn niềm tin: ghi `none`, điền khi chuyển PAST.T.
+
+**Ranh giới với value** `locked 13/11` (tác giả): niềm tin là kết luận rút ra sau một kết quả, một khẳng định có thể sai, dùng để độc thoại và tự soi. Tiêu chí dùng trước một hành động (cái gì đáng hơn cái gì) là value, nằm ở gói value của nhân vật. Niềm tin không trỏ tới value; value trỏ về niềm tin. Mẹo tự lừa mình (B.thuyen-004) vẫn là niềm tin; mẹo hành động thuộc gói value. Định nghĩa: `schemas/belief.md`, `schemas/value.md`.
 
 **Cụm** `agreed 10/11`: niềm tin gom theo câu hỏi anh tự trả lời, không theo trục. Mỗi cụm có câu hỏi, gốc, trục và một định nghĩa chung; trong cụm, niềm tin xếp theo tuổi. Niềm tin thuộc hai cụm có một cụm chính, cụm kia ghi ở trường `cluster`.
 
@@ -143,7 +145,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### B.thuyen-005
 
 - **cluster:** C2
-- **definition:** Làm hai sản phẩm: bản trình nộp theo chuẩn của người chấm, bản thật theo chuẩn của mình. Mẹo, con của 021.
+- **definition:** Làm hai sản phẩm: bản trình nộp theo chuẩn của người chấm, bản thật theo chuẩn của mình. Mẹo, con của 021. Xếp lại 13/11 (tác giả): mẹo là thói quen hành động, thuộc phần áp dụng (`tactics`) của gói value; giữ số 005 ở đây để các liên kết cũ còn dùng.
 - **seen:** `thay`
 - **monologue:**
   - `ngo-nhan` · lớp 6: *Người chấm cần một thứ, mình cần một thứ khác, và không có lý do gì để hai thứ ấy phải trùng khớp. Mình nộp cho họ đúng thứ họ cần để được yên ổn; bản thật thì giữ lại, vì bản thật không cần ai thẩm định.*
@@ -206,7 +208,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### B.thuyen-035
 
 - **cluster:** C2
-- **definition:** Khuyết điểm chặn lộ trình đã chọn thì phải sửa; khuyết điểm ngoài lộ trình thì bỏ qua; sửa xong mới được phép dừng (tiên đề 2–3 của hệ giá trị, `M-he-gia-tri.md` §2). Bên dưới là hiệu ứng không ngồi yên được ([[FN.thuyen.adhd]]); niềm tin này là lời giải thích khoác lên nó. **Giá:** không còn gì để sửa nghĩa là không còn lộ trình, tức là nhãn *kẻ thất bại*.
+- **definition:** Không còn gì để sửa nghĩa là mình là kẻ thất bại; còn đang sửa một khuyết điểm trên lộ trình thì còn được đứng. Tách 13/11 (tác giả): phần tiêu chí "khuyết điểm chặn lộ trình thì sửa, ngoài lộ trình thì bỏ, sửa xong mới dừng" là value, chuyển sang gói value của Thuyên; ở đây chỉ giữ phần khẳng định. Không ghi liên kết tới gói value ở đây: niềm tin không trỏ tới value. Bản trước: Khuyết điểm chặn lộ trình đã chọn thì phải sửa; khuyết điểm ngoài lộ trình thì bỏ qua; sửa xong mới được phép dừng (tiên đề 2–3 của hệ giá trị, `M-he-gia-tri.md` §2). Bên dưới là hiệu ứng không ngồi yên được ([[FN.thuyen.adhd]]); niềm tin này là lời giải thích khoác lên nó. **Giá:** không còn gì để sửa nghĩa là không còn lộ trình, tức là nhãn *kẻ thất bại*.
 - **ref:** `ý` · Hewitt và Flett (1991), *self-oriented perfectionism*
 - **deviation:** người cầu toàn đòi hoàn hảo ở mọi nơi; Thuyên chỉ cầu toàn trên lộ trình đã chọn, nên người ngoài thấy anh vừa lười vừa chăm ([[FN.thuyen.luoi-co-chon-loc]]).
 - **seen:** `thay`
@@ -220,7 +222,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### B.thuyen-020
 
 - **cluster:** C2
-- **definition:** Một lời giải đúng chưa đủ; nó phải tối ưu, kể cả khi bài dễ và không ai chấm. Chuẩn của cái cân, không phải của người chấm; phần lành của cái tôi. **Giá:** ở P2 anh quên dòng này.
+- **definition:** Xếp lại 13/11 (tác giả): câu này là một tiêu chí chọn, tức value, không phải một khẳng định có thể sai; nội dung chuyển sang gói value của Thuyên, nguồn là B.thuyen-021. Giữ số 020 để các liên kết cũ còn dùng; phần khẳng định riêng, nếu có, chờ tác giả. Không ghi liên kết tới gói value ở đây: niềm tin không trỏ tới value. Bản trước: Một lời giải đúng chưa đủ; nó phải tối ưu, kể cả khi bài dễ và không ai chấm. Chuẩn của cái cân, không phải của người chấm; phần lành của cái tôi. **Giá:** ở P2 anh quên dòng này.
 - **seen:** `thay` từ lớp 12; `khong` ở P2
 - **monologue:**
   - `dien-giai` · lớp 12 (giáo án Tin, dòng đầu): *Một bài toán dễ không có nghĩa là được phép giải cẩu thả. Người chấm chỉ kiểm tra đáp án đúng hay sai; cái cân của mình kiểm tra lời giải có tối ưu hay không. Đáp án đúng là chuẩn của người khác; lời giải tối ưu là chuẩn của mình.*
@@ -522,7 +524,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 ### B.thuyen-016
 
 - **cluster:** C5
-- **definition:** Sức mạnh thật đo bằng số người mình nâng lên, không bằng số người mình đánh bại. Phiên bản lành của AX9 và là câu trên trang của H9. Mất ở P2 (anh chuyển sang kéo người khác xuống); trả lại ở phần sau.
+- **definition:** Người mạnh thật là người nâng được người khác lên, không phải người đánh bại được người khác. Tách 13/11 (tác giả): phần thước đo "đo sức mạnh bằng số người mình nâng lên" là value, chuyển sang gói value của Thuyên. Không ghi liên kết tới gói value ở đây: niềm tin không trỏ tới value. Phiên bản lành của AX9 và là câu trên trang của H9. Mất ở P2 (anh chuyển sang kéo người khác xuống); trả lại ở phần sau.
 - **ref:** `ý` · Robert Greenleaf (1970), *servant leadership*
 - **deviation:** lãnh đạo phụng sự của Greenleaf xuất phát từ sự quan tâm; Thuyên vẫn đo nó bằng sức mạnh: nâng người khác lên là cách mạnh nhất.
 - **seen:** `thay` từ lớp 12; `khong` ở P2

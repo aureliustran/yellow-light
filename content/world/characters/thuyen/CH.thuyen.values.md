@@ -1,0 +1,146 @@
+---
+id: CH.thuyen.values
+kind: character
+status: agreed
+updated: 2026-11-13
+aliases: [hệ giá trị Thuyên, value system Thuyên, giá trị Thuyên]
+exports:
+  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-001]]"
+  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-002]]"
+  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-003]]"
+  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-004]]"
+  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-005]]"
+  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-006]]"
+  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-007]]"
+  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-008]]"
+  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-009]]"
+parent: "[[CH.thuyen]]"
+sources:
+  - "tác giả 13/11 (trục → niềm tin → value system; vòng vận hành; ranh giới; tách 035, 020, 016)"
+  - "[[M-he-gia-tri|M-he-gia-tri.md §1–§3b (đã ghi đè 13/11)]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs]]"
+---
+# CH.thuyen.values · Hệ giá trị của Thuyên
+
+Hệ giá trị là thế giới quan hình thành từ niềm tin: với Thuyên, cái gì có giá trị và giá trị đến mức nào. Anh dùng nó khi quay ra ngoài: giải quyết vấn đề, ra quyết định, đối xử với người khác. Niềm tin thì dùng để độc thoại và tự soi ([[CH.thuyen.beliefs]]). Khuôn: `schemas/value.md`. Mỗi value trỏ về niềm tin sinh ra nó; niềm tin không trỏ ngược lại.
+
+**Mục:** `system` · `measure` · `blind` · `values` · `rank` · `gaps`. Value `agreed`: 001–007 (tác giả duyệt 13/11). Value `proposed`: 008, 009 (Claude rút từ `M-he-gia-tri.md`, chờ tác giả).
+
+## system
+
+Một cỗ máy tự sửa: đo mọi thứ bằng cái cân của mình, tìm khuyết điểm chặn lộ trình, sửa, rồi đặt mục tiêu kế tiếp. Người ngoài nhìn thấy chí cầu tiến.
+
+## measure
+
+Mọi thứ, kể cả chính mình, đều có ưu khuyết đo được, và phép đo là cái cân của anh, không phải thước của người khác. Từ [[CH.thuyen.beliefs#B.thuyen-010]] và [[CH.thuyen.beliefs#B.thuyen-021]].
+
+## blind
+
+Giới hạn của việc tự soi; công cụ tự soi là [[FN.thuyen.lang-kinh]].
+
+- Anh thấy thước của người khác là chủ quan, và tự miễn cho cái cân của mình: anh không soi ai đặt vạch đích cho chính cái cân ấy ([[CH.thuyen.beliefs#B.thuyen-030]], [[CH.thuyen.beliefs#B.thuyen-034]]).
+- Thứ không kêu thành tiếng thì không phải chỗ kẹt: cảm xúc, của người khác và của chính anh, không lên được bàn cân ([[CH.thuyen.beliefs#B.thuyen-010]]).
+- Nhu cầu được thương (cụm C7) vẫn nuôi lựa chọn của anh, nhưng anh nêu sai lý do, vì anh không nhìn thấy nó.
+
+## values
+
+### V.thuyen-001
+
+- **name:** Sửa khuyết trên lộ trình
+- **statement:** Khuyết điểm chặn lộ trình đã chọn thì đáng sửa; khuyết điểm ngoài lộ trình thì bỏ qua; sửa xong mới được dừng.
+- **from:** [[CH.thuyen.beliefs#B.thuyen-035]], [[CH.thuyen.beliefs#B.thuyen-010]]
+- **applies:** chọn việc, học, làm việc; chấm chính mình
+- **tactics:** none
+- **cost:** thứ nằm ngoài lộ trình bị bỏ, kể cả con người và cảm xúc
+- **status:** `agreed`
+
+### V.thuyen-002
+
+- **name:** Tối ưu, kể cả khi không ai chấm
+- **statement:** Một lời giải đúng chưa đáng dừng; lời giải tối ưu mới đáng, kể cả khi bài dễ và không ai chấm.
+- **from:** [[CH.thuyen.beliefs#B.thuyen-021]]
+- **applies:** giải bài, viết mã, làm việc ở lab; `khong` ở P2 (anh quên dòng này)
+- **tactics:** none
+- **cost:** tốn công ở chỗ không ai cần
+- **status:** `agreed`
+
+### V.thuyen-003
+
+- **name:** Đo sức mạnh bằng số người mình nâng lên
+- **statement:** Nâng được người khác lên đáng hơn đánh bại được người khác.
+- **from:** [[CH.thuyen.beliefs#B.thuyen-016]]
+- **applies:** dẫn nhóm, giúp người (đại học, GĐ1); mất ở P2, trả lại ở phần sau
+- **tactics:** none
+- **cost:** none
+- **status:** `agreed`
+
+### V.thuyen-004
+
+- **name:** Vị thế trước, nói thật sau
+- **statement:** Giành được vị thế đáng hơn nói ra điều đúng ngay bây giờ.
+- **from:** [[CH.thuyen.beliefs#B.thuyen-033]]
+- **applies:** đối diện người có quyền; chọn lúc lên tiếng
+- **tactics:** none
+- **cost:** hoãn nói thật cho tới khi "đủ cao"; ở P2 cái đúng của anh thành quy tắc để đè người
+- **status:** `agreed`
+
+### V.thuyen-005
+
+- **name:** Được nể hơn được thương
+- **statement:** Sự kiêng nể đáng tin cậy hơn tình thương, nên đáng giành hơn.
+- **from:** [[CH.thuyen.beliefs#B.thuyen-027]]
+- **applies:** cách đối xử với người khác từ lớp 7; cực đoan ở P2
+- **tactics:** none
+- **cost:** bị coi là đáng sợ, đáng ghét
+- **status:** `agreed`
+
+### V.thuyen-006
+
+- **name:** Phán đoán của mình trên sự gật đầu
+- **statement:** Khi phán đoán của mình và ý người khác va nhau, phán đoán của mình đáng theo hơn.
+- **from:** [[CH.thuyen.beliefs#B.thuyen-021]]
+- **applies:** mọi quyết định có người phản đối
+- **tactics:** hai tờ nháp: bản trình nộp theo chuẩn của người chấm, bản thật theo chuẩn của mình (B.thuyen-005)
+- **cost:** không để ai chạm vào
+- **status:** `agreed`
+
+### V.thuyen-007
+
+- **name:** Đường vòng hơn đối đầu
+- **statement:** Đạt mục tiêu bằng đường vòng đáng hơn thắng một trận đối đầu trực diện.
+- **from:** [[CH.thuyen.beliefs#B.thuyen-006]], [[CH.thuyen.beliefs#B.thuyen-029]], [[CH.thuyen.beliefs#B.thuyen-033]]
+- **applies:** xung đột với người có quyền
+- **tactics:** none
+- **cost:** none
+- **status:** `agreed`
+
+### V.thuyen-008
+
+- **name:** Luôn có mục tiêu kế tiếp
+- **statement:** Có một thứ rõ ràng ở phía trước đáng hơn được nghỉ; không để mình rảnh.
+- **from:** [[CH.thuyen.beliefs#B.thuyen-035]], [[CH.thuyen.beliefs#B.thuyen-007]]
+- **applies:** lúc vừa đạt một mục tiêu; lúc rảnh
+- **tactics:** tự đẻ việc; danh sách, file *next*
+- **cost:** cảnh rảnh là cảnh đau
+- **status:** `proposed`
+
+### V.thuyen-009
+
+- **name:** Thành quả xứng với công
+- **statement:** Việc chỉ đáng làm khi thành quả xứng với công bỏ ra: thành quả nhỏ thì làm tối thiểu, thành quả lớn thì cày.
+- **from:** [[CH.thuyen.beliefs#B.thuyen-010]], [[CH.thuyen.beliefs#B.thuyen-035]]
+- **applies:** chọn bỏ công vào đâu (học thuộc, việc nhà, việc ở lab); phép tính là [[FN.thuyen.luoi-co-chon-loc]]
+- **tactics:** tối ưu trước khi làm
+- **cost:** người ngoài thấy lười; ở đáy phép tính trả về không
+- **status:** `proposed`
+
+## rank
+
+none: chưa xếp thứ bậc khi các value va nhau (chờ tác giả).
+
+## gaps
+
+- Thứ bậc (`rank`).
+- Value theo giai đoạn của việc dùng lăng kính vào đâu (`M-he-gia-tri.md` §3c): chưa viết thành value.
+- Value của anh đối với Nhi và với tình thương: chưa có; cụm C7 không có niềm tin đánh số để làm `from`.
+- V.thuyen-002: niềm tin nguồn hiện là B.thuyen-021; B.thuyen-020 chỉ còn giữ số.

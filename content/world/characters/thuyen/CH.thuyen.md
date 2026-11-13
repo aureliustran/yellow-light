@@ -2,7 +2,7 @@
 id: CH.thuyen
 kind: character
 status: agreed
-updated: 2026-11-10
+updated: 2026-11-13
 aliases:
   - NV.thuyen
   - thuyen
@@ -14,6 +14,7 @@ exports:
   - "cai-goi"
   - "[[world/characters/thuyen/mechanics/CH.thuyen.mechanics]]"
   - "[[world/characters/thuyen/CH.thuyen.beliefs]]"
+  - "[[world/characters/thuyen/CH.thuyen.values]]"
   - "[[world/characters/thuyen/CH.thuyen.voice]]"
 sources:
   - "posts/vercel ch.02"

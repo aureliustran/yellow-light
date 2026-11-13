@@ -3,7 +3,7 @@ id: SCH.event
 kind: schema
 entity: event
 status: proposed
-updated: 2026-11-10
+updated: 2026-11-13
 required: [id, kind, parent, status, updated, goal, event]
 required-one-of: [date, span]
 aliases: [SCH.event, schema.event]
@@ -32,11 +32,17 @@ Only what is the event's own, plus explicit deviations from what it inherits.
 | `must-show` · `must-hide` | what has to reach the page · what must not (`[[SEC-003]]`) | when any |
 | `axis` · `level` | `AX1` · step with its scale: `EXL 5`, `SCALE.pride 3` (default scale EXL) | inside an existential band |
 | `beliefs` | `BL-` consumed or produced | when any |
+| `values` | values used to choose in this event: `[[CH.thuyen.values#V.thuyen-004]]` | when any; required in a PAST event |
+| `outcome` | the result of the action | required in a PAST event |
+| `reflect` | how the character reads the result, with which tool and inside which limit | required in a PAST event |
+| `belief-out` | the belief the turn produces, with the operation: `new` · `upgrade` · `change` | required in a PAST event |
 | `fuel` · `cost` | fuel (7 kinds, `core/shared-mechanics`) · price paid | from node level `S` up |
 | `changes` | attributes, relations, secrets that change: `SEC-003: +[[CH.thuyen]]` | when any |
 | `causes` | events in other nodes it causes | when any |
 | `register` · `uses` | only when different from the inherited one: `[[REG.…]]` · `[[PAT.…]]`, `[[TEC.…]]` | optional |
 | `override` | `[[LAW.…]]: reason` | optional |
+
+**Loop fields** `locked 13/11`: `values` → `event` (the action) → `outcome` → `reflect` → `belief-out` are one turn of the loop ([[docs/framework/model|model]] *Axis → belief → value*). A PAST event runs the whole turn, because PAST exists to build beliefs. A present-time event needs only `values`; its turn may stay open. They apply to PAST as it is rewritten.
 
 No `chapter` field: the blueprint owns event ↔ chapter.
 

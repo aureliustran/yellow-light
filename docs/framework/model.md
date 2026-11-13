@@ -18,7 +18,7 @@ How entities fit together. Fields of each kind are defined in its schema under `
 | L1 core | `core/` | axes `AX`, scales `SCALE`, shared mechanics, the constitution `ART` | L0 |
 | L1.5 rules | `rules/` | laws `LAW` | L0, L1 |
 | L1.5 library | `lib/` | registers `REG`, techniques `TEC`, patterns `PAT` | L0, L1, rules |
-| L2 world (static) | `world/` | characters, groups, settings, objects, secrets, beliefs, functions | L0–L1.5 |
+| L2 world (static) | `world/` | characters, settings, objects, secrets, beliefs, value systems, functions | L0–L1.5 |
 | L3 storylines (dynamic) | `storylines/` | storylines, nodes, goals, events, intersections | L0–L2 |
 | L4 plans | `plans/` | editions, chapter blueprints, scenes | L0–L3 |
 | Output | `posts/` | published chapters, cross-posts | nothing (text only) |
@@ -45,6 +45,7 @@ One line per kind; the schema is the source of truth. Ids follow [ids.md](ids.md
 | object | `OBJ-NNN` | file or inline | `schemas/object.md` |
 | secret | `SEC-NNN` | file | `schemas/secret.md` |
 | belief | `B.<char>-<NNN>` | inline in the character's beliefs file | `schemas/belief.md` |
+| value | `V.<char>-<NNN>` | inline in the character's values file | `schemas/value.md` |
 | function | `FN.<character>.<name>` | file in the character package | `schemas/function.md` |
 | storyline | `ROM`, `PAST`, … | file | `schemas/node.md` |
 | node | `ROM.TN`, `PAST.N.HD`, `SELF.thuyen` | file | `schemas/node.md` |
@@ -82,6 +83,47 @@ A node never reads another node directly. Values cross nodes only through `world
 `world/` declares *what can vary* (an attribute and its allowed values, e.g. `cai-toi-doc ∈ {ngu, thuc-co-dieu-kien, …}`). `storylines/` records *what it is at a given time*. Phases (`OPEN`, `P1`, `P2`, `BREAK`, `AFTER`, `POST`) are the time dimension; levels (`D` … `SSS`) are the weight of a node per phase.
 
 A character is a package: main file (identity, purpose, attributes, exports), beliefs, base voice, mechanics (function signatures, one file per function). Crowd characters are rows in the `members` section of the node that owns them (a group is a node, e.g. `SOL.HD`; `GRP.` dropped 11/11).
+
+## Axis → belief → value `locked 13/11`
+
+**Chain.** The writer defines the axes (`AX`) directly. From an axis the writer designs a character's **beliefs**, bending the axis by the character's personality and by the purpose the character is built for. From its beliefs the character forms a **value system**. `PAST` writes the events that make the beliefs form on the page; present-time storylines consume beliefs and values.
+
+```
+AX (core) ─► belief (world) ─► value system (world)
+PAST events: form beliefs          present events: consume beliefs and values
+```
+
+**Loop.** One turn of the loop is one event:
+
+```
+reflection ─► BELIEF ─► VALUE ─► action ─► result ─► reflection ─► new belief, upgraded belief, or changed belief
+```
+
+**Boundary.** The two are different things, defined by where they stand in the loop.
+
+| | Belief | Value |
+| --- | --- | --- |
+| Position | after a result: the output of reflection | before an action: the input of a choice |
+| Answers | "what does that mean?" | "what do I choose now?" |
+| Form | a claim about self, others or the world: "X is so" | a comparison: "X is worth more than Y", "when A, choose B" |
+| Fails by | being **false** (hence "half true", "false in") | never false; only **costly**, or in **conflict** with another value |
+| Changes by | reflection on a result | never directly; recomputed when a source belief changes |
+| Used | inward: monologue, self-reflection | outward: decisions, problem solving, dealing with other people |
+| On the page | thought, when `seen` allows | choices and behaviour, always visible |
+| Awareness | may be blind (`seen: khong`) | the character always sees what it chose, but may give the wrong reason (a value fed by a blind belief) |
+
+**Three tests** for a sentence: (1) can it be false? then it is a belief; if one can only ask "was it worth it?", it is a value. (2) Is it thought after something happened (belief) or used at the moment of choosing (value)? (3) Two characters with the same belief can still choose differently; the part that differs is the value.
+
+**Rules.**
+1. A value has `from`, at least one belief. A belief never points to a value (`LAW.check.value-from`, `LAW.check.belief-value`).
+2. A result never edits a value. It passes through reflection, changes a belief, and the value is recomputed.
+3. Two values in conflict are settled by `rank`. Two beliefs in contradiction may coexist: that is material for monologue.
+4. A function (`FN`) is outside both: it is what the character can do, not what it believes or chooses. Before the first belief exists, functions act in place of values; the result meeting the wound yields the first misconception (`ngo-nhan`).
+5. A blind belief still feeds values and shows in behaviour, but reflection cannot reach it, so it cannot be upgraded until the story opens it.
+6. Reflection has a tool and limits per character (for Thuyên: the lens [[FN.thuyen.lang-kinh]], and the `blind` section of his value system).
+7. A tactic (old "mẹo") is a habit of action: it is listed under the value it applies (`tactics`), unless it is a way of deceiving oneself, which stays a belief.
+
+Schemas: `schemas/belief.md`, `schemas/value.md`; loop fields of an event: `schemas/event.md`.
 
 ## Common header
 

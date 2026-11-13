@@ -219,6 +219,40 @@ law('LAW.check.source-path', () => {
   }
 });
 
+law('LAW.check.value-from', () => {
+  // mỗi value có from trỏ tới ít nhất một niềm tin có thật
+  const beliefIds = new Set();
+  for (const it of items) if (/\.beliefs$/.test(it.base)) for (const m of it.body.matchAll(/^### (B\.[a-z-]+?-\d{3})\s*$/gm)) beliefIds.add(m[1]);
+  for (const it of items) {
+    if (!/\.values$/.test(it.base)) continue;
+    const lines = it.body.split(/\r?\n/);
+    let cur = null;
+    const close = () => { if (cur && !cur.ok) add('LAW.check.value-from', 'error', it, cur.line, `${cur.id} không có from trỏ tới niềm tin`); };
+    lines.forEach((line, i) => {
+      const h = line.match(/^### (V\.[a-z-]+?-\d{3})\s*$/);
+      if (h) { close(); cur = { id: h[1], line: it.bodyStart + i + 1, ok: false }; return; }
+      if (/^## /.test(line)) { close(); cur = null; return; }
+      if (cur && /^- \*\*from:\*\*/.test(line)) {
+        const refs = [...line.matchAll(/B\.[a-z-]+?-\d{3}/g)].map((m) => m[0]);
+        cur.ok = refs.length > 0;
+        for (const r of refs) if (!beliefIds.has(r)) add('LAW.check.value-from', 'error', it, it.bodyStart + i + 1, `${cur.id}: from trỏ niềm tin không có: ${r}`);
+      }
+    });
+    close();
+  }
+});
+
+law('LAW.check.belief-value', () => {
+  // niềm tin không trỏ tới value
+  for (const it of items) {
+    if (!/\.beliefs$/.test(it.base)) continue;
+    it.body.split(/\r?\n/).forEach((line, i) => {
+      const m = line.match(/(^|[^A-Za-z0-9.])V\.[a-z-]+?-\d{3}/);
+      if (m) add('LAW.check.belief-value', 'error', it, it.bodyStart + i + 1, 'niềm tin trỏ tới value (chỉ value được trỏ về niềm tin)');
+    });
+  }
+});
+
 law('LAW.check.md-link', () => {
   const re = /\]\(([^)\s]+)\)/g;
   for (const it of items) {

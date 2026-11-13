@@ -3,7 +3,7 @@ id: SCH.character
 kind: schema
 entity: character
 status: proposed
-updated: 2026-11-10
+updated: 2026-11-13
 required: [id, kind, status, updated, aliases, exports]
 aliases: [schema.character]
 sources:
@@ -20,7 +20,8 @@ A **static** entity (dimension table). Values over time live in nodes (`storylin
 ```
 world/characters/<id>/
 ├── CH.<id>.md                 main file
-├── CH.<id>.beliefs.md         BL-NNN (schemas/belief.md)
+├── CH.<id>.beliefs.md         B.<id>-NNN (schemas/belief.md)
+├── CH.<id>.values.md          V.<id>-NNN, the value system (schemas/value.md)
 ├── CH.<id>.voice.md           base voice: dialogue · narration (when POV) · lexicon · forbidden
 └── mechanics/
     ├── CH.<id>.mechanics.md   signature of every function, one line each
@@ -40,7 +41,7 @@ Empty sections are written `none`, never omitted.
 | `rules` | the character's own hard limits. Link to `rules/` only for laws that apply to several people |
 | `attributes` | dynamic attributes, each with its value set, e.g. `cai-toi-doc ∈ {ngu, thuc-co-dieu-kien, phong-kin-hong, chiem-cho}`, and its `owner` node. Names and value sets only |
 | `record` | credentials with the date each was obtained: schools, awards, positions, jobs, certificates. Each row: what, when, level or result, status, and the event that shows it (a link once the event exists). The scene belongs to the event; the credential is part of who the character is |
-| `exports` | ids other files may import: functions, beliefs, attributes |
+| `exports` | ids other files may import: functions, beliefs, values, attributes |
 
 Every file in the package opens with a head of about 20 lines: header, one-sentence summary, key index.
 

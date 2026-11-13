@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 195 file. Chưa chuyển sang khuôn mới (legacy): 139 file.
+Có phần đầu (frontmatter): 197 file. Chưa chuyển sang khuôn mới (legacy): 139 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -29,6 +29,7 @@ Có phần đầu (frontmatter): 195 file. Chưa chuyển sang khuôn mới (leg
 | `CH.thuyen` | `character` | `agreed` | `world/characters/thuyen/CH.thuyen.md` | Nam chính, POV chính. Một chàng trai giỏi đọc người, mù với chính mình, chạy bằng một cỗ máy hiện sinh mà nhiên liệu là sự công nhận. |
 | `CH.thuyen.beliefs` | `character` | `agreed` | `world/characters/thuyen/CH.thuyen.beliefs.md` | **Luật của gói** `locked 10/11`: tình thương, nhu cầu được ôm và nỗi cô độc luôn `seen: khong` suốt Phần 1; chúng thuộc AX7 và AX8, và lộ… |
 | `CH.thuyen.mechanics` | `character` | `agreed` | `world/characters/thuyen/mechanics/CH.thuyen.mechanics.md` | Sơ đồ và chữ ký mọi hàm, mỗi hàm một dòng. Thân từng hàm ở `FN.thuyen.<tên>.md` trong thư mục này. |
+| `CH.thuyen.values` | `character` | `agreed` | `world/characters/thuyen/CH.thuyen.values.md` | Hệ giá trị là thế giới quan hình thành từ niềm tin: với Thuyên, cái gì có giá trị và giá trị đến mức nào. Anh dùng nó khi quay ra ngoài: … |
 | `CH.thuyen.voice` | `character` | `locked` | `world/characters/thuyen/CH.thuyen.voice.md` | Tầng thấp nhất của chuỗi giọng: tình tiết > node × giai đoạn > `SELF.thuyen` × giai đoạn > **giọng nền (file này)**. Giọng với từng người… |
 | `CH.vu` | `character` | `agreed` | `world/characters/vu/CH.vu.md` | Người bạn thân của Thuyên, "hội đồng một người" của anh. Yêu thương bằng hành động, nói năng thẳng thắn, không ghen tị; biết mọi biến cố … |
 | `CH.vu.beliefs` | `character` | `agreed` | `world/characters/vu/CH.vu.beliefs.md` | Khuôn hai lớp (`schemas/belief.md`). Mã của Vũ: `B.vu-<số>` (cũ BL-050 → `B.vu-001`). **Giọng tự thoại của Vũ:** xưng "tao", thẳng thắn, … |
@@ -148,6 +149,7 @@ Có phần đầu (frontmatter): 195 file. Chưa chuyển sang khuôn mới (leg
 | `SCH.setting` | `schema` | `proposed` | `schemas/setting.md` | A place, a recurring space. **Location:** `world/settings/SET.<name>.md`. **Id:** `SET.<name>`. Header: `parent` (larger setting, if any). |
 | `SCH.spec` | `schema` | `proposed` | `schemas/spec.md` | A specification page of the framework or the app. **Location:** `docs/**`. **Id:** `SPEC.<name>`. |
 | `SCH.technique` | `schema` | `proposed` | `schemas/technique.md` | A sentence- or paragraph-level method that achieves a law or a register. See [library](../../docs/framework/library.md). |
+| `SCH.value` | `schema` | `agreed` | `schemas/value.md` | A value is one **criterion a character chooses by**: what is worth something to the character, and how much. A character's values togethe… |
 | `SEC-001` | `secret` | `agreed` | `world/secrets/SEC-001.md` | Nhi là con gái Chủ tịch tập đoàn Astrea và em gái Khải, Tổng giám đốc ([[CH.nhi]]). |
 | `SEC-002` | `secret` | `locked` | `world/secrets/SEC-002.md` | Sau khi lượt 1 thất bại (2021), bố mẹ Nhi ngầm tạo điều kiện cho Phong, người có cảm tình với Nhi và có phụ huynh là đối tác của Astrea, … |
 | `SELF` | `node` | `agreed` | `storylines/SELF/SELF.md` | Gốc của các node `SELF.<id>`: mỗi nhân vật có hiện sinh một node, làm chủ thuộc tính nội tâm của người ấy theo giai đoạn. |

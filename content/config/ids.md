@@ -29,6 +29,7 @@ Chuyển sang spec: [`docs/framework/ids.md`](../../docs/framework/ids.md) (ng�
 | Thang kiêu ngạo của Thuyên | `Nấc-TT` | `SCALE.pride` `proposed` | `SCALE.pride 3` |
 | Thang "Nhi thích Thuyên" | `Nấc-RM` | `SCALE.rom` `proposed` | `SCALE.rom 5` |
 | Niềm tin | `NT-nn`, `BL-NNN` | `B.<id nhân vật>-<NNN>` (đếm riêng từng nhân vật, 11/11) | `B.thuyen-024` |
+| Value (tiêu chí của hệ giá trị) | (tiên đề của `M-he-gia-tri.md`) | `V.<id nhân vật>-<NNN>` (đếm riêng từng nhân vật, 13/11) | `V.thuyen-001` |
 | Bộ chịu đựng | `TB-n` | `DV-NNN` | `DV-007` |
 | Register | `R1`–`R9` | `REG.<ten>` (R1–R9 làm alias) | `REG.so-cai` |
 | Nhân vật | `NV.` | `CH.` | `CH.thuyen` |

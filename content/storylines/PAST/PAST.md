@@ -22,7 +22,8 @@ Gốc của các node quá khứ. QK phát triển nhân vật qua hồi tưởn
 
 ### PAST.G1
 
-- **statement:** Quá khứ sinh ra những niềm tin mà hiện tại tiêu thụ; mỗi neo phải có chỗ được tiêu thụ ở hiện tại.
+- **statement:** PAST dựng niềm tin, và qua đó dựng hệ giá trị, để nhân vật sử dụng ở hiện tại. Niềm tin được tác giả thiết kế từ trục trước; PAST viết những tình tiết làm niềm tin ấy hình thành. Mỗi niềm tin có ít nhất một lá hình thành trong PAST và ít nhất một chỗ được tiêu thụ ở hiện tại. `locked 13/11` (tác giả). Bản trước: "Quá khứ sinh ra những niềm tin mà hiện tại tiêu thụ; mỗi neo phải có chỗ được tiêu thụ ở hiện tại."
+- **note:** nội dung PAST hiện có sẽ bỏ và được viết lại theo mục tiêu này (tác giả, 13/11); mỗi lá mới đi trọn một vòng `values` → hành động → `outcome` → `reflect` → `belief-out` (`schemas/event.md`).
 - **serves:** AX3, AX7, AX9 (trục nặng của phần mở đầu, `goc.md` §4)
 - **status:** `agreed`
 

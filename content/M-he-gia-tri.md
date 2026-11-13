@@ -2,6 +2,8 @@
 
 Oct 18, 2026 · @aureliustran. Trạng thái: **khung đã chốt với tác giả (18/10), chưa sửa chương.** Cập nhật 19/10: định nghĩa lại lăng kính và năng lực đọc người theo plan sửa ch.2–5; bỏ hẳn việc đọc nét mặt, tiếng dép, tiếng bát, vai bố. Cập nhật 04/11: §3c lăng kính dùng để làm gì (`_archive/tuyen/qua-khu/thuyen-lang-kinh.md`).
 
+**Kế thừa 13/11:** phần hệ giá trị của file này chuyển thành gói value [[CH.thuyen.values]] (khuôn `schemas/value.md`); file này còn lại là nguồn lịch sử.
+
 **Ghi đè 13/11 (tác giả):** những chỗ lệch với gói niềm tin [[CH.thuyen.beliefs]] được ghi đè theo niềm tin, vì niềm tin mô tả tốt hơn và có logic hơn. Mỗi chỗ mang nhãn `ghi đè 13/11` và mã niềm tin. Khi hai bên khác nhau, gói niềm tin thắng. Số chương cũ, bảng việc và các dòng về Vy (đã bỏ 27/10) giữ nguyên làm lịch sử.
 
 Phạm vi: toàn Phần 1 (ch.2–56). Đây là module gốc: tẩm độc, được gì – ai mất gì, motif báo thù đều là hệ quả của nó.
