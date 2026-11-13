@@ -5,7 +5,9 @@ status: locked
 updated: 2026-11-10
 parent: "[[CH.thuyen.mechanics]]"
 aliases: [fn.thuyen.lang-kinh, lăng kính, đọc người]
-sources: [_archive/tuyen/qua-khu/thuyen-lang-kinh.md §1–4, M-he-gia-tri.md §3a, §3c]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen-lang-kinh.md §1–4"
+  - "[[M-he-gia-tri|M-he-gia-tri.md §3a, §3c]]"
 ---
 # FN.thuyen.lang-kinh
 

@@ -5,7 +5,9 @@ status: proposed
 updated: 2026-11-10
 parent: "[[CH.nhi.mechanics]]"
 aliases: [fn.nhi.thich, ba gu, chín nấc, gu tự khai]
-sources: [_archive/tuyen/qua-khu/nhi.md §1.6 (locked 30–31/10), 03-kho-nhi-thich-thuyen.md §0–1 (proposed)]
+sources:
+  - "_archive/tuyen/qua-khu/nhi.md §1.6 (locked 30–31/10)"
+  - "[[03-kho-nhi-thich-thuyen|03-kho-nhi-thich-thuyen.md §0–1 (proposed)]]"
 ---
 # FN.nhi.thich
 

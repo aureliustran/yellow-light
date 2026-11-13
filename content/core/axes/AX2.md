@@ -5,7 +5,8 @@ status: locked
 updated: 2026-11-10
 name: Sống hay sống sót
 aliases: [H2, Sống hay sống sót]
-sources: [_archive/tuyen/goc.md §2 (chuyển 10/11)]
+sources:
+  - "_archive/tuyen/goc.md §2 (chuyển 10/11)"
 ---
 # AX2 · Sống hay sống sót
 

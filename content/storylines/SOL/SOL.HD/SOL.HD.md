@@ -8,7 +8,10 @@ participants: ["[[CH.nhi]]"]
 axes: [AX5, AX7]
 weight: {P1: A, P2: A, BREAK: B, AFTER: B}
 aliases: [SL.HD, Hội đồng quản trị của Nhi, GRP.hoi-dong-nhi, hội đồng Nhi, HĐQT, HĐQT 🎀, hội đồng quản trị]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md, world/groups/GRP.hoi-dong-nhi.md (gộp vào 11/11; nguồn của nó: 02-hoi-dong-nhi.md §0, §2–4, canon/bible-v2.md §4.6, _archive/tuyen/qua-khu/nhi.md §4, §5.2)]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
+  - "nhóm GRP.hoi-dong-nhi (đã gộp vào 11/11, file đã xoá; nguồn của nó: 02-hoi-dong-nhi.md §0, §2–4, canon/bible-v2.md §4.6, _archive/tuyen/qua-khu/nhi.md §4, §5.2)"
 ---
 # SOL.HD · Hội đồng quản trị của Nhi
 

@@ -5,7 +5,8 @@ status: locked
 updated: 2026-11-10
 name: Đọc người, mù với mình
 aliases: [H4, Đọc người mù với mình]
-sources: [_archive/tuyen/goc.md §2 (chuyển 10/11)]
+sources:
+  - "_archive/tuyen/goc.md §2 (chuyển 10/11)"
 ---
 # AX4 · Đọc người, mù với mình
 

@@ -5,7 +5,8 @@ entity: pattern
 status: proposed
 updated: 2026-11-10
 required: [id, kind, status, updated, serves]
-sources: [docs/framework/library.md (10/11)]
+sources:
+  - "[[docs/framework/library|docs/framework/library.md (10/11)]]"
 ---
 # schema · pattern
 

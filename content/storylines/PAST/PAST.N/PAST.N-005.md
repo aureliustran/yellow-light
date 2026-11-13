@@ -12,7 +12,8 @@ axis: [AX7, AX5]
 level: "`locked 31/10` nấc 3 · H7, H5"
 beliefs: "B.nhi-001 (sinh)"
 aliases: [QK.N N.6, N.6, Hồng]
-sources: [_archive/tuyen/qua-khu/nhi.md §2 (chuyển 10/11)]
+sources:
+  - "_archive/tuyen/qua-khu/nhi.md §2 (chuyển 10/11)"
 ---
 # PAST.N-005 · Hồng
 

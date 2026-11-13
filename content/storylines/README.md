@@ -6,8 +6,9 @@ status: locked
 updated: 2026-11-10
 participants: []
 axes: [AX1, AX2, AX3, AX4, AX5, AX6, AX7, AX8, AX9]
-aliases: [cây tuyến, gốc của cây tuyến, tuyen]
-sources: [_archive/tuyen/README.md §2, §8; _archive/tuyen/goc.md §1, §4, §5, §6, §7 (chuyển 10/11)]
+aliases: [TREE, cây tuyến, gốc của cây tuyến, tuyen]
+sources:
+  - "_archive/tuyen/README.md §2, §8; _archive/tuyen/goc.md §1, §4, §5, §6, §7 (chuyển 10/11)"
 ---
 # TREE · Cây tuyến
 

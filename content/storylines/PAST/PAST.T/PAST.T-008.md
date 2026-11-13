@@ -12,7 +12,10 @@ axis: [AX3]
 level: "EXL 3"
 beliefs: "B.thuyen-021; B.thuyen-025 (mầm)"
 aliases: [QK.T 1.6]
-sources: [_archive/tuyen/qua-khu/thuyen.md §1–3, _archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §2.1, _archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §2.2 (T3b)]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen.md §1–3"
+  - "_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §2.1"
+  - "_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §2.2 (T3b)"
 ---
 # PAST.T-008 · 1.6
 

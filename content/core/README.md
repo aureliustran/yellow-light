@@ -4,7 +4,8 @@ kind: spec
 status: locked
 updated: 2026-11-10
 aliases: [core]
-sources: [_archive/tuyen/goc.md §2, §3 (chuyển 10/11)]
+sources:
+  - "_archive/tuyen/goc.md §2, §3 (chuyển 10/11)"
 ---
 # Core
 

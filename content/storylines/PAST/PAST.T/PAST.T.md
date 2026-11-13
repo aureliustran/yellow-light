@@ -8,7 +8,10 @@ participants: ["[[CH.thuyen]]"]
 axes: [AX1, AX2, AX3, AX4, AX5, AX7, AX9]
 weight: {OPEN: SSS, P1: A, P2: B, BREAK: A, AFTER: S}
 aliases: [QK.T, bảng neo Thuyên]
-sources: [_archive/tuyen/qua-khu/thuyen.md §0–3, §5 (bảng neo), config/calendar.md (lịch 31/10), _archive/tuyen/qua-khu/thuyen*.md (T3b, 10/11)]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen.md §0–3, §5 (bảng neo)"
+  - "[[config/calendar|config/calendar.md (lịch 31/10)]]"
+  - "_archive/tuyen/qua-khu/thuyen*.md (T3b, 10/11)"
 ---
 # PAST.T · Quá khứ của Thuyên
 

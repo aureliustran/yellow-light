@@ -3,7 +3,10 @@ id: SPEC.adr-001
 kind: spec
 status: agreed
 updated: 2026-11-10
-sources: [content/de-xuat/kien-truc-framework.md §1, §15, versions 1–3 (05–06/11), decisions 08/11 and 10/11]
+sources:
+  - "[[de-xuat/kien-truc-framework|content/de-xuat/kien-truc-framework.md §1, §15]]"
+  - "versions 1–3 (05–06/11)"
+  - "decisions 08/11 and 10/11"
 ---
 # ADR-001: the story repository as a typed codebase
 

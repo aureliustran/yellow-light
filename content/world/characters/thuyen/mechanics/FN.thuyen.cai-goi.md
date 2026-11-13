@@ -5,7 +5,9 @@ status: agreed
 updated: 2026-11-10
 parent: "[[CH.thuyen.mechanics]]"
 aliases: [fn.thuyen.cai-goi, cái gối, bộ phận bị khóa]
-sources: [_archive/tuyen/qua-khu/thuyen-co-may.md §2, _archive/tuyen/qua-khu/thuyen.md §6.3]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen-co-may.md §2"
+  - "_archive/tuyen/qua-khu/thuyen.md §6.3"
 ---
 # FN.thuyen.cai-goi
 

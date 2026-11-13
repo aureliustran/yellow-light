@@ -12,7 +12,8 @@ axis: [AX4]
 level: "EXL 7"
 beliefs: "B.thuyen-023"
 aliases: [QK.T 3.3]
-sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen.md §1–3"
 ---
 # PAST.T-024 · 3.3
 

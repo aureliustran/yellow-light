@@ -4,9 +4,16 @@ kind: character
 status: locked
 updated: 2026-11-10
 aliases: [niềm tin Nhi, NT Nhi]
-exports: [B.nhi-001, B.nhi-002, B.nhi-003, B.nhi-004, B.nhi-005, B.nhi-006]
+exports:
+  - "[[world/characters/nhi/CH.nhi.beliefs#B.nhi-001]]"
+  - "[[world/characters/nhi/CH.nhi.beliefs#B.nhi-002]]"
+  - "[[world/characters/nhi/CH.nhi.beliefs#B.nhi-003]]"
+  - "[[world/characters/nhi/CH.nhi.beliefs#B.nhi-004]]"
+  - "[[world/characters/nhi/CH.nhi.beliefs#B.nhi-005]]"
+  - "[[world/characters/nhi/CH.nhi.beliefs#B.nhi-006]]"
 parent: "[[CH.nhi]]"
-sources: [_archive/tuyen/qua-khu/nhi.md §2, §3 (locked 31/10), §4; hội thoại 10/11 (khuôn hai lớp, luật từ phức, lâu đài, cái cân, hai cái vạch)]
+sources:
+  - "_archive/tuyen/qua-khu/nhi.md §2, §3 (locked 31/10), §4; hội thoại 10/11 (khuôn hai lớp, luật từ phức, lâu đài, cái cân, hai cái vạch)"
 ---
 # CH.nhi.beliefs · Niềm tin của Nhi
 

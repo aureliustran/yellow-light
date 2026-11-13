@@ -6,7 +6,9 @@ status: agreed
 updated: 2026-11-10
 required: [id, kind, status, updated, name]
 aliases: [schema.axis]
-sources: [docs/framework/model.md, _archive/tuyen/goc.md §2 (chuyển 10/11)]
+sources:
+  - "[[docs/framework/model|docs/framework/model.md]]"
+  - "_archive/tuyen/goc.md §2 (chuyển 10/11)"
 ---
 # schema · axis
 

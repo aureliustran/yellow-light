@@ -8,7 +8,9 @@ participants: ["[[CH.thuyen]]"]
 axes: [AX5]
 weight: {P1: B, P2: B, AFTER: A}
 aliases: [SL.SAN, Hội sân thuê]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # SOL.SAN · Hội sân thuê
 

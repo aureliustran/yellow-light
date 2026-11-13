@@ -3,7 +3,8 @@ id: GUIDE.task.propose-options
 kind: guide
 status: draft
 updated: 2026-11-10
-sources: [quy-trinh.md §4.2, §4.3]
+sources:
+  - "[[quy-trinh|quy-trinh.md §4.2, §4.3]]"
 ---
 # Task: propose options
 

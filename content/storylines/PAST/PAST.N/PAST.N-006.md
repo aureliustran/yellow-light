@@ -12,7 +12,8 @@ axis: [AX7, AX5]
 level: "— · H7, H5"
 beliefs: "B.nhi-001, B.nhi-002 (sinh)"
 aliases: [QK.N N.7, N.7, Cửa hàng lớn lên]
-sources: [_archive/tuyen/qua-khu/nhi.md §2 (chuyển 10/11)]
+sources:
+  - "_archive/tuyen/qua-khu/nhi.md §2 (chuyển 10/11)"
 ---
 # PAST.N-006 · Cửa hàng lớn lên
 

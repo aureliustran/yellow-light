@@ -7,7 +7,8 @@ updated: 2026-11-10
 participants: ["[[CH.nhi]]"]
 axes: [AX7]
 aliases: [QK.N.HD, hội đồng thời trước]
-sources: [_archive/tuyen/qua-khu/nhi.md §4 (chuyển T3, 10/11)]
+sources:
+  - "_archive/tuyen/qua-khu/nhi.md §4 (chuyển T3, 10/11)"
 ---
 # PAST.N.HD · Hội đồng trong quá khứ của Nhi
 

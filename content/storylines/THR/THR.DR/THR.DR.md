@@ -8,7 +8,9 @@ participants: ["[[CH.thuyen]]"]
 axes: [AX2, AX6]
 weight: {P1: B, P2: A, BREAK: B, AFTER: B, POST: pending}
 aliases: [TH.DR, Drone]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # THR.DR · Drone
 

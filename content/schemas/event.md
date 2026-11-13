@@ -6,8 +6,9 @@ status: proposed
 updated: 2026-11-10
 required: [id, kind, parent, status, updated, goal, event]
 required-one-of: [date, span]
-aliases: [schema.event]
-sources: [docs/framework/storylines.md (10/11)]
+aliases: [SCH.event, schema.event]
+sources:
+  - "[[docs/framework/storylines|docs/framework/storylines.md (10/11)]]"
 ---
 # schema · event
 

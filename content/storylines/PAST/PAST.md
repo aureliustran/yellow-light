@@ -8,7 +8,9 @@ participants: []
 axes: [AX2, AX3, AX4, AX7, AX9]
 weight: {OPEN: SSS, P1: A, P2: B, BREAK: A, AFTER: S}
 aliases: [QK, tuyến quá khứ]
-sources: [_archive/tuyen/qua-khu/README.md (chuyển T3, 10/11), _archive/tuyen/goc.md]
+sources:
+  - "_archive/tuyen/qua-khu/README.md (chuyển T3, 10/11)"
+  - "_archive/tuyen/goc.md"
 ---
 # PAST · Tuyến quá khứ
 

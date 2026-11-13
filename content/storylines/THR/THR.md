@@ -8,7 +8,9 @@ participants: []
 axes: [AX4, AX5, AX6, AX3]
 weight: {OPEN: A, P1: SS+, P2: SSS, BREAK: SSS, AFTER: A}
 aliases: [TH, Tuyến thriller, đấu trí]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # THR · Tuyến thriller, đấu trí
 

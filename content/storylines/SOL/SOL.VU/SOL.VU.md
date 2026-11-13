@@ -8,7 +8,11 @@ participants: ["[[CH.thuyen]]", "[[CH.vu]]"]
 axes: [AX2, AX1, AX3, AX7]
 weight: {OPEN: B, P1: A, P2: S, BREAK: C, AFTER: S}
 aliases: [SL.VU, Vũ và khu tập thể]
-sources: [_archive/tuyen/README.md §4, _archive/tuyen/sl/vu.md (chuyển T5, 10/11), de-xuat/cay-tuyen.md, de-xuat/qk-t-plan-ch1-het-cap-2.md §4]
+sources:
+  - "_archive/tuyen/README.md §4"
+  - "_archive/tuyen/sl/vu.md (chuyển T5, 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
+  - "[[de-xuat/qk-t-plan-ch1-het-cap-2|de-xuat/qk-t-plan-ch1-het-cap-2.md §4]]"
 ---
 # SOL.VU · Vũ và khu tập thể
 

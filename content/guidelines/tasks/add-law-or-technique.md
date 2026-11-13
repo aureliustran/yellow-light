@@ -3,7 +3,11 @@ id: GUIDE.task.add-law-or-technique
 kind: guide
 status: draft
 updated: 2026-11-10
-sources: [docs/framework/rules-engine.md, library.md, schemas/law.md, technique.md]
+sources:
+  - "[[docs/framework/rules-engine|docs/framework/rules-engine.md]]"
+  - "[[docs/framework/library|library.md]]"
+  - "[[schemas/law|schemas/law.md]]"
+  - "[[schemas/technique|technique.md]]"
 ---
 # Task: add a law, a register, a technique or a pattern
 

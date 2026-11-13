@@ -12,7 +12,8 @@ axis: [AX3, AX5]
 level: "EXL 5"
 beliefs: "B.thuyen-021, B.thuyen-013 (củng cố)"
 aliases: [QK.T Kiêu hãnh]
-sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen.md §1–3"
 ---
 # PAST.T-016 · Kiêu hãnh
 

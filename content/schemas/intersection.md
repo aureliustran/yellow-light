@@ -6,7 +6,10 @@ status: proposed
 updated: 2026-11-11
 required: [id, kind, status, updated, nodes]
 aliases: [schema.intersection]
-sources: [kien-truc-framework.md §8.3, tác giả 10/11, 11/11]
+sources:
+  - "[[de-xuat/kien-truc-framework|kien-truc-framework.md §8.3]]"
+  - "tác giả 10/11"
+  - "11/11"
 ---
 # schema · intersection
 

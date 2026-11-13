@@ -8,7 +8,9 @@ participants: ["[[CH.thuyen]]"]
 axes: [AX6]
 weight: {OPEN: C, P1: A, P2: S, BREAK: SSS, AFTER: A}
 aliases: [TH.T18, Tầng 18]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # THR.T18 · Tầng 18
 

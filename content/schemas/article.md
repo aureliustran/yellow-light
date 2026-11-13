@@ -6,7 +6,9 @@ status: proposed
 updated: 2026-11-10
 required: [id, kind, status, updated, statement, source]
 aliases: [schema.article]
-sources: [docs/framework/rules-engine.md, kien-truc-framework.md §6]
+sources:
+  - "[[docs/framework/rules-engine|docs/framework/rules-engine.md]]"
+  - "[[de-xuat/kien-truc-framework|kien-truc-framework.md §6]]"
 ---
 # schema · article
 

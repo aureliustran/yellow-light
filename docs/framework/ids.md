@@ -3,7 +3,9 @@ id: SPEC.ids
 kind: spec
 status: draft
 updated: 2026-11-10
-sources: [content/config/ids.md §0 (10/11), content/de-xuat/kien-truc-framework.md §3]
+sources:
+  - "[[config/ids|content/config/ids.md §0 (10/11)]]"
+  - "[[de-xuat/kien-truc-framework|content/de-xuat/kien-truc-framework.md §3]]"
 ---
 # Ids `proposed 10/11`
 

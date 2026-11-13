@@ -12,7 +12,9 @@ axis: [AX3]
 level: "EXL 5"
 beliefs: "B.thuyen-019"
 aliases: [QK.T Hiếu thắng]
-sources: [_archive/tuyen/qua-khu/thuyen.md §1–3, _archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §5 (T3b)]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen.md §1–3"
+  - "_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §5 (T3b)"
 ---
 # PAST.T-015 · Hiếu thắng
 

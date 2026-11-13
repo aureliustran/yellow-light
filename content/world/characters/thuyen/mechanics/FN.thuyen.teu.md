@@ -5,7 +5,8 @@ status: proposed
 updated: 2026-11-10
 parent: "[[CH.thuyen.mechanics]]"
 aliases: [fn.thuyen.teu, tếu, van xả, Ngạo Trào Song]
-sources: [_archive/tuyen/qua-khu/thuyen-da-nhan-cach.md §3–5, §8]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen-da-nhan-cach.md §3–5, §8"
 ---
 # FN.thuyen.teu
 

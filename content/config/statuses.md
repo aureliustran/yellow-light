@@ -4,7 +4,10 @@ aliases: [config.statuses]
 kind: config
 status: proposed
 updated: 2026-11-08
-sources: [README.md "Nhãn", kien-truc.md §5, kien-truc-framework.md §3]
+sources:
+  - "README.md \"Nhãn\""
+  - "[[kien-truc|kien-truc.md §5]]"
+  - "[[de-xuat/kien-truc-framework|kien-truc-framework.md §3]]"
 ---
 # statuses · Trạng thái
 

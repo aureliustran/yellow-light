@@ -5,7 +5,10 @@ status: proposed
 updated: 2026-11-10
 parent: "[[CH.nhi.mechanics]]"
 aliases: [fn.nhi.cam, thấu cảm, luật cảm xúc của Nhi]
-sources: [03-kho-nhi-thich-thuyen.md §0 (luật cảm xúc, từ thẻ Nhi), canon/bible-v2.md §4.2 (lõi, raw), _archive/tuyen/qua-khu/nhi.md §1.6 (locked 31/10)]
+sources:
+  - "[[03-kho-nhi-thich-thuyen|03-kho-nhi-thich-thuyen.md §0 (luật cảm xúc, từ thẻ Nhi)]]"
+  - "[[canon/bible-v2|canon/bible-v2.md §4.2 (lõi, raw)]]"
+  - "_archive/tuyen/qua-khu/nhi.md §1.6 (locked 31/10)"
 ---
 # FN.nhi.cam
 

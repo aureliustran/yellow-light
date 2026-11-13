@@ -8,7 +8,9 @@ participants: ["[[CH.thuyen]]"]
 axes: [AX5, AX6]
 weight: {OPEN: B, P1: S, P2: C, BREAK: B, AFTER: C}
 aliases: [RM.TD, Thuyên – Diệp Anh]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # ROM.TD · Thuyên – Diệp Anh
 

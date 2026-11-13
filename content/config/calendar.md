@@ -4,7 +4,9 @@ aliases: [config.calendar]
 kind: config
 status: proposed
 updated: 2026-11-10
-sources: [canon/bible-v2.md §2, brief-tinh-cam-thuyen-nhi.md]
+sources:
+  - "[[canon/bible-v2|canon/bible-v2.md §2]]"
+  - "[[brief-tinh-cam-thuyen-nhi|brief-tinh-cam-thuyen-nhi.md]]"
 ---
 # calendar · Lịch
 

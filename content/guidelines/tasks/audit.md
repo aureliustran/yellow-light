@@ -3,7 +3,8 @@ id: GUIDE.task.audit
 kind: guide
 status: draft
 updated: 2026-11-10
-sources: [quy-trinh.md §4.6]
+sources:
+  - "[[quy-trinh|quy-trinh.md §4.6]]"
 ---
 # Task: audit a range of chapters
 

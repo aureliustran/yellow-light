@@ -3,7 +3,10 @@ id: GUIDE.placement
 kind: guide
 status: draft
 updated: 2026-11-10
-sources: [docs/framework/model.md, ids.md, layout.md]
+sources:
+  - "[[docs/framework/model|docs/framework/model.md]]"
+  - "ids.md"
+  - "[[docs/framework/layout|layout.md]]"
 ---
 # Placement: where a new thing goes, and its id
 

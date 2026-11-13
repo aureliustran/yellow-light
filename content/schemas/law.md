@@ -6,7 +6,9 @@ status: proposed
 updated: 2026-11-10
 required: [id, kind, status, updated, aspect, basis, effective, applies-to, check, severity]
 aliases: [schema.law]
-sources: [docs/framework/rules-engine.md, kien-truc-framework.md §7]
+sources:
+  - "[[docs/framework/rules-engine|docs/framework/rules-engine.md]]"
+  - "[[de-xuat/kien-truc-framework|kien-truc-framework.md §7]]"
 ---
 # schema · law
 

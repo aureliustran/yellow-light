@@ -8,7 +8,10 @@ participants: ["[[CH.nhi]]"]
 axes: [AX7, AX3]
 weight: {OPEN: C, P1: B, P2: B, BREAK: B, AFTER: A}
 aliases: [QK.N, Quá khứ Nhi]
-sources: [_archive/tuyen/README.md §4, _archive/tuyen/qua-khu/nhi.md (chuyển T3, 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4"
+  - "_archive/tuyen/qua-khu/nhi.md (chuyển T3, 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # PAST.N · Quá khứ Nhi
 

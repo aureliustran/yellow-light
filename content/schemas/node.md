@@ -6,7 +6,9 @@ status: proposed
 updated: 2026-11-10
 required: [id, kind, parent, status, updated, participants, axes]
 aliases: [schema.node]
-sources: [docs/framework/storylines.md, kien-truc-framework.md §8.1]
+sources:
+  - "[[docs/framework/storylines|docs/framework/storylines.md]]"
+  - "[[de-xuat/kien-truc-framework|kien-truc-framework.md §8.1]]"
 ---
 # schema · node
 

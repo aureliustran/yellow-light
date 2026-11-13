@@ -3,7 +3,9 @@ id: SPEC.index
 kind: spec
 status: draft
 updated: 2026-11-10
-sources: [B2.5, F6]
+sources:
+  - "B2.5"
+  - "F6"
 ---
 # docs/: specifications
 

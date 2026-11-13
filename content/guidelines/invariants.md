@@ -3,7 +3,10 @@ id: GUIDE.invariants
 kind: guide
 status: draft
 updated: 2026-11-10
-sources: [docs/framework/*, CLAUDE.md, quy-trinh.md §5]
+sources:
+  - "docs/framework/*"
+  - "CLAUDE.md"
+  - "[[quy-trinh|quy-trinh.md §5]]"
 ---
 # Invariants
 

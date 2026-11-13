@@ -8,7 +8,11 @@ participants: ["[[CH.thuyen]]"]
 axes: [AX3, AX8]
 weight: {OPEN: A, P1: C, P2: S, BREAK: B, AFTER: SS}
 aliases: [GD.T, Nhà Thuyên]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), _archive/tuyen/qua-khu/thuyen.md §6.9 (chuyển 11/11), de-xuat/cay-tuyen.md, tác giả 11/11 (FAM.T định nghĩa, nối PAST.T qua giao điểm)]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "_archive/tuyen/qua-khu/thuyen.md §6.9 (chuyển 11/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
+  - "tác giả 11/11 (FAM.T định nghĩa, nối PAST.T qua giao điểm)"
 ---
 # FAM.T · Nhà Thuyên
 

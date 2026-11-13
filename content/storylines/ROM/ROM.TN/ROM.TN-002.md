@@ -12,7 +12,8 @@ fuel: "Sự kiện trước: cô nếm, chê Đắng như quỷ, Ai thèm nhớ"
 cost: "Thấp; ít liên kết cốt truyện"
 register: "R1, R2"
 aliases: ["cốc thừa"]
-sources: [_archive/tuyen/romance/thuyen-nhi.md §2, §3b (chuyển T4, 10/11)]
+sources:
+  - "_archive/tuyen/romance/thuyen-nhi.md §2, §3b (chuyển T4, 10/11)"
 ---
 # ROM.TN-002 · Cốc thừa
 

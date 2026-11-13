@@ -5,7 +5,8 @@ status: agreed
 updated: 2026-11-10
 parent: "[[CH.thuyen.mechanics]]"
 aliases: [fn.thuyen.phong-kin, phòng kín, cái tôi độc ở đại học]
-sources: [_archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §4.1–4.6, §6]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §4.1–4.6, §6"
 ---
 # FN.thuyen.phong-kin
 

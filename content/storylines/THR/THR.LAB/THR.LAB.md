@@ -8,7 +8,9 @@ participants: ["[[CH.thuyen]]"]
 axes: [AX4, AX5]
 weight: {P1: SS+, P2: SSS, BREAK: S, AFTER: B}
 aliases: [TH.LAB, Phe ở lab]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # THR.LAB · Phe ở lab
 

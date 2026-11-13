@@ -3,7 +3,10 @@ id: GUIDE.reading
 kind: guide
 status: draft
 updated: 2026-11-10
-sources: [docs/framework/*, content/README.md, quy-trinh.md §3]
+sources:
+  - "docs/framework/*"
+  - "content/README.md"
+  - "[[quy-trinh|quy-trinh.md §3]]"
 ---
 # Reading: what to load, and when to stop
 

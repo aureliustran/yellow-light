@@ -8,7 +8,9 @@ participants: []
 axes: [AX2, AX5, AX7]
 weight: {OPEN: A, P1: A, P2: S, BREAK: B, AFTER: S}
 aliases: [SL, Tuyến đời thường]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # SOL · Tuyến đời thường
 

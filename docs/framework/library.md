@@ -3,7 +3,8 @@ id: SPEC.library
 kind: spec
 status: draft
 updated: 2026-11-10
-sources: [content/de-xuat/kien-truc-framework.md §7b (10/11)]
+sources:
+  - "[[de-xuat/kien-truc-framework|content/de-xuat/kien-truc-framework.md §7b (10/11)]]"
 ---
 # Library: registers, techniques, patterns `proposed 10/11`
 

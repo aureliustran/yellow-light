@@ -12,7 +12,8 @@ axis: [AX7]
 level: "— · H7"
 beliefs: "B.nhi-003 (sinh)"
 aliases: [QK.N N.3, N.3, Lần đầu đanh đá trước người lớn]
-sources: [_archive/tuyen/qua-khu/nhi.md §2 (chuyển 10/11)]
+sources:
+  - "_archive/tuyen/qua-khu/nhi.md §2 (chuyển 10/11)"
 ---
 # PAST.N-002 · Lần đầu đanh đá trước người lớn
 

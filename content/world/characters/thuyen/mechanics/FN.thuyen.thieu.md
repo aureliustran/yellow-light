@@ -5,7 +5,9 @@ status: agreed
 updated: 2026-11-10
 parent: "[[CH.thuyen.mechanics]]"
 aliases: [fn.thuyen.thieu, cái thiếu, đầu vào]
-sources: [_archive/tuyen/qua-khu/thuyen-co-may.md §2–3, _archive/tuyen/qua-khu/thuyen.md §6.9 C]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen-co-may.md §2–3"
+  - "_archive/tuyen/qua-khu/thuyen.md §6.9 C"
 ---
 # FN.thuyen.thieu
 

@@ -3,7 +3,11 @@ id: GUIDE.main
 kind: guide
 status: draft
 updated: 2026-11-10
-sources: [content/quy-trinh.md, content/README.md, CLAUDE.md, docs/framework/README.md]
+sources:
+  - "[[quy-trinh|content/quy-trinh.md]]"
+  - "content/README.md"
+  - "CLAUDE.md"
+  - "[[docs/framework/README|docs/framework/README.md]]"
 ---
 # Đèn Vàng: guidelines for agents
 

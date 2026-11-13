@@ -5,7 +5,8 @@ status: locked
 updated: 2026-11-10
 name: Điều trị bắt đầu từ chính mình
 aliases: [H8, Điều trị]
-sources: [_archive/tuyen/goc.md §2 (chuyển 10/11)]
+sources:
+  - "_archive/tuyen/goc.md §2 (chuyển 10/11)"
 ---
 # AX8 · Điều trị bắt đầu từ chính mình
 

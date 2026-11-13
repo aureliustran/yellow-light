@@ -4,7 +4,8 @@ kind: spec
 status: locked
 updated: 2026-10-21
 aliases: [plan-legacy]
-sources: [app development plan]
+sources:
+  - "app development plan"
 ---
 # Plan: old story becomes "Legacy", v2 comes first; whole-story comments
 

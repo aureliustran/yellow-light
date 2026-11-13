@@ -6,7 +6,8 @@ status: proposed
 updated: 2026-11-10
 required: [id, kind, status, updated, aliases]
 aliases: [schema.setting]
-sources: [kien-truc-framework.md §4]
+sources:
+  - "[[de-xuat/kien-truc-framework|kien-truc-framework.md §4]]"
 ---
 # schema · setting
 

@@ -7,7 +7,8 @@ updated: 2026-11-10
 participants: []
 axes: [AX1, AX2, AX3, AX4, AX5, AX6, AX7, AX8, AX9]
 aliases: [tuyến nội tâm]
-sources: [de-xuat/kien-truc-framework.md §8.1 (agreed 05/11)]
+sources:
+  - "[[de-xuat/kien-truc-framework|de-xuat/kien-truc-framework.md §8.1 (agreed 05/11)]]"
 ---
 # SELF · Tuyến nội tâm
 

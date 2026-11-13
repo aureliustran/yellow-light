@@ -3,7 +3,9 @@ id: GUIDE.task.crosspost-convert
 kind: guide
 status: draft
 updated: 2026-11-10
-sources: [CLAUDE.md (until 10/11), content/posts/<domain>/convert.md]
+sources:
+  - "CLAUDE.md (until 10/11)"
+  - "content/posts/<domain>/convert.md"
 ---
 # Task: convert chapters for a cross-posting site
 

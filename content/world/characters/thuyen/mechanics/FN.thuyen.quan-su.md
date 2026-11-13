@@ -5,7 +5,10 @@ status: agreed
 updated: 2026-11-10
 parent: "[[CH.thuyen.mechanics]]"
 aliases: [fn.thuyen.quan-su, quân sư, giỏi việc người, mù việc mình]
-sources: [_archive/tuyen/sl/vu.md §2, _archive/tuyen/qua-khu/thuyen-co-may.md §3 (khóa 2), _archive/tuyen/qua-khu/thuyen.md §6.9 B]
+sources:
+  - "_archive/tuyen/sl/vu.md §2"
+  - "_archive/tuyen/qua-khu/thuyen-co-may.md §3 (khóa 2)"
+  - "_archive/tuyen/qua-khu/thuyen.md §6.9 B"
 ---
 # FN.thuyen.quan-su
 

@@ -5,7 +5,8 @@ status: locked
 updated: 2026-11-10
 name: Thị trường là thứ người có quyền tạo ra
 aliases: [H6, Thị trường]
-sources: [_archive/tuyen/goc.md §2 (chuyển 10/11)]
+sources:
+  - "_archive/tuyen/goc.md §2 (chuyển 10/11)"
 ---
 # AX6 · Thị trường là thứ người có quyền tạo ra
 

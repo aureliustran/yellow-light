@@ -5,7 +5,8 @@ entity: schema
 status: proposed
 updated: 2026-11-10
 required: [id, kind, entity, status, updated, required]
-sources: [docs/framework/model.md]
+sources:
+  - "[[docs/framework/model|docs/framework/model.md]]"
 ---
 # schema · schema
 

@@ -8,7 +8,9 @@ participants: []
 axes: []
 weight: {P1: B, P2: B, BREAK: C, AFTER: C}
 aliases: [QK.DA, Quá khứ Diệp Anh]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # PAST.DA · Quá khứ Diệp Anh
 

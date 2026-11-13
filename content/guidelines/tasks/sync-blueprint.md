@@ -3,7 +3,8 @@ id: GUIDE.task.sync-blueprint
 kind: guide
 status: draft
 updated: 2026-11-10
-sources: [docs/framework/blueprints.md]
+sources:
+  - "[[docs/framework/blueprints|docs/framework/blueprints.md]]"
 ---
 # Task: sync a blueprint with its chapter
 

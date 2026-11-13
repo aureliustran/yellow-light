@@ -7,7 +7,13 @@ updated: 2026-11-10
 participants: ["[[CH.thuyen]]"]
 axes: [AX2, AX3, AX4, AX5, AX7, AX8, AX9]
 aliases: [nội tâm Thuyên]
-sources: [_archive/tuyen/qua-khu/thuyen-co-may.md §4 (locked 28/10), _archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §4.5, _archive/tuyen/qua-khu/thuyen-lang-kinh.md §4, M-he-gia-tri.md §3, §8, _archive/tuyen/goc.md §3–4, _archive/tuyen/qua-khu/thuyen.md §5–6]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen-co-may.md §4 (locked 28/10)"
+  - "_archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §4.5"
+  - "_archive/tuyen/qua-khu/thuyen-lang-kinh.md §4"
+  - "[[M-he-gia-tri|M-he-gia-tri.md §3, §8]]"
+  - "_archive/tuyen/goc.md §3–4"
+  - "_archive/tuyen/qua-khu/thuyen.md §5–6"
 ---
 # SELF.thuyen · Nội tâm của Thuyên
 

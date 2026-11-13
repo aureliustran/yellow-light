@@ -4,8 +4,21 @@ kind: character
 status: agreed
 updated: 2026-11-10
 aliases: [NV.nhi, nhi, Nhi, Sóc]
-exports: [nac-thich, CH.nhi.mechanics, CH.nhi.beliefs, CH.nhi.voice]
-sources: [_archive/tuyen/qua-khu/nhi.md §0, §1.1–1.2, §1.5–1.6, §1.8–1.9 (locked 29–31/10), canon/bible-v2.md §4.2, 03-kho-nhi-thich-thuyen.md §0–1, brief-tinh-cam-thuyen-nhi.md §3, §5b, de-xuat/q-001-thuyen-biet-than-phan-nhi.md §4, characters.yaml (v1), config/calendar.md, posts/vercel ch.01, ch.05 (page)]
+exports:
+  - "nac-thich"
+  - "[[world/characters/nhi/mechanics/CH.nhi.mechanics]]"
+  - "[[world/characters/nhi/CH.nhi.beliefs]]"
+  - "[[world/characters/nhi/CH.nhi.voice]]"
+sources:
+  - "_archive/tuyen/qua-khu/nhi.md §0, §1.1–1.2, §1.5–1.6, §1.8–1.9 (locked 29–31/10)"
+  - "[[canon/bible-v2|canon/bible-v2.md §4.2]]"
+  - "[[03-kho-nhi-thich-thuyen|03-kho-nhi-thich-thuyen.md §0–1]]"
+  - "[[brief-tinh-cam-thuyen-nhi|brief-tinh-cam-thuyen-nhi.md §3, §5b]]"
+  - "[[de-xuat/q-001-thuyen-biet-than-phan-nhi|de-xuat/q-001-thuyen-biet-than-phan-nhi.md §4]]"
+  - "characters.yaml (v1)"
+  - "[[config/calendar|config/calendar.md]]"
+  - "posts/vercel ch.01"
+  - "ch.05 (page)"
 ---
 # CH.nhi · Nhi
 

@@ -5,7 +5,8 @@ entity: spec
 status: proposed
 updated: 2026-11-10
 required: [id, kind, status, updated]
-sources: [docs/framework/README.md]
+sources:
+  - "[[docs/framework/README|docs/framework/README.md]]"
 ---
 # schema · spec
 

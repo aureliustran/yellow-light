@@ -4,9 +4,11 @@ kind: character
 status: agreed
 updated: 2026-11-10
 aliases: [niềm tin Vũ]
-exports: [B.vu-001]
+exports:
+  - "[[world/characters/vu/CH.vu.beliefs#B.vu-001]]"
 parent: "[[CH.vu]]"
-sources: [_archive/tuyen/sl/vu.md §1 (locked 30/10); hội thoại 10/11 (khuôn hai lớp, luật từ phức)]
+sources:
+  - "_archive/tuyen/sl/vu.md §1 (locked 30/10); hội thoại 10/11 (khuôn hai lớp, luật từ phức)"
 ---
 # CH.vu.beliefs · Niềm tin của Vũ
 

@@ -5,7 +5,8 @@ status: locked
 updated: 2026-11-10
 name: Được đồng ý mà không được nghe; được khen mà không được ôm
 aliases: [H7]
-sources: [_archive/tuyen/goc.md §2 (chuyển 10/11)]
+sources:
+  - "_archive/tuyen/goc.md §2 (chuyển 10/11)"
 ---
 # AX7 · Được đồng ý mà không được nghe; được khen mà không được ôm
 

@@ -6,7 +6,8 @@ updated: 2026-11-10
 aliases: [co-che-vu]
 exports: []
 parent: "[[CH.vu]]"
-sources: [_archive/tuyen/sl/vu.md §1, §3]
+sources:
+  - "_archive/tuyen/sl/vu.md §1, §3"
 ---
 # CH.vu.mechanics · Cơ chế của Vũ
 

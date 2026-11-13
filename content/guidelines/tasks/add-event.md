@@ -3,7 +3,9 @@ id: GUIDE.task.add-event
 kind: guide
 status: draft
 updated: 2026-11-10
-sources: [docs/framework/storylines.md, schemas/event.md]
+sources:
+  - "[[docs/framework/storylines|docs/framework/storylines.md]]"
+  - "[[schemas/event|schemas/event.md]]"
 ---
 # Task: add or change an event
 

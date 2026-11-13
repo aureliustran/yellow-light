@@ -5,7 +5,9 @@ status: proposed
 updated: 2026-11-10
 parent: "[[CH.vu.mechanics]]"
 aliases: [fn.vu.lat, lật cớ, lật tim đen]
-sources: [_archive/tuyen/sl/vu.md §3 (proposed), canon/bible-v2.md §4.5]
+sources:
+  - "_archive/tuyen/sl/vu.md §3 (proposed)"
+  - "[[canon/bible-v2|canon/bible-v2.md §4.5]]"
 ---
 # FN.vu.lat
 

@@ -3,7 +3,8 @@ id: GUIDE.task.revise-chapter
 kind: guide
 status: draft
 updated: 2026-11-10
-sources: [quy-trinh.md §4.5]
+sources:
+  - "[[quy-trinh|quy-trinh.md §4.5]]"
 ---
 # Task: revise a written chapter
 

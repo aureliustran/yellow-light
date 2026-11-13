@@ -13,7 +13,8 @@ fuel: "Quân sư bí mật (tin nhắn của Phong); cô nhắc Phong trong bài
 cost: "Lần đầu Thuyên dùng mặt tầng 17 với Nhi; một bậc trên đường tới *Mixue*"
 register: "R1 → R2, nốt lạnh; POV Thuyên rồi --- POV Nhi"
 aliases: ["chọc Nhi với Phong"]
-sources: [_archive/tuyen/romance/thuyen-nhi.md §2, §3 (chuyển T4, 10/11)]
+sources:
+  - "_archive/tuyen/romance/thuyen-nhi.md §2, §3 (chuyển T4, 10/11)"
 ---
 # ROM.TN-001 · Thuyên chọc Nhi với Phong
 

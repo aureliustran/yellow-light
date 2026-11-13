@@ -12,7 +12,8 @@ axis: [AX2]
 level: "EXL 5"
 beliefs: "B.thuyen-013"
 aliases: [QK.T Hoan hỉ]
-sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen.md §1–3"
 ---
 # PAST.T-014 · Hoan hỉ
 

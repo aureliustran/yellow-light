@@ -12,7 +12,9 @@ axis: [AX3, AX4, AX9]
 level: "EXL 5"
 beliefs: "B.thuyen-012; B.thuyen-014 (xác nhận); B.thuyen-015; B.thuyen-027; B.thuyen-032 (gốc)"
 aliases: [QK.T Tủi hổ]
-sources: [_archive/tuyen/qua-khu/thuyen.md §1–3, _archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §6 (T3b)]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen.md §1–3"
+  - "_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §6 (T3b)"
 ---
 # PAST.T-017 · Tủi hổ
 

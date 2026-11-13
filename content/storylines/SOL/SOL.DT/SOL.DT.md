@@ -8,7 +8,9 @@ participants: ["[[CH.thuyen]]"]
 axes: []
 weight: {OPEN: A, P1: B, P2: A, BREAK: C, AFTER: S}
 aliases: [SL.DT, Đời sống Thuyên]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # SOL.DT · Đời sống Thuyên
 

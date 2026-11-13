@@ -8,7 +8,9 @@ participants: ["[[CH.nhi]]"]
 axes: [AX1]
 weight: {P1: S, P2: A, BREAK: A, AFTER: B}
 aliases: [RM.PN, Phong → Nhi]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # ROM.PN · Phong → Nhi
 

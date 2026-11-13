@@ -6,7 +6,9 @@ updated: 2026-11-10
 aliases: [co-may-thuyen, cỗ máy hiện sinh]
 exports: []
 parent: "[[CH.thuyen]]"
-sources: [_archive/tuyen/qua-khu/thuyen-co-may.md §2 (locked 28/10), de-xuat/kien-truc-framework.md §13.1]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen-co-may.md §2 (locked 28/10)"
+  - "[[de-xuat/kien-truc-framework|de-xuat/kien-truc-framework.md §13.1]]"
 ---
 # CH.thuyen.mechanics · Cỗ máy hiện sinh của Thuyên
 

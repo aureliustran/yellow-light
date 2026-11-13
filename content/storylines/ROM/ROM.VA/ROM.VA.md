@@ -8,7 +8,9 @@ participants: ["[[CH.vu]]"]
 axes: [AX2]
 weight: {P1: D, P2: D, AFTER: D}
 aliases: [RM.VA, Vũ – An Nhiên]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # ROM.VA · Vũ – An Nhiên
 

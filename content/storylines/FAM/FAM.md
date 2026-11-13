@@ -8,7 +8,9 @@ participants: []
 axes: [AX3, AX6, AX8]
 weight: {OPEN: A, P1: A, P2: S, BREAK: SS, AFTER: SS}
 aliases: [GD, Tuyến gia đình]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # FAM · Tuyến gia đình
 

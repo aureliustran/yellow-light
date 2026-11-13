@@ -3,7 +3,9 @@ id: GUIDE.roles-and-status
 kind: guide
 status: draft
 updated: 2026-11-10
-sources: [quy-trinh.md §1–§3, §4.8, config/statuses.md]
+sources:
+  - "[[quy-trinh|quy-trinh.md §1–§3, §4.8]]"
+  - "[[config/statuses|config/statuses.md]]"
 ---
 # Roles, decisions and status
 

@@ -4,7 +4,9 @@ aliases: [config.phases]
 kind: config
 status: proposed
 updated: 2026-11-08
-sources: [_archive/tuyen/README.md §3, canon/bible-v2.md §2]
+sources:
+  - "_archive/tuyen/README.md §3"
+  - "[[canon/bible-v2|canon/bible-v2.md §2]]"
 ---
 # phases · Giai đoạn
 

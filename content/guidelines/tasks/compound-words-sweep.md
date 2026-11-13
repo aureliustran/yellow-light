@@ -3,7 +3,10 @@ id: GUIDE.task.compound-words-sweep
 kind: guide
 status: draft
 updated: 2026-11-10
-sources: [01-rules-viet.md, Nguyên tắc chung, "Từ phức là đa số, từ đơn là thiểu số" (locked 10/11); hội thoại 10/11]
+sources:
+  - "[[01-rules-viet|01-rules-viet.md]]"
+  - "Nguyên tắc chung"
+  - "\"Từ phức là đa số, từ đơn là thiểu số\" (locked 10/11); hội thoại 10/11"
 ---
 # Task: compound-words sweep (scan and fix)
 

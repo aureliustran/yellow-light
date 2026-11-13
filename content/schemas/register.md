@@ -5,7 +5,9 @@ entity: register
 status: proposed
 updated: 2026-11-10
 required: [id, kind, status, updated, aliases, applies-to, effective]
-sources: [docs/framework/library.md (10/11), rules/registers.md]
+sources:
+  - "[[docs/framework/library|docs/framework/library.md (10/11)]]"
+  - "[[rules/registers|rules/registers.md]]"
 ---
 # schema · register
 

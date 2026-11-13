@@ -3,7 +3,9 @@ id: SPEC.framework
 kind: spec
 status: draft
 updated: 2026-11-10
-sources: [content/de-xuat/kien-truc-framework.md §0–§12, content/config/ids.md §0]
+sources:
+  - "[[de-xuat/kien-truc-framework|content/de-xuat/kien-truc-framework.md §0–§12]]"
+  - "[[config/ids|content/config/ids.md §0]]"
 ---
 # Đèn Vàng story framework: specification
 

@@ -3,7 +3,8 @@ id: SPEC.storylines
 kind: spec
 status: draft
 updated: 2026-11-10
-sources: [content/de-xuat/kien-truc-framework.md §8.1–§8.3; decisions 10/11]
+sources:
+  - "[[de-xuat/kien-truc-framework|content/de-xuat/kien-truc-framework.md §8.1–§8.3; decisions 10/11]]"
 ---
 # Storylines
 

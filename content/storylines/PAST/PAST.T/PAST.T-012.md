@@ -12,7 +12,8 @@ axis: [AX4]
 level: "EXL 4"
 beliefs: "B.thuyen-008; B.thuyen-014 (dự đoán)"
 aliases: [QK.T 1.10]
-sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen.md §1–3"
 ---
 # PAST.T-012 · 1.10
 

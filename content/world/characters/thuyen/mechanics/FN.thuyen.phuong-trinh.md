@@ -5,7 +5,10 @@ status: agreed
 updated: 2026-11-10
 parent: "[[CH.thuyen.mechanics]]"
 aliases: [fn.thuyen.phuong-trinh, phương trình, hệ giá trị, bộ chuyển đổi]
-sources: [M-he-gia-tri.md §1–2, §4, _archive/tuyen/qua-khu/thuyen-co-may.md §2, _archive/tuyen/qua-khu/thuyen.md §6]
+sources:
+  - "[[M-he-gia-tri|M-he-gia-tri.md §1–2, §4]]"
+  - "_archive/tuyen/qua-khu/thuyen-co-may.md §2"
+  - "_archive/tuyen/qua-khu/thuyen.md §6"
 ---
 # FN.thuyen.phuong-trinh
 

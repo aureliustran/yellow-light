@@ -3,7 +3,10 @@ id: GUIDE.task.write-scene
 kind: guide
 status: draft
 updated: 2026-11-10
-sources: [docs/framework/blueprints.md, quy-trinh.md §4.4, rules/01c]
+sources:
+  - "[[docs/framework/blueprints|docs/framework/blueprints.md]]"
+  - "[[quy-trinh|quy-trinh.md §4.4]]"
+  - "rules/01c"
 ---
 # Task: write a scene or a chapter from a blueprint
 

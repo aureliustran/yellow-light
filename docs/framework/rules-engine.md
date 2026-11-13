@@ -3,7 +3,8 @@ id: SPEC.rules-engine
 kind: spec
 status: draft
 updated: 2026-11-10
-sources: [content/de-xuat/kien-truc-framework.md §6, §7, §8.2 (10/11)]
+sources:
+  - "[[de-xuat/kien-truc-framework|content/de-xuat/kien-truc-framework.md §6, §7, §8.2 (10/11)]]"
 ---
 # Rules engine
 

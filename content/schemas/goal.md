@@ -5,7 +5,8 @@ entity: goal
 status: proposed
 updated: 2026-11-10
 required: [id, statement, serves]
-sources: [docs/framework/storylines.md (10/11)]
+sources:
+  - "[[docs/framework/storylines|docs/framework/storylines.md (10/11)]]"
 ---
 # schema · goal
 

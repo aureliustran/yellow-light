@@ -8,7 +8,9 @@ participants: ["[[CH.thuyen]]", "[[CH.nhi]]"]
 axes: [AX3, AX7, AX1, AX8]
 weight: {OPEN: B, P1: SS+, P2: SSS, BREAK: SS+, AFTER: S}
 aliases: [RM.TN, tuyến Thuyên – Nhi]
-sources: [hội thoại 10/11 (cái cân, lâu đài, hai cái vạch, cú giao nhau), _archive/tuyen/romance/thuyen-nhi.md (chuyển T4, 10/11)]
+sources:
+  - "hội thoại 10/11 (cái cân, lâu đài, hai cái vạch, cú giao nhau)"
+  - "_archive/tuyen/romance/thuyen-nhi.md (chuyển T4, 10/11)"
 ---
 # ROM.TN · Thuyên – Nhi
 

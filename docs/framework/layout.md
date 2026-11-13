@@ -3,7 +3,8 @@ id: SPEC.layout
 kind: spec
 status: draft
 updated: 2026-11-10
-sources: [content/de-xuat/kien-truc-framework.md §4, §9; scripts/paths.mjs; commit 1c15ec8 (B2.5)]
+sources:
+  - "[[de-xuat/kien-truc-framework|content/de-xuat/kien-truc-framework.md §4, §9; scripts/paths.mjs; commit 1c15ec8 (B2.5)]]"
 ---
 # Layout
 

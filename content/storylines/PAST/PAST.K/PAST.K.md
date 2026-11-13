@@ -8,7 +8,9 @@ participants: []
 axes: []
 weight: {P2: C, BREAK: B, AFTER: C, POST: pending}
 aliases: [QK.K, Quá khứ Khải]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # PAST.K · Quá khứ Khải
 

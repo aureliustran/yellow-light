@@ -6,7 +6,8 @@ status: proposed
 updated: 2026-11-10
 required: [id, file, edition, status]
 aliases: [schema.post]
-sources: [docs/framework/blueprints.md]
+sources:
+  - "[[docs/framework/blueprints|docs/framework/blueprints.md]]"
 ---
 # schema · post (published chapter)
 

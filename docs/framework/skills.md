@@ -3,7 +3,12 @@ id: SPEC.skills
 kind: spec
 status: draft
 updated: 2026-11-10
-sources: [docs/framework/README.md, docs/framework/library.md, docs/framework/blueprints.md, content/GUIDELINES.md, content/guidelines/tasks/*]
+sources:
+  - "[[docs/framework/README|docs/framework/README.md]]"
+  - "[[docs/framework/library|docs/framework/library.md]]"
+  - "[[docs/framework/blueprints|docs/framework/blueprints.md]]"
+  - "[[GUIDELINES|content/GUIDELINES.md]]"
+  - "content/guidelines/tasks/*"
 ---
 # Skills: map to the framework
 

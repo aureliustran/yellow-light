@@ -12,7 +12,8 @@ axis: [AX7]
 level: "— · H7"
 beliefs: "B.nhi-005 (tiêu thụ)"
 aliases: [QK.N N.4b, N.4b, "Lượt 2 mai mối"]
-sources: [_archive/tuyen/qua-khu/nhi.md §2 (chuyển 10/11)]
+sources:
+  - "_archive/tuyen/qua-khu/nhi.md §2 (chuyển 10/11)"
 ---
 # PAST.N-004 · Lượt 2 mai mối, ngầm
 

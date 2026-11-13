@@ -3,7 +3,10 @@ id: GUIDE.task.plan-chapter
 kind: guide
 status: draft
 updated: 2026-11-10
-sources: [docs/framework/blueprints.md, schemas/blueprint.md, quy-trinh.md §4.4]
+sources:
+  - "[[docs/framework/blueprints|docs/framework/blueprints.md]]"
+  - "[[schemas/blueprint|schemas/blueprint.md]]"
+  - "[[quy-trinh|quy-trinh.md §4.4]]"
 ---
 # Task: plan a chapter (create its blueprint)
 

@@ -8,7 +8,9 @@ participants: ["[[CH.thuyen]]"]
 axes: [AX5]
 weight: {OPEN: C, P1: S, P2: S, BREAK: S, AFTER: A}
 aliases: [TH.LM, Liên minh Diệp Anh]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # THR.LM · Liên minh Diệp Anh
 

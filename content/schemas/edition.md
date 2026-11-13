@@ -5,7 +5,9 @@ entity: edition
 status: proposed
 updated: 2026-11-10
 required: [id, kind, status, updated, dir]
-sources: [docs/framework/blueprints.md (10/11), src/config.ts editions]
+sources:
+  - "[[docs/framework/blueprints|docs/framework/blueprints.md (10/11)]]"
+  - "src/config.ts editions"
 ---
 # schema · edition
 

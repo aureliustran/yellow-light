@@ -3,7 +3,8 @@ id: SPEC.model
 kind: spec
 status: draft
 updated: 2026-11-10
-sources: [content/de-xuat/kien-truc-framework.md §0, §2, §4, §5, §8.1]
+sources:
+  - "[[de-xuat/kien-truc-framework|content/de-xuat/kien-truc-framework.md §0, §2, §4, §5, §8.1]]"
 ---
 # Model
 

@@ -4,7 +4,11 @@ aliases: [config.ids]
 kind: config
 status: proposed
 updated: 2026-11-10
-sources: [kien-truc-framework.md §3, _archive/tuyen/README.md, _archive/tuyen/goc.md, _archive/tuyen/qua-khu/README.md]
+sources:
+  - "[[de-xuat/kien-truc-framework|kien-truc-framework.md §3]]"
+  - "_archive/tuyen/README.md"
+  - "_archive/tuyen/goc.md"
+  - "_archive/tuyen/qua-khu/README.md"
 ---
 # ids · Sổ mã, cũ → mới
 

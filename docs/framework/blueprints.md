@@ -3,7 +3,8 @@ id: SPEC.blueprints
 kind: spec
 status: draft
 updated: 2026-11-10
-sources: [content/de-xuat/kien-truc-framework.md §8.4 (10/11)]
+sources:
+  - "[[de-xuat/kien-truc-framework|content/de-xuat/kien-truc-framework.md §8.4 (10/11)]]"
 ---
 # Blueprints and outputs `proposed 10/11`
 

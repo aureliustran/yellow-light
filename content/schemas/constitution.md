@@ -5,7 +5,8 @@ entity: constitution
 status: proposed
 updated: 2026-11-10
 required: [id, kind, status, updated, axis]
-sources: [docs/framework/rules-engine.md]
+sources:
+  - "[[docs/framework/rules-engine|docs/framework/rules-engine.md]]"
 ---
 # schema · constitution (chapter)
 

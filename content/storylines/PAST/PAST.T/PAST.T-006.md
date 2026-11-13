@@ -12,7 +12,9 @@ axis: [AX3, AX7]
 level: "EXL 2"
 beliefs: "B.thuyen-024 (kết tinh)"
 aliases: [QK.T 1.4b]
-sources: [_archive/tuyen/qua-khu/thuyen.md §1–3, _archive/tuyen/qua-khu/thuyen.md §6.2 (T3b)]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen.md §1–3"
+  - "_archive/tuyen/qua-khu/thuyen.md §6.2 (T3b)"
 ---
 # PAST.T-006 · 1.4b
 

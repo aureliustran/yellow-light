@@ -3,7 +3,8 @@ id: GUIDE.task.record-decision
 kind: guide
 status: draft
 updated: 2026-11-10
-sources: [quy-trinh.md §2, §4.1, §5]
+sources:
+  - "[[quy-trinh|quy-trinh.md §2, §4.1, §5]]"
 ---
 # Task: record an author decision
 

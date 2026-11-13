@@ -5,7 +5,8 @@ status: locked
 updated: 2026-11-10
 parent: "[[CH.vu.mechanics]]"
 aliases: [fn.vu.thuong-bang-hanh-dong, yêu bằng hành động]
-sources: [_archive/tuyen/sl/vu.md §1 (locked 30/10)]
+sources:
+  - "_archive/tuyen/sl/vu.md §1 (locked 30/10)"
 ---
 # FN.vu.thuong-bang-hanh-dong
 

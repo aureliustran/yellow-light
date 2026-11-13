@@ -8,7 +8,9 @@ participants: ["[[CH.nhi]]"]
 axes: [AX6]
 weight: {OPEN: C, P1: A, P2: A, BREAK: SS, AFTER: S, POST: pending}
 aliases: [GD.N, Nhà Nhi]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # FAM.N · Nhà Nhi
 

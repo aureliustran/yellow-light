@@ -3,7 +3,8 @@ id: SPEC.tooling
 kind: spec
 status: draft
 updated: 2026-11-10
-sources: [content/de-xuat/kien-truc-framework.md §9–§12; scripts/canon-check.mjs (B2, F3)]
+sources:
+  - "[[de-xuat/kien-truc-framework|content/de-xuat/kien-truc-framework.md §9–§12; scripts/canon-check.mjs (B2, F3)]]"
 ---
 # Tooling
 

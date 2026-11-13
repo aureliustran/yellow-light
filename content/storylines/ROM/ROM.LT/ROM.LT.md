@@ -8,7 +8,9 @@ participants: []
 axes: [AX1]
 weight: {OPEN: C, P1: C, P2: D, AFTER: D}
 aliases: [RM.LT, Linh – Tùng]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # ROM.LT · Linh – Tùng
 

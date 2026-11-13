@@ -5,7 +5,9 @@ status: locked
 updated: 2026-11-10
 parent: "[[CH.thuyen.mechanics]]"
 aliases: [fn.thuyen.luoi-co-chon-loc, lười có chọn lọc]
-sources: [M-he-gia-tri.md §3b, 01-rules-viet.md (Lười có chọn lọc, chốt 19/10)]
+sources:
+  - "[[M-he-gia-tri|M-he-gia-tri.md §3b]]"
+  - "[[01-rules-viet|01-rules-viet.md (Lười có chọn lọc, chốt 19/10)]]"
 ---
 # FN.thuyen.luoi-co-chon-loc
 

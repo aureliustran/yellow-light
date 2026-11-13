@@ -3,10 +3,52 @@ id: CH.thuyen.beliefs
 kind: character
 status: agreed
 updated: 2026-11-10
-aliases: [niềm tin Thuyên, NT Thuyên]
-exports: [B.thuyen-001, B.thuyen-002, B.thuyen-003, B.thuyen-004, B.thuyen-005, B.thuyen-006, B.thuyen-007, B.thuyen-008, B.thuyen-009, B.thuyen-010, B.thuyen-011, B.thuyen-012, B.thuyen-013, B.thuyen-014, B.thuyen-015, B.thuyen-016, B.thuyen-017, B.thuyen-018, B.thuyen-019, B.thuyen-020, B.thuyen-021, B.thuyen-022, B.thuyen-023, B.thuyen-024, B.thuyen-025, B.thuyen-026, B.thuyen-027, B.thuyen-029, B.thuyen-030, B.thuyen-031, B.thuyen-032, B.thuyen-033, B.thuyen-034, B.thuyen-035]
+aliases:
+  - niềm tin Thuyên
+  - NT Thuyên
+exports:
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-001]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-002]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-003]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-004]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-005]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-006]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-007]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-008]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-009]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-010]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-011]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-012]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-013]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-014]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-015]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-016]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-017]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-018]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-019]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-020]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-021]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-022]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-023]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-024]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-025]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-026]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-027]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-029]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-030]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-031]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-032]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-033]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-034]]"
+  - "[[world/characters/thuyen/CH.thuyen.beliefs#B.thuyen-035]]"
 parent: "[[CH.thuyen]]"
-sources: [_archive/tuyen/qua-khu/README.md §4, _archive/tuyen/qua-khu/thuyen.md §1, §4, §6, _archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §11, _archive/tuyen/qua-khu/thuyen-da-nhan-cach.md §7, _archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §4.5, de-xuat/qk-t-plan-viet-lai-quang-1-v3.md §0]
+sources:
+  - "_archive/tuyen/qua-khu/README.md §4"
+  - "_archive/tuyen/qua-khu/thuyen.md §1, §4, §6"
+  - "_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §11"
+  - "_archive/tuyen/qua-khu/thuyen-da-nhan-cach.md §7"
+  - "_archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §4.5"
+  - "[[de-xuat/qk-t-plan-viet-lai-quang-1-v3|de-xuat/qk-t-plan-viet-lai-quang-1-v3.md §0]]"
 ---
 # CH.thuyen.beliefs · Niềm tin của Thuyên
 

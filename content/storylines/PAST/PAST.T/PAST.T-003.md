@@ -12,7 +12,8 @@ axis: [AX2, AX3]
 level: "EXL 1→2"
 beliefs: "B.thuyen-002; mặt kia của B.thuyen-024"
 aliases: [QK.T 1.2]
-sources: [_archive/tuyen/qua-khu/thuyen.md §1–3]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen.md §1–3"
 ---
 # PAST.T-003 · 1.2
 

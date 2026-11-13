@@ -12,7 +12,8 @@ axis: [AX7]
 level: "— · H7"
 beliefs: "B.nhi-004, B.nhi-005 (sinh)"
 aliases: [QK.N N.4, N.4, "Lượt 1 mai mối"]
-sources: [_archive/tuyen/qua-khu/nhi.md §2 (chuyển 10/11)]
+sources:
+  - "_archive/tuyen/qua-khu/nhi.md §2 (chuyển 10/11)"
 ---
 # PAST.N-003 · Lượt 1 mai mối, tắt bằng sự khéo
 

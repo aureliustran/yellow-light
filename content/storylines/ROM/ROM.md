@@ -8,7 +8,8 @@ participants: []
 axes: [AX1, AX3, AX7, AX8]
 weight: {OPEN: B, P1: SS+, P2: SSS, BREAK: SS+, AFTER: S}
 aliases: [RM, tuyến tình cảm]
-sources: [de-xuat/kien-truc-framework.md §8.1, §13.4]
+sources:
+  - "[[de-xuat/kien-truc-framework|de-xuat/kien-truc-framework.md §8.1, §13.4]]"
 ---
 # ROM · Tuyến tình cảm
 

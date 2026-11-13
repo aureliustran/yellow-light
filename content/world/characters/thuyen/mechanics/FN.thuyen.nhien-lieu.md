@@ -5,7 +5,9 @@ status: proposed
 updated: 2026-11-10
 parent: "[[CH.thuyen.mechanics]]"
 aliases: [fn.thuyen.nhien-lieu, nhiên liệu, thuốc giảm đau]
-sources: [_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §7, §2.3, _archive/tuyen/goc.md §5]
+sources:
+  - "_archive/tuyen/qua-khu/thuyen-hai-cai-toi.md §7, §2.3"
+  - "_archive/tuyen/goc.md §5"
 ---
 # FN.thuyen.nhien-lieu
 

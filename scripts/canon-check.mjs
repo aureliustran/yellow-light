@@ -200,6 +200,25 @@ law('LAW.check.resolve', () => {
 });
 
 // Link markdown tương đối [x](a/b.md): chỉ kiểm ở phần đã chuyển (file cũ hay trỏ sai).
+law('LAW.check.source-path', () => {
+  // sources: mục viết dạng đường dẫn .md mà không phải liên kết thì phải trỏ tới file có thật (kể cả ngoài content/)
+  for (const it of items) {
+    if (!it.fm || it.top === '_archive') continue;
+    const lines = it.fm.split(/\r?\n/);
+    let on = false;
+    lines.forEach((line, i) => {
+      const kv = line.match(/^([A-Za-z_][\w-]*):/);
+      if (kv) on = kv[1] === 'sources';
+      if (!on || /\[\[/.test(line)) return;
+      const m = line.replace(/^\s*-\s*/, '').replace(/^sources:\s*/, '').replace(/^"|"$/g, '').match(/^([^\s§(*"<]+\.md)\b/);
+      if (!m) return;
+      const tok = m[1].replace(/^content\//, '');
+      const ok = resolve(tok.replace(/\.md$/, '')).length > 0 || fs.existsSync(path.join(ROOT, m[1])) || fs.existsSync(path.join(CONTENT, tok));
+      if (!ok) add('LAW.check.source-path', 'warn', it, i + 2, `sources trỏ file không có: ${m[1]}`);
+    });
+  }
+});
+
 law('LAW.check.md-link', () => {
   const re = /\]\(([^)\s]+)\)/g;
   for (const it of items) {

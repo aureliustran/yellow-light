@@ -8,7 +8,9 @@ participants: ["[[CH.thuyen]]"]
 axes: [AX6]
 weight: {OPEN: A, P1: C}
 aliases: [TH.MO, Mở màn]
-sources: [_archive/tuyen/README.md §4 (chuyển 10/11), de-xuat/cay-tuyen.md]
+sources:
+  - "_archive/tuyen/README.md §4 (chuyển 10/11)"
+  - "[[de-xuat/cay-tuyen|de-xuat/cay-tuyen.md]]"
 ---
 # THR.MO · Mở màn
 

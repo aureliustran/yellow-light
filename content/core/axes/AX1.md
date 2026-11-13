@@ -5,7 +5,8 @@ status: locked
 updated: 2026-11-10
 name: Đèn vàng
 aliases: [H1, Đèn vàng]
-sources: [_archive/tuyen/goc.md §2 (chuyển 10/11)]
+sources:
+  - "_archive/tuyen/goc.md §2 (chuyển 10/11)"
 ---
 # AX1 · Đèn vàng
 

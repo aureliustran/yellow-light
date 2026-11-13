@@ -9,7 +9,8 @@ applies-to: POV [[CH.thuyen]]
 effective: OPEN → BREAK
 check: human
 aliases: [phiên bản lý tưởng, ảnh lóe]
-sources: [hội thoại 10/11; rules/registers.md §2.6 (R10, chưa chuyển)]
+sources:
+  - "hội thoại 10/11; rules/registers.md §2.6 (R10, chưa chuyển)"
 ---
 # TEC.interiority.ideal-self · Phiên bản lý tưởng lóe trong khối nội tâm
 

@@ -4,7 +4,8 @@ aliases: [config.levels]
 kind: config
 status: proposed
 updated: 2026-11-08
-sources: [_archive/tuyen/README.md §3]
+sources:
+  - "_archive/tuyen/README.md §3"
 ---
 # levels · Thang mức và vai
 

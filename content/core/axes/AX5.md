@@ -5,7 +5,8 @@ status: locked
 updated: 2026-11-10
 name: Định giá
 aliases: [H5, Định giá]
-sources: [_archive/tuyen/goc.md §2 (chuyển 10/11)]
+sources:
+  - "_archive/tuyen/goc.md §2 (chuyển 10/11)"
 ---
 # AX5 · Định giá
 

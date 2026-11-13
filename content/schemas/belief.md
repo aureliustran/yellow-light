@@ -6,7 +6,9 @@ status: agreed
 updated: 2026-11-10
 required: [id, definition, axis, status]
 aliases: [schema.belief]
-sources: [kien-truc-framework.md §5, hội thoại 10/11 (hai lớp, tham chiếu, ngộ nhận và diễn giải)]
+sources:
+  - "[[de-xuat/kien-truc-framework|kien-truc-framework.md §5]]"
+  - "hội thoại 10/11 (hai lớp, tham chiếu, ngộ nhận và diễn giải)"
 ---
 # schema · belief
 
