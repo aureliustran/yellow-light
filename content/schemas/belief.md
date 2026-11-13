@@ -52,6 +52,7 @@ An innate psychological effect that the character holds no thought about is **no
 | `monologue` | stages `ngo-nhan` / `dien-giai`, each with age or phase: the belief in the character's own thinking (design tool; on-page use optional) |
 | `other-face` | what makes it false or void |
 | `axis` | the axis `AX` it is designed from (required, at least one) |
+| `age` | the age or phase at which it forms; names the row of the character's existential table (`CH.<id>.voice`, section `existential`) `locked 13/11`, replacing the old `EXL` step |
 | `design` | why the belief exists in the building of the character: which axis is bent, which trait bends it, which arc or phase it serves `locked 13/11` |
 | `parent` | for a tactic: the core belief it derives from |
 | `cluster` | the cluster (`C<n>`) the belief answers; one primary cluster, others noted after it |

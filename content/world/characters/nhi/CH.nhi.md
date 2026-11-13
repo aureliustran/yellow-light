@@ -2,7 +2,7 @@
 id: CH.nhi
 kind: character
 status: agreed
-updated: 2026-11-10
+updated: 2026-11-13
 aliases: [NV.nhi, nhi, Nhi, Sóc]
 exports:
   - "nac-thich"
@@ -83,7 +83,7 @@ Chỉ khai tên, tập giá trị và node chủ. Giá trị theo giai đoạn d
 
 | Thuộc tính | Tập giá trị | Node chủ | Nguồn · trạng thái |
 | --- | --- | --- | --- |
-| `nac-thich` (Nhi thích Thuyên tới đâu) | nấc 0–8 của `SCALE.rom`: 0 ấn tượng · 1 để ý · 2 phục · 3 rung · 4 thích mà chối · 5 thừa nhận với mình · 6 chủ động · 7 hiểu sai · 8 biết anh cũng có gì đó | `ROM.TN` (chưa chuyển, B4c) | `03-kho` §1 · `proposed` (thang và node chủ) |
+| `nac-thich` (Nhi thích Thuyên tới đâu) | nấc 0–8 (tập giá trị định nghĩa ở node chủ, mục `nac-thich`; thang `SCALE.rom` bỏ 13/11): 0 ấn tượng · 1 để ý · 2 phục · 3 rung · 4 thích mà chối · 5 thừa nhận với mình · 6 chủ động · 7 hiểu sai · 8 biết anh cũng có gì đó | `ROM.TN` | `03-kho` §1 · `proposed` (thang và node chủ) |
 
 ## exports
 

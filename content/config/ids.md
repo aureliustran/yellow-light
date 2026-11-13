@@ -25,9 +25,9 @@ Chuyển sang spec: [`docs/framework/ids.md`](../../docs/framework/ids.md) (ng�
 | Loại | Cũ | Mới | Ví dụ mới |
 | --- | --- | --- | --- |
 | Trục hiện sinh | `H1`–`H9` | `AX1`–`AX9` | `AX3` |
-| Thang hiện sinh | `Nấc-HS` | `SCALE.exl` (alias `EXL`) | `EXL 8` |
-| Thang kiêu ngạo của Thuyên | `Nấc-TT` | `SCALE.pride` `proposed` | `SCALE.pride 3` |
-| Thang "Nhi thích Thuyên" | `Nấc-RM` | `SCALE.rom` `proposed` | `SCALE.rom 5` |
+| Thang hiện sinh | `Nấc-HS` | bỏ 13/11: niềm tin trường `age`; `CH.thuyen.voice` mục `existential` (alias `SCALE.exl`, `EXL`); `rules/hien-sinh.md` | chặng 8 |
+| Thang kiêu ngạo của Thuyên | `Nấc-TT` | bỏ 13/11: thuộc tính `cai-toi-doc` và trường `amplified` của niềm tin | `cai-toi-doc: chiem-cho` |
+| Thang "Nhi thích Thuyên" | `Nấc-RM` | bỏ 13/11: mục `nac-thich` của ROM.TN (thuộc tính `nac-thich` của Nhi) | `nac-thich: 5` |
 | Niềm tin | `NT-nn`, `BL-NNN` | `B.<id nhân vật>-<NNN>` (đếm riêng từng nhân vật, 11/11) | `B.thuyen-024` |
 | Value (tiêu chí của hệ giá trị) | (tiên đề của `M-he-gia-tri.md`) | `V.<id nhân vật>-<NNN>` (đếm riêng từng nhân vật, 13/11) | `V.thuyen-001` |
 | Bộ chịu đựng | `TB-n` | `DV-NNN` | `DV-007` |
@@ -120,4 +120,4 @@ Mã cũ không bị xóa: mỗi file đích thêm vào `aliases` mọi mã cũ c
 
 - Chữ `H` + số trong văn bản khác (ví dụ "H1" trong tên file `H1.md`), chữ `HP` trong từ khác.
 - `TH` + `.` trong số thập phân/viết tắt thông thường; script chỉ khớp khi theo sau là mã node đã khai ở §3.
-- `SCALE.pride`/`SCALE.rom` là tên đề xuất của Claude; nếu tác giả muốn tên khác, sửa ở đây và script theo.
+- Loại `scale` bỏ 13/11 (tác giả); `SCALE.*` không còn mã nào.

@@ -30,8 +30,8 @@ Only what is the event's own, plus explicit deviations from what it inherits.
 | `participants` · `place` | `[[CH.…]]` · `[[SET.…]]` | when not all of the node's |
 | `calls` | the functions the action is built from, any number of `innate` functions and `method`s together: `[[FN.thuyen.phong-kin]](K1+K2+K4)` | when any |
 | `must-show` · `must-hide` | what has to reach the page · what must not (`[[SEC-003]]`) | when any |
-| `axis` · `level` | `AX1` · step with its scale: `EXL 5`, `SCALE.pride 3` (default scale EXL) | inside an existential band |
-| `beliefs` | `BL-` consumed or produced | when any |
+| `axis` | `AX1` | inside an existential band |
+| `beliefs` | beliefs consumed or produced, with the stage when it matters: `[[CH.thuyen.beliefs#B.thuyen-030]] (dien-giai)`. Replaces `level` (dropped with the scales, 13/11) | when any |
 | `values` | values used to choose in this event: `[[CH.thuyen.values#V.thuyen-004]]` | when any; required in a PAST event |
 | `outcome` | the result of the action | required in a PAST event |
 | `reflect` | how the character reads the result, with which tool and inside which limit | required in a PAST event |

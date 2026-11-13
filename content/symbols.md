@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 202 file. Chưa chuyển sang khuôn mới (legacy): 139 file.
+Có phần đầu (frontmatter): 200 file. Chưa chuyển sang khuôn mới (legacy): 140 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -126,7 +126,6 @@ Có phần đầu (frontmatter): 202 file. Chưa chuyển sang khuôn mới (leg
 | `ROM.TN-001` | `event` | `proposed` | `storylines/ROM/ROM.TN/ROM.TN-001.md` | Lúc Phong vắng, Thuyên chọc Nhi với Phong. Hai bên đấu dữ kiện; Thuyên thắng lý bằng chính dữ kiện của Nhi, rồi đổi sang 'mặt tầng 17' và… |
 | `ROM.TN-002` | `event` | `proposed` | `storylines/ROM/ROM.TN/ROM.TN-002.md` | Nhi 'mua thừa' cold brew chanh cho Thuyên, chối là mình biết; Thuyên suy ra cốc là cho anh, trêu 'thèm nhớ'; tuần sau anh 'mua thừa' matc… |
 | `ROM.VA` | `node` | `proposed` | `storylines/ROM/ROM.VA/ROM.VA.md` | Tuyến phụ hài, tùy chọn; giao `SOL.HD` (`de-xuat/cay-tuyen.md`). |
-| `SCALE.exl` | `scale` | `locked` | `core/SCALE.exl.md` | Bốn mối lo lớn theo Yalom (chết, tự do, cô đơn, vô nghĩa) là bản đồ, không dùng chữ ấy trên trang. Thang đi hai chiều: từ vật cụ thể sang… |
 | `SCH.article` | `schema` | `proposed` | `schemas/article.md` | A constitution article: an invariant split from an axis; phase laws take their basis from it. See [rules-engine](../../docs/framework/rul… |
 | `SCH.axis` | `schema` | `agreed` | `schemas/axis.md` | An existential axis of the story (old `H<n>`). The root holds axes, not mechanisms: how an axis runs lives in the node that carries it, a… |
 | `SCH.belief` | `schema` | `agreed` | `schemas/belief.md` | A belief (old `NT-`): what a character holds about self, others or the world, produced by personality meeting a wound, consumed by presen… |
@@ -148,7 +147,6 @@ Có phần đầu (frontmatter): 202 file. Chưa chuyển sang khuôn mới (leg
 | `SCH.post` | `schema` | `proposed` | `schemas/chapter.md` | A chapter as published, in `content/posts/<edition-dir>/`. The chapter file is never renamed or given metadata (the import parser and the… |
 | `SCH.proposal` | `schema` | `proposed` | `schemas/proposal.md` | An unapproved proposal (old `de-xuat/`). **Location:** `proposals/PROP-NNN.md`; once merged, `proposals/_merged/`. **Id:** `PROP-NNN`; ol… |
 | `SCH.register` | `schema` | `proposed` | `schemas/register.md` | A register (văn phong): a voice bundle for narration or dialogue. See [library](../../docs/framework/library.md). |
-| `SCH.scale` | `schema` | `agreed` | `schemas/scale.md` | A graded scale (steps) used by events and attributes, e.g. `SCALE.exl` (old Nấc-HS). **Location:** `core/SCALE.<name>.md`. |
 | `SCH.schema` | `schema` | `proposed` | `schemas/schema.md` | A model of one entity kind. **Location:** `content/schemas/<kind>.md`. **Id:** `SCH.<kind>`. |
 | `SCH.secret` | `schema` | `proposed` | `schemas/secret.md` | A secret, tracked as an entity to know **who knows what, when**. **Location:** `world/secrets/SEC-NNN.md`. **Id:** `SEC-NNN`. |
 | `SCH.setting` | `schema` | `proposed` | `schemas/setting.md` | A place, a recurring space. **Location:** `world/settings/SET.<name>.md`. **Id:** `SET.<name>`. Header: `parent` (larger setting, if any). |
@@ -158,7 +156,7 @@ Có phần đầu (frontmatter): 202 file. Chưa chuyển sang khuôn mới (leg
 | `SEC-001` | `secret` | `agreed` | `world/secrets/SEC-001.md` | Nhi là con gái Chủ tịch tập đoàn Astrea và em gái Khải, Tổng giám đốc ([[CH.nhi]]). |
 | `SEC-002` | `secret` | `locked` | `world/secrets/SEC-002.md` | Sau khi lượt 1 thất bại (2021), bố mẹ Nhi ngầm tạo điều kiện cho Phong, người có cảm tình với Nhi và có phụ huynh là đối tác của Astrea, … |
 | `SELF` | `node` | `agreed` | `storylines/SELF/SELF.md` | Gốc của các node `SELF.<id>`: mỗi nhân vật có hiện sinh một node, làm chủ thuộc tính nội tâm của người ấy theo giai đoạn. |
-| `SELF.thuyen` | `node` | `agreed` | `storylines/SELF/SELF.thuyen/SELF.thuyen.md` | Làm chủ các thuộc tính nội tâm của [[CH.thuyen]] theo giai đoạn: `exl`, `cai-toi-doc`, `lang-kinh`, `cai-goi`, `luc-keo`, `luc-day`, và g… |
+| `SELF.thuyen` | `node` | `agreed` | `storylines/SELF/SELF.thuyen/SELF.thuyen.md` | Làm chủ các thuộc tính nội tâm của [[CH.thuyen]] theo giai đoạn: `cai-toi-doc`, `lang-kinh`, `cai-goi`, `luc-keo`, `luc-day`, và giọng lờ… |
 | `SOL` | `node` | `proposed` | `storylines/SOL/SOL.md` | Gốc của các node `SOL.*`. Khung (T2, 10/11): chỉ có `weight` và `children`; mọi mục khác chờ chuyển. |
 | `SOL.DT` | `node` | `proposed` | `storylines/SOL/SOL.DT/SOL.DT.md` | Phòng trọ, bún riêu (đơn vị tiền), Casio, Crocs, ảnh aesthetic, Locket; phần hiện tại của ch.1–6; *Nước lạnh*; câu đùa thưa dần, thôi quy… |
 | `SOL.HD` | `node` | `proposed` | `storylines/SOL/SOL.HD/SOL.HD.md` | Ba người bạn thân của Nhi, nhóm chat *HĐQT 🎀*. Phản đối Thuyên vì gia thế không xứng; càng phá càng bất lực, càng có cảm tình. Ba ghế, b… |

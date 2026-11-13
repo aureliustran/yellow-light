@@ -2,7 +2,7 @@
 id: SCH.scale
 kind: schema
 entity: scale
-status: agreed
+status: dropped
 updated: 2026-11-10
 required: [id, kind, status, updated, name]
 aliases: [schema.scale]
@@ -10,6 +10,8 @@ sources:
   - "[[docs/framework/model|docs/framework/model.md]]"
   - "_archive/tuyen/goc.md §3 (chuyển 10/11)"
 ---
+
+> **Bỏ 13/11 (tác giả).** Mối lo và tiến trình chuyển vào niềm tin (trường `age`, chặng); dạng câu chuyển vào `CH.thuyen.voice` mục `existential`; ba luật viết chuyển vào `rules/hien-sinh.md`. Loại `scale` không còn trong khung: thang kiêu ngạo thành thuộc tính `cai-toi-doc` và trường `amplified`; thang Nhi thích Thuyên thành mục `nac-thich` của ROM.TN. Bản dưới đây chỉ để tra.
 # schema · scale
 
 A graded scale (steps) used by events and attributes, e.g. `SCALE.exl` (old Nấc-HS). **Location:** `core/SCALE.<name>.md`.

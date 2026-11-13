@@ -47,7 +47,7 @@ Giao điểm: `storylines/intersections/`. Mỗi giao điểm là một thư m�
 | [[AX8]] | Điều trị bắt đầu từ chính mình |
 | [[AX9]] | Kẻ mạnh |
 
-Thang mặc định của trường `level`: [[SCALE.exl]].
+Trường `level` đã bỏ cùng thang hiện sinh (13/11): lá ghi niềm tin và chặng của nó ở `beliefs`; dạng câu theo tuổi ở [[CH.thuyen.voice]] mục `existential`.
 
 ## Một câu
 
@@ -57,9 +57,9 @@ Chép từ bible §3:
 
 ## Cung hiện sinh theo giai đoạn
 
-Gốc nói mỗi giai đoạn đứng ở nấc nào ([[SCALE.exl]]), trục nào nặng nhất. Node mang nó là gợi ý, không phải chủ.
+Gốc nói mỗi giai đoạn đứng ở chặng hiện sinh nào của Thuyên ([[CH.thuyen.voice]] mục `existential`; trước 13/11 là nấc của `SCALE.exl`), trục nào nặng nhất. Node mang nó là gợi ý, không phải chủ.
 
-| Giai đoạn | Nấc | Trục nặng | Node đang mang (gợi ý) |
+| Giai đoạn | Chặng hiện sinh | Trục nặng | Node đang mang (gợi ý) |
 | --- | --- | --- | --- |
 | OPEN (MĐ) | 1 đến 7 qua hồi tưởng; mở bằng nấc 9 (*Nước lạnh*) | AX3, AX7, AX4 | `PAST.T` sinh từng nấc; `SOL.DT` (ba dòng tiểu sử "không dòng nào sai", Casio dây rộng); `FAM.T` (cuộc gọi, áo sơ mi trắng) |
 | P1 (GĐ1) | 7: cô đơn giữa đám đông, hài hước khô | AX1, AX4, AX7 | `ROM.TN` (lùi, quân sư; phương trình đẩy Nhi ra); `THR.LAB` (phòng thủ, sửa lỗi người khác); `SOL.VU` ("Mày đang lùi đấy à?") |

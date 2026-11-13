@@ -86,7 +86,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **amplified** `locked 11/11`: [[X-011-001]] (đêm say). Từ GĐ2 tấm khiên mở rộng từ chủ kiến sang tình yêu: anh đã biết mình có tình yêu của Nhi; sự công nhận là thứ để bác bỏ mọi lời phán xét, để được thương cô trọn vẹn (cái tôi độc, [[FN.thuyen.cai-toi]]). Không phải tiền mua tình thương.
 - **children:** B.thuyen-004 (B.thuyen-007 chuyển sang con của B.thuyen-034, 11/11)
 - **other-face:** khao khát được ôm, được nghe khóc, được thừa nhận vì đã cố và đã chịu (cái gối, FN.thuyen.cai-goi)
-- **axis · step:** EXL 2 · AX7, AX3
+- **axis:** AX7, AX3
+- **age:** lớp 3 đến 5 (chặng hiện sinh 2, bảng `existential` của [[CH.thuyen.voice]]; trước 13/11: `EXL 2`)
 - **origin:** mầm PAST.T 1.1b (lớp 1); kết tinh 1.4b (mẹ công nhận Nam, lớp 4–5); thành chữ ở [[PAST.T-011]] (bài văn, lớp 9)
 - **consumed (nguồn cũ):** FN.thuyen.phuong-trinh; mọi node
 - **status:** `locked 10/11`; tầng không thấy sửa 11/11 · alias `NT-24`
@@ -100,7 +101,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `ngo-nhan` · lớp 4: `needs-decision` (bản cũ dựa vào phương trình đã bỏ 11/11): *Mẹ làm một việc tử tế cho mình, nhưng không nói gì. Nếu đó là tình thương thì phương trình của mình sai, vì hôm ấy mình không làm được gì đáng được công nhận. Vậy có lẽ đó chỉ là thói quen, là sự tiện tay. Giải thích như vậy hợp lý hơn.*
 - **parent:** B.thuyen-024
 - **other-face:** none
-- **axis · step:** EXL 2 · AX7, AX4
+- **axis:** AX7, AX4
+- **age:** lớp 3 đến 5 (chặng hiện sinh 2, bảng `existential` của [[CH.thuyen.voice]]; trước 13/11: `EXL 2`)
 - **origin:** PAST.T 1.4: mẹ gỡ xương cá
 - **consumed (nguồn cũ):** ROM.TN: dịu dàng là hành động, kèm một câu che
 - **status:** `locked 10/11` · alias `NT-04`
@@ -115,7 +117,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **monologue:**
   - `dien-giai` · lớp 11 (*Biết ơn*): *Khi mình giúp ai đó, mình biết chính xác giá trị của mình: mình có ích, và sự có mặt của mình được biện minh. Khi ai đó thương mình mà không cần mình làm gì, thì không có phép tính nào giải thích được. Một khoản không rõ nguồn gốc là một khoản nợ không biết bao giờ phải trả. Vậy mình chịu được việc trở nên hữu ích; mình không chịu được việc được yêu thương.*
 - **other-face:** none
-- **axis · step:** EXL 5 · AX7, AX2, AX8
+- **axis:** AX7, AX2, AX8
+- **age:** lớp 10 đến 11 (chặng hiện sinh 5, bảng `existential` của [[CH.thuyen.voice]]; trước 13/11: `EXL 5`)
 - **origin:** PAST.T *Biết ơn* (lớp 11)
 - **consumed (nguồn cũ):** quân sư (giúp được, không nhận được); hồi phục: lần đầu nhận
 - **status:** `locked 10/11` · alias `NT-17`
@@ -130,7 +133,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **monologue:**
   - `dien-giai` · đại học: *Người ta tìm đến mình vì mình giải quyết được vấn đề của họ, không phải vì họ muốn hiểu mình là ai. Điều đó không có gì sai: một công cụ hữu dụng thì luôn được giữ lại. Muốn được thấu hiểu thì phải bộc lộ, và bộc lộ là rủi ro. Vậy được cần đến là đủ; được thấu hiểu là thứ xa xỉ không cần thiết.*
 - **other-face:** Nhi là người muốn biết
-- **axis · step:** EXL 7 · AX4, AX7
+- **axis:** AX4, AX7
+- **age:** đại học (chặng hiện sinh 7, bảng `existential` của [[CH.thuyen.voice]]; trước 13/11: `EXL 7`)
 - **origin:** PAST.T 3.3: hackathon, CLB
 - **consumed (nguồn cũ):** P1 lab: giữ Thảo khỏi bị dồn việc; Nhi là người muốn biết
 - **status:** `locked 10/11` · alias `NT-23`
@@ -151,7 +155,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `ngo-nhan` · lớp 6: *Người chấm cần một thứ, mình cần một thứ khác, và không có lý do gì để hai thứ ấy phải trùng khớp. Mình nộp cho họ đúng thứ họ cần để được yên ổn; bản thật thì giữ lại, vì bản thật không cần ai thẩm định.*
 - **parent:** B.thuyen-021
 - **other-face:** none
-- **axis · step:** EXL 3 · AX3, AX4
+- **axis:** AX3, AX4
+- **age:** lớp 6 đến 7 (chặng hiện sinh 3, bảng `existential` của [[CH.thuyen.voice]]; trước 13/11: `EXL 3`)
 - **origin:** PAST.T 1.5: tờ nháp, lớp 6
 - **consumed (nguồn cũ):** THR: lõi chỉ Thuyên hiểu; ROM.TN P2: Nhi được xem tờ thứ hai, tờ ấy lên bàn ngày gãy
 - **status:** `locked 10/11` · alias `NT-05`
@@ -168,7 +173,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `dien-giai` · lớp 9: *Tao không cần ai xác nhận. Lập luận của tao tự đứng được bằng dữ kiện; nó đúng trước khi có người công nhận, và vẫn đúng khi không ai công nhận. Sự đồng thuận của người khác chỉ là phụ phí.*
 - **children:** B.thuyen-005
 - **other-face:** none
-- **axis · step:** EXL 3 · AX3
+- **axis:** AX3
+- **age:** lớp 6 đến 7 (chặng hiện sinh 3, bảng `existential` của [[CH.thuyen.voice]]; trước 13/11: `EXL 3`)
 - **origin:** PAST.T 1.5, 1.6, 1.9
 - **consumed (nguồn cũ):** Ngạo; THR: lõi chỉ Thuyên hiểu; FN.thuyen.cai-toi (cái tôi lành)
 - **status:** `locked 10/11` · alias `NT-21`
@@ -185,7 +191,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `ngo-nhan` · lớp 6–7: *Mình đã hơn nó về điểm số, mà mẹ vẫn khẳng định nó hơn. Vậy cái mẹ dùng để so sánh không phải là điểm số. Có một tiêu chuẩn khác mà mình không nhìn thấy, và tiêu chuẩn ấy nằm trong tay mẹ, không nằm trong bài làm của mình.*
   - `dien-giai` · lớp 11: *Thước đo của người khác là thứ chủ quan: họ cầm, họ đặt vạch, họ dời vạch theo ý muốn. Cố gắng đạt tới vạch của họ là đuổi theo một mục tiêu di động. Vì vậy tao không chạy theo thước của ai nữa. Tao dùng cân của tao, thứ chỉ đo dữ kiện.*
 - **other-face** `locked 11/11`: dạng *socially prescribed perfectionism* (Hewitt và Flett: tin rằng người khác chỉ coi trọng mình nếu mình hoàn hảo; dạng gắn chặt nhất với tuyệt vọng, https://apa.org/monitor/nov03/manyfaces.aspx). Anh tưởng đã bỏ ở dạng diễn giải lớp 11 ("tao không chạy theo thước của ai nữa"), nhưng nó vẫn chạy ngầm và lộ lại ở đêm say: "Anh muốn mọi người coi anh xứng đáng" ([[X-011-001]]).
-- **axis · step:** AX3
+- **axis:** AX3
 - **origin:** PAST.T: cảnh Lâm, lớp 6–7; lặp ở lớp 11 ("Tin thì được cái chi")
 - **consumed (nguồn cũ):** FN.thuyen.thieu
 - **status:** `locked 10/11`; nguồn gốc, ref, deviation, other-face `locked 11/11` · alias `NT-30`
@@ -200,7 +206,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **monologue:**
   - `dien-giai` · lớp 11: *Không có thứ gì hoàn hảo; mọi sự vật, mọi lập luận, mọi con người đều có ưu điểm và khuyết điểm, và cả hai đều đo lường được. Không có lý do gì để tao tự miễn trừ khỏi phép đo ấy. Người ta né tránh việc soi xét bản thân vì sợ nhìn thấy khuyết điểm; tao thì không sợ, vì khuyết điểm chỉ là dữ kiện. Nhìn khuyết điểm trước ưu điểm cũng không phải bi quan, mà là thứ tự ưu tiên: ưu điểm không cần xử lý, khuyết điểm thì cần.*
 - **other-face:** none
-- **axis · step:** AX3, AX4
+- **axis:** AX3, AX4
 - **origin:** PAST.T quãng 1 (xuyên suốt); kết tinh lớp 11
 - **consumed (nguồn cũ):** mọi node
 - **status:** `locked 10/11` · alias `NT-10`
@@ -215,7 +221,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **monologue:**
   - `dien-giai` · lớp 11: *Khuyết điểm không phải là tội, nó là chướng ngại vật. Chướng ngại nào nằm trên lộ trình mình đã chọn thì phải dỡ bỏ; chướng ngại nào nằm ngoài lộ trình thì mặc kệ, vì tốn công xử lý là lãng phí. Mỗi lần dỡ bỏ xong một chướng ngại, mình được phép dừng lại một chút. Nhưng lộ trình nào cũng còn chướng ngại kế tiếp; nếu không còn gì để sửa, nghĩa là mình không còn lộ trình, và một người không có lộ trình là kẻ thất bại.*
 - **other-face:** none
-- **axis · step:** AX3, AX2
+- **axis:** AX3, AX2
 - **origin:** kết tinh lớp 11 (hệ sao bị phủ nhận, audit "khuyết = không có giải quốc gia")
 - **status:** `locked 10/11` (số mới)
 
@@ -227,7 +233,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **monologue:**
   - `dien-giai` · lớp 12 (giáo án Tin, dòng đầu): *Một bài toán dễ không có nghĩa là được phép giải cẩu thả. Người chấm chỉ kiểm tra đáp án đúng hay sai; cái cân của mình kiểm tra lời giải có tối ưu hay không. Đáp án đúng là chuẩn của người khác; lời giải tối ưu là chuẩn của mình.*
 - **other-face:** none
-- **axis · step:** AX3
+- **axis:** AX3
 - **origin:** PAST.T *Hụt hẫng* → *Phẫn uất*
 - **consumed (nguồn cũ):** P2: anh quên dòng này
 - **status:** `locked 10/11` · alias `NT-20`
@@ -243,7 +249,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `ngo-nhan` · lớp 8: *Mình đã làm đúng thứ người ta yêu cầu, và kết quả tốt. Theo logic, sau một kết quả tốt phải có một điều gì đó xuất hiện. Không có gì xuất hiện. Vậy thứ mình cần không nằm ở kết quả này; nó nằm ở mục tiêu phía sau nó.*
 - **parent:** B.thuyen-034 (trước 11/11: B.thuyen-024)
 - **other-face:** none
-- **axis · step:** EXL 4 · AX3, AX5
+- **axis:** AX3, AX5
+- **age:** lớp 8 đến 9 (chặng hiện sinh 4, bảng `existential` của [[CH.thuyen.voice]]; trước 13/11: `EXL 4`)
 - **origin:** PAST.T 1.8: tủ kính, giấy khen, lớp 8
 - **consumed (nguồn cũ):** THR.MODEL: "đủ là bao nhiêu"; ROM.TN: chờ ghế 50 triệu mới tỏ tình
 - **status:** `locked 10/11`; định nghĩa, deviation, câu cuối độc thoại, cụm, cha sửa 11/11 · alias `NT-07`
@@ -260,7 +267,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - Bản cũ 10/11 (thay vì `seen: khong`): *Có một phiên bản của tao ở cuối lộ trình này, phiên bản đã đạt được mục đích. Tao không biết hình dạng chính xác của nó, chỉ biết khoảng cách từ đây tới đó đo lường được, và tao đang thu hẹp nó từng ngày… Vớ vẩn.*
 - **children:** B.thuyen-007 (11/11)
 - **other-face:** none
-- **axis · step:** AX3
+- **axis:** AX3
 - **expression** `locked 11/11`: lực kéo luôn cao; mỗi chặng ghi mục tiêu đang đặt vạch: lớp 9 đỗ chuyên ("lần đầu tiên, có một thứ ở phía trước đủ lớn") → lớp 11 HSG quốc gia → lớp 12 du học → GĐ2 ghế 50 triệu và "mọi người coi anh xứng đáng" (khuếch đại ở [[X-011-001]]).
 - **behavior** (nghiên cứu chủ nghĩa hoàn hảo, phần hành vi; `locked 11/11`): đầu tư cưỡng bách (vở giáo án, 5 giờ sáng; Assor và Tal 2012); che giấu chỗ chưa hoàn hảo (cày lén, "thiên tài lười", hai tờ nháp; *perfectionistic self-presentation*, Hewitt và cộng sự 2003); hoãn sự thân mật, phần thưởng tới khi đạt mục tiêu (lời hứa đêm say).
 - **origin:** `locked 11/11` (tác giả): phiên bản bắt đầu từ lúc anh **nhận ra mình có năng lực**. Tình tiết: [[PAST.T-008]] (lớp 6, "Cả lớp xem bạn Thuyên giải.") `locked 11/11`. Lớp 9 (đỗ chuyên) là mục tiêu đầu tiên đủ lớn trong `expression`, không còn là gốc.
@@ -285,7 +292,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `ngo-nhan` · lớp 1–2: *Người lớn không lắng nghe để kiểm chứng; họ đã có kết luận trước khi mình mở lời. Vậy nói ra không nhằm mục đích được hiểu, vì không ai đang lắng nghe. Ý của mình chỉ có giá trị ở bên trong đầu mình.*
 - **children:** B.thuyen-026
 - **other-face:** none
-- **axis · step:** EXL 1 · AX7, AX4
+- **axis:** AX7, AX4
+- **age:** mầm non đến lớp 3 (chặng hiện sinh 1, bảng `existential` của [[CH.thuyen.voice]]; trước 13/11: `EXL 1`)
 - **origin:** PAST.T 1.1: đếm bánh chưng, Tết lớp 1–2
 - **consumed (nguồn cũ):** ROM.TN: dịu dàng không thừa nhận; khuôn E2
 - **status:** `locked 10/11` · alias `NT-01`
@@ -303,7 +311,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `dien-giai` · áp dụng toàn bộ truyện `locked 11/11` (bản đầu ở trên lớn dần thành bản này): *Tao không cần ai cho phép tao hỏi, và tao không bận tâm câu hỏi của tao làm ai khó chịu. Thứ tao cần là câu trả lời. Phần lớn thứ tao muốn biết thì tao tự tìm được, và tự tìm là nhanh nhất. Phần còn lại nằm trong đầu một số ít người; việc của tao là biết người nào giữ nó, rồi dựng sẵn chuỗi câu hỏi để lấy đúng thứ cần trong ít lượt nhất.*
 - **parent:** B.thuyen-001
 - **other-face:** người vừa biết vừa sẵn lòng chia sẻ
-- **axis · step:** EXL 2→3 · AX7
+- **axis:** AX7
+- **age:** lớp 3 đến 5 → lớp 6 đến 7 (chặng hiện sinh 2→3, bảng `existential` của [[CH.thuyen.voice]]; trước 13/11: `EXL 2→3`)
 - **origin:** PAST.T quãng 1: xe đạp (QT-04), ba lần xin người nghe (QT-12), bài toán không ai chỉ (QT-27)
 - **consumed (nguồn cũ):** anh thành người chỉ cho người khác thứ mình chưa từng có: giáo án Tin, dạy Nhi, quân sư cho Phong
 - **status:** `locked 10/11`; định nghĩa, deviation, độc thoại viết lại 11/11 (bỏ "hạn chế hỏi", "ngại hỏi") · alias `NT-26`
@@ -321,7 +330,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `dien-giai` · cấp 3: *Lẽ phải không có năng lực tự bảo vệ; nó cần vị thế để được thừa nhận. Kẻ ở dưới nói đúng thì bị coi là phản kháng; người ở trên nói đúng thì thành quy tắc, nói sai cũng thành quy tắc. Tranh luận để chứng minh mình đúng là lãng phí năng lượng. Thứ cần tích lũy là vị thế. Khi đã đứng đủ cao, tao không cần sự đồng thuận của ai nữa: phát ngôn của tao mặc nhiên trở thành chuẩn mực.*
 - **children:** B.thuyen-006
 - **other-face:** none
-- **axis · step:** EXL 2→3 · AX9, AX3, AX4
+- **axis:** AX9, AX3, AX4
+- **age:** lớp 3 đến 5 → lớp 6 đến 7 (chặng hiện sinh 2→3, bảng `existential` của [[CH.thuyen.voice]]; trước 13/11: `EXL 2→3`)
 - **origin:** PAST.T 1.3: phích vỡ, lớp 4 (nấc đầu); nối lớp 9 sang lớp 10 (nấc cuối)
 - **consumed (nguồn cũ):** gốc chuỗi tên lửa (FN.thuyen.lang-kinh); THR.LAB: sửa lỗi người khác, không tranh công; ghen không gọi tên (từ B.thuyen-003)
 - **status:** `locked 10/11` · alias `NT-33`, `NT-03`, "Đúng chỉ thắng khi đứng trên cao"
@@ -335,7 +345,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `ngo-nhan` · lớp 7, sau đêm bẻ roi: *Đối đầu trực diện là đặt lẽ phải của mình lên bàn cân với quyền lực của người kia, mà bàn cân ấy do chính họ nắm giữ. Kết cục đã định sẵn: thất bại, rồi trả giá. Mục tiêu thật không phải là thắng một cuộc tranh cãi, mà là đạt được điều mình muốn. Vậy thì không cần đối đầu. Cứ để người ta tin rằng họ đã chiến thắng, còn mình đi một lộ trình khác, tới đúng đích mình đã định.*
 - **parent:** B.thuyen-029, B.thuyen-033
 - **other-face:** none
-- **axis · step:** EXL 3 · AX1, AX4, AX9
+- **axis:** AX1, AX4, AX9
+- **age:** lớp 6 đến 7 (chặng hiện sinh 3, bảng `existential` của [[CH.thuyen.voice]]; trước 13/11: `EXL 3`)
 - **origin:** PAST.T 1.7: bẻ roi, lớp 7
 - **consumed (nguồn cũ):** AX1: lùi thay vì tranh (thấy Phong là lùi); THR: đối phó nhẹ ở P1
 - **status:** `locked 10/11` · alias `NT-06`
@@ -351,7 +362,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `ngo-nhan` · lớp 9 (phiếu khảo sát): *Mình đã thử trả lời thật, một lần, với một hệ thống được tạo ra để lắng nghe. Hệ thống ghi nhận, cảm ơn, rồi im lặng. Nói thật với người thì bị trừng phạt; nói thật với máy thì không ai đọc. Vậy sự thật không phải thứ người ta cần; người ta cần một câu trả lời khớp với barem. Từ nay mình trao cho họ đúng câu trả lời ấy.*
 - **parent:** B.thuyen-005
 - **other-face:** none
-- **axis · step:** EXL 4 · AX4
+- **axis:** AX4
+- **age:** lớp 8 đến 9 (chặng hiện sinh 4, bảng `existential` của [[CH.thuyen.voice]]; trước 13/11: `EXL 4`)
 - **origin:** PAST.T 1.10: phiếu khảo sát tâm lý
 - **consumed (nguồn cũ):** THR: khảo sát tháng 3; SOL.DT: chẩn đoán ở hồi phục
 - **status:** `locked 10/11` · alias `NT-08`
@@ -366,7 +378,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **monologue:**
   - `dien-giai` · lớp 9 (phiếu thi chuyên): *Một mong muốn của mình, nếu nói ra bằng tên của mình, sẽ bị bác bỏ chỉ vì nó là của mình. Cùng mong muốn ấy, nếu người khác tin rằng chính họ nghĩ ra, sẽ được bảo vệ như một quyết định của họ. Vậy mình không cần ai đồng ý với mình. Mình chỉ cần sắp xếp thông tin sao cho họ tự đi tới đúng chỗ mình muốn.*
 - **other-face:** none
-- **axis · step:** EXL 4→5 · AX4, AX1
+- **axis:** AX4, AX1
+- **age:** lớp 8 đến 9 → lớp 10 đến 11 (chặng hiện sinh 4→5, bảng `existential` của [[CH.thuyen.voice]]; trước 13/11: `EXL 4→5`)
 - **origin:** PAST.T 1.11: phiếu thi chuyên
 - **consumed (nguồn cũ):** ROM.PN: quân sư cho Phong; THR: thao túng ở P2
 - **status:** `locked 10/11` · alias `NT-09`
@@ -391,7 +404,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `dien-giai` · đại học trở đi: *Tao vẫn không chia sẻ những điều cần che giấu. Nhưng tao đã học được cách lắng nghe: người khác kể cảm xúc của họ, tao ghi nhận, phân loại, truy nguyên, rồi đưa ra phản hồi phù hợp, và tao làm việc ấy tốt hơn phần lớn những người có cảm xúc. Có lẽ tao vẫn là một cỗ máy vô cảm, chỉ là một cỗ máy biết nhận diện và xử lý các tham số của cảm xúc.*
 - **children:** B.thuyen-014, B.thuyen-025
 - **other-face:** có người trân trọng thứ anh chia sẻ; anh khóc và được ôm (một cỗ máy không khóc)
-- **axis · step:** EXL 4 · AX4, AX7, AX8, AX3
+- **axis:** AX4, AX7, AX8, AX3
+- **age:** lớp 8 đến 9 (chặng hiện sinh 4, bảng `existential` của [[CH.thuyen.voice]]; trước 13/11: `EXL 4`)
 - **origin:** PAST.T 1.9 (câu của mẹ với bác Hùng: "Học thì được, mà người thì như cục đất", legacy ch.3 *Tiếng dép*); đổ vỡ: sau thất bại HSG quốc gia lớp 11 và quá trình vực dậy (lá chưa định nghĩa)
 - **consumed (nguồn cũ):** Trào-thước; đáy Phần 1; quân sư (FN.thuyen.quan-su); Nhi gọi tên cảm xúc cho anh (FN.nhi.cam)
 - **status:** `locked 10/11` · alias `NT-22`, "Mình vốn là đất"
@@ -406,7 +420,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **monologue:**
   - `dien-giai` · lớp 10–11: *Một sự thật nói bằng giọng nghiêm túc thì phải chịu trách nhiệm, phải chứng minh, phải trả lời chất vấn. Cùng sự thật ấy nói bằng giọng đùa cợt thì không ai bắt bẻ, và mình có sẵn đường lui. Nếu người khác định phán xét mình, mình cười trước, để phán quyết thành của mình. Vậy tiếng cười là tấm khiên tốt nhất: nó che được cả sự thật lẫn nỗi đau.*
 - **other-face:** Vũ không phân biệt thật, đùa; người bắt được van xả
-- **axis · step:** EXL 5 · AX4, AX2
+- **axis:** AX4, AX2
+- **age:** lớp 10 đến 11 (chặng hiện sinh 5, bảng `existential` của [[CH.thuyen.voice]]; trước 13/11: `EXL 5`)
 - **origin:** PAST.T *Hoan hỉ* (lớp 10; dạng nói thật bằng giọng đùa); *Hụt hẫng*, *Tủi hổ* (lớp 11; hai dạng còn lại)
 - **consumed (nguồn cũ):** SOL.VU; THR.LAB (không được lộ khuyết); câu đùa thưa dần ở SOL.DT; ROM.TN: ghép Nhi với Phong; vỏ của Ngạo; "Thi rồi. Về tay trắng."
 - **status:** `locked 10/11` · alias `NT-11`, `NT-12`, `NT-13`
@@ -422,7 +437,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `dien-giai` · lớp 11 (*Tủi hổ*): *Khi người khác nhìn thấy nỗi đau của mình, sự quan tâm của họ chỉ kéo dài cho tới khi nó trở thành gánh nặng, rồi họ rời đi. Lần trước mình chỉ dự đoán; lần này mình đã có bằng chứng. Vậy nỗi đau phải nằm ở nơi không ai nhìn thấy, và cách chắc chắn nhất để không ai nhìn thấy là đừng yếu đuối tới mức có nỗi đau.*
 - **parent:** B.thuyen-022
 - **other-face:** none
-- **axis · step:** AX4, AX1
+- **axis:** AX4, AX1
 - **origin:** dự đoán ở PAST.T 1.10; xác nhận ở *Tủi hổ* (C6b)
 - **consumed (nguồn cũ):** ROM.TN P1 hoài nghi Nhi; Diệp Anh an toàn; P2 tờ thứ hai; 16/7
 - **status:** `locked 10/11` · alias `NT-14`
@@ -437,7 +452,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **monologue:**
   - `dien-giai`: *Suy nghĩ không có nhân chứng, nên suy nghĩ không gây ra tổn thương. Thứ làm người khác đau là ngôn từ và hành vi, không phải ý niệm. Tao chứa toàn bộ phần tăm tối ở bên trong, để chúng tự do vận hành, miễn là đầu ra chỉ còn sự tử tế. Như vậy tao vừa không phải dối trá với bản thân, vừa không gây hại cho ai. Hai giá trị cùng tồn tại được, chỉ cần ranh giới ở giữa được kiểm soát tuyệt đối.*
 - **other-face:** none
-- **axis · step:** AX9, AX4
+- **axis:** AX9, AX4
 - **origin:** sau C6b, lớn ở đại học
 - **consumed (nguồn cũ):** P2, nơi nó sai (phòng kín hỏng từng lớp); FN.thuyen.phong-kin
 - **status:** `locked 10/11` · alias `NT-32`, "Trong đầu thì vô hại"
@@ -453,7 +468,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `dien-giai` · P2: *Mình không thiếu thứ gì. Mình có năng lực, có vị trí, có người tìm đến, có người công nhận; danh sách ấy đủ dài để bác bỏ mọi nghi ngờ. Những đêm ôm gối chỉ là thói quen tư thế khi ngủ, không phải bằng chứng của một nhu cầu. Một người đầy đủ như vậy mà vẫn kêu thiếu thì là kẻ vô ơn.*
 - **parent:** B.thuyen-022
 - **other-face:** mọi bằng chứng anh đưa ra đều là sự công nhận dành cho năng lực: danh sách càng dài, cái gối càng đúng
-- **axis · step:** AX4, AX8
+- **axis:** AX4, AX8
 - **origin:** mầm lớp 6 ("chắc là quen tay"); cực đoan lần đầu ở *Tủi hổ*; cực đoan nhất ở P2
 - **consumed (nguồn cũ):** P1 tếu khi Vũ thấy gối ôm; Diệp Anh; P2 tự thoại liệt kê, cách anh đẩy Nhi; đáy (ch.0)
 - **status:** `locked 10/11` · alias `NT-25`, "Mình không thiếu"
@@ -483,7 +498,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - GĐ2 → điểm gãy: tinh vi, thao túng.
 - **amplified:** [[X-011-001]] (đêm say): vạch của Thuyên đã được nâng lên (cái ghế 50 triệu…), nên cái đau "lời nhất" phải chọn cũng nặng hơn `locked 11/11`.
 - **other-face:** none
-- **axis · step:** AX9, AX2
+- **axis:** AX9, AX2
 - **origin:** PAST.T: đêm bẻ roi, sổ hai cột (lớp 7, ngộ nhận); dạng diễn giải hình thành ở lớp 11
 - **children:** B.thuyen-027 *Sợ còn hơn thương*, B.thuyen-006 *Cãi thì tốn, lách thì không*
 - **consumed (nguồn cũ):** *Hoan hỉ* (cột điện), *Hụt hẫng* ("Gà vcl"), P2; FN.thuyen.phong-kin, FN.thuyen.lang-kinh
@@ -500,7 +515,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `dien-giai`: *Tình thương là một ân huệ: người khác ban cho, nên người khác có quyền thu hồi, bất cứ lúc nào, không cần lý do. Sự kiêng nể thì khác: nó là sản phẩm của chính tao, tồn tại chừng nào sức mạnh của tao còn tồn tại. Thứ gì phụ thuộc vào thiện chí của người khác thì không bao giờ thực sự thuộc về mình. Vậy thì tao không cần được yêu thương. Tao cần người ta không dám xâm phạm tao.*
 - **parent:** B.thuyen-029
 - **other-face:** none
-- **axis · step:** AX9
+- **axis:** AX9
 - **origin:** PAST.T lớp 7: mắt người ngoài đổi chiều (cảnh QT-41)
 - **consumed (nguồn cũ):** *Tủi hổ* (cô bạn mập mờ sợ anh); P2 (bị coi là đáng sợ, đáng ghét); FN.thuyen.phong-kin
 - **status:** `locked 10/11` · alias `NT-27`, "Sợ còn hơn thương"
@@ -516,7 +531,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `ngo-nhan` · với Khánh: *Mỗi lần nó khóc, người bị trách phạt là mình. Ép nó bằng sức thì nó khóc to hơn; mắng nó thì nó chống đối. Lần đầu tiên mình ngồi xuống nghe nó nói nó muốn gì, nó nín, và nó làm theo điều mình bảo. Vậy lắng nghe là một công cụ: hiểu được nó thích gì, sợ gì, thì dẫn dắt được nó mà không cần ép, cũng không cần chiều.*
   - `dien-giai` · P2: *Mỗi con người là một tập hợp những mong muốn và nỗi sợ hãi. Nắm được hai danh sách ấy là nắm được tay lái. Tình cảm là một biến số bất ổn, không thể dựa vào; sự thấu hiểu thì ổn định. Vậy tao không cần ai thương tao để họ đi theo tao.*
 - **other-face:** none
-- **axis · step:** AX4, AX3, AX7
+- **axis:** AX4, AX3, AX7
 - **origin:** PAST.T: Khánh
 - **consumed (nguồn cũ):** gốc "đọc người để thắng" (P2); FN.thuyen.quan-su; B.thuyen-022 (nấc lắng nghe)
 - **status:** `locked 10/11` · alias `NT-31`
@@ -531,7 +546,7 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **monologue:**
   - `dien-giai` · lớp 12 (*Phẫn uất*): *Sức mạnh của một người đứng một mình chỉ đo được bằng số người mình đánh bại. Sức mạnh của người đứng giữa một tập thể đo được bằng số người mình nâng lên. Thứ hai lớn hơn thứ nhất, vì nó nhân lên thay vì trừ đi. Vậy người mạnh nhất không phải người ghi nhiều điểm nhất, mà là người khiến bốn người còn lại mạnh mẽ hơn.*
 - **other-face:** none
-- **axis · step:** AX9, AX2
+- **axis:** AX9, AX2
 - **origin:** PAST.T *Phẫn uất* (lớp 12)
 - **consumed (nguồn cũ):** đại học (CLB, pickup, đàn em); P1 giữ Thảo; mất ở P2; trả ở Phần sau
 - **status:** `locked 10/11` · alias `NT-16`
@@ -554,7 +569,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
   - `ngo-nhan` · lớp 3: *Thứ mình yêu không đem lại điểm số, không đem lại sự công nhận, nên trong mắt người lớn nó vô ích. Thứ vô ích thì bị vứt bỏ, và người yêu nó phải tự tay vứt bỏ để chứng minh mình biết điều. Vậy muốn giữ một thứ mình yêu, thì hoặc phải giấu nó đi, hoặc phải chứng minh nó hữu ích.*
   - `dien-giai` · đại học: *Niềm đam mê dành cho một thứ vô dụng là một khoản đầu tư không có lợi nhuận, và không ai bảo hộ một khoản đầu tư như vậy. Nhưng nếu tao tìm được cho nó một công dụng, nó sẽ được bảo hộ như mọi thứ hữu ích khác. Vậy tao không từ bỏ thứ mình yêu; tao biến nó thành một sản phẩm.*
 - **other-face:** none
-- **axis · step:** EXL 1→2 · AX2, AX3, AX6
+- **axis:** AX2, AX3, AX6
+- **age:** mầm non đến lớp 3 → lớp 3 đến 5 (chặng hiện sinh 1→2, bảng `existential` của [[CH.thuyen.voice]]; trước 13/11: `EXL 1→2`)
 - **origin:** PAST.T 1.2: tinh vân trong xe rác (lớp 3)
 - **consumed (nguồn cũ):** ROM.TN × PAST: ngoại khóa "tinh vân" ở arcade vũ trụ; THR.DR: drone không có thị trường
 - **status:** `locked 10/11` · alias `NT-02`
@@ -569,7 +585,8 @@ Trạng thái: `agreed` cho NT-01 … NT-10 (đã lên trang ở bản v2 cũ, n
 - **monologue:**
   - `dien-giai` · hè 2021 (*Hy vọng*): *Mọi nơi mình từng đi qua đều có một bảng xếp hạng, và vị trí của mình trên bảng ấy quyết định cách người khác nhìn mình. Nhưng thế giới đủ rộng để có một nơi không ai quan tâm mình đứng thứ mấy, nơi mình được làm điều mình yêu chỉ vì mình yêu nó. Mình chưa đủ điều kiện để đến đó. Mình sẽ cất nó lại, cho sau này.*
 - **other-face:** none
-- **axis · step:** EXL 6 · AX2, AX1
+- **axis:** AX2, AX1
+- **age:** hè lớp 11 đến lớp 12 (chặng hiện sinh 6, bảng `existential` của [[CH.thuyen.voice]]; trước 13/11: `EXL 6`)
 - **origin:** PAST.T *Hy vọng* (hè sau lần trượt quốc gia)
 - **consumed (nguồn cũ):** thư mục *sau-nay*; P2 bị thay bằng thước tập đoàn; Phần 2 Phần Lan
 - **status:** `locked 10/11` · alias `NT-18`

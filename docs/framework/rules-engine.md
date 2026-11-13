@@ -16,7 +16,7 @@ How rules are derived, scoped and combined. Fields: `content/schemas/article.md`
 AX1 … AX9                 axes (core/)
   │ split into
 ART  constitution          invariant articles, one chapter per axis + chapter 0 (form, display, address, dialect, under-18, structure)
-  │ derived per phase      from the axis's EXL step and the phase's lead node
+  │ derived per phase      from the stage of the beliefs carrying the axis and the phase's lead node
 LAW  phase law             how an article shows at OPEN, P1, P2, BREAK, AFTER, POST
   │ made concrete
 DECREE                     a node's or an intersection's own rules (inline, `<node>.R<n>`)
@@ -26,7 +26,7 @@ OVERRIDE                   on one event, with a reason
 
 A lower tier only makes a higher tier concrete; it never contradicts it. To go against an article, change the article (a decision `D-`). Articles cannot be overridden.
 
-**Deriving a law.** Article × the axis's EXL step in the phase × the phase's lead node → Claude drafts `proposed` → the author approves → `locked`. "Steps never go back" is a machine law between consecutive phase laws (`LAW.check.exl-monotonic`).
+**Deriving a law.** Article × the stage, in that phase, of the beliefs that carry the axis (scales dropped 13/11) × the phase's lead node → Claude drafts `proposed` → the author approves → `locked`. A belief changes stage only through an event whose `belief-out` says so (replaces "steps never go back" and `LAW.check.exl-monotonic`, dropped 13/11).
 
 ## Law semantics `agreed 06/11`
 

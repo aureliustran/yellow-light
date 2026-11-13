@@ -112,11 +112,12 @@ Chỉ khai tên, tập giá trị và node chủ. Giá trị theo giai đoạn d
 | Thuộc tính | Tập giá trị | Node chủ | Nguồn · trạng thái |
 | --- | --- | --- | --- |
 | `cai-toi-doc` | `ngu` (ngủ) · `thuc-co-dieu-kien` (thức có điều kiện, bị nhốt trong đầu) · `phong-kin-hong` (phòng kín hỏng từng lớp) · `chiem-cho` (chiếm chỗ) | `SELF.thuyen` | `thuyen-cai-toi-doc-co-che.md` §4.5, §7 · `agreed 05/11` (tập giá trị theo khung) |
-| `exl` | nấc 1–9 của `SCALE.exl`, rồi `HP` (hồi phục) | `SELF.thuyen` | `thuyen-co-may.md` §4 · `locked 28/10` |
 | `lang-kinh` (hướng quay của lăng kính) | `vao-minh` · `vao-nguoi-yeu` · `ra-nhom` · `vao-ban-co` · `vao-khuyet-nguoi-khac` | `SELF.thuyen` | `M-he-gia-tri.md` §5.3 · `proposed` (tên giá trị) |
 | `cai-goi` (bộ phận bị khóa) | `khoa` (ba khóa còn) · `tran-trui` (gãy, hết nhiên liệu) · `mo` (có người ôm) | `SELF.thuyen` | `thuyen-co-may.md` §2 · `proposed` (tên giá trị) |
 | `luc-keo` (lực kéo của phép đo: khoảng cách tới phiên bản lý tưởng) | `cao` · `vua` · `thap` | `SELF.thuyen` | hội thoại 10/11 · `locked 10/11` (mô hình) · `proposed` (tên giá trị) |
 | `luc-day` (lực đẩy: tự ti, ám ảnh quá khứ) | `manh` · `yeu`; tính theo tâm thế (`binh-yen` → `yeu`; `tinh-toan`, `tham-vong` → `manh`) | `SELF.thuyen` | hội thoại 10/11 · `locked 10/11` (luật) · `proposed` (tên giá trị) |
+
+**Bỏ 13/11 (tác giả), cùng loại `scale`:** thuộc tính `exl` (nấc hiện sinh): chặng theo tuổi nay là trường `age` của niềm tin và mục `existential` của [[CH.thuyen.voice]]; chặng theo giai đoạn đọc từ giai đoạn (`SELF.thuyen` ghi một dòng). Thang kiêu ngạo cũ (`Nấc-TT`, `SCALE.pride`) không có file: cường độ kiêu ngạo đọc từ `cai-toi-doc` và trường `amplified` của niềm tin; tám nấc ở `brief-kieu-ngao-tang-dan.md` §3 là nguồn khi điền giá trị theo giai đoạn.
 
 ## exports
 

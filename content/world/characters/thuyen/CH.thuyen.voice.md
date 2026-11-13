@@ -2,20 +2,21 @@
 id: CH.thuyen.voice
 kind: character
 status: locked
-updated: 2026-11-10
-aliases: [giọng Thuyên, giọng nền Thuyên]
+updated: 2026-11-13
+aliases: [giọng Thuyên, giọng nền Thuyên, SCALE.exl, EXL, Nấc-HS, thang hiện sinh]
 exports: []
 parent: "[[CH.thuyen]]"
 sources:
   - "[[01-rules-viet|01-rules-viet.md (Giọng của Thuyên theo đối tượng; Tự thoại hiện sinh, chốt 18/10; Lời kể biểu cảm có chủ đích, chốt 18/10; Văn phong trần tục, chốt 19/10)]]"
   - "_archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md §4.6"
   - "[[rules/registers|rules/registers.md]]"
+  - "_archive/core/SCALE.exl.md (chuyển 13/11)"
 ---
 # CH.thuyen.voice · Giọng nền của Thuyên
 
 Tầng thấp nhất của chuỗi giọng: tình tiết > node × giai đoạn > `SELF.thuyen` × giai đoạn > **giọng nền (file này)**. Giọng với từng người cụ thể (Nhi, Vũ, Diệp Anh, lab) là của node quan hệ, không ở đây. Kỹ thuật viết chi tiết sẽ thành `TEC.*` ở `lib/` (B4–B7); file này chỉ tả giọng.
 
-**Mục:** `dialogue` · `narration` · `lexicon` · `forbidden`.
+**Mục:** `dialogue` · `narration` · `existential` · `lexicon` · `forbidden`.
 
 ## dialogue
 
@@ -53,6 +54,24 @@ Người kể đi theo Thuyên bằng gián tiếp tự do. Ba lớp:
 3. **Văn phong trần tục** `locked 19/10`, gốc từ bài văn *Ước mơ của em* (lớp 9): câu khẳng định, không rào, không than; từ nhà trường phẳng (*công nhận, kết quả, hiệu quả*); chuỗi tiền đề chung → trường hợp của mình → hệ quả; tự đặt mình vào như một dữ kiện; kết bằng *Vì vậy* + một quyết định ngược với điều mình muốn; nỗi đau nằm trong logic.
 
 **Theo giai đoạn** (giá trị theo giai đoạn thuộc `SELF.thuyen`, B3c): tự thoại từ hỏi ngây thơ về vũ trụ (lớp 3–7) → lần đầu hỏi về cây thước (lớp 11) → lời thề lạnh (lớp 12) → vô hình giữa đám đông (đại học) → tự đẻ việc (P1) → thưa dần, thay bằng danh sách (P2) → quay lại dồn dập (đổ vỡ). Dò/lật: nhiều và ngây thơ (mầm non – lớp 5) → lý luận (lớp 6–9) → ít dò, *À.* (lớp 10–12) → cú lật biến mất (đại học → lab) → dò quay lại mà không có *Hóa ra* nào đến (đổ vỡ).
+
+## existential `locked 28/10` · chuyển 13/11
+
+Độc thoại hiện sinh theo tuổi: chuyển từ thang `SCALE.exl` (cũ, `Nấc-HS`, bỏ 13/11, tác giả). Bốn mối lo lớn theo Yalom (chết, tự do, cô đơn, vô nghĩa) là bản đồ, không dùng chữ ấy trên trang. Chuỗi đi hai chiều: từ vật cụ thể sang khái niệm, từ thế giới bên ngoài sang chính mình. Cột "Dạng câu" là phần của giọng; mối lo và tiến trình nay nằm ở niềm tin (trường `age` và các chặng của từng niềm tin). Số chặng giữ nguyên số nấc cũ để tra lại các lá PAST cũ (`EXL n`) tới khi PAST viết lại xong. Luật viết đi kèm: `rules/hien-sinh.md`.
+
+| Chặng | Tuổi | Mối lo (bản đồ) | Dạng câu | Niềm tin chạy ở chặng |
+| --- | --- | --- | --- | --- |
+| 1 | Mầm non đến lớp 3 | Vô nghĩa (sơ khai), qua bầu trời | Câu hỏi trẻ con về vật cụ thể, không trả lời | [[CH.thuyen.beliefs#B.thuyen-001]], [[CH.thuyen.beliefs#B.thuyen-002]] |
+| 2 | Lớp 3 đến 5 | Cô đơn: không ai nghe | Hỏi về tình thương có điều kiện, rất cụ thể | [[CH.thuyen.beliefs#B.thuyen-024]], [[CH.thuyen.beliefs#B.thuyen-004]], [[CH.thuyen.beliefs#B.thuyen-026]], [[CH.thuyen.beliefs#B.thuyen-033]], [[CH.thuyen.beliefs#B.thuyen-002]] |
+| 3 | Lớp 6 đến 7 | Công bằng, cây thước (mầm) | Lý luận kiểu bài toán, bế tắc | [[CH.thuyen.beliefs#B.thuyen-005]], [[CH.thuyen.beliefs#B.thuyen-021]], [[CH.thuyen.beliefs#B.thuyen-026]], [[CH.thuyen.beliefs#B.thuyen-033]], [[CH.thuyen.beliefs#B.thuyen-006]] |
+| 4 | Lớp 8 đến 9 | Vô nghĩa, cô đơn | Trốn vào câu hỏi lớn; câu "chắc ai cũng thế" cắt ngang | [[CH.thuyen.beliefs#B.thuyen-007]], [[CH.thuyen.beliefs#B.thuyen-008]], [[CH.thuyen.beliefs#B.thuyen-009]], [[CH.thuyen.beliefs#B.thuyen-022]] |
+| 5 | Lớp 10 đến 11 | Tự do (giả), cây thước | Mệnh đề lạnh; lần đầu hỏi ai đặt thước nhưng không đi tiếp | [[CH.thuyen.beliefs#B.thuyen-017]], [[CH.thuyen.beliefs#B.thuyen-009]], [[CH.thuyen.beliefs#B.thuyen-011]] |
+| 6 | Hè lớp 11 đến lớp 12 | Tự do (thật, lần đầu) | Một mong muốn không để thắng | [[CH.thuyen.beliefs#B.thuyen-018]] |
+| 7 | Đại học | Cô đơn giữa đám đông | Hài hước khô, đứng ngoài nhìn mình | [[CH.thuyen.beliefs#B.thuyen-023]] |
+| 8 | Lab giai đoạn 2 | Vắng mặt | Câu hỏi bị thay bằng danh sách; không còn hỏi | none |
+| 9 | Đáy | Cả bốn, dồn lại | Vòng lặp không có điều kiện dừng; câu của nấc 1 quay lại ở dạng người lớn | none |
+
+Cột cuối sinh từ trường `age` của [[CH.thuyen.beliefs]] (13/11); niềm tin trải nhiều chặng đứng ở mỗi chặng nó đi qua.
 
 ## lexicon
 

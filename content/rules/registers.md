@@ -325,7 +325,7 @@ Vỡ hai lần; thoại là một âm thanh; "như một quyết định đã đ
 - Thiết bị bắt buộc của ô (§2.4) đã có trên trang chưa? Có câu nào thuộc bộ chịu đựng nói với Thuyên trước HP không (TB-1)?
 - Khối R9 có kết bằng lời phủ nhận không?
 - Cảnh đỉnh của QK.T có đi đủ năm lớp của §2.5 không? Ký ức đau có lỡ mang mốc thời gian, ký ức ấm có lỡ thành mảnh vụn không? R9 có đứng trước khi R8 đặt đủ sự việc không (luật đủ)?
-- QK.T quãng 1 (`goi-ten-cam-xuc.md` §4a): cảnh đỉnh có dựng đủ (thời gian tâm lý, lời người lớn nói đủ câu) hay đang tóm? Cảm xúc có được gọi tên mãnh liệt bằng chữ của đứa trẻ không? Có kết luận nhân sinh đúng Nấc-HS không, và có vượt sự việc trên trang không? R8 có đứng sau nhịp gọi tên, như dư chấn, không? Khung hiện tại có khô quá mức so với §1 không?
+- QK.T quãng 1 (`goi-ten-cam-xuc.md` §4a): cảnh đỉnh có dựng đủ (thời gian tâm lý, lời người lớn nói đủ câu) hay đang tóm? Cảm xúc có được gọi tên mãnh liệt bằng chữ của đứa trẻ không? Có kết luận nhân sinh đúng chặng hiện sinh của tuổi (`CH.thuyen.voice` mục `existential`) không, và có vượt sự việc trên trang không? R8 có đứng sau nhịp gọi tên, như dư chấn, không? Khung hiện tại có khô quá mức so với §1 không?
 - Từ phức (§0.5): lời kể, tự thoại, độc thoại có chuỗi từ một âm tiết kéo dài mà một từ ghép hoặc từ láy chở được nghĩa sâu hơn không? Đã đổi từ mà vẫn giữ nhịp ở R3, R7, R8 chưa? Từ đơn còn lại có phải nhịp cụt, câu chốt, chửi, âm đệm có chủ đích không? Ngoại lệ vẫn đứng: thoại tự nhiên, câu trích, từ vựng Thuyên dùng nguyên văn (*khuyết, sửa, đủ, chấm…*), *bố mẹ*, *sự công nhận*, *nó* ở POV Thuyên.
 - Danh sách lặp phải đếm: xem skill `den-vang-van-phong` §5.
 

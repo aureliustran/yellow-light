@@ -15,7 +15,7 @@ How entities fit together. Fields of each kind are defined in its schema under `
 | Layer | Folder | Holds | May reference |
 | --- | --- | --- | --- |
 | L0 foundation | `config/`, `schemas/` | constants of the story (calendar, phases, levels, statuses); entity models | nothing |
-| L1 core | `core/` | axes `AX`, scales `SCALE`, shared mechanics, the constitution `ART` | L0 |
+| L1 core | `core/` | axes `AX`, shared mechanics, the constitution `ART` | L0 |
 | L1.5 rules | `rules/` | laws `LAW` | L0, L1 |
 | L1.5 library | `lib/` | registers `REG`, techniques `TEC`, patterns `PAT` | L0, L1, rules |
 | L2 world (static) | `world/` | characters, settings, objects, secrets, beliefs, value systems, functions | L0–L1.5 |
@@ -34,7 +34,6 @@ One line per kind; the schema is the source of truth. Ids follow [ids.md](ids.md
 | Kind | Id | Lives as | Schema |
 | --- | --- | --- | --- |
 | axis | `AX3` | `core/axes/AX3.md` | `schemas/axis.md` |
-| scale | `SCALE.exl` | `core/SCALE.exl.md` | `schemas/scale.md` |
 | article | `ART.AX3.1` | inline in `core/constitution/ART.AX3.md` | `schemas/article.md` |
 | law | `LAW.<aspect>.<scope>` | file | `schemas/law.md` |
 | register | `REG.<name>` | file | `schemas/register.md` |
@@ -123,6 +122,8 @@ reflection ─► BELIEF ─► VALUE ─► tactics ─► ACTION (built from i
 6. Reflection has a tool and limits per character (for Thuyên: the lens [[FN.thuyen.lang-kinh]], and the `blind` section of his value system).
 7. A value's tactics produce methods. Coping material found inside a belief (a habit of action, a coping thought, a way of deceiving oneself) is migrated to a method; the belief keeps only its claim, or only its number when no claim remains.
 8. **An action is designed from several functions** `locked 13/11`: one action in an event may combine any number of innate functions and methods; the event lists them in `calls`.
+
+**Scales dropped** `locked 13/11`: beliefs and values describe a character's inner progression better than a numbered scale. The existential scale became the belief field `age`, the `existential` section of the character's voice (sentence shapes by age) and `rules/hien-sinh.md` (three writing rules). The pride scale is read from the attribute `cai-toi-doc` and the belief field `amplified`. The scale of how far Nhi likes Thuyên became the `nac-thich` section of `ROM.TN`. The event field `level` is gone; an event names beliefs and their stage in `beliefs`.
 
 Schemas: `schemas/belief.md`, `schemas/value.md`, `schemas/function.md`; loop fields of an event: `schemas/event.md`.
 

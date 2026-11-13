@@ -90,6 +90,6 @@ Mỗi thiết bị nằm ở `render` của hàm dùng nó. Bảng đầy đủ 
 | DV-015 | Câu gối để dành | [[FN.thuyen.cai-goi]] |
 | DV-016 | Nhịp lật ba bậc của phương trình | [[FN.thuyen.phuong-trinh]] |
 
-## Theo nấc
+## Theo giai đoạn
 
-Cỗ máy chạy khác nhau theo nấc `SCALE.exl` (1–9, HP). Giá trị theo giai đoạn là của `SELF.thuyen` (B3c); bảng nguồn: `thuyen-co-may.md` §4 `locked 28/10`.
+Cỗ máy chạy khác nhau theo giai đoạn (trước 13/11: theo nấc `SCALE.exl` 7, 8, 9, HP, ứng với P1, P2, BREAK, AFTER). Giá trị theo giai đoạn là của `SELF.thuyen` (B3c); bảng nguồn: `thuyen-co-may.md` §4 `locked 28/10`.

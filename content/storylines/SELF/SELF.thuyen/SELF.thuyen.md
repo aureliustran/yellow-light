@@ -3,7 +3,7 @@ id: SELF.thuyen
 kind: node
 parent: "[[SELF]]"
 status: agreed
-updated: 2026-11-10
+updated: 2026-11-13
 participants: ["[[CH.thuyen]]"]
 axes: [AX2, AX3, AX4, AX5, AX7, AX8, AX9]
 aliases: [nội tâm Thuyên]
@@ -17,13 +17,13 @@ sources:
 ---
 # SELF.thuyen · Nội tâm của Thuyên
 
-Làm chủ các thuộc tính nội tâm của [[CH.thuyen]] theo giai đoạn: `exl`, `cai-toi-doc`, `lang-kinh`, `cai-goi`, `luc-keo`, `luc-day`, và giọng lời kể theo giai đoạn. Giá trị trong quá khứ đổi ở các tình tiết của [[PAST.T]]; file này ghi giá trị ở các giai đoạn của hiện tại.
+Làm chủ các thuộc tính nội tâm của [[CH.thuyen]] theo giai đoạn: `cai-toi-doc`, `lang-kinh`, `cai-goi`, `luc-keo`, `luc-day`, và giọng lời kể theo giai đoạn. Giá trị trong quá khứ đổi ở các tình tiết của [[PAST.T]]; file này ghi giá trị ở các giai đoạn của hiện tại.
 
 **Mục:** `arc` · `goals` · `weight` · `state` · `voice` · `transitions` · `gaps`.
 
 ## arc
 
-Bắt đầu ở nấc 7 với một cỗ máy chạy lành: cái tôi lành dẫn, cái tôi độc thức có điều kiện trong phòng kín, cái gối khóa. P2 nhờn thuốc: phòng kín hỏng từng lớp, cái tôi độc chiếm chỗ, câu hỏi bị thay bằng danh sách. Điểm gãy: thị trường định giá anh bằng 0, hết nhiên liệu, cái gối trần trụi. Hồi phục: không thay máy; cái tôi lành dẫn, thôi cãi cái gối, để người khác ôm (`thuyen-co-may.md` §2, "SỬA").
+Bắt đầu ở chặng 7 (đại học) với một cỗ máy chạy lành: cái tôi lành dẫn, cái tôi độc thức có điều kiện trong phòng kín, cái gối khóa. P2 nhờn thuốc: phòng kín hỏng từng lớp, cái tôi độc chiếm chỗ, câu hỏi bị thay bằng danh sách. Điểm gãy: thị trường định giá anh bằng 0, hết nhiên liệu, cái gối trần trụi. Hồi phục: không thay máy; cái tôi lành dẫn, thôi cãi cái gối, để người khác ôm (`thuyen-co-may.md` §2, "SỬA").
 
 ## goals
 
@@ -60,12 +60,13 @@ Mức theo giai đoạn chưa có trong nguồn (nguồn chỉ ghi `QK.T` đỉn
 
 | Thuộc tính | OPEN | P1 | P2 | BREAK | AFTER |
 | --- | --- | --- | --- | --- | --- |
-| `exl` | 7 (mở bằng nấc 9 ở ch.0, kể lùi về; nấc 1–7 qua hồi tưởng) | 7 | 8 | 9 | HP |
 | `cai-toi-doc` | thuc-co-dieu-kien | thuc-co-dieu-kien | phong-kin-hong → chiem-cho | chiem-cho, rồi cạn | **đang cai**: ngoài tập giá trị, `needs-decision` (thêm giá trị `cai`?) |
 | `lang-kinh` | ra-nhom (đại học: đọc ba người trong mười phút, chia việc) | vao-ban-co (bản đồ 12 chấm, hai phe) | vao-khuyet-nguoi-khac (người thành tài nguyên) | vẫn sáng; hướng `needs-decision` | `needs-decision` |
 | `cai-goi` | khoa | khoa | khoa (phủ nhận cực đoan nhất: *Không thiếu gì*) | tran-trui | mo |
 | `luc-keo` | cao | cao | cao | cao (khoảng cách lớn nhất) | chưa plan |
 | `luc-day` | theo tâm thế | theo tâm thế | theo tâm thế | theo tâm thế | chưa plan |
+
+**Chặng hiện sinh theo giai đoạn** (thuộc tính `exl` bỏ 13/11 cùng thang; chặng là hàng của bảng `existential` ở [[CH.thuyen.voice]]): OPEN mở bằng chặng 9 ở ch.0, kể lùi về, chặng 1–7 qua hồi tưởng · P1 chặng 7 · P2 chặng 8 · BREAK chặng 9 · AFTER hồi phục.
 
 **Hai lực của phép đo** (`locked 10/11`, [[ART.AX3]]): lực kéo cao ở mọi phần đang có plan. Lực đẩy đi theo tâm thế, không theo giai đoạn:
 
@@ -76,7 +77,7 @@ Mức theo giai đoạn chưa có trong nguồn (nguồn chỉ ghi `QK.T` đỉn
 
 Khoảnh khắc bình yên là lúc phép đo của anh gần cái cân lành nhất.
 
-**Bộ phận đang chạy theo nấc** (`thuyen-co-may.md` §4, `locked 28/10`): nấc 7 (đại học, P1): chạy lành, van xả đầy đủ, làm cái gối cho người khác, khóa 3 đẩy Nhi · nấc 8 (P2): cái tôi độc chiếm máy, nhờn thuốc, "Không thiếu gì", khí thải ra ngoài · nấc 9 (BREAK, ch.0): hết nhiên liệu, gối im, vòng lặp không điều kiện dừng · HP: cái tôi lành dẫn, mở khóa, để người khác ôm.
+**Bộ phận đang chạy theo giai đoạn** (`thuyen-co-may.md` §4, `locked 28/10`): P1 (đại học, chặng 7): chạy lành, van xả đầy đủ, làm cái gối cho người khác, khóa 3 đẩy Nhi · P2 (chặng 8): cái tôi độc chiếm máy, nhờn thuốc, "Không thiếu gì", khí thải ra ngoài · BREAK (chặng 9, ch.0): hết nhiên liệu, gối im, vòng lặp không điều kiện dừng · AFTER (hồi phục): cái tôi lành dẫn, mở khóa, để người khác ôm.
 
 **Tếu, nhiên liệu theo giai đoạn** (`thuyen-da-nhan-cach.md` §8, `thuyen-hai-cai-toi.md` §7, `proposed`): P1 tếu đầy đủ, cái đau ngủ dưới cái tôi lành (hết việc thì đau lại) · P2 Trào-thước đóng, Ngạo thành kiêu ngạo im, van đóng, liều cao nhất · BREAK mất cả ba số · AFTER Trào trở lại trước, Ngạo trở lại sau; lần đầu hiểu sức mạnh chỉ làm tê.
 
@@ -103,7 +104,7 @@ Giọng nền: [[CH.thuyen.voice]]. Theo giai đoạn (lời kể POV Thuyên):
 | 4 | nghi thức tắt mất (không còn đứng ở bồn rửa) | gieo ở 04c *Hoang mang* |
 | 5 | kênh vỡ: giọng ra miệng, mượn giọng cái tôi lành → `chiem-cho` | 16/7: buộc tội thay vì hỏi (`ROM.TN`, X-?) |
 
-`exl` 8 → 9 và `cai-goi` khoa → tran-trui: điểm gãy (`BREAK`, ngày `conflict` Q-004, xem `config/calendar.md`).
+Chặng 8 → 9 và `cai-goi` khoa → tran-trui: điểm gãy (`BREAK`, ngày `conflict` Q-004, xem `config/calendar.md`).
 
 ## gaps
 

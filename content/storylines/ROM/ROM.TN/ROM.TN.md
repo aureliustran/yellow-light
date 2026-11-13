@@ -16,7 +16,7 @@ sources:
 
 **Khung, dựng dở** (T4, 10/11). Đã chuyển hết `_archive/tuyen/romance/thuyen-nhi.md`: lõi gương (`mirror`), register mặc định (`voice`), hai lá tình tiết mẫu 05/11 (`events`). Cung, mục tiêu, quan hệ, trạng thái chờ chuyển từ BRIEF, KHO, RR (`gaps`).
 
-**Mục:** `mirror` · `weight` · `voice` · `events` · `gaps` (khi chuyển đủ thêm: `arc` · `goals` · `relation` · `state` · `rules`).
+**Mục:** `mirror` · `nac-thich` · `weight` · `voice` · `events` · `gaps` (khi chuyển đủ thêm: `arc` · `goals` · `relation` · `state` · `rules`).
 
 ## mirror
 
@@ -71,6 +71,28 @@ Gương quá khứ có sẵn trên trang Thuyên (thu-v6) và ở [[PAST.N]] (ch
 - Thuyên, câu mẫu tự thoại (`01-rules-viet.md`): *"Liệu khán giả muốn nghe chuyện thật. Có thể. Không, chắc chắn là không: chuyện thật không có tiếng vỗ tay. Vì vậy, anh gõ lại câu ấy."*
 - Nhi ở summit (thẻ v1, ch.8 cũ): *"Bài nói rất hay. Anh có tin câu nào trong đó không?"*: cô nghe ra một bài nói được viết cho tiếng vỗ tay; tự thoại của cô (B.nhi-006) muốn đúng điều ngược lại: tiếng vỗ tay mà sự thật giành được.
 
+## nac-thich `proposed` · chuyển 13/11
+
+Nhi thích Thuyên tới đâu: tiến trình của quan hệ, nên ở node quan hệ (tác giả 13/11; trước là thang `SCALE.rom`, cũ `Nấc-RM`, nằm trong [[FN.nhi.thich]]). Đây là tập giá trị của thuộc tính `nac-thich` của [[CH.nhi]]; node chủ là ROM.TN, giá trị theo giai đoạn ghi ở `state` khi chuyển B4c.
+
+| Nấc | Tên |
+| --- | --- |
+| 0 | ấn tượng |
+| 1 | để ý |
+| 2 | phục |
+| 3 | rung |
+| 4 | thích mà chối |
+| 5 | thừa nhận với mình |
+| 6 | chủ động |
+| 7 | hiểu sai |
+| 8 | biết anh cũng có gì đó |
+
+**Luật nấc** `proposed`: không tự thừa nhận (nấc 5) trước khi có ít nhất một khoảnh khắc nấc 3; được lùi nấc, không nhảy cóc. Khuếch đại chạy song song từ nấc 4.
+
+- Nấc 2 (phục) là chỗ cái thước của cô bắt đầu lung lay: lối nhận ra đi từ cái thước (gia thế) tới cái lõi (thực lực) `locked 31/10`.
+- Nấc 6 trở đi: hành vi chủ động kiểu Marin (đầu ra của [[FN.nhi.thich]]).
+- Nguồn: `03-kho-nhi-thich-thuyen.md` §1 (chưa chốt); thang trong thẻ Nhi cũ xây quanh Thảo đã mất gốc (Thảo bỏ 31/10).
+
 ## weight
 
 | OPEN | P1 | P2 | BREAK | AFTER | POST |
@@ -100,7 +122,7 @@ Bảng sinh tay tạm, cho tới khi `canon:check` sinh từ các lá. Mã `TN-?
 
 ## gaps
 
-- Chờ B4c (từ BRIEF, KHO, RR): `arc`, `goals`, `relation`, `state` (gồm `nac-thich` của Nhi), `rules`, phần còn lại của `voice`, các lá `ROM.TN-NNN` khác, khuôn A–H, E2, E3 (thành `PAT.*`), các dòng "cách anh cư xử trong quan hệ" đang chờ ở `CH.thuyen` (`moved`).
+- Chờ B4c (từ BRIEF, KHO, RR): `arc`, `goals`, `relation`, `state` (gồm giá trị `nac-thich` của Nhi theo giai đoạn; tập giá trị đã ở mục `nac-thich`, 13/11), `rules`, phần còn lại của `voice`, các lá `ROM.TN-NNN` khác, khuôn A–H, E2, E3 (thành `PAT.*`), các dòng "cách anh cư xử trong quan hệ" đang chờ ở `CH.thuyen` (`moved`).
 - Lời hứa đêm say ("…anh sẽ đường hoàng nâng niu bờ môi xinh đẹp này"): ứng viên tình tiết đẩy tuyến, thuộc giao điểm [[X-011]], không thuộc node.
 - Từ `_archive/tuyen/romance/thuyen-nhi.md` §5: Toàn bộ phần chuyển từ BRIEF, KHO, RR (`rm-handoff.md` §1 bước 1); tách tình tiết của Phong sang `ROM.PN`, của Diệp Anh sang `ROM.TD`.
 - Hai lá mẫu chưa có `goal` nối vào mục tiêu của node; đánh lại số theo ngày khi chuyển BRIEF.

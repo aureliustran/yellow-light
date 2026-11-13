@@ -1,7 +1,7 @@
 ---
 id: SCALE.exl
 kind: scale
-status: locked
+status: dropped
 updated: 2026-11-10
 name: Nấc hiện sinh
 aliases: [EXL, Nấc-HS, thang hiện sinh]
@@ -9,6 +9,8 @@ sources:
   - "_archive/tuyen/goc.md §3 (chuyển 10/11)"
   - "[[M-dien-bien-cam-xuc|M-dien-bien-cam-xuc.md §3]]"
 ---
+
+> **Bỏ 13/11 (tác giả).** Mối lo và tiến trình chuyển vào niềm tin (trường `age`, chặng); dạng câu chuyển vào `CH.thuyen.voice` mục `existential`; ba luật viết chuyển vào `rules/hien-sinh.md`. Loại `scale` không còn trong khung: thang kiêu ngạo thành thuộc tính `cai-toi-doc` và trường `amplified`; thang Nhi thích Thuyên thành mục `nac-thich` của ROM.TN. Bản dưới đây chỉ để tra.
 # SCALE.exl · Nấc hiện sinh (9 nấc)
 
 Bốn mối lo lớn theo Yalom (chết, tự do, cô đơn, vô nghĩa) là bản đồ, không dùng chữ ấy trên trang. Thang đi hai chiều: từ vật cụ thể sang khái niệm, từ thế giới bên ngoài sang chính mình. Là trường `level` mặc định của tình tiết.
