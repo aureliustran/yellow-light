@@ -2,13 +2,15 @@
 id: SCH.technique
 kind: schema
 entity: technique
-status: proposed
+status: dropped
 updated: 2026-11-10
 required: [id, kind, status, updated, aspect, serves]
 sources:
   - "[[docs/framework/library|docs/framework/library.md (10/11)]]"
 ---
 # schema · technique
+
+**Bỏ 13/11** (tác giả): gộp vào kind `style` ([[schemas/style|schemas/style.md]]).
 
 A sentence- or paragraph-level method that achieves a law or a register. See [library](../../docs/framework/library.md).
 

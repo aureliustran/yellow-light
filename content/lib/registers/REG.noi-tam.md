@@ -1,14 +1,16 @@
 ---
 id: REG.noi-tam
-kind: register
+kind: style
+grain: bundle
 status: locked
 updated: 2026-11-13
+force: tuy-chon
 aliases: [R10, Nội tâm, R10 Nội tâm, khối nội tâm, gián tiếp tự do dày]
 applies-to: "pov = any · channel = narration"
 effective: "OPEN → AFTER"
 basis: "rules/registers.md §0.6 (chốt 04/11)"
 uses: []
-forbids: []
+forbids: ["[[TEC.show.default]]"]
 sources:
   - "[[rules/registers|rules/registers.md §2.6 (chốt 04/11; chuyển vào repo 13/11)]]"
   - "Project docs/rules/registers.md (bản 04/11)"
@@ -18,6 +20,8 @@ sources:
 Người kể khoác trọn giọng nghĩ của nhân vật POV (gián tiếp tự do toàn phần). Cảm xúc và suy nghĩ đi thẳng qua lời kể, thay cho việc dựng cảnh để người đọc tự suy ra. Hành động là phần ít, nhanh, dứt khoát; nội tâm là phần nhiều. `locked 04/11` (tác giả); chuyển sang khuôn thư viện 13/11.
 
 Luật đầy đủ, ranh, mẫu và ba mục áp dụng ở `rules/registers.md` §2.6 (nguồn sự thật cho register cho tới khi R1–R9 cùng chuyển). File này là mục của R10 trong thư viện, theo `schemas/register.md`, để kỹ thuật và node trỏ tới bằng mã.
+
+**Kỹ thuật hay dùng** (tùy chọn, chưa duyệt nên không ghi vào `uses`): [[TEC.interiority.ideal-self]].
 
 ## markers
 

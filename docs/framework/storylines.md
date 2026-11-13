@@ -44,7 +44,8 @@ The event→chapter link is not stored on the event; blueprints own it ([bluepri
 
 | What | Rule | How to deviate |
 | --- | --- | --- |
-| preferences: register, voice, pattern | nearest wins: event > node × phase > `SELF` × phase > base voice of the character | write the new value in the event |
+| style: register, pattern, moves `locked 13/11` | nearest wins: event > node × phase > node > parent nodes > storyline root > [[STY.default]] (R0, alert by level; [library](library.md)) | write the new value in the node; in the event only when it differs |
+| voice (dialogue) | nearest wins: event > node × phase > `SELF` × phase > base voice of the character | write the new value in the event |
 | laws | accumulate (see [rules-engine.md](rules-engine.md)) | `override` with a reason; articles never |
 | goals | decompose: an event's goal `serves` a goal of its parent node | none; change the parent |
 

@@ -14,6 +14,10 @@ sources:
 
 Gốc của các node `SELF.<id>`: mỗi nhân vật có hiện sinh một node, làm chủ thuộc tính nội tâm của người ấy theo giai đoạn.
 
+## style `proposed 13/11`
+
+Chưa đặt style mặc định (chờ tác giả). Tình tiết của SELF không có register ở node nào sẽ rơi về R0 ([[REG.default]]) và bị `canon:check` báo theo mức.
+
 ## goals
 
 ### SELF.G1

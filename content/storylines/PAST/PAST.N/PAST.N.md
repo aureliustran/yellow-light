@@ -17,7 +17,7 @@ sources:
 
 Bảng neo của Nhi, độ **mỏng**: chỉ những mảnh sinh niềm tin mà hiện tại dùng, kể bằng POV Nhi hoặc interlude (`locked 26/10`, Q-025). Khuôn neo: [[PAST]] (năm trường). Chuyển từ `_archive/tuyen/qua-khu/nhi.md` (T3, 10/11). Phần lõi nhân vật (cửa hàng, ranh con, màu hồng, gu tự khai, gu đồ uống, lâu đài) đã ở gói [[CH.nhi]], [[CH.nhi.beliefs]], [[CH.nhi.voice]] và các hàm `FN.nhi.*`; node này không chép lại.
 
-**Mục:** `goals` · `scope` · `weight` · `rules` · `events` · `beliefs` · `pages` · `dropped` · `handoffs` · `gaps`.
+**Mục:** `goals` · `scope` · `weight` · `laws` · `events` · `beliefs` · `pages` · `dropped` · `handoffs` · `gaps`.
 
 ## goals
 
@@ -56,7 +56,7 @@ Bảng neo của Nhi, độ **mỏng**: chỉ những mảnh sinh niềm tin mà
 
 Từ ma trận `_archive/tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
 
-## rules
+## laws
 
 ### PAST.N.R1
 Không có yếu tố gợi dục nào khi Nhi dưới 18 tuổi; ảnh tự làm mẫu ở quá khứ có tả cơ thể (dáng, vóc, tư thế, cách đồ rơi trên người) trong đúng ranh ấy `locked 23/10, 31/10`.

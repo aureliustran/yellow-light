@@ -17,7 +17,7 @@ sources:
 
 Bảng neo: những gì đã xảy ra với Thuyên từ mầm non tới hết thực tập, mỗi neo sinh một hoặc vài niềm tin ([[CH.thuyen.beliefs]]) mà hiện tại tiêu thụ. Năm theo lịch `locked 31/10`; mười mốc cũ đã sửa (`agreed 10/11`).
 
-**Mục:** `arc` · `direction` · `goals` · `weight` · `voice` · `rules` · `story` · `pages` · `events` · `ref` · `dropped` · `gaps`. Các mục `direction`, `story`, `pages`, `ref`, `dropped` và phần cuối `gaps` chuyển nguyên từ sáu file `_archive/tuyen/qua-khu/thuyen*.md` (T3b, 10/11), giữ nhãn cũ; cơ chế đã ở `FN.thuyen.*`, niềm tin ở [[CH.thuyen.beliefs]], cung ở [[SELF.thuyen]].
+**Mục:** `arc` · `direction` · `goals` · `weight` · `voice` · `laws` · `story` · `pages` · `events` · `ref` · `dropped` · `gaps`. Các mục `direction`, `story`, `pages`, `ref`, `dropped` và phần cuối `gaps` chuyển nguyên từ sáu file `_archive/tuyen/qua-khu/thuyen*.md` (T3b, 10/11), giữ nhãn cũ; cơ chế đã ở `FN.thuyen.*`, niềm tin ở [[CH.thuyen.beliefs]], cung ở [[SELF.thuyen]].
 
 ## arc
 
@@ -134,7 +134,7 @@ Từ ma trận `_archive/tuyen/README.md` §4. Dấu `†`: mức tác giả đ�
 - **Quãng 2:** tên interlude là cảm xúc anh đè xuống; mở bằng một câu anh viết dở; cắt bên trong interlude bằng đổi bộ từ vựng (DV-012).
 - **Quãng 3:** giọng nền ([[CH.thuyen.voice]]), nấc 7.
 
-## rules
+## laws
 
 Decree riêng của node (chuyển thành luật có phạm vi ở B4):
 
@@ -317,7 +317,7 @@ Giới hạn: không cho ai thấy bên trong (B.thuyen-014 giữ nguyên).
 
 ### bảng neo §6.9 · Gia đình → [[FAM.T]]
 
-Chuyển sang [[FAM.T]] (11/11): định nghĩa nhà Thuyên (cấu trúc, thao túng em, thước di động, giáp nói) ở `relation` và `rules` của FAM.T; chỗ đặt trong interlude ở `handoffs` của FAM.T, chờ PAST.T viết lại. PAST.T đọc FAM.T **chỉ qua** giao điểm [[X-019]].
+Chuyển sang [[FAM.T]] (11/11): định nghĩa nhà Thuyên (cấu trúc, thao túng em, thước di động, giáp nói) ở `relation` và `laws` của FAM.T; chỗ đặt trong interlude ở `handoffs` của FAM.T, chờ PAST.T viết lại. PAST.T đọc FAM.T **chỉ qua** giao điểm [[X-019]].
 
 ### da-nhan-cach §6 · Gốc theo nấc `proposed`
 

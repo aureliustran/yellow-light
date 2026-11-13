@@ -17,7 +17,7 @@ How entities fit together. Fields of each kind are defined in its schema under `
 | L0 foundation | `config/`, `schemas/` | constants of the story (calendar, phases, levels, statuses); entity models | nothing |
 | L1 core | `core/` | axes `AX`, shared mechanics, the constitution `ART` | L0 |
 | L1.5 rules | `rules/` | laws `LAW` | L0, L1 |
-| L1.5 library | `lib/` | registers `REG`, techniques `TEC`, patterns `PAT` | L0, L1, rules |
+| L1.5 library | `lib/` | style: registers `REG`, patterns `PAT`, techniques `TEC`; preset `STY.default` | L0, L1, rules |
 | L2 world (static) | `world/` | characters, settings, objects, secrets, beliefs, value systems, functions | L0–L1.5 |
 | L3 storylines (dynamic) | `storylines/` | storylines, nodes, goals, events, intersections | L0–L2 |
 | L4 plans | `plans/` | editions, chapter blueprints, scenes | L0–L3 |
@@ -36,9 +36,8 @@ One line per kind; the schema is the source of truth. Ids follow [ids.md](ids.md
 | axis | `AX3` | `core/axes/AX3.md` | `schemas/axis.md` |
 | article | `ART.AX3.1` | inline in `core/constitution/ART.AX3.md` | `schemas/article.md` |
 | law | `LAW.<aspect>.<scope>` | file | `schemas/law.md` |
-| register | `REG.<name>` | file | `schemas/register.md` |
-| technique | `TEC.<aspect>.<name>` | file | `schemas/technique.md` |
-| pattern | `PAT.<name>` | file | `schemas/pattern.md` |
+| style (`grain` bundle · shape · move) | `REG.<name>` · `PAT.<name>` · `TEC.<aspect>.<name>` | file | `schemas/style.md` |
+| preset | `STY.default` · `LAW.default` | file | `schemas/preset.md` |
 | character | `CH.<name>` | package folder | `schemas/character.md` |
 | setting | `SET.<name>` | file | `schemas/setting.md` |
 | object | `OBJ-NNN` | file or inline | `schemas/object.md` |

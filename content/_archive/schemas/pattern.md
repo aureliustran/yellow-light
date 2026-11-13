@@ -2,13 +2,15 @@
 id: SCH.pattern
 kind: schema
 entity: pattern
-status: proposed
+status: dropped
 updated: 2026-11-10
 required: [id, kind, status, updated, serves]
 sources:
   - "[[docs/framework/library|docs/framework/library.md (10/11)]]"
 ---
 # schema · pattern
+
+**Bỏ 13/11** (tác giả): gộp vào kind `style` ([[schemas/style|schemas/style.md]]).
 
 The shape of a beat or a scene (e.g. anchor in five steps, twist in five steps, inference beat, emotion chain of eight links). See [library](../../docs/framework/library.md).
 

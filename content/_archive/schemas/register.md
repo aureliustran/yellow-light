@@ -2,7 +2,7 @@
 id: SCH.register
 kind: schema
 entity: register
-status: proposed
+status: dropped
 updated: 2026-11-10
 required: [id, kind, status, updated, aliases, applies-to, effective]
 sources:
@@ -10,6 +10,8 @@ sources:
   - "[[rules/registers|rules/registers.md]]"
 ---
 # schema · register
+
+**Bỏ 13/11** (tác giả): gộp vào kind `style` ([[schemas/style|schemas/style.md]]).
 
 A register (văn phong): a voice bundle for narration or dialogue. See [library](../../docs/framework/library.md).
 
@@ -27,12 +29,12 @@ uses        [[TEC.ledger.*]]        forbids [[TEC.naming.direct]]
 
 ## Sections
 
-| Section | Content |
-| --- | --- |
-| `markers` | how it reads: sentence length, lexicon, punctuation, what is never there |
-| `dose` | how much per phase (table by phase) |
+| Section       | Content                                                                                    |
+| ------------- | ------------------------------------------------------------------------------------------ |
+| `markers`     | how it reads: sentence length, lexicon, punctuation, what is never there                   |
+| `dose`        | how much per phase (table by phase)                                                        |
 | `transitions` | table: to `[[REG.…]]` · allowed when · forbidden when · how (inline ids `REG.<name>.T<n>`) |
-| `samples` | links to `assets/samples/SMP-NNN` |
+| `samples`     | links to `assets/samples/SMP-NNN`                                                          |
 
 ## Rules
 

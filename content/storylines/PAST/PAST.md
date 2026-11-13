@@ -7,6 +7,7 @@ updated: 2026-11-10
 participants: []
 axes: [AX2, AX3, AX4, AX7, AX9]
 weight: {OPEN: SSS, P1: A, P2: B, BREAK: A, AFTER: S}
+style: {default: REG.hoi-tuong}
 aliases: [QK, tuyến quá khứ]
 sources:
   - "_archive/tuyen/qua-khu/README.md (chuyển T3, 10/11)"
@@ -16,7 +17,7 @@ sources:
 
 Gốc của các node quá khứ. QK phát triển nhân vật qua hồi tưởng. QK không chạy song song với hiện tại; nó là **nhà sản xuất** cho các tuyến hiện tại. Mỗi neo quá khứ xuất ra một **niềm tin** (`BL-`, gói `CH.*.beliefs`): một quan niệm, phản xạ, cách tính, hoặc câu hỏi ở một nấc của thang. Các tình tiết hiện tại tiêu thụ niềm tin ấy.
 
-**Mục:** `goals` · `anchor` · `weight` · `rules` · `beliefs` · `children` · `dropped` · `gaps`.
+**Mục:** `goals` · `anchor` · `weight` · `laws` · `beliefs` · `children` · `dropped` · `gaps`.
 
 ## goals
 
@@ -49,7 +50,7 @@ Một neo quá khứ (một lá tình tiết của node con) có năm trường:
 
 Trong khuôn lá ([[SCH.event]]): sự kiện → `event`; niềm tin xuất ra → `beliefs`; nấc, trục → `level`, `axis`; cầu bằng vật và móc hiện tại → ghi chú trong thân lá.
 
-## rules `locked 26/10, 30/10`
+## laws `locked 26/10, 30/10`
 
 Bốn luật kể quá khứ, áp cho mọi node con.
 
@@ -72,6 +73,10 @@ Mảnh hồi tưởng được chèn khi hiện tại chạm niềm tin của n�
 ## beliefs
 
 Bảng niềm tin sơ bộ cũ (NT-01 … NT-25, `proposed`) đã chuyển thành gói hai lớp ở [[CH.thuyen.beliefs]] (cụm C1–C7; một số NT đã gộp hoặc chuyển thành hàm, xem gói) và [[CH.nhi.beliefs]]. Cột "tiêu thụ ở hiện tại" của bảng cũ nằm ở trường `consumed` của từng niềm tin. Không giữ bảng ở đây để khỏi lệch.
+
+## style `proposed 13/11`
+
+Style mặc định của tuyến: **[[REG.hoi-tuong]]** (R6 Hồi tưởng), rút từ ma trận `rules/registers.md` §3 (cột mặc định của các node con). Mọi node con và tình tiết kế thừa, trừ khi node khai register khác (mục `style` của node). Phần cứng của [[STY.default]] luôn áp. Luật: [[LAW.default]] cộng mục `laws` của từng node.
 
 ## children
 

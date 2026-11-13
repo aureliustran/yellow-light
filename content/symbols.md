@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 249 file. Chưa chuyển sang khuôn mới (legacy): 140 file.
+Có phần đầu (frontmatter): 281 file. Chưa chuyển sang khuôn mới (legacy): 140 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -105,7 +105,7 @@ Có phần đầu (frontmatter): 249 file. Chưa chuyển sang khuôn mới (leg
 | `GUIDE.reading` | `guide` | `draft` | `guidelines/reading.md` | Tokens are the budget. Every task starts from one entry and follows links; nothing is loaded "to be safe". |
 | `GUIDE.roles-and-status` | `guide` | `draft` | `guidelines/roles-and-status.md` | **When to ask.** Anything that touches canon: ask first (at most four questions at once, each with a recommendation). Anything inside an … |
 | `GUIDE.task.add-event` | `guide` | `draft` | `guidelines/tasks/add-event.md` | What happens; the node it belongs to; the goal it serves. |
-| `GUIDE.task.add-law-or-technique` | `guide` | `draft` | `guidelines/tasks/add-law-or-technique.md` | Must hold (pass/fail) → **law**. A voice bundle → **register**. A method → **technique**. The shape of a beat or scene → **pattern**. A m… |
+| `GUIDE.task.add-law-or-technique` | `guide` | `draft` | `guidelines/tasks/add-law-or-technique.md` | What may or may not be written (facts, disclosure, limits, names) → **law**. How to write → **style**: a voice bundle (`grain: bundle`, r… |
 | `GUIDE.task.audit` | `guide` | `draft` | `guidelines/tasks/audit.md` | **Trigger:** "rà soát ch.N–M", or before a new phase. |
 | `GUIDE.task.compound-words-sweep` | `guide` | `draft` | `guidelines/tasks/compound-words-sweep.md` | **Trigger:** "rà luật từ phức", "scan and fix từ phức", or after a batch of new design files. |
 | `GUIDE.task.crosspost-convert` | `guide` | `draft` | `guidelines/tasks/crosspost-convert.md` | **Trigger:** "chuyển chương 1–5 cho rookies", "convert chapter 12 for rookies", "làm bản đăng chéo". |
@@ -115,6 +115,18 @@ Có phần đầu (frontmatter): 249 file. Chưa chuyển sang khuôn mới (leg
 | `GUIDE.task.revise-chapter` | `guide` | `draft` | `guidelines/tasks/revise-chapter.md` | **Trigger:** "sửa đoạn …", "chương N đọc chưa ổn". |
 | `GUIDE.task.sync-blueprint` | `guide` | `draft` | `guidelines/tasks/sync-blueprint.md` | **Trigger:** after writing; after the author edits a chapter; `LAW.check.bp-drift` or `bp-anchor` reports. |
 | `GUIDE.task.write-scene` | `guide` | `draft` | `guidelines/tasks/write-scene.md` | The blueprint scene(s) assigned to you; its write-kit. |
+| `LAW.address.relation` | `law` | `locked` | `rules/address/LAW.address.relation.md` | Thuộc [[LAW.default]], phần **cứng**: không node nào bỏ được; luật riêng chỉ làm cụ thể thêm. |
+| `LAW.default` | `preset` | `locked` | `rules/LAW.default.md` | Bộ luật áp cho **mọi** tình tiết `locked 13/11` (tác giả). Luật trả lời *được viết gì, không được viết gì*; *viết thế nào* là style ([[ST… |
+| `LAW.dialect.ha-tinh` | `law` | `locked` | `rules/dialect/LAW.dialect.ha-tinh.md` | Thuộc [[LAW.default]], phần **cứng**: không node nào bỏ được; luật riêng chỉ làm cụ thể thêm. |
+| `LAW.disclosure.purpose` | `law` | `locked` | `rules/disclosure/LAW.disclosure.purpose.md` | Thuộc [[LAW.default]], phần **cứng**: không node nào bỏ được; luật riêng chỉ làm cụ thể thêm. |
+| `LAW.display.blocks` | `law` | `locked` | `rules/display/LAW.display.blocks.md` | Thuộc [[LAW.default]], phần **cứng**: không node nào bỏ được; luật riêng chỉ làm cụ thể thêm. |
+| `LAW.harm.pain` | `law` | `proposed` | `rules/harm/LAW.harm.pain.md` | Thuộc [[LAW.default]], phần **cứng**: không node nào bỏ được; luật riêng chỉ làm cụ thể thêm. Basis ART.0.8 đang `proposed`, nên luật này… |
+| `LAW.intimacy.limits` | `law` | `proposed` | `rules/intimacy/LAW.intimacy.limits.md` | Thuộc [[LAW.default]], phần **cứng**: không node nào bỏ được; luật riêng chỉ làm cụ thể thêm. Basis ART.0.9 đang `proposed`, nên luật này… |
+| `LAW.naming.emotion` | `law` | `locked` | `rules/naming/LAW.naming.emotion.md` | Thuộc [[LAW.default]], phần **mềm**: node hoặc luật hẹp hơn thay được bằng `supersedes`, kèm lý do. Lời kể POV Thuyên thay luật này bằng … |
+| `LAW.places.real-fiction` | `law` | `locked` | `rules/places/LAW.places.real-fiction.md` | Thuộc [[LAW.default]], phần **cứng**: không node nào bỏ được; luật riêng chỉ làm cụ thể thêm. |
+| `LAW.pov.narrator-knowledge` | `law` | `proposed` | `rules/pov/LAW.pov.narrator-knowledge.md` | Thuộc [[LAW.default]], phần **mềm**: node hoặc luật hẹp hơn thay được bằng `supersedes`, kèm lý do. Basis ART.0.7 đang `proposed`. |
+| `LAW.swearing.levels` | `law` | `proposed` | `rules/swearing/LAW.swearing.levels.md` | Thuộc [[LAW.default]], phần **mềm**: node hoặc luật hẹp hơn thay được bằng `supersedes`, kèm lý do. Basis ART.0.8 đang `proposed`. Cách d… |
+| `LAW.under-18.base` | `law` | `locked` | `rules/under-18/LAW.under-18.base.md` | Thuộc [[LAW.default]], phần **cứng**: không node nào bỏ được; luật riêng chỉ làm cụ thể thêm. |
 | `PAST` | `node` | `agreed` | `storylines/PAST/PAST.md` | Gốc của các node quá khứ. QK phát triển nhân vật qua hồi tưởng. QK không chạy song song với hiện tại; nó là **nhà sản xuất** cho các tuyế… |
 | `PAST.DA` | `node` | `proposed` | `storylines/PAST/PAST.DA/PAST.DA.md` | Nhà giàu thật, ngã năm 14 tuổi, Astrea mua lại; ghế do người khác xếp. Độ mỏng (`_archive/tuyen/qua-khu/README.md` §5). |
 | `PAST.K` | `node` | `proposed` | `storylines/PAST/PAST.K/PAST.K.md` | Động cơ người anh, dùng em gái làm màn khói. Rất mỏng, chỉ phục vụ sau sân bay (Phần 4) (`_archive/tuyen/qua-khu/README.md` §5). |
@@ -154,12 +166,22 @@ Có phần đầu (frontmatter): 249 file. Chưa chuyển sang khuôn mới (leg
 | `PAST.T-025` | `event` | `page` | `storylines/PAST/PAST.T/PAST.T-025.md` | Đề tài nghiên cứu: nhận cả phần của Đức và Lan, tay bận thì cái đau ngủ; thầy Bình hỏi *Tại sao là em?* chưa trả lời được; đề tài lên cấp… |
 | `PAST.T-026` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-026.md` | Thư mục *sau-nay*, *Congratulations.*, đọc một lần rồi không mở. |
 | `PAST.T-027` | `event` | `page` | `storylines/PAST/PAST.T/PAST.T-027.md` | Sáu tháng thực tập ở tòa nhà kính; hết thực tập tháng 9, "không biết dậy sớm để làm gì"; mail summit đến thì nhẹ. |
-| `REG.noi-tam` | `register` | `locked` | `lib/registers/REG.noi-tam.md` | Người kể khoác trọn giọng nghĩ của nhân vật POV (gián tiếp tự do toàn phần). Cảm xúc và suy nghĩ đi thẳng qua lời kể, thay cho việc dựng … |
+| `REG.dang` | `style` | `locked` | `lib/registers/REG.dang.md` | Mục của R9 trong thư viện (kind `style`, loại `bundle`). Luật đầy đủ, ma trận và luật chuyển vẫn ở `rules/registers.md` (§1, §2.2) cho tớ… |
+| `REG.dau-tri` | `style` | `agreed` | `lib/registers/REG.dau-tri.md` | Mục của R4 trong thư viện (kind `style`, loại `bundle`). Luật đầy đủ, ma trận và luật chuyển vẫn ở `rules/registers.md` (§1) cho tới khi … |
+| `REG.day` | `style` | `locked` | `lib/registers/REG.day.md` | Mục của R7 trong thư viện (kind `style`, loại `bundle`). Luật đầy đủ, ma trận và luật chuyển vẫn ở `rules/registers.md` (§1, §2.3) cho tớ… |
+| `REG.default` | `style` | `locked` | `lib/registers/REG.default.md` | Văn phong mặc định của cả truyện `locked 13/11` (tác giả). Một event rơi về R0 khi không tầng nào (event, node × giai đoạn, node, các nod… |
+| `REG.doi-thuong` | `style` | `agreed` | `lib/registers/REG.doi-thuong.md` | Mục của R1 trong thư viện (kind `style`, loại `bundle`). Luật đầy đủ, ma trận và luật chuyển vẫn ở `rules/registers.md` (§1) cho tới khi … |
+| `REG.hoi-tuong` | `style` | `agreed` | `lib/registers/REG.hoi-tuong.md` | Mục của R6 trong thư viện (kind `style`, loại `bundle`). Luật đầy đủ, ma trận và luật chuyển vẫn ở `rules/registers.md` (§1) cho tới khi … |
+| `REG.lang-man` | `style` | `agreed` | `lib/registers/REG.lang-man.md` | Mục của R2 trong thư viện (kind `style`, loại `bundle`). Luật đầy đủ, ma trận và luật chuyển vẫn ở `rules/registers.md` (§1) cho tới khi … |
+| `REG.lanh-liet-ke` | `style` | `agreed` | `lib/registers/REG.lanh-liet-ke.md` | Mục của R5 trong thư viện (kind `style`, loại `bundle`). Luật đầy đủ, ma trận và luật chuyển vẫn ở `rules/registers.md` (§1) cho tới khi … |
+| `REG.noi-tam` | `style` | `locked` | `lib/registers/REG.noi-tam.md` | Người kể khoác trọn giọng nghĩ của nhân vật POV (gián tiếp tự do toàn phần). Cảm xúc và suy nghĩ đi thẳng qua lời kể, thay cho việc dựng … |
+| `REG.so-cai` | `style` | `locked` | `lib/registers/REG.so-cai.md` | Mục của R8 trong thư viện (kind `style`, loại `bundle`). Luật đầy đủ, ma trận và luật chuyển vẫn ở `rules/registers.md` (§1, §2.1) cho tớ… |
+| `REG.than-mat` | `style` | `agreed` | `lib/registers/REG.than-mat.md` | Mục của R3 trong thư viện (kind `style`, loại `bundle`). Luật đầy đủ, ma trận và luật chuyển vẫn ở `rules/registers.md` (§1) cho tới khi … |
 | `ROM` | `node` | `proposed` | `storylines/ROM/ROM.md` | Gốc của các node quan hệ tình cảm `ROM.<cặp>`. Khung tạo sớm (10/11) để chứa lõi gương của [[ROM.TN]]; phần còn lại chuyển ở B4c. |
 | `ROM.LT` | `node` | `proposed` | `storylines/ROM/ROM.LT/ROM.LT.md` | Thuyên làm quân sư cho Tùng từ cấp 3: gương nhỏ của quân sư cho Phong; giao `PAST.T` (`de-xuat/cay-tuyen.md`). |
 | `ROM.PN` | `node` | `proposed` | `storylines/ROM/ROM.PN/ROM.PN.md` | Một chiều: thích, quân sư dạy, gala tỏ tình, nói với Nhi, câu hỏi ở tiệc aim, người ở lại. Gương: Phong hỏi, Thuyên đọc (`de-xuat/cay-tuy… |
 | `ROM.TD` | `node` | `proposed` | `storylines/ROM/ROM.TD/ROM.TD.md` | Fan service tháng 11–12, 31/12, dừng thân mật, đổi phe. Nửa romance; nửa liên minh ở `THR.LM` (`de-xuat/cay-tuyen.md`). |
-| `ROM.TN` | `node` | `proposed` | `storylines/ROM/ROM.TN/ROM.TN.md` | **Khung, dựng dở** (T4, 10/11). Đã chuyển hết `_archive/tuyen/romance/thuyen-nhi.md`: lõi gương (`mirror`), register mặc định (`voice`), … |
+| `ROM.TN` | `node` | `proposed` | `storylines/ROM/ROM.TN/ROM.TN.md` | **Khung, dựng dở** (T4, 10/11). Đã chuyển hết `_archive/tuyen/romance/thuyen-nhi.md`: lõi gương (`mirror`), register mặc định (`style`), … |
 | `ROM.TN-001` | `event` | `proposed` | `storylines/ROM/ROM.TN/ROM.TN-001.md` | Lúc Phong vắng, Thuyên chọc Nhi với Phong. Hai bên đấu dữ kiện; Thuyên thắng lý bằng chính dữ kiện của Nhi, rồi đổi sang 'mặt tầng 17' và… |
 | `ROM.TN-002` | `event` | `proposed` | `storylines/ROM/ROM.TN/ROM.TN-002.md` | Nhi 'mua thừa' cold brew chanh cho Thuyên, chối là mình biết; Thuyên suy ra cốc là cho anh, trêu 'thèm nhớ'; tuần sau anh 'mua thừa' matc… |
 | `ROM.VA` | `node` | `proposed` | `storylines/ROM/ROM.VA/ROM.VA.md` | Tuyến phụ hài, tùy chọn; giao `SOL.HD` (`de-xuat/cay-tuyen.md`). |
@@ -176,19 +198,18 @@ Có phần đầu (frontmatter): 249 file. Chưa chuyển sang khuôn mới (leg
 | `SCH.goal` | `schema` | `proposed` | `schemas/goal.md` | A goal of a node, decomposed down the tree. See [storylines](../../docs/framework/storylines.md#node). |
 | `SCH.guide` | `schema` | `proposed` | `schemas/guide.md` | A guideline for agents: how to work. **Location:** `content/GUIDELINES.md` (entry) and `content/guidelines/**`. **Id:** `GUIDE.<name>`; t… |
 | `SCH.intersection` | `schema` | `proposed` | `schemas/intersection.md` | A **meeting of nodes**: a hyperedge, not a node. It sits outside the node tree and is **defined by foreign keys** to two or more nodes, o… |
-| `SCH.law` | `schema` | `proposed` | `schemas/law.md` | A law is an **entity of its own**, not a block of text. One law applies to some targets; a target is under several laws. Semantics (hiera… |
+| `SCH.law` | `schema` | `proposed` | `schemas/law.md` | A law answers **what may or may not be written** `locked 13/11`: facts, disclosure, limits, names. How to write is a style ([schema](styl… |
 | `SCH.node` | `schema` | `proposed` | `schemas/node.md` | A **dynamic** entity: a thread with people and events in time, serving at least one axis. Storylines (`ROM`, `PAST`, …) and `SELF.<id>` a… |
 | `SCH.object` | `schema` | `proposed` | `schemas/object.md` | A meaningful object (recurring, symbolic, or evidence). **Location:** `world/objects/OBJ-NNN.md`, or inline in a setting when minor. **Id… |
-| `SCH.pattern` | `schema` | `proposed` | `schemas/pattern.md` | The shape of a beat or a scene (e.g. anchor in five steps, twist in five steps, inference beat, emotion chain of eight links). See [libra… |
 | `SCH.plan` | `schema` | `proposed` | `schemas/plan.md` | A plan for a range of chapters: which nodes are in scope and what is due. It groups blueprints; each chapter's detail is its blueprint (s… |
 | `SCH.post` | `schema` | `proposed` | `schemas/chapter.md` | A chapter as published, in `content/posts/<edition-dir>/`. The chapter file is never renamed or given metadata (the import parser and the… |
+| `SCH.preset` | `schema` | `locked` | `schemas/preset.md` | A preset is a **set** of styles or laws used as the default for every event `locked 13/11`. It is not a new entity: it lists entities. Tw… |
 | `SCH.proposal` | `schema` | `proposed` | `schemas/proposal.md` | An unapproved proposal (old `de-xuat/`). **Location:** `proposals/PROP-NNN.md`; once merged, `proposals/_merged/`. **Id:** `PROP-NNN`; ol… |
-| `SCH.register` | `schema` | `proposed` | `schemas/register.md` | A register (văn phong): a voice bundle for narration or dialogue. See [library](../../docs/framework/library.md). |
 | `SCH.schema` | `schema` | `proposed` | `schemas/schema.md` | A model of one entity kind. **Location:** `content/schemas/<kind>.md`. **Id:** `SCH.<kind>`. |
 | `SCH.secret` | `schema` | `proposed` | `schemas/secret.md` | A secret, tracked as an entity to know **who knows what, when**. **Location:** `world/secrets/SEC-NNN.md`. **Id:** `SEC-NNN`. |
 | `SCH.setting` | `schema` | `proposed` | `schemas/setting.md` | A place, a recurring space. **Location:** `world/settings/SET.<name>.md`. **Id:** `SET.<name>`. Header: `parent` (larger setting, if any). |
 | `SCH.spec` | `schema` | `proposed` | `schemas/spec.md` | A specification page of the framework or the app. **Location:** `docs/**`. **Id:** `SPEC.<name>`. |
-| `SCH.technique` | `schema` | `proposed` | `schemas/technique.md` | A sentence- or paragraph-level method that achieves a law or a register. See [library](../../docs/framework/library.md). |
+| `SCH.style` | `schema` | `locked` | `schemas/style.md` | A style answers **how to write** `locked 13/11`. Register (văn phong), technique (kỹ thuật) and pattern (khuôn beat) are one kind, `style… |
 | `SCH.value` | `schema` | `agreed` | `schemas/value.md` | A value is one **criterion a character chooses by**: what is worth something to the character, and how much. A character's values togethe… |
 | `SEC-001` | `secret` | `agreed` | `world/secrets/SEC-001.md` | Nhi là con gái Chủ tịch tập đoàn Astrea và em gái Khải, Tổng giám đốc ([[CH.nhi]]). |
 | `SEC-002` | `secret` | `locked` | `world/secrets/SEC-002.md` | Sau khi lượt 1 thất bại (2021), bố mẹ Nhi ngầm tạo điều kiện cho Phong, người có cảm tình với Nhi và có phụ huynh là đối tác của Astrea, … |
@@ -206,15 +227,26 @@ Có phần đầu (frontmatter): 249 file. Chưa chuyển sang khuôn mới (leg
 | `SPEC.ids` | `spec` | `draft` | `docs/framework/ids.md` | Every entity that can be pointed at has an id, including inline entities (goals, scenes, clauses, beats, steps). Old → new code mapping (… |
 | `SPEC.index` | `spec` | `draft` | `docs/README.md` | Specs only: how the framework and the app are built. Story material is in [`content/`](../content/GUIDELINES.md). |
 | `SPEC.layout` | `spec` | `draft` | `docs/framework/layout.md` | content/ |
-| `SPEC.library` | `spec` | `draft` | `docs/framework/library.md` | `lib/` mirrors `rules/`: same aspects, same selector syntax (`applies-to`, `effective`, `except`), so one engine answers "what applies he… |
+| `SPEC.library` | `spec` | `agreed` | `docs/framework/library.md` | `lib/` holds **style**: how to write. Laws in `rules/` hold what may or may not be written. Fields: `content/schemas/style.md`, `content/… |
 | `SPEC.model` | `spec` | `draft` | `docs/framework/model.md` | How entities fit together. Fields of each kind are defined in its schema under `content/schemas/`; this file never repeats them. |
 | `SPEC.old-architecture` | `spec` | `superseded` | `kien-truc.md` | Oct 25, 2026 · @aureliustran. **[chốt 25/10]** repo là kho gốc. Phần còn lại là thiết kế đang áp dụng; chỗ nào chưa triển khai có ghi rõ. |
-| `SPEC.rules-engine` | `spec` | `draft` | `docs/framework/rules-engine.md` | How rules are derived, scoped and combined. Fields: `content/schemas/article.md`, `content/schemas/law.md`. |
+| `SPEC.rules-engine` | `spec` | `draft` | `docs/framework/rules-engine.md` | **Law = rule** `locked 13/11`: a law answers *what may or may not be written*; *how to write* is a style ([library.md](library.md)). `rul… |
 | `SPEC.skills` | `spec` | `draft` | `docs/framework/skills.md` | Skills carry **method** (how to do a kind of work); the repository carries **facts** (canon, laws, characters, plans). A skill never stor… |
 | `SPEC.storylines` | `spec` | `draft` | `docs/framework/storylines.md` | Fields: `content/schemas/node.md`, `goal.md`, `event.md`, `intersection.md`. |
 | `SPEC.tooling` | `spec` | `draft` | `docs/framework/tooling.md` | `npm run canon:check` (`scripts/canon-check.mjs`, no dependencies) is the rule runner. It reads every entity under `content/` and every p… |
-| `TEC.humor.want-clash` | `technique` | `proposed` | `lib/humor/TEC.humor.want-clash.md` | Rút ra khi so bản Claude (viết theo `kho/hai-ky-thuat.md`) với bản tác giả sửa, hai cảnh mẫu 05/11: [[ROM.TN-001]] (dòng 1–7) và [[ROM.TN… |
-| `TEC.interiority.ideal-self` | `technique` | `proposed` | `lib/interiority/TEC.interiority.ideal-self.md` | Đưa lực kéo ([[B.thuyen-034]]) lên trang qua lời người kể. Phục vụ register R10 ([[REG.noi-tam]], khối nội tâm, `rules/registers.md` §2.6… |
+| `STY.default` | `preset` | `locked` | `lib/STY.default.md` | Tầng trên cùng của style `locked 13/11` (tác giả). Style của tuyến và node **kế thừa** bộ này và chỉ ghi đè phần mềm; event kế thừa style… |
+| `TEC.dialogue.natural` | `style` | `locked` | `lib/dialogue/TEC.dialogue.natural.md` | Lời thoại viết như người nói thật. Thuộc [[STY.default]], luôn bật ở mọi register, kể cả R0; chỉ nới bằng `except` kèm lý do. |
+| `TEC.expertise.layman` | `style` | `locked` | `lib/expertise/TEC.expertise.layman.md` | Người đọc không cần hiểu chuyên môn, chỉ cần hiểu ai được, ai mất, ai bị phản bội. Thuộc [[STY.default]], bật mặc định; register của tuyế… |
+| `TEC.humor.want-clash` | `style` | `proposed` | `lib/humor/TEC.humor.want-clash.md` | Rút ra khi so bản Claude (viết theo `kho/hai-ky-thuat.md`) với bản tác giả sửa, hai cảnh mẫu 05/11: [[ROM.TN-001]] (dòng 1–7) và [[ROM.TN… |
+| `TEC.interiority.ideal-self` | `style` | `proposed` | `lib/interiority/TEC.interiority.ideal-self.md` | Đưa lực kéo ([[B.thuyen-034]]) lên trang qua lời người kể. Phục vụ register R10 ([[REG.noi-tam]], khối nội tâm, `rules/registers.md` §2.6… |
+| `TEC.interiority.purposeful-drift` | `style` | `locked` | `lib/interiority/TEC.interiority.purposeful-drift.md` | Ý lan man phải cài cắm điều gì đó về nhân vật hoặc cốt truyện. Thuộc [[STY.default]], bật mặc định; register của tuyến, node hoặc event đ… |
+| `TEC.lexicon.compound` | `style` | `locked` | `lib/lexicon/TEC.lexicon.compound.md` | Từ phức (từ ghép Hán Việt, thuần Việt; từ láy) là đa số, từ đơn là thiểu số `locked 10/11`. Thuộc [[STY.default]], luôn bật ở mọi registe… |
+| `TEC.pace.flashback` | `style` | `locked` | `lib/pace/TEC.pace.flashback.md` | Hồi tưởng nhanh hơn hiện tại, nhưng không phải tóm tắt; chuẩn là pace của ch.2–7. Thuộc [[STY.default]], bật mặc định; register của tuyến… |
+| `TEC.pace.present` | `style` | `locked` | `lib/pace/TEC.pace.present.md` | Mạch kể hiện tại không bao giờ được rush. Thuộc [[STY.default]], luôn bật ở mọi register, kể cả R0; chỉ nới bằng `except` kèm lý do. |
+| `TEC.prose.human` | `style` | `locked` | `lib/prose/TEC.prose.human.md` | Viết giống người, không gọn gàng, logic tuyệt đối như máy. Thuộc [[STY.default]], bật mặc định; register của tuyến, node hoặc event được … |
+| `TEC.setting.concrete` | `style` | `locked` | `lib/setting/TEC.setting.concrete.md` | Ngoại cảnh cụ thể, có giác quan. Thuộc [[STY.default]], bật mặc định; register của tuyến, node hoặc event được cấm nó (`forbids`). |
+| `TEC.show.default` | `style` | `locked` | `lib/show/TEC.show.default.md` | Người đọc tự cảm nhận qua chi tiết. Thuộc [[STY.default]], bật mặc định; register của tuyến, node hoặc event được cấm nó (`forbids`). |
+| `TEC.transition.common` | `style` | `locked` | `lib/transition/TEC.transition.common.md` | Cách chuyển giữa các register và giữa các cảnh, áp cho mọi register. Cặp chuyển riêng: `rules/registers.md` §4.2. Thuộc [[STY.default]], … |
 | `THR` | `node` | `proposed` | `storylines/THR/THR.md` | Gốc của các node `THR.*`. Khung (T2, 10/11): chỉ có `weight` và `children`; mọi mục khác chờ chuyển. |
 | `THR.DR` | `node` | `proposed` | `storylines/THR/THR.DR/THR.DR.md` | Sinh từ đồ ăn đặt cho Nhi (chốt 23/10), cắm cờ, bị gạt đúng, luận văn Phần Lan, startup Phần 3, Khải nhảy vào Phần 4 (`de-xuat/cay-tuyen.… |
 | `THR.LAB` | `node` | `proposed` | `storylines/THR/THR.LAB/THR.LAB.md` | Lão Tuấn, phe "rắn", hội kỹ sư, Thảo; ván phòng thủ GĐ1, ván tấn công và thủ đoạn chủ động GĐ2; blacklist và bảng giá người ở đáy (`de-xu… |

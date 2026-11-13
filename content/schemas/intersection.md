@@ -25,6 +25,7 @@ A **meeting of nodes**: a hyperedge, not a node. It sits outside the node tree a
 | `share` | optional: which section of which node is readable through this intersection, and by whom (`[[FAM.T]] relation → [[PAST.T]]`). The only way a node reads another node's definitions |
 | `goals` | the intersection's own goals `X-NNN.G<n>`: goals that are not part of any single node's goal |
 | `seed` | old meetings carried over without a goal yet (old codes as aliases) |
+| `style` | style for every event of this intersection (13/11); without it, the node that leads the beat decides | 
 | `override` | laws or register for every event of this intersection, with a reason |
 | `open` | open questions (`Q-`) |
 

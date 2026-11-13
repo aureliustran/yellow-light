@@ -21,7 +21,7 @@ Entity definitions (fields, types, per-kind rules) live in [`content/schemas/`](
 2. **One owner per attribute.** Every value is written in exactly one place. Inner state belongs to `SELF.<id>`, relation state to the relation's node.
 3. **Every entity has an id.** Four id forms, immutable, case-sensitive, unique even when lower-cased. See [ids](ids.md).
 4. **Rules are scoped entities.** Constitution articles derive from the axes; phase laws derive from the constitution; nodes add decrees; events may override with a reason. Laws reach entities through selectors, not by being copied.
-5. **How-to-write is a library.** Registers, techniques and patterns mirror the rules tree and serve laws; mandatory practice is promoted to a law.
+5. **What vs how.** Laws (`rules/`) say what may or may not be written; style (`lib/`: registers, patterns, techniques as one kind) says how. Each has a default set ([[LAW.default]], [[STY.default]]); storylines and nodes override, events inherit (13/11).
 6. **Events are leaves.** An event is the last node of a storyline tree. It declares only what is its own; everything inherited (laws, register, voices, goal chain, state before) is resolved by the tooling into a generated block.
 7. **Blueprints combine events into chapters.** Output is the written chapter; tracing back reads the blueprint, not the chapter.
 8. **Declare little, generate the rest.** Generated content is marked and never edited by hand; `canon:check` enforces it.
@@ -35,7 +35,7 @@ Entity definitions (fields, types, per-kind rules) live in [`content/schemas/`](
 | Config, constants | calendar, phases, levels, statuses | `content/config/` |
 | Domain core, ADR base | axes, constitution | `content/core/` |
 | Scoped lint rules, policy | laws | `content/rules/` |
-| Library | registers, techniques, patterns | `content/lib/` |
+| Library | style: registers, patterns, techniques | `content/lib/` |
 | Dimension tables, classes | characters, groups, settings, objects, secrets | `content/world/` |
 | Fact tables | nodes; events as leaf rows | `content/storylines/` |
 | Hyperedge, mediator | intersections (folders with their own id, foreign keys to ≥2 nodes; own events only with an own goal) | `content/storylines/intersections/` |
@@ -56,7 +56,7 @@ Entity definitions (fields, types, per-kind rules) live in [`content/schemas/`](
 | [ids.md](ids.md) | id grammar, kind registry, case rules, inline ids, immutability, aliases | draft |
 | [layout.md](layout.md) | folder tree of `content/`, `posts/`, `crosspost/`, `scripts/paths.mjs`, Obsidian vault | draft |
 | [rules-engine.md](rules-engine.md) | constitution → law → decree → override, selectors, overlap resolution, phase effect | draft |
-| [library.md](library.md) | registers, techniques, patterns; links to laws; checks | draft |
+| [library.md](library.md) | style, default style, fallback, R0 alert | agreed |
 | [storylines.md](storylines.md) | trees, nodes, goals, event leaves, inheritance and the resolved block, intersections | draft |
 | [blueprints.md](blueprints.md) | chapter blueprints, scenes, roles, anchors, sync lifecycle, outputs | draft |
 | [tooling.md](tooling.md) | `canon:check` and its laws, generated views, graph page, Obsidian setup | draft |

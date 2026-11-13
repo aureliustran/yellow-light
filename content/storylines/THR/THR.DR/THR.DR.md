@@ -28,4 +28,4 @@ Từ ma trận `_archive/tuyen/README.md` §4. Dấu `†`: mức tác giả đ�
 
 ## gaps
 
-- `arc`, `goals`, `relation`, `state`, `voice`, `rules`, tình tiết: chờ chuyển.
+- `arc`, `goals`, `relation`, `state`, `style`, `voice`, `laws`, tình tiết: chờ chuyển.

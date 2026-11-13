@@ -275,6 +275,65 @@ law('LAW.check.method-from', () => {
   }
 });
 
+law('LAW.check.style-ref', () => {
+  // map style ở đầu node / giao điểm phải trỏ tới style kind bundle có thật
+  for (const it of items) {
+    if (!it.props.style || !['node', 'intersection'].includes(it.props.kind)) continue;
+    for (const m of it.props.style.matchAll(/(default|OPEN|P1|P2|BREAK|AFTER|POST)\s*:\s*([A-Za-z0-9.+-]+)/g)) {
+      const hit = resolve(m[2])[0];
+      if (!hit || hit.props.kind !== 'style' || hit.props.grain !== 'bundle') add('LAW.check.style-ref', 'error', it, 1, `style ${m[1]}: "${m[2]}" không phải register (style bundle) có thật`);
+    }
+  }
+});
+
+law('LAW.check.default-style', () => {
+  // tình tiết rơi về R0 (REG.default): báo theo mức của node chủ ở giai đoạn của tình tiết
+  const RANK = ['D', 'C', 'B', 'A', 'S', 'SS', 'SS+', 'SSS'];
+  const parentOf = (it) => {
+    const raw = it.props.parent || '';
+    const l = (raw.match(LINK_RE) || [])[0];
+    const tgt = l ? parseLinkTarget(l.slice(2, -2)).target : raw.trim();
+    return tgt ? resolve(tgt)[0] : null;
+  };
+  const styleMap = (it) => {
+    const out = {};
+    for (const m of (it.props.style || '').matchAll(/(default|OPEN|P1|P2|BREAK|AFTER|POST)\s*:\s*([A-Za-z0-9.+-]+)/g)) out[m[1]] = m[2];
+    return out;
+  };
+  const has = (it, ph) => { const s = styleMap(it); return Boolean((ph && s[ph]) || s.default); };
+  const levelOf = (it, ph) => {
+    const w = parseWeight(it.props.weight);
+    if (ph) return w[ph] || null;
+    const vals = Object.values(w).filter((v) => RANK.includes(v));
+    return vals.length ? vals.sort((a, b) => RANK.indexOf(b) - RANK.indexOf(a))[0] : null;
+  };
+  for (const ev of items) {
+    if (ev.props.kind !== 'event') continue;
+    if (ev.props.register && ev.props.register.trim() && ev.props.register.trim() !== 'none') continue;
+    const ph = PHASES.includes(ev.props.phase) ? ev.props.phase : null;
+    const owner = parentOf(ev);
+    if (!owner) continue;
+    let level;
+    if (owner.props.kind === 'intersection') {
+      if (has(owner, ph)) continue;
+      const nodes = [...(owner.props.nodes || '').matchAll(LINK_RE)].map((m) => resolve(parseLinkTarget(m[1]).target)[0]).filter(Boolean);
+      level = levelOf(owner, ph) || nodes.map((n) => levelOf(n, ph)).filter(Boolean).sort((a, b) => RANK.indexOf(b) - RANK.indexOf(a))[0] || null;
+      add('LAW.check.default-style', 'warn', ev, 1, `giao điểm ${owner.id} chưa có style và tình tiết không khai register: node giữ nhịp quyết (levels luật 1); đừng để rơi về R0${level ? ` (mức ${level})` : ''}`);
+      continue;
+    }
+    let cur = owner, found = false, guard = 0;
+    while (cur && guard++ < 20) {
+      if (has(cur, ph)) { found = true; break; }
+      if (cur.id === 'TREE') break;
+      cur = parentOf(cur);
+    }
+    if (found) continue;
+    level = levelOf(owner, ph);
+    const sevr = !level || level === 'pending' || level === 'none' ? 'warn' : RANK.indexOf(level) >= RANK.indexOf('S') ? 'error' : RANK.indexOf(level) >= RANK.indexOf('B') ? 'warn' : 'info';
+    add('LAW.check.default-style', sevr, ev, 1, `rơi về R0 [[REG.default]]: ${owner.id}${ph ? ` ở ${ph}` : ' (chưa rõ giai đoạn, lấy mức cao nhất)'} ${level ? `có mức ${level}` : 'chưa có mức'}; đặt style cho tuyến hoặc node`);
+  }
+});
+
 law('LAW.check.md-link', () => {
   const re = /\]\(([^)\s]+)\)/g;
   for (const it of items) {
@@ -473,7 +532,7 @@ if (WRITE && !ONLY_LAW && !ONLY_TARGET) {
 const order = { error: 0, warn: 1, info: 2 };
 shown.sort((a, b) => order[a.severity] - order[b.severity] || a.file.localeCompare(b.file) || a.line - b.line);
 const byLaw = {};
-for (const f of shown) (byLaw[f.law] ||= { error: 0, warn: 0 })[f.severity]++;
+for (const f of shown) (byLaw[f.law] ||= { error: 0, warn: 0, info: 0 })[f.severity]++;
 const LIMIT = FLAG('--all') ? Infinity : Number(opt('--limit') || 40);
 let printed = 0;
 for (const f of shown) {
@@ -483,7 +542,7 @@ for (const f of shown) {
 }
 if (shown.length > printed) console.log(`… còn ${shown.length - printed} mục (dùng --all hoặc --limit N)`);
 console.log('\nTổng theo luật:');
-for (const l of active) { const c = byLaw[l.id] || { error: 0, warn: 0 }; console.log(`  ${l.id.padEnd(26)} lỗi ${String(c.error).padStart(3)} · cảnh báo ${String(c.warn).padStart(3)}`); }
+for (const l of active) { const c = byLaw[l.id] || { error: 0, warn: 0, info: 0 }; console.log(`  ${l.id.padEnd(26)} lỗi ${String(c.error).padStart(3)} · cảnh báo ${String(c.warn).padStart(3)}${c.info ? ` · ghi chú ${c.info}` : ''}`); }
 const errors = shown.filter((f) => f.severity === 'error').length;
 const warns = shown.filter((f) => f.severity === 'warn').length;
 console.log(`\n${items.length} file · ${errors} lỗi · ${warns} cảnh báo`);

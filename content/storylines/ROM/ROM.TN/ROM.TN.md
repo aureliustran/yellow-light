@@ -14,9 +14,9 @@ sources:
 ---
 # ROM.TN · Thuyên – Nhi
 
-**Khung, dựng dở** (T4, 10/11). Đã chuyển hết `_archive/tuyen/romance/thuyen-nhi.md`: lõi gương (`mirror`), register mặc định (`voice`), hai lá tình tiết mẫu 05/11 (`events`). Cung, mục tiêu, quan hệ, trạng thái chờ chuyển từ BRIEF, KHO, RR (`gaps`).
+**Khung, dựng dở** (T4, 10/11). Đã chuyển hết `_archive/tuyen/romance/thuyen-nhi.md`: lõi gương (`mirror`), register mặc định (`style`), hai lá tình tiết mẫu 05/11 (`events`). Cung, mục tiêu, quan hệ, trạng thái chờ chuyển từ BRIEF, KHO, RR (`gaps`).
 
-**Mục:** `mirror` · `nac-thich` · `weight` · `voice` · `events` · `gaps` (khi chuyển đủ thêm: `arc` · `goals` · `relation` · `state` · `rules`).
+**Mục:** `mirror` · `nac-thich` · `weight` · `style` · `events` · `gaps` (khi chuyển đủ thêm: `arc` · `goals` · `relation` · `state` · `laws`).
 
 ## mirror
 
@@ -101,9 +101,9 @@ Nhi thích Thuyên tới đâu: tiến trình của quan hệ, nên ở node qua
 
 Từ ma trận `_archive/tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
 
-## voice
+## style
 
-Register mặc định theo giai đoạn (bảng cũ `rules/registers.md` §3; nguồn `_archive/tuyen/romance/thuyen-nhi.md` đầu file):
+Kế thừa [[ROM]] (R2). Register theo giai đoạn (bảng cũ `rules/registers.md` §3; nguồn `_archive/tuyen/romance/thuyen-nhi.md` đầu file):
 
 | OPEN | P1 | P2 | BREAK | AFTER |
 | --- | --- | --- | --- | --- |

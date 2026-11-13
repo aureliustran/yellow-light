@@ -20,7 +20,7 @@ Cuộc gọi bốn phút mười hai giây, áo sơ mi trắng, giỗ ông và l
 
 Nhà Thuyên: mẹ, bố, em trai Khánh, và Thuyên là con cả. Thuộc tính tĩnh của từng người ở gói [[CH.thuyen]] (mục *gia đình*, *em trai Khánh*) và các hàm [[FN.thuyen.thieu]] (thước di động), [[FN.thuyen.quan-su]] (thao túng em, nguồn thứ hai). Node này **định nghĩa quan hệ** trong nhà; tình tiết quá khứ của nhà là lá của [[PAST.T]], đọc định nghĩa ở đây qua giao điểm [[X-019]] `proposed 11/11`.
 
-**Mục:** `weight` · `rules` · `relation` · `handoffs` · `gaps`.
+**Mục:** `weight` · `laws` · `relation` · `handoffs` · `gaps`.
 
 ## weight
 
@@ -30,13 +30,13 @@ Nhà Thuyên: mẹ, bố, em trai Khánh, và Thuyên là con cả. Thuộc tín
 
 Từ ma trận `_archive/tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
 
-## rules
+## laws
 
 ### FAM.T.R1
 FAM.T không có node con `proposed 11/11`.
 
 ### FAM.T.R2
-Quá khứ của nhà (trước hiện tại) **chỉ định nghĩa**, không sinh lá ở FAM.T `proposed 11/11`. Hồi tưởng về nhà phục vụ mục tiêu của [[PAST.T]] nên là lá của PAST.T; PAST.T đọc `relation`, `rules` của FAM.T qua `share` của giao điểm [[X-019]]. Tình tiết gia đình ở hiện tại (từ tuần summit trở đi) là lá của FAM.T.
+Quá khứ của nhà (trước hiện tại) **chỉ định nghĩa**, không sinh lá ở FAM.T `proposed 11/11`. Hồi tưởng về nhà phục vụ mục tiêu của [[PAST.T]] nên là lá của PAST.T; PAST.T đọc `relation`, `laws` của FAM.T qua `share` của giao điểm [[X-019]]. Tình tiết gia đình ở hiện tại (từ tuần summit trở đi) là lá của FAM.T.
 
 ### FAM.T.R3
 Không câu nào của người kể (hoặc của mẹ) nói mẹ thương ai hơn `locked 30/10`.

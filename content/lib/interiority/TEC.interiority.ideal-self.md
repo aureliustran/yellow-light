@@ -1,10 +1,11 @@
 ---
 id: TEC.interiority.ideal-self
-kind: technique
+kind: style
+grain: move
+force: tuy-chon
 status: proposed
 updated: 2026-11-13
 aspect: interiority
-serves: ["[[REG.noi-tam]]"]
 applies-to: POV [[CH.thuyen]]
 effective: OPEN → BREAK
 check: human

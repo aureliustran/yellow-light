@@ -103,7 +103,7 @@ Công thức mỗi nấc: **nhiên liệu → phản ứng của anh → nấc m
 4. **Gốc:** nấc và trục nặng của giai đoạn (mục *Cung hiện sinh*); lấy câu gốc của trục nặng làm thước; ít nhất một tình tiết của node `lead` mang nấc ấy; nấc không lùi theo ngày.
 5. **Quá khứ:** niềm tin mà các tình tiết dự kiến tiêu thụ; niềm tin chưa được tiêu thụ là ứng viên; mảnh hồi tưởng chèn khi hiện tại chạm niềm tin.
 6. **Khoảng trống** (`gaps`) của node `lead` và `main` rơi vào khoảng thành pattern cho bước tổng hợp cốt truyện.
-7. **Register** `locked 28/10`: truyện không có văn phong mặc định chung; mỗi nhịp lấy register từ ô (node giữ nhịp × giai đoạn), tức mục `voice` của node (ma trận cũ: `rules/registers.md` §3). Ở giao điểm, node giữ nhịp quyết register của nhịp ấy; đổi register theo luật chuyển (`registers.md` §4). R8, R9 ngoài ô cần tác giả duyệt; kiểm liều theo giai đoạn (`registers.md` §5).
+7. **Register** `locked 13/11` (thay `locked 28/10`): mỗi nhịp lấy register theo style của node giữ nhịp × giai đoạn (mục `style` của node; chưa có thì node cha, rồi gốc tuyến; cuối cùng R0 [[REG.default]], kèm cảnh báo theo mức). Ma trận cũ: `rules/registers.md` §3, chuyển dần vào mục `style` của node. Ở giao điểm, node giữ nhịp quyết register của nhịp ấy; đổi register theo luật chuyển (`registers.md` §4). R8, R9 ngoài ô cần tác giả duyệt; kiểm liều theo giai đoạn (`registers.md` §5).
 
 **Đầu ra:** phạm vi tuyến của khoảng: node, mức và vai, tình tiết đến hạn, giao điểm, khoảng trống, niềm tin, register; và mục **không đụng** (node ngoài phạm vi). Cách viết blueprint: `guidelines/tasks/plan-chapter.md`.
 

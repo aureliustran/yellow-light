@@ -29,8 +29,8 @@ content/
 ├── config/                L0 · calendar · phases · levels · statuses · ids (old→new map)
 ├── schemas/               L0 · one file per kind
 ├── core/                  L1 · axes · scales · shared mechanics · constitution/ART.<AX>.md
-├── rules/<aspect>/        L1.5 · LAW.<aspect>.*.md ; rules/check/ structural laws
-├── lib/                   L1.5 · registers/ · <aspect>/TEC.* · patterns/
+├── rules/<aspect>/        L1.5 · LAW.default.md · LAW.<aspect>.*.md ; rules/check/ structural laws
+├── lib/                   L1.5 · style: STY.default.md · registers/ · <aspect>/TEC.* · patterns/
 ├── world/                 L2 · characters/<id>/ · settings/ · objects/ · secrets/
 ├── storylines/            L3 · README.md (TREE) · SELF/ PAST/ ROM/ THR/ SOL/ FAM/
 │   ├── <ROOT>/<ROOT>.md                       every node is a folder named by its id

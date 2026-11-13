@@ -2,11 +2,13 @@
 id: SPEC.rules-engine
 kind: spec
 status: draft
-updated: 2026-11-10
+updated: 2026-11-13
 sources:
   - "[[de-xuat/kien-truc-framework|content/de-xuat/kien-truc-framework.md §6, §7, §8.2 (10/11)]]"
 ---
 # Rules engine
+
+**Law = rule** `locked 13/11`: a law answers *what may or may not be written*; *how to write* is a style ([library.md](library.md)). `rules/` is the folder, `LAW` the kind, node decrees are laws scoped to a node.
 
 How rules are derived, scoped and combined. Fields: `content/schemas/article.md`, `content/schemas/law.md`.
 
@@ -41,10 +43,22 @@ A lower tier only makes a higher tier concrete; it never contradicts it. To go a
 
 `applies-to` and `except` select targets by: `kind`, `id`, storyline, phase, `pov`, `channel` (`dialogue`, `narration`, `chat`), `register`, who is present, and attributes of present characters. Example: `LAW.under-18` applies to every event with a participant under 18, computed from `world/` identity and `config/calendar.md`.
 
+## Default laws `locked 13/11`
+
+[[LAW.default]] applies to every event (`applies-to: *`), so no event has to be tagged.
+
+| Part | Laws | Override |
+| --- | --- | --- |
+| hard (`tier: cung`) | laws that make an article concrete: disclosure with a purpose (ART.0.1), display blocks (ART.0.2), address (ART.0.3), dialect (ART.0.4), under 18 (ART.0.5), real and fictional names (ART.0.6), pain and coarse speech (ART.0.8), intimacy limits (ART.0.9) | never; storylines and nodes only add |
+| soft (`tier: mem`) | safe defaults: naming emotions outside the hidden part, narrator knows no more than the POV, three levels of swearing | a narrower law with `supersedes` and a reason (e.g. POV Thuyên names emotions by default, `rules/goi-ten-cam-xuc.md`) |
+
+Storylines and nodes add their own laws in their `laws` section (decrees `<node>.R<n>`); every event of the node is under them. Unlike style, falling back to the default laws raises no alert: they hold everywhere.
+
 ## Resolving the laws of a target `proposed 10/11`
 
 For an event (or a scene, a node), the applicable set is:
 
+0. the laws of [[LAW.default]];
 1. every law whose `applies-to` matches and whose `effective` covers the target's phase;
 2. plus the decrees of every ancestor node and of the intersection the event belongs to;
 3. minus laws excluded by a matching `except` (which points to the more specific law that applies instead);

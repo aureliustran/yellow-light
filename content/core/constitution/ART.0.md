@@ -2,7 +2,7 @@
 id: ART.0
 kind: constitution
 status: locked
-updated: 2026-11-10
+updated: 2026-11-13
 axis: none
 aliases: [hiến pháp chương 0, chương nền]
 sources:
@@ -66,3 +66,28 @@ Căn cứ cho các luật không sinh từ một trục: hình thức, khối hi
 - **forbids:** tên thật cho tổ chức làm điều xấu; tên người thật; chi tiết sai về nơi có thật
 - **applies-to:** mọi tình tiết
 - **status:** `locked 10/11`
+
+### ART.0.7 · Người kể và nhân vật POV
+
+- **statement:** Người kể không biết nhiều hơn nhân vật POV; trớ trêu đến từ thứ người đọc đã biết ở chỗ khác (chương trước, POV khác, khung hiện tại).
+- **source:** `rules/registers.md` §2.6 luật 9 (R10, `locked 04/11`), nâng lên cho mọi register (tác giả chốt 13/11 thiết kế luật mặc định)
+- **forbids:** "anh chưa biết rằng…"; người kể bình hoặc sửa nhân vật POV
+- **applies-to:** mọi tình tiết có POV
+- **status:** `proposed 13/11` (câu chữ do Claude soạn, chờ tác giả)
+
+### ART.0.8 · Lời thô và cảnh đau
+
+- **statement:** Lời thô, chửi và cảnh đau phục vụ nhân vật; người kể không lấy nỗi đau, thân thể hay nhóm bản thể của ai làm trò cười.
+- **source:** `rules/registers.md` §4.1 luật 8; `rules/chui-bay-thiet-ke.md` §1, §3 (chốt hướng 01/11)
+- **forbids:** biến cảnh đau thành trò đùa; body shaming từ phía người kể; nhắm vào giới tính, dân tộc, bệnh tật, khuyết tật
+- **applies-to:** mọi tình tiết
+- **status:** `proposed 13/11` (câu chữ do Claude soạn, chờ tác giả)
+
+### ART.0.9 · Cảnh thân mật
+
+- **statement:** Cảnh thân mật được viết gợi, nhưng chỉ giữa người trưởng thành, đồng thuận rõ ràng, tỉnh táo, và cắt cảnh ở ngưỡng quan hệ.
+- **source:** `01-rules-viet.md` Cảnh nóng và fan service, *Giới hạn cứng*; bible §4.2 (`locked 23/10`)
+- **forbids:** mô tả hành vi quan hệ tình dục; quấy rối viết thành fan service; cảnh thân mật khi một bên say
+- **applies-to:** mọi tình tiết có cảnh thân mật
+- **status:** `proposed 13/11` (câu chữ do Claude soạn, chờ tác giả)
+

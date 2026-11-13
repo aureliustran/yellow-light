@@ -1,10 +1,11 @@
 ---
 id: TEC.humor.want-clash
-kind: technique
+kind: style
+grain: move
+force: tuy-chon
 status: proposed
 updated: 2026-11-10
 aspect: humor
-serves: [REG.R1, REG.R2]
 applies-to: "cảnh hai người, ROM GĐ1; mọi POV"
 effective: P1 → P2
 check: human

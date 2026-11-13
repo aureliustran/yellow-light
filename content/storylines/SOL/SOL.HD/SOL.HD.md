@@ -19,7 +19,7 @@ Ba người bạn thân của Nhi, nhóm chat *HĐQT 🎀*. Phản đối Thuyê
 
 Node này giữ cả định nghĩa của hội đồng (trước là nhóm `GRP.hoi-dong-nhi` ở `world/groups/`, bỏ 11/11). Quá khứ của hội đồng ([[PAST.N.HD]]) đọc định nghĩa qua giao điểm [[X-020]].
 
-**Mục:** `identity` · `members` · `weight` · `rules` · `moved` · `gaps`.
+**Mục:** `identity` · `members` · `weight` · `laws` · `moved` · `gaps`.
 
 ## identity
 
@@ -46,7 +46,7 @@ Tên và cá tính `proposed` (tác giả giao Claude đặt, 19/10; đang dùng
 
 Từ ma trận `_archive/tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
 
-## rules
+## laws
 
 ### SOL.HD.R1
 Ba người, không có thành viên nam `locked 19/10`.

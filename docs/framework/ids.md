@@ -59,7 +59,7 @@ Enumerated values have no id: phases (`P1`), levels (`SS+`), statuses (`locked`)
 | --- | --- | --- |
 | core | axis · article | `AX3` · `ART.AX3.1`, `ART.0.4` (kind `scale` dropped 13/11) |
 | rules | law · clause · node decree | `LAW.naming.pov-thuyen` · `LAW.naming.pov-thuyen.C2` · `ROM.TN.R2` |
-| library | register · technique · pattern · beat | `REG.so-cai` (alias `R8`) · `TEC.humor.escalation` · `PAT.anchor-5-step` · `PAT.anchor-5-step.B3` |
+| library | style (bundle · shape · move) · beat · preset | `REG.so-cai` (alias `R8`) · `PAT.anchor-5-step` · `TEC.humor.escalation` · `PAT.anchor-5-step.B3` · `STY.default` |
 | world | character · setting · object · secret · belief · value · function · device | `CH.thuyen` · `SET.phong-kin` · `OBJ-012` · `SEC-003` · `B.thuyen-024` · `V.thuyen-001` · `FN.thuyen.phong-kin` · `DV-007` |
 | storylines | storyline · node · self · goal · event · intersection · intersection event | `ROM` · `ROM.TN` · `SELF.thuyen` · `ROM.TN.G2` · `ROM.TN-014` · `X-005` · `X-005-001` |
 | plans | edition · range plan · blueprint · scene | `ED.v2` · `PLAN.v2.06-10` · `BP.v2.05` · `BP.v2.05.S2` |

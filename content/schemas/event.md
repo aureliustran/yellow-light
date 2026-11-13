@@ -39,7 +39,8 @@ Only what is the event's own, plus explicit deviations from what it inherits.
 | `fuel` · `cost` | fuel (7 kinds, `core/shared-mechanics`) · price paid | from node level `S` up |
 | `changes` | attributes, relations, secrets that change: `SEC-003: +[[CH.thuyen]]` | when any |
 | `causes` | events in other nodes it causes | when any |
-| `register` · `uses` | only when different from the inherited one: `[[REG.…]]` · `[[PAT.…]]`, `[[TEC.…]]` | optional |
+| `register` · `uses` | only when different from the style inherited from the owner node (13/11: the node carries it, the event rarely needs it): `[[REG.…]]` · `[[PAT.…]]`, `[[TEC.…]]` | optional |
+| `phase` | `OPEN` … `POST`, when `date`/`span` does not make it plain; used to read the node's level and style per phase | optional |
 | `override` | `[[LAW.…]]: reason` | optional |
 
 **Loop fields** `locked 13/11`: `values` → `event` (the action) → `outcome` → `reflect` → `belief-out` are one turn of the loop ([[docs/framework/model|model]] *Axis → belief → value*). A PAST event runs the whole turn, because PAST exists to build beliefs. A present-time event needs only `values`; its turn may stay open. They apply to PAST as it is rewritten.
