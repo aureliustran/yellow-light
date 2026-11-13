@@ -11,6 +11,7 @@ applies-to: "*"
 except: "none"
 supersedes: none
 technique: none
+data: "[[STO.khoi-hien-thi]]"
 check: human
 severity: error
 sources:
@@ -22,7 +23,7 @@ Thuộc [[LAW.default]], phần **cứng**: không node nào bỏ được; lu�
 
 ### C1
 
-Tài liệu nhân vật nhìn thấy nguyên văn (tin nhắn, email, văn bản, code, bảng tính, ghi chú tay) viết thành khối riêng theo bảng của `01c-rules-thanh-phan.md`; in nghiêng chỉ dành cho suy nghĩ. ^C1
+Tài liệu nhân vật nhìn thấy nguyên văn (tin nhắn, email, văn bản, code, bảng tính, ghi chú tay) viết thành khối riêng theo kho [[STO.khoi-hien-thi]]; in nghiêng chỉ dành cho suy nghĩ. ^C1
 
 ### C2
 

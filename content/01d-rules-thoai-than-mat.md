@@ -52,24 +52,7 @@ Ký hiệu: `…` hụt hơi, bỏ lửng; `~` kéo dài, lên giọng; `—` b�
 
 ## 3. Cảnh thân mật
 
-Bỏ dòng "viết kín, dừng ở ngưỡng cửa" trong `01-rules-viet.md`. Giới hạn cứng vẫn như mục "Cảnh nóng và fan service": không mô tả hành vi quan hệ, không tả bộ phận sinh dục, chỉ giữa người trưởng thành, tỉnh táo, đồng thuận rõ ràng. Không bao giờ có yếu tố gợi dục với nhân vật dưới 18 tuổi.
-
-1. **Đổi văn phong đúng lúc hết tính toán.** Phần trước vẫn tả cảnh. Đến lúc chạm thì chuyển sang diễn biến cảm xúc: ngoại cảnh gần như biến mất, chỉ còn da, hơi thở, giọng, nhịp tim. Mỗi cảm giác dẫn tới một điều nhân vật hiểu ra. Hết khoảnh khắc thì văn về lại tả cảnh.
-2. **Thoại ít, câu nào cũng vỡ,** ngắt 1–2 lần, có âm thanh. Nghĩa đầy đủ đi qua nội tâm của người nghe.
-3. **Độ ẩm và vị giác bằng chi tiết thật,** không bằng tính từ:
-   - mồ hôi ở chân tóc gáy, thái dương, hõm xương đòn, kẽ ngón tay;
-   - hơi thở đọng trên da;
-   - vị: son còn vị sáp, nước hoa nếm đắng, da không xịt gì thì mặn, nước mắt mặn hơn mồ hôi.
-4. **Lúc hết tính toán, người ta chạm để xác nhận người kia còn ở đó:** mặt, tóc, tay đan đến trắng đốt, trán áp trán, áp tai nghe tim, vết riêng của người kia (sẹo, khuyên tai, nốt ruồi).
-5. **Không gọi tên kỹ thuật trên trang:** không dùng "hậu vị", "gia vị". Mỗi nhịp tối đa một hình ảnh, lấy đồ vật có thật trong phòng.
-6. **Nhân vật vẫn là chính họ:** cứ bốn, năm câu ngắc ngứ phải có một câu chỉ người này nói được. Câu cũ được gọi lại và đổi nghĩa là chỗ nóng nhất.
-7. **POV:**
-   - Chương thường đi một POV, cảm xúc của người kia đến qua tay, hơi thở, âm thanh và lời thì thầm của họ.
-   - Chương đặc biệt (3107) cho phép POV đi theo bàn tay: ai chạm thì người đó kể. Đoạn đỉnh gộp thành "họ".
-8. **Tính cách khi chạm:**
-   - Thuyên nâng niu, cẩn thận, tự ti khi không biết, chỉ thừa nhận lúc yếu nhất.
-   - Diệp Anh dịu dàng, ân cần, không bao giờ được viết là cô "quen".
-   - Nhi (Phần 2) thẳng, nói ra điều mình muốn.
+**Chuyển 13/11.** Điểm 1–7 (đổi văn phong, thoại vỡ, độ ẩm và vị giác, chạm để xác nhận, không gọi tên kỹ thuật, nhân vật vẫn là chính họ, POV) ở [[TEC.intimacy.scene]]; điểm 8 (tính cách khi chạm) ở mục `style` của [[ROM.TN]] và [[ROM.TD]]. Giới hạn cứng: [[LAW.intimacy.limits]], [[LAW.under-18.base]].
 
 ## 4. Chương đặc biệt
 

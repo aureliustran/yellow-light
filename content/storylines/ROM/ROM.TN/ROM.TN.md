@@ -111,7 +111,39 @@ Kế thừa [[ROM]] (R2). Register theo giai đoạn (bảng cũ `rules/register
 
 Kỹ thuật hài rút từ hai cảnh mẫu: [[TEC.humor.want-clash]]. Muốn thử một kỹ thuật hài thì chọn tình tiết ít liên kết cốt truyện; tình tiết nối nhiều tuyến sẽ kéo cảnh ra khỏi phạm vi bài thử (tác giả, 05/11).
 
-## events
+### hài: oan gia, "cuộc chiến vui" `proposed`
+
+`kho/hai-ky-thuat.md` §3.2, §4.1 (nghiên cứu 05/11, tách 13/11). Kỹ thuật chung: [[PAT.humor.beat]], [[PAT.humor.snowball]], [[TEC.humor.volley]]; meme: [[INFO.humor.meme]].
+
+**Tiền đề hài của tuyến (GĐ1):** ở lab anh đủ kỹ năng, nên THR là chính kịch. Ở ROM anh là người thiếu: đọc được cả phòng, không đọc được một người.
+
+**Quan hệ ẩn dụ:** thầy chấm bài và học sinh cãi điểm. Anh có thước, cô có sự thật.
+
+**Máy chạy** (khuôn E2 của KHO, nhìn bằng kỹ thuật hài):
+1. Nhi mở đòn bằng câu khẳng định, không ngẩng lên. **Dựng.**
+2. Thuyên chối bằng cách chứng minh cô sai, đều như đọc đáp án. **Anh nắm vị thế lý.**
+3. Nhi đáp bằng sự thật hoặc hành động, không bằng lý lẽ. **Cô đổi chiến trường.**
+4. Anh tìm phản ví dụ, không tìm được. **Vị thế lật.**
+5. Cô đặt một bẫy tự khai. **Đảo.**
+6. Kết bằng một vật hoặc âm thanh. **Nút chặn.**
+
+**Giọng trong bóng bàn:** Thuyên: chứng minh, số liệu, lập luận ngoại phạm, câu như đọc đáp án. Nhi: khẳng định không dấu hỏi, sự thật trần, đáp bằng hành động.
+
+**Luật của cặp:**
+- **Thiện ý bên dưới:** câu chọc là thính, câu chối là thú nhận.
+- **Thuyên phải được thua,** và thua bằng chính logic của mình.
+- **Leo theo quan hệ:** GĐ1 chơi chữ trong sáng; khi quan hệ chín thì sang câu nước đôi, dùng nó để thăm dò. Khớp chốt 26/10: fan service GĐ2 bạo hơn, Thuyên chọc để thách Nhi skinship (`de-xuat/rm-x11-dem-say.md` §1).
+- **Thành thật bất ngờ** là bản lề tiến quan hệ: một câu thật giữa trận cãi.
+
+### khi chạm, khi bị nhìn `agreed`
+
+Phần riêng của cặp cho [[TEC.intimacy.scene]], [[TEC.intimacy.gaze]], [[TEC.intimacy.fan-service]] (`01d` §3.8, `01-rules-viet.md` *Cảnh nóng và fan service*; chuyển 13/11). Chỉ ở mạch hiện tại, từ tháng 10/2024. `01d` thắng `01-rules-viet` khi mâu thuẫn.
+
+- **Thuyên khi chạm:** nâng niu, cẩn thận, tự ti khi không biết, chỉ thừa nhận lúc yếu nhất. Vụng việc nhỏ, yêu thì ngại. Lần đầu của anh phải vụng, buồn cười, thật (vướng cúc áo, đụng đầu vào thành giường, cười phá lên giữa chừng), tất cả nằm ở phần trước ngưỡng. Anh để ý người kia nhiều hơn để ý mình, kể cả lúc này.
+- **Nhi khi chạm** (Phần 2): thẳng, nói ra điều mình muốn; gọi tên được cảm giác của mình.
+- **Nhi khi bắt quả tang anh nhìn:** nói thẳng ("Anh nhìn gì đấy?"), thẳng hơn mọi người khác.
+- **Nhi nhìn anh** (female gaze): nói thẳng ra một nửa, phần còn lại ngượng trong interlude.
+- **Fan service của cặp:** slow burn; GĐ2 bạo hơn, Thuyên chọc để thách Nhi skinship (chốt 26/10).
 
 Bảng sinh tay tạm, cho tới khi `canon:check` sinh từ các lá. Mã `TN-?` cũ: số lá đặt theo thứ tự chuyển, sẽ đánh lại theo ngày khi chuyển BRIEF.
 

@@ -17,7 +17,7 @@ sources:
 
 Mục của R1 trong thư viện (kind `style`, loại `bundle`). Luật đầy đủ, ma trận và luật chuyển vẫn ở `rules/registers.md` (§1) cho tới khi tách hết; file này chép dòng R1 của bảng register §1 để tuyến, node và event trỏ tới bằng mã.
 
-**Kỹ thuật hay dùng** (tùy chọn, chưa duyệt nên không ghi vào `uses`): [[TEC.humor.want-clash]].
+**Kỹ thuật hay dùng** (tùy chọn, chưa duyệt nên không ghi vào `uses`): [[TEC.humor.want-clash]]; kỹ thuật hài tách 13/11: [[TEC.humor.lenses]], [[TEC.humor.twist]], [[TEC.humor.reaction]], [[TEC.humor.heighten]], [[TEC.humor.volley]], [[TEC.humor.button]], [[TEC.humor.callback]]; khuôn [[PAT.humor.beat]], [[PAT.humor.game]], [[PAT.humor.snowball]]. Vật liệu thật (meme): [[INFO.humor]].
 
 ## markers
 

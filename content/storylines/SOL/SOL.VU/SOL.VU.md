@@ -18,7 +18,7 @@ sources:
 
 Cột rổ, "Thích thì nói mẹ nó đi", "Mày đang lùi đấy à?", rạn nứt, sáng sớm làm lành. Thiết kế lại Vũ `locked 30/10` (buổi thảo luận QK); thẻ nhân vật ở gói [[CH.vu]] (ngoại hình, nguồn gốc, lõi *yêu bằng hành động*, cách đối xử với Thuyên, trao đổi), niềm tin ở [[CH.vu.beliefs]], hàm [[FN.vu.thuong-bang-hanh-dong]], [[FN.vu.lat]]. Node không chép lại thẻ.
 
-**Mục:** `weight` · `events` · `lines` · `handoffs` · `gaps`. Chuyển từ `_archive/tuyen/sl/vu.md` (T5, 10/11).
+**Mục:** `weight` · `style` · `events` · `lines` · `handoffs` · `gaps`. Chuyển từ `_archive/tuyen/sl/vu.md` (T5, 10/11).
 
 ## weight
 
@@ -27,6 +27,29 @@ Cột rổ, "Thích thì nói mẹ nó đi", "Mày đang lùi đấy à?", rạn
 | B | A | S | C | S |  |
 
 Từ ma trận `_archive/tuyen/README.md` §4. Dấu `†`: mức tác giả đặt (25/10); ô không có `†`: Claude gán, chốt 26/10 (Q-028). Cột POST (hậu sân bay) `pending` tới khi "Phần" được định nghĩa (Q-043). Bảng được kiểm bằng `LAW.check.level-parent` (node con không vượt mức cha).
+
+## style
+
+Kế thừa [[SOL]] (R1). Cách hai người làm hài với nhau (`kho/hai-ky-thuat.md` §3.1, nghiên cứu 05/11, tách 13/11; `proposed`). Kỹ thuật chung: [[PAT.humor.game]], [[TEC.humor.volley]], [[TEC.humor.reaction]]; meme: [[INFO.humor.meme]].
+
+**Chửi thương, song tấu đổi vai.** Quan hệ ẩn dụ: hai ông già cãi nhau ở quán nước, hoặc vợ chồng già; mỗi người nhìn người kia qua lăng kính ấy.
+
+| Chiến trường | Người gây chuyện | Người nhìn | Ai thắng |
+| --- | --- | --- | --- |
+| Sân bóng | Thuyên (meme, khiêu khích) | Vũ (chửi bằng hình ảnh, tố với khán giả) | Thuyên thắng bóng, Vũ thắng câu chửi |
+| Quần áo, cái tôi bề ngoài | Vũ (áo hoa) rồi Thuyên (cổ áo) | Đổi lượt | Mỗi người thắng một lượt |
+| Tình cảm | Thuyên (tự lừa mình) | Vũ (người duy nhất nói thẳng) | Vũ thắng lý, Thuyên vẫn không làm |
+
+**Máy chạy:**
+1. Vũ hạ Thuyên bằng một hình ảnh lệch từ đời sống của Vũ ("Mặt mày như tờ A4 đi ký hợp đồng"). Leo theo ba mức của [[LAW.swearing.levels]] (`rules/chui-bay-thiet-ke.md`).
+2. Thuyên đáp lạnh, chính xác, kèm mỉa. Không đáp bằng độ dày của chữ tục.
+3. **Hành động đi ngược lời chửi:** gật đầu duyệt, mua áo, bao bữa. Đây là chỗ lành của vi phạm ([[TEC.humor.lenses]] S2).
+
+**Giọng trong bóng bàn:** Thuyên: chứng minh, số liệu, lập luận ngoại phạm, câu như đọc đáp án. Vũ: hình ảnh từ đời sống, chửi thương, giọng Hà Tĩnh ([[LAW.dialect.ha-tinh]]).
+
+**Trò chạy dài đã có:** "Biết hết mà vẫn thua" (ch.9, ch.23); "idol" (ch.1 → ch.34); "bàn là của mẹ tao".
+
+**Ranh:** Vũ không lấy thân hình làm trò cười trên trang (thẻ Vũ). Vũ biết sự việc, không biết bên trong. Câu chửi không chạm cái gối, những đêm khóc (TB-1, TB-7).
 
 ## events
 

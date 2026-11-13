@@ -11,6 +11,7 @@ applies-to: "*"
 except: "none"
 supersedes: none
 technique: none
+data: "[[STO.xung-ho]]"
 check: human
 severity: error
 sources:
@@ -22,8 +23,8 @@ Thuộc [[LAW.default]], phần **cứng**: không node nào bỏ được; lu�
 
 ### C1
 
-Xưng hô theo quan hệ giữa hai người ở thời điểm của cảnh. Bảng hiện hành ở `01-rules-viet.md` *Xưng hô*; khi chuyển xong, đọc từ mục `relation` của node, luật không chép lại. ^C1
+Xưng hô theo quan hệ giữa hai người ở thời điểm của cảnh. Bảng ở kho [[STO.xung-ho]] (dòng quan hệ); khi mục `relation` của node có xưng hô theo giai đoạn thì node đọc trước, kho là mặc định. Luật không chép lại bảng. ^C1
 
 ### C2
 
-Người kể gọi nhân vật theo cách nhân vật POV gọi trong đầu, và đổi khi người ấy đổi. ^C2
+Người kể gọi nhân vật theo cách nhân vật POV gọi trong đầu, và đổi khi người ấy đổi; các mốc đổi ở [[STO.xung-ho]] (dòng `kể:`). ^C2

@@ -46,3 +46,12 @@ Tác giả, 05/11: cảnh này **chứa nhiều tầng ý nghĩa hơn một tìn
 - **Đếm:** Thuyên đã sửa *3/3* thành *2/3*; câu "cả ba lần" vẫn đúng vì bài giữa có bà ngoại. Phương án thêm của Claude, chưa duyệt: Thuyên tự đính chính "Và bà ngoại em."
 - **Luật Nhi "gọi tên cảm xúc, sai lý do":** ở đây cô đọc đúng hành vi của anh. Giữ như vậy, hay cho cô quy cái đổi ấy cho Phong.
 - Đây là lần ghép thứ mấy trên đường tới *Mixue*.
+
+<!-- SINH -->
+## resolved (SINH)
+
+Sinh bởi `npm run canon:check`; không sửa tay. Mới có `register` và `info` (13/11).
+
+- **register:** [[REG.doi-thuong]], [[REG.lang-man]] (khai ở tình tiết)
+- **info gợi ý:** [[INFO.humor.meme#sigma]] · [[INFO.humor.meme#kid]] · [[INFO.humor.meme#ragebait]] · [[INFO.humor.meme#gg-ez]] · [[INFO.humor.meme#skill-issue]] · [[INFO.humor.meme#idol]] (hợp register; hợp valid ở 2024-10-28 → 2025-03-31; người tham gia biết)
+<!-- /SINH -->

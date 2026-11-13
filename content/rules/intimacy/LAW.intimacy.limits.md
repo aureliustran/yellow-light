@@ -10,7 +10,7 @@ effective: "OPEN → POST"
 applies-to: "mọi tình tiết có cảnh thân mật"
 except: "none"
 supersedes: none
-technique: none
+technique: ["[[TEC.intimacy.scene]]", "[[TEC.intimacy.fan-service]]", "[[TEC.intimacy.gaze]]"]
 check: human
 severity: error
 sources:
@@ -36,3 +36,5 @@ Không từ thô tục khi tả cơ thể, không tả bộ phận sinh dục. ^
 ### C4
 
 Chỉ giữa người trưởng thành. ^C4
+
+Cách viết trong giới hạn này (style, không phải luật): [[TEC.intimacy.scene]], [[TEC.intimacy.fan-service]], [[TEC.intimacy.gaze]]; register [[REG.lang-man]], [[REG.than-mat]].

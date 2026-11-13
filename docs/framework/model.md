@@ -2,7 +2,7 @@
 id: SPEC.model
 kind: spec
 status: draft
-updated: 2026-11-10
+updated: 2026-11-13
 sources:
   - "[[de-xuat/kien-truc-framework|content/de-xuat/kien-truc-framework.md §0, §2, §4, §5, §8.1]]"
 ---
@@ -18,7 +18,9 @@ How entities fit together. Fields of each kind are defined in its schema under `
 | L1 core | `core/` | axes `AX`, shared mechanics, the constitution `ART` | L0 |
 | L1.5 rules | `rules/` | laws `LAW` | L0, L1 |
 | L1.5 library | `lib/` | style: registers `REG`, patterns `PAT`, techniques `TEC`; preset `STY.default` | L0, L1, rules |
+| L1.5 storage | `storage/` | stores `STO`: lists and tables that laws and styles read (`data`) `locked 13/11` | L0, L1, rules |
 | L2 world (static) | `world/` | characters, settings, objects, secrets, beliefs, value systems, functions | L0–L1.5 |
+| L2 info (static) | `info/<domain>/` | real-world knowledge `INFO` (memes, economics), dated against the story calendar `locked 13/11` | L0–L1.5, characters |
 | L3 storylines (dynamic) | `storylines/` | storylines, nodes, goals, events, intersections | L0–L2 |
 | L4 plans | `plans/` | editions, chapter blueprints, scenes | L0–L3 |
 | Output | `posts/` | published chapters, cross-posts | nothing (text only) |
@@ -38,6 +40,8 @@ One line per kind; the schema is the source of truth. Ids follow [ids.md](ids.md
 | law | `LAW.<aspect>.<scope>` | file | `schemas/law.md` |
 | style (`grain` bundle · shape · move) | `REG.<name>` · `PAT.<name>` · `TEC.<aspect>.<name>` | file | `schemas/style.md` |
 | preset | `STY.default` · `LAW.default` | file | `schemas/preset.md` |
+| store | `STO.<name>` | file in `storage/`, one row per entry | `schemas/store.md` |
+| info (node · leaf · item) | `INFO.<domain>` · `INFO.<domain>.<topic>` · `INFO.<domain>.<topic>.<item>` | file in `info/<domain>/`; items inline (`### <item>`) | `schemas/info.md` |
 | character | `CH.<name>` | package folder | `schemas/character.md` |
 | setting | `SET.<name>` | file | `schemas/setting.md` |
 | object | `OBJ-NNN` | file or inline | `schemas/object.md` |

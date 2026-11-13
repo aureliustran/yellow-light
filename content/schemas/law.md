@@ -29,6 +29,7 @@ applies-to  pov = CH.thuyen · channel = narration
 except      PAST.T × span-1 → [[LAW.naming.past-t-span1]] · concealed part → [[LAW.conceal]]
 supersedes  [[LAW.naming.legacy]]
 technique   [[TEC.naming.transform]]
+data        [[STO.ha-tinh]]
 tier        cung | mem
 check       human
 severity    error
@@ -48,6 +49,7 @@ Body: the clauses (Vietnamese), one heading per clause with block id `^C<n>`.
 | `except` | selector → the more specific law that applies instead |
 | `supersedes` | the law it replaces |
 | `technique` | styles in `lib/` that help achieve it (optional); a law never contains technique |
+| `data` | the store(s) it reads its list from (`[[STO.…]]`, [schema](store.md)); the law states the rule, the store holds the rows (13/11). Optional; must point to a store (`LAW.check.store`) |
 | `check` | `machine` (run by `canon:check`) or `human` |
 | `severity` | `error` · `warn` · `info` |
 
@@ -56,5 +58,5 @@ Body: the clauses (Vietnamese), one heading per clause with block id `^C<n>`.
 1. One law, one aspect.
 2. Same aspect with overlapping scope needs `except`, `supersedes` or a more specific scope; otherwise error (`LAW.check.overlap`).
 3. No technique inside a law; how to write belongs to a style. A law may point to styles that help (`technique`); styles no longer have to serve a law (13/11).
-4. No story facts inside a law; read attributes from `world/`.
+4. No story facts inside a law; read attributes from `world/`, and lists (words, names, tables) from a store via `data`.
 5. Every law has a `basis` (`LAW.check.basis`).

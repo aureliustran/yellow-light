@@ -2,7 +2,7 @@
 id: GUIDE.main
 kind: guide
 status: draft
-updated: 2026-11-10
+updated: 2026-11-13
 sources:
   - "[[quy-trinh|content/quy-trinh.md]]"
   - "content/README.md"
@@ -62,7 +62,7 @@ Most of the story still lives in old files. Until a folder exists in its new for
 | Anything else with no folder yet (blueprint, law, technique, register) | a file in `content/de-xuat/`: a blueprint as `de-xuat/BP.<edition>.<nn>.md` with the blueprint schema's header and sections (fields that point to entities that do not exist yet, like `edition: [[ED.v2]]`, are written as plain text: `edition: v2`) |
 | Referring to events that have no id yet | node code + old row id or a short description (`RM.TN · "Nhi hỏi anh ở summit"`) |
 | Registers | `R0`–`R10` as `lib/registers/REG.*` (aliases); full rules still in `content/rules/registers.md` |
-| Laws | old sources: `content/01-rules-viet.md`, `content/01c-rules-thanh-phan.md`, `content/rules/` |
+| Laws | old sources: `content/01-rules-viet.md`, `content/01c-rules-thanh-phan.md`, `content/rules/`; lists they read: `content/storage/` (`STO.*`, 13/11) |
 | Checks marked `planned` in `docs/framework/tooling.md` | not run by `canon:check` yet: do them by reading, and say so in your report. No resolved blocks or write-kits are generated yet |
 | Proposals | `content/de-xuat/<descriptive-name>.md`; frontmatter `kind: proposal` with `id: PROP-NNN` (next free number: grep `PROP-`) |
 

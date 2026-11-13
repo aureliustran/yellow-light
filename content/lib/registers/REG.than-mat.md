@@ -8,7 +8,7 @@ force: tuy-chon
 aliases: [R3, "Thân mật", "R3 Thân mật"]
 applies-to: "chọn qua mục style của tuyến, node hoặc event"
 effective: "OPEN → AFTER"
-uses: []
+uses: ["[[TEC.intimacy.scene]]", "[[TEC.intimacy.gaze]]"]
 forbids: []
 sources:
   - "[[rules/registers|rules/registers.md §1]]"

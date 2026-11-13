@@ -19,7 +19,7 @@ const CONTENT = path.join(ROOT, 'content');
 
 // ---------- cấu hình ----------
 // Thư mục đã chuyển sang khuôn mới: lỗi là error. Ngoài danh sách này (legacy) chỉ là warn.
-const MIGRATED = ['config', 'schemas', 'guidelines', 'docs', 'world', 'core', 'storylines'];
+const MIGRATED = ['config', 'schemas', 'guidelines', 'docs', 'world', 'core', 'storylines', 'storage', 'info'];
 const MIGRATED_FILES = ['GUIDELINES.md'];
 // Không quét, hoặc không sinh cạnh.
 const SKIP_DIRS = new Set(['.obsidian', '_views', '_archive', 'node_modules', '.git']);
@@ -446,6 +446,142 @@ law('LAW.check.level-parent', () => {
   }
 });
 
+
+// ---------- storage (13/11) ----------
+law('LAW.check.store', () => {
+  // kho: bảng entries có header đúng columns, khóa không trùng; law.data phải trỏ tới store
+  for (const it of items) {
+    if (it.props.kind !== 'store') continue;
+    if (it.base !== it.props.id) add('LAW.check.store', 'error', it, 1, `tên file "${it.base}" khác id "${it.props.id}"`);
+    if (!/^STO\.[a-z0-9-]+$/.test(it.props.id || '')) add('LAW.check.store', 'error', it, 1, `id "${it.props.id}" sai khuôn STO.<tên>`);
+    const cols = listProp(it.props.columns);
+    const lines = it.body.split(/\r?\n/);
+    const h = lines.findIndex((l) => /^##\s+entries\s*$/.test(l));
+    if (h < 0) { add('LAW.check.store', 'error', it, 1, 'thiếu mục `## entries`'); continue; }
+    const cells = (l) => l.replace(/\\\|/g, '\u0000').replace(/^\s*\|/, '').replace(/\|\s*$/, '').split('|').map((c) => c.replace(/\u0000/g, '|').trim());
+    const start = lines.findIndex((l, i) => i > h && /^\s*\|/.test(l));
+    if (start < 0) { add('LAW.check.store', 'error', it, it.bodyStart + h + 1, 'entries không có bảng'); continue; }
+    const head = cells(lines[start]);
+    if (head.join('|') !== cols.join('|')) add('LAW.check.store', 'error', it, it.bodyStart + start + 1, `header bảng (${head.join(', ')}) khác columns (${cols.join(', ')})`);
+    const ki = head.indexOf(it.props.key);
+    if (ki < 0) add('LAW.check.store', 'error', it, 1, `key "${it.props.key}" không phải một cột`);
+    const keys = new Map();
+    for (let i = start + 2; i < lines.length && /^\s*\|/.test(lines[i]); i++) {
+      const c = cells(lines[i]);
+      if (c.length !== head.length) add('LAW.check.store', 'error', it, it.bodyStart + i + 1, `dòng có ${c.length} ô, bảng có ${head.length} cột`);
+      if (ki >= 0) {
+        const k = c[ki];
+        if (!k) add('LAW.check.store', 'error', it, it.bodyStart + i + 1, 'dòng thiếu khóa');
+        else if (keys.has(k)) add('LAW.check.store', 'error', it, it.bodyStart + i + 1, `khóa "${k}" trùng dòng ${keys.get(k)}`);
+        else keys.set(k, it.bodyStart + i + 1);
+      }
+    }
+  }
+  for (const it of items) {
+    if (!it.props.data || it.props.data === 'none') continue;
+    for (const m of it.props.data.matchAll(LINK_RE)) {
+      const p = parseLinkTarget(m[1]);
+      const t = p && resolve(p.target)[0];
+      if (!t || t.props.kind !== 'store') add('LAW.check.store', sev(it), it, 1, `data: [[${p ? p.target : m[1]}]] không phải kho (kind store) có thật`);
+    }
+  }
+});
+
+// ---------- info (13/11) ----------
+// Khoảng thời gian: [start, end] tính bằng ngày UTC (ms). Lịch truyện 2024–2025, config/calendar.md, config/phases.md.
+const PHASE_SPAN = { OPEN: ['2024-10-01', '2024-10-27'], P1: ['2024-10-28', '2025-03-31'], P2: ['2025-04-01', '2025-07-17'], BREAK: ['2025-07-18', '2025-07-18'], AFTER: ['2025-07-19', '2025-12-31'] };
+const dayMs = (y, m = 1, d = 1) => Date.UTC(y, m - 1, d);
+function tokenSpan(tok) {
+  // YYYY | YYYY-MM | YYYY-MM-DD → [đầu, cuối]
+  const m = tok.match(/^(\d{4})(?:-(\d{1,2}))?(?:-(\d{1,2}))?$/);
+  if (!m) return null;
+  const y = +m[1], mo = m[2] ? +m[2] : null, d = m[3] ? +m[3] : null;
+  if (d) return [dayMs(y, mo, d), dayMs(y, mo, d)];
+  if (mo) return [dayMs(y, mo, 1), dayMs(y, mo + 1, 1) - 864e5];
+  return [dayMs(y, 1, 1), dayMs(y, 12, 31)];
+}
+const phaseSpan = (ph) => (PHASE_SPAN[ph] ? [tokenSpan(PHASE_SPAN[ph][0])[0], tokenSpan(PHASE_SPAN[ph][1])[1]] : null);
+function eventSpan(ev) {
+  if (ev.props.date) { const t = tokenSpan(ev.props.date.replace(/"/g, '').trim()); if (t) return { span: t, from: 'date' }; }
+  const raw = (ev.props.span || '').replace(/"/g, '');
+  const pts = [];
+  for (const m of raw.matchAll(/(20\d{2})\s*[–-]\s*(\d{2})(?!\d)/g)) { pts.push(...tokenSpan(m[1])); pts.push(...tokenSpan('20' + m[2])); }
+  const noRange = raw.replace(/(20\d{2})\s*[–-]\s*(\d{2})(?!\d)/g, ' ');
+  for (const m of noRange.matchAll(/(?:(\d{1,2})\s*[–-]\s*)?(?:(\d{1,2})\/)?(?:(\d{1,2})\/)?(20\d{2})/g)) {
+    const [, , a, b, y] = m;
+    const tok = b ? `${y}-${b}-${a}` : a ? `${y}-${a}` : y;
+    const t = tokenSpan(tok);
+    if (t) pts.push(...t);
+  }
+  if (pts.length) return { span: [Math.min(...pts), Math.max(...pts)], from: 'span' };
+  const ph = PHASES.includes(ev.props.phase) ? ev.props.phase : /GĐ1/.test(raw) ? 'P1' : /GĐ2/.test(raw) ? 'P2' : null;
+  if (ph && phaseSpan(ph)) return { span: phaseSpan(ph), from: ph };
+  return null;
+}
+const fmtDay = (ms) => new Date(ms).toISOString().slice(0, 10);
+function infoItems() {
+  // INFO.<domain>.<topic>#<item> → {leaf, name, fields, line, valid}
+  const out = new Map();
+  for (const it of items) {
+    if (it.props.kind !== 'info' || it.props.level !== 'leaf') continue;
+    const lines = it.body.split(/\r?\n/);
+    lines.forEach((l, i) => {
+      const h = l.match(/^###\s+([a-z0-9-]+)\s*$/);
+      if (!h) return;
+      const fields = {};
+      for (let j = i + 1; j < lines.length && !/^#{2,3}\s/.test(lines[j]); j++) {
+        const f = lines[j].match(/^- \*\*([a-z-]+):\*\*\s*(.*)$/);
+        if (f) fields[f[1]] = f[2];
+      }
+      let valid = null;
+      if (fields.valid) {
+        const vm = fields.valid.match(/^(\d{4}(?:-\d{1,2}){0,2})\s*→\s*(nay|\d{4}(?:-\d{1,2}){0,2})/);
+        if (vm) valid = [tokenSpan(vm[1])[0], vm[2] === 'nay' ? Infinity : tokenSpan(vm[2])[1]];
+      }
+      const knownBy = new Set([...(fields['known-by'] || '').matchAll(LINK_RE)].map((m) => parseLinkTarget(m[1])?.target).filter(Boolean));
+      out.set(`${it.props.id}#${h[1]}`, { leaf: it, name: h[1], fields, line: it.bodyStart + i + 1, valid, knownBy });
+    });
+  }
+  return out;
+}
+const INFO_ITEMS = infoItems();
+
+law('LAW.check.info-valid', () => {
+  // cấu trúc info (lỗi); tình tiết dùng mục info ngoài khoảng valid (cảnh báo: chỉ cảnh báo lúc viết, không xóa)
+  for (const it of items) {
+    if (it.props.kind !== 'info') continue;
+    if (it.base !== it.props.id) add('LAW.check.info-valid', 'error', it, 1, `tên file "${it.base}" khác id "${it.props.id}"`);
+    if (it.props.level === 'leaf') {
+      if (!/\[\[INFO\.[a-z0-9-]+\]\]/.test(it.props.parent || '')) add('LAW.check.info-valid', 'error', it, 1, 'lá info thiếu parent [[INFO.<domain>]]');
+      const declared = listProp(it.props.items);
+      const found = [...INFO_ITEMS.values()].filter((x) => x.leaf === it).map((x) => x.name);
+      if (declared.join('|') !== found.join('|')) add('LAW.check.info-valid', 'error', it, 1, `items (${declared.join(', ')}) khác các mục ### (${found.join(', ')})`);
+    } else if (it.props.level !== 'node') add('LAW.check.info-valid', 'error', it, 1, `level "${it.props.level}" không hợp lệ (node | leaf)`);
+  }
+  for (const x of INFO_ITEMS.values()) {
+    for (const f of ['fact', 'valid', 'known-by', 'sources']) if (!x.fields[f]) add('LAW.check.info-valid', 'error', x.leaf, x.line, `${x.name}: thiếu \`${f}\``);
+    if (x.fields.valid && !x.valid) add('LAW.check.info-valid', 'error', x.leaf, x.line, `${x.name}: valid "${x.fields.valid}" sai khuôn YYYY[-MM] → YYYY[-MM] | nay`);
+  }
+  for (const ev of items) {
+    if (ev.props.kind !== 'event' || !ev.props.info || ev.props.info === 'none') continue;
+    const es = eventSpan(ev);
+    for (const m of ev.props.info.matchAll(LINK_RE)) {
+      const p = parseLinkTarget(m[1]);
+      if (!p) continue;
+      const leaf = resolve(p.target)[0];
+      if (!leaf || leaf.props.kind !== 'info') { add('LAW.check.info-valid', 'error', ev, 1, `info: [[${p.target}]] không phải info có thật`); continue; }
+      if (!p.heading) continue;
+      const x = INFO_ITEMS.get(`${leaf.props.id}#${p.heading}`);
+      if (!x) { add('LAW.check.info-valid', 'error', ev, 1, `info: ${leaf.props.id} không có mục "${p.heading}"`); continue; }
+      if (!es || !x.valid) continue;
+      const [a, b] = es.span, [vs, ve] = x.valid;
+      const when = `${fmtDay(a)} → ${fmtDay(b)} (${es.from})`;
+      if (b < vs || a > ve) add('LAW.check.info-valid', 'warn', ev, 1, `${x.name}: cảnh ở ${when}, ngoài valid ${x.fields.valid}; chỉ cảnh báo lúc viết, không xóa`);
+      else if (a < vs || b > ve) add('LAW.check.info-valid', 'info', ev, 1, `${x.name}: cảnh ở ${when}, một phần ngoài valid ${x.fields.valid}`);
+    }
+  }
+});
+
 function parseWeight(raw) {
   const out = {};
   if (!raw) return out;
@@ -485,7 +621,7 @@ const LAYERS = {
   docs: 'spec', guidelines: 'spec',
   config: 'foundation', schemas: 'foundation', core: 'core', rules: 'rules', lib: 'lib', world: 'world',
   storylines: 'storylines', plans: 'plans', canon: 'canon', proposals: 'proposals', 'de-xuat': 'proposals',
-  audits: 'audits', assets: 'assets', kho: 'assets', tuyen: 'storylines',
+  audits: 'audits', assets: 'assets', kho: 'assets', tuyen: 'storylines', storage: 'rules', info: 'world',
 };
 const LAYERS_POSTS = { vercel: 'posts-vercel', legacy: 'posts-legacy' };
 function buildGraph() {
@@ -522,7 +658,78 @@ function writeGraph() {
   return g;
 }
 
+
+// ---------- khối SINH của tình tiết (13/11: register + gợi ý info) ----------
+function resolvedRegister(ev) {
+  // trả {regs: [id REG], from}
+  const toRegs = (txt) => {
+    const out = [];
+    for (const m of (txt || '').matchAll(/\b(R\d{1,2})\b|\[\[(REG\.[a-z0-9-]+)\]\]|\b(REG\.[a-z0-9-]+)\b/g)) {
+      const hit = resolve(m[1] || m[2] || m[3])[0];
+      if (hit && hit.props.kind === 'style' && hit.props.grain === 'bundle' && !out.includes(hit.props.id)) out.push(hit.props.id);
+    }
+    return out;
+  };
+  if (ev.props.register && ev.props.register !== 'none') { const r = toRegs(ev.props.register); if (r.length) return { regs: r, from: 'khai ở tình tiết' }; }
+  const ph = PHASES.includes(ev.props.phase) ? ev.props.phase : null;
+  const parentOf = (it) => { const l = ((it.props.parent || '').match(LINK_RE) || [])[0]; return l ? resolve(parseLinkTarget(l.slice(2, -2)).target)[0] : null; };
+  let cur = parentOf(ev), guard = 0;
+  while (cur && guard++ < 20) {
+    const map = {};
+    for (const m of (cur.props.style || '').matchAll(/(default|OPEN|P1|P2|BREAK|AFTER|POST)\s*:\s*([A-Za-z0-9.+-]+)/g)) map[m[1]] = m[2];
+    const pick = (ph && map[ph]) || map.default;
+    if (pick) { const r = toRegs(pick); if (r.length) return { regs: r, from: `style của ${cur.id}` }; }
+    if (cur.id === 'TREE') break;
+    cur = parentOf(cur);
+  }
+  return { regs: ['REG.default'], from: 'STY.default (R0)' };
+}
+function participantsOf(ev) {
+  const ids = (it) => [...(it.props.participants || '').matchAll(LINK_RE)].map((m) => parseLinkTarget(m[1])?.target).filter(Boolean);
+  let p = ids(ev);
+  if (p.length) return p;
+  const l = ((ev.props.parent || '').match(LINK_RE) || [])[0];
+  const owner = l && resolve(parseLinkTarget(l.slice(2, -2)).target)[0];
+  return owner ? ids(owner) : [];
+}
+function writeResolvedBlocks() {
+  const nodes = items.filter((it) => it.props.kind === 'info' && it.props.level === 'node');
+  const styleOf = new Map(nodes.map((n) => [n.props.id, new Set([...(n.props.style || '').matchAll(LINK_RE)].map((m) => resolve(parseLinkTarget(m[1]).target)[0]?.props.id).filter(Boolean))]));
+  let written = 0;
+  for (const ev of items) {
+    if (ev.props.kind !== 'event') continue;
+    const reg = resolvedRegister(ev);
+    const es = eventSpan(ev);
+    const people = participantsOf(ev);
+    const declared = new Set([...(ev.props.info || '').matchAll(LINK_RE)].map((m) => { const p = parseLinkTarget(m[1]); return p && `${p.target}#${p.heading}`; }));
+    const sug = [];
+    for (const [key, x] of INFO_ITEMS) {
+      const node = (x.leaf.props.parent || '').match(/INFO\.[a-z0-9-]+/);
+      const st = node && styleOf.get(node[0]);
+      if (!st || !reg.regs.some((r) => st.has(r))) continue;
+      if (declared.has(key)) continue;
+      if (es && x.valid && (es.span[0] < x.valid[0] || es.span[1] > x.valid[1])) continue;
+      if (!people.some((p) => x.knownBy.has(p))) continue;
+      sug.push(key);
+    }
+    const has = /<!-- SINH -->[\s\S]*?<!-- \/SINH -->/.test(ev.text);
+    if (!sug.length && !has) continue;
+    const block = [
+      '<!-- SINH -->', '## resolved (SINH)', '',
+      'Sinh bởi `npm run canon:check`; không sửa tay. Mới có `register` và `info` (13/11).', '',
+      `- **register:** ${reg.regs.map((r) => `[[${r}]]`).join(', ')} (${reg.from})`,
+      `- **info gợi ý:** ${sug.length ? sug.map((k) => `[[${k}]]`).join(' · ') : 'none'}${sug.length ? ` (hợp register; ${es ? `hợp valid ở ${fmtDay(es.span[0])} → ${fmtDay(es.span[1])}` : 'chưa rõ ngày'}; người tham gia biết)` : ''}`,
+      '<!-- /SINH -->',
+    ].join('\n');
+    const next = has ? ev.text.replace(/<!-- SINH -->[\s\S]*?<!-- \/SINH -->/, block) : ev.text.replace(/\s*$/, '\n\n' + block + '\n');
+    if (next !== ev.text) { fs.writeFileSync(ev.abs, next); written++; }
+  }
+  return written;
+}
+
 if (WRITE && !ONLY_LAW && !ONLY_TARGET) {
+  const nb = writeResolvedBlocks();
+  if (nb) console.log(`khối SINH: ghi ${nb} tình tiết`);
   writeSymbols();
   const g = writeGraph();
   console.log(`views: symbols.md · _views/graph.json (${g.nodes.length} nút, ${g.edges.length} cạnh) · _views/graph.html`);

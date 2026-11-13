@@ -11,6 +11,7 @@ applies-to: "*"
 except: "none"
 supersedes: none
 technique: none
+data: "[[STO.ten-rieng]]"
 check: human
 severity: error
 sources:
@@ -31,3 +32,5 @@ Tổ chức làm điều xấu hay gây tranh cãi dùng tên hư cấu. ^C2
 ### C3
 
 Không dùng tên người thật; nhân vật trong nơi có thật vẫn là hư cấu. ^C3
+
+Danh sách tên đã xếp loại: [[STO.ten-rieng]]. Tên mới chưa có trong kho thì xếp theo C1, C2 rồi thêm dòng vào kho.

@@ -2,7 +2,7 @@
 id: GUIDE.placement
 kind: guide
 status: draft
-updated: 2026-11-10
+updated: 2026-11-13
 sources:
   - "[[docs/framework/model|docs/framework/model.md]]"
   - "ids.md"
@@ -24,6 +24,8 @@ Ask the questions in order; the first "yes" decides. Ids: `docs/framework/ids.md
 | 8 | how to write: a method (style `move`) | `lib/<aspect>/` | `TEC.<aspect>.<name>` |
 | 9 | how to write: the shape of a beat or scene (style `shape`) | `lib/patterns/` | `PAT.<name>` |
 | 9a | the style or laws every event of a storyline or node shares | the node's `style` and `laws` sections; defaults [[STY.default]], [[LAW.default]] | — |
+| 9b | a list or table a law or style reads (words, names, display blocks, address forms) | `storage/` | `STO.<name>` |
+| 9c | real-world knowledge the story uses (a meme, a price, a fact about the world and since when) | `info/<domain>/` | `INFO.<domain>`, `INFO.<domain>.<topic>` |
 | 10 | what a character *is* (identity, purpose, attribute and its value set, base voice) | the character package | `CH.<id>`, sections |
 | 11 | how a character *works* (a mechanism with triggers) | `mechanics/` in the package | `FN.<id>.<name>` |
 | 12 | a belief a character holds (a claim; can be false; used inward) | `beliefs/B.<id>-NNN.md` (index `CH.<id>.beliefs.md`) | `B.<id>-NNN` |

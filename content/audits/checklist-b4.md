@@ -1,6 +1,6 @@
 # Checklist B4: chuyển tuyến sang khung mới
 
-Cập nhật 13/11/2026. `[x]` đã giải quyết (cách giải quyết, commit); `[ ]` còn mở (ai quyết). Commit ghi 7 ký tự đầu; chưa push.
+Cập nhật 13/11/2026 (chiều: storage, info). `[x]` đã giải quyết (cách giải quyết, commit); `[ ]` còn mở (ai quyết). Commit ghi 7 ký tự đầu; chưa push.
 
 ## A. Đã giải quyết
 
@@ -68,6 +68,12 @@ Cập nhật 13/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 - [x] **Tách belief và value thành file riêng** (13/11): mỗi niềm tin một file `world/characters/<id>/beliefs/B.<id>-NNN.md` (36 niềm tin: Thuyên 29, Nhi 6, Vũ 1, trừ năm số đã gộp hoặc chuyển), mỗi value một file `values/V.<id>-NNN.md` (12). `CH.<id>.beliefs.md` và `CH.<id>.values.md` giữ làm mục lục (cụm, `members`, system/measure/blind/rank/gaps, các số đã gộp). `cluster`, `axis`, `status`, `from` nằm ở frontmatter. Link `[[CH.x.beliefs#B.x-NNN]]` đổi thành `[[B.x-NNN]]` ở 48 file. Luật mới `LAW.check.entity-file`; `value-from`, `belief-value`, `method-from` đọc theo file. Nhi, Vũ chưa có `axis` (cảnh báo).
 - [x] **Law và style** `locked 13/11` (tác giả): law trả lời *được viết gì, không được viết gì* (giữ tên `law`, `rules/` là thư mục; mục luật của node đổi tên `laws`); style trả lời *viết thế nào*, gộp register, pattern, technique thành một kind (`grain`: bundle, shape, move; `force`: bat-buoc, mac-dinh, tuy-chon). Hai bộ mặc định: [[STY.default]] (cứng: từ phức, thoại tự nhiên, cảnh hiện tại không tóm tắt, luật chuyển chung; mềm: R0 [[REG.default]] và sáu technique mặc định) và [[LAW.default]] (cứng: tám luật theo ART.0.1–0.6, 0.8, 0.9; mềm: gọi tên cảm xúc, người kể không biết hơn POV, chửi ba mức). R0 chỉ cho tình huống ít ảnh hưởng; rơi về R0 thì `LAW.check.default-style` báo theo mức của node (C, D ghi chú; A, B cảnh báo; S trở lên lỗi). Style mặc định theo tuyến: PAST R6, ROM R2, THR R4, SOL R1, FAM R1. R1–R9 có file `REG.*` (chép dòng bảng §1). `registers.md` §0.1 và `storylines/README.md` bước 7 sửa theo.
 
+### Storage, info, style hài và thân mật (13/11)
+- [x] **Storage** `locked 13/11` (tác giả): `content/storage/`, kind `store`, id `STO.<tên>`, mỗi kho một file, mỗi mục một dòng (`schemas/store.md`). [[STO.ha-tinh]] (§1–§2 của `rules/tu-dien-ha-tinh.md`; §3 đã ở [[LAW.dialect.ha-tinh]], thêm C4 "rứa", viết tắt tin nhắn); [[STO.xung-ho]] (bảng xưng hô và cách người kể gọi, `01-rules-viet.md`); [[STO.khoi-hien-thi]] (bảng `01c` gộp quy ước từng loại); [[STO.ten-rieng]] (tên thật, hư cấu, chữ viết tắt không dùng). Law trỏ bằng trường `data:` (`schemas/law.md`); nguồn cũ còn bảng chuyển. Luật `LAW.check.store`.
+- [x] **Info** `locked 13/11` (tác giả): `content/info/<domain>/`, kind `info` (`schemas/info.md`), node và lá, mục inline `### <mục>`. [[INFO.humor]] (`style`: R1, R2, `TEC.humor.*`), lá [[INFO.humor.meme]]: tám meme (six seven, sigma, kid, aura farming, ragebait, gg ez, skill issue, idol), mỗi meme có `fact`, `valid`, `known-by`, `sources`, `seen-in` (HAI-001…015). [[INFO.economics]] node, chưa có lá. Lịch truyện 2024–2025; `valid` chỉ cảnh báo lúc viết, không xóa. Event có trường `info`. Luật `LAW.check.info-valid` (cảnh báo); khối SINH của tình tiết có `register` và gợi ý info (ghi ở ROM.TN-001, ROM.TN-002, X-011-001).
+- [x] **Kỹ thuật hài** (13/11): `kho/hai-ky-thuat.md` tách thành [[TEC.humor.lenses]], [[TEC.humor.twist]], [[TEC.humor.reaction]], [[TEC.humor.heighten]], [[TEC.humor.volley]], [[TEC.humor.button]], [[TEC.humor.callback]] và [[PAT.humor.game]], [[PAT.humor.snowball]], [[PAT.humor.beat]] (`proposed`, theo nhãn nghiên cứu 05/11); §3.1 vào `style` của [[SOL.VU]], §3.2 vào `style` của [[ROM.TN]]; file cũ còn bảng chuyển và nguồn.
+- [x] **Kỹ thuật thân mật** (13/11): *Cách viết cảnh thân mật*, *Fan service*, *Miêu tả ngoại hình gợi cảm* (`01-rules-viet.md`) và `01d` §3 thành [[TEC.intimacy.scene]], [[TEC.intimacy.fan-service]], [[TEC.intimacy.gaze]]; nối R2 (`uses`), R3 (`uses`), [[LAW.intimacy.limits]] (`technique`). Tính cách khi chạm, khi bị nhìn vào `style` của [[ROM.TN]], [[ROM.TD]]. Sửa "tháng 10/2026" thành 10/2024 (fan service bắt đầu từ mạch hiện tại).
+
 ## B. Còn mở: cần tác giả quyết
 
 ### Niềm tin
@@ -102,5 +108,6 @@ Cập nhật 13/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 - [ ] **ROM.TN B4c**: chuyển BRIEF, KHO, RR; tách Phong sang ROM.PN, Diệp Anh sang ROM.TD; đánh lại số lá theo ngày; nối `goal`.
 - [ ] **Node khung**: THR.*, SOL.SAN, SOL.DT, FAM.N, PAST.DA, PAST.K.
 - [ ] **Giao điểm**: đặt mục tiêu riêng cho các giao điểm có `seed`, rồi tạo lá.
+- [ ] **Storage, info, việc còn lại** (13/11): nguồn ngoài cho meme `kid`, `idol` và mốc phổ biến của `ragebait`; năm chỗ dùng meme trước `valid` ở bản cũ (six seven ở ch.9, ch.20; aura farming ở ch.23) để tác giả quyết khi viết lại v2; lá của [[INFO.economics]] (ứng viên: salary, prices, tech-market); `style` của INFO.economics (R4, R8) là đề xuất; ẩn dụ hài của hội đồng và Thuyên – Hưng chờ `style` của SOL.HD, SOL.SAN; [[LAW.intimacy.limits]] C4 chưa chép vế "tỉnh táo, đồng thuận rõ ràng, không thân mật khi một bên say" của `01-rules-viet.md` *Giới hạn cứng* (cần tác giả duyệt câu chữ, cùng lúc duyệt ART.0.9).
 - [ ] **canon-check**: không hai giao điểm cùng tập node; `goal` của lá giao điểm phục vụ mục tiêu riêng của giao điểm; node chỉ đọc node khác qua `share`.
 - [ ] **Quét từ phức lần hai** cho văn bản chuyển sau 10/11 sáng (PAST.T `story`/`pages`, PAST.N, SOL.HD, FAM.T).

@@ -2,7 +2,9 @@
 
 Nov 4, 2026 · @aureliustran. Kho nguyên liệu hài cho Đèn vàng. Tác giả điền tài liệu vào; Claude phân loại, gắn mã, chỉ đề xuất chỗ dùng. Đặt ở `kho/` theo `kien-truc.md` §2 (nguyên liệu). Nguyên liệu, không phải canon: một mẩu hài chỉ thành tình tiết khi tác giả chọn và ghi ở cột `Register` của tình tiết (R1, `rules/registers.md`).
 
-**Bốn tầng của kho hài:** (1) meme và vật liệu: file này, §3; (2) kỹ thuật thoại hài và (3) kỹ thuật xây tình tiết hài: `kho/hai-ky-thuat.md`; (4) sổ tình tiết hài đã có: chưa lập. Mẩu ở tầng 1 khi đưa vào dùng thì ghi đủ cơ chế theo `hai-ky-thuat.md` §7 (dựng, giả định, cầu nối, vỡ, phản ứng, nút chặn), không chỉ ghi nhãn.
+**Bốn tầng của kho hài:** (1) meme và vật liệu: file này, §3; (2) kỹ thuật thoại hài và (3) kỹ thuật xây tình tiết hài: `TEC.humor.*`, `PAT.humor.*` trong `lib/` (tách từ `kho/hai-ky-thuat.md` 13/11); (4) sổ tình tiết hài đã có: chưa lập. Mẩu ở tầng 1 khi đưa vào dùng thì ghi đủ cơ chế theo [[PAT.humor.beat]] (dựng, giả định, cầu nối, vỡ, phản ứng, nút chặn), không chỉ ghi nhãn.
+
+**Meme:** sự thật, mốc thời gian thật (`valid`), ai biết và chỗ đã dùng của tám meme ở [[INFO.humor.meme]] (13/11). Meme ra đời sau ngày của cảnh thì `canon:check` cảnh báo (`LAW.check.info-valid`).
 
 **Nhãn:** `[chốt dd/mm]` tác giả duyệt dùng · `[nguyên liệu]` mới bỏ vào kho, chưa chọn · `[đề xuất]` Claude gợi chỗ dùng, chưa duyệt.
 

@@ -32,22 +32,7 @@ Cho thấy là mặc định: người đọc tự cảm nhận qua chi tiết. 
 
 ### Xưng hô
 
-| Quan hệ | Xưng hô |
-| --- | --- |
-| Con trai chưa thân | tôi – ông |
-| Con trai thân | tao – mày (thoại), t – m (tin nhắn) |
-| Đàn em | anh – em |
-| Người lớn | cháu – bác, lễ phép |
-| Diệp Anh (năm tư, hơn Thuyên một khóa) | Từ chương 12 (sau khi biết anh năm ba): Diệp Anh xưng **chị**, gọi Thuyên là **em**; lúc trêu hoặc lúc yêu gọi **bé**. Thuyên xưng **em**, gọi cô là **chị**; lúc nũng (sau khi yêu, chương 21 trở đi) gọi **chị bé**. Tin nhắn: Diệp Anh viết "Chị", "em" có chữ hoa đầu câu; Thuyên viết "e", "c" hoặc "em", "chị" thường. |
-| Đồng nghiệp ở lab | Thuyên là **người nhỏ tuổi nhất phòng** (sinh viên năm ba, trường hợp đặc biệt: hiếm khi sinh viên được ký hợp đồng chính thức). Gọi mọi người là anh/chị (anh Tuấn, anh Bảo, anh Kiên, chị Quỳnh, chị Hạnh, chị Phương, chị Ngân, chị Trâm, chị My, chị Ly — Ly là thực tập sinh năm cuối, hơn anh một tuổi), xưng em. Mọi người gọi anh là em, đôi khi "em út", "thằng bé". |
-| Thảo (bằng tuổi Thuyên, năm ba Kinh tế Quốc dân) | Thuyên: **tớ – cậu**. Thảo: **mình – cậu** (giữ khoảng cách, ít nói). Không dùng anh – em. |
-| Nhi (năm hai, nhỏ hơn) | anh – em |
-
-**Người kể gọi nhân vật (POV Thuyên, chốt 15/10).** Người kể gọi theo cách Thuyên gọi trong đầu, và đổi khi Thuyên đổi:
-
-- **Tuấn:** "anh Tuấn" từ ch.14 đến hết buổi review tầng 18 ở ch.32. Từ câu *"Lão đứng được là nhờ ai."* (ch.32) trở đi, lời kể gọi **"lão"** (đầu câu "Lão"). Giữ "anh Tuấn" trong thoại của Thuyên và người khác, tên hiển thị trong tin nhắn, tên người gọi đến trên màn hình điện thoại, email. Câu ở ch.35 "Một người trong phòng sếp gọi *anh*. Một người ngồi ở bàn nhựa gọi *lão*." là nhận xét của chính Thuyên về hai giọng, giữ nguyên.
-- **Khải:** **"anh Khải"** (đầu câu "Anh Khải"); lần đầu ở ch.16 là "Người tên Khải". "Anh ta" làm đại từ thay thế để tránh lặp. Chữ ký email giữ "Khải".
-- Interlude POV Nhi: Nhi gọi Khải là "anh trai" / "anh". Interlude POV Khải (*Quân trắng*, *Quân đen*): theo luật riêng khi viết.
+**Chuyển 13/11.** Bảng xưng hô theo quan hệ và cách người kể gọi nhân vật (chốt 15/10) nằm ở kho [[STO.xung-ho]]; luật ở [[LAW.address.relation]].
 
 ### Giọng địa phương
 
@@ -57,10 +42,7 @@ Cho thấy là mặc định: người đọc tự cảm nhận qua chi tiết. 
 
 ### Địa danh và tổ chức
 
-- **Tên thật** cho trường học, phố phường, quê quán, nơi được miêu tả trung tính hoặc tích cực: Đại học Công nghệ (ĐHQGHN), RMIT Hà Nội, Học viện Ngoại giao, Hà Tĩnh, Cầu Giấy – Xuân Thủy… Trong truyện gọi trường bằng tên tiếng Việt, không viết tắt tiếng Anh (UET, ULIS, UEB, DAV). Trường không phải của nhân vật thì gắn kèm quan hệ để người đọc không nhầm, ví dụ "khuôn viên Đại học Ngoại ngữ, trường hàng xóm".
-- **Tên hư cấu** cho tổ chức làm điều xấu hoặc gây tranh cãi: tập đoàn nhà Nhi, lab R&D, các công ty, startup, summit. Trường phổ thông của Nhi (từ tiểu học đến lớp 12) là hệ thống trường quốc tế song ngữ của chính tập đoàn nhà cô, không gọi tên: "trường của tập đoàn", "trường nhà cô".
-- Nhân vật trong trường thật vẫn là hư cấu. Không dùng tên người thật.
-- Chi tiết về địa điểm thật phải đúng. Kiểm tra lại hoặc hỏi người đang học, sống ở đó.
+**Chuyển 13/11.** Luật ở [[LAW.places.real-fiction]]; danh sách tên thật và tên hư cấu (kể cả chữ viết tắt không dùng: UET, ULIS, UEB, DAV) ở kho [[STO.ten-rieng]].
 
 ## Giọng của Thuyên theo đối tượng
 
@@ -470,7 +452,7 @@ Không phải kiểu nhân vật tính trước mười bước như anime. Đ�
 
 ## Cảnh thân mật
 
-- Viết kín, dừng ở ngưỡng cửa. Không mô tả tình dục. Truyện đăng trên nền tảng phổ thông, không gắn nhãn 18+.
+- ~~Viết kín, dừng ở ngưỡng cửa.~~ Bỏ 10/10 (`01d` §3); cách viết hiện hành: [[TEC.intimacy.scene]]. Không mô tả tình dục: [[LAW.intimacy.limits]].
 - Giữ lại cảm xúc và chi tiết người: sự vụng về, ngại ngùng của Thuyên, một câu nói, một đồ vật trong phòng. Sáng hôm sau quan trọng hơn đêm hôm trước.
 
 ### Kỹ thuật trinh thám áp dụng cho mạch lab
@@ -510,39 +492,18 @@ Truyện có cảnh thân mật và fan service, gắn nhãn 18+ khi đăng. M�
 - **Quấy rối không bao giờ là fan service:** hành vi tán tỉnh, quấy rối của sếp với nhân viên và thực tập sinh được viết như thứ xấu xí, khó chịu, qua phản ứng của người bị làm phiền và ánh nhìn của Thuyên. Không tả gợi dục cơ thể người bị quấy rối, không làm cảnh đó hấp dẫn.
 - **Gợi dục nhưng không phản cảm:** không từ ngữ thô tục khi tả cơ thể, không tả bộ phận sinh dục, không liệt kê số đo, không biến nhân vật thành đồ vật. Gợi bằng phản ứng và chi tiết nhỏ, không bằng phơi bày.
 - **Chỉ giữa người trưởng thành, đồng thuận rõ ràng, tỉnh táo.** Không có cảnh thân mật khi một bên say. Đêm say của Diệp Anh là đêm chia tay, không phải đêm ân ái.
-- **Không có bất kỳ yếu tố gợi dục nào với nhân vật dưới 18 tuổi**, kể cả trong hồi tưởng: Thuyên – Vy (lớp 10–12), Nhi thời cấp 2–3 và thằng boy phố, mọi interlude quá khứ. Các cảnh đó chỉ giữ cảm xúc, ngại ngùng, nắm tay là tối đa. Fan service chỉ bắt đầu từ mạch hiện tại (tháng 10/2026), khi mọi nhân vật đã trưởng thành.
+- **Không có bất kỳ yếu tố gợi dục nào với nhân vật dưới 18 tuổi**, kể cả trong hồi tưởng: Thuyên – Vy (lớp 10–12), Nhi thời cấp 2–3 và thằng boy phố, mọi interlude quá khứ. Các cảnh đó chỉ giữ cảm xúc, ngại ngùng, nắm tay là tối đa. Fan service chỉ bắt đầu từ mạch hiện tại (tháng 10/2024; sửa 13/11 theo lịch truyện 2024–2025), khi mọi nhân vật đã trưởng thành.
 
-### Cách viết cảnh thân mật
+### Cách viết cảnh thân mật, fan service, miêu tả ngoại hình gợi cảm
 
-- **Vẫn là show, don't tell, vẫn là POV của nhân vật:** cảm giác, hơi thở, nhiệt độ, những chi tiết người đó để ý. Thuyên để ý người kia nhiều hơn để ý mình, kể cả lúc này. Nhi gọi tên được cảm giác của mình.
-- **Dồn sức vào phần dẫn vào:** khoảnh khắc quyết định, nụ hôn đầu, bàn tay dừng ở cúc áo, câu hỏi khẽ "được không", câu trả lời. Đây là chỗ gợi dục nhất và cũng là chỗ lộ nhân vật nhất.
-- **Nhân vật vẫn là chính họ:** Thuyên vụng việc nhỏ, yêu thì ngại. Lần đầu của anh phải vụng, buồn cười, thật (vướng cúc áo, đụng đầu vào thành giường, cười phá lên giữa chừng), tất cả nằm ở phần trước ngưỡng. Diệp Anh chủ động và sắc. Nhi thẳng, nói ra điều mình muốn.
-- **Có lời, có đồng thuận trong cảnh**, viết tự nhiên như thoại, không như thủ tục.
-- **Cảnh cắt phải đẹp:** câu cuối trước khi cắt là một chi tiết đắt (một câu nói, một cái nhìn, một âm thanh), không phải câu tóm tắt kiểu "và họ đã…".
-- **Cảnh sau quan trọng ngang cảnh trong:** nằm cạnh nhau, sáng hôm sau, ai dậy trước, ai nói gì, ai im. Đây là chỗ quan hệ thật sự đổi, và được viết gợi cảm thoải mái (da, chăn, áo mượn, vết son).
-- **Mỗi cảnh thân mật gắn một mốc cảm xúc.** Không chèn chỉ để đủ số lượng.
+**Chuyển 13/11** thành style (viết thế nào), nối với R2, R3 và [[LAW.intimacy.limits]]:
 
-### Fan service
-
-- **Mật độ:** mạch hiện tại có một khoảnh khắc fan service mỗi hai, ba chương, kể cả trong giai đoạn lab căng thẳng (thường đặt ở cảnh thở).
-- **Fan service phải mang chất nhân vật,** không lấy trope rời rạc. Lấy từ chính kho chi tiết của truyện: Thuyên hay quên ô; vụng việc nhỏ; ngoại hình hơi bad (sẹo lông mày, khuyên tai, tóc rơi một lọn); bóng rổ buổi sáng mồ hôi ướt áo; Nhi tone hồng, bướng, nói thẳng.
-- **Căng thẳng trước, thỏa mãn sau:** slow burn với Nhi. Những lần suýt chạm, bị cắt ngang, rồi mới đến lúc chạm.
-- **Fan service không phá tông:** ngay sau một cảnh đau có thể là một khoảnh khắc dễ thương, nhưng không biến cảnh đau thành trò đùa.
-
-### Miêu tả ngoại hình gợi cảm
-
-Chỉ áp dụng cho nhân vật trưởng thành ở mạch hiện tại. Mục tiêu là để người đọc nhìn qua mắt nhân vật đang bị cuốn hút, không phải để người kể đứng ngoài liệt kê cơ thể.
-
-- **Luôn qua ánh nhìn của một POV:** không tả "cô ấy có xương quai xanh đẹp". Viết Thuyên đang giảng bài, mắt trượt xuống chỗ cổ áo cô lệch sang một bên, rồi quên mất mình đang nói đến câu điều kiện loại mấy.
-- **Từng mảnh một, gắn với hành động:** một chi tiết mỗi lần, xuất hiện vì nhân vật đang làm gì đó (buộc tóc lộ gáy, xắn tay áo, ngửa cổ uống nước, cúi xuống nhặt bút). Không tả từ đầu đến chân.
-- **Phản ứng quan trọng hơn chi tiết:** cổ họng khô, quên câu đang nói, nhìn đi chỗ khác quá nhanh, cầm cốc nước dù không khát. Người đọc bị kích thích bởi việc nhân vật bị kích thích.
-- **Liếc rồi bị bắt quả tang:** trope hiệu quả nhất. Thuyên liếc, cô thấy, và cô nói thẳng ("Anh nhìn gì đấy?"). Với Nhi, cô nói thẳng hơn nữa. Với Diệp Anh, cô cố tình đứng yên cho anh nhìn tiếp.
-- **Hai chiều, có female gaze:** Thuyên cũng bị nhìn. POV Nhi và các cảnh có Diệp Anh tả anh theo cách người đọc nữ muốn thấy.
-- **Thuyên vẫn là Thuyên khi nhìn:** anh để ý chi tiết như khi đọc người, rồi tự giễu mình trong đầu ("đọc người chứ có phải đọc cổ áo đâu"). Sự ngại ngùng của anh là một phần của cái gợi cảm.
-- **Ý nghĩ bỏ lửng, rồi kệ:** Thuyên thấy một chi tiết dễ thương hoặc gợi cảm, ý nghĩ chạy trước ("cặp má này mà cắn một phát thì…", "đầu mình mà gối lên đây thì…"), tự cắt giữa câu, sống lưng lạnh, rồi quay về vẻ điềm tĩnh, không quan tâm. Thích mà không biết tán nên kệ, với cả Nhi lẫn Diệp Anh. Mỗi chương hiện tại có tối đa một, hai lần, không lặp nguyên công thức chữ (đổi cách cắt: đạp phanh, nhìn xe buýt, nhìn đồng hồ, không cho đi hết câu). Chiều nữ nhìn nam: Nhi nói thẳng ra một nửa, phần còn lại ngượng trong interlude; Diệp Anh nhìn lâu có chủ đích. Kho tình huống ở mục F8 trong bible.
-- **Ba giây đầu:** lần đầu thấy một cô gái, viết theo thứ tự nhìn chi tiết xinh trước (một đến bốn mảnh), đếm thời gian đơ, rồi mới đến lúc anh lấy lại đầu óc và đọc người. Không bao giờ để phán đoán đi trước ái mộ ở lần gặp đầu. Quen thì số giây giảm; chi tiết mới thì reset. Đây là thước đo cảm xúc của anh, dùng nó để cho người đọc thấy quan hệ đang ở đâu (xem F9 trong bible).
-- **Gợi hơn phơi:** che một nửa thì hấp dẫn hơn lộ hết. Áo sơ mi mở một cúc kích thích hơn cởi trần.
-- **Không thô, không liệt kê số đo, không biến nhân vật nữ thành đồ vật:** người được nhìn luôn có phản ứng, có ý chí, có thể nhìn lại.
+| Mục cũ | Ở đâu bây giờ |
+| --- | --- |
+| Cách viết cảnh thân mật (gộp `01d` §3) | [[TEC.intimacy.scene]] |
+| Fan service | [[TEC.intimacy.fan-service]] |
+| Miêu tả ngoại hình gợi cảm | [[TEC.intimacy.gaze]] |
+| Tính cách khi chạm, khi bị nhìn (Thuyên, Nhi, Diệp Anh) | mục `style` của [[ROM.TN]], [[ROM.TD]] |
 
 ## Nhân vật xám và trầm cảm
 

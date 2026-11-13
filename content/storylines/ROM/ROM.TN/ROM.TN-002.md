@@ -31,3 +31,12 @@ Nguồn: Claude viết thử theo bài học §4, tác giả sửa bốn lượt
 
 - Sự kiện trước (Nhi nếm, "Đắng như quỷ", "Ai thèm nhớ") chưa có cảnh riêng. Cần đặt vào một buổi học cụ thể, hoặc viết thành một đoạn hồi trong cảnh này như bản trên.
 - Quán gọi món qua máy: cần khớp với quán ghế nhung của các buổi học trong BRIEF.
+
+<!-- SINH -->
+## resolved (SINH)
+
+Sinh bởi `npm run canon:check`; không sửa tay. Mới có `register` và `info` (13/11).
+
+- **register:** [[REG.doi-thuong]], [[REG.lang-man]] (khai ở tình tiết)
+- **info gợi ý:** [[INFO.humor.meme#sigma]] · [[INFO.humor.meme#kid]] · [[INFO.humor.meme#ragebait]] · [[INFO.humor.meme#gg-ez]] · [[INFO.humor.meme#skill-issue]] · [[INFO.humor.meme#idol]] (hợp register; hợp valid ở 2024-10-28 → 2025-03-31; người tham gia biết)
+<!-- /SINH -->

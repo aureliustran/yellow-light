@@ -8,7 +8,7 @@ force: tuy-chon
 aliases: [R2, "Lãng mạn", "R2 Lãng mạn"]
 applies-to: "chọn qua mục style của tuyến, node hoặc event"
 effective: "OPEN → AFTER"
-uses: []
+uses: ["[[TEC.intimacy.fan-service]]", "[[TEC.intimacy.gaze]]", "[[TEC.intimacy.scene]]"]
 forbids: []
 sources:
   - "[[rules/registers|rules/registers.md §1]]"

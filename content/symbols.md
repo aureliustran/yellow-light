@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 281 file. Chưa chuyển sang khuôn mới (legacy): 140 file.
+Có phần đầu (frontmatter): 303 file. Chưa chuyển sang khuôn mới (legacy): 140 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -115,6 +115,9 @@ Có phần đầu (frontmatter): 281 file. Chưa chuyển sang khuôn mới (leg
 | `GUIDE.task.revise-chapter` | `guide` | `draft` | `guidelines/tasks/revise-chapter.md` | **Trigger:** "sửa đoạn …", "chương N đọc chưa ổn". |
 | `GUIDE.task.sync-blueprint` | `guide` | `draft` | `guidelines/tasks/sync-blueprint.md` | **Trigger:** after writing; after the author edits a chapter; `LAW.check.bp-drift` or `bp-anchor` reports. |
 | `GUIDE.task.write-scene` | `guide` | `draft` | `guidelines/tasks/write-scene.md` | The blueprint scene(s) assigned to you; its write-kit. |
+| `INFO.economics` | `info` | `proposed` | `info/economics/INFO.economics.md` | Tri thức thật về tiền và thị trường lao động ở Hà Nội 2024–2025 mà truyện dựa vào: lương, OT, giá cả, thị trường công nghệ. Node khung; *… |
+| `INFO.humor` | `info` | `proposed` | `info/humor/INFO.humor.md` | Tri thức thật ngoài truyện (meme, tiếng lóng, trò mạng) mà nhân vật có thể biết và dùng khi làm hài. Info nói **cái gì có thật ở đời và t… |
+| `INFO.humor.meme` | `info` | `proposed` | `info/humor/INFO.humor.meme.md` | Tám meme truyện đã dùng hoặc sẽ dùng. Mỗi mục một mục con, id `INFO.humor.meme.<mục>`, liên kết `[[INFO.humor.meme#<mục>]]`. Vật liệu tho… |
 | `LAW.address.relation` | `law` | `locked` | `rules/address/LAW.address.relation.md` | Thuộc [[LAW.default]], phần **cứng**: không node nào bỏ được; luật riêng chỉ làm cụ thể thêm. |
 | `LAW.default` | `preset` | `locked` | `rules/LAW.default.md` | Bộ luật áp cho **mọi** tình tiết `locked 13/11` (tác giả). Luật trả lời *được viết gì, không được viết gì*; *viết thế nào* là style ([[ST… |
 | `LAW.dialect.ha-tinh` | `law` | `locked` | `rules/dialect/LAW.dialect.ha-tinh.md` | Thuộc [[LAW.default]], phần **cứng**: không node nào bỏ được; luật riêng chỉ làm cụ thể thêm. |
@@ -166,6 +169,9 @@ Có phần đầu (frontmatter): 281 file. Chưa chuyển sang khuôn mới (leg
 | `PAST.T-025` | `event` | `page` | `storylines/PAST/PAST.T/PAST.T-025.md` | Đề tài nghiên cứu: nhận cả phần của Đức và Lan, tay bận thì cái đau ngủ; thầy Bình hỏi *Tại sao là em?* chưa trả lời được; đề tài lên cấp… |
 | `PAST.T-026` | `event` | `agreed` | `storylines/PAST/PAST.T/PAST.T-026.md` | Thư mục *sau-nay*, *Congratulations.*, đọc một lần rồi không mở. |
 | `PAST.T-027` | `event` | `page` | `storylines/PAST/PAST.T/PAST.T-027.md` | Sáu tháng thực tập ở tòa nhà kính; hết thực tập tháng 9, "không biết dậy sớm để làm gì"; mail summit đến thì nhẹ. |
+| `PAT.humor.beat` | `style` | `proposed` | `lib/patterns/PAT.humor.beat.md` | Khuôn của một nhịp hài, từ sự thật của nhân vật đến nút chặn. Mẩu vật liệu (`kho/hai.md`) khi đưa vào dùng thì ghi đủ các beat này, không… |
+| `PAT.humor.game` | `style` | `proposed` | `lib/patterns/PAT.humor.game.md` | Khuôn của một cảnh hài: từ tiền đề đến trò, rồi nâng. Một cảnh tốt có cả cốt lẫn trò, nhưng không lẫn: cốt đẩy truyện đi; trò là chỗ buồn… |
+| `PAT.humor.snowball` | `style` | `proposed` | `lib/patterns/PAT.humor.snowball.md` | Khuôn farce: một lời nói dối kéo theo lời nói dối khác, áp lực không nhả; cộng trớ trêu (người đọc biết hơn nhân vật). Mỗi lần suýt lộ là… |
 | `REG.dang` | `style` | `locked` | `lib/registers/REG.dang.md` | Mục của R9 trong thư viện (kind `style`, loại `bundle`). Luật đầy đủ, ma trận và luật chuyển vẫn ở `rules/registers.md` (§1, §2.2) cho tớ… |
 | `REG.dau-tri` | `style` | `agreed` | `lib/registers/REG.dau-tri.md` | Mục của R4 trong thư viện (kind `style`, loại `bundle`). Luật đầy đủ, ma trận và luật chuyển vẫn ở `rules/registers.md` (§1) cho tới khi … |
 | `REG.day` | `style` | `locked` | `lib/registers/REG.day.md` | Mục của R7 trong thư viện (kind `style`, loại `bundle`). Luật đầy đủ, ma trận và luật chuyển vẫn ở `rules/registers.md` (§1, §2.3) cho tớ… |
@@ -197,6 +203,7 @@ Có phần đầu (frontmatter): 281 file. Chưa chuyển sang khuôn mới (leg
 | `SCH.function` | `schema` | `proposed` | `schemas/function.md` | A **mechanism** of one character, written like a function with a signature. An agent reads `in` and `when` to know when to call it, witho… |
 | `SCH.goal` | `schema` | `proposed` | `schemas/goal.md` | A goal of a node, decomposed down the tree. See [storylines](../../docs/framework/storylines.md#node). |
 | `SCH.guide` | `schema` | `proposed` | `schemas/guide.md` | A guideline for agents: how to work. **Location:** `content/GUIDELINES.md` (entry) and `content/guidelines/**`. **Id:** `GUIDE.<name>`; t… |
+| `SCH.info` | `schema` | `locked` | `schemas/info.md` | Info is **real-world knowledge** the story uses: memes and slang, economics, technology, places as they are in reality `locked 13/11`. It… |
 | `SCH.intersection` | `schema` | `proposed` | `schemas/intersection.md` | A **meeting of nodes**: a hyperedge, not a node. It sits outside the node tree and is **defined by foreign keys** to two or more nodes, o… |
 | `SCH.law` | `schema` | `proposed` | `schemas/law.md` | A law answers **what may or may not be written** `locked 13/11`: facts, disclosure, limits, names. How to write is a style ([schema](styl… |
 | `SCH.node` | `schema` | `proposed` | `schemas/node.md` | A **dynamic** entity: a thread with people and events in time, serving at least one axis. Storylines (`ROM`, `PAST`, …) and `SELF.<id>` a… |
@@ -209,6 +216,7 @@ Có phần đầu (frontmatter): 281 file. Chưa chuyển sang khuôn mới (leg
 | `SCH.secret` | `schema` | `proposed` | `schemas/secret.md` | A secret, tracked as an entity to know **who knows what, when**. **Location:** `world/secrets/SEC-NNN.md`. **Id:** `SEC-NNN`. |
 | `SCH.setting` | `schema` | `proposed` | `schemas/setting.md` | A place, a recurring space. **Location:** `world/settings/SET.<name>.md`. **Id:** `SET.<name>`. Header: `parent` (larger setting, if any). |
 | `SCH.spec` | `schema` | `proposed` | `schemas/spec.md` | A specification page of the framework or the app. **Location:** `docs/**`. **Id:** `SPEC.<name>`. |
+| `SCH.store` | `schema` | `locked` | `schemas/store.md` | A store holds **data a law or a style reads**: lists, tables, dictionaries (the Hà Tĩnh dictionary, the address table, display blocks, re… |
 | `SCH.style` | `schema` | `locked` | `schemas/style.md` | A style answers **how to write** `locked 13/11`. Register (văn phong), technique (kỹ thuật) and pattern (khuôn beat) are one kind, `style… |
 | `SCH.value` | `schema` | `agreed` | `schemas/value.md` | A value is one **criterion a character chooses by**: what is worth something to the character, and how much. A character's values togethe… |
 | `SEC-001` | `secret` | `agreed` | `world/secrets/SEC-001.md` | Nhi là con gái Chủ tịch tập đoàn Astrea và em gái Khải, Tổng giám đốc ([[CH.nhi]]). |
@@ -234,12 +242,26 @@ Có phần đầu (frontmatter): 281 file. Chưa chuyển sang khuôn mới (leg
 | `SPEC.skills` | `spec` | `draft` | `docs/framework/skills.md` | Skills carry **method** (how to do a kind of work); the repository carries **facts** (canon, laws, characters, plans). A skill never stor… |
 | `SPEC.storylines` | `spec` | `draft` | `docs/framework/storylines.md` | Fields: `content/schemas/node.md`, `goal.md`, `event.md`, `intersection.md`. |
 | `SPEC.tooling` | `spec` | `draft` | `docs/framework/tooling.md` | `npm run canon:check` (`scripts/canon-check.mjs`, no dependencies) is the rule runner. It reads every entity under `content/` and every p… |
+| `STO.ha-tinh` | `store` | `locked` | `storage/STO.ha-tinh.md` | Kho chữ cho khối `[[ht: gốc // chuẩn]]`. Mỗi mục một dòng; luật dùng ở [[LAW.dialect.ha-tinh]] (C1–C3). Khi viết `[[ht: …]]`, ô thứ hai g… |
+| `STO.khoi-hien-thi` | `store` | `locked` | `storage/STO.khoi-hien-thi.md` | Kho cú pháp khối để trang đọc dựng đúng giao diện. Mỗi khối một dòng; luật ở [[LAW.display.blocks]] (tài liệu nguyên văn đi bằng khối, in… |
+| `STO.ten-rieng` | `store` | `locked` | `storage/STO.ten-rieng.md` | Kho tên riêng của nơi chốn và tổ chức. Mỗi tên một dòng; luật ở [[LAW.places.real-fiction]] (nơi tả trung tính hay tích cực dùng tên thật… |
+| `STO.xung-ho` | `store` | `locked` | `storage/STO.xung-ho.md` | Kho xưng hô theo quan hệ, và cách người kể gọi nhân vật. Mỗi mục một dòng; luật ở [[LAW.address.relation]] (C1 thoại, C2 người kể). Số ch… |
 | `STY.default` | `preset` | `locked` | `lib/STY.default.md` | Tầng trên cùng của style `locked 13/11` (tác giả). Style của tuyến và node **kế thừa** bộ này và chỉ ghi đè phần mềm; event kế thừa style… |
 | `TEC.dialogue.natural` | `style` | `locked` | `lib/dialogue/TEC.dialogue.natural.md` | Lời thoại viết như người nói thật. Thuộc [[STY.default]], luôn bật ở mọi register, kể cả R0; chỉ nới bằng `except` kèm lý do. |
 | `TEC.expertise.layman` | `style` | `locked` | `lib/expertise/TEC.expertise.layman.md` | Người đọc không cần hiểu chuyên môn, chỉ cần hiểu ai được, ai mất, ai bị phản bội. Thuộc [[STY.default]], bật mặc định; register của tuyế… |
+| `TEC.humor.button` | `style` | `proposed` | `lib/humor/TEC.humor.button.md` | Kết một nhịp hài, và đặt hài cạnh cái đau để đổi nhiệt. Beat B6 của [[PAT.humor.beat]]. |
+| `TEC.humor.callback` | `style` | `proposed` | `lib/humor/TEC.humor.callback.md` | Gieo xa, gặt xa. Meme làm vật liệu cho trò chạy dài đọc từ [[INFO.humor.meme]] (mốc thật, ai biết, chương đã dùng). |
+| `TEC.humor.heighten` | `style` | `proposed` | `lib/humor/TEC.humor.heighten.md` | Tìm được trò rồi thì làm lại, mỗi lần một bậc (nâng); khi trò sắp cạn thì mở lý do bên trong của nó (khám phá). Là bước nâng của [[PAT.hu… |
+| `TEC.humor.lenses` | `style` | `proposed` | `lib/humor/TEC.humor.lenses.md` | Một nhịp hài chạy được khi trả lời được cả ba câu. Dùng ở bước cuối của [[PAT.humor.beat]], và khi chẩn một nhịp nhạt. |
+| `TEC.humor.reaction` | `style` | `proposed` | `lib/humor/TEC.humor.reaction.md` | Nửa kia của câu đùa: người nhìn phản ứng như người thật; nhân vật hài không nháy mắt với người đọc. Nằm ở beat B5 của [[PAT.humor.beat]]. |
+| `TEC.humor.twist` | `style` | `proposed` | `lib/humor/TEC.humor.twist.md` | Cấu trúc của một cú đảo, và các kiểu đảo hợp với Đèn vàng. Nằm ở beat B2–B4 của [[PAT.humor.beat]]. |
+| `TEC.humor.volley` | `style` | `proposed` | `lib/humor/TEC.humor.volley.md` | Đối đáp nhanh, mỗi câu là một nước, chở theo hàm ý. Cách mỗi cặp nhân vật đánh bóng bàn nằm ở mục `style` của node quan hệ ([[SOL.VU]], [… |
 | `TEC.humor.want-clash` | `style` | `proposed` | `lib/humor/TEC.humor.want-clash.md` | Rút ra khi so bản Claude (viết theo `kho/hai-ky-thuat.md`) với bản tác giả sửa, hai cảnh mẫu 05/11: [[ROM.TN-001]] (dòng 1–7) và [[ROM.TN… |
 | `TEC.interiority.ideal-self` | `style` | `proposed` | `lib/interiority/TEC.interiority.ideal-self.md` | Đưa lực kéo ([[B.thuyen-034]]) lên trang qua lời người kể. Phục vụ register R10 ([[REG.noi-tam]], khối nội tâm, `rules/registers.md` §2.6… |
 | `TEC.interiority.purposeful-drift` | `style` | `locked` | `lib/interiority/TEC.interiority.purposeful-drift.md` | Ý lan man phải cài cắm điều gì đó về nhân vật hoặc cốt truyện. Thuộc [[STY.default]], bật mặc định; register của tuyến, node hoặc event đ… |
+| `TEC.intimacy.fan-service` | `style` | `agreed` | `lib/intimacy/TEC.intimacy.fan-service.md` | Khoảnh khắc gợi cảm, dễ thương giữa các cảnh truyện. Chỉ ở mạch hiện tại, từ tháng 10/2024 (lịch truyện 2024–2025, `config/calendar.md`),… |
+| `TEC.intimacy.gaze` | `style` | `agreed` | `lib/intimacy/TEC.intimacy.gaze.md` | Người đọc nhìn qua mắt nhân vật đang bị cuốn hút, không phải người kể đứng ngoài liệt kê cơ thể. Chỉ cho nhân vật trưởng thành ở mạch hiệ… |
+| `TEC.intimacy.scene` | `style` | `agreed` | `lib/intimacy/TEC.intimacy.scene.md` | Viết thế nào. Được viết gì, không được viết gì là luật [[LAW.intimacy.limits]] (cắt ở ngưỡng quan hệ, không thô, chỉ người trưởng thành) … |
 | `TEC.lexicon.compound` | `style` | `locked` | `lib/lexicon/TEC.lexicon.compound.md` | Từ phức (từ ghép Hán Việt, thuần Việt; từ láy) là đa số, từ đơn là thiểu số `locked 10/11`. Thuộc [[STY.default]], luôn bật ở mọi registe… |
 | `TEC.pace.flashback` | `style` | `locked` | `lib/pace/TEC.pace.flashback.md` | Hồi tưởng nhanh hơn hiện tại, nhưng không phải tóm tắt; chuẩn là pace của ch.2–7. Thuộc [[STY.default]], bật mặc định; register của tuyến… |
 | `TEC.pace.present` | `style` | `locked` | `lib/pace/TEC.pace.present.md` | Mạch kể hiện tại không bao giờ được rush. Thuộc [[STY.default]], luôn bật ở mọi register, kể cả R0; chỉ nới bằng `except` kèm lý do. |

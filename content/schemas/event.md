@@ -39,6 +39,7 @@ Only what is the event's own, plus explicit deviations from what it inherits.
 | `fuel` · `cost` | fuel (7 kinds, `core/shared-mechanics`) · price paid | from node level `S` up |
 | `changes` | attributes, relations, secrets that change: `SEC-003: +[[CH.thuyen]]` | when any |
 | `causes` | events in other nodes it causes | when any |
+| `info` | real-world knowledge the event uses: `[[INFO.humor.meme#six-seven]]` ([schema](info.md)); checked against `valid` by `LAW.check.info-valid` (warn only) | when any |
 | `register` · `uses` | only when different from the style inherited from the owner node (13/11: the node carries it, the event rarely needs it): `[[REG.…]]` · `[[PAT.…]]`, `[[TEC.…]]` | optional |
 | `phase` | `OPEN` … `POST`, when `date`/`span` does not make it plain; used to read the node's level and style per phase | optional |
 | `override` | `[[LAW.…]]: reason` | optional |
@@ -51,7 +52,7 @@ Body: a few lines of free notes. Then the resolved block.
 
 ## Resolved part (generated)
 
-At the end of the file, between `<!-- SINH -->` and `<!-- /SINH -->`, written by `canon:check`: `path`, `phase` and ages, `goal-chain`, `state-in`, `laws`, `register` (with where it came from), `voices`, `how` (patterns and techniques in force), `appears` (blueprint, scene, role). Never edited by hand (`LAW.check.resolved-fresh`).
+At the end of the file, between `<!-- SINH -->` and `<!-- /SINH -->`, written by `canon:check`: `path`, `phase` and ages, `goal-chain`, `state-in`, `laws`, `register` (with where it came from), `voices`, `how` (patterns and techniques in force), `appears` (blueprint, scene, role), `info` (suggested real-world knowledge, [schema](info.md) rule 2). Never edited by hand (`LAW.check.resolved-fresh`). **Built so far (13/11):** `register` (with its source) and `info`; written only for events that get a suggestion.
 
 ## Rules
 

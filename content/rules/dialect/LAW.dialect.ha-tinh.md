@@ -11,11 +11,12 @@ applies-to: "participants hoặc pov thuộc FAM.T, PAST.T; cảnh có bố mẹ
 except: "none"
 supersedes: none
 technique: none
+data: "[[STO.ha-tinh]]"
 check: human
 severity: error
 sources:
   - "[[01-rules-viet|01-rules-viet.md, Giọng địa phương]]"
-  - "[[rules/tu-dien-ha-tinh|rules/tu-dien-ha-tinh.md §3 (chốt 01/11)]]"
+  - "rules/tu-dien-ha-tinh.md §3 (chốt 01/11); §1–§2 chuyển vào STO.ha-tinh 13/11"
 ---
 # LAW.dialect.ha-tinh · Giọng Hà Tĩnh
 
@@ -23,7 +24,7 @@ Thuộc [[LAW.default]], phần **cứng**: không node nào bỏ được; lu�
 
 ### C1
 
-Giọng Hà Tĩnh của bố mẹ Thuyên giữ nguyên trên trang, kèm phụ đề bằng khối `[[ht: gốc || chuẩn]]`; chữ lấy theo `rules/tu-dien-ha-tinh.md`. ^C1
+Giọng Hà Tĩnh của bố mẹ Thuyên giữ nguyên trên trang, kèm phụ đề bằng khối `[[ht: gốc || chuẩn]]`; chữ lấy theo kho [[STO.ha-tinh]]. ^C1
 
 ### C2
 
@@ -31,4 +32,8 @@ Thuyên ở Hà Nội nói giọng chuẩn; chỉ lỡ bật giọng quê khi v�
 
 ### C3
 
-Không đổi "bố", "mẹ" thành "bọ", "mạ"; chữ tục và viết tắt giữ nguyên; câu giống hệt giữa hai giọng để nguyên, không bọc `[[ht]]`. ^C3
+Không đổi "bố", "mẹ" thành "bọ", "mạ"; chữ tục và viết tắt giữ nguyên; câu giống hệt giữa hai giọng để nguyên, không bọc khối `ht`. ^C3
+
+### C4
+
+"Rứa" chỉ thay "thế", không thay "à". Tin nhắn chat giữ lối viết tắt ("mi" thay "m", "tau" viết tắt "t"). ^C4

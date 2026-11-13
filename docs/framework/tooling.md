@@ -2,7 +2,7 @@
 id: SPEC.tooling
 kind: spec
 status: draft
-updated: 2026-11-10
+updated: 2026-11-13
 sources:
   - "[[de-xuat/kien-truc-framework|content/de-xuat/kien-truc-framework.md §9–§12; scripts/canon-check.mjs (B2, F3)]]"
 ---
@@ -22,7 +22,7 @@ sources:
 
 **Target design.** The runner keeps no rules of its own: it reads every law with `check: machine`, matches its selector, runs it on its scope, reports by law. Until structural laws are files in `rules/check/`, they are code in the script with the same ids.
 
-**Severity.** Findings in migrated parts (now: `config/`, `schemas/`, `guidelines/`, `GUIDELINES.md`, `docs/`) are errors; elsewhere (legacy, not yet migrated) they are warnings. Each migration step adds its folders to the migrated list.
+**Severity.** Findings in migrated parts (now: `config/`, `schemas/`, `guidelines/`, `GUIDELINES.md`, `docs/`, `world/`, `core/`, `storylines/`, `storage/`, `info/`) are errors; elsewhere (legacy, not yet migrated) they are warnings. Each migration step adds its folders to the migrated list.
 
 **Schemas drive the schema check.** Required header fields per kind come from each schema's `entity`, `required` and `required-one-of` (see `content/schemas/schema.md`); only the `schema` kind is bootstrapped in code.
 
@@ -38,6 +38,8 @@ sources:
 | `LAW.check.table-pipe` | a wikilink alias `[[a\|b]]` inside a table row | all | built |
 | `LAW.check.weekday` | a weekday does not match its date | all | built |
 | `LAW.check.level-parent` | a child node outweighs its parent in a phase | nodes | built |
+| `LAW.check.store` | a store's `entries` table differs from `columns`, a row has the wrong cell count or a duplicate key; a law's `data` points to something that is not a store | `storage/`, `rules/` | built 13/11 |
+| `LAW.check.info-valid` | **warn**: an event declares an `info` item whose `valid` does not cover the event's date (`date`, `span`, or phase); partial overlap is `info`. Error: an info leaf or item misses a required field, `items` disagrees with the `###` items, an event points to an item that does not exist. Only warns when writing; nothing is deleted | `info/`, events | built 13/11 |
 | `LAW.check.id-grammar` | an id breaks the grammar or its parent part disagrees with `parent` | all | planned |
 | `LAW.check.id-immutable` | an id changed since the previous commit without an alias | all | planned |
 | `LAW.check.layer` | a reference goes against the layer direction | `world/`, `storylines/`, `rules/`, `core/` | planned |
@@ -62,7 +64,7 @@ Written as real files so agents can read them (Obsidian's Dataview results are i
 | --- | --- | --- |
 | `content/symbols.md` | every id → file → one line | built |
 | `content/_views/graph.json`, `graph.html` | every entity and typed edge | built |
-| resolved block in each event (`<!-- SINH -->`) | inheritance ([storylines](storylines.md#inheritance)) | planned |
+| resolved block in each event (`<!-- SINH -->`) | inheritance ([storylines](storylines.md#inheritance)) | partly built 13/11: `register` (with source) and `info` suggestions (items of an info node whose `style` holds the event's register, `valid` over the whole event span, known by a participant); written only for events with a suggestion or an existing block; the rest planned |
 | `_views/write-kit/BP.<edition>.<nn>.md` | resolved blocks of a blueprint's events + scene choices | planned |
 | `_views/rules-for/<id>.md` | laws applying to one entity | planned |
 | `_views/laws-<phase>.md` | laws in force in a phase, by article | planned |

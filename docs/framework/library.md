@@ -33,7 +33,7 @@ A form that must always hold (compound words, natural dialogue, present scenes n
 ```
 lib/STY.default.md               the default style (preset)
 lib/registers/REG.*.md           bundles, R0 = REG.default
-lib/patterns/PAT.*.md            shapes
+lib/patterns/PAT.*.md            shapes (humor: PAT.humor.beat, game, snowball; 13/11)
 lib/<aspect>/TEC.<aspect>.*.md   moves
 assets/samples/SMP-NNN.md        samples; raw humor material → assets/humor/
 ```
@@ -84,5 +84,7 @@ When an event resolves to R0, `canon:check` reports it by the level of the owner
 | `LAW.check.default-style` | an event resolves to R0 (severity by level, above) |
 | `LAW.check.style-ref` | a storyline or node `style` map names a register that does not exist |
 | `LAW.check.reg-conflict` (planned) | an event uses a move its register forbids, or a register forbids a `bat-buoc` move |
+
+**Data and knowledge are not style** (13/11): word lists and tables a law reads are stores (`storage/STO.*`, [schema](../../content/schemas/store.md)); real-world knowledge (memes, economics) is info (`info/`, [schema](../../content/schemas/info.md)). A style may name an info node it draws on; an info node lists the styles it serves in `style`.
 
 Devices of a character's inner machinery (old `TB-`) belong to that character (`FN.thuyen.*`), not to the library.
