@@ -1,6 +1,6 @@
 # Checklist B4: chuyển tuyến sang khung mới
 
-Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit); `[ ]` còn mở (ai quyết). Commit ghi 7 ký tự đầu; chưa push.
+Cập nhật 13/11/2026. `[x]` đã giải quyết (cách giải quyết, commit); `[ ]` còn mở (ai quyết). Commit ghi 7 ký tự đầu; chưa push.
 
 ## A. Đã giải quyết
 
@@ -57,6 +57,12 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 - [x] **FAM.T** định nghĩa nhà Thuyên (cấu trúc, thao túng Khánh, thước di động, giáp nói); không node con; quá khứ chỉ định nghĩa, hồi tưởng là lá PAST.T đọc qua X-019; tình tiết hiện tại là lá FAM.T (70c6439, 100f5f5).
 - [x] **Bỏ kind group**: hội đồng Nhi vào SOL.HD (`identity`, `members`, `rules`); PAST.N.HD đọc qua X-020; quần chúng là dòng `members` của node (00de60a).
 
+### Trục, niềm tin, value system (13/11)
+- [x] **`M-he-gia-tri.md` ghi đè theo niềm tin** (13/11, tác giả): 16 chỗ lệch được ghi đè theo [[CH.thuyen.beliefs]] (động cơ hai lực 034 và 029; điểm mù theo 030; vạch do cái cân đặt; tình thương bằng vật theo 004 và 017; giấu năng lực theo 005, 002, 018; im lặng là lựa chọn theo 022, 008, 014). Mỗi chỗ mang nhãn `ghi đè 13/11`. §8.2 điểm 1 (đổ vỡ: "cái cân lộ ra") chờ tác giả xem lại.
+- [x] **PAST hiện tại sẽ bỏ** (13/11, tác giả): PAST được viết lại từ đầu; nội dung PAST hiện có không sửa tiếp, giữ tới khi bản mới thay.
+- [x] **Trục → niềm tin → value system** `locked 13/11` (tác giả): trục do tác giả định nghĩa; niềm tin thiết kế từ trục theo cá tính và mục đích dựng nhân vật; value system là thế giới quan hình thành từ niềm tin, dùng khi nhân vật quay ra ngoài; niềm tin dùng để độc thoại, tự soi. Vòng: niềm tin → value → hành động → kết quả → tự soi → niềm tin mới, nâng cấp hoặc đổi. Ranh giới theo vị trí trong vòng, ba phép thử. Ghi ở `docs/framework/model.md`, `schemas/value.md` (mới), `schemas/belief.md`, `schemas/event.md` (bốn trường của vòng), `PAST.G1`. Mã `V.<id>-NNN`. Luật `LAW.check.value-from`, `LAW.check.belief-value`.
+- [x] **Gói value của Thuyên** `CH.thuyen.values` (13/11): một hệ, chín tiêu chí (001–007 `agreed`, 008–009 `proposed`); tách phần value khỏi B.thuyen-035, 020, 016 (giữ số); mẹo hai tờ nháp (005) thành `tactics`; B.thuyen-004 vẫn là niềm tin.
+
 ## B. Còn mở: cần tác giả quyết
 
 ### Niềm tin
@@ -82,10 +88,6 @@ Cập nhật 11/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 - [ ] **ch.3**: cảnh mẹ khen Nam; câu gối nói ở ch.2–3.
 
 - [ ] **B.thuyen-004 độc thoại lớp 4** dựa vào phương trình đã bỏ (`needs-decision`).
-- [x] **`M-he-gia-tri.md` ghi đè theo niềm tin** (13/11, tác giả): 16 chỗ lệch được ghi đè theo [[CH.thuyen.beliefs]] (động cơ hai lực 034 và 029; điểm mù theo 030; vạch do cái cân đặt; tình thương bằng vật theo 004 và 017; giấu năng lực theo 005, 002, 018; im lặng là lựa chọn theo 022, 008, 014). Mỗi chỗ mang nhãn `ghi đè 13/11`. §8.2 điểm 1 (đổ vỡ: "cái cân lộ ra") chờ tác giả xem lại.
-- [x] **PAST hiện tại sẽ bỏ** (13/11, tác giả): PAST được viết lại từ đầu; nội dung PAST hiện có không sửa tiếp, giữ tới khi bản mới thay.
-- [x] **Trục → niềm tin → value system** `locked 13/11` (tác giả): trục do tác giả định nghĩa; niềm tin thiết kế từ trục theo cá tính và mục đích dựng nhân vật; value system là thế giới quan hình thành từ niềm tin, dùng khi nhân vật quay ra ngoài; niềm tin dùng để độc thoại, tự soi. Vòng: niềm tin → value → hành động → kết quả → tự soi → niềm tin mới, nâng cấp hoặc đổi. Ranh giới theo vị trí trong vòng, ba phép thử. Ghi ở `docs/framework/model.md`, `schemas/value.md` (mới), `schemas/belief.md`, `schemas/event.md` (bốn trường của vòng), `PAST.G1`. Mã `V.<id>-NNN`. Luật `LAW.check.value-from`, `LAW.check.belief-value`.
-- [x] **Gói value của Thuyên** `CH.thuyen.values` (13/11): một hệ, chín tiêu chí (001–007 `agreed`, 008–009 `proposed`); tách phần value khỏi B.thuyen-035, 020, 016 (giữ số); mẹo hai tờ nháp (005) thành `tactics`; B.thuyen-004 vẫn là niềm tin.
 
 ## C. Còn mở: Claude làm khi tác giả bảo
 
