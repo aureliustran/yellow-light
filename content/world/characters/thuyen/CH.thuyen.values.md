@@ -5,18 +5,18 @@ status: agreed
 updated: 2026-11-13
 aliases: [hệ giá trị Thuyên, value system Thuyên, giá trị Thuyên]
 exports:
-  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-001]]"
-  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-002]]"
-  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-003]]"
-  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-004]]"
-  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-005]]"
-  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-006]]"
-  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-007]]"
-  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-008]]"
-  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-009]]"
-  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-010]]"
-  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-011]]"
-  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-012]]"
+  - "[[V.thuyen-001]]"
+  - "[[V.thuyen-002]]"
+  - "[[V.thuyen-003]]"
+  - "[[V.thuyen-004]]"
+  - "[[V.thuyen-005]]"
+  - "[[V.thuyen-006]]"
+  - "[[V.thuyen-007]]"
+  - "[[V.thuyen-008]]"
+  - "[[V.thuyen-009]]"
+  - "[[V.thuyen-010]]"
+  - "[[V.thuyen-011]]"
+  - "[[V.thuyen-012]]"
 parent: "[[CH.thuyen]]"
 sources:
   - "tác giả 13/11 (trục → niềm tin → value system; vòng vận hành; ranh giới; tách 035, 020, 016)"
@@ -35,137 +35,18 @@ Một cỗ máy tự sửa: đo mọi thứ bằng cái cân của mình, tìm k
 
 ## measure
 
-Mọi thứ, kể cả chính mình, đều có ưu khuyết đo được, và phép đo là cái cân của anh, không phải thước của người khác. Từ [[CH.thuyen.beliefs#B.thuyen-010]] và [[CH.thuyen.beliefs#B.thuyen-021]].
+Mọi thứ, kể cả chính mình, đều có ưu khuyết đo được, và phép đo là cái cân của anh, không phải thước của người khác. Từ [[B.thuyen-010]] và [[B.thuyen-021]].
 
 ## blind
 
 Giới hạn của việc tự soi; công cụ tự soi là [[FN.thuyen.lang-kinh]].
 
-- Anh thấy thước của người khác là chủ quan, và tự miễn cho cái cân của mình: anh không soi ai đặt vạch đích cho chính cái cân ấy ([[CH.thuyen.beliefs#B.thuyen-030]], [[CH.thuyen.beliefs#B.thuyen-034]]).
-- Thứ không kêu thành tiếng thì không phải chỗ kẹt: cảm xúc, của người khác và của chính anh, không lên được bàn cân ([[CH.thuyen.beliefs#B.thuyen-010]]).
+- Anh thấy thước của người khác là chủ quan, và tự miễn cho cái cân của mình: anh không soi ai đặt vạch đích cho chính cái cân ấy ([[B.thuyen-030]], [[B.thuyen-034]]).
+- Thứ không kêu thành tiếng thì không phải chỗ kẹt: cảm xúc, của người khác và của chính anh, không lên được bàn cân ([[B.thuyen-010]]).
 - Nhu cầu được thương (cụm C7) vẫn nuôi lựa chọn của anh, nhưng anh nêu sai lý do, vì anh không nhìn thấy nó.
 
 ## values
-
-### V.thuyen-001
-
-- **name:** Sửa khuyết trên lộ trình
-- **statement:** Khuyết điểm chặn lộ trình đã chọn thì đáng sửa; khuyết điểm ngoài lộ trình thì bỏ qua; sửa xong mới được dừng.
-- **from:** [[CH.thuyen.beliefs#B.thuyen-035]], [[CH.thuyen.beliefs#B.thuyen-010]]
-- **applies:** chọn việc, học, làm việc; chấm chính mình
-- **tactics:** none
-- **cost:** thứ nằm ngoài lộ trình bị bỏ, kể cả con người và cảm xúc
-- **status:** `agreed`
-
-### V.thuyen-002
-
-- **name:** Tối ưu, kể cả khi không ai chấm
-- **statement:** Một lời giải đúng chưa đáng dừng; lời giải tối ưu mới đáng, kể cả khi bài dễ và không ai chấm.
-- **from:** [[CH.thuyen.beliefs#B.thuyen-021]]
-- **applies:** giải bài, viết mã, làm việc ở lab; `khong` ở P2 (anh quên dòng này)
-- **tactics:** none
-- **cost:** tốn công ở chỗ không ai cần
-- **status:** `agreed`
-
-### V.thuyen-003
-
-- **name:** Đo sức mạnh bằng số người mình nâng lên
-- **statement:** Nâng được người khác lên đáng hơn đánh bại được người khác.
-- **from:** [[CH.thuyen.beliefs#B.thuyen-016]]
-- **applies:** dẫn nhóm, giúp người (đại học, GĐ1); mất ở P2, trả lại ở phần sau
-- **tactics:** none
-- **cost:** none
-- **status:** `agreed`
-
-### V.thuyen-004
-
-- **name:** Vị thế trước, nói thật sau
-- **statement:** Giành được vị thế đáng hơn nói ra điều đúng ngay bây giờ.
-- **from:** [[CH.thuyen.beliefs#B.thuyen-033]]
-- **applies:** đối diện người có quyền; chọn lúc lên tiếng
-- **tactics:** none
-- **cost:** hoãn nói thật cho tới khi "đủ cao"; ở P2 cái đúng của anh thành quy tắc để đè người
-- **status:** `agreed`
-
-### V.thuyen-005
-
-- **name:** Được nể hơn được thương
-- **statement:** Sự kiêng nể đáng tin cậy hơn tình thương, nên đáng giành hơn.
-- **from:** [[CH.thuyen.beliefs#B.thuyen-027]]
-- **applies:** cách đối xử với người khác từ lớp 7; cực đoan ở P2
-- **tactics:** [[FN.thuyen.quan-su]] (lắng nghe để dắt)
-- **cost:** bị coi là đáng sợ, đáng ghét
-- **status:** `agreed`
-
-### V.thuyen-006
-
-- **name:** Phán đoán của mình trên sự gật đầu
-- **statement:** Khi phán đoán của mình và ý người khác va nhau, phán đoán của mình đáng theo hơn.
-- **from:** [[CH.thuyen.beliefs#B.thuyen-021]]
-- **applies:** mọi quyết định có người phản đối
-- **tactics:** [[FN.thuyen.hai-to-nhap]]
-- **cost:** không để ai chạm vào
-- **status:** `agreed`
-
-### V.thuyen-007
-
-- **name:** Đường vòng hơn đối đầu
-- **statement:** Đạt mục tiêu bằng đường vòng đáng hơn thắng một trận đối đầu trực diện.
-- **from:** [[CH.thuyen.beliefs#B.thuyen-006]], [[CH.thuyen.beliefs#B.thuyen-029]], [[CH.thuyen.beliefs#B.thuyen-033]]
-- **applies:** xung đột với người có quyền
-- **tactics:** [[FN.thuyen.di-vong]], [[FN.thuyen.quan-su]] (để người khác tin mong muốn là của họ)
-- **cost:** none
-- **status:** `agreed`
-
-### V.thuyen-008
-
-- **name:** Luôn có mục tiêu kế tiếp
-- **statement:** Có một thứ rõ ràng ở phía trước đáng hơn được nghỉ; không để mình rảnh.
-- **from:** [[CH.thuyen.beliefs#B.thuyen-035]], [[CH.thuyen.beliefs#B.thuyen-007]]
-- **applies:** lúc vừa đạt một mục tiêu; lúc rảnh
-- **tactics:** tự đẻ việc; danh sách, file *next*
-- **cost:** cảnh rảnh là cảnh đau
-- **status:** `proposed`
-
-### V.thuyen-009
-
-- **name:** Thành quả xứng với công
-- **statement:** Việc chỉ đáng làm khi thành quả xứng với công bỏ ra: thành quả nhỏ thì làm tối thiểu, thành quả lớn thì cày.
-- **from:** [[CH.thuyen.beliefs#B.thuyen-010]], [[CH.thuyen.beliefs#B.thuyen-035]]
-- **applies:** chọn bỏ công vào đâu (học thuộc, việc nhà, việc ở lab); phép tính là [[FN.thuyen.luoi-co-chon-loc]]
-- **tactics:** [[FN.thuyen.luoi-co-chon-loc]]
-- **cost:** người ngoài thấy lười; ở đáy phép tính trả về không
-- **status:** `proposed`
-
-### V.thuyen-010
-
-- **name:** Không để ai thấy bên trong
-- **statement:** Không để ai thấy bên trong mình đáng hơn được hiểu, được an ủi.
-- **from:** [[CH.thuyen.beliefs#B.thuyen-022]], [[CH.thuyen.beliefs#B.thuyen-014]], [[CH.thuyen.beliefs#B.thuyen-008]], [[CH.thuyen.beliefs#B.thuyen-032]]
-- **applies:** mọi lúc có người tới gần chỗ đau hoặc ý nghĩ thật của anh
-- **tactics:** [[FN.thuyen.vo-cam]], [[FN.thuyen.teu]], [[FN.thuyen.phong-kin]], [[FN.thuyen.cai-goi]] (khóa 1)
-- **cost:** không ai trấn an thật; đeo đủ lâu thì tin đó là mặt thật
-- **status:** `proposed`
-
-### V.thuyen-011
-
-- **name:** Không nợ ai
-- **statement:** Không mang nợ ai đáng hơn được nhận.
-- **from:** [[CH.thuyen.beliefs#B.thuyen-017]]
-- **applies:** khi được cho mà không gắn với thành tích; khi được giúp
-- **tactics:** [[FN.thuyen.gat-tinh-thuong]], [[FN.thuyen.cai-goi]] (khóa 3)
-- **cost:** làm quân sư cho người khác được, nhận lại thì không
-- **status:** `proposed`
-
-### V.thuyen-012
-
-- **name:** Câu trả lời trên thể diện
-- **statement:** Có được câu trả lời đáng hơn giữ thể diện hay tránh bị mắng.
-- **from:** [[CH.thuyen.beliefs#B.thuyen-026]], [[CH.thuyen.beliefs#B.thuyen-001]]
-- **applies:** khi cần biết một thứ
-- **tactics:** [[FN.thuyen.hoi-chon-loc]]
-- **cost:** none
-- **status:** `proposed`
+- **members:** [[V.thuyen-001]], [[V.thuyen-002]], [[V.thuyen-003]], [[V.thuyen-004]], [[V.thuyen-005]], [[V.thuyen-006]], [[V.thuyen-007]], [[V.thuyen-008]], [[V.thuyen-009]], [[V.thuyen-010]], [[V.thuyen-011]], [[V.thuyen-012]]
 
 ## rank
 

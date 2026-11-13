@@ -28,15 +28,15 @@ Lõi gương của quan hệ. **Phụ thuộc một chiều:** gương đọc ni
 
 | Chiều | Thuyên | Nhi |
 | --- | --- | --- |
-| cây thước bị bỏ | vạch luôn **trên** anh, dời lên mỗi lần anh chạm tới, luôn trả "chưa đủ" ([[CH.thuyen.beliefs#B.thuyen-030]]) | vạch luôn **dưới** cô nhờ lâu đài, luôn trả "đủ" ([[CH.nhi.beliefs#B.nhi-003]]) |
+| cây thước bị bỏ | vạch luôn **trên** anh, dời lên mỗi lần anh chạm tới, luôn trả "chưa đủ" ([[B.thuyen-030]]) | vạch luôn **dưới** cô nhờ lâu đài, luôn trả "đủ" ([[B.nhi-003]]) |
 | vì sao bỏ | một cây thước lúc nào cũng nói một câu thì không đo được gì về người bị đo | như bên trái, ở chiều ngược lại |
-| cái cân đo gì | năng lực: lập luận, dữ kiện, lời giải tối ưu ([[CH.thuyen.beliefs#B.thuyen-021]]) | con mắt: cái đẹp, gu, độ thật – giả ([[CH.nhi.beliefs#B.nhi-001]]) |
-| điều kiện đo sạch | hai tờ nháp ([[CH.thuyen.beliefs#B.thuyen-005]]) | ẩn danh tính: K17, hàng thứ hai, cửa hàng |
+| cái cân đo gì | năng lực: lập luận, dữ kiện, lời giải tối ưu ([[B.thuyen-021]]) | con mắt: cái đẹp, gu, độ thật – giả ([[B.nhi-001]]) |
+| điều kiện đo sạch | hai tờ nháp ([[B.thuyen-005]]) | ẩn danh tính: K17, hàng thứ hai, cửa hàng |
 | giá bỏ thước | đau (roi, sổ hai cột): cái cân vững mà đắt | rẻ: cái cân nhẹ, vui, chưa từng bị thử |
-| vạch tự vẽ (lực kéo) | [[CH.thuyen.beliefs#B.thuyen-034]]: cột mốc trong quá trình dài hạn; mơ hồ; *vertical scaling*, độ khó tăng dần; trải nghiệm tiêu cực | [[CH.nhi.beliefs#B.nhi-006]]: hoàn thành quá trình ngắn hạn; rõ ràng; *horizontal scaling*, độ khó dễ đều; trải nghiệm tích cực |
-| lực đẩy | [[CH.thuyen.beliefs#B.thuyen-029]]: sợ lại thành người đau cho lợi ích kẻ khác | sợ mình chỉ có giá trị nhờ lâu đài |
-| người khác | không được có quyền phán xét anh (tấm khiên, [[CH.thuyen.beliefs#B.thuyen-024]]) | phải phán xét thật (cô chờ người nói thật) |
-| được nghe | bị trừ độ tin cậy vì người nói là anh ([[CH.thuyen.beliefs#B.thuyen-001]]) | được cộng độ tin cậy vì người nói là cô ([[CH.nhi.beliefs#B.nhi-003]]); cùng tham chiếu Fricker |
+| vạch tự vẽ (lực kéo) | [[B.thuyen-034]]: cột mốc trong quá trình dài hạn; mơ hồ; *vertical scaling*, độ khó tăng dần; trải nghiệm tiêu cực | [[B.nhi-006]]: hoàn thành quá trình ngắn hạn; rõ ràng; *horizontal scaling*, độ khó dễ đều; trải nghiệm tích cực |
+| lực đẩy | [[B.thuyen-029]]: sợ lại thành người đau cho lợi ích kẻ khác | sợ mình chỉ có giá trị nhờ lâu đài |
+| người khác | không được có quyền phán xét anh (tấm khiên, [[B.thuyen-024]]) | phải phán xét thật (cô chờ người nói thật) |
+| được nghe | bị trừ độ tin cậy vì người nói là anh ([[B.thuyen-001]]) | được cộng độ tin cậy vì người nói là cô ([[B.nhi-003]]); cùng tham chiếu Fricker |
 | chuyển hóa (AX3.4) | lực đẩy góp tay đặt vạch đích; áp mục tiêu của mình lên người khác | cây thước lâu đài sống tiếp ở chỗ cô đo người mình muốn (gia thế) |
 
 ### meeting

@@ -24,7 +24,7 @@ body      GU MẮT  cao, vai rộng, mặc đẹp không cố, chút "bad"; size
           nấc: tập giá trị của thuộc tính `nac-thich`, định nghĩa ở node chủ ROM.TN (mục `nac-thich`, 13/11)
 out       câu tự chối theo nấc; hành vi chủ động kiểu Marin từ nấc 6
 effects   với Thuyên: anh đạt gu mắt, đạt gu lòng ở dạng ngầm, đạt gu ẩn; trượt cái thước gia thế, đạt nhu cầu thật
-uses      [[CH.nhi.beliefs#B.nhi-004]], [[CH.nhi.beliefs#B.nhi-005]], [[FN.nhi.cam]]
+uses      [[B.nhi-004]], [[B.nhi-005]], [[FN.nhi.cam]]
 render    khuôn tình tiết A–H của `03-kho` §2 sẽ thành `PAT.*` (B4c)
 ```
 

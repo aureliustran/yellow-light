@@ -219,33 +219,41 @@ law('LAW.check.source-path', () => {
   }
 });
 
-law('LAW.check.value-from', () => {
-  // mỗi value có from trỏ tới ít nhất một niềm tin có thật
-  const beliefIds = new Set();
-  for (const it of items) if (/\.beliefs$/.test(it.base)) for (const m of it.body.matchAll(/^### (B\.[a-z-]+?-\d{3})\s*$/gm)) beliefIds.add(m[1]);
+law('LAW.check.entity-file', () => {
+  // belief và value là file riêng: tên file = id, id đúng khuôn, nhân vật khớp, mục lục (index) có liệt kê
   for (const it of items) {
-    if (!/\.values$/.test(it.base)) continue;
-    const lines = it.body.split(/\r?\n/);
-    let cur = null;
-    const close = () => { if (cur && !cur.ok) add('LAW.check.value-from', 'error', it, cur.line, `${cur.id} không có from trỏ tới niềm tin`); };
-    lines.forEach((line, i) => {
-      const h = line.match(/^### (V\.[a-z-]+?-\d{3})\s*$/);
-      if (h) { close(); cur = { id: h[1], line: it.bodyStart + i + 1, ok: false }; return; }
-      if (/^## /.test(line)) { close(); cur = null; return; }
-      if (cur && /^- \*\*from:\*\*/.test(line)) {
-        const refs = [...line.matchAll(/B\.[a-z-]+?-\d{3}/g)].map((m) => m[0]);
-        cur.ok = refs.length > 0;
-        for (const r of refs) if (!beliefIds.has(r)) add('LAW.check.value-from', 'error', it, it.bodyStart + i + 1, `${cur.id}: from trỏ niềm tin không có: ${r}`);
-      }
-    });
-    close();
+    const kind = it.props.kind;
+    if (kind !== 'belief' && kind !== 'value') continue;
+    const P = kind === 'belief' ? 'B' : 'V';
+    const m = it.props.id && it.props.id.match(new RegExp('^' + P + '\\.([a-z]+)-\\d{3}$'));
+    if (!m) { add('LAW.check.entity-file', 'error', it, 1, `id "${it.props.id}" sai khuôn ${P}.<nhân vật>-NNN`); continue; }
+    if (it.base !== it.props.id) add('LAW.check.entity-file', 'error', it, 1, `tên file "${it.base}" khác id "${it.props.id}"`);
+    if (!new RegExp('\\[\\[CH\\.' + m[1] + '\\]\\]').test(it.props.character || '')) add('LAW.check.entity-file', 'error', it, 1, `character phải là [[CH.${m[1]}]]`);
+    const idx = (it.props.index || '').match(/\[\[([^\]|#]+)/);
+    const target = idx && resolve(idx[1].trim())[0];
+    if (!target) { add('LAW.check.entity-file', 'error', it, 1, 'thiếu index trỏ tới mục lục của gói'); continue; }
+    const need = kind === 'belief' ? 'definition' : 'statement';
+    if (!new RegExp('^- \\*\\*' + need + ':\\*\\*', 'm').test(it.body)) add('LAW.check.entity-file', 'error', it, 1, `thiếu mục \`- **${need}:**\` trong thân file`);
+    if (kind === 'belief' && !it.props.axis) add('LAW.check.entity-file', 'warn', it, 1, 'niềm tin chưa có trục (axis): chưa thiết kế từ trục');
+    if (!target.links.some((l) => l.target === it.props.id)) add('LAW.check.entity-file', 'error', it, 1, `mục lục ${target.rel} không liệt kê ${it.props.id}`);
+  }
+});
+
+law('LAW.check.value-from', () => {
+  // mỗi value có from (frontmatter) trỏ tới ít nhất một niềm tin có thật
+  const beliefIds = new Set(items.filter((it) => it.props.kind === 'belief').map((it) => it.props.id));
+  for (const it of items) {
+    if (it.props.kind !== 'value') continue;
+    const refs = [...(it.props.from || '').matchAll(/B\.[a-z-]+?-\d{3}/g)].map((m) => m[0]);
+    if (!refs.length) add('LAW.check.value-from', 'error', it, 1, `${it.props.id} không có from trỏ tới niềm tin`);
+    for (const r of refs) if (!beliefIds.has(r)) add('LAW.check.value-from', 'error', it, 1, `${it.props.id}: from trỏ niềm tin không có: ${r}`);
   }
 });
 
 law('LAW.check.belief-value', () => {
-  // niềm tin không trỏ tới value
+  // niềm tin không trỏ tới value (cả file belief lẫn mục lục niềm tin)
   for (const it of items) {
-    if (!/\.beliefs$/.test(it.base)) continue;
+    if (it.props.kind !== 'belief' && !/\.beliefs$/.test(it.base)) continue;
     it.body.split(/\r?\n/).forEach((line, i) => {
       const m = line.match(/(^|[^A-Za-z0-9.])V\.[a-z-]+?-\d{3}/);
       if (m) add('LAW.check.belief-value', 'error', it, it.bodyStart + i + 1, 'niềm tin trỏ tới value (chỉ value được trỏ về niềm tin)');
@@ -256,7 +264,7 @@ law('LAW.check.belief-value', () => {
 law('LAW.check.method-from', () => {
   // hàm kiểu method phải trỏ về ít nhất một value có thật; type chỉ nhận innate | method
   const valueIds = new Set();
-  for (const it of items) if (/\.values$/.test(it.base)) for (const m of it.body.matchAll(/^### (V\.[a-z-]+?-\d{3})\s*$/gm)) valueIds.add(m[1]);
+  for (const it of items) if (it.props.kind === 'value') valueIds.add(it.props.id);
   for (const it of items) {
     if (it.props.kind !== 'function' || !it.props.type) continue;
     if (!['innate', 'method'].includes(it.props.type)) { add('LAW.check.method-from', 'error', it, 1, `type "${it.props.type}" không hợp lệ (innate | method)`); continue; }

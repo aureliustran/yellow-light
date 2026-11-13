@@ -6,7 +6,7 @@ updated: 2026-11-13
 parent: "[[CH.thuyen.mechanics]]"
 type: method
 from:
-  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-010]]"
+  - "[[V.thuyen-010]]"
 aliases: [fn.thuyen.teu, tếu, van xả, Ngạo Trào Song]
 sources:
   - "_archive/tuyen/qua-khu/thuyen-da-nhan-cach.md §3–5, §8"
@@ -42,4 +42,4 @@ render    DV-008 (tếu sau cú chạm, bóc vỏ, người bắt được van x
 
 ## chain `13/11`
 
-Method của [[CH.thuyen.values#V.thuyen-010]]. Nhận phần cách đối phó của B.thuyen-011 (ba dạng giọng đùa: cười trước, đùa xong, nói thật bằng giọng đùa).
+Method của [[V.thuyen-010]]. Nhận phần cách đối phó của B.thuyen-011 (ba dạng giọng đùa: cười trước, đùa xong, nói thật bằng giọng đùa).

@@ -46,7 +46,7 @@ Header field `type`:
 | Type | Meaning | `from` |
 | --- | --- | --- |
 | `innate` | a capacity or effect the character is born with (observation, a nervous system, a gift) | none |
-| `method` | a way of coping learned for specific cases: a function, a coping thought, an action. Produced by the tactics of a value | required: `[[CH.<id>.values#V.<id>-NNN]]`, at least one |
+| `method` | a way of coping learned for specific cases: a function, a coping thought, an action. Produced by the tactics of a value | required: `[[V.<id>-NNN]]`, at least one |
 
 The case a method answers is its `in`. A method points to its value; the value's `tactics` mirrors that list. Chain: axis → belief → value → tactics → method ([[docs/framework/model|model]] *Axis → belief → value*). A function with no `type` is not yet classified.
 

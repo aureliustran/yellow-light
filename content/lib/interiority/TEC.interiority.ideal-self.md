@@ -14,7 +14,7 @@ sources:
 ---
 # TEC.interiority.ideal-self · Phiên bản lý tưởng lóe trong khối nội tâm
 
-Đưa lực kéo ([[CH.thuyen.beliefs#B.thuyen-034]]) lên trang qua lời người kể. Phục vụ register R10 ([[REG.noi-tam]], khối nội tâm, `rules/registers.md` §2.6; chuyển vào repo 13/11). Mô hình `locked 10/11`; kỹ thuật `proposed`.
+Đưa lực kéo ([[B.thuyen-034]]) lên trang qua lời người kể. Phục vụ register R10 ([[REG.noi-tam]], khối nội tâm, `rules/registers.md` §2.6; chuyển vào repo 13/11). Mô hình `locked 10/11`; kỹ thuật `proposed`.
 
 ## steps
 

@@ -6,7 +6,7 @@ updated: 2026-11-13
 parent: "[[CH.thuyen.mechanics]]"
 type: method
 from:
-  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-009]]"
+  - "[[V.thuyen-009]]"
 aliases: [fn.thuyen.luoi-co-chon-loc, lười có chọn lọc]
 sources:
   - "[[M-he-gia-tri|M-he-gia-tri.md §3b]]"
@@ -41,4 +41,4 @@ render    đối trọng hài: vụng việc nhỏ (khâu cúc, cơm khê) vì m
 
 ## chain `13/11`
 
-Method của [[CH.thuyen.values#V.thuyen-009]] (`proposed`).
+Method của [[V.thuyen-009]] (`proposed`).

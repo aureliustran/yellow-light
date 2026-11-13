@@ -4,7 +4,7 @@ kind: schema
 entity: belief
 status: agreed
 updated: 2026-11-13
-required: [id, definition, axis, status]
+required: [id, character, cluster, status]
 aliases: [schema.belief]
 sources:
   - "[[de-xuat/kien-truc-framework|kien-truc-framework.md §5]]"
@@ -14,7 +14,7 @@ sources:
 
 A belief (old `NT-`): what a character holds about self, others or the world, produced by personality meeting a wound, consumed by present events.
 
-**Location:** inline in `world/characters/<id>/CH.<id>.beliefs.md` (one file, many beliefs). **Id:** `B.<character id>-<NNN>`, numbered within the character (`-`, not `:`: Obsidian reads `B.thuyen:024` as a URL scheme, 11/11) (adding a belief to one character never shifts another's numbers) `locked 11/11`; heading `### B.thuyen-024`, link `[[CH.thuyen.beliefs#B.thuyen-024]]`. Old global codes: `BL-001…035` → `B.thuyen-001…035` (giữ số); `BL-040…045` → `B.nhi-001…006`; `BL-050` → `B.vu-001`; `NT-nn` kept as aliases.
+**Location:** one file per belief, `world/characters/<id>/beliefs/B.<id>-NNN.md` (file name = id) `locked 13/11`; the package file `CH.<id>.beliefs.md` stays as the **index** (clusters with their shared definition, `members`, merged or moved numbers). **Id:** `B.<character id>-<NNN>`, numbered within the character (`-`, not `:`: Obsidian reads `B.thuyen:024` as a URL scheme, 11/11) (adding a belief to one character never shifts another's numbers) `locked 11/11`; link `[[B.thuyen-024]]`. Old global codes: `BL-001…035` → `B.thuyen-001…035` (giữ số); `BL-040…045` → `B.nhi-001…006`; `BL-050` → `B.vu-001`; `NT-nn` kept as aliases.
 
 ## Place in the loop `locked 13/11`
 
@@ -41,6 +41,10 @@ Stages are the trace of the loop: each stage is one upgrade or change, and point
 
 An innate psychological effect that the character holds no thought about is **not a belief**: it goes to a function (`FN.*`) as a definition only.
 
+## File shape `locked 13/11`
+
+Frontmatter (`id`, `kind: belief`, `status`, `updated`, `character: [[CH.<id>]]`, `aliases` for old codes, `cluster: C<n>`, `axis`, `index: [[CH.<id>.beliefs]]`). Body: `# <id>`, then one bullet per field below (`definition`, `ref`, `deviation`, `seen`, `monologue`, `other-face`, `age`, `design`, `parent`, `origin`, `formed`, `consumed`, `status-note`). `cluster`, `axis` and `status` live in the frontmatter only. Checked by `LAW.check.entity-file`: file name = id, the index lists it, `definition` present, `axis` present (warning when missing).
+
 ## Fields
 
 | Field | Meaning |
@@ -62,7 +66,7 @@ An innate psychological effect that the character holds no thought about is **no
 
 `consumed-by` is generated from events' `beliefs` field. A belief no event consumes is listed as *waiting*: a candidate for planning.
 
-**Clusters** `agreed 10/11`: beliefs are grouped by the existential question the character answers, not by axis. Each cluster is a `## C<n> · <name>` section in the beliefs file with `question`, `root`, `axes` and a shared `definition`; members follow in age order. A cluster may be definition-only (a question the character never asks, all `seen: khong`).
+**Clusters** `agreed 10/11`: beliefs are grouped by the existential question the character answers, not by axis. Each cluster is a `## C<n> · <name>` section in the index file with `question`, `root`, `axes`, a shared `definition` and a `members` line (links, in age order); the members themselves are the belief files. A cluster may be definition-only (a question the character never asks, all `seen: khong`).
 
 **Mirrors** `agreed 10/11`: a contrast between two characters' beliefs lives in the `mirror` section of their relationship node (e.g. [[ROM.TN]]), never inside either character's beliefs. A belief describes only its own side and does not link to the mirror; the mirror links to the beliefs.
 

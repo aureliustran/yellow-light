@@ -20,8 +20,10 @@ A **static** entity (dimension table). Values over time live in nodes (`storylin
 ```
 world/characters/<id>/
 ├── CH.<id>.md                 main file
-├── CH.<id>.beliefs.md         B.<id>-NNN (schemas/belief.md)
-├── CH.<id>.values.md          V.<id>-NNN, the value system (schemas/value.md)
+├── CH.<id>.beliefs.md         index of beliefs: clusters, members (schemas/belief.md)
+├── beliefs/B.<id>-NNN.md      one file per belief
+├── CH.<id>.values.md          index of the value system (schemas/value.md)
+├── values/V.<id>-NNN.md       one file per value
 ├── CH.<id>.voice.md           base voice: dialogue · narration (when POV) · lexicon · forbidden
 └── mechanics/
     ├── CH.<id>.mechanics.md   signature of every function, one line each

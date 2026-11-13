@@ -61,13 +61,13 @@ Người kể đi theo Thuyên bằng gián tiếp tự do. Ba lớp:
 
 | Chặng | Tuổi | Mối lo (bản đồ) | Dạng câu | Niềm tin chạy ở chặng |
 | --- | --- | --- | --- | --- |
-| 1 | Mầm non đến lớp 3 | Vô nghĩa (sơ khai), qua bầu trời | Câu hỏi trẻ con về vật cụ thể, không trả lời | [[CH.thuyen.beliefs#B.thuyen-001]], [[CH.thuyen.beliefs#B.thuyen-002]] |
-| 2 | Lớp 3 đến 5 | Cô đơn: không ai nghe | Hỏi về tình thương có điều kiện, rất cụ thể | [[CH.thuyen.beliefs#B.thuyen-024]], [[CH.thuyen.beliefs#B.thuyen-004]], [[CH.thuyen.beliefs#B.thuyen-026]], [[CH.thuyen.beliefs#B.thuyen-033]], [[CH.thuyen.beliefs#B.thuyen-002]] |
-| 3 | Lớp 6 đến 7 | Công bằng, cây thước (mầm) | Lý luận kiểu bài toán, bế tắc | [[CH.thuyen.beliefs#B.thuyen-005]], [[CH.thuyen.beliefs#B.thuyen-021]], [[CH.thuyen.beliefs#B.thuyen-026]], [[CH.thuyen.beliefs#B.thuyen-033]], [[CH.thuyen.beliefs#B.thuyen-006]] |
-| 4 | Lớp 8 đến 9 | Vô nghĩa, cô đơn | Trốn vào câu hỏi lớn; câu "chắc ai cũng thế" cắt ngang | [[CH.thuyen.beliefs#B.thuyen-007]], [[CH.thuyen.beliefs#B.thuyen-008]], [[CH.thuyen.beliefs#B.thuyen-009]], [[CH.thuyen.beliefs#B.thuyen-022]] |
-| 5 | Lớp 10 đến 11 | Tự do (giả), cây thước | Mệnh đề lạnh; lần đầu hỏi ai đặt thước nhưng không đi tiếp | [[CH.thuyen.beliefs#B.thuyen-017]], [[CH.thuyen.beliefs#B.thuyen-009]], [[CH.thuyen.beliefs#B.thuyen-011]] |
-| 6 | Hè lớp 11 đến lớp 12 | Tự do (thật, lần đầu) | Một mong muốn không để thắng | [[CH.thuyen.beliefs#B.thuyen-018]] |
-| 7 | Đại học | Cô đơn giữa đám đông | Hài hước khô, đứng ngoài nhìn mình | [[CH.thuyen.beliefs#B.thuyen-023]] |
+| 1 | Mầm non đến lớp 3 | Vô nghĩa (sơ khai), qua bầu trời | Câu hỏi trẻ con về vật cụ thể, không trả lời | [[B.thuyen-001]], [[B.thuyen-002]] |
+| 2 | Lớp 3 đến 5 | Cô đơn: không ai nghe | Hỏi về tình thương có điều kiện, rất cụ thể | [[B.thuyen-024]], [[B.thuyen-004]], [[B.thuyen-026]], [[B.thuyen-033]], [[B.thuyen-002]] |
+| 3 | Lớp 6 đến 7 | Công bằng, cây thước (mầm) | Lý luận kiểu bài toán, bế tắc | [[B.thuyen-005]], [[B.thuyen-021]], [[B.thuyen-026]], [[B.thuyen-033]], [[B.thuyen-006]] |
+| 4 | Lớp 8 đến 9 | Vô nghĩa, cô đơn | Trốn vào câu hỏi lớn; câu "chắc ai cũng thế" cắt ngang | [[B.thuyen-007]], [[B.thuyen-008]], [[B.thuyen-009]], [[B.thuyen-022]] |
+| 5 | Lớp 10 đến 11 | Tự do (giả), cây thước | Mệnh đề lạnh; lần đầu hỏi ai đặt thước nhưng không đi tiếp | [[B.thuyen-017]], [[B.thuyen-009]], [[B.thuyen-011]] |
+| 6 | Hè lớp 11 đến lớp 12 | Tự do (thật, lần đầu) | Một mong muốn không để thắng | [[B.thuyen-018]] |
+| 7 | Đại học | Cô đơn giữa đám đông | Hài hước khô, đứng ngoài nhìn mình | [[B.thuyen-023]] |
 | 8 | Lab giai đoạn 2 | Vắng mặt | Câu hỏi bị thay bằng danh sách; không còn hỏi | none |
 | 9 | Đáy | Cả bốn, dồn lại | Vòng lặp không có điều kiện dừng; câu của nấc 1 quay lại ở dạng người lớn | none |
 

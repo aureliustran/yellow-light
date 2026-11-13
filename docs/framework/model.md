@@ -43,8 +43,8 @@ One line per kind; the schema is the source of truth. Ids follow [ids.md](ids.md
 | setting | `SET.<name>` | file | `schemas/setting.md` |
 | object | `OBJ-NNN` | file or inline | `schemas/object.md` |
 | secret | `SEC-NNN` | file | `schemas/secret.md` |
-| belief | `B.<char>-<NNN>` | inline in the character's beliefs file | `schemas/belief.md` |
-| value | `V.<char>-<NNN>` | inline in the character's values file | `schemas/value.md` |
+| belief | `B.<char>-<NNN>` | one file in `beliefs/` of the character package | `schemas/belief.md` |
+| value | `V.<char>-<NNN>` | one file in `values/` of the character package | `schemas/value.md` |
 | function | `FN.<character>.<name>` | file in the character package | `schemas/function.md` |
 | storyline | `ROM`, `PAST`, … | file | `schemas/node.md` |
 | node | `ROM.TN`, `PAST.N.HD`, `SELF.thuyen` | file | `schemas/node.md` |

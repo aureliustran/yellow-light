@@ -22,7 +22,7 @@ body      cảm được → gọi tên được → gán sai nguyên nhân (ho�
 out       với Thuyên: cô gọi tên cảm xúc cho anh, điều lời kể POV Thuyên không làm
           với mình: câu tự chối gán sai ("Mình chỉ đói.", "Tại trời lạnh.")
 effects   bổ trợ: cô đem lại tri giác anh thiếu (đọc người, mù với mình); anh giải quyết vấn đề cho cô
-uses      [[CH.nhi.beliefs#B.nhi-004]]
+uses      [[B.nhi-004]]
 render    interlude POV Nhi: giọng ghi chú điện thoại ([[CH.nhi.voice]])
 ```
 

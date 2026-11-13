@@ -16,11 +16,11 @@ when      luôn
 body      mua trà sữa, đồ ăn, quà → chủ động hỏi han → không đòi người ta yêu lại
 out       hành động, không có câu bộ chịu đựng
 effects   với Thuyên: lòng tốt tới gần kích hoạt khóa 3 của cái gối (DV-007); Thuyên học thuộc mà không làm
-uses      [[CH.vu.beliefs#B.vu-001]], [[FN.thuyen.cai-goi]]
+uses      [[B.vu-001]], [[FN.thuyen.cai-goi]]
 render    DV-001 (hai bộ từ vựng: Vũ thương bằng hành động, không nói câu bộ chịu đựng), DV-007 mỗi lần Vũ tới gần
 ```
 
 ## notes
 
-- Phản đề sống của [[CH.thuyen.beliefs#B.thuyen-024]].
+- Phản đề sống của [[B.thuyen-024]].
 - Mã thiết bị cũ ở `vu.md`: TB-1, TB-7, TB-8 → `DV-001`, `DV-007`, `DV-008` của [[CH.thuyen.mechanics]].

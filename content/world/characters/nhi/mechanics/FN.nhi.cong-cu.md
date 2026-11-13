@@ -20,7 +20,7 @@ body      mặc định: RANH CON  câu sắc, mặt tỉnh, chọc sát ranh r�
           bị lấy quyền lợi, hoặc Thuyên chọc quá tay → ĐANH ĐÁ  nói ngay, nói to; sang, trúng
 out       câu đáp; với Thuyên: hai nấc để cãi (anh "kid" → cô ranh con; anh chọc cay → cô đanh đá; anh gọi tên → anh nghiêm thật)
 effects   Thuyên càng tin cô không thích mình (ROM.TN)
-uses      [[CH.nhi.beliefs#B.nhi-003]]
+uses      [[B.nhi-003]]
 render    giọng: [[CH.nhi.voice]]
 ```
 

@@ -6,8 +6,8 @@ updated: 2026-11-13
 parent: "[[CH.thuyen.mechanics]]"
 type: method
 from:
-  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-010]]"
-  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-011]]"
+  - "[[V.thuyen-010]]"
+  - "[[V.thuyen-011]]"
 aliases: [fn.thuyen.cai-goi, cái gối, bộ phận bị khóa]
 sources:
   - "_archive/tuyen/qua-khu/thuyen-co-may.md §2"
@@ -41,4 +41,4 @@ render    DV-014 (quy cách cái gối), DV-015 (câu gối để dành), DV-004
 
 ## chain `13/11`
 
-Method của [[CH.thuyen.values#V.thuyen-010]] (khóa 1: lời cãi với cái gối, phủ nhận cái thiếu bằng một danh sách bằng chứng, từ B.thuyen-025) và [[CH.thuyen.values#V.thuyen-011]] (khóa 3: sợ lòng tốt).
+Method của [[V.thuyen-010]] (khóa 1: lời cãi với cái gối, phủ nhận cái thiếu bằng một danh sách bằng chứng, từ B.thuyen-025) và [[V.thuyen-011]] (khóa 3: sợ lòng tốt).

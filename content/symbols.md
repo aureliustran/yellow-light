@@ -2,7 +2,7 @@
 
 Sinh bởi `npm run canon:check`. Không sửa tay. Mã → file → một câu. Mã viết trong backtick để file này không tạo cạnh trong đồ thị.
 
-Có phần đầu (frontmatter): 201 file. Chưa chuyển sang khuôn mới (legacy): 140 file.
+Có phần đầu (frontmatter): 249 file. Chưa chuyển sang khuôn mới (legacy): 140 file.
 
 | Mã | Loại | Trạng thái | File | Tóm tắt |
 | --- | --- | --- | --- | --- |
@@ -17,6 +17,42 @@ Có phần đầu (frontmatter): 201 file. Chưa chuyển sang khuôn mới (leg
 | `AX7` | `axis` | `locked` | `core/axes/AX7.md` | Trục hiện sinh (mã cũ `H7`). Trạng thái: `locked 28/10` (trục gương và nửa Thuyên; nửa Nhi chờ Q-048); câu gốc viết lại theo luật từ phức… |
 | `AX8` | `axis` | `locked` | `core/axes/AX8.md` | Trục hiện sinh (mã cũ `H8`). Trạng thái: `locked 10/11` (tác giả duyệt nguyên trạng; câu gốc chưa trau). Khuôn và luật dùng: `schemas/axi… |
 | `AX9` | `axis` | `locked` | `core/axes/AX9.md` | Trục hiện sinh (mã cũ `H9`). Trạng thái: `locked 28/10`; câu gốc viết lại theo luật từ phức 10/11. Khuôn và luật dùng: `schemas/axis.md`. |
+| `B.nhi-001` | `belief` | `locked` | `world/characters/nhi/beliefs/B.nhi-001.md` | Cụm: [[CH.nhi.beliefs#C1 · Lâu đài/C1 · Lâu đài]] |
+| `B.nhi-002` | `belief` | `locked` | `world/characters/nhi/beliefs/B.nhi-002.md` | Cụm: [[CH.nhi.beliefs#C1 · Lâu đài/C1 · Lâu đài]] |
+| `B.nhi-003` | `belief` | `locked` | `world/characters/nhi/beliefs/B.nhi-003.md` | Cụm: [[CH.nhi.beliefs#C1 · Lâu đài/C1 · Lâu đài]] |
+| `B.nhi-004` | `belief` | `locked` | `world/characters/nhi/beliefs/B.nhi-004.md` | Cụm: [[CH.nhi.beliefs#C2 · Người mình muốn/C2 · Người mình muốn]] |
+| `B.nhi-005` | `belief` | `locked` | `world/characters/nhi/beliefs/B.nhi-005.md` | Cụm: [[CH.nhi.beliefs#C2 · Người mình muốn/C2 · Người mình muốn]] |
+| `B.nhi-006` | `belief` | `locked` | `world/characters/nhi/beliefs/B.nhi-006.md` | Cụm: [[CH.nhi.beliefs#C1 · Lâu đài/C1 · Lâu đài]] |
+| `B.thuyen-001` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-001.md` | Cụm: [[CH.thuyen.beliefs#C3 · Lời nói/C3 · Lời nói]] |
+| `B.thuyen-002` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-002.md` | Cụm: [[CH.thuyen.beliefs#C6 · Thứ mình yêu/C6 · Thứ mình yêu]] |
+| `B.thuyen-004` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-004.md` | Cụm: [[CH.thuyen.beliefs#C1 · Công nhận/C1 · Công nhận]] |
+| `B.thuyen-005` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-005.md` | Cụm: [[CH.thuyen.beliefs#C2 · Cái cân/C2 · Cái cân]] |
+| `B.thuyen-006` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-006.md` | Cụm: [[CH.thuyen.beliefs#C3 · Lời nói/C3 · Lời nói]] |
+| `B.thuyen-007` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-007.md` | Cụm: [[CH.thuyen.beliefs#C2 · Cái cân/C2 · Cái cân]] |
+| `B.thuyen-008` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-008.md` | Cụm: [[CH.thuyen.beliefs#C3 · Lời nói/C3 · Lời nói]] |
+| `B.thuyen-009` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-009.md` | Cụm: [[CH.thuyen.beliefs#C3 · Lời nói/C3 · Lời nói]] |
+| `B.thuyen-010` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-010.md` | Cụm: [[CH.thuyen.beliefs#C2 · Cái cân/C2 · Cái cân]] |
+| `B.thuyen-011` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-011.md` | Cụm: [[CH.thuyen.beliefs#C4 · Mặt nạ/C4 · Mặt nạ]] |
+| `B.thuyen-014` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-014.md` | Cụm: [[CH.thuyen.beliefs#C4 · Mặt nạ/C4 · Mặt nạ]] |
+| `B.thuyen-016` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-016.md` | Cụm: [[CH.thuyen.beliefs#C5 · Sức mạnh/C5 · Sức mạnh]] |
+| `B.thuyen-017` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-017.md` | Cụm: [[CH.thuyen.beliefs#C1 · Công nhận/C1 · Công nhận]] |
+| `B.thuyen-018` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-018.md` | Cụm: [[CH.thuyen.beliefs#C6 · Thứ mình yêu/C6 · Thứ mình yêu]] |
+| `B.thuyen-020` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-020.md` | Cụm: [[CH.thuyen.beliefs#C2 · Cái cân/C2 · Cái cân]] |
+| `B.thuyen-021` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-021.md` | Cụm: [[CH.thuyen.beliefs#C2 · Cái cân/C2 · Cái cân]] |
+| `B.thuyen-022` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-022.md` | Cụm: [[CH.thuyen.beliefs#C4 · Mặt nạ/C4 · Mặt nạ]] |
+| `B.thuyen-023` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-023.md` | Cụm: [[CH.thuyen.beliefs#C1 · Công nhận/C1 · Công nhận]] |
+| `B.thuyen-024` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-024.md` | Cụm: [[CH.thuyen.beliefs#C1 · Công nhận/C1 · Công nhận]] |
+| `B.thuyen-025` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-025.md` | Cụm: [[CH.thuyen.beliefs#C4 · Mặt nạ/C4 · Mặt nạ]] |
+| `B.thuyen-026` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-026.md` | Cụm: [[CH.thuyen.beliefs#C3 · Lời nói/C3 · Lời nói]] |
+| `B.thuyen-027` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-027.md` | Cụm: [[CH.thuyen.beliefs#C5 · Sức mạnh/C5 · Sức mạnh]] |
+| `B.thuyen-029` | `belief` | `proposed` | `world/characters/thuyen/beliefs/B.thuyen-029.md` | Cụm: [[CH.thuyen.beliefs#C5 · Sức mạnh/C5 · Sức mạnh]] |
+| `B.thuyen-030` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-030.md` | Cụm: [[CH.thuyen.beliefs#C2 · Cái cân/C2 · Cái cân]] |
+| `B.thuyen-031` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-031.md` | Cụm: [[CH.thuyen.beliefs#C5 · Sức mạnh/C5 · Sức mạnh]] |
+| `B.thuyen-032` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-032.md` | Cụm: [[CH.thuyen.beliefs#C4 · Mặt nạ/C4 · Mặt nạ]] |
+| `B.thuyen-033` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-033.md` | Cụm: [[CH.thuyen.beliefs#C3 · Lời nói/C3 · Lời nói]] |
+| `B.thuyen-034` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-034.md` | Cụm: [[CH.thuyen.beliefs#C2 · Cái cân/C2 · Cái cân]] |
+| `B.thuyen-035` | `belief` | `locked` | `world/characters/thuyen/beliefs/B.thuyen-035.md` | Cụm: [[CH.thuyen.beliefs#C2 · Cái cân/C2 · Cái cân]] |
+| `B.vu-001` | `belief` | `locked` | `world/characters/vu/beliefs/B.vu-001.md` | Cụm: [[CH.vu.beliefs#C1 · Thương/C1 · Thương]] |
 | `CFG.calendar` | `config` | `proposed` | `config/calendar.md` | Một nguồn duy nhất cho ngày tháng. Luật `LAW.check.weekday` kiểm mọi ngày trong tài liệu theo file này. |
 | `CFG.ids` | `config` | `proposed` | `config/ids.md` | Dùng cho (1) script đổi mã ở B7, (2) `aliases` trong Obsidian để tìm bằng mã cũ vẫn ra, (3) `LAW.check.unique-id`. Chưa đổi mã nào ở B1; … |
 | `CFG.levels` | `config` | `proposed` | `config/levels.md` | Mức đo **độ cần thiết** của một tuyến, node hoặc giao điểm đối với truyện **trong một giai đoạn**. Không đo độ hay của chất liệu. |
@@ -178,7 +214,7 @@ Có phần đầu (frontmatter): 201 file. Chưa chuyển sang khuôn mới (leg
 | `SPEC.storylines` | `spec` | `draft` | `docs/framework/storylines.md` | Fields: `content/schemas/node.md`, `goal.md`, `event.md`, `intersection.md`. |
 | `SPEC.tooling` | `spec` | `draft` | `docs/framework/tooling.md` | `npm run canon:check` (`scripts/canon-check.mjs`, no dependencies) is the rule runner. It reads every entity under `content/` and every p… |
 | `TEC.humor.want-clash` | `technique` | `proposed` | `lib/humor/TEC.humor.want-clash.md` | Rút ra khi so bản Claude (viết theo `kho/hai-ky-thuat.md`) với bản tác giả sửa, hai cảnh mẫu 05/11: [[ROM.TN-001]] (dòng 1–7) và [[ROM.TN… |
-| `TEC.interiority.ideal-self` | `technique` | `proposed` | `lib/interiority/TEC.interiority.ideal-self.md` | Đưa lực kéo ([[CH.thuyen.beliefs#B.thuyen-034]]) lên trang qua lời người kể. Phục vụ register R10 ([[REG.noi-tam]], khối nội tâm, `rules/… |
+| `TEC.interiority.ideal-self` | `technique` | `proposed` | `lib/interiority/TEC.interiority.ideal-self.md` | Đưa lực kéo ([[B.thuyen-034]]) lên trang qua lời người kể. Phục vụ register R10 ([[REG.noi-tam]], khối nội tâm, `rules/registers.md` §2.6… |
 | `THR` | `node` | `proposed` | `storylines/THR/THR.md` | Gốc của các node `THR.*`. Khung (T2, 10/11): chỉ có `weight` và `children`; mọi mục khác chờ chuyển. |
 | `THR.DR` | `node` | `proposed` | `storylines/THR/THR.DR/THR.DR.md` | Sinh từ đồ ăn đặt cho Nhi (chốt 23/10), cắm cờ, bị gạt đúng, luận văn Phần Lan, startup Phần 3, Khải nhảy vào Phần 4 (`de-xuat/cay-tuyen.… |
 | `THR.LAB` | `node` | `proposed` | `storylines/THR/THR.LAB/THR.LAB.md` | Lão Tuấn, phe "rắn", hội kỹ sư, Thảo; ván phòng thủ GĐ1, ván tấn công và thủ đoạn chủ động GĐ2; blacklist và bảng giá người ở đáy (`de-xu… |
@@ -187,6 +223,18 @@ Có phần đầu (frontmatter): 201 file. Chưa chuyển sang khuôn mới (leg
 | `THR.MODEL` | `node` | `proposed` | `storylines/THR/THR.MODEL/THR.MODEL.md` | Có pipeline không có model; quyền xếp hàng đợi; kim bài miễn tử; khảo sát → production → ghế 50 triệu (`de-xuat/cay-tuyen.md`). |
 | `THR.T18` | `node` | `proposed` | `storylines/THR/THR.T18/THR.T18.md` | Khải truy dấu vết, Morpheus (*khách*, bay sang Mỹ), lật bài 15/7 (`de-xuat/cay-tuyen.md`). |
 | `TREE` | `node` | `locked` | `storylines/README.md` | Node gốc của mọi tuyến. Toàn bộ chức năng của thư mục cũ `_archive/tuyen/` ở đây (10/11); riêng định nghĩa trục và thang ở `core/` vì tần… |
+| `V.thuyen-001` | `value` | `agreed` | `world/characters/thuyen/values/V.thuyen-001.md` | V.thuyen-001 · Sửa khuyết trên lộ trình |
+| `V.thuyen-002` | `value` | `agreed` | `world/characters/thuyen/values/V.thuyen-002.md` | V.thuyen-002 · Tối ưu, kể cả khi không ai chấm |
+| `V.thuyen-003` | `value` | `agreed` | `world/characters/thuyen/values/V.thuyen-003.md` | V.thuyen-003 · Đo sức mạnh bằng số người mình nâng lên |
+| `V.thuyen-004` | `value` | `agreed` | `world/characters/thuyen/values/V.thuyen-004.md` | V.thuyen-004 · Vị thế trước, nói thật sau |
+| `V.thuyen-005` | `value` | `agreed` | `world/characters/thuyen/values/V.thuyen-005.md` | V.thuyen-005 · Được nể hơn được thương |
+| `V.thuyen-006` | `value` | `agreed` | `world/characters/thuyen/values/V.thuyen-006.md` | V.thuyen-006 · Phán đoán của mình trên sự gật đầu |
+| `V.thuyen-007` | `value` | `agreed` | `world/characters/thuyen/values/V.thuyen-007.md` | V.thuyen-007 · Đường vòng hơn đối đầu |
+| `V.thuyen-008` | `value` | `proposed` | `world/characters/thuyen/values/V.thuyen-008.md` | V.thuyen-008 · Luôn có mục tiêu kế tiếp |
+| `V.thuyen-009` | `value` | `proposed` | `world/characters/thuyen/values/V.thuyen-009.md` | V.thuyen-009 · Thành quả xứng với công |
+| `V.thuyen-010` | `value` | `proposed` | `world/characters/thuyen/values/V.thuyen-010.md` | V.thuyen-010 · Không để ai thấy bên trong |
+| `V.thuyen-011` | `value` | `proposed` | `world/characters/thuyen/values/V.thuyen-011.md` | V.thuyen-011 · Không nợ ai |
+| `V.thuyen-012` | `value` | `proposed` | `world/characters/thuyen/values/V.thuyen-012.md` | V.thuyen-012 · Câu trả lời trên thể diện |
 | `X-001` | `intersection` | `proposed` | `storylines/intersections/X-001/X-001.md` | Giao điểm của [[FAM.N]] × [[ROM.TD]] × [[THR.MO]], định nghĩa bằng khóa ngoại `nodes`. |
 | `X-002` | `intersection` | `proposed` | `storylines/intersections/X-002/X-002.md` | Giao điểm của [[PAST.T]] × [[ROM.TN]], định nghĩa bằng khóa ngoại `nodes`. |
 | `X-003` | `intersection` | `proposed` | `storylines/intersections/X-003/X-003.md` | Giao điểm của [[ROM.TN]] × [[SOL.VU]], định nghĩa bằng khóa ngoại `nodes`. |

@@ -6,7 +6,7 @@ updated: 2026-11-13
 parent: "[[CH.thuyen.mechanics]]"
 type: method
 from:
-  - "[[world/characters/thuyen/CH.thuyen.values#V.thuyen-006]]"
+  - "[[V.thuyen-006]]"
 aliases: [fn.thuyen.hai-to-nhap, hai tờ nháp]
 sources:
   - "tác giả 13/11 (tactics của value tạo ra method; migrate từ gói niềm tin)"
