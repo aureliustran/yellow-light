@@ -120,96 +120,6 @@
    "effective": ""
   },
   {
-   "id": "GUIDE.main",
-   "path": "GUIDELINES.md",
-   "title": "Đèn Vàng: guidelines for agents",
-   "layer": "legacy",
-   "kind": "guide",
-   "status": "draft",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "Kho bối cảnh và hoàn cảnh romance cho Đèn vàng v2",
-   "path": "Kho bối cảnh và hoàn cảnh romance cho Đèn vàng v2.md",
-   "title": "Kho bối cảnh và hoàn cảnh romance cho Đèn vàng v2",
-   "layer": "legacy",
-   "kind": "",
-   "status": "",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "M-cai-nhau-bo-me",
-   "path": "M-cai-nhau-bo-me.md",
-   "title": "Module: Mạch cãi nhau giữa Thuyên và bố mẹ",
-   "layer": "legacy",
-   "kind": "",
-   "status": "",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "M-cam-xuc-giac-quan",
-   "path": "M-cam-xuc-giac-quan.md",
-   "title": "Module: Viết cảm xúc mạnh bằng giác quan (màu, nhiệt, độ ẩm, vị…)",
-   "layer": "legacy",
-   "kind": "",
-   "status": "",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "M-dien-bien-cam-xuc",
-   "path": "M-dien-bien-cam-xuc.md",
-   "title": "Module: Diễn biến cảm xúc và thang hiện sinh của Thuyên (phần mở đầu)",
-   "layer": "legacy",
-   "kind": "",
-   "status": "",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "M-he-gia-tri",
-   "path": "M-he-gia-tri.md",
-   "title": "Module: Hệ giá trị của Thuyên",
-   "layer": "legacy",
-   "kind": "",
-   "status": "",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "M-moi-tinh-vy",
-   "path": "M-moi-tinh-vy.md",
-   "title": "Module: Mối tình Thuyên – Vy (hè lớp 10 → tháng hai lớp 11)",
-   "layer": "legacy",
-   "kind": "",
-   "status": "",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "M-tu-suy-dien",
-   "path": "M-tu-suy-dien.md",
-   "title": "Module: Tự suy diễn để tạo kịch tính",
-   "layer": "legacy",
-   "kind": "",
-   "status": "",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "README",
-   "path": "README.md",
-   "title": "Đèn vàng – tài liệu",
-   "layer": "legacy",
-   "kind": "",
-   "status": "",
-   "weight": {},
-   "effective": ""
-  },
-  {
    "id": "checklist-b4",
    "path": "audits/checklist-b4.md",
    "title": "Checklist B4: chuyển tuyến sang khung mới",
@@ -340,26 +250,6 @@
    "effective": ""
   },
   {
-   "id": "CORE",
-   "path": "core/README.md",
-   "title": "Core",
-   "layer": "core",
-   "kind": "spec",
-   "status": "locked",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "SCALE.exl",
-   "path": "core/SCALE.exl.md",
-   "title": "SCALE.exl · Nấc hiện sinh (9 nấc)",
-   "layer": "core",
-   "kind": "scale",
-   "status": "locked",
-   "weight": {},
-   "effective": ""
-  },
-  {
    "id": "AX1",
    "path": "core/axes/AX1.md",
    "title": "AX1 · Đèn vàng",
@@ -465,6 +355,16 @@
    "title": "ART.AX3 · Chương AX3: Cây thước",
    "layer": "core",
    "kind": "constitution",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "CORE",
+   "path": "core/README.md",
+   "title": "Core",
+   "layer": "core",
+   "kind": "spec",
    "status": "locked",
    "weight": {},
    "effective": ""
@@ -752,7 +652,7 @@
   {
    "id": "GUIDE.task.add-law-or-technique",
    "path": "guidelines/tasks/add-law-or-technique.md",
-   "title": "Task: add a law, a register, a technique or a pattern",
+   "title": "Task: add a law or a style",
    "layer": "spec",
    "kind": "guide",
    "status": "draft",
@@ -850,6 +750,16 @@
    "effective": ""
   },
   {
+   "id": "GUIDE.main",
+   "path": "GUIDELINES.md",
+   "title": "Đèn Vàng: guidelines for agents",
+   "layer": "legacy",
+   "kind": "guide",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "handoff",
    "path": "handoff.md",
    "title": "Đèn vàng – Bàn giao cho session mới",
@@ -880,6 +790,16 @@
    "effective": ""
   },
   {
+   "id": "Kho bối cảnh và hoàn cảnh romance cho Đèn vàng v2",
+   "path": "Kho bối cảnh và hoàn cảnh romance cho Đèn vàng v2.md",
+   "title": "Kho bối cảnh và hoàn cảnh romance cho Đèn vàng v2",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "SPEC.old-architecture",
    "path": "kien-truc.md",
    "title": "Đèn vàng – Kiến trúc tài liệu và sinh nội dung",
@@ -890,11 +810,31 @@
    "effective": ""
   },
   {
+   "id": "TEC.dialogue.natural",
+   "path": "lib/dialogue/TEC.dialogue.natural.md",
+   "title": "TEC.dialogue.natural · Thoại tự nhiên",
+   "layer": "lib",
+   "kind": "style",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
+   "id": "TEC.expertise.layman",
+   "path": "lib/expertise/TEC.expertise.layman.md",
+   "title": "TEC.expertise.layman · Viết chuyên môn cho người đọc phổ thông",
+   "layer": "lib",
+   "kind": "style",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
    "id": "TEC.humor.want-clash",
    "path": "lib/humor/TEC.humor.want-clash.md",
    "title": "TEC.humor.want-clash · Hài dựng từ hai mong muốn va nhau",
    "layer": "lib",
-   "kind": "technique",
+   "kind": "style",
    "status": "proposed",
    "weight": {},
    "effective": "P1 → P2"
@@ -904,15 +844,275 @@
    "path": "lib/interiority/TEC.interiority.ideal-self.md",
    "title": "TEC.interiority.ideal-self · Phiên bản lý tưởng lóe trong khối nội tâm",
    "layer": "lib",
-   "kind": "technique",
+   "kind": "style",
    "status": "proposed",
    "weight": {},
    "effective": "OPEN → BREAK"
   },
   {
+   "id": "TEC.interiority.purposeful-drift",
+   "path": "lib/interiority/TEC.interiority.purposeful-drift.md",
+   "title": "TEC.interiority.purposeful-drift · Suy nghĩ vu vơ có chủ đích",
+   "layer": "lib",
+   "kind": "style",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
+   "id": "TEC.lexicon.compound",
+   "path": "lib/lexicon/TEC.lexicon.compound.md",
+   "title": "TEC.lexicon.compound · Từ phức là đa số",
+   "layer": "lib",
+   "kind": "style",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
+   "id": "TEC.pace.flashback",
+   "path": "lib/pace/TEC.pace.flashback.md",
+   "title": "TEC.pace.flashback · Nhịp hồi tưởng",
+   "layer": "lib",
+   "kind": "style",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
+   "id": "TEC.pace.present",
+   "path": "lib/pace/TEC.pace.present.md",
+   "title": "TEC.pace.present · Cảnh hiện tại không tóm tắt",
+   "layer": "lib",
+   "kind": "style",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
+   "id": "TEC.prose.human",
+   "path": "lib/prose/TEC.prose.human.md",
+   "title": "TEC.prose.human · Không viết máy móc",
+   "layer": "lib",
+   "kind": "style",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
+   "id": "REG.dang",
+   "path": "lib/registers/REG.dang.md",
+   "title": "REG.dang · R9 Đắng (hằn học, chửi đổng)",
+   "layer": "lib",
+   "kind": "style",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → AFTER\""
+  },
+  {
+   "id": "REG.dau-tri",
+   "path": "lib/registers/REG.dau-tri.md",
+   "title": "REG.dau-tri · R4 Đấu trí văn phòng",
+   "layer": "lib",
+   "kind": "style",
+   "status": "agreed",
+   "weight": {},
+   "effective": "\"OPEN → AFTER\""
+  },
+  {
+   "id": "REG.day",
+   "path": "lib/registers/REG.day.md",
+   "title": "REG.day · R7 Đáy",
+   "layer": "lib",
+   "kind": "style",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → AFTER\""
+  },
+  {
+   "id": "REG.default",
+   "path": "lib/registers/REG.default.md",
+   "title": "REG.default · R0 Mặc định",
+   "layer": "lib",
+   "kind": "style",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
+   "id": "REG.doi-thuong",
+   "path": "lib/registers/REG.doi-thuong.md",
+   "title": "REG.doi-thuong · R1 Đời thường, hài",
+   "layer": "lib",
+   "kind": "style",
+   "status": "agreed",
+   "weight": {},
+   "effective": "\"OPEN → AFTER\""
+  },
+  {
+   "id": "REG.hoi-tuong",
+   "path": "lib/registers/REG.hoi-tuong.md",
+   "title": "REG.hoi-tuong · R6 Hồi tưởng",
+   "layer": "lib",
+   "kind": "style",
+   "status": "agreed",
+   "weight": {},
+   "effective": "\"OPEN → AFTER\""
+  },
+  {
+   "id": "REG.lang-man",
+   "path": "lib/registers/REG.lang-man.md",
+   "title": "REG.lang-man · R2 Lãng mạn, slow burn (ngôn tình, rom-com)",
+   "layer": "lib",
+   "kind": "style",
+   "status": "agreed",
+   "weight": {},
+   "effective": "\"OPEN → AFTER\""
+  },
+  {
+   "id": "REG.lanh-liet-ke",
+   "path": "lib/registers/REG.lanh-liet-ke.md",
+   "title": "REG.lanh-liet-ke · R5 Lạnh, liệt kê",
+   "layer": "lib",
+   "kind": "style",
+   "status": "agreed",
+   "weight": {},
+   "effective": "\"OPEN → AFTER\""
+  },
+  {
+   "id": "REG.noi-tam",
+   "path": "lib/registers/REG.noi-tam.md",
+   "title": "REG.noi-tam · R10 Nội tâm",
+   "layer": "lib",
+   "kind": "style",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → AFTER\""
+  },
+  {
+   "id": "REG.so-cai",
+   "path": "lib/registers/REG.so-cai.md",
+   "title": "REG.so-cai · R8 Sổ cái (lạnh, cực đoan)",
+   "layer": "lib",
+   "kind": "style",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → AFTER\""
+  },
+  {
+   "id": "REG.than-mat",
+   "path": "lib/registers/REG.than-mat.md",
+   "title": "REG.than-mat · R3 Thân mật",
+   "layer": "lib",
+   "kind": "style",
+   "status": "agreed",
+   "weight": {},
+   "effective": "\"OPEN → AFTER\""
+  },
+  {
+   "id": "TEC.setting.concrete",
+   "path": "lib/setting/TEC.setting.concrete.md",
+   "title": "TEC.setting.concrete · Ngoại cảnh sống động",
+   "layer": "lib",
+   "kind": "style",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
+   "id": "TEC.show.default",
+   "path": "lib/show/TEC.show.default.md",
+   "title": "TEC.show.default · Cho thấy là mặc định",
+   "layer": "lib",
+   "kind": "style",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
+   "id": "STY.default",
+   "path": "lib/STY.default.md",
+   "title": "STY.default · Style mặc định",
+   "layer": "lib",
+   "kind": "preset",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "TEC.transition.common",
+   "path": "lib/transition/TEC.transition.common.md",
+   "title": "TEC.transition.common · Luật chuyển chung",
+   "layer": "lib",
+   "kind": "style",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
    "id": "lich-su-hoi-thoai",
    "path": "lich-su-hoi-thoai.md",
    "title": "Đèn vàng – Lịch sử hội thoại (session 66fc65cb)",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "M-cai-nhau-bo-me",
+   "path": "M-cai-nhau-bo-me.md",
+   "title": "Module: Mạch cãi nhau giữa Thuyên và bố mẹ",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "M-cam-xuc-giac-quan",
+   "path": "M-cam-xuc-giac-quan.md",
+   "title": "Module: Viết cảm xúc mạnh bằng giác quan (màu, nhiệt, độ ẩm, vị…)",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "M-dien-bien-cam-xuc",
+   "path": "M-dien-bien-cam-xuc.md",
+   "title": "Module: Diễn biến cảm xúc và thang hiện sinh của Thuyên (phần mở đầu)",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "M-he-gia-tri",
+   "path": "M-he-gia-tri.md",
+   "title": "Module: Hệ giá trị của Thuyên",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "M-moi-tinh-vy",
+   "path": "M-moi-tinh-vy.md",
+   "title": "Module: Mối tình Thuyên – Vy (hè lớp 10 → tháng hai lớp 11)",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "M-tu-suy-dien",
+   "path": "M-tu-suy-dien.md",
+   "title": "Module: Tự suy diễn để tạo kịch tính",
    "layer": "legacy",
    "kind": "",
    "status": "",
@@ -1730,6 +1930,26 @@
    "effective": ""
   },
   {
+   "id": "README",
+   "path": "README.md",
+   "title": "Đèn vàng – tài liệu",
+   "layer": "legacy",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "LAW.address.relation",
+   "path": "rules/address/LAW.address.relation.md",
+   "title": "LAW.address.relation · Xưng hô theo quan hệ",
+   "layer": "rules",
+   "kind": "law",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
    "id": "chui-bay-thiet-ke",
    "path": "rules/chui-bay-thiet-ke.md",
    "title": "Đèn vàng – thiết kế chửi bậy (SL.Vũ, SL sân bóng, QK.T sân bóng)",
@@ -1738,6 +1958,36 @@
    "status": "",
    "weight": {},
    "effective": ""
+  },
+  {
+   "id": "LAW.dialect.ha-tinh",
+   "path": "rules/dialect/LAW.dialect.ha-tinh.md",
+   "title": "LAW.dialect.ha-tinh · Giọng Hà Tĩnh",
+   "layer": "rules",
+   "kind": "law",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
+   "id": "LAW.disclosure.purpose",
+   "path": "rules/disclosure/LAW.disclosure.purpose.md",
+   "title": "LAW.disclosure.purpose · Giấu hay nói đều có mục đích",
+   "layer": "rules",
+   "kind": "law",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
+   "id": "LAW.display.blocks",
+   "path": "rules/display/LAW.display.blocks.md",
+   "title": "LAW.display.blocks · Tài liệu nguyên văn đi bằng khối",
+   "layer": "rules",
+   "kind": "law",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
   },
   {
    "id": "goi-ten-cam-xuc",
@@ -1750,6 +2000,76 @@
    "effective": ""
   },
   {
+   "id": "LAW.harm.pain",
+   "path": "rules/harm/LAW.harm.pain.md",
+   "title": "LAW.harm.pain · Lời thô và cảnh đau",
+   "layer": "rules",
+   "kind": "law",
+   "status": "proposed",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
+   "id": "hien-sinh",
+   "path": "rules/hien-sinh.md",
+   "title": "Đèn vàng – Luật viết độc thoại hiện sinh",
+   "layer": "rules",
+   "kind": "",
+   "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "LAW.intimacy.limits",
+   "path": "rules/intimacy/LAW.intimacy.limits.md",
+   "title": "LAW.intimacy.limits · Giới hạn cứng của cảnh thân mật",
+   "layer": "rules",
+   "kind": "law",
+   "status": "proposed",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
+   "id": "LAW.default",
+   "path": "rules/LAW.default.md",
+   "title": "LAW.default · Luật mặc định",
+   "layer": "rules",
+   "kind": "preset",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "LAW.naming.emotion",
+   "path": "rules/naming/LAW.naming.emotion.md",
+   "title": "LAW.naming.emotion · Gọi tên cảm xúc ngoài phần cần giấu",
+   "layer": "rules",
+   "kind": "law",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
+   "id": "LAW.places.real-fiction",
+   "path": "rules/places/LAW.places.real-fiction.md",
+   "title": "LAW.places.real-fiction · Tên thật, tên hư cấu",
+   "layer": "rules",
+   "kind": "law",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
+   "id": "LAW.pov.narrator-knowledge",
+   "path": "rules/pov/LAW.pov.narrator-knowledge.md",
+   "title": "LAW.pov.narrator-knowledge · Người kể không biết hơn POV",
+   "layer": "rules",
+   "kind": "law",
+   "status": "proposed",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
    "id": "registers",
    "path": "rules/registers.md",
    "title": "Đèn vàng – Register (văn phong)",
@@ -1760,6 +2080,16 @@
    "effective": ""
   },
   {
+   "id": "LAW.swearing.levels",
+   "path": "rules/swearing/LAW.swearing.levels.md",
+   "title": "LAW.swearing.levels · Chửi theo ba mức",
+   "layer": "rules",
+   "kind": "law",
+   "status": "proposed",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
+  },
+  {
    "id": "tu-dien-ha-tinh",
    "path": "rules/tu-dien-ha-tinh.md",
    "title": "Đèn vàng – từ điển giọng Hà Tĩnh (`[[ht: gốc || chuẩn]]`)",
@@ -1768,6 +2098,16 @@
    "status": "",
    "weight": {},
    "effective": ""
+  },
+  {
+   "id": "LAW.under-18.base",
+   "path": "rules/under-18/LAW.under-18.base.md",
+   "title": "LAW.under-18.base · Dưới 18 tuổi",
+   "layer": "rules",
+   "kind": "law",
+   "status": "locked",
+   "weight": {},
+   "effective": "\"OPEN → POST\""
   },
   {
    "id": "SCH.article",
@@ -1940,16 +2280,6 @@
    "effective": ""
   },
   {
-   "id": "SCH.pattern",
-   "path": "schemas/pattern.md",
-   "title": "schema · pattern",
-   "layer": "foundation",
-   "kind": "schema",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
    "id": "SCH.plan",
    "path": "schemas/plan.md",
    "title": "schema · plan (range plan)",
@@ -1960,32 +2290,22 @@
    "effective": ""
   },
   {
+   "id": "SCH.preset",
+   "path": "schemas/preset.md",
+   "title": "schema · preset",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "SCH.proposal",
    "path": "schemas/proposal.md",
    "title": "schema · proposal",
    "layer": "foundation",
    "kind": "schema",
    "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "SCH.register",
-   "path": "schemas/register.md",
-   "title": "schema · register",
-   "layer": "foundation",
-   "kind": "schema",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "SCH.scale",
-   "path": "schemas/scale.md",
-   "title": "schema · scale",
-   "layer": "foundation",
-   "kind": "schema",
-   "status": "agreed",
    "weight": {},
    "effective": ""
   },
@@ -2030,13 +2350,39 @@
    "effective": ""
   },
   {
-   "id": "SCH.technique",
-   "path": "schemas/technique.md",
-   "title": "schema · technique",
+   "id": "SCH.style",
+   "path": "schemas/style.md",
+   "title": "schema · style",
    "layer": "foundation",
    "kind": "schema",
-   "status": "proposed",
+   "status": "locked",
    "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SCH.value",
+   "path": "schemas/value.md",
+   "title": "schema · value",
+   "layer": "foundation",
+   "kind": "schema",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FAM",
+   "path": "storylines/FAM/FAM.md",
+   "title": "FAM · Tuyến gia đình",
+   "layer": "storylines",
+   "kind": "node",
+   "status": "proposed",
+   "weight": {
+    "OPEN": "A",
+    "P1": "A",
+    "P2": "S",
+    "BREAK": "SS",
+    "AFTER": "SS"
+   },
    "effective": ""
   },
   {
@@ -2073,19 +2419,203 @@
    "effective": ""
   },
   {
-   "id": "FAM",
-   "path": "storylines/FAM/FAM.md",
-   "title": "FAM · Tuyến gia đình",
+   "id": "X-001",
+   "path": "storylines/intersections/X-001/X-001.md",
+   "title": "X-001 · Summit",
    "layer": "storylines",
-   "kind": "node",
+   "kind": "intersection",
    "status": "proposed",
-   "weight": {
-    "OPEN": "A",
-    "P1": "A",
-    "P2": "S",
-    "BREAK": "SS",
-    "AFTER": "SS"
-   },
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-002",
+   "path": "storylines/intersections/X-002/X-002.md",
+   "title": "X-002 · Buổi 1 *Đường thẳng*",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-003",
+   "path": "storylines/intersections/X-003/X-003.md",
+   "title": "X-003 · Ngoại khóa 2, gặp Vũ",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-004",
+   "path": "storylines/intersections/X-004/X-004.md",
+   "title": "X-004 · Buổi 3, tên Thảo",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-005",
+   "path": "storylines/intersections/X-005/X-005.md",
+   "title": "X-005 · Đề boyfriend · Quân sư bí mật",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-007",
+   "path": "storylines/intersections/X-007/X-007.md",
+   "title": "X-007 · Pickup",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-008",
+   "path": "storylines/intersections/X-008/X-008.md",
+   "title": "X-008 · OT tầng 17",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-009",
+   "path": "storylines/intersections/X-009/X-009.md",
+   "title": "X-009 · Tất niên và gala",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-010",
+   "path": "storylines/intersections/X-010/X-010.md",
+   "title": "X-010 · *Mixue*",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-011-001",
+   "path": "storylines/intersections/X-011/X-011-001.md",
+   "title": "X-011-001 · Lời hứa",
+   "layer": "storylines",
+   "kind": "event",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-011",
+   "path": "storylines/intersections/X-011/X-011.md",
+   "title": "X-011 · Đêm say",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-012",
+   "path": "storylines/intersections/X-012/X-012.md",
+   "title": "X-012 · Drone sinh từ đồ ăn cho Nhi",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-013",
+   "path": "storylines/intersections/X-013/X-013.md",
+   "title": "X-013 · Thân phận Nhi",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-014",
+   "path": "storylines/intersections/X-014/X-014.md",
+   "title": "X-014 · Liên minh Thuyên – Diệp Anh",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-015",
+   "path": "storylines/intersections/X-015/X-015.md",
+   "title": "X-015 · Rạn nứt với Vũ",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-016",
+   "path": "storylines/intersections/X-016/X-016.md",
+   "title": "X-016 · Tiệc R&D, giỗ ông",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-017",
+   "path": "storylines/intersections/X-017/X-017.md",
+   "title": "X-017 · Tiệc Nhi đạt aim",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-018",
+   "path": "storylines/intersections/X-018/X-018.md",
+   "title": "X-018 · Điểm gãy",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-019",
+   "path": "storylines/intersections/X-019/X-019.md",
+   "title": "X-019 · Nhà Thuyên",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "X-020",
+   "path": "storylines/intersections/X-020/X-020.md",
+   "title": "X-020 · Hội đồng của Nhi",
+   "layer": "storylines",
+   "kind": "intersection",
+   "status": "proposed",
+   "weight": {},
    "effective": ""
   },
   {
@@ -2115,6 +2645,22 @@
     "BREAK": "B",
     "AFTER": "C",
     "POST": "pending"
+   },
+   "effective": ""
+  },
+  {
+   "id": "PAST",
+   "path": "storylines/PAST/PAST.md",
+   "title": "PAST · Tuyến quá khứ",
+   "layer": "storylines",
+   "kind": "node",
+   "status": "agreed",
+   "weight": {
+    "OPEN": "SSS",
+    "P1": "A",
+    "P2": "B",
+    "BREAK": "A",
+    "AFTER": "S"
    },
    "effective": ""
   },
@@ -2491,22 +3037,6 @@
    "effective": ""
   },
   {
-   "id": "PAST",
-   "path": "storylines/PAST/PAST.md",
-   "title": "PAST · Tuyến quá khứ",
-   "layer": "storylines",
-   "kind": "node",
-   "status": "agreed",
-   "weight": {
-    "OPEN": "SSS",
-    "P1": "A",
-    "P2": "B",
-    "BREAK": "A",
-    "AFTER": "S"
-   },
-   "effective": ""
-  },
-  {
    "id": "TREE",
    "path": "storylines/README.md",
    "title": "TREE · Cây tuyến",
@@ -2528,6 +3058,22 @@
     "P1": "C",
     "P2": "D",
     "AFTER": "D"
+   },
+   "effective": ""
+  },
+  {
+   "id": "ROM",
+   "path": "storylines/ROM/ROM.md",
+   "title": "ROM · Tuyến tình cảm",
+   "layer": "storylines",
+   "kind": "node",
+   "status": "proposed",
+   "weight": {
+    "OPEN": "B",
+    "P1": "SS+",
+    "P2": "SSS",
+    "BREAK": "SS+",
+    "AFTER": "S"
    },
    "effective": ""
   },
@@ -2613,22 +3159,6 @@
    "effective": ""
   },
   {
-   "id": "ROM",
-   "path": "storylines/ROM/ROM.md",
-   "title": "ROM · Tuyến tình cảm",
-   "layer": "storylines",
-   "kind": "node",
-   "status": "proposed",
-   "weight": {
-    "OPEN": "B",
-    "P1": "SS+",
-    "P2": "SSS",
-    "BREAK": "SS+",
-    "AFTER": "S"
-   },
-   "effective": ""
-  },
-  {
    "id": "SELF",
    "path": "storylines/SELF/SELF.md",
    "title": "SELF · Tuyến nội tâm",
@@ -2680,6 +3210,22 @@
    "effective": ""
   },
   {
+   "id": "SOL",
+   "path": "storylines/SOL/SOL.md",
+   "title": "SOL · Tuyến đời thường",
+   "layer": "storylines",
+   "kind": "node",
+   "status": "proposed",
+   "weight": {
+    "OPEN": "A",
+    "P1": "A",
+    "P2": "S",
+    "BREAK": "B",
+    "AFTER": "S"
+   },
+   "effective": ""
+  },
+  {
    "id": "SOL.SAN",
    "path": "storylines/SOL/SOL.SAN/SOL.SAN.md",
    "title": "SOL.SAN · Hội sân thuê",
@@ -2705,22 +3251,6 @@
     "P1": "A",
     "P2": "S",
     "BREAK": "C",
-    "AFTER": "S"
-   },
-   "effective": ""
-  },
-  {
-   "id": "SOL",
-   "path": "storylines/SOL/SOL.md",
-   "title": "SOL · Tuyến đời thường",
-   "layer": "storylines",
-   "kind": "node",
-   "status": "proposed",
-   "weight": {
-    "OPEN": "A",
-    "P1": "A",
-    "P2": "S",
-    "BREAK": "B",
     "AFTER": "S"
    },
    "effective": ""
@@ -2773,6 +3303,22 @@
    "effective": ""
   },
   {
+   "id": "THR",
+   "path": "storylines/THR/THR.md",
+   "title": "THR · Tuyến thriller, đấu trí",
+   "layer": "storylines",
+   "kind": "node",
+   "status": "proposed",
+   "weight": {
+    "OPEN": "A",
+    "P1": "SS+",
+    "P2": "SSS",
+    "BREAK": "SSS",
+    "AFTER": "A"
+   },
+   "effective": ""
+  },
+  {
    "id": "THR.MO",
    "path": "storylines/THR/THR.MO/THR.MO.md",
    "title": "THR.MO · Mở màn",
@@ -2817,228 +3363,72 @@
    "effective": ""
   },
   {
-   "id": "THR",
-   "path": "storylines/THR/THR.md",
-   "title": "THR · Tuyến thriller, đấu trí",
-   "layer": "storylines",
-   "kind": "node",
-   "status": "proposed",
-   "weight": {
-    "OPEN": "A",
-    "P1": "SS+",
-    "P2": "SSS",
-    "BREAK": "SSS",
-    "AFTER": "A"
-   },
-   "effective": ""
-  },
-  {
-   "id": "X-001",
-   "path": "storylines/intersections/X-001/X-001.md",
-   "title": "X-001 · Summit",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-002",
-   "path": "storylines/intersections/X-002/X-002.md",
-   "title": "X-002 · Buổi 1 *Đường thẳng*",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-003",
-   "path": "storylines/intersections/X-003/X-003.md",
-   "title": "X-003 · Ngoại khóa 2, gặp Vũ",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-004",
-   "path": "storylines/intersections/X-004/X-004.md",
-   "title": "X-004 · Buổi 3, tên Thảo",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-005",
-   "path": "storylines/intersections/X-005/X-005.md",
-   "title": "X-005 · Đề boyfriend · Quân sư bí mật",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-007",
-   "path": "storylines/intersections/X-007/X-007.md",
-   "title": "X-007 · Pickup",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-008",
-   "path": "storylines/intersections/X-008/X-008.md",
-   "title": "X-008 · OT tầng 17",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-009",
-   "path": "storylines/intersections/X-009/X-009.md",
-   "title": "X-009 · Tất niên và gala",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-010",
-   "path": "storylines/intersections/X-010/X-010.md",
-   "title": "X-010 · *Mixue*",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-011-001",
-   "path": "storylines/intersections/X-011/X-011-001.md",
-   "title": "X-011-001 · Lời hứa",
-   "layer": "storylines",
-   "kind": "event",
-   "status": "agreed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-011",
-   "path": "storylines/intersections/X-011/X-011.md",
-   "title": "X-011 · Đêm say",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "agreed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-012",
-   "path": "storylines/intersections/X-012/X-012.md",
-   "title": "X-012 · Drone sinh từ đồ ăn cho Nhi",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-013",
-   "path": "storylines/intersections/X-013/X-013.md",
-   "title": "X-013 · Thân phận Nhi",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-014",
-   "path": "storylines/intersections/X-014/X-014.md",
-   "title": "X-014 · Liên minh Thuyên – Diệp Anh",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-015",
-   "path": "storylines/intersections/X-015/X-015.md",
-   "title": "X-015 · Rạn nứt với Vũ",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-016",
-   "path": "storylines/intersections/X-016/X-016.md",
-   "title": "X-016 · Tiệc R&D, giỗ ông",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-017",
-   "path": "storylines/intersections/X-017/X-017.md",
-   "title": "X-017 · Tiệc Nhi đạt aim",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-018",
-   "path": "storylines/intersections/X-018/X-018.md",
-   "title": "X-018 · Điểm gãy",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-019",
-   "path": "storylines/intersections/X-019/X-019.md",
-   "title": "X-019 · Nhà Thuyên",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "X-020",
-   "path": "storylines/intersections/X-020/X-020.md",
-   "title": "X-020 · Hội đồng của Nhi",
-   "layer": "storylines",
-   "kind": "intersection",
-   "status": "proposed",
-   "weight": {},
-   "effective": ""
-  },
-  {
    "id": "tinh-tiet-moi-ban-le",
    "path": "tinh-tiet-moi-ban-le.md",
    "title": "Tình tiết mới cho phần bản lề (đề xuất 1)",
    "layer": "legacy",
    "kind": "",
    "status": "",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.nhi-001",
+   "path": "world/characters/nhi/beliefs/B.nhi-001.md",
+   "title": "B.nhi-001",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.nhi-002",
+   "path": "world/characters/nhi/beliefs/B.nhi-002.md",
+   "title": "B.nhi-002",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.nhi-003",
+   "path": "world/characters/nhi/beliefs/B.nhi-003.md",
+   "title": "B.nhi-003",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.nhi-004",
+   "path": "world/characters/nhi/beliefs/B.nhi-004.md",
+   "title": "B.nhi-004",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.nhi-005",
+   "path": "world/characters/nhi/beliefs/B.nhi-005.md",
+   "title": "B.nhi-005",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.nhi-006",
+   "path": "world/characters/nhi/beliefs/B.nhi-006.md",
+   "title": "B.nhi-006",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
    "weight": {},
    "effective": ""
   },
@@ -3123,6 +3513,296 @@
    "effective": ""
   },
   {
+   "id": "B.thuyen-001",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-001.md",
+   "title": "B.thuyen-001",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-002",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-002.md",
+   "title": "B.thuyen-002",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-004",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-004.md",
+   "title": "B.thuyen-004",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-005",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-005.md",
+   "title": "B.thuyen-005",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-006",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-006.md",
+   "title": "B.thuyen-006",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-007",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-007.md",
+   "title": "B.thuyen-007",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-008",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-008.md",
+   "title": "B.thuyen-008",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-009",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-009.md",
+   "title": "B.thuyen-009",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-010",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-010.md",
+   "title": "B.thuyen-010",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-011",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-011.md",
+   "title": "B.thuyen-011",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-014",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-014.md",
+   "title": "B.thuyen-014",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-016",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-016.md",
+   "title": "B.thuyen-016",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-017",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-017.md",
+   "title": "B.thuyen-017",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-018",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-018.md",
+   "title": "B.thuyen-018",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-020",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-020.md",
+   "title": "B.thuyen-020",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-021",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-021.md",
+   "title": "B.thuyen-021",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-022",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-022.md",
+   "title": "B.thuyen-022",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-023",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-023.md",
+   "title": "B.thuyen-023",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-024",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-024.md",
+   "title": "B.thuyen-024",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-025",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-025.md",
+   "title": "B.thuyen-025",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-026",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-026.md",
+   "title": "B.thuyen-026",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-027",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-027.md",
+   "title": "B.thuyen-027",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-029",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-029.md",
+   "title": "B.thuyen-029",
+   "layer": "world",
+   "kind": "belief",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-030",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-030.md",
+   "title": "B.thuyen-030",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-031",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-031.md",
+   "title": "B.thuyen-031",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-032",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-032.md",
+   "title": "B.thuyen-032",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-033",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-033.md",
+   "title": "B.thuyen-033",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-034",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-034.md",
+   "title": "B.thuyen-034",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.thuyen-035",
+   "path": "world/characters/thuyen/beliefs/B.thuyen-035.md",
+   "title": "B.thuyen-035",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "CH.thuyen.beliefs",
    "path": "world/characters/thuyen/CH.thuyen.beliefs.md",
    "title": "CH.thuyen.beliefs · Niềm tin của Thuyên",
@@ -3136,6 +3816,16 @@
    "id": "CH.thuyen",
    "path": "world/characters/thuyen/CH.thuyen.md",
    "title": "CH.thuyen · Thuyên",
+   "layer": "world",
+   "kind": "character",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "CH.thuyen.values",
+   "path": "world/characters/thuyen/CH.thuyen.values.md",
+   "title": "CH.thuyen.values · Hệ giá trị của Thuyên",
    "layer": "world",
    "kind": "character",
    "status": "agreed",
@@ -3189,6 +3879,46 @@
    "layer": "world",
    "kind": "function",
    "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.thuyen.di-vong",
+   "path": "world/characters/thuyen/mechanics/FN.thuyen.di-vong.md",
+   "title": "FN.thuyen.di-vong",
+   "layer": "world",
+   "kind": "function",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.thuyen.gat-tinh-thuong",
+   "path": "world/characters/thuyen/mechanics/FN.thuyen.gat-tinh-thuong.md",
+   "title": "FN.thuyen.gat-tinh-thuong",
+   "layer": "world",
+   "kind": "function",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.thuyen.hai-to-nhap",
+   "path": "world/characters/thuyen/mechanics/FN.thuyen.hai-to-nhap.md",
+   "title": "FN.thuyen.hai-to-nhap",
+   "layer": "world",
+   "kind": "function",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "FN.thuyen.hoi-chon-loc",
+   "path": "world/characters/thuyen/mechanics/FN.thuyen.hoi-chon-loc.md",
+   "title": "FN.thuyen.hoi-chon-loc",
+   "layer": "world",
+   "kind": "function",
+   "status": "proposed",
    "weight": {},
    "effective": ""
   },
@@ -3283,6 +4013,146 @@
    "effective": ""
   },
   {
+   "id": "FN.thuyen.vo-cam",
+   "path": "world/characters/thuyen/mechanics/FN.thuyen.vo-cam.md",
+   "title": "FN.thuyen.vo-cam",
+   "layer": "world",
+   "kind": "function",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "V.thuyen-001",
+   "path": "world/characters/thuyen/values/V.thuyen-001.md",
+   "title": "V.thuyen-001 · Sửa khuyết trên lộ trình",
+   "layer": "world",
+   "kind": "value",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "V.thuyen-002",
+   "path": "world/characters/thuyen/values/V.thuyen-002.md",
+   "title": "V.thuyen-002 · Tối ưu, kể cả khi không ai chấm",
+   "layer": "world",
+   "kind": "value",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "V.thuyen-003",
+   "path": "world/characters/thuyen/values/V.thuyen-003.md",
+   "title": "V.thuyen-003 · Đo sức mạnh bằng số người mình nâng lên",
+   "layer": "world",
+   "kind": "value",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "V.thuyen-004",
+   "path": "world/characters/thuyen/values/V.thuyen-004.md",
+   "title": "V.thuyen-004 · Vị thế trước, nói thật sau",
+   "layer": "world",
+   "kind": "value",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "V.thuyen-005",
+   "path": "world/characters/thuyen/values/V.thuyen-005.md",
+   "title": "V.thuyen-005 · Được nể hơn được thương",
+   "layer": "world",
+   "kind": "value",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "V.thuyen-006",
+   "path": "world/characters/thuyen/values/V.thuyen-006.md",
+   "title": "V.thuyen-006 · Phán đoán của mình trên sự gật đầu",
+   "layer": "world",
+   "kind": "value",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "V.thuyen-007",
+   "path": "world/characters/thuyen/values/V.thuyen-007.md",
+   "title": "V.thuyen-007 · Đường vòng hơn đối đầu",
+   "layer": "world",
+   "kind": "value",
+   "status": "agreed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "V.thuyen-008",
+   "path": "world/characters/thuyen/values/V.thuyen-008.md",
+   "title": "V.thuyen-008 · Luôn có mục tiêu kế tiếp",
+   "layer": "world",
+   "kind": "value",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "V.thuyen-009",
+   "path": "world/characters/thuyen/values/V.thuyen-009.md",
+   "title": "V.thuyen-009 · Thành quả xứng với công",
+   "layer": "world",
+   "kind": "value",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "V.thuyen-010",
+   "path": "world/characters/thuyen/values/V.thuyen-010.md",
+   "title": "V.thuyen-010 · Không để ai thấy bên trong",
+   "layer": "world",
+   "kind": "value",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "V.thuyen-011",
+   "path": "world/characters/thuyen/values/V.thuyen-011.md",
+   "title": "V.thuyen-011 · Không nợ ai",
+   "layer": "world",
+   "kind": "value",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "V.thuyen-012",
+   "path": "world/characters/thuyen/values/V.thuyen-012.md",
+   "title": "V.thuyen-012 · Câu trả lời trên thể diện",
+   "layer": "world",
+   "kind": "value",
+   "status": "proposed",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "B.vu-001",
+   "path": "world/characters/vu/beliefs/B.vu-001.md",
+   "title": "B.vu-001",
+   "layer": "world",
+   "kind": "belief",
+   "status": "locked",
+   "weight": {},
+   "effective": ""
+  },
+  {
    "id": "CH.vu.beliefs",
    "path": "world/characters/vu/CH.vu.beliefs.md",
    "title": "CH.vu.beliefs · Niềm tin của Vũ",
@@ -3363,26 +4233,6 @@
    "effective": ""
   },
   {
-   "id": "SPEC.index",
-   "path": "docs/README.md",
-   "title": "docs/: specifications",
-   "layer": "spec",
-   "kind": "spec",
-   "status": "draft",
-   "weight": {},
-   "effective": ""
-  },
-  {
-   "id": "SPEC.framework",
-   "path": "docs/framework/README.md",
-   "title": "Đèn Vàng story framework: specification",
-   "layer": "spec",
-   "kind": "spec",
-   "status": "draft",
-   "weight": {},
-   "effective": ""
-  },
-  {
    "id": "SPEC.adr-001",
    "path": "docs/framework/adr/ADR-001-story-framework.md",
    "title": "ADR-001: the story repository as a typed codebase",
@@ -3425,10 +4275,10 @@
   {
    "id": "SPEC.library",
    "path": "docs/framework/library.md",
-   "title": "Library: registers, techniques, patterns `proposed 10/11`",
+   "title": "Library: style `locked 13/11`",
    "layer": "spec",
    "kind": "spec",
-   "status": "draft",
+   "status": "agreed",
    "weight": {},
    "effective": ""
   },
@@ -3436,6 +4286,16 @@
    "id": "SPEC.model",
    "path": "docs/framework/model.md",
    "title": "Model",
+   "layer": "spec",
+   "kind": "spec",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
+  },
+  {
+   "id": "SPEC.framework",
+   "path": "docs/framework/README.md",
+   "title": "Đèn Vàng story framework: specification",
    "layer": "spec",
    "kind": "spec",
    "status": "draft",
@@ -3491,18 +4351,43 @@
    "status": "locked",
    "weight": {},
    "effective": ""
+  },
+  {
+   "id": "SPEC.index",
+   "path": "docs/README.md",
+   "title": "docs/: specifications",
+   "layer": "spec",
+   "kind": "spec",
+   "status": "draft",
+   "weight": {},
+   "effective": ""
   }
  ],
  "edges": [
   {
-   "s": "GUIDE.main",
-   "t": "GUIDE.old-workflow",
-   "type": "sources"
+   "s": "checklist-b4",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
   },
   {
-   "s": "GUIDE.main",
-   "t": "SPEC.framework",
-   "type": "sources"
+   "s": "checklist-b4",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "checklist-b4",
+   "t": "REG.default",
+   "type": "link"
+  },
+  {
+   "s": "checklist-b4",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "checklist-b4",
+   "t": "LAW.naming.emotion",
+   "type": "link"
   },
   {
    "s": "CFG.calendar",
@@ -3535,8 +4420,28 @@
    "type": "sources"
   },
   {
-   "s": "CORE",
-   "t": "SCALE.exl",
+   "s": "ART.AX3",
+   "t": "FN.thuyen.lang-kinh",
+   "type": "link"
+  },
+  {
+   "s": "ART.AX3",
+   "t": "B.thuyen-034",
+   "type": "link"
+  },
+  {
+   "s": "ART.AX3",
+   "t": "B.thuyen-029",
+   "type": "link"
+  },
+  {
+   "s": "ART.AX3",
+   "t": "SELF.thuyen",
+   "type": "link"
+  },
+  {
+   "s": "ART.AX3",
+   "t": "AX3",
    "type": "link"
   },
   {
@@ -3555,31 +4460,6 @@
    "type": "link"
   },
   {
-   "s": "SCALE.exl",
-   "t": "M-dien-bien-cam-xuc",
-   "type": "sources"
-  },
-  {
-   "s": "ART.AX3",
-   "t": "FN.thuyen.lang-kinh",
-   "type": "link"
-  },
-  {
-   "s": "ART.AX3",
-   "t": "CH.thuyen.beliefs",
-   "type": "link"
-  },
-  {
-   "s": "ART.AX3",
-   "t": "SELF.thuyen",
-   "type": "link"
-  },
-  {
-   "s": "ART.AX3",
-   "t": "AX3",
-   "type": "link"
-  },
-  {
    "s": "GUIDE.invariants",
    "t": "GUIDE.old-workflow",
    "type": "sources"
@@ -3593,6 +4473,16 @@
    "s": "GUIDE.placement",
    "t": "SPEC.layout",
    "type": "sources"
+  },
+  {
+   "s": "GUIDE.placement",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "GUIDE.placement",
+   "t": "LAW.default",
+   "type": "link"
   },
   {
    "s": "GUIDE.reading",
@@ -3636,8 +4526,18 @@
   },
   {
    "s": "GUIDE.task.add-law-or-technique",
-   "t": "SCH.technique",
+   "t": "SCH.style",
    "type": "sources"
+  },
+  {
+   "s": "GUIDE.task.add-law-or-technique",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "GUIDE.task.add-law-or-technique",
+   "t": "LAW.default",
+   "type": "link"
   },
   {
    "s": "GUIDE.task.audit",
@@ -3695,6 +4595,36 @@
    "type": "sources"
   },
   {
+   "s": "GUIDE.main",
+   "t": "GUIDE.old-workflow",
+   "type": "sources"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "SPEC.framework",
+   "type": "sources"
+  },
+  {
+   "s": "TEC.dialogue.natural",
+   "t": "01-rules-viet",
+   "type": "sources"
+  },
+  {
+   "s": "TEC.dialogue.natural",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "TEC.expertise.layman",
+   "t": "01-rules-viet",
+   "type": "sources"
+  },
+  {
+   "s": "TEC.expertise.layman",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
    "s": "TEC.humor.want-clash",
    "t": "ROM.TN-001",
    "type": "link"
@@ -3711,7 +4641,12 @@
   },
   {
    "s": "TEC.interiority.ideal-self",
-   "t": "CH.thuyen.beliefs",
+   "t": "B.thuyen-034",
+   "type": "link"
+  },
+  {
+   "s": "TEC.interiority.ideal-self",
+   "t": "REG.noi-tam",
    "type": "link"
   },
   {
@@ -3722,6 +4657,571 @@
   {
    "s": "TEC.interiority.ideal-self",
    "t": "ART.AX3",
+   "type": "link"
+  },
+  {
+   "s": "TEC.interiority.purposeful-drift",
+   "t": "01-rules-viet",
+   "type": "sources"
+  },
+  {
+   "s": "TEC.interiority.purposeful-drift",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "TEC.lexicon.compound",
+   "t": "01-rules-viet",
+   "type": "sources"
+  },
+  {
+   "s": "TEC.lexicon.compound",
+   "t": "registers",
+   "type": "sources"
+  },
+  {
+   "s": "TEC.lexicon.compound",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "TEC.pace.flashback",
+   "t": "01-rules-viet",
+   "type": "sources"
+  },
+  {
+   "s": "TEC.pace.flashback",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "TEC.pace.present",
+   "t": "01-rules-viet",
+   "type": "sources"
+  },
+  {
+   "s": "TEC.pace.present",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "TEC.prose.human",
+   "t": "01-rules-viet",
+   "type": "sources"
+  },
+  {
+   "s": "TEC.prose.human",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "REG.dang",
+   "t": "registers",
+   "type": "sources"
+  },
+  {
+   "s": "REG.dau-tri",
+   "t": "registers",
+   "type": "sources"
+  },
+  {
+   "s": "REG.day",
+   "t": "registers",
+   "type": "sources"
+  },
+  {
+   "s": "REG.default",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "REG.default",
+   "t": "TEC.transition.common",
+   "type": "link"
+  },
+  {
+   "s": "REG.doi-thuong",
+   "t": "registers",
+   "type": "sources"
+  },
+  {
+   "s": "REG.doi-thuong",
+   "t": "TEC.humor.want-clash",
+   "type": "link"
+  },
+  {
+   "s": "REG.hoi-tuong",
+   "t": "registers",
+   "type": "sources"
+  },
+  {
+   "s": "REG.lang-man",
+   "t": "registers",
+   "type": "sources"
+  },
+  {
+   "s": "REG.lang-man",
+   "t": "TEC.humor.want-clash",
+   "type": "link"
+  },
+  {
+   "s": "REG.lanh-liet-ke",
+   "t": "registers",
+   "type": "sources"
+  },
+  {
+   "s": "REG.noi-tam",
+   "t": "TEC.show.default",
+   "type": "forbids"
+  },
+  {
+   "s": "REG.noi-tam",
+   "t": "registers",
+   "type": "sources"
+  },
+  {
+   "s": "REG.noi-tam",
+   "t": "TEC.interiority.ideal-self",
+   "type": "link"
+  },
+  {
+   "s": "REG.so-cai",
+   "t": "registers",
+   "type": "sources"
+  },
+  {
+   "s": "REG.than-mat",
+   "t": "registers",
+   "type": "sources"
+  },
+  {
+   "s": "TEC.setting.concrete",
+   "t": "01-rules-viet",
+   "type": "sources"
+  },
+  {
+   "s": "TEC.setting.concrete",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "TEC.show.default",
+   "t": "01-rules-viet",
+   "type": "sources"
+  },
+  {
+   "s": "TEC.show.default",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "STY.default",
+   "t": "REG.default",
+   "type": "register"
+  },
+  {
+   "s": "STY.default",
+   "t": "TEC.lexicon.compound",
+   "type": "required"
+  },
+  {
+   "s": "STY.default",
+   "t": "TEC.dialogue.natural",
+   "type": "required"
+  },
+  {
+   "s": "STY.default",
+   "t": "TEC.pace.present",
+   "type": "required"
+  },
+  {
+   "s": "STY.default",
+   "t": "TEC.transition.common",
+   "type": "required"
+  },
+  {
+   "s": "STY.default",
+   "t": "TEC.show.default",
+   "type": "defaults"
+  },
+  {
+   "s": "STY.default",
+   "t": "TEC.setting.concrete",
+   "type": "defaults"
+  },
+  {
+   "s": "STY.default",
+   "t": "TEC.interiority.purposeful-drift",
+   "type": "defaults"
+  },
+  {
+   "s": "STY.default",
+   "t": "TEC.prose.human",
+   "type": "defaults"
+  },
+  {
+   "s": "STY.default",
+   "t": "TEC.pace.flashback",
+   "type": "defaults"
+  },
+  {
+   "s": "STY.default",
+   "t": "TEC.expertise.layman",
+   "type": "defaults"
+  },
+  {
+   "s": "STY.default",
+   "t": "SPEC.library",
+   "type": "link"
+  },
+  {
+   "s": "TEC.transition.common",
+   "t": "registers",
+   "type": "sources"
+  },
+  {
+   "s": "TEC.transition.common",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "M-he-gia-tri",
+   "t": "CH.thuyen.values",
+   "type": "link"
+  },
+  {
+   "s": "M-he-gia-tri",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "M-he-gia-tri",
+   "t": "FN.thuyen.adhd",
+   "type": "link"
+  },
+  {
+   "s": "M-he-gia-tri",
+   "t": "ART.AX3",
+   "type": "link"
+  },
+  {
+   "s": "M-he-gia-tri",
+   "t": "FN.thuyen.cai-toi",
+   "type": "link"
+  },
+  {
+   "s": "LAW.address.relation",
+   "t": "ART.0",
+   "type": "basis"
+  },
+  {
+   "s": "LAW.address.relation",
+   "t": "01-rules-viet",
+   "type": "sources"
+  },
+  {
+   "s": "LAW.address.relation",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "LAW.dialect.ha-tinh",
+   "t": "ART.0",
+   "type": "basis"
+  },
+  {
+   "s": "LAW.dialect.ha-tinh",
+   "t": "01-rules-viet",
+   "type": "sources"
+  },
+  {
+   "s": "LAW.dialect.ha-tinh",
+   "t": "tu-dien-ha-tinh",
+   "type": "sources"
+  },
+  {
+   "s": "LAW.dialect.ha-tinh",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "LAW.disclosure.purpose",
+   "t": "ART.0",
+   "type": "basis"
+  },
+  {
+   "s": "LAW.disclosure.purpose",
+   "t": "01-rules-viet",
+   "type": "sources"
+  },
+  {
+   "s": "LAW.disclosure.purpose",
+   "t": "goi-ten-cam-xuc",
+   "type": "sources"
+  },
+  {
+   "s": "LAW.disclosure.purpose",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "LAW.display.blocks",
+   "t": "ART.0",
+   "type": "basis"
+  },
+  {
+   "s": "LAW.display.blocks",
+   "t": "01c-rules-thanh-phan",
+   "type": "sources"
+  },
+  {
+   "s": "LAW.display.blocks",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "goi-ten-cam-xuc",
+   "t": "REG.noi-tam",
+   "type": "link"
+  },
+  {
+   "s": "goi-ten-cam-xuc",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "LAW.harm.pain",
+   "t": "ART.0",
+   "type": "basis"
+  },
+  {
+   "s": "LAW.harm.pain",
+   "t": "registers",
+   "type": "sources"
+  },
+  {
+   "s": "LAW.harm.pain",
+   "t": "chui-bay-thiet-ke",
+   "type": "sources"
+  },
+  {
+   "s": "LAW.harm.pain",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "LAW.intimacy.limits",
+   "t": "ART.0",
+   "type": "basis"
+  },
+  {
+   "s": "LAW.intimacy.limits",
+   "t": "01-rules-viet",
+   "type": "sources"
+  },
+  {
+   "s": "LAW.intimacy.limits",
+   "t": "bible-v2",
+   "type": "sources"
+  },
+  {
+   "s": "LAW.intimacy.limits",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "LAW.default",
+   "t": "LAW.disclosure.purpose",
+   "type": "hard"
+  },
+  {
+   "s": "LAW.default",
+   "t": "LAW.display.blocks",
+   "type": "hard"
+  },
+  {
+   "s": "LAW.default",
+   "t": "LAW.address.relation",
+   "type": "hard"
+  },
+  {
+   "s": "LAW.default",
+   "t": "LAW.dialect.ha-tinh",
+   "type": "hard"
+  },
+  {
+   "s": "LAW.default",
+   "t": "LAW.under-18.base",
+   "type": "hard"
+  },
+  {
+   "s": "LAW.default",
+   "t": "LAW.places.real-fiction",
+   "type": "hard"
+  },
+  {
+   "s": "LAW.default",
+   "t": "LAW.harm.pain",
+   "type": "hard"
+  },
+  {
+   "s": "LAW.default",
+   "t": "LAW.intimacy.limits",
+   "type": "hard"
+  },
+  {
+   "s": "LAW.default",
+   "t": "LAW.naming.emotion",
+   "type": "soft"
+  },
+  {
+   "s": "LAW.default",
+   "t": "LAW.pov.narrator-knowledge",
+   "type": "soft"
+  },
+  {
+   "s": "LAW.default",
+   "t": "LAW.swearing.levels",
+   "type": "soft"
+  },
+  {
+   "s": "LAW.default",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "LAW.default",
+   "t": "SPEC.rules-engine",
+   "type": "link"
+  },
+  {
+   "s": "LAW.naming.emotion",
+   "t": "ART.0",
+   "type": "basis"
+  },
+  {
+   "s": "LAW.naming.emotion",
+   "t": "01-rules-viet",
+   "type": "sources"
+  },
+  {
+   "s": "LAW.naming.emotion",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "LAW.naming.emotion",
+   "t": "LAW.disclosure.purpose",
+   "type": "link"
+  },
+  {
+   "s": "LAW.places.real-fiction",
+   "t": "ART.0",
+   "type": "basis"
+  },
+  {
+   "s": "LAW.places.real-fiction",
+   "t": "01-rules-viet",
+   "type": "sources"
+  },
+  {
+   "s": "LAW.places.real-fiction",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "LAW.pov.narrator-knowledge",
+   "t": "ART.0",
+   "type": "basis"
+  },
+  {
+   "s": "LAW.pov.narrator-knowledge",
+   "t": "registers",
+   "type": "sources"
+  },
+  {
+   "s": "LAW.pov.narrator-knowledge",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "registers",
+   "t": "REG.noi-tam",
+   "type": "link"
+  },
+  {
+   "s": "registers",
+   "t": "REG.default",
+   "type": "link"
+  },
+  {
+   "s": "registers",
+   "t": "FN.thuyen.phong-kin",
+   "type": "link"
+  },
+  {
+   "s": "registers",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "registers",
+   "t": "X-011-001",
+   "type": "link"
+  },
+  {
+   "s": "registers",
+   "t": "FN.thuyen.adhd",
+   "type": "link"
+  },
+  {
+   "s": "registers",
+   "t": "TEC.interiority.ideal-self",
+   "type": "link"
+  },
+  {
+   "s": "registers",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "registers",
+   "t": "FN.thuyen.lang-kinh",
+   "type": "link"
+  },
+  {
+   "s": "LAW.swearing.levels",
+   "t": "ART.0",
+   "type": "basis"
+  },
+  {
+   "s": "LAW.swearing.levels",
+   "t": "chui-bay-thiet-ke",
+   "type": "sources"
+  },
+  {
+   "s": "LAW.swearing.levels",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "LAW.under-18.base",
+   "t": "ART.0",
+   "type": "basis"
+  },
+  {
+   "s": "LAW.under-18.base",
+   "t": "01-rules-viet",
+   "type": "sources"
+  },
+  {
+   "s": "LAW.under-18.base",
+   "t": "bible-v2",
+   "type": "sources"
+  },
+  {
+   "s": "LAW.under-18.base",
+   "t": "LAW.default",
    "type": "link"
   },
   {
@@ -3743,6 +5243,11 @@
    "s": "SCH.belief",
    "t": "kien-truc-framework",
    "type": "sources"
+  },
+  {
+   "s": "SCH.belief",
+   "t": "SPEC.model",
+   "type": "link"
   },
   {
    "s": "SCH.belief",
@@ -3785,9 +5290,19 @@
    "type": "sources"
   },
   {
+   "s": "SCH.event",
+   "t": "SPEC.model",
+   "type": "link"
+  },
+  {
    "s": "SCH.function",
    "t": "kien-truc-framework",
    "type": "sources"
+  },
+  {
+   "s": "SCH.function",
+   "t": "SPEC.model",
+   "type": "link"
   },
   {
    "s": "SCH.goal",
@@ -3815,6 +5330,11 @@
    "type": "sources"
   },
   {
+   "s": "SCH.law",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
    "s": "SCH.node",
    "t": "SPEC.storylines",
    "type": "sources"
@@ -3825,13 +5345,18 @@
    "type": "sources"
   },
   {
-   "s": "SCH.object",
-   "t": "kien-truc-framework",
-   "type": "sources"
+   "s": "SCH.node",
+   "t": "STY.default",
+   "type": "link"
   },
   {
-   "s": "SCH.pattern",
-   "t": "SPEC.library",
+   "s": "SCH.node",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "SCH.object",
+   "t": "kien-truc-framework",
    "type": "sources"
   },
   {
@@ -3840,23 +5365,28 @@
    "type": "sources"
   },
   {
+   "s": "SCH.preset",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "SCH.preset",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "SCH.preset",
+   "t": "SPEC.library",
+   "type": "link"
+  },
+  {
+   "s": "SCH.preset",
+   "t": "SPEC.rules-engine",
+   "type": "link"
+  },
+  {
    "s": "SCH.proposal",
    "t": "kien-truc-framework",
-   "type": "sources"
-  },
-  {
-   "s": "SCH.register",
-   "t": "SPEC.library",
-   "type": "sources"
-  },
-  {
-   "s": "SCH.register",
-   "t": "registers",
-   "type": "sources"
-  },
-  {
-   "s": "SCH.scale",
-   "t": "SPEC.model",
    "type": "sources"
   },
   {
@@ -3880,9 +5410,59 @@
    "type": "sources"
   },
   {
-   "s": "SCH.technique",
+   "s": "SCH.style",
    "t": "SPEC.library",
    "type": "sources"
+  },
+  {
+   "s": "SCH.style",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "SCH.value",
+   "t": "SPEC.model",
+   "type": "sources"
+  },
+  {
+   "s": "SCH.value",
+   "t": "SPEC.model",
+   "type": "link"
+  },
+  {
+   "s": "FAM",
+   "t": "TREE",
+   "type": "parent"
+  },
+  {
+   "s": "FAM",
+   "t": "cay-tuyen",
+   "type": "sources"
+  },
+  {
+   "s": "FAM",
+   "t": "REG.doi-thuong",
+   "type": "link"
+  },
+  {
+   "s": "FAM",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "FAM",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "FAM",
+   "t": "FAM.T",
+   "type": "link"
+  },
+  {
+   "s": "FAM",
+   "t": "FAM.N",
+   "type": "link"
   },
   {
    "s": "FAM.N",
@@ -3945,26 +5525,681 @@
    "type": "link"
   },
   {
-   "s": "FAM",
-   "t": "TREE",
-   "type": "parent"
+   "s": "X-001",
+   "t": "FAM.N",
+   "type": "nodes"
   },
   {
-   "s": "FAM",
-   "t": "cay-tuyen",
-   "type": "sources"
+   "s": "X-001",
+   "t": "ROM.TD",
+   "type": "nodes"
   },
   {
-   "s": "FAM",
-   "t": "FAM.T",
-   "type": "link"
+   "s": "X-001",
+   "t": "THR.MO",
+   "type": "nodes"
   },
   {
-   "s": "FAM",
+   "s": "X-001",
    "t": "FAM.N",
    "type": "link"
   },
   {
+   "s": "X-001",
+   "t": "ROM.TD",
+   "type": "link"
+  },
+  {
+   "s": "X-001",
+   "t": "THR.MO",
+   "type": "link"
+  },
+  {
+   "s": "X-002",
+   "t": "PAST.T",
+   "type": "nodes"
+  },
+  {
+   "s": "X-002",
+   "t": "ROM.TN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-002",
+   "t": "PAST.T",
+   "type": "link"
+  },
+  {
+   "s": "X-002",
+   "t": "ROM.TN",
+   "type": "link"
+  },
+  {
+   "s": "X-003",
+   "t": "ROM.TN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-003",
+   "t": "SOL.VU",
+   "type": "nodes"
+  },
+  {
+   "s": "X-003",
+   "t": "ROM.TN",
+   "type": "link"
+  },
+  {
+   "s": "X-003",
+   "t": "SOL.VU",
+   "type": "link"
+  },
+  {
+   "s": "X-004",
+   "t": "PAST.N",
+   "type": "nodes"
+  },
+  {
+   "s": "X-004",
+   "t": "ROM.TN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-004",
+   "t": "THR.LAB",
+   "type": "nodes"
+  },
+  {
+   "s": "X-004",
+   "t": "PAST.N",
+   "type": "link"
+  },
+  {
+   "s": "X-004",
+   "t": "ROM.TN",
+   "type": "link"
+  },
+  {
+   "s": "X-004",
+   "t": "THR.LAB",
+   "type": "link"
+  },
+  {
+   "s": "X-005",
+   "t": "PAST.T",
+   "type": "nodes"
+  },
+  {
+   "s": "X-005",
+   "t": "ROM.PN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-005",
+   "t": "ROM.TN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-005",
+   "t": "PAST.T",
+   "type": "link"
+  },
+  {
+   "s": "X-005",
+   "t": "ROM.PN",
+   "type": "link"
+  },
+  {
+   "s": "X-005",
+   "t": "ROM.TN",
+   "type": "link"
+  },
+  {
+   "s": "X-007",
+   "t": "FAM.N",
+   "type": "nodes"
+  },
+  {
+   "s": "X-007",
+   "t": "ROM.PN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-007",
+   "t": "ROM.TN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-007",
+   "t": "SOL.SAN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-007",
+   "t": "FAM.N",
+   "type": "link"
+  },
+  {
+   "s": "X-007",
+   "t": "ROM.PN",
+   "type": "link"
+  },
+  {
+   "s": "X-007",
+   "t": "ROM.TN",
+   "type": "link"
+  },
+  {
+   "s": "X-007",
+   "t": "SOL.SAN",
+   "type": "link"
+  },
+  {
+   "s": "X-008",
+   "t": "ROM.TD",
+   "type": "nodes"
+  },
+  {
+   "s": "X-008",
+   "t": "ROM.TN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-008",
+   "t": "THR.LM",
+   "type": "nodes"
+  },
+  {
+   "s": "X-008",
+   "t": "ROM.TD",
+   "type": "link"
+  },
+  {
+   "s": "X-008",
+   "t": "ROM.TN",
+   "type": "link"
+  },
+  {
+   "s": "X-008",
+   "t": "THR.LM",
+   "type": "link"
+  },
+  {
+   "s": "X-009",
+   "t": "FAM.N",
+   "type": "nodes"
+  },
+  {
+   "s": "X-009",
+   "t": "ROM.PN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-009",
+   "t": "ROM.TD",
+   "type": "nodes"
+  },
+  {
+   "s": "X-009",
+   "t": "ROM.TN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-009",
+   "t": "THR.MODEL",
+   "type": "nodes"
+  },
+  {
+   "s": "X-009",
+   "t": "THR.T18",
+   "type": "nodes"
+  },
+  {
+   "s": "X-009",
+   "t": "FAM.N",
+   "type": "link"
+  },
+  {
+   "s": "X-009",
+   "t": "ROM.PN",
+   "type": "link"
+  },
+  {
+   "s": "X-009",
+   "t": "ROM.TD",
+   "type": "link"
+  },
+  {
+   "s": "X-009",
+   "t": "ROM.TN",
+   "type": "link"
+  },
+  {
+   "s": "X-009",
+   "t": "THR.MODEL",
+   "type": "link"
+  },
+  {
+   "s": "X-009",
+   "t": "THR.T18",
+   "type": "link"
+  },
+  {
+   "s": "X-010",
+   "t": "ROM.PN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-010",
+   "t": "ROM.TN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-010",
+   "t": "ROM.PN",
+   "type": "link"
+  },
+  {
+   "s": "X-010",
+   "t": "ROM.TN",
+   "type": "link"
+  },
+  {
+   "s": "X-011-001",
+   "t": "X-011",
+   "type": "parent"
+  },
+  {
+   "s": "X-011-001",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "X-011-001",
+   "t": "CH.nhi",
+   "type": "participants"
+  },
+  {
+   "s": "X-011-001",
+   "t": "rm-x11-dem-say",
+   "type": "sources"
+  },
+  {
+   "s": "X-011-001",
+   "t": "B.thuyen-024",
+   "type": "link"
+  },
+  {
+   "s": "X-011-001",
+   "t": "B.thuyen-034",
+   "type": "link"
+  },
+  {
+   "s": "X-011-001",
+   "t": "B.thuyen-030",
+   "type": "link"
+  },
+  {
+   "s": "X-011-001",
+   "t": "B.thuyen-029",
+   "type": "link"
+  },
+  {
+   "s": "X-011-001",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "X-011-001",
+   "t": "FN.thuyen.cai-toi",
+   "type": "link"
+  },
+  {
+   "s": "X-011-001",
+   "t": "THR.LAB",
+   "type": "link"
+  },
+  {
+   "s": "X-011",
+   "t": "ROM.PN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-011",
+   "t": "ROM.TN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-011",
+   "t": "SOL.HD",
+   "type": "nodes"
+  },
+  {
+   "s": "X-011",
+   "t": "THR.LAB",
+   "type": "nodes"
+  },
+  {
+   "s": "X-011",
+   "t": "ROM.PN",
+   "type": "link"
+  },
+  {
+   "s": "X-011",
+   "t": "ROM.TN",
+   "type": "link"
+  },
+  {
+   "s": "X-011",
+   "t": "SOL.HD",
+   "type": "link"
+  },
+  {
+   "s": "X-011",
+   "t": "THR.LAB",
+   "type": "link"
+  },
+  {
+   "s": "X-011",
+   "t": "X-011-001",
+   "type": "link"
+  },
+  {
+   "s": "X-011",
+   "t": "B.thuyen-024",
+   "type": "link"
+  },
+  {
+   "s": "X-011",
+   "t": "B.thuyen-034",
+   "type": "link"
+  },
+  {
+   "s": "X-011",
+   "t": "B.thuyen-030",
+   "type": "link"
+  },
+  {
+   "s": "X-012",
+   "t": "ROM.TN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-012",
+   "t": "THR.DR",
+   "type": "nodes"
+  },
+  {
+   "s": "X-012",
+   "t": "ROM.TN",
+   "type": "link"
+  },
+  {
+   "s": "X-012",
+   "t": "THR.DR",
+   "type": "link"
+  },
+  {
+   "s": "X-013",
+   "t": "FAM.N",
+   "type": "nodes"
+  },
+  {
+   "s": "X-013",
+   "t": "ROM.TN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-013",
+   "t": "THR.T18",
+   "type": "nodes"
+  },
+  {
+   "s": "X-013",
+   "t": "FAM.N",
+   "type": "link"
+  },
+  {
+   "s": "X-013",
+   "t": "ROM.TN",
+   "type": "link"
+  },
+  {
+   "s": "X-013",
+   "t": "THR.T18",
+   "type": "link"
+  },
+  {
+   "s": "X-014",
+   "t": "ROM.TD",
+   "type": "nodes"
+  },
+  {
+   "s": "X-014",
+   "t": "THR.LM",
+   "type": "nodes"
+  },
+  {
+   "s": "X-014",
+   "t": "ROM.TD",
+   "type": "link"
+  },
+  {
+   "s": "X-014",
+   "t": "THR.LM",
+   "type": "link"
+  },
+  {
+   "s": "X-015",
+   "t": "ROM.TN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-015",
+   "t": "SOL.DT",
+   "type": "nodes"
+  },
+  {
+   "s": "X-015",
+   "t": "SOL.VU",
+   "type": "nodes"
+  },
+  {
+   "s": "X-015",
+   "t": "ROM.TN",
+   "type": "link"
+  },
+  {
+   "s": "X-015",
+   "t": "SOL.DT",
+   "type": "link"
+  },
+  {
+   "s": "X-015",
+   "t": "SOL.VU",
+   "type": "link"
+  },
+  {
+   "s": "X-016",
+   "t": "FAM.T",
+   "type": "nodes"
+  },
+  {
+   "s": "X-016",
+   "t": "SOL.DT",
+   "type": "nodes"
+  },
+  {
+   "s": "X-016",
+   "t": "THR.MODEL",
+   "type": "nodes"
+  },
+  {
+   "s": "X-016",
+   "t": "FAM.T",
+   "type": "link"
+  },
+  {
+   "s": "X-016",
+   "t": "SOL.DT",
+   "type": "link"
+  },
+  {
+   "s": "X-016",
+   "t": "THR.MODEL",
+   "type": "link"
+  },
+  {
+   "s": "X-017",
+   "t": "ROM.PN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-017",
+   "t": "ROM.TN",
+   "type": "nodes"
+  },
+  {
+   "s": "X-017",
+   "t": "SOL.HD",
+   "type": "nodes"
+  },
+  {
+   "s": "X-017",
+   "t": "ROM.PN",
+   "type": "link"
+  },
+  {
+   "s": "X-017",
+   "t": "ROM.TN",
+   "type": "link"
+  },
+  {
+   "s": "X-017",
+   "t": "SOL.HD",
+   "type": "link"
+  },
+  {
+   "s": "X-018",
+   "t": "FAM",
+   "type": "nodes"
+  },
+  {
+   "s": "X-018",
+   "t": "PAST",
+   "type": "nodes"
+  },
+  {
+   "s": "X-018",
+   "t": "ROM",
+   "type": "nodes"
+  },
+  {
+   "s": "X-018",
+   "t": "SOL",
+   "type": "nodes"
+  },
+  {
+   "s": "X-018",
+   "t": "THR",
+   "type": "nodes"
+  },
+  {
+   "s": "X-018",
+   "t": "FAM",
+   "type": "link"
+  },
+  {
+   "s": "X-018",
+   "t": "PAST",
+   "type": "link"
+  },
+  {
+   "s": "X-018",
+   "t": "ROM",
+   "type": "link"
+  },
+  {
+   "s": "X-018",
+   "t": "SOL",
+   "type": "link"
+  },
+  {
+   "s": "X-018",
+   "t": "THR",
+   "type": "link"
+  },
+  {
+   "s": "X-019",
+   "t": "FAM.T",
+   "type": "nodes"
+  },
+  {
+   "s": "X-019",
+   "t": "PAST.T",
+   "type": "nodes"
+  },
+  {
+   "s": "X-019",
+   "t": "FAM.T",
+   "type": "share"
+  },
+  {
+   "s": "X-019",
+   "t": "PAST.T",
+   "type": "share"
+  },
+  {
+   "s": "X-019",
+   "t": "FAM.T",
+   "type": "link"
+  },
+  {
+   "s": "X-019",
+   "t": "PAST.T",
+   "type": "link"
+  },
+  {
+   "s": "X-019",
+   "t": "PAST.T-006",
+   "type": "link"
+  },
+  {
+   "s": "X-019",
+   "t": "PAST.T-017",
+   "type": "link"
+  },
+  {
+   "s": "X-020",
+   "t": "PAST.N.HD",
+   "type": "nodes"
+  },
+  {
+   "s": "X-020",
+   "t": "SOL.HD",
+   "type": "nodes"
+  },
+  {
+   "s": "X-020",
+   "t": "SOL.HD",
+   "type": "share"
+  },
+  {
+   "s": "X-020",
+   "t": "PAST.N.HD",
+   "type": "share"
+  },
+  {
+   "s": "X-020",
+   "t": "PAST.N.HD",
+   "type": "link"
+  },
+  {
+   "s": "X-020",
+   "t": "SOL.HD",
+   "type": "link"
+  },
+  {
    "s": "PAST.DA",
    "t": "PAST",
    "type": "parent"
@@ -3983,6 +6218,71 @@
    "s": "PAST.K",
    "t": "cay-tuyen",
    "type": "sources"
+  },
+  {
+   "s": "PAST",
+   "t": "TREE",
+   "type": "parent"
+  },
+  {
+   "s": "PAST",
+   "t": "SCH.event",
+   "type": "link"
+  },
+  {
+   "s": "PAST",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "PAST",
+   "t": "CH.nhi.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "PAST",
+   "t": "REG.hoi-tuong",
+   "type": "link"
+  },
+  {
+   "s": "PAST",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "PAST",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "PAST",
+   "t": "PAST.T",
+   "type": "link"
+  },
+  {
+   "s": "PAST",
+   "t": "PAST.N",
+   "type": "link"
+  },
+  {
+   "s": "PAST",
+   "t": "PAST.N.HD",
+   "type": "link"
+  },
+  {
+   "s": "PAST",
+   "t": "PAST.DA",
+   "type": "link"
+  },
+  {
+   "s": "PAST",
+   "t": "PAST.K",
+   "type": "link"
+  },
+  {
+   "s": "PAST",
+   "t": "PAST.T-017",
+   "type": "link"
   },
   {
    "s": "PAST.N-001",
@@ -4600,56 +6900,6 @@
    "type": "link"
   },
   {
-   "s": "PAST",
-   "t": "TREE",
-   "type": "parent"
-  },
-  {
-   "s": "PAST",
-   "t": "SCH.event",
-   "type": "link"
-  },
-  {
-   "s": "PAST",
-   "t": "CH.thuyen.beliefs",
-   "type": "link"
-  },
-  {
-   "s": "PAST",
-   "t": "CH.nhi.beliefs",
-   "type": "link"
-  },
-  {
-   "s": "PAST",
-   "t": "PAST.T",
-   "type": "link"
-  },
-  {
-   "s": "PAST",
-   "t": "PAST.N",
-   "type": "link"
-  },
-  {
-   "s": "PAST",
-   "t": "PAST.N.HD",
-   "type": "link"
-  },
-  {
-   "s": "PAST",
-   "t": "PAST.DA",
-   "type": "link"
-  },
-  {
-   "s": "PAST",
-   "t": "PAST.K",
-   "type": "link"
-  },
-  {
-   "s": "PAST",
-   "t": "PAST.T-017",
-   "type": "link"
-  },
-  {
    "s": "TREE",
    "t": "SELF",
    "type": "link"
@@ -4726,7 +6976,12 @@
   },
   {
    "s": "TREE",
-   "t": "SCALE.exl",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "TREE",
+   "t": "REG.default",
    "type": "link"
   },
   {
@@ -4738,6 +6993,56 @@
    "s": "ROM.LT",
    "t": "cay-tuyen",
    "type": "sources"
+  },
+  {
+   "s": "ROM",
+   "t": "TREE",
+   "type": "parent"
+  },
+  {
+   "s": "ROM",
+   "t": "kien-truc-framework",
+   "type": "sources"
+  },
+  {
+   "s": "ROM",
+   "t": "ROM.TN",
+   "type": "link"
+  },
+  {
+   "s": "ROM",
+   "t": "REG.lang-man",
+   "type": "link"
+  },
+  {
+   "s": "ROM",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "ROM",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "ROM",
+   "t": "ROM.TD",
+   "type": "link"
+  },
+  {
+   "s": "ROM",
+   "t": "ROM.PN",
+   "type": "link"
+  },
+  {
+   "s": "ROM",
+   "t": "ROM.LT",
+   "type": "link"
+  },
+  {
+   "s": "ROM",
+   "t": "ROM.VA",
+   "type": "link"
   },
   {
    "s": "ROM.PN",
@@ -4826,12 +7131,52 @@
   },
   {
    "s": "ROM.TN",
-   "t": "CH.thuyen.beliefs",
+   "t": "B.thuyen-030",
    "type": "link"
   },
   {
    "s": "ROM.TN",
-   "t": "CH.nhi.beliefs",
+   "t": "B.nhi-003",
+   "type": "link"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "B.thuyen-021",
+   "type": "link"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "B.nhi-001",
+   "type": "link"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "B.thuyen-005",
+   "type": "link"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "B.thuyen-034",
+   "type": "link"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "B.nhi-006",
+   "type": "link"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "B.thuyen-029",
+   "type": "link"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "B.thuyen-024",
+   "type": "link"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "B.thuyen-001",
    "type": "link"
   },
   {
@@ -4842,6 +7187,21 @@
   {
    "s": "ROM.TN",
    "t": "PAST.N",
+   "type": "link"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "FN.nhi.thich",
+   "type": "link"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "CH.nhi",
+   "type": "link"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "ROM",
    "type": "link"
   },
   {
@@ -4885,41 +7245,6 @@
    "type": "sources"
   },
   {
-   "s": "ROM",
-   "t": "TREE",
-   "type": "parent"
-  },
-  {
-   "s": "ROM",
-   "t": "kien-truc-framework",
-   "type": "sources"
-  },
-  {
-   "s": "ROM",
-   "t": "ROM.TN",
-   "type": "link"
-  },
-  {
-   "s": "ROM",
-   "t": "ROM.TD",
-   "type": "link"
-  },
-  {
-   "s": "ROM",
-   "t": "ROM.PN",
-   "type": "link"
-  },
-  {
-   "s": "ROM",
-   "t": "ROM.LT",
-   "type": "link"
-  },
-  {
-   "s": "ROM",
-   "t": "ROM.VA",
-   "type": "link"
-  },
-  {
    "s": "SELF",
    "t": "TREE",
    "type": "parent"
@@ -4928,6 +7253,11 @@
    "s": "SELF",
    "t": "kien-truc-framework",
    "type": "sources"
+  },
+  {
+   "s": "SELF",
+   "t": "REG.default",
+   "type": "link"
   },
   {
    "s": "SELF",
@@ -4966,12 +7296,12 @@
   },
   {
    "s": "SELF.thuyen",
-   "t": "ART.AX3",
+   "t": "CH.thuyen.voice",
    "type": "link"
   },
   {
    "s": "SELF.thuyen",
-   "t": "CH.thuyen.voice",
+   "t": "ART.AX3",
    "type": "link"
   },
   {
@@ -5021,12 +7351,57 @@
   },
   {
    "s": "SOL.HD",
-   "t": "CH.nhi.beliefs",
+   "t": "B.nhi-003",
    "type": "link"
   },
   {
    "s": "SOL.HD",
    "t": "SEC-001",
+   "type": "link"
+  },
+  {
+   "s": "SOL",
+   "t": "TREE",
+   "type": "parent"
+  },
+  {
+   "s": "SOL",
+   "t": "cay-tuyen",
+   "type": "sources"
+  },
+  {
+   "s": "SOL",
+   "t": "REG.doi-thuong",
+   "type": "link"
+  },
+  {
+   "s": "SOL",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "SOL",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "SOL",
+   "t": "SOL.VU",
+   "type": "link"
+  },
+  {
+   "s": "SOL",
+   "t": "SOL.SAN",
+   "type": "link"
+  },
+  {
+   "s": "SOL",
+   "t": "SOL.HD",
+   "type": "link"
+  },
+  {
+   "s": "SOL",
+   "t": "SOL.DT",
    "type": "link"
   },
   {
@@ -5115,36 +7490,6 @@
    "type": "link"
   },
   {
-   "s": "SOL",
-   "t": "TREE",
-   "type": "parent"
-  },
-  {
-   "s": "SOL",
-   "t": "cay-tuyen",
-   "type": "sources"
-  },
-  {
-   "s": "SOL",
-   "t": "SOL.VU",
-   "type": "link"
-  },
-  {
-   "s": "SOL",
-   "t": "SOL.SAN",
-   "type": "link"
-  },
-  {
-   "s": "SOL",
-   "t": "SOL.HD",
-   "type": "link"
-  },
-  {
-   "s": "SOL",
-   "t": "SOL.DT",
-   "type": "link"
-  },
-  {
    "s": "THR.DR",
    "t": "THR",
    "type": "parent"
@@ -5186,51 +7531,6 @@
   },
   {
    "s": "THR.LM",
-   "t": "cay-tuyen",
-   "type": "sources"
-  },
-  {
-   "s": "THR.MO",
-   "t": "THR",
-   "type": "parent"
-  },
-  {
-   "s": "THR.MO",
-   "t": "CH.thuyen",
-   "type": "participants"
-  },
-  {
-   "s": "THR.MO",
-   "t": "cay-tuyen",
-   "type": "sources"
-  },
-  {
-   "s": "THR.MODEL",
-   "t": "THR",
-   "type": "parent"
-  },
-  {
-   "s": "THR.MODEL",
-   "t": "CH.thuyen",
-   "type": "participants"
-  },
-  {
-   "s": "THR.MODEL",
-   "t": "cay-tuyen",
-   "type": "sources"
-  },
-  {
-   "s": "THR.T18",
-   "t": "THR",
-   "type": "parent"
-  },
-  {
-   "s": "THR.T18",
-   "t": "CH.thuyen",
-   "type": "participants"
-  },
-  {
-   "s": "THR.T18",
    "t": "cay-tuyen",
    "type": "sources"
   },
@@ -5243,6 +7543,21 @@
    "s": "THR",
    "t": "cay-tuyen",
    "type": "sources"
+  },
+  {
+   "s": "THR",
+   "t": "REG.dau-tri",
+   "type": "link"
+  },
+  {
+   "s": "THR",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "THR",
+   "t": "LAW.default",
+   "type": "link"
   },
   {
    "s": "THR",
@@ -5275,649 +7590,184 @@
    "type": "link"
   },
   {
-   "s": "X-001",
-   "t": "FAM.N",
-   "type": "nodes"
-  },
-  {
-   "s": "X-001",
-   "t": "ROM.TD",
-   "type": "nodes"
-  },
-  {
-   "s": "X-001",
-   "t": "THR.MO",
-   "type": "nodes"
-  },
-  {
-   "s": "X-001",
-   "t": "FAM.N",
-   "type": "link"
-  },
-  {
-   "s": "X-001",
-   "t": "ROM.TD",
-   "type": "link"
-  },
-  {
-   "s": "X-001",
-   "t": "THR.MO",
-   "type": "link"
-  },
-  {
-   "s": "X-002",
-   "t": "PAST.T",
-   "type": "nodes"
-  },
-  {
-   "s": "X-002",
-   "t": "ROM.TN",
-   "type": "nodes"
-  },
-  {
-   "s": "X-002",
-   "t": "PAST.T",
-   "type": "link"
-  },
-  {
-   "s": "X-002",
-   "t": "ROM.TN",
-   "type": "link"
-  },
-  {
-   "s": "X-003",
-   "t": "ROM.TN",
-   "type": "nodes"
-  },
-  {
-   "s": "X-003",
-   "t": "SOL.VU",
-   "type": "nodes"
-  },
-  {
-   "s": "X-003",
-   "t": "ROM.TN",
-   "type": "link"
-  },
-  {
-   "s": "X-003",
-   "t": "SOL.VU",
-   "type": "link"
-  },
-  {
-   "s": "X-004",
-   "t": "PAST.N",
-   "type": "nodes"
-  },
-  {
-   "s": "X-004",
-   "t": "ROM.TN",
-   "type": "nodes"
-  },
-  {
-   "s": "X-004",
-   "t": "THR.LAB",
-   "type": "nodes"
-  },
-  {
-   "s": "X-004",
-   "t": "PAST.N",
-   "type": "link"
-  },
-  {
-   "s": "X-004",
-   "t": "ROM.TN",
-   "type": "link"
-  },
-  {
-   "s": "X-004",
-   "t": "THR.LAB",
-   "type": "link"
-  },
-  {
-   "s": "X-005",
-   "t": "PAST.T",
-   "type": "nodes"
-  },
-  {
-   "s": "X-005",
-   "t": "ROM.PN",
-   "type": "nodes"
-  },
-  {
-   "s": "X-005",
-   "t": "ROM.TN",
-   "type": "nodes"
-  },
-  {
-   "s": "X-005",
-   "t": "PAST.T",
-   "type": "link"
-  },
-  {
-   "s": "X-005",
-   "t": "ROM.PN",
-   "type": "link"
-  },
-  {
-   "s": "X-005",
-   "t": "ROM.TN",
-   "type": "link"
-  },
-  {
-   "s": "X-007",
-   "t": "FAM.N",
-   "type": "nodes"
-  },
-  {
-   "s": "X-007",
-   "t": "ROM.PN",
-   "type": "nodes"
-  },
-  {
-   "s": "X-007",
-   "t": "ROM.TN",
-   "type": "nodes"
-  },
-  {
-   "s": "X-007",
-   "t": "SOL.SAN",
-   "type": "nodes"
-  },
-  {
-   "s": "X-007",
-   "t": "FAM.N",
-   "type": "link"
-  },
-  {
-   "s": "X-007",
-   "t": "ROM.PN",
-   "type": "link"
-  },
-  {
-   "s": "X-007",
-   "t": "ROM.TN",
-   "type": "link"
-  },
-  {
-   "s": "X-007",
-   "t": "SOL.SAN",
-   "type": "link"
-  },
-  {
-   "s": "X-008",
-   "t": "ROM.TD",
-   "type": "nodes"
-  },
-  {
-   "s": "X-008",
-   "t": "ROM.TN",
-   "type": "nodes"
-  },
-  {
-   "s": "X-008",
-   "t": "THR.LM",
-   "type": "nodes"
-  },
-  {
-   "s": "X-008",
-   "t": "ROM.TD",
-   "type": "link"
-  },
-  {
-   "s": "X-008",
-   "t": "ROM.TN",
-   "type": "link"
-  },
-  {
-   "s": "X-008",
-   "t": "THR.LM",
-   "type": "link"
-  },
-  {
-   "s": "X-009",
-   "t": "FAM.N",
-   "type": "nodes"
-  },
-  {
-   "s": "X-009",
-   "t": "ROM.PN",
-   "type": "nodes"
-  },
-  {
-   "s": "X-009",
-   "t": "ROM.TD",
-   "type": "nodes"
-  },
-  {
-   "s": "X-009",
-   "t": "ROM.TN",
-   "type": "nodes"
-  },
-  {
-   "s": "X-009",
-   "t": "THR.MODEL",
-   "type": "nodes"
-  },
-  {
-   "s": "X-009",
-   "t": "THR.T18",
-   "type": "nodes"
-  },
-  {
-   "s": "X-009",
-   "t": "FAM.N",
-   "type": "link"
-  },
-  {
-   "s": "X-009",
-   "t": "ROM.PN",
-   "type": "link"
-  },
-  {
-   "s": "X-009",
-   "t": "ROM.TD",
-   "type": "link"
-  },
-  {
-   "s": "X-009",
-   "t": "ROM.TN",
-   "type": "link"
-  },
-  {
-   "s": "X-009",
-   "t": "THR.MODEL",
-   "type": "link"
-  },
-  {
-   "s": "X-009",
-   "t": "THR.T18",
-   "type": "link"
-  },
-  {
-   "s": "X-010",
-   "t": "ROM.PN",
-   "type": "nodes"
-  },
-  {
-   "s": "X-010",
-   "t": "ROM.TN",
-   "type": "nodes"
-  },
-  {
-   "s": "X-010",
-   "t": "ROM.PN",
-   "type": "link"
-  },
-  {
-   "s": "X-010",
-   "t": "ROM.TN",
-   "type": "link"
-  },
-  {
-   "s": "X-011-001",
-   "t": "X-011",
+   "s": "THR.MO",
+   "t": "THR",
    "type": "parent"
   },
   {
-   "s": "X-011-001",
+   "s": "THR.MO",
    "t": "CH.thuyen",
    "type": "participants"
   },
   {
-   "s": "X-011-001",
+   "s": "THR.MO",
+   "t": "cay-tuyen",
+   "type": "sources"
+  },
+  {
+   "s": "THR.MODEL",
+   "t": "THR",
+   "type": "parent"
+  },
+  {
+   "s": "THR.MODEL",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "THR.MODEL",
+   "t": "cay-tuyen",
+   "type": "sources"
+  },
+  {
+   "s": "THR.T18",
+   "t": "THR",
+   "type": "parent"
+  },
+  {
+   "s": "THR.T18",
+   "t": "CH.thuyen",
+   "type": "participants"
+  },
+  {
+   "s": "THR.T18",
+   "t": "cay-tuyen",
+   "type": "sources"
+  },
+  {
+   "s": "B.nhi-001",
    "t": "CH.nhi",
-   "type": "participants"
+   "type": "character"
   },
   {
-   "s": "X-011-001",
-   "t": "rm-x11-dem-say",
-   "type": "sources"
+   "s": "B.nhi-001",
+   "t": "CH.nhi.beliefs",
+   "type": "index"
   },
   {
-   "s": "X-011-001",
-   "t": "CH.thuyen.beliefs",
+   "s": "B.nhi-001",
+   "t": "CH.nhi.beliefs",
    "type": "link"
   },
   {
-   "s": "X-011-001",
-   "t": "FN.thuyen.cai-toi",
+   "s": "B.nhi-001",
+   "t": "SEC-001",
    "type": "link"
   },
   {
-   "s": "X-011-001",
-   "t": "THR.LAB",
+   "s": "B.nhi-002",
+   "t": "CH.nhi",
+   "type": "character"
+  },
+  {
+   "s": "B.nhi-002",
+   "t": "CH.nhi.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.nhi-002",
+   "t": "CH.nhi.beliefs",
    "type": "link"
   },
   {
-   "s": "X-011",
-   "t": "ROM.PN",
-   "type": "nodes"
+   "s": "B.nhi-003",
+   "t": "CH.nhi",
+   "type": "character"
   },
   {
-   "s": "X-011",
-   "t": "ROM.TN",
-   "type": "nodes"
+   "s": "B.nhi-003",
+   "t": "CH.nhi.beliefs",
+   "type": "index"
   },
   {
-   "s": "X-011",
-   "t": "SOL.HD",
-   "type": "nodes"
-  },
-  {
-   "s": "X-011",
-   "t": "THR.LAB",
-   "type": "nodes"
-  },
-  {
-   "s": "X-011",
-   "t": "ROM.PN",
+   "s": "B.nhi-003",
+   "t": "CH.nhi.beliefs",
    "type": "link"
   },
   {
-   "s": "X-011",
-   "t": "ROM.TN",
+   "s": "B.nhi-004",
+   "t": "CH.nhi",
+   "type": "character"
+  },
+  {
+   "s": "B.nhi-004",
+   "t": "CH.nhi.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.nhi-004",
+   "t": "CH.nhi.beliefs",
    "type": "link"
   },
   {
-   "s": "X-011",
-   "t": "SOL.HD",
+   "s": "B.nhi-005",
+   "t": "CH.nhi",
+   "type": "character"
+  },
+  {
+   "s": "B.nhi-005",
+   "t": "CH.nhi.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.nhi-005",
+   "t": "CH.nhi.beliefs",
    "type": "link"
   },
   {
-   "s": "X-011",
-   "t": "THR.LAB",
+   "s": "B.nhi-005",
+   "t": "SEC-002",
    "type": "link"
   },
   {
-   "s": "X-011",
-   "t": "X-011-001",
+   "s": "B.nhi-006",
+   "t": "CH.nhi",
+   "type": "character"
+  },
+  {
+   "s": "B.nhi-006",
+   "t": "CH.nhi.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.nhi-006",
+   "t": "CH.nhi.beliefs",
    "type": "link"
   },
   {
-   "s": "X-011",
-   "t": "CH.thuyen.beliefs",
+   "s": "B.nhi-006",
+   "t": "SEC-001",
    "type": "link"
   },
   {
-   "s": "X-012",
-   "t": "ROM.TN",
-   "type": "nodes"
+   "s": "CH.nhi.beliefs",
+   "t": "B.nhi-001",
+   "type": "exports"
   },
   {
-   "s": "X-012",
-   "t": "THR.DR",
-   "type": "nodes"
+   "s": "CH.nhi.beliefs",
+   "t": "B.nhi-002",
+   "type": "exports"
   },
   {
-   "s": "X-012",
-   "t": "ROM.TN",
-   "type": "link"
+   "s": "CH.nhi.beliefs",
+   "t": "B.nhi-003",
+   "type": "exports"
   },
   {
-   "s": "X-012",
-   "t": "THR.DR",
-   "type": "link"
+   "s": "CH.nhi.beliefs",
+   "t": "B.nhi-004",
+   "type": "exports"
   },
   {
-   "s": "X-013",
-   "t": "FAM.N",
-   "type": "nodes"
+   "s": "CH.nhi.beliefs",
+   "t": "B.nhi-005",
+   "type": "exports"
   },
   {
-   "s": "X-013",
-   "t": "ROM.TN",
-   "type": "nodes"
-  },
-  {
-   "s": "X-013",
-   "t": "THR.T18",
-   "type": "nodes"
-  },
-  {
-   "s": "X-013",
-   "t": "FAM.N",
-   "type": "link"
-  },
-  {
-   "s": "X-013",
-   "t": "ROM.TN",
-   "type": "link"
-  },
-  {
-   "s": "X-013",
-   "t": "THR.T18",
-   "type": "link"
-  },
-  {
-   "s": "X-014",
-   "t": "ROM.TD",
-   "type": "nodes"
-  },
-  {
-   "s": "X-014",
-   "t": "THR.LM",
-   "type": "nodes"
-  },
-  {
-   "s": "X-014",
-   "t": "ROM.TD",
-   "type": "link"
-  },
-  {
-   "s": "X-014",
-   "t": "THR.LM",
-   "type": "link"
-  },
-  {
-   "s": "X-015",
-   "t": "ROM.TN",
-   "type": "nodes"
-  },
-  {
-   "s": "X-015",
-   "t": "SOL.DT",
-   "type": "nodes"
-  },
-  {
-   "s": "X-015",
-   "t": "SOL.VU",
-   "type": "nodes"
-  },
-  {
-   "s": "X-015",
-   "t": "ROM.TN",
-   "type": "link"
-  },
-  {
-   "s": "X-015",
-   "t": "SOL.DT",
-   "type": "link"
-  },
-  {
-   "s": "X-015",
-   "t": "SOL.VU",
-   "type": "link"
-  },
-  {
-   "s": "X-016",
-   "t": "FAM.T",
-   "type": "nodes"
-  },
-  {
-   "s": "X-016",
-   "t": "SOL.DT",
-   "type": "nodes"
-  },
-  {
-   "s": "X-016",
-   "t": "THR.MODEL",
-   "type": "nodes"
-  },
-  {
-   "s": "X-016",
-   "t": "FAM.T",
-   "type": "link"
-  },
-  {
-   "s": "X-016",
-   "t": "SOL.DT",
-   "type": "link"
-  },
-  {
-   "s": "X-016",
-   "t": "THR.MODEL",
-   "type": "link"
-  },
-  {
-   "s": "X-017",
-   "t": "ROM.PN",
-   "type": "nodes"
-  },
-  {
-   "s": "X-017",
-   "t": "ROM.TN",
-   "type": "nodes"
-  },
-  {
-   "s": "X-017",
-   "t": "SOL.HD",
-   "type": "nodes"
-  },
-  {
-   "s": "X-017",
-   "t": "ROM.PN",
-   "type": "link"
-  },
-  {
-   "s": "X-017",
-   "t": "ROM.TN",
-   "type": "link"
-  },
-  {
-   "s": "X-017",
-   "t": "SOL.HD",
-   "type": "link"
-  },
-  {
-   "s": "X-018",
-   "t": "FAM",
-   "type": "nodes"
-  },
-  {
-   "s": "X-018",
-   "t": "PAST",
-   "type": "nodes"
-  },
-  {
-   "s": "X-018",
-   "t": "ROM",
-   "type": "nodes"
-  },
-  {
-   "s": "X-018",
-   "t": "SOL",
-   "type": "nodes"
-  },
-  {
-   "s": "X-018",
-   "t": "THR",
-   "type": "nodes"
-  },
-  {
-   "s": "X-018",
-   "t": "FAM",
-   "type": "link"
-  },
-  {
-   "s": "X-018",
-   "t": "PAST",
-   "type": "link"
-  },
-  {
-   "s": "X-018",
-   "t": "ROM",
-   "type": "link"
-  },
-  {
-   "s": "X-018",
-   "t": "SOL",
-   "type": "link"
-  },
-  {
-   "s": "X-018",
-   "t": "THR",
-   "type": "link"
-  },
-  {
-   "s": "X-019",
-   "t": "FAM.T",
-   "type": "nodes"
-  },
-  {
-   "s": "X-019",
-   "t": "PAST.T",
-   "type": "nodes"
-  },
-  {
-   "s": "X-019",
-   "t": "FAM.T",
-   "type": "share"
-  },
-  {
-   "s": "X-019",
-   "t": "PAST.T",
-   "type": "share"
-  },
-  {
-   "s": "X-019",
-   "t": "FAM.T",
-   "type": "link"
-  },
-  {
-   "s": "X-019",
-   "t": "PAST.T",
-   "type": "link"
-  },
-  {
-   "s": "X-019",
-   "t": "PAST.T-006",
-   "type": "link"
-  },
-  {
-   "s": "X-019",
-   "t": "PAST.T-017",
-   "type": "link"
-  },
-  {
-   "s": "X-020",
-   "t": "PAST.N.HD",
-   "type": "nodes"
-  },
-  {
-   "s": "X-020",
-   "t": "SOL.HD",
-   "type": "nodes"
-  },
-  {
-   "s": "X-020",
-   "t": "SOL.HD",
-   "type": "share"
-  },
-  {
-   "s": "X-020",
-   "t": "PAST.N.HD",
-   "type": "share"
-  },
-  {
-   "s": "X-020",
-   "t": "PAST.N.HD",
-   "type": "link"
-  },
-  {
-   "s": "X-020",
-   "t": "SOL.HD",
-   "type": "link"
+   "s": "CH.nhi.beliefs",
+   "t": "B.nhi-006",
+   "type": "exports"
   },
   {
    "s": "CH.nhi.beliefs",
@@ -5946,7 +7796,22 @@
   },
   {
    "s": "CH.nhi.beliefs",
-   "t": "SEC-001",
+   "t": "B.nhi-006",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.beliefs",
+   "t": "B.nhi-003",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.beliefs",
+   "t": "B.nhi-001",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.beliefs",
+   "t": "B.nhi-002",
    "type": "link"
   },
   {
@@ -5956,7 +7821,12 @@
   },
   {
    "s": "CH.nhi.beliefs",
-   "t": "SEC-002",
+   "t": "B.nhi-004",
+   "type": "link"
+  },
+  {
+   "s": "CH.nhi.beliefs",
+   "t": "B.nhi-005",
    "type": "link"
   },
   {
@@ -6111,7 +7981,7 @@
   },
   {
    "s": "CH.nhi.mechanics",
-   "t": "CH.nhi.beliefs",
+   "t": "B.nhi-003",
    "type": "link"
   },
   {
@@ -6165,6 +8035,866 @@
    "type": "link"
   },
   {
+   "s": "B.thuyen-001",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-001",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-001",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-001",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-002",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-002",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-002",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-002",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-004",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-004",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-004",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-004",
+   "t": "FN.thuyen.gat-tinh-thuong",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-004",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-005",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-005",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-005",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-005",
+   "t": "FN.thuyen.hai-to-nhap",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-005",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-006",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-006",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-006",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-006",
+   "t": "FN.thuyen.di-vong",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-006",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-007",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-007",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-007",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-007",
+   "t": "B.thuyen-034",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-007",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-008",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-008",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-008",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-008",
+   "t": "FN.thuyen.hai-to-nhap",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-008",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-009",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-009",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-009",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-009",
+   "t": "FN.thuyen.quan-su",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-009",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-010",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-010",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-010",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-010",
+   "t": "ART.AX3",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-010",
+   "t": "FN.thuyen.lang-kinh",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-011",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-011",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-011",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-011",
+   "t": "FN.thuyen.teu",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-011",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-014",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-014",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-014",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-016",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-016",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-016",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-017",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-017",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-017",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-017",
+   "t": "FN.thuyen.cai-goi",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-017",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-018",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-018",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-018",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-018",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-020",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-020",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-020",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-021",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-021",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-021",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-021",
+   "t": "ART.AX3",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-021",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-022",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-022",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-022",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-022",
+   "t": "FN.thuyen.vo-cam",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-022",
+   "t": "B.thuyen-025",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-022",
+   "t": "B.thuyen-014",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-022",
+   "t": "CH.thuyen.mechanics",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-022",
+   "t": "PAST.T",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-022",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-023",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-023",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-023",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-023",
+   "t": "ART.AX3",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-023",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-024",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-024",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-024",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-024",
+   "t": "ART.AX3",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-024",
+   "t": "X-011-001",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-024",
+   "t": "FN.thuyen.cai-toi",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-024",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-024",
+   "t": "PAST.T-011",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-025",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-025",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-025",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-025",
+   "t": "FN.thuyen.cai-goi",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-026",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-026",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-026",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-026",
+   "t": "FN.thuyen.hoi-chon-loc",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-026",
+   "t": "FN.thuyen.nang-khieu",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-026",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-027",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-027",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-027",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-029",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-029",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-029",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-029",
+   "t": "SELF.thuyen",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-029",
+   "t": "ART.AX3",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-029",
+   "t": "X-011-001",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-030",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-030",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-030",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-030",
+   "t": "ART.AX3",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-030",
+   "t": "B.thuyen-024",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-030",
+   "t": "FAM.T",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-030",
+   "t": "X-011-001",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-031",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-031",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-031",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-031",
+   "t": "FN.thuyen.quan-su",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-032",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-032",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-032",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-032",
+   "t": "FN.thuyen.phong-kin",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-033",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-033",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-033",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-033",
+   "t": "CH.thuyen.voice",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-034",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-034",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-034",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-034",
+   "t": "ART.AX3",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-034",
+   "t": "X-011-001",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-034",
+   "t": "PAST.T-008",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-034",
+   "t": "TEC.interiority.ideal-self",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-035",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "B.thuyen-035",
+   "t": "CH.thuyen.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.thuyen-035",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-035",
+   "t": "FN.thuyen.adhd",
+   "type": "link"
+  },
+  {
+   "s": "B.thuyen-035",
+   "t": "FN.thuyen.luoi-co-chon-loc",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-001",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-002",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-004",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-005",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-006",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-007",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-008",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-009",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-010",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-011",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-014",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-016",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-017",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-018",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-020",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-021",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-022",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-023",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-024",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-025",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-026",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-027",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-029",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-030",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-031",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-032",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-033",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-034",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-035",
+   "type": "exports"
+  },
+  {
    "s": "CH.thuyen.beliefs",
    "t": "CH.thuyen",
    "type": "parent"
@@ -6176,77 +8906,122 @@
   },
   {
    "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-024",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-004",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-017",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-023",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
    "t": "ART.AX3",
    "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
-   "t": "X-011-001",
+   "t": "B.thuyen-005",
    "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
-   "t": "FN.thuyen.cai-toi",
+   "t": "B.thuyen-021",
    "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
-   "t": "PAST.T-011",
+   "t": "B.thuyen-030",
    "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
-   "t": "FN.thuyen.cai-goi",
+   "t": "B.thuyen-010",
    "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
-   "t": "FAM.T",
+   "t": "B.thuyen-035",
    "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
-   "t": "FN.thuyen.lang-kinh",
+   "t": "B.thuyen-020",
    "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
-   "t": "FN.thuyen.adhd",
+   "t": "B.thuyen-007",
    "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
-   "t": "FN.thuyen.luoi-co-chon-loc",
+   "t": "B.thuyen-034",
    "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
-   "t": "PAST.T-008",
+   "t": "B.thuyen-001",
    "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
-   "t": "TEC.interiority.ideal-self",
+   "t": "B.thuyen-026",
    "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
-   "t": "FN.thuyen.nang-khieu",
+   "t": "B.thuyen-033",
    "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
-   "t": "CH.thuyen.mechanics",
+   "t": "B.thuyen-006",
    "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
-   "t": "PAST.T",
+   "t": "B.thuyen-008",
    "type": "link"
   },
   {
    "s": "CH.thuyen.beliefs",
-   "t": "FN.thuyen.teu",
+   "t": "B.thuyen-009",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-022",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-011",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-014",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-032",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-025",
    "type": "link"
   },
   {
@@ -6261,7 +9036,57 @@
   },
   {
    "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-029",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-027",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-031",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-016",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-002",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "B.thuyen-018",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "FN.thuyen.cai-goi",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "X-011-001",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "FN.thuyen.cai-toi",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
    "t": "FN.thuyen.quan-su",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "FN.thuyen.nang-khieu",
    "type": "link"
   },
   {
@@ -6272,6 +9097,11 @@
   {
    "s": "CH.thuyen",
    "t": "CH.thuyen.beliefs",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen",
+   "t": "CH.thuyen.values",
    "type": "exports"
   },
   {
@@ -6310,6 +9140,171 @@
    "type": "link"
   },
   {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-001",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-002",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-003",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-004",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-005",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-006",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-007",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-008",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-009",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-010",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-011",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-012",
+   "type": "exports"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "CH.thuyen",
+   "type": "parent"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "M-he-gia-tri",
+   "type": "sources"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "CH.thuyen.beliefs",
+   "type": "sources"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "CH.thuyen.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "B.thuyen-010",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "B.thuyen-021",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "FN.thuyen.lang-kinh",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "B.thuyen-030",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "B.thuyen-034",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-001",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-002",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-003",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-004",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-005",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-006",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-007",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-008",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-009",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-010",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-011",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "V.thuyen-012",
+   "type": "link"
+  },
+  {
    "s": "CH.thuyen.voice",
    "t": "CH.thuyen",
    "type": "parent"
@@ -6327,6 +9322,96 @@
   {
    "s": "CH.thuyen.voice",
    "t": "FN.thuyen.phong-kin",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "B.thuyen-001",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "B.thuyen-002",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "B.thuyen-024",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "B.thuyen-004",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "B.thuyen-026",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "B.thuyen-033",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "B.thuyen-005",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "B.thuyen-021",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "B.thuyen-006",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "B.thuyen-007",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "B.thuyen-008",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "B.thuyen-009",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "B.thuyen-022",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "B.thuyen-017",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "B.thuyen-011",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "B.thuyen-018",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "B.thuyen-023",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "CH.thuyen.beliefs",
    "type": "link"
   },
   {
@@ -6405,6 +9490,31 @@
    "type": "link"
   },
   {
+   "s": "CH.thuyen.mechanics",
+   "t": "FN.thuyen.hai-to-nhap",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "FN.thuyen.di-vong",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "FN.thuyen.hoi-chon-loc",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "FN.thuyen.vo-cam",
+   "type": "link"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "FN.thuyen.gat-tinh-thuong",
+   "type": "link"
+  },
+  {
    "s": "FN.thuyen.adhd",
    "t": "CH.thuyen.mechanics",
    "type": "parent"
@@ -6413,6 +9523,26 @@
    "s": "FN.thuyen.cai-goi",
    "t": "CH.thuyen.mechanics",
    "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.cai-goi",
+   "t": "V.thuyen-010",
+   "type": "from"
+  },
+  {
+   "s": "FN.thuyen.cai-goi",
+   "t": "V.thuyen-011",
+   "type": "from"
+  },
+  {
+   "s": "FN.thuyen.cai-goi",
+   "t": "V.thuyen-010",
+   "type": "link"
+  },
+  {
+   "s": "FN.thuyen.cai-goi",
+   "t": "V.thuyen-011",
+   "type": "link"
   },
   {
    "s": "FN.thuyen.cai-toi",
@@ -6431,8 +9561,83 @@
   },
   {
    "s": "FN.thuyen.cai-toi",
-   "t": "CH.thuyen.beliefs",
+   "t": "B.thuyen-024",
    "type": "link"
+  },
+  {
+   "s": "FN.thuyen.cai-toi",
+   "t": "B.thuyen-030",
+   "type": "link"
+  },
+  {
+   "s": "FN.thuyen.cai-toi",
+   "t": "B.thuyen-034",
+   "type": "link"
+  },
+  {
+   "s": "FN.thuyen.cai-toi",
+   "t": "B.thuyen-029",
+   "type": "link"
+  },
+  {
+   "s": "FN.thuyen.di-vong",
+   "t": "CH.thuyen.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.di-vong",
+   "t": "V.thuyen-007",
+   "type": "from"
+  },
+  {
+   "s": "FN.thuyen.di-vong",
+   "t": "CH.thuyen.beliefs",
+   "type": "sources"
+  },
+  {
+   "s": "FN.thuyen.gat-tinh-thuong",
+   "t": "CH.thuyen.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.gat-tinh-thuong",
+   "t": "V.thuyen-011",
+   "type": "from"
+  },
+  {
+   "s": "FN.thuyen.gat-tinh-thuong",
+   "t": "CH.thuyen.beliefs",
+   "type": "sources"
+  },
+  {
+   "s": "FN.thuyen.hai-to-nhap",
+   "t": "CH.thuyen.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.hai-to-nhap",
+   "t": "V.thuyen-006",
+   "type": "from"
+  },
+  {
+   "s": "FN.thuyen.hai-to-nhap",
+   "t": "CH.thuyen.beliefs",
+   "type": "sources"
+  },
+  {
+   "s": "FN.thuyen.hoi-chon-loc",
+   "t": "CH.thuyen.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.hoi-chon-loc",
+   "t": "V.thuyen-012",
+   "type": "from"
+  },
+  {
+   "s": "FN.thuyen.hoi-chon-loc",
+   "t": "CH.thuyen.beliefs",
+   "type": "sources"
   },
   {
    "s": "FN.thuyen.lang-kinh",
@@ -6461,6 +9666,11 @@
   },
   {
    "s": "FN.thuyen.luoi-co-chon-loc",
+   "t": "V.thuyen-009",
+   "type": "from"
+  },
+  {
+   "s": "FN.thuyen.luoi-co-chon-loc",
    "t": "M-he-gia-tri",
    "type": "sources"
   },
@@ -6468,6 +9678,11 @@
    "s": "FN.thuyen.luoi-co-chon-loc",
    "t": "01-rules-viet",
    "type": "sources"
+  },
+  {
+   "s": "FN.thuyen.luoi-co-chon-loc",
+   "t": "V.thuyen-009",
+   "type": "link"
   },
   {
    "s": "FN.thuyen.nang-khieu",
@@ -6495,6 +9710,16 @@
    "type": "parent"
   },
   {
+   "s": "FN.thuyen.phong-kin",
+   "t": "V.thuyen-010",
+   "type": "from"
+  },
+  {
+   "s": "FN.thuyen.phong-kin",
+   "t": "V.thuyen-010",
+   "type": "link"
+  },
+  {
    "s": "FN.thuyen.phuong-trinh",
    "t": "CH.thuyen.mechanics",
    "type": "parent"
@@ -6510,18 +9735,53 @@
    "type": "link"
   },
   {
+   "s": "FN.thuyen.phuong-trinh",
+   "t": "CH.thuyen.values",
+   "type": "link"
+  },
+  {
    "s": "FN.thuyen.quan-su",
    "t": "CH.thuyen.mechanics",
    "type": "parent"
   },
   {
+   "s": "FN.thuyen.quan-su",
+   "t": "V.thuyen-005",
+   "type": "from"
+  },
+  {
+   "s": "FN.thuyen.quan-su",
+   "t": "V.thuyen-007",
+   "type": "from"
+  },
+  {
+   "s": "FN.thuyen.quan-su",
+   "t": "V.thuyen-005",
+   "type": "link"
+  },
+  {
+   "s": "FN.thuyen.quan-su",
+   "t": "V.thuyen-007",
+   "type": "link"
+  },
+  {
    "s": "FN.thuyen.teu",
    "t": "CH.thuyen.mechanics",
    "type": "parent"
   },
   {
    "s": "FN.thuyen.teu",
+   "t": "V.thuyen-010",
+   "type": "from"
+  },
+  {
+   "s": "FN.thuyen.teu",
    "t": "FN.thuyen.lang-kinh",
+   "type": "link"
+  },
+  {
+   "s": "FN.thuyen.teu",
+   "t": "V.thuyen-010",
    "type": "link"
   },
   {
@@ -6530,13 +9790,343 @@
    "type": "parent"
   },
   {
+   "s": "FN.thuyen.vo-cam",
+   "t": "CH.thuyen.mechanics",
+   "type": "parent"
+  },
+  {
+   "s": "FN.thuyen.vo-cam",
+   "t": "V.thuyen-010",
+   "type": "from"
+  },
+  {
+   "s": "FN.thuyen.vo-cam",
+   "t": "CH.thuyen.beliefs",
+   "type": "sources"
+  },
+  {
+   "s": "V.thuyen-001",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "V.thuyen-001",
+   "t": "B.thuyen-035",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-001",
+   "t": "B.thuyen-010",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-001",
+   "t": "CH.thuyen.values",
+   "type": "index"
+  },
+  {
+   "s": "V.thuyen-002",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "V.thuyen-002",
+   "t": "B.thuyen-021",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-002",
+   "t": "CH.thuyen.values",
+   "type": "index"
+  },
+  {
+   "s": "V.thuyen-003",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "V.thuyen-003",
+   "t": "B.thuyen-016",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-003",
+   "t": "CH.thuyen.values",
+   "type": "index"
+  },
+  {
+   "s": "V.thuyen-004",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "V.thuyen-004",
+   "t": "B.thuyen-033",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-004",
+   "t": "CH.thuyen.values",
+   "type": "index"
+  },
+  {
+   "s": "V.thuyen-005",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "V.thuyen-005",
+   "t": "B.thuyen-027",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-005",
+   "t": "CH.thuyen.values",
+   "type": "index"
+  },
+  {
+   "s": "V.thuyen-005",
+   "t": "FN.thuyen.quan-su",
+   "type": "link"
+  },
+  {
+   "s": "V.thuyen-006",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "V.thuyen-006",
+   "t": "B.thuyen-021",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-006",
+   "t": "CH.thuyen.values",
+   "type": "index"
+  },
+  {
+   "s": "V.thuyen-006",
+   "t": "FN.thuyen.hai-to-nhap",
+   "type": "link"
+  },
+  {
+   "s": "V.thuyen-007",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "V.thuyen-007",
+   "t": "B.thuyen-006",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-007",
+   "t": "B.thuyen-029",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-007",
+   "t": "B.thuyen-033",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-007",
+   "t": "CH.thuyen.values",
+   "type": "index"
+  },
+  {
+   "s": "V.thuyen-007",
+   "t": "FN.thuyen.di-vong",
+   "type": "link"
+  },
+  {
+   "s": "V.thuyen-007",
+   "t": "FN.thuyen.quan-su",
+   "type": "link"
+  },
+  {
+   "s": "V.thuyen-008",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "V.thuyen-008",
+   "t": "B.thuyen-035",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-008",
+   "t": "B.thuyen-007",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-008",
+   "t": "CH.thuyen.values",
+   "type": "index"
+  },
+  {
+   "s": "V.thuyen-009",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "V.thuyen-009",
+   "t": "B.thuyen-010",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-009",
+   "t": "B.thuyen-035",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-009",
+   "t": "CH.thuyen.values",
+   "type": "index"
+  },
+  {
+   "s": "V.thuyen-009",
+   "t": "FN.thuyen.luoi-co-chon-loc",
+   "type": "link"
+  },
+  {
+   "s": "V.thuyen-010",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "V.thuyen-010",
+   "t": "B.thuyen-022",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-010",
+   "t": "B.thuyen-014",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-010",
+   "t": "B.thuyen-008",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-010",
+   "t": "B.thuyen-032",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-010",
+   "t": "CH.thuyen.values",
+   "type": "index"
+  },
+  {
+   "s": "V.thuyen-010",
+   "t": "FN.thuyen.vo-cam",
+   "type": "link"
+  },
+  {
+   "s": "V.thuyen-010",
+   "t": "FN.thuyen.teu",
+   "type": "link"
+  },
+  {
+   "s": "V.thuyen-010",
+   "t": "FN.thuyen.phong-kin",
+   "type": "link"
+  },
+  {
+   "s": "V.thuyen-010",
+   "t": "FN.thuyen.cai-goi",
+   "type": "link"
+  },
+  {
+   "s": "V.thuyen-011",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "V.thuyen-011",
+   "t": "B.thuyen-017",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-011",
+   "t": "CH.thuyen.values",
+   "type": "index"
+  },
+  {
+   "s": "V.thuyen-011",
+   "t": "FN.thuyen.gat-tinh-thuong",
+   "type": "link"
+  },
+  {
+   "s": "V.thuyen-011",
+   "t": "FN.thuyen.cai-goi",
+   "type": "link"
+  },
+  {
+   "s": "V.thuyen-012",
+   "t": "CH.thuyen",
+   "type": "character"
+  },
+  {
+   "s": "V.thuyen-012",
+   "t": "B.thuyen-026",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-012",
+   "t": "B.thuyen-001",
+   "type": "from"
+  },
+  {
+   "s": "V.thuyen-012",
+   "t": "CH.thuyen.values",
+   "type": "index"
+  },
+  {
+   "s": "V.thuyen-012",
+   "t": "FN.thuyen.hoi-chon-loc",
+   "type": "link"
+  },
+  {
+   "s": "B.vu-001",
+   "t": "CH.vu",
+   "type": "character"
+  },
+  {
+   "s": "B.vu-001",
+   "t": "CH.vu.beliefs",
+   "type": "index"
+  },
+  {
+   "s": "B.vu-001",
+   "t": "CH.vu.beliefs",
+   "type": "link"
+  },
+  {
+   "s": "B.vu-001",
+   "t": "B.thuyen-024",
+   "type": "link"
+  },
+  {
+   "s": "B.vu-001",
+   "t": "B.thuyen-017",
+   "type": "link"
+  },
+  {
+   "s": "CH.vu.beliefs",
+   "t": "B.vu-001",
+   "type": "exports"
+  },
+  {
    "s": "CH.vu.beliefs",
    "t": "CH.vu",
    "type": "parent"
   },
   {
    "s": "CH.vu.beliefs",
-   "t": "CH.thuyen.beliefs",
+   "t": "B.vu-001",
    "type": "link"
   },
   {
@@ -6581,7 +10171,7 @@
   },
   {
    "s": "CH.vu",
-   "t": "CH.thuyen.beliefs",
+   "t": "B.thuyen-024",
    "type": "link"
   },
   {
@@ -6641,7 +10231,7 @@
   },
   {
    "s": "FN.vu.thuong-bang-hanh-dong",
-   "t": "CH.thuyen.beliefs",
+   "t": "B.thuyen-024",
    "type": "link"
   },
   {
@@ -6671,18 +10261,8 @@
   },
   {
    "s": "SEC-002",
-   "t": "CH.nhi.beliefs",
+   "t": "B.nhi-005",
    "type": "link"
-  },
-  {
-   "s": "SPEC.framework",
-   "t": "kien-truc-framework",
-   "type": "sources"
-  },
-  {
-   "s": "SPEC.framework",
-   "t": "CFG.ids",
-   "type": "sources"
   },
   {
    "s": "SPEC.adr-001",
@@ -6715,14 +10295,54 @@
    "type": "sources"
   },
   {
+   "s": "SPEC.library",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
+   "s": "SPEC.library",
+   "t": "REG.default",
+   "type": "link"
+  },
+  {
    "s": "SPEC.model",
    "t": "kien-truc-framework",
    "type": "sources"
   },
   {
+   "s": "SPEC.model",
+   "t": "FN.thuyen.lang-kinh",
+   "type": "link"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "kien-truc-framework",
+   "type": "sources"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "CFG.ids",
+   "type": "sources"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "LAW.default",
+   "type": "link"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "STY.default",
+   "type": "link"
+  },
+  {
    "s": "SPEC.rules-engine",
    "t": "kien-truc-framework",
    "type": "sources"
+  },
+  {
+   "s": "SPEC.rules-engine",
+   "t": "LAW.default",
+   "type": "link"
   },
   {
    "s": "SPEC.skills",
@@ -6748,6 +10368,11 @@
    "s": "SPEC.storylines",
    "t": "kien-truc-framework",
    "type": "sources"
+  },
+  {
+   "s": "SPEC.storylines",
+   "t": "STY.default",
+   "type": "link"
   },
   {
    "s": "SPEC.tooling",
@@ -6781,6 +10406,11 @@
   },
   {
    "s": "01-rules-viet",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "01-rules-viet",
    "t": "goi-ten-cam-xuc",
    "type": "ref"
   },
@@ -6810,153 +10440,58 @@
    "type": "ref"
   },
   {
-   "s": "GUIDE.main",
-   "t": "SPEC.framework",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "CFG.statuses",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "registers",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "01-rules-viet",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "01c-rules-thanh-phan",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "SPEC.tooling",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "GUIDE.reading",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "GUIDE.roles-and-status",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "GUIDE.placement",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "GUIDE.invariants",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "GUIDE.task.record-decision",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "GUIDE.task.propose-options",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "GUIDE.task.add-event",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "GUIDE.task.add-law-or-technique",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "GUIDE.task.plan-chapter",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "GUIDE.task.write-scene",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "GUIDE.task.sync-blueprint",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "GUIDE.task.revise-chapter",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "GUIDE.task.audit",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "GUIDE.task.crosspost-convert",
-   "type": "ref"
-  },
-  {
-   "s": "GUIDE.main",
-   "t": "GUIDE.task.compound-words-sweep",
-   "type": "ref"
-  },
-  {
-   "s": "M-cai-nhau-bo-me",
+   "s": "checklist-b4",
    "t": "M-he-gia-tri",
    "type": "ref"
   },
   {
-   "s": "M-moi-tinh-vy",
-   "t": "M-cai-nhau-bo-me",
+   "s": "checklist-b4",
+   "t": "SPEC.model",
    "type": "ref"
   },
   {
-   "s": "README",
-   "t": "SPEC.old-architecture",
+   "s": "checklist-b4",
+   "t": "SCH.value",
    "type": "ref"
   },
   {
-   "s": "README",
-   "t": "GUIDE.main",
+   "s": "checklist-b4",
+   "t": "SCH.belief",
    "type": "ref"
   },
   {
-   "s": "README",
-   "t": "SPEC.framework",
+   "s": "checklist-b4",
+   "t": "SCH.event",
    "type": "ref"
   },
   {
-   "s": "README",
-   "t": "CFG.statuses",
+   "s": "checklist-b4",
+   "t": "hien-sinh",
    "type": "ref"
   },
   {
-   "s": "README",
-   "t": "GUIDE.old-workflow",
+   "s": "checklist-b4",
+   "t": "registers",
    "type": "ref"
   },
   {
-   "s": "README",
-   "t": "cau-hoi",
+   "s": "checklist-b4",
+   "t": "REG.noi-tam",
    "type": "ref"
   },
   {
-   "s": "README",
+   "s": "checklist-b4",
+   "t": "goi-ten-cam-xuc",
+   "type": "ref"
+  },
+  {
+   "s": "checklist-b4",
    "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "checklist-b4",
+   "t": "TREE",
    "type": "ref"
   },
   {
@@ -7136,6 +10671,16 @@
   },
   {
    "s": "CFG.ids",
+   "t": "hien-sinh",
+   "type": "ref"
+  },
+  {
+   "s": "CFG.ids",
+   "t": "M-he-gia-tri",
+   "type": "ref"
+  },
+  {
+   "s": "CFG.ids",
    "t": "AX1",
    "type": "ref"
   },
@@ -7152,26 +10697,6 @@
   {
    "s": "CFG.statuses",
    "t": "CFG.ids",
-   "type": "ref"
-  },
-  {
-   "s": "CORE",
-   "t": "AX1",
-   "type": "ref"
-  },
-  {
-   "s": "CORE",
-   "t": "AX9",
-   "type": "ref"
-  },
-  {
-   "s": "CORE",
-   "t": "SCH.axis",
-   "type": "ref"
-  },
-  {
-   "s": "CORE",
-   "t": "TREE",
    "type": "ref"
   },
   {
@@ -7225,6 +10750,11 @@
    "type": "ref"
   },
   {
+   "s": "AX9",
+   "t": "CORE",
+   "type": "ref"
+  },
+  {
    "s": "ART.0",
    "t": "01-rules-viet",
    "type": "ref"
@@ -7242,6 +10772,36 @@
   {
    "s": "ART.0",
    "t": "CH.nhi",
+   "type": "ref"
+  },
+  {
+   "s": "ART.0",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "ART.0",
+   "t": "chui-bay-thiet-ke",
+   "type": "ref"
+  },
+  {
+   "s": "CORE",
+   "t": "AX1",
+   "type": "ref"
+  },
+  {
+   "s": "CORE",
+   "t": "SCH.axis",
+   "type": "ref"
+  },
+  {
+   "s": "CORE",
+   "t": "hien-sinh",
+   "type": "ref"
+  },
+  {
+   "s": "CORE",
+   "t": "TREE",
    "type": "ref"
   },
   {
@@ -7472,21 +11032,6 @@
   {
    "s": "kien-truc-framework",
    "t": "SPEC.library",
-   "type": "ref"
-  },
-  {
-   "s": "kien-truc-framework",
-   "t": "SCH.register",
-   "type": "ref"
-  },
-  {
-   "s": "kien-truc-framework",
-   "t": "SCH.technique",
-   "type": "ref"
-  },
-  {
-   "s": "kien-truc-framework",
-   "t": "SCH.pattern",
    "type": "ref"
   },
   {
@@ -8140,6 +11685,16 @@
    "type": "ref"
   },
   {
+   "s": "GUIDE.placement",
+   "t": "GUIDE.main",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.reading",
+   "t": "GUIDE.main",
+   "type": "ref"
+  },
+  {
    "s": "GUIDE.reading",
    "t": "cau-hoi",
    "type": "ref"
@@ -8195,6 +11750,16 @@
    "type": "ref"
   },
   {
+   "s": "GUIDE.task.add-event",
+   "t": "GUIDE.main",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.task.add-law-or-technique",
+   "t": "SCH.style",
+   "type": "ref"
+  },
+  {
    "s": "GUIDE.task.compound-words-sweep",
    "t": "01-rules-viet",
    "type": "ref"
@@ -8240,6 +11805,11 @@
    "type": "ref"
   },
   {
+   "s": "GUIDE.task.plan-chapter",
+   "t": "GUIDE.main",
+   "type": "ref"
+  },
+  {
    "s": "GUIDE.task.record-decision",
    "t": "bible-v2",
    "type": "ref"
@@ -8247,6 +11817,11 @@
   {
    "s": "GUIDE.task.sync-blueprint",
    "t": "SCH.blueprint",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.task.sync-blueprint",
+   "t": "GUIDE.main",
    "type": "ref"
   },
   {
@@ -8262,6 +11837,86 @@
   {
    "s": "GUIDE.task.write-scene",
    "t": "01c-rules-thanh-phan",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "SPEC.framework",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "CFG.statuses",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "01c-rules-thanh-phan",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "SPEC.tooling",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.roles-and-status",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.invariants",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.record-decision",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.propose-options",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.add-law-or-technique",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.write-scene",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.revise-chapter",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.audit",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.crosspost-convert",
+   "type": "ref"
+  },
+  {
+   "s": "GUIDE.main",
+   "t": "GUIDE.task.compound-words-sweep",
    "type": "ref"
   },
   {
@@ -8440,12 +12095,92 @@
    "type": "ref"
   },
   {
+   "s": "TEC.dialogue.natural",
+   "t": "01d-rules-thoai-than-mat",
+   "type": "ref"
+  },
+  {
    "s": "TEC.humor.want-clash",
    "t": "hai-ky-thuat",
    "type": "ref"
   },
   {
    "s": "TEC.interiority.ideal-self",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "TEC.lexicon.compound",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "TEC.lexicon.compound",
+   "t": "GUIDE.task.compound-words-sweep",
+   "type": "ref"
+  },
+  {
+   "s": "REG.dang",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "REG.dau-tri",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "REG.day",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "REG.default",
+   "t": "CFG.levels",
+   "type": "ref"
+  },
+  {
+   "s": "REG.doi-thuong",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "REG.hoi-tuong",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "REG.lang-man",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "REG.lanh-liet-ke",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "REG.noi-tam",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "REG.so-cai",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "REG.than-mat",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "TEC.show.default",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "TEC.transition.common",
    "t": "registers",
    "type": "ref"
   },
@@ -8495,6 +12230,21 @@
    "type": "ref"
   },
   {
+   "s": "M-cai-nhau-bo-me",
+   "t": "M-he-gia-tri",
+   "type": "ref"
+  },
+  {
+   "s": "M-he-gia-tri",
+   "t": "SCH.value",
+   "type": "ref"
+  },
+  {
+   "s": "M-moi-tinh-vy",
+   "t": "M-cai-nhau-bo-me",
+   "type": "ref"
+  },
+  {
    "s": "posts/truyennhaong.vn/convert",
    "t": "posts/rookies.vn/convert",
    "type": "ref"
@@ -8510,8 +12260,63 @@
    "type": "ref"
   },
   {
+   "s": "README",
+   "t": "SPEC.old-architecture",
+   "type": "ref"
+  },
+  {
+   "s": "README",
+   "t": "GUIDE.main",
+   "type": "ref"
+  },
+  {
+   "s": "README",
+   "t": "SPEC.framework",
+   "type": "ref"
+  },
+  {
+   "s": "README",
+   "t": "CFG.statuses",
+   "type": "ref"
+  },
+  {
+   "s": "README",
+   "t": "GUIDE.old-workflow",
+   "type": "ref"
+  },
+  {
+   "s": "README",
+   "t": "cau-hoi",
+   "type": "ref"
+  },
+  {
+   "s": "README",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "LAW.address.relation",
+   "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
    "s": "chui-bay-thiet-ke",
    "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "LAW.dialect.ha-tinh",
+   "t": "tu-dien-ha-tinh",
+   "type": "ref"
+  },
+  {
+   "s": "LAW.disclosure.purpose",
+   "t": "goi-ten-cam-xuc",
+   "type": "ref"
+  },
+  {
+   "s": "LAW.display.blocks",
+   "t": "01c-rules-thanh-phan",
    "type": "ref"
   },
   {
@@ -8535,18 +12340,43 @@
    "type": "ref"
   },
   {
+   "s": "LAW.naming.emotion",
+   "t": "goi-ten-cam-xuc",
+   "type": "ref"
+  },
+  {
    "s": "registers",
    "t": "SPEC.old-architecture",
    "type": "ref"
   },
   {
    "s": "registers",
-   "t": "01-rules-viet",
+   "t": "SPEC.library",
+   "type": "ref"
+  },
+  {
+   "s": "registers",
+   "t": "TREE",
    "type": "ref"
   },
   {
    "s": "registers",
    "t": "GUIDE.task.compound-words-sweep",
+   "type": "ref"
+  },
+  {
+   "s": "registers",
+   "t": "qk-t-cap-3-motif-lop-10",
+   "type": "ref"
+  },
+  {
+   "s": "LAW.swearing.levels",
+   "t": "chui-bay-thiet-ke",
+   "type": "ref"
+  },
+  {
+   "s": "LAW.under-18.base",
+   "t": "CFG.calendar",
    "type": "ref"
   },
   {
@@ -8567,6 +12397,11 @@
   {
    "s": "SCH.axis",
    "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.belief",
+   "t": "SCH.value",
    "type": "ref"
   },
   {
@@ -8641,6 +12476,11 @@
   },
   {
    "s": "SCH.law",
+   "t": "SCH.style",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.law",
    "t": "SPEC.rules-engine",
    "type": "ref"
   },
@@ -8685,18 +12525,43 @@
    "type": "ref"
   },
   {
-   "s": "SCH.pattern",
+   "s": "SCH.preset",
+   "t": "STY.default",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.preset",
+   "t": "LAW.default",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.style",
    "t": "SPEC.library",
    "type": "ref"
   },
   {
-   "s": "SCH.register",
-   "t": "SPEC.library",
+   "s": "SCH.value",
+   "t": "SCH.function",
    "type": "ref"
   },
   {
-   "s": "SCH.technique",
-   "t": "SPEC.library",
+   "s": "SCH.value",
+   "t": "CFG.statuses",
+   "type": "ref"
+  },
+  {
+   "s": "SCH.value",
+   "t": "SCH.event",
+   "type": "ref"
+  },
+  {
+   "s": "FAM",
+   "t": "cay-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "FAM",
+   "t": "registers",
    "type": "ref"
   },
   {
@@ -8705,8 +12570,33 @@
    "type": "ref"
   },
   {
-   "s": "FAM",
-   "t": "cay-tuyen",
+   "s": "X-011-001",
+   "t": "rm-x11-dem-say",
+   "type": "ref"
+  },
+  {
+   "s": "X-011",
+   "t": "rm-x11-dem-say",
+   "type": "ref"
+  },
+  {
+   "s": "PAST",
+   "t": "SCH.event",
+   "type": "ref"
+  },
+  {
+   "s": "PAST",
+   "t": "CH.thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "PAST",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
+   "s": "PAST",
+   "t": "CH.nhi",
    "type": "ref"
   },
   {
@@ -8870,16 +12760,6 @@
    "type": "ref"
   },
   {
-   "s": "PAST",
-   "t": "CH.thuyen",
-   "type": "ref"
-  },
-  {
-   "s": "PAST",
-   "t": "CH.nhi",
-   "type": "ref"
-  },
-  {
    "s": "TREE",
    "t": "CFG.levels",
    "type": "ref"
@@ -8901,17 +12781,17 @@
   },
   {
    "s": "TREE",
-   "t": "registers",
-   "type": "ref"
-  },
-  {
-   "s": "TREE",
    "t": "GUIDE.task.plan-chapter",
    "type": "ref"
   },
   {
    "s": "ROM.LT",
    "t": "cay-tuyen",
+   "type": "ref"
+  },
+  {
+   "s": "ROM",
+   "t": "registers",
    "type": "ref"
   },
   {
@@ -8942,6 +12822,11 @@
   {
    "s": "ROM.TN",
    "t": "01-rules-viet",
+   "type": "ref"
+  },
+  {
+   "s": "ROM.TN",
+   "t": "03-kho-nhi-thich-thuyen",
    "type": "ref"
   },
   {
@@ -8985,6 +12870,11 @@
    "type": "ref"
   },
   {
+   "s": "SOL",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
    "s": "SOL.SAN",
    "t": "cay-tuyen",
    "type": "ref"
@@ -9025,6 +12915,11 @@
    "type": "ref"
   },
   {
+   "s": "THR",
+   "t": "registers",
+   "type": "ref"
+  },
+  {
    "s": "THR.MO",
    "t": "cay-tuyen",
    "type": "ref"
@@ -9037,16 +12932,6 @@
   {
    "s": "THR.T18",
    "t": "cay-tuyen",
-   "type": "ref"
-  },
-  {
-   "s": "X-011-001",
-   "t": "rm-x11-dem-say",
-   "type": "ref"
-  },
-  {
-   "s": "X-011",
-   "t": "rm-x11-dem-say",
    "type": "ref"
   },
   {
@@ -9065,8 +12950,28 @@
    "type": "ref"
   },
   {
-   "s": "CH.thuyen.beliefs",
+   "s": "B.thuyen-010",
    "t": "M-he-gia-tri",
+   "type": "ref"
+  },
+  {
+   "s": "B.thuyen-030",
+   "t": "M-he-gia-tri",
+   "type": "ref"
+  },
+  {
+   "s": "B.thuyen-035",
+   "t": "M-he-gia-tri",
+   "type": "ref"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "SCH.belief",
+   "type": "ref"
+  },
+  {
+   "s": "CH.thuyen.beliefs",
+   "t": "SCH.value",
    "type": "ref"
   },
   {
@@ -9080,8 +12985,33 @@
    "type": "ref"
   },
   {
+   "s": "CH.thuyen.values",
+   "t": "SCH.value",
+   "type": "ref"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "M-he-gia-tri",
+   "type": "ref"
+  },
+  {
+   "s": "CH.thuyen.values",
+   "t": "SCH.function",
+   "type": "ref"
+  },
+  {
+   "s": "CH.thuyen.voice",
+   "t": "hien-sinh",
+   "type": "ref"
+  },
+  {
    "s": "CH.thuyen.mechanics",
    "t": "CH.thuyen",
+   "type": "ref"
+  },
+  {
+   "s": "CH.thuyen.mechanics",
+   "t": "SCH.function",
    "type": "ref"
   },
   {
@@ -9165,76 +13095,6 @@
    "type": "ref"
   },
   {
-   "s": "SPEC.index",
-   "t": "SPEC.editions",
-   "type": "ref"
-  },
-  {
-   "s": "SPEC.index",
-   "t": "GUIDE.main",
-   "type": "ref"
-  },
-  {
-   "s": "SPEC.index",
-   "t": "SPEC.framework",
-   "type": "ref"
-  },
-  {
-   "s": "SPEC.index",
-   "t": "SPEC.layout",
-   "type": "ref"
-  },
-  {
-   "s": "SPEC.framework",
-   "t": "CFG.statuses",
-   "type": "ref"
-  },
-  {
-   "s": "SPEC.framework",
-   "t": "SPEC.model",
-   "type": "ref"
-  },
-  {
-   "s": "SPEC.framework",
-   "t": "SPEC.layout",
-   "type": "ref"
-  },
-  {
-   "s": "SPEC.framework",
-   "t": "SPEC.rules-engine",
-   "type": "ref"
-  },
-  {
-   "s": "SPEC.framework",
-   "t": "SPEC.library",
-   "type": "ref"
-  },
-  {
-   "s": "SPEC.framework",
-   "t": "SPEC.storylines",
-   "type": "ref"
-  },
-  {
-   "s": "SPEC.framework",
-   "t": "SPEC.blueprints",
-   "type": "ref"
-  },
-  {
-   "s": "SPEC.framework",
-   "t": "SPEC.tooling",
-   "type": "ref"
-  },
-  {
-   "s": "SPEC.framework",
-   "t": "SPEC.skills",
-   "type": "ref"
-  },
-  {
-   "s": "SPEC.framework",
-   "t": "SPEC.adr-001",
-   "type": "ref"
-  },
-  {
    "s": "SPEC.adr-001",
    "t": "01-rules-viet",
    "type": "ref"
@@ -9280,6 +13140,16 @@
    "type": "ref"
   },
   {
+   "s": "SPEC.library",
+   "t": "SCH.preset",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.library",
+   "t": "CFG.levels",
+   "type": "ref"
+  },
+  {
    "s": "SPEC.model",
    "t": "AX3",
    "type": "ref"
@@ -9287,16 +13157,6 @@
   {
    "s": "SPEC.model",
    "t": "SCH.axis",
-   "type": "ref"
-  },
-  {
-   "s": "SPEC.model",
-   "t": "SCALE.exl",
-   "type": "ref"
-  },
-  {
-   "s": "SPEC.model",
-   "t": "SCH.scale",
    "type": "ref"
   },
   {
@@ -9316,17 +13176,12 @@
   },
   {
    "s": "SPEC.model",
-   "t": "SCH.register",
+   "t": "SCH.style",
    "type": "ref"
   },
   {
    "s": "SPEC.model",
-   "t": "SCH.technique",
-   "type": "ref"
-  },
-  {
-   "s": "SPEC.model",
-   "t": "SCH.pattern",
+   "t": "SCH.preset",
    "type": "ref"
   },
   {
@@ -9352,6 +13207,11 @@
   {
    "s": "SPEC.model",
    "t": "SCH.belief",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
+   "t": "SCH.value",
    "type": "ref"
   },
   {
@@ -9426,12 +13286,72 @@
   },
   {
    "s": "SPEC.model",
+   "t": "hien-sinh",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.model",
    "t": "CFG.statuses",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "CFG.statuses",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "SPEC.model",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "SPEC.layout",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "SPEC.rules-engine",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "SPEC.library",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "SPEC.storylines",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "SPEC.blueprints",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "SPEC.tooling",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "SPEC.skills",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.framework",
+   "t": "SPEC.adr-001",
    "type": "ref"
   },
   {
    "s": "SPEC.rules-engine",
    "t": "CFG.calendar",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.rules-engine",
+   "t": "goi-ten-cam-xuc",
    "type": "ref"
   },
   {
@@ -9485,6 +13405,11 @@
    "type": "ref"
   },
   {
+   "s": "SPEC.storylines",
+   "t": "SPEC.library",
+   "type": "ref"
+  },
+  {
    "s": "SPEC.tooling",
    "t": "SCH.schema",
    "type": "ref"
@@ -9517,6 +13442,26 @@
   {
    "s": "SPEC.editions",
    "t": "GUIDE.task.crosspost-convert",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.index",
+   "t": "SPEC.editions",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.index",
+   "t": "GUIDE.main",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.index",
+   "t": "SPEC.framework",
+   "type": "ref"
+  },
+  {
+   "s": "SPEC.index",
+   "t": "SPEC.layout",
    "type": "ref"
   }
  ]

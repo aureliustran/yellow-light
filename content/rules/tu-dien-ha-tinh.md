@@ -4,33 +4,34 @@ Nov 1, 2026 · @aureliustran. Nguồn: tác giả bổ sung 01/11 `[stated]`; c�
 
 ## 1. Từ do tác giả bổ sung (01/11)
 
-| Hà Tĩnh | Phổ thông | Ghi chú |
-| --- | --- | --- |
-| nhởi | chơi | |
-| mần | làm | đã dùng: "mần chi mà ăn" |
-| chộ | thấy | |
-| dừ thì | giờ thì | |
-| đê | thôi (trong "đi thôi") | cuối câu rủ: "Đi đê." |
-| tề | (bỏ) | "mà" giữ nguyên, kể cả trong biểu cảm (chốt 01/11, đổi ý). "Sao Hôm tề" là chữ "kìa" có từ trước |
-| nỏ | không | dùng chen với "không", vì người Hà Tĩnh vẫn nói "không" (chốt 01/11). Câu khẳng định/phủ định thường: "nỏ"; câu hỏi cuối ("có … không?") và "thi có ra không": giữ "không" |
-| cấy | cái | |
-| năng | sao, thế nào | thay "răng" (chốt 01/11); đã đổi trên trang |
-| hấn | nó, hắn | thay "hắn" và "nó" (chốt 01/11); đã đổi trên trang |
-| cân | con (con vật, hoặc chỉ một ai đó) | cân bò, cân tru, cân chó, cân gấy, cân trai, cân nớ bị ngu à? **Không** dùng khi "con" là đứa con (tự xưng với bố mẹ, hoặc bố mẹ gọi con): giữ "con" |
-| gấy | gái | chốt 01/11 |
-| nớ | nào, đó | "cân nớ" (nào); "đó" thành "nớ" (chốt 01/11) |
-| bựa | hôm, bữa (nói về ngày) | "tối bựa qua" (tối qua), "bựa qua" (hôm qua); không đổi "Sao Hôm" |
-| nói | bảo | chốt 01/11 |
-| nạ | đây (biểu cảm, cuối câu) | "rồi đây" thành "rồi nạ" (chốt 01/11) |
-| cầm | mang, giữ | chốt 01/11 |
-| nhỏ | bé | chốt 01/11 |
-| ngài | người | chốt 01/11 ("mọi ngài", "ngài lớn") |
-| im | nín | "Nín thì vô" thành "Im thì vô" (chốt 01/11) |
-| eng | anh | chốt 01/11; chưa có chỗ nào trong ht |
-| bổ | ngã | "bổ xe" (chốt 01/11) |
-| ni | này | chốt 01/11 |
-| nhác | lười | chốt 01/11 |
-| tru | trâu | chốt 01/11 |
+| Hà Tĩnh | Phổ thông                         | Ghi chú                                                                                                                                                                    |
+| ------- | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| nhởi    | chơi                              |                                                                                                                                                                            |
+| mần     | làm                               | đã dùng: "mần chi mà ăn"                                                                                                                                                   |
+| chộ     | thấy                              |                                                                                                                                                                            |
+| dừ thì  | giờ thì                           |                                                                                                                                                                            |
+| đê      | thôi (trong "đi thôi")            | cuối câu rủ: "Đi đê."                                                                                                                                                      |
+| tề      | (bỏ)                              | "mà" giữ nguyên, kể cả trong biểu cảm (chốt 01/11, đổi ý). "Sao Hôm tề" là chữ "kìa" có từ trước                                                                           |
+| nỏ      | không                             | dùng chen với "không", vì người Hà Tĩnh vẫn nói "không" (chốt 01/11). Câu khẳng định/phủ định thường: "nỏ"; câu hỏi cuối ("có … không?") và "thi có ra không": giữ "không" |
+| cấy     | cái                               |                                                                                                                                                                            |
+| năng    | sao, thế nào                      | thay "răng" (chốt 01/11); đã đổi trên trang                                                                                                                                |
+| hấn     | nó, hắn                           | thay "hắn" và "nó" (chốt 01/11); đã đổi trên trang                                                                                                                         |
+| cân     | con (con vật, hoặc chỉ một ai đó) | cân bò, cân tru, cân chó, cân gấy, cân trai, cân nớ bị ngu à? **Không** dùng khi "con" là đứa con (tự xưng với bố mẹ, hoặc bố mẹ gọi con): giữ "con"                       |
+| gấy     | gái                               | chốt 01/11                                                                                                                                                                 |
+| nớ      | nào, đó                           | "cân nớ" (nào); "đó" thành "nớ" (chốt 01/11)                                                                                                                               |
+| bựa     | hôm, bữa (nói về ngày)            | "tối bựa qua" (tối qua), "bựa qua" (hôm qua); không đổi "Sao Hôm"                                                                                                          |
+| nói     | bảo                               | chốt 01/11                                                                                                                                                                 |
+| nạ      | đây (biểu cảm, cuối câu)          | "rồi đây" thành "rồi nạ" (chốt 01/11)                                                                                                                                      |
+| cầm     | mang, giữ                         | chốt 01/11                                                                                                                                                                 |
+| nhỏ     | bé                                | chốt 01/11                                                                                                                                                                 |
+| ngài    | người                             | chốt 01/11 ("mọi ngài", "ngài lớn")                                                                                                                                        |
+| im      | nín                               | "Nín thì vô" thành "Im thì vô" (chốt 01/11)                                                                                                                                |
+| eng     | anh                               | chốt 01/11; chưa có chỗ nào trong ht                                                                                                                                       |
+| bổ      | ngã                               | "bổ xe" (chốt 01/11)                                                                                                                                                       |
+| ni      | này                               | chốt 01/11                                                                                                                                                                 |
+| nhác    | lười                              | chốt 01/11                                                                                                                                                                 |
+| tru     | trâu                              | chốt 01/11                                                                                                                                                                 |
+|         |                                   |                                                                                                                                                                            |
 
 ## 2. Từ đã dùng trên trang
 

@@ -31,8 +31,8 @@ Quấy rối không bao giờ là fan service: viết như thứ xấu xí, qua 
 
 ### C3
 
-Gợi nhưng không phản cảm: không từ thô tục khi tả cơ thể, không tả bộ phận sinh dục, không liệt kê số đo, không biến nhân vật thành đồ vật. ^C3
+Không từ thô tục khi tả cơ thể, không tả bộ phận sinh dục. ^C3
 
 ### C4
 
-Chỉ giữa người trưởng thành, đồng thuận rõ ràng, tỉnh táo; không có cảnh thân mật khi một bên say. ^C4
+Chỉ giữa người trưởng thành. ^C4
