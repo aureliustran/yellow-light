@@ -1,6 +1,6 @@
 # Đèn vàng – Register (văn phong)
 
-Oct 28, 2026 · @aureliustran. Sửa 28/10 (thêm §2.4 thiết bị của cỗ máy, §2.5 hệ giác quan và cảm xúc; 13:22: QK.T quãng 1 gọi tên mãnh liệt, R8 lùi thành dư chấn, theo `rules/goi-ten-cam-xuc.md` §4a). Nguồn sự thật cho register, đúng chỗ `kien-truc.md` §2 đã chừa (Q-042: "Register về `rules/registers.md`"). Gộp bản đồ R1–R7 của skill `den-vang-van-phong`, thêm **R8 Sổ cái** và **R9 Đắng**, và đặt register vào cây tuyến.
+Oct 28, 2026 · @aureliustran. Sửa 13/11 (chuyển vào repo R10 Nội tâm và các sửa 01/11, 04/11 từ bản Project, tác giả chấp nhận; mục thư viện [[REG.noi-tam]]). Sửa 04/11 (thêm **R10 Nội tâm**, §2.6: người kể nói thẳng cảm xúc, suy nghĩ của nhân vật POV; hành động ít, nhanh, dứt khoát; QK.T interlude quãng 2 lấy R10 làm nền; 13:52: nhịp tiêu cực của interlude quãng 1 cũng dùng R10, ghép với bộ kỹ thuật tiêu cực đã có, §2.6.3). Sửa 01/11 (ba interlude đại học trước ch.5 được R8, R9; luật chữ tục; theo `_archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md`). Sửa 28/10 (thêm §2.4 thiết bị của cỗ máy, §2.5 hệ giác quan và cảm xúc; 13:22: QK.T quãng 1 gọi tên mãnh liệt, R8 lùi thành dư chấn, theo `rules/goi-ten-cam-xuc.md` §4a). Nguồn sự thật cho register, đúng chỗ `kien-truc.md` §2 đã chừa (Q-042: "Register về `rules/registers.md`"). Gộp bản đồ R1–R7 của skill `den-vang-van-phong`, thêm **R8 Sổ cái**, **R9 Đắng** và **R10 Nội tâm**, và đặt register vào cây tuyến.
 
 Phân việc với các file khác:
 - `den-vang/01-rules-viet.md` (sau khi chuyển: `content/rules/01-rules-viet.md`) giữ luật câu chữ: chuyển dạng theo tuổi, màu lời kể, tự thoại. Luật gọi tên cảm xúc ở POV Thuyên: `rules/goi-ten-cam-xuc.md` (thay luật "không gọi tên" cũ).
@@ -19,6 +19,7 @@ Phân việc với các file khác:
    **[chốt 28/10, 13:22] Ngoại lệ QK.T quãng 1:** lời kể đứa trẻ gọi tên cảm xúc mãnh liệt, kèm kết luận nhân sinh của nó; cảnh đỉnh dựng, không tóm; R8 lùi thành dư chấn (chuỗi đếm, kiểm kê, dòng sổ) sau cảnh nóng (`goi-ten-cam-xuc.md` §4a). Lý do: roi vọt phổ biến và bị bình thường hóa trong khung "dạy con"; kể bằng giọng lạnh thì người đọc tự lấp bằng khung ấy (bản thử v4 bị chấm nhẹ, tự sự). Luật 3 này giữ nguyên cho TH.LAB GĐ2, GÃY và R9.
 4. **[chốt 28/10 · ủy quyền] R8, R9 hiếm thì mới nặng.** Chỉ dùng ở ô ma trận cho phép (§3). Ngoài ô thì cần tác giả duyệt và ghi ở cột `Register` của tình tiết.
 5. **[chốt 10/11] Từ phức là đa số, từ đơn là thiểu số, ở mọi register.** Luật gốc ở `01-rules-viet.md` (*Nguyên tắc chung*). Áp cho lời kể, tự thoại, độc thoại, tài liệu thiết kế; thoại thì tự nhiên, ưu tiên từ phức khi nhân vật thông minh, cân nhắc kỹ, hoặc đang diễn giải điều phức tạp. Register ngắn (R3, R7, R8) cũng áp đủ: ngắn là nhịp và cấu trúc câu, không phải độ nghèo của từ (§6.3); luật riêng của register vẫn đứng (R7 ít tính từ, R8 không tính từ chỉ đau và màu). Từ đơn dùng có chủ đích: nhịp cụt khi căng, câu chốt, chửi, âm đệm. Viết đổi từ, giữ nhịp. Trước khi nộp: §7. Quét lại văn bản có sẵn: `guidelines/tasks/compound-words-sweep.md`.
+6. **[chốt 04/11] Nói thẳng cũng là một văn phong.** R10 Nội tâm (§2.6) cho người kể nói thẳng cảm xúc, suy nghĩ của nhân vật POV, thay cho việc dựng cảnh để người đọc tự suy ra. Luật 3 (gắt từ việc giấu) không áp cho R10. R10 không bao giờ chung một nhịp với R8. (Bản Project đánh số luật này là §0.5; trong repo §0.5 là luật từ phức 10/11, nên luật này là §0.6.)
 
 ## 1. Bảng register
 
@@ -33,6 +34,7 @@ Phân việc với các file khác:
 | R7 | Đáy | Sau đổ vỡ, trầm cảm | Phẳng, ít tính từ; ở đáy sâu nhất thì vụn (§2.3) | Thấy mà không đọc ("nhìn như nhìn tường") | Cạn; vắng ba giây ái mộ | phần hồi phục, ch.0 *Nước lạnh* |
 | **R8** | **Sổ cái** (lạnh, cực đoan) | Đòn roi, mắng, phủ nhận ở QK.T; áp chế ở TH.LAB GĐ2; ngày gãy | Ngắn, khẳng định, đếm; khoảng cách sụp vào thân thể ở cú đánh | Đồ tiện nghi đặt ngang hàng với roi; con số; một vật sáng mà mắt bám vào | Người gây đau nói trọn, tự nhiên, tin mình đúng; người bị đau gần như không thoại | §5.1, §5.2 |
 | **R9** | **Đắng** (hằn học, chửi đổng) | Lớp người lớn nhìn lại (bản nháp bị xóa ở khung ch.2–6); interlude quãng 2 (bị lý trí cắt); độc thoại cái tôi độc ở GĐ2; đổ vỡ | Một khối không xuống dòng; điệp khúc; câu dài dồn; rơi về một câu lễ phép hoặc một hành động | Gần như không; chữ của người khác là vật | Không thoại; đây là giọng trong đầu hoặc chữ gõ ra | §5.1 |
+| **R10** | **Nội tâm** (gián tiếp tự do dày) `[chốt 04/11]` · [[REG.noi-tam]] | QK.T interlude quãng 2 (nền); nhịp tiêu cực của QK.T interlude quãng 1 (§2.6.3); ô khác theo §3 và §2.6.2 | Khối nội tâm dài, dồn khi nhân vật đang thắng, đứt khi bị chạm; dòng hành động cụt chen giữa các khối | Chỉ ở chỗ quả ngọt và một chi tiết lóe | Ít, ngắn; mỗi câu thoại là cò cho một khối nghĩ | §2.6 |
 
 ### Register theo POV interlude (giữ từ skill)
 
@@ -40,7 +42,7 @@ Phân việc với các file khác:
 - **Diệp Anh (tên là một món trang phục):** nhìn ra ngoài; bảng tính phương án; trật tự cho đến chỗ cô không viết trước.
 - **Khải (sắc độ trắng – đen):** R5, ngôi tôi.
 - **Phong (tên loại phim):** người kể nói thẳng Phong thích Nhi từ bao giờ, vì sao; nhìn qua ống ngắm.
-- **Thuyên (tên là một cảm xúc):** R6 làm nền. Interlude quãng 2 dùng R9 bị cắt (§2.2 luật 1). Ch.0 *Cô tịch*: R7.
+- **Thuyên (tên là một cảm xúc):** R6 làm nền. `[sửa 04/11]` Interlude quãng 1: R6 ở nhịp bình dị, **R10** ở nhịp tiêu cực (§2.6.3). Interlude quãng 2 lấy **R10** làm nền (§2.6.1); R9 bị cắt ở nhịp đi xuống (§2.2 luật 1). Ch.0 *Cô tịch*: R7.
 - **Nhiều góc nhìn:** ghép quy ước tên; đổi góc nhìn bằng `---`.
 
 ## 2. Bộ kỹ thuật của R8, R9 (nghiên cứu 28/10)
@@ -73,13 +75,14 @@ Tên tác giả và tác phẩm chỉ ở tài liệu, không lên trang.
 
 1. **R9 luôn là giọng Thuyên, không phải người kể.** Người kể của Đèn vàng không phán xét. Chỗ đứng theo giai đoạn:
    - **Quãng 1** `[sửa 28/10, 14:15]`: trước summit chỉ một câu, gõ rồi xóa (*Sướng. Ai cũng bảo thế.*), vì người đọc mới có mảnh vụn (luật đủ). Khối đầy đủ ở cuối interlude *Nhục nhã*, gõ rồi xóa, rơi về câu cảm ơn. Mô tả cũ: anh gõ một khối trong `:::editor`, rồi bôi đen, xóa, gõ lại một câu cảm ơn. Bài phát biểu không bao giờ chứa nó; người đọc thì đã đọc. Đây cũng là bằng chứng cái tôi đại học *kiểm soát được* (chốt 27/10): cơn hằn có, nhưng bị xóa.
-   - **Quãng 2 (interlude Thuyên, tên là cảm xúc):** khối R9 bị lý trí cắt giữa câu. Tên interlude là chính cảm xúc mà lý trí vừa cắt.
+   - **Quãng 3, ba interlude đại học trước ch.5** `[chốt 01/11]` (*Cô độc*, *Mỏi mệt*, *Hoang mang*): khối R9 đầy đủ là giọng cái tôi độc nói với thằng bé ở cột lớp một, không bị xóa, rơi về một lệnh ngắn (*Dậy.*, *Không gõ.*, *Hủy diệt.*) rồi một hành động quá đà; hệ quả viết bằng R8. Giọng đi qua người kể, dùng từ phổ thông. Liều: *Cô độc* nhẹ, *Mỏi mệt* vừa, *Hoang mang* nặng. Cơ chế: [[FN.thuyen.phong-kin]] (`_archive/tuyen/qua-khu/thuyen-cai-toi-doc-co-che.md`).
+   - **Quãng 2 (interlude Thuyên, tên là cảm xúc):** khối R9 bị lý trí cắt giữa câu. Tên interlude là chính cảm xúc mà lý trí vừa cắt. `[sửa 04/11]` Nền của interlude là R10 (§2.6.1); R9 bị cắt xuất hiện ở nhịp đi xuống, như chỗ khối nội tâm đứt.
    - **GĐ2 và đổ vỡ:** R9 hòa vào lời kể bằng gián tiếp tự do. Ở GĐ2 nó là giọng cái tôi độc; không còn bị xóa nữa. Sự vắng mặt của nút xóa là triệu chứng.
 2. **Liều:** quãng 1 tối đa một khối mỗi chương, khoảng 200 chữ, và không chương nào cũng có. GĐ2 rải thành dòng, dày dần theo nấc nhờn thuốc. Đổ vỡ tối đa một khối mỗi cảnh.
 3. **Điệp khúc là chữ của người khác:** *sướng, đủ, ngoan, giỏi, lì, sướng thế mà còn*. Lặp đến khi chữ ấy thành độc.
 4. **Vẫn không gọi tên cảm xúc của chính anh.** Anh gọi tên chữ của người lớn, rồi xoay nó.
 5. **Hằn học, không thương thân.** Hướng ra (người lớn, cả một thế hệ, "người ta") và hướng vào (tự xỉ vả, nhận đau như một thứ đáng được). Không cầu xin, không than. Luật "tới gần chỗ thương thân thì lý lẽ cắt ngang" vẫn giữ: R9 là chỗ lý lẽ ấy thành dao.
-6. **Tục viết tắt** (đm, vcl) như luật thoại.
+6. **Chữ tục** `[chốt 01/11]`: trên site viết đủ chữ; trong tin nhắn (`:::chat`) viết tắt (đm, vcl); bản crosspost cân nhắc viết tắt. Tối đa một chữ tục trong một câu thoại, không đứng sát nhau; trong một khối R9 tối đa hai, ba chữ. Cách thiết kế câu chửi (hình ảnh trước, chữ tục sau; ba mức; áp cho SL.Vũ, SL sân bóng, QK.T sân bóng): `rules/chui-bay-thiet-ke.md` `[chốt hướng 01/11]`. (Trước 01/11: "Tục viết tắt (đm, vcl) như luật thoại.")
 7. **Kết:** lõi của khối là lời phủ nhận (chốt 28/10): cơn hằn với bố mẹ là vỏ, câu cuối trước khi rơi là "mình không thiếu" bằng bộ kết quả (TB-1). Rồi rơi về một câu lễ phép ("Cảm ơn bác.") hoặc một hành động (bôi đen, xóa, đóng máy). Không kết bằng câu đúc kết.
 8. **Vẫn cấm thuật ngữ tâm lý, triết học,** tên hình mẫu tham chiếu.
 
@@ -124,7 +127,7 @@ Kỹ thuật nối giác quan với cảm xúc ở khoảnh khắc lý trí dừ
 
 **Chất Việt cho mảnh ấm và mong:** Thạch Lam, *Hai đứa trẻ*: tâm trạng qua cảm giác mơ hồ, ánh sáng nhỏ chống lại bóng tối, tiếng đêm quê, mùi đất. Giữ phần giác quan; ở QK.T quãng 1 giữ cả phần gọi tên cảm xúc. Sao Hôm và đèn vàng là "chấm lửa nhỏ" của truyện. **Chất Việt cho đỉnh đau:** Nguyên Hồng, *Những ngày thơ ấu*: đứa trẻ gọi tên trực tiếp, mãnh liệt, kèm hành động tưởng tượng và nhịp câu dồn (`goi-ten-cam-xuc.md` §4a).
 
-**Thứ tự trong một cảnh đỉnh của QK.T** `[sửa 28/10, 13:22]`: tác nhân ở hiện tại (B) → mảnh ký ức không mốc thời gian (B) → cảnh dựng, kéo vài giây thành thời gian tâm lý, lời người lớn nói đủ câu → thân biết trước (C) → gọi tên mãnh liệt, kèm một chi tiết lóe (D) → kết luận nhân sinh của đứa trẻ → dư chấn R8 (chuỗi đếm, dòng sổ) → đêm: khuôn tràn với cái gối (E, A). Ở khuôn tràn quãng 1, bước "ý nghĩ chạy về nhu cầu" được nói trọn ở lớp 1–5 (*muốn mạ ôm*), bị cắt giữa câu từ lớp 6 (đường mất lời, §4a luật 6).
+**Thứ tự trong một cảnh đỉnh của QK.T** `[sửa 28/10, 13:22; 04/11: từ "thân biết trước" đến "kết luận nhân sinh" chạy trong khối R10, §2.6.3]`: tác nhân ở hiện tại (B) → mảnh ký ức không mốc thời gian (B) → cảnh dựng, kéo vài giây thành thời gian tâm lý, lời người lớn nói đủ câu → thân biết trước (C) → gọi tên mãnh liệt, kèm một chi tiết lóe (D) → kết luận nhân sinh của đứa trẻ → dư chấn R8 (chuỗi đếm, dòng sổ) → đêm: khuôn tràn với cái gối (E, A). Ở khuôn tràn quãng 1, bước "ý nghĩ chạy về nhu cầu" được nói trọn ở lớp 1–5 (*muốn mạ ôm*), bị cắt giữa câu từ lớp 6 (đường mất lời, §4a luật 6).
 
 **Ranh cứng:** khuôn tràn không bao giờ áp độ gần thân thể kiểu cảnh nóng cho cảnh bị đánh, và không bao giờ cho bất kỳ cảnh nào của nhân vật dưới 18 tuổi ngoài phần cấu trúc (ngưỡng, hết tính toán, cắt sang cảnh sau, ý nghĩ bị cắt) và chi tiết của chính cơn khóc (nước mắt, nước mũi, hơi thở, gối ướt). Cảnh đòn roi giữ R8.
 
@@ -133,13 +136,179 @@ Kỹ thuật nối giác quan với cảm xúc ở khoảnh khắc lý trí dừ
 - Ký ức ấm qua mùi, có thời gian và nơi chốn (ch.5): *Mùi lạc rang từ quán đầu ngõ bay lên tận tầng bốn. Mùa hè năm lớp tám, đĩa lạc nằm giữa bàn uống nước, bố đẩy nó sang phía anh một chút, mắt vẫn nhìn tivi.*
 - Khuôn tràn (ch.0, khoảng một giờ sáng): *Cổ họng có một hòn bi. Anh nuốt. Nó không xuống. / Giá mà lúc này có ai— / Anh đứng dậy, rót nốt nửa cốc. Không. Không có ai cả. Không cần. / Rồi cái ấy tràn. Không còn căn phòng nữa. Chỉ còn hơi thở đứt từng khúc, nước mũi, và cái mặn chảy vào khóe miệng, mặn hơn mồ hôi. Anh kéo cái gối vào ngực, áp mặt vào chỗ khô, bấu vào vỏ gối đến trắng đốt tay, như để chắc là nó còn ở đó. / Nó còn ở đó. Nó không nói gì. / Sáu giờ, nước trong đường ống đã nguội.*
 
+### 2.6 R10 Nội tâm `[chốt 04/11]`
+
+**Nguồn:** tác giả, 04/11. 13:16: *"Văn phong, kĩ thuật viết phần này nên hướng đến việc lột tả vì nỗi đau mà cố gắng, vì cố gắng nên lần đầu được nếm quả ngọt, so sánh quả ngọt với người khác (cái thước), và nghĩ nó sẽ ở với mình mãi mãi 1 cách tự nhiên bởi đó là năng lực của mình. Khả năng phải nhấn mạnh độc thoại nội tâm."* 13:19: *"Thay vì mô tả cảm xúc của người đọc qua người kể, để cảm xúc, suy nghĩ của anh qua người kể thay thế. Phần ít là mô tả hành động, nhanh, dứt khoát, phần suy nghĩ, nội tâm là nhiều."* 13:23: *"Chốt kĩ thuật viết mới, đưa vào danh mục phù hợp để tái sử dụng cho tuyến khác."* Chuyển vào repo 13/11 (tác giả chấp nhận); mục trong thư viện: [[REG.noi-tam]].
+
+**Định nghĩa.** Người kể khoác trọn giọng nghĩ của nhân vật POV (gián tiếp tự do toàn phần). Cảm xúc và suy nghĩ đi thẳng qua lời kể, thay cho việc dựng cảnh để người đọc tự suy ra. Hành động là phần ít: nhanh, dứt khoát. Nội tâm là phần nhiều.
+
+**Khác các register gần nó:**
+
+| | Người đọc nhận cảm xúc bằng | Nội tâm |
+| --- | --- | --- |
+| R6 Hồi tưởng | Tự ráp từ mảnh giác quan | Ít, đắt |
+| R8 Sổ cái | Tự lấp chỗ bị giấu | Không có |
+| R9 Đắng | Nghe giọng hằn học một khối | Một khối chửi đổng, hướng ra người khác và vào mình |
+| Tự thoại hiện sinh (`01-rules-viet.md`) | Một câu hỏi lớn đứng trên chi tiết | 1–3 câu, câu hỏi hoặc mệnh đề trần |
+| **R10 Nội tâm** | **Lời kể nói thẳng** | **Vận động: nghĩ, đo, so, kết luận, lên kế hoạch. Chiếm phần lớn trang** |
+
+**Luật:**
+
+1. **Gián tiếp tự do toàn phần.** Không thẻ dẫn "anh nghĩ", "anh cảm thấy", "anh nhận ra", "anh biết rằng". Câu nội tâm đứng như sự thật của lời kể: *Là tại anh. Là của anh.* Ngôi giữ theo POV ("anh" với Thuyên). Ý nghĩ trực tiếp in nghiêng chỉ dùng ở chỗ đậm nhất.
+2. **Tỷ lệ.** Ở nhịp R10 dẫn: khoảng một phần hành động, năm phần nội tâm, tính bằng chữ.
+3. **Hành động là dấu câu.** Dòng hành động đứng thành đoạn riêng, chỉ động từ, không tính từ, bỏ chủ ngữ nếu bỏ được: *Nhặt bóng. Ngẩng lên.* Việc của nó: cắt giữa hai khối nghĩ, cho người đọc thở, đánh dấu thời gian trôi.
+4. **Gọi tên cảm xúc thẳng, rồi xử lý nó theo cách của POV.** Thuyên: quy ngay ra bằng chứng (con số, buổi tập, bảng xếp hạng, lịch), tức bộ kết quả. POV khác xử lý theo giọng riêng đã có ở mục *Register theo POV interlude* (Nhi gọi tên đúng nhưng lý do sai; Diệp Anh đưa vào bảng phương án).
+5. **Mỗi khối đi từ A đến B, không quay về A.** Phép thử: cắt một câu mà khối vẫn đi được thì câu đó thừa. Khuôn gợi ý cho Thuyên: ký ức → con số → so sánh → kết luận → kế hoạch.
+6. **Nhịp câu theo trạng thái.** Đang thắng: câu dài, dồn, mệnh đề nối mệnh đề, như người đang tính nhanh và tính trúng. Bị chạm: câu đứt, có "—". Cạn: không còn khối.
+7. **Tỷ lệ là chiếc đồng hồ.** Khi nhân vật mất (đứt, đáy), đảo tỷ lệ: dòng hành động dài ra, phẳng, liệt kê; khối nội tâm co lại rồi im. Người đọc nghe ra đầu nhân vật im trước khi lời kể kể chuyện gì đã xảy ra.
+8. **Niềm tin chưa tự soi nằm trong ngữ pháp, không được tuyên bố.** Ví dụ niềm tin "thứ này sẽ ở với mình mãi": không viết "anh tin nó sẽ ở mãi". Viết lịch tương lai như thể chắc chắn (*mai, tháng sau, lên lớp mười một thì…*), câu định nghĩa ở thì hiện tại, không có mốc hết hạn. Tuyên bố thì người đọc thấy ngạo; ngầm định thì người đọc thấy ngây thơ, và thương.
+9. **Người kể không biết hơn nhân vật.** Không "anh chưa biết rằng…", không bình, không sửa. Trớ trêu đến từ thứ người đọc đã biết ở chỗ khác (chương trước, POV khác, khung hiện tại).
+
+**Ranh (giữ nguyên các luật khác):**
+- **Phần cần giấu** (`01-rules-viet.md` *Nguyên tắc chung*; `goi-ten-cam-xuc.md` §2): R10 không gọi tên cảm xúc mà nhân vật chưa tự nhận. Với Thuyên từ quãng 2: **cái cần** (được ôm, được nghe, được ghi nhận vì đã cố) không vào khối nội tâm; nó chỉ hiện qua hành vi (cái gối; `_archive/tuyen/qua-khu/thuyen.md` §6.9 D, "nói giáp, giấu cái cần"). Nội tâm càng dày, chỗ trống ấy càng lộ. Ghi chú 13/11: cái cần là cụm C7 của [[CH.thuyen.beliefs]] (`seen: khong`); mở luật 11/11 cho C7 có độc thoại **cảm xúc**, không **nhận thức**, áp ở đêm say ([[X-011-001]]), không áp cho interlude quãng 2.
+- **Chữ của nhân vật**, không thuật ngữ tâm lý, triết học. Thuyên: *khuyết, sửa, đủ, cây thước, đường thẳng, bài chạy quá một giây*.
+- **TB-1** giữ: khối nội tâm của Thuyên được mở bằng chữ bộ chịu đựng chỉ ở cú cắt TB-12.
+- **Câu hỏi hiện sinh** nằm trong khối R10 vẫn theo luật ngắn (1–3 câu) của `01-rules-viet.md`. **Chuỗi đi đủ đến *Vì vậy*** vẫn tối đa một mỗi chương hoặc interlude (*Văn phong trần tục của tự thoại*); các khối khác kết bằng một dòng hành động hoặc một lịch tương lai.
+- **Sáu thao tác** dò, lật, tự sửa, bỏ lửng, dồn, rơi (`01-rules-viet.md` *Lời kể biểu cảm có chủ đích*) dùng được trong R10; R10 là chỗ tự nhiên của chúng.
+- **Không tự thương thân:** gần chỗ thương thân thì lý lẽ cắt ngang.
+- **Không chung nhịp với R8.** Chuyển bằng ngắt dòng hoặc `---` (§4.2).
+- **Từ phức** (§0.5) áp cho khối nội tâm như mọi lời kể; dòng hành động là register ngắn (§6.3).
+
+**Mẫu** (QK.T *Hoan hỉ*, lớp 10, bản thử; "thằng áo đỏ" là tên tạm):
+
+> Quả thứ ba mươi mốt. Vào.
+>
+> Tay không mỏi. Ba tháng trước, đến quả thứ hai mươi là cổ tay đã run như cổ tay của người khác, và anh đã đứng nhìn nó mà ghét, ghét như ghét một đứa cùng bàn chậm hiểu. Giờ nó không run. Anh sướng. Sướng thật, nóng ran từ bụng lên hai bả vai, cái sướng mà cả xóm vẫn bảo nhà anh có mà anh chưa lần nào cầm được trên tay. Lần này cầm được. Lần này nó có số: ba mươi mốt quả, tay không run, bốn rưỡi sáng, chín mươi hai buổi.
+>
+> Nhặt bóng. Ngẩng lên.
+>
+> Thằng áo đỏ chống tay lên gối. Tháng mười nó cướp bóng của anh bốn lần trong một trận, lần nào cũng cười. Cái cười không ác, chỉ là cái cười của đứa chưa bao giờ phải nghĩ xem mình có được đứng ở đây không. Hôm nay không lần nào. Anh đếm, đếm hai lần cho chắc. Không lần nào. Nó tập sân thành phố, có anh Long chỉ, có đèn, có hội. Anh tập một mình, sân quê không đèn, Casio của bố chèn sợi chun. Vậy thì không phải tại sân. Không phải tại người chỉ. Là tại anh. Là của anh. Thứ anh làm ra bằng hai tay thì không ai cãi cùn được, không ai bảo "đề nó khó hơn", không ai cầm lên rồi đặt sang chỗ khác.
+>
+> Dắt bóng về giữa sân. Đổi tay. Không nhìn bóng.
+>
+> Mai bốn rưỡi lại ra. Tháng sau năm mươi quả. Lớp mười một thì vào đội trường, rồi giải tỉnh, rồi— anh không nghĩ hết, vì không cần nghĩ hết. Đường thẳng thì nhìn một đoạn là biết nó đi đâu. Anh đã vẽ nó bằng chín mươi hai buổi sáng. Nó sẽ không tự cong.
+
+Cố ý:
+- Tỷ lệ khoảng một phần hành động, năm phần nội tâm; dòng hành động đứng riêng, không tính từ.
+- *Sướng* là điệp khúc của người ngoài ở quãng 1 ("nhà mi sướng"); lần đầu chữ ấy thuộc về anh.
+- *Vậy thì không phải tại…* là khuôn của B.thuyen-030 (cũ NT-30: *Mình hơn nó rồi mà mạ vẫn nói nó hơn. Vậy là không phải tại điểm*) lật chiều: ngày trước để đau, giờ để chiếm hữu.
+- Giây đầu nhìn quả bóng, giây sau ngẩng lên xem người kia (TB-3).
+- Niềm tin "ở mãi" nằm trong lịch tương lai và câu *Nó sẽ không tự cong*, không được tuyên bố (luật 8).
+- Cái cần không có trong khối nào.
+
+#### 2.6.1 Áp dụng: QK.T interlude quãng 2 `[chốt 04/11]`
+
+R10 là register nền của tám interlude cấp 3 (*Hoan hỉ* → *Phẫn uất*). R6 chỉ còn ở mảnh quả ngọt (một chi tiết giác quan) và chi tiết lóe. R9 bị cắt (§2.2) xuất hiện ở nhịp đi xuống. Nội dung cấp 3: `de-xuat/qk-t-cap-3-motif-lop-10.md`.
+
+**Cung năm nhịp** (hướng tác giả 04/11, 13:16):
+
+| Nhịp | Khối nội tâm làm gì | Kỹ thuật |
+| --- | --- | --- |
+| Vì đau mà cố | Biến cái đau thành kế hoạch ngay lập tức; tốc độ chuyển đổi chính là cái đau | Mở bằng chữ bộ chịu đựng, cắt, nối bằng danh sách khuyết – sửa (TB-12): *Gà— Không. Ném: tay mỏi ở quả ba mươi. Core: không hạ được trọng tâm. Ba khuyết. Sửa.* |
+| Cố | Khối ngắn lại, gần như chỉ còn đếm | Con số, Casio, 4:30; thân thể trả giá ở dòng hành động, nội tâm không nhắc (§2.5-C). ADHD: thế giới lùi xa khi não vào việc ([[FN.thuyen.adhd]]) |
+| Lần đầu nếm quả ngọt | Gọi tên trọn cảm xúc ở bên trong; mặt ngoài để yên (`goi-ten-cam-xuc.md` §1, điều kiện 2) | Viết chậm, một chi tiết giác quan (R6). Quả ngọt **nhỏ** (lần đầu thắng đúng người từng thắng mình; khoản tiền MMO đầu tiên), vì liều đầu ngấm sâu nhất (cơ chế nhờn thuốc, `storylines/README.md`) |
+| So với cây thước | Mở sổ, xếp hạng người khác | Giây đầu nhìn vào việc (cái tôi lành), giây sau ngẩng lên xem ai đang nhìn (cái tôi độc, TB-3). Lập luận so sánh dùng lại khuôn của B.thuyen-030, lật chiều |
+| Tin là ở mãi, vì là năng lực của mình | Lên lịch tương lai như thể chắc chắn | Luật 8: ngầm định trong ngữ pháp, không tuyên bố |
+
+**Đồng hồ qua chuỗi** (luật 7):
+
+| Interlude | Nhịp | R10 |
+| --- | --- | --- |
+| *Hoan hỉ*, *Hiếu thắng*, *Kiêu hãnh* | ↑ | Khối to dần, dài dần, lịch tương lai dày |
+| *Tủi hổ* | ↓↓ | Khối vẫn chạy nhưng đứt giữa câu (R9 bị cắt); Ngạo lần đầu mất vỏ đùa |
+| *Hụt hẫng* | ↓↓↓ | Đảo tỷ lệ: hành động phẳng, dài, liệt kê; nội tâm gần như im, chỉ còn dòng giáo án *vì sao: dễ* |
+| *Biết ơn*, *Hy vọng* | ↑ | Khối quay lại, ngắn hơn, ít lịch tương lai hơn; lần đầu có câu hỏi thay câu khẳng định |
+| *Phẫn uất* | ↑ đỉnh | Đi hết câu *Vì vậy, mình phải mạnh hơn nữa* (chuỗi *Vì vậy* duy nhất của interlude); vẫn là lịch tương lai, nhưng dựng trên nén |
+
+**Khung hiện tại** (đầu, cuối mỗi interlude): giữ khung ngắn của chuỗi hồi tưởng. Cuối khung được đặt một vật cho thấy thứ vừa kể đã mất; người kể không nối (tinh thần TB-4).
+
+#### 2.6.2 Ô đề xuất cho tuyến khác `[đề xuất]`
+
+R10 là kỹ thuật dùng chung. Ma trận §3 hiện chỉ ghi R10 ở QK.T. Các ô dưới chờ session của tuyến ấy đề xuất và tác giả duyệt; khi duyệt thì ghi vào §3 (hoặc mục `voice` của node, khi ma trận chuyển sang node).
+
+| Node × giai đoạn | Dùng R10 cho | Ghi chú |
+| --- | --- | --- |
+| `TH.LAB` GĐ2 | Độc thoại cái tôi độc ở các nấc leo | Vang quãng 2: cùng cung năm nhịp, quả ngọt là 50 triệu và cái ghế; khác ở chỗ cây thước giờ đặt lên kẻ thù đã bị tên lửa kéo xuống (`_archive/tuyen/qua-khu/thuyen-lang-kinh.md` §3.1). R9 rải trong khối (§2.2). Không chung nhịp với cảnh R8 áp chế. Phiên bản lý tưởng lóe trong khối: [[TEC.interiority.ideal-self]] |
+| `GD.T` GĐ2 | Giỗ ông, khoe 50 triệu | Khối so sánh với cây thước của bố mẹ; đồng hồ đứt ở câu cãi cùn |
+| `QK.N` (interlude Nhi) | Nhi nhìn vào trong | R10 bằng giọng Nhi: gọi tên đúng, lý do sai; dòng hành động có thể là dòng `:::phone` |
+| `RM.TD` (interlude Diệp Anh) | Bảng tính phương án | R10 bằng giọng biên bản; khối đứt ở chỗ cô không viết trước |
+| HP | Độc thoại "có khi nào" quay lại | Đồng hồ chạy lại sau R7, nhưng khối mở bằng câu hỏi thay vì lịch tương lai |
+
+Không dùng R10 cho phần cần giấu: Thuyên với Nhi ở GĐ1 trước đêm say; Khải, Morpheus, Diệp Anh phía bên kia trước nhịp lật. Đêm say ([[X-011-001]]) cũng không dùng R10 (ràng buộc của bản nháp).
+
+#### 2.6.3 Áp dụng: QK.T interlude quãng 1, nhịp tiêu cực `[chốt 04/11, 13:52]`
+
+**Nguồn:** tác giả, 04/11 13:40: *"Thiết nghĩ nên áp dụng kĩ thuật viết này cho cả quãng c1, với 1 số thiết lập: nhịp bình dị, không có gì tệ xảy ra thì sử dụng văn phong cũ, nhịp tiêu cực thì sử dụng văn phong này. Nên phối hợp với kĩ thuật viết thể hiện sự tiêu cực đã có. Liên kết giữa 2 nhịp cũng vì thế thể hiện dc sự tương phản giữa cả 2."* Phạm vi: cả quãng 1 (*Sợ*, *Tiếc nuối*, *Nhục nhã*, *Hả hê*, *Trống rỗng*), kể cả hai bài đã đăng (13:44). Chuỗi plan: `ok` 13:52.
+
+**Luật chia nhịp:**
+
+| Nhịp | Register | Mắt đứa trẻ |
+| --- | --- | --- |
+| **Bình dị** (không có gì tệ xảy ra, kể cả mảnh ấm) | **R6** như cũ: mảnh giác quan, ngoại cảnh sống động, nội tâm ít. Mảnh ấm theo chất Thạch Lam (§2.5) | **Ra ngoài:** con thạch sùng, Sao Hôm, đĩa lạc |
+| **Tiêu cực** | **R10** làm nền, ghép với bộ kỹ thuật tiêu cực đã có (`goi-ten-cam-xuc.md` §4a; R8 dư chấn; R9 ở khung; khuôn tràn §2.5-E) | **Vào trong:** thế giới co lại, đầu óc tràn ra |
+
+Tương phản giữa hai nhịp nằm ở hai chỗ cùng lúc: **hướng nhìn** đổi từ ngoài vào trong, và **tỷ lệ** lật (nhịp bình dị phần lớn là giác quan, hành động; nhịp tiêu cực phần lớn là nội tâm, hành động chỉ còn nhát cụt).
+
+**Ghép với bộ kỹ thuật tiêu cực, thứ tự trong một cảnh đỉnh:**
+
+1. **Cảnh dựng** (§4a luật 4): lời người lớn vẫn nói đủ câu, giọng Hà Tĩnh. Ở đây luật 3 của R10 mở rộng: **câu của người lớn cũng là dấu câu**, cùng với dòng hành động. Mỗi câu người lớn là cò cho một khối nội tâm; đứa trẻ phản ứng theo từng câu bằng một khối.
+2. **Khối nội tâm** gánh việc §4a giao: thân biết trước (§2.5-C) → gọi tên mãnh liệt bằng chữ trẻ con → dò, lật sai (`01-rules-viet.md`, *Lời kể biểu cảm*) → kết luận nhân sinh ở cuối khối. Kết luận này được nói như chân lý (§4a luật 3); luật 8 của R10 ("niềm tin chưa tự soi không tuyên bố") không chặn nó, vì đây là thứ đứa trẻ tự rút ra. Niềm tin nền nó chưa soi vẫn nằm trong ngữ pháp. (Bản 04/11 lấy ví dụ *giỏi thì được thương*; phương trình ấy bỏ 11/11. Niềm tin nền và chặng tuổi của nó: [[CH.thuyen.beliefs]], trường `age`.)
+3. **R8 dư chấn** tách bằng `---`: chuỗi đếm, kiểm kê, dòng sổ. R10 và R8 không chung một nhịp (§0.6).
+4. **Đêm, khuôn tràn với cái gối** (§2.5-E): bước "ý nghĩ chạy về nhu cầu" là nội tâm, nên R10 nối thẳng vào.
+5. **R9** giữ chỗ cũ: khung hiện tại, cuối *Nhục nhã* (§2.2).
+
+**R10 đổi giọng theo tuổi** (đi cùng đường mất lời, `goi-ten-cam-xuc.md` §4a luật 6; khớp bảng `existential` của [[CH.thuyen.voice]]):
+
+| Lớp | Khối nội tâm |
+| --- | --- |
+| 1–2 | Câu ngắn, chữ đơn, tuyệt đối, phóng đại kiểu trẻ con. Cái cần nói trọn: *muốn mạ ôm* |
+| 3–5 | Gọi tên mà miệng không nói. Dò ngây thơ (*Hay là…*), lật sai (*À. Hóa ra…*) |
+| 6–9 | Lý luận *Nếu… thì…*. Gọi tên rồi tự gạt bằng bộ kết quả. Lớp 9 lần đầu đi hết *Vì vậy* (bài văn *Ước mơ của em*). Giọng chảy liền sang quãng 2 |
+
+ADHD ([[FN.thuyen.adhd]]) đi trong khối: lúc trôi thì câu nhảy cóc, ý đứt bằng "—"; lúc gặp Toán thì câu chậm, gọn.
+
+**Cái cần, khác quãng 2:** ở quãng 1, cái cần **được vào khối nội tâm** (lớp 1–5 nói trọn; lớp 6–9 gọi tên rồi gạt). Ở quãng 2 nó ra khỏi khối (§2.6 *Ranh*). Đọc liền chuỗi mười ba đêm, chữ "muốn được ôm" tắt dần; không câu nào giải thích.
+
+**Đồng hồ hai quãng:** ở quãng 1 khối nội tâm to nhất lúc đau; ở quãng 2 to nhất lúc thắng, và im ở đáy (*Hụt hẫng*). Giọng trong đầu chuyển từ chỗ đau sang chỗ kiêu hãnh, rồi đến lúc cái đau không còn lời. Đây là đường mất lời đi đến cuối.
+
+**Chuyển giữa hai nhịp:**
+- **Bình dị → tiêu cực (R6 → R10):** không cầu nối, không câu dẫn cảm xúc. Một âm thanh hoặc một câu người lớn (kênh ký ức đau, §2.5-B) lật tỷ lệ ngay trong đoạn.
+- **Tiêu cực → bình dị (R10 → R6):** qua dòng sổ R8 hoặc qua đêm, rồi `---`, mở bằng mùi hoặc ánh sáng ở xa. Câu mở không an ủi.
+- Luật hai register một cảnh (§4.1 luật 4) giữ: R6 → R10 trong một cảnh là đủ hai; R8 dư chấn phải sau `---`.
+
+**Liều:** tối đa hai cảnh đỉnh R10 dựng đủ mỗi interlude (trần hai đỉnh của `goi-ten-cam-xuc.md` §4a luật 7). Nhịp tiêu cực nhỏ hơn: một, hai khối. Mỗi interlude vẫn có ít nhất một mảnh ấm viết bằng R6 (§5).
+
+**Mẫu** (lớp 1, bản thử; cắt trước trận đòn):
+
+> Đèn tuýp kêu rè rè. Mạ ngồi đầu bàn bóc hành, vỏ hành rơi thành một đống nhỏ trên tờ báo cũ. Ngoài sân con gà mái cục cục đi tìm chỗ ngủ. Anh viết chữ "bà". Chữ thứ năm. Bút chì vừa chuốt, thơm mùi gỗ.
+>
+> "[[ht: Đưa mạ coi. || Đưa mạ xem.]]"
+>
+> Anh đưa.
+>
+> Mạ nhìn. Mạ không nói gì. Cái không nói gì ấy dài, dài như lúc chờ xe đò mà xe không tới, và cái bụng biết trước cái đầu: chữ hỏng rồi. Cái móc chữ a lại chọc lên dòng trên. Cả buổi rồi, mỏi rụng cả tay, mà cái móc vẫn tự chạy lên như con giun, anh có bảo nó chạy đâu. Sao tay người ta viết được mà tay mình không viết được. Hay là tay mình hỏng. Hay là mình hỏng.
+>
+> "[[ht: Chữ ni là chữ chi? || Chữ này là chữ gì?]]"
+>
+> Anh sợ. Sợ cả người, sợ đến cả hai bàn chân. Anh muốn mạ ôm. Muốn mạ bảo chữ xấu cũng được. Muốn—
+>
+> "[[ht: Nằm xuống. || Nằm xuống.]]"
+
+Cố ý:
+- Đoạn đầu R6, mắt nhìn ra ngoài (đèn, hành, con gà, mùi gỗ). Từ "Mạ nhìn" thế giới tắt, đầu đứa trẻ tràn ra: không cầu nối.
+- Câu người lớn là dấu câu chen giữa các khối; dòng hành động chỉ có "Anh đưa."
+- Thân biết trước ("cái bụng biết trước cái đầu"), dò ngây thơ (*Hay là…*), gọi tên mãnh liệt, cái cần nói trọn, bị cắt bởi câu người lớn.
+- ADHD: cái móc chữ "tự chạy", anh không bảo nó.
+
+**Hai bài đã đăng:** *Sợ*, *Tiếc nuối* phải soát theo mục này (nhịp tiêu cực viết lại sang R10). Chưa sửa; xem §8.
+
 ## 3. Ma trận register theo node × giai đoạn
 
 Mỗi ô: **mặc định** · *được thêm*. Register ngoài ô dùng được nếu ghi ở cột `Register` của tình tiết; **R8, R9 ngoài ô cần tác giả duyệt**. Ô trống: node không có mặt. Ô "chờ" là node của session khác, do session ấy đề xuất.
 
 | Node | MĐ | GĐ1 | GĐ2 | GÃY | HP |
 | --- | --- | --- | --- | --- | --- |
-| `QK.T` | `[sửa 28/10, 14:15]` Chỉ phần né: mảnh vụn, cảm xúc không chủ (`goi-ten-cam-xuc.md` §1a), một câu R9 xóa | **Interlude quãng 1:** R6 gọi tên mãnh liệt + nhân sinh quan (§4a) · *R8* dư chấn · *R9* (cuối *Nhục nhã*). **Interlude quãng 2:** R6 · *R9 bị cắt* | **R6** một dòng · *R8* (vang khuôn câu quãng 1) | **R6** · *R8* `[chốt 28/10]` | **R6** |
+| `QK.T` | `[sửa 28/10, 14:15]` Chỉ phần né: mảnh vụn, cảm xúc không chủ (`goi-ten-cam-xuc.md` §1a), một câu R9 xóa. `[chốt 01/11]` **Ba interlude đại học trước ch.5:** R6 nền · **R9** (khối giọng cái tôi độc) · **R8** (hủy diệt, hệ quả) | **Interlude quãng 1** `[sửa 04/11]`: nhịp bình dị **R6**; nhịp tiêu cực **R10** gọi tên mãnh liệt + nhân sinh quan (§2.6.3, §4a) · *R8* dư chấn · *R9* (cuối *Nhục nhã*). **Interlude quãng 2** `[sửa 04/11]`: **R10** (§2.6.1) · *R6* (mảnh quả ngọt) · *R9 bị cắt* | **R6** một dòng · *R8* (vang khuôn câu quãng 1) | **R6** · *R8* `[chốt 28/10]` | **R6** |
 | `QK.N`, `QK.DA`, `QK.K` | R6 theo giọng POV | chờ | chờ | chờ | chờ |
 | `RM.TN` | R1, R2 | **R1, R2** (ngôn tình, rom-com) | **R2, R3** · nốt lạnh | **R8** (anh định nghĩa Nhi là nguồn tin) · *R9* (đêm buộc tội) `[chốt 28/10]` | R7 → R2 |
 | `RM.TD` | R2 | R2, R4 | R2, R3, R4 | R4 · *R8* | R7 |
@@ -155,7 +324,7 @@ Mỗi ô: **mặc định** · *được thêm*. Register ngoài ô dùng đư�
 | `GD.T` | R6 · *R8* (qua QK.T) | R1 (cuộc gọi tám giờ) | R1 chua · *R9* (giỗ ông, khoe 50 triệu) | **R8** `[chốt 28/10]` | R7 → thoại gọi tên (trị liệu) |
 | `GD.N` | chờ | chờ | chờ | chờ | chờ |
 
-Ô không ghi nhãn là `[chốt 28/10 · ủy quyền]` nếu có R8 hoặc R9, còn lại `[đề xuất]` (gom từ skill và bản đồ văn phong ch.8–38).
+Ô không ghi nhãn là `[chốt 28/10 · ủy quyền]` nếu có R8 hoặc R9, còn lại `[đề xuất]` (gom từ skill và bản đồ văn phong ch.8–38). Ô R10 cho các node khác: §2.6.2.
 
 **Va chạm ở giao điểm:** theo luật thang của cây (`_archive/tuyen/README.md` §3, luật 1). Node giữ nhịp quyết register của nhịp ấy. Một nhịp R8 của TH.LAB không được kéo theo R8 sang nhịp RM.TN liền sau; chuyển bằng `---` (§4).
 
@@ -190,10 +359,18 @@ Mỗi ô: **mặc định** · *được thêm*. Register ngoài ô dùng đư�
 | **R2/R3 → R8** (GĐ2) | Không cầu nối ấm. `---` + mốc giờ. Cái ngọt vừa xong và cái gắt liền sau đặt sát nhau để người đọc thấy hai mặt của cùng một người |
 | **R4 → R8** (GÃY) | R4 gọn dần đến khi chỉ còn sổ; câu cuối của R4 là một con số |
 | **R8 → R7** | Sổ cái hết mục để ghi. Một trang trống, hoặc một dòng không có số |
+| **R6 → R10** (QK.T quãng 1, nhịp tiêu cực) `[chốt 04/11]` | Không cầu nối, không câu dẫn cảm xúc. Một âm thanh hoặc một câu người lớn lật tỷ lệ ngay trong đoạn: mắt đứa trẻ thôi nhìn ra ngoài (§2.6.3) |
+| **R10 → R6** (QK.T quãng 1, về nhịp bình dị) `[chốt 04/11]` | Qua dòng sổ R8 hoặc qua đêm, rồi `---`; mở bằng mùi hoặc ánh sáng ở xa. Câu mở không an ủi |
+| **R10 ↔ R6** (QK.T quãng 2) `[chốt 04/11]` | Ở mảnh quả ngọt: khối nội tâm dừng lại trên một chi tiết giác quan (R6), rồi khối sau đo nó ngay. Không quá một chi tiết giác quan mỗi khối |
+| **R10 → R9 bị cắt** (QK.T quãng 2) | Khối đang dồn thì một câu bộ chịu đựng lọt vào, bị cắt bằng bộ kết quả (TB-12); khối R9 bị lý trí cắt giữa câu, rơi về một dòng hành động |
+| **R10 → R7** (đáy, *Hụt hẫng*) | Đảo tỷ lệ (§2.6 luật 7): dòng hành động dài ra, phẳng, liệt kê; khối nội tâm co lại rồi mất. Không câu báo trước |
+| **R10 → R8** | Không chung nhịp. Ngắt dòng hoặc `---`; R8 không có nội tâm |
 
 ### 4.3 Vang khuôn câu (QK.T → TH.LAB) `[chốt 28/10 · ủy quyền]`
 
 Cách cho thấy đứa trẻ bị bắt nạt thành con quái vật mà người kể không cần nói gì: R8 ở GĐ2 **lặp nguyên khuôn câu** của người lớn quãng 1, giờ phát ra từ miệng hoặc đầu Thuyên.
+
+`[sửa 04/11]` Vang khuôn câu thuộc **khí thải** (sau khi kế hoạch đại bại, nhắm vào người chứng kiến bị xếp nhầm thành mối đe dọa) và **răn** (người yếu sẵn, có điểm dừng). Không thuộc **tên lửa**: tên lửa là lập luận khách quan, gọn, sạch. Thuyên không áp chế người yếu sẵn vô cớ. Ba chế độ: [[FN.thuyen.lang-kinh]] (`_archive/tuyen/qua-khu/thuyen-lang-kinh.md` §3).
 - Khuôn liệt kê tiện nghi + "sướng thế mà còn…".
 - Khuôn đếm + "anh biết là ba, vì anh đếm".
 - "Lì như cục đất", "Văn mà bảy": tối đa một câu gọi lại cho cả GĐ2, đặt ở nấc áp chế cao nhất.
@@ -202,8 +379,8 @@ Mỗi khuôn tối đa ba lần trong cả GĐ2. Lần đầu người đọc nh
 
 ## 5. Liều theo giai đoạn
 
-- `[sửa 28/10, 14:15]` **MĐ:** phần né trước summit: mỗi chương ít nhất ba điểm né, leo thang trong tuần. Liều dưới đây áp cho **interlude quãng 1** (sau summit). R6 nền, gọi tên mãnh liệt. Mỗi chương ít nhất một cảnh đỉnh dựng đủ, tối đa hai đoạn gọi tên dồn (`goi-ten-cam-xuc.md` §4a luật 4, 7). R8 tối đa ba mảnh dư chấn mỗi chương. R9 tối đa một khối mỗi chương, không chương nào cũng có. Mỗi chương vẫn có ít nhất một mảnh ấm thật (Sao Hôm, bánh chưng, cái Casio): tương phản để cú đau rõ, không phải để xoa.
-- **GĐ1:** R1, R2 dẫn (ngôn tình, rom-com); R4 mầm. Interlude quãng 2 của Thuyên: R6 + R9 bị cắt.
+- `[sửa 28/10, 14:15]` **MĐ:** phần né trước summit: mỗi chương ít nhất ba điểm né, leo thang trong tuần. Liều dưới đây áp cho **interlude quãng 1** (sau summit). `[sửa 04/11]` R6 ở nhịp bình dị, R10 ở nhịp tiêu cực (§2.6.3), gọi tên mãnh liệt. Mỗi chương ít nhất một cảnh đỉnh dựng đủ, tối đa hai đoạn gọi tên dồn (`goi-ten-cam-xuc.md` §4a luật 4, 7). R8 tối đa ba mảnh dư chấn mỗi chương. R9 tối đa một khối mỗi chương, không chương nào cũng có. Mỗi chương vẫn có ít nhất một mảnh ấm thật (Sao Hôm, bánh chưng, cái Casio): tương phản để cú đau rõ, không phải để xoa.
+- **GĐ1:** R1, R2 dẫn (ngôn tình, rom-com); R4 mầm. Interlude quãng 2 của Thuyên `[sửa 04/11]`: **R10** nền (§2.6.1) · R6 ở mảnh quả ngọt · R9 bị cắt ở nhịp đi xuống.
 - **GĐ2 nửa đầu:** R2, R3 nhiều; R4 có một tiếng ù nền mỗi chương. R8 bắt đầu ở TH.LAB theo nấc áp chế (mức 1: một câu; mức 2: một mảnh; mức 3: một cảnh).
 - **GĐ2 nửa sau:** R4 dẫn; R8 thành cảnh; R9 rải trong độc thoại; R2, R3 là cảnh thở có nốt lạnh, đặt sát cảnh R8.
 - **GÃY:** R4 nhanh, R8 thống trị; R5 cho interlude Khải; R9 ở đêm buộc tội.
@@ -211,7 +388,7 @@ Mỗi khuôn tối đa ba lần trong cả GĐ2. Lần đầu người đọc nh
 
 ## 6. Mẫu kỹ thuật (không phải chương canon)
 
-Đại từ gọi nhân vật lúc nhỏ theo quy ước của ch.2–6 khi viết thật.
+Đại từ gọi nhân vật lúc nhỏ theo quy ước của ch.2–6 khi viết thật. Mẫu R10: §2.6.
 
 ### 6.1 QK.T, ruột phích và "nhà mi sướng" (R8 → R6 ấm, khung R9)
 
@@ -278,6 +455,8 @@ Cố ý:
 
 Không có nốt ấm sau cảnh này (§4.1 luật 3). Người bị áp chế để trống tên ở mẫu; ai là người ấy chờ tác giả (đề xuất cũ: không phải Thảo).
 
+`[sửa 04/11]` **Mẫu này phải đổi mục đích** ([[FN.thuyen.lang-kinh]]; `_archive/tuyen/qua-khu/thuyen-lang-kinh.md` §3): cậu thực tập sinh không bị áp chế chỉ vì yếu. Chọn một trong hai: **khí thải** (cảnh đứng ngay sau một lần kế hoạch của Thuyên đại bại; người nghe bị xếp nhầm thành mối đe dọa) hoặc **răn** (thấy phần yếu của mình ở cậu ta → mảnh hồi tưởng bật theo §2.5-B → câu răn kiểu *"Mày cứ sống như thế thì mày yếu mãi thôi"* → điểm dừng là một hành động). Session TH chọn.
+
 ### 6.3 Từ phức ở register ngắn `[chốt 10/11]`
 
 Ngắn, phẳng, vỡ là nhịp và cấu trúc câu; từ phức giữ nhịp ấy mà mỗi chữ chở nhiều nghĩa hơn (`01-rules-viet.md`, *Từ phức là đa số*). Mẫu kỹ thuật, không phải canon.
@@ -327,11 +506,16 @@ Vỡ hai lần; thoại là một âm thanh; "như một quyết định đã đ
 - Cảnh đỉnh của QK.T có đi đủ năm lớp của §2.5 không? Ký ức đau có lỡ mang mốc thời gian, ký ức ấm có lỡ thành mảnh vụn không? R9 có đứng trước khi R8 đặt đủ sự việc không (luật đủ)?
 - QK.T quãng 1 (`goi-ten-cam-xuc.md` §4a): cảnh đỉnh có dựng đủ (thời gian tâm lý, lời người lớn nói đủ câu) hay đang tóm? Cảm xúc có được gọi tên mãnh liệt bằng chữ của đứa trẻ không? Có kết luận nhân sinh đúng chặng hiện sinh của tuổi (`CH.thuyen.voice` mục `existential`) không, và có vượt sự việc trên trang không? R8 có đứng sau nhịp gọi tên, như dư chấn, không? Khung hiện tại có khô quá mức so với §1 không?
 - Từ phức (§0.5): lời kể, tự thoại, độc thoại có chuỗi từ một âm tiết kéo dài mà một từ ghép hoặc từ láy chở được nghĩa sâu hơn không? Đã đổi từ mà vẫn giữ nhịp ở R3, R7, R8 chưa? Từ đơn còn lại có phải nhịp cụt, câu chốt, chửi, âm đệm có chủ đích không? Ngoại lệ vẫn đứng: thoại tự nhiên, câu trích, từ vựng Thuyên dùng nguyên văn (*khuyết, sửa, đủ, chấm…*), *bố mẹ*, *sự công nhận*, *nó* ở POV Thuyên.
+- Nhịp R10 (§2.6): có thẻ dẫn "anh nghĩ, anh cảm thấy, anh nhận ra" nào lọt vào không? Tỷ lệ hành động : nội tâm có gần 1 : 5 không? Dòng hành động có tính từ không? Mỗi khối có đi từ A đến B không, cắt câu nào mà khối vẫn đi được? Niềm tin chưa tự soi có bị tuyên bố thay vì nằm trong ngữ pháp không? Người kể có biết hơn nhân vật không? Cái cần của Thuyên có lọt vào khối nội tâm không? Ở nhịp mất, tỷ lệ đã đảo chưa?
+- QK.T quãng 1 (§2.6.3): nhịp bình dị có còn là R6 nhìn ra ngoài không, hay đã lỡ trượt sang nội tâm? Nhịp tiêu cực có lật sang R10 không cầu nối không? Câu người lớn có nói đủ câu và làm cò cho từng khối không? R8 dư chấn có tách bằng `---` không? Giọng khối có đúng tuổi không? Interlude có quá hai cảnh đỉnh R10, và có thiếu mảnh ấm R6 không?
 - Danh sách lặp phải đếm: xem skill `den-vang-van-phong` §5.
 
 ## 8. Còn chờ
 
 - Ô "chờ" của QK.N, QK.DA, QK.K, GD.N; mức R8 có được dùng ở quá khứ Nhi (vụ Thảo, *Đỏ sẫm*) không: session RM hoặc kiến trúc đề xuất.
 - Người bị áp chế ở TH.LAB GĐ2 và ba nấc áp chế cụ thể: session TH.
-- Skill `den-vang-van-phong`, `den-vang-pipeline`, `den-vang-tong-hop-cach-viet` cần cập nhật theo §2.4 (đề xuất qua thẻ lưu skill, 28/10).
+- Skill `den-vang-van-phong`, `den-vang-pipeline`, `den-vang-tong-hop-cach-viet` cần cập nhật theo §2.4 (đề xuất qua thẻ lưu skill, 28/10). `[thêm 04/11]` và theo R10 (§2.6); trong lúc chờ, file này thắng.
 - TB-10 (câu gương) chờ tác giả chọn H7 mở rộng hay H9.
+- `[thêm 04/11]` Ô R10 cho các node ngoài QK.T (§2.6.2): session từng tuyến đề xuất, tác giả duyệt.
+- `[thêm 04/11]` **Soát hai interlude đã đăng theo §2.6.3:** *Sợ* (`content/v2/`, lớp 1–2) và *Tiếc nuối* (lớp 3): đánh dấu nhịp bình dị và nhịp tiêu cực, viết lại nhịp tiêu cực sang R10 ghép §4a. Chưa sửa; chờ tác giả gọi.
+- `[thêm 13/11]` R1–R9 chưa có file `REG.*` trong thư viện; chỉ R10 có ([[REG.noi-tam]]).

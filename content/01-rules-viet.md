@@ -153,7 +153,7 @@ Gốc của giọng này là hệ giá trị của Thuyên (xem `claude/sua-doi/
 
 ### Hình thức
 
-- **Ngắn: một đến ba câu.** Là câu hỏi không có câu trả lời, hoặc một mệnh đề trần. Ý nghĩ trực tiếp thì in nghiêng; ý nghĩ gián tiếp tự do thì hòa vào lời kể. Không độc thoại dài, không triết luận.
+- **Ngắn: một đến ba câu.** Là câu hỏi không có câu trả lời, hoặc một mệnh đề trần. Ý nghĩ trực tiếp thì in nghiêng; ý nghĩ gián tiếp tự do thì hòa vào lời kể. Không độc thoại dài, không triết luận. **Ngoại lệ (chốt 28/10):** khối R9 Đắng (`registers.md` §2.2) được là một khối dài, không xuống dòng. Nó không phải tự thoại hiện sinh: nó hằn học về người khác và về chính mình, không hỏi về giá trị, và chỉ đứng ở ô ma trận cho phép. **Ngoại lệ (chốt 04/11):** khối nội tâm R10 (`registers.md` §2.6) được dài và chiếm phần lớn trang. Nó cũng không phải tự thoại hiện sinh: nó là nội tâm vận động (nghĩ, đo, so, kết luận, lên kế hoạch), và chỉ đứng ở ô ma trận cho phép. Câu hỏi hiện sinh nằm trong khối R10 vẫn theo luật ngắn ở đây.
 - **Dùng thẳng ngôn từ của hệ giá trị, không cần paraphrase.** Hệ giá trị là khung nghĩ của chính Thuyên, nên chữ của nó là chữ của anh. Tự thoại và lời kể nội tâm được dùng nguyên các từ: *khuyết, sửa, sửa xong, đủ, chưa đủ, không bao giờ đủ, cây thước, chấm, kẻ thất bại, phía trước, chạy, đứng yên, lỗi ở đâu, mất ở câu nào*. Ví dụ: *Lại một khuyết. Sửa.*, *Không còn gì để sửa. Thế thì mình là kẻ thất bại.*, *Phải có cái gì ở phía trước.* Nói thẳng ý của hệ giá trị là cách giọng anh vận hành, không phải "gọi tên cảm xúc" hay giải thích động cơ.
 - **Vẫn cấm thuật ngữ tâm lý và triết học** (không phải chữ của anh): "hiện sinh", "vô nghĩa", "trống rỗng hiện sinh", "trầm cảm", "giá trị bản thân", "cầu toàn", "tự ti". Không trích triết gia. Tên bệnh để đến cuối Phần 1.
 - **Từ vựng là thứ anh sống cùng:**
@@ -173,7 +173,7 @@ Gốc của giọng này là hệ giá trị của Thuyên (xem `claude/sua-doi/
   - chương mạch hiện tại: tối đa một đến hai câu;
   - chương quá khứ (2–7): ba đến năm câu, rải theo mảnh.
 
-  Cộng cả câu tự soi về đọc người: không vượt trần đã ghi ở bản rà soát ch.8–38.
+  Cộng cả câu tự soi về đọc người: không vượt trần đã ghi ở bản rà soát ch.8–38. Khối R9 không tính vào trần này; nó có liều riêng (`registers.md` §2.2, §5). Khối nội tâm R10 cũng không tính vào trần này (`registers.md` §2.6); chỉ câu hỏi hiện sinh nằm trong nó mới tính.
 
 ### Đường đi theo giai đoạn
 

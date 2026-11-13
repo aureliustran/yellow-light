@@ -64,6 +64,7 @@ Cập nhật 13/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 - [x] **Gói value của Thuyên** `CH.thuyen.values` (13/11): một hệ, chín tiêu chí (001–007 `agreed`, 008–009 `proposed`); tách phần value khỏi B.thuyen-035, 020, 016 (giữ số); mẹo hai tờ nháp (005) thành `tactics`; B.thuyen-004 vẫn là niềm tin.
 - [x] **Method** `locked 13/11` (tác giả): `tactics` của value tạo ra method (hàm, tư duy đối phó, hành động) cho từng case; hàm `FN` có hai kiểu `innate` và `method`, method trỏ về value (`LAW.check.method-from`); một hành động trong vòng được dựng từ nhiều hàm, ghi ở `calls`. Migrate từ gói niềm tin của Thuyên: 004, 005, 011, 025 thành method trọn (giữ số); 006, 008, 009, 022, 026, 031, 032 tách phần cách đối phó. Năm hàm mới (`hai-to-nhap`, `di-vong`, `hoi-chon-loc`, `vo-cam`, `gat-tinh-thuong`, `proposed`); ba value mới 010–012 (`proposed`).
 - [x] **Bỏ loại `scale`** `locked 13/11` (tác giả): niềm tin và value system mô tả tiến trình nội tâm tốt hơn một thang số. `SCALE.exl`: mối lo và tiến trình thành trường `age` của niềm tin; dạng câu theo tuổi thành mục `existential` của `CH.thuyen.voice` (alias `SCALE.exl`, `EXL`); ba luật viết thành `rules/hien-sinh.md`; bản cũ ở `_archive/core/`. `SCALE.pride`: không tạo file, đọc từ `cai-toi-doc` và `amplified`. `SCALE.rom`: thành mục `nac-thich` của ROM.TN. Bỏ trường `level` của lá và thuộc tính `exl` (SELF.thuyen ghi chặng theo giai đoạn bằng một dòng).
+- [x] **R10 Nội tâm** (tác giả chấp nhận 13/11): bản `chốt 04/11` chỉ có trong Project (`docs/rules/registers.md`), chưa từng vào repo. Đã gộp vào `rules/registers.md` (§0.6, §1, §2.6 với §2.6.1–2.6.3, §3, §4.2, §4.3, §5, §6.2, §7, §8), giữ các sửa 10/11 và 13/11 của repo; kèm các sửa 01/11 cùng bản (quãng 3 đại học của R9, luật chữ tục). Mục thư viện theo khuôn mới: `lib/registers/REG.noi-tam.md` (alias R10). Trỏ R10 ở `goi-ten-cam-xuc.md` (quãng 2, §5, §6) và `01-rules-viet.md` (ngoại lệ R9, R10 của *Tự thoại hiện sinh*); `TEC.interiority.ideal-self` `serves` nay là link.
 
 ## B. Còn mở: cần tác giả quyết
 
@@ -71,7 +72,6 @@ Cập nhật 13/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 
 ### Gốc
 - [ ] **AX9**: đề xuất cũ còn treo.
-- [ ] **R10**: chuyển register sang khuôn mới.
 
 ### Nhân vật, bí mật
 - [ ] **Q-001**: họ của Nhi và Khải.
@@ -92,6 +92,7 @@ Cập nhật 13/11/2026. `[x]` đã giải quyết (cách giải quyết, commit
 
 ## C. Còn mở: Claude làm khi tác giả bảo
 
+- [ ] **Register còn lại**: R1–R9 chưa có file `REG.*`; ô R10 cho tuyến ngoài QK.T (§2.6.2) chờ duyệt; soát *Sợ*, *Tiếc nuối* theo §2.6.3; hai chỗ `01-rules-viet.md` (*Nguyên tắc chung*, *Nhịp kể*) mà bản 04/11 nói đã trỏ về R10 nhưng repo chưa có câu chữ.
 - [ ] **Value system, việc còn lại**: `rank` của Thuyên; duyệt V.thuyen-008…012 và thân năm hàm method mới (`proposed`); xếp kiểu cho thieu, phuong-trinh, cai-toi, nhien-lieu; tách tên lửa, khí thải, răn khỏi lang-kinh; xếp kiểu hàm của Nhi, Vũ; phần khẳng định riêng của B.thuyen-020; điền `design` và `formed` cho từng niềm tin (làm cùng lúc viết lại PAST); gói value cho Nhi, Vũ; view `axis-trace` (trục → niềm tin → value → node tiêu thụ).
 - [ ] **Viết lại PAST** (13/11: bỏ PAST hiện tại, viết lại theo mục tiêu "PAST dựng niềm tin để nhân vật dùng ở hiện tại"). Ghi chú cũ cho PAST.T: rà TB-16 / DV-016, DV-009, PAST.T-006 theo việc bỏ phương trình; (tác giả sẽ viết lại): thêm lá theo bảng `handoffs` của FAM.T; gọn 987 dòng văn bản chuyển nguyên.
 - [ ] **FAM.T**: tạo hai lá hiện tại (cuộc gọi bốn phút mười hai giây, áo sơ mi trắng); P1 → AFTER (giỗ ông và lời khoe 50 triệu, chiến tranh lạnh, trị liệu gia đình) chưa có nguồn.

@@ -2,9 +2,9 @@
 id: TEC.interiority.ideal-self
 kind: technique
 status: proposed
-updated: 2026-11-10
+updated: 2026-11-13
 aspect: interiority
-serves: [REG.R10]
+serves: ["[[REG.noi-tam]]"]
 applies-to: POV [[CH.thuyen]]
 effective: OPEN → BREAK
 check: human
@@ -14,7 +14,7 @@ sources:
 ---
 # TEC.interiority.ideal-self · Phiên bản lý tưởng lóe trong khối nội tâm
 
-Đưa lực kéo ([[CH.thuyen.beliefs#B.thuyen-034]]) lên trang qua lời người kể. Phục vụ register R10 (khối nội tâm, `rules/registers.md` §2.6); `serves` thành link khi registers chuyển ở B4. Mô hình `locked 10/11`; kỹ thuật `proposed`.
+Đưa lực kéo ([[CH.thuyen.beliefs#B.thuyen-034]]) lên trang qua lời người kể. Phục vụ register R10 ([[REG.noi-tam]], khối nội tâm, `rules/registers.md` §2.6; chuyển vào repo 13/11). Mô hình `locked 10/11`; kỹ thuật `proposed`.
 
 ## steps
 

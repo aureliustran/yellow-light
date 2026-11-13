@@ -74,7 +74,9 @@ Khi một cảnh có cả nhịp được gọi tên và nhịp R8, chuyển b�
 8. **Giữ:** người kể không bao giờ nói mạ thương ai hơn. Đứa trẻ kết luận bằng phép đo của cái cân (thước, vạch, khuyết chưa sửa), không bằng câu so sánh tình thương của mẹ. Sửa 11/11: bỏ phương trình *giỏi thì được thương*.
 9. **An toàn, không đổi:** Thuyên dưới 18 trong quãng 1–2. Gọi tên cảm xúc không kéo theo chi tiết cơ thể nhạy cảm. Cảnh đòn giữ khoảng cách, không tả vết, không máu. Khuôn tràn chỉ dùng cấu trúc và chi tiết của chính cơn khóc (registers §2.5, ranh cứng).
 
-**Quãng 2 (interlude cấp 3) và quãng 3 (đại học)** `[đề xuất]`: theo §1 (điều kiện) và §2 (giới hạn "chưa tự nhận"); interlude quãng 2 giữ cú cắt TB-12 (câu bộ chịu đựng bị cắt bằng bộ kết quả), và tên interlude vẫn là phần bị cắt.
+**Quãng 2 (interlude cấp 3)** `[chốt 04/11]`: register nền là **R10 Nội tâm** (`registers.md` §2.6, §2.6.1; [[REG.noi-tam]]). Người kể nói thẳng cảm xúc, suy nghĩ của anh; hành động ít, nhanh, dứt khoát; nội tâm là phần nhiều. Điều kiện §1 và hai giới hạn §2 giữ. Cú cắt TB-12 (câu bộ chịu đựng bị cắt bằng bộ kết quả) ở nhịp đi xuống; tên interlude vẫn là phần bị cắt. Cái cần (được ôm, được nghe) không vào khối nội tâm, chỉ hiện qua hành vi (`_archive/tuyen/qua-khu/thuyen.md` §6.9 D; cụm C7 của [[CH.thuyen.beliefs]]).
+
+**Quãng 3 (đại học)** `[đề xuất]`: theo §1 (điều kiện) và §2 (giới hạn "chưa tự nhận"); ba interlude đại học trước ch.5 theo `registers.md` §2.2 (chốt 01/11).
 
 **Mẫu** (cảnh luật khóc, lớp 1, bản thử; đại từ theo quy ước ch.2–6):
 
@@ -100,14 +102,14 @@ Khi một cảnh có cả nhịp được gọi tên và nhịp R8, chuyển b�
 
 - **Phủ định của chính anh** ("Không buồn.") vẫn là hành vi gạt đi trong gián tiếp tự do. Nay nó đứng được cạnh một lần gọi tên thật ở cảnh khác, và người đọc thấy chỗ anh nói dối. Ở QK.T lớp 6–9, đây là dạng chính của đường mất lời (§4a luật 6).
 - **Chuỗi thay cho tên gọi** (hành vi → đoán nguyên nhân → xử lý → dấu vết) vẫn là công cụ, dùng khi không có điều kiện nào ở §1, hoặc ở các chỗ của §4.
-- **POV khác Thuyên:** giữ nguyên luật cũ.
+- **POV khác Thuyên:** giữ nguyên luật cũ. R10 dùng cho POV khác thì theo giọng riêng của POV ấy (`registers.md` §2.6 luật 4, §2.6.2).
 
 ## 6. Cần sửa theo
 
 | File | Chỗ |
 | --- | --- |
 | `01-rules-viet.md` | *Cảm xúc chuyển dạng, không gọi tên*: câu luật đầu mục; dòng *Hồi phục* của bảng chuyển dạng ("lời kể vẫn không gọi tên"); dòng đầu của *Ranh với các luật khác*. Đã thêm dòng trỏ sang file này. Bảng chuyển dạng theo tuổi nay quy định *dạng* của cảm xúc (cả người, dồn một chỗ, một cử động nhỏ), không quy định có gọi tên hay không |
-| `rules/registers.md` | Đã sửa 28/10: dòng phân việc, §0.3, §2.1, §2.5, §3, §5, §7 |
+| `rules/registers.md` | Đã sửa 28/10: dòng phân việc, §0.3, §2.1, §2.5, §3, §5, §7. Đã sửa 04/11 (vào repo 13/11): R10 Nội tâm (§0.6, §1, §2.6, §3, §4.2, §5, §7, §8); 13:52: §2.6.3 nhịp tiêu cực quãng 1 |
 | `_archive/tuyen/qua-khu/thuyen.md`, `thuyen-co-may.md` | Đã sửa 28/10: luật sợi gối, luật riêng QK.T, câu dẫn §5 TB |
 | `de-xuat/qk-t-plan-viet-lai-quang-1-v2.md` | Plan v3 viết theo §4a |
 | `de-xuat/rm-handoff.md` §5 | Đề xuất 1 (POV), 2 (ngôn tình chỉ qua thoại) bị thay; câu B đã trả lời |
